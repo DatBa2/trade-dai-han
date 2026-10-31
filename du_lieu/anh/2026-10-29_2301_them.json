@@ -1,0 +1,87 @@
+{
+ "luc_vn": "29/10 23:01",
+ "funding": {
+  "hien_tai_%": 0.0097,
+  "9_ky_gan_%": [
+   0.0096,
+   0.0034,
+   0.01,
+   0.0066,
+   0.01,
+   0.01,
+   0.01,
+   0.01,
+   0.01
+  ]
+ },
+ "open_interest": {
+  "oi_usd_ty": 3.51,
+  "doi_24h_%": 1.67,
+  "doi_4h_%": -1.06
+ },
+ "long_short_tai_khoan": {
+  "hien_tai": 1.77,
+  "24h_truoc": 2.05
+ },
+ "taker": {
+  "mua/ban_4h": 1.065,
+  "mua/ban_24h": 1.01
+ },
+ "thanh_ly_gan_day": {
+  "so_lenh": 100,
+  "tu": "29/10 22:35",
+  "long_bi_thanh_ly_btc": 0,
+  "short_bi_thanh_ly_btc": 9.41
+ },
+ "tuong_lenh_perp": {
+  "gia_giua": 81757,
+  "tuong_mua(bậc, BTC)": [
+   [
+    81500,
+    200.7
+   ],
+   [
+    81750,
+    21.0
+   ]
+  ],
+  "tuong_ban(bậc, BTC)": [
+   [
+    81750,
+    246.5
+   ]
+  ]
+ },
+ "eth": {
+  "ETH-USDT": {
+   "gia": 2368.37,
+   "24h_%": 0.36
+  },
+  "ETH-BTC": {
+   "gia": 0.02897,
+   "24h_%": -0.17
+  }
+ },
+ "vi_mo": {
+  "vang": {
+   "gia": 4033.6,
+   "so_phien_truoc_%": -0.12
+  },
+  "DXY": {
+   "gia": 102.02,
+   "so_phien_truoc_%": 0.05
+  },
+  "SP500": {
+   "gia": 7725.15,
+   "so_phien_truoc_%": 0.81
+  },
+  "Nasdaq": {
+   "gia": 26254.17,
+   "so_phien_truoc_%": 0.94
+  },
+  "dau_WTI": {
+   "gia": 100.6,
+   "so_phien_truoc_%": -1.14
+  }
+ }
+}

@@ -1,0 +1,102 @@
+su_kien,ngay_gio_et,ngay_gio_vn,ky,nguon_url,ghi_chu
+JOLTS,2026-01-07 10:00,2026-01-07 22:00,Th11/2025,https://www.bls.gov/schedule/2026/01_sched.htm,
+NFP,2026-01-09 08:30,2026-01-09 20:30,Th12/2025,https://www.bls.gov/schedule/2026/01_sched.htm,
+CPI,2026-01-13 08:30,2026-01-13 20:30,Th12/2025,https://www.bls.gov/schedule/2026/01_sched.htm,
+PPI,2026-01-14 08:30,2026-01-14 20:30,Th11/2025,https://www.bls.gov/schedule/2026/01_sched.htm,
+GDP,2026-01-22 08:30,2026-01-22 20:30,Q3/2025,https://www.bea.gov/news/schedule/full,GDP (Updated Estimate)
+PCE,2026-01-22 10:00,2026-01-22 22:00,Th10-11/2025,https://www.bea.gov/news/schedule/full,Personal Income and Outlays (gom PCE)
+FOMC,2026-01-28 14:00,2026-01-29 02:00,Hop 27-28/01,https://www.federalreserve.gov/newsevents/pressreleases/monetary20260128a.htm,Quyet dinh lai suat 14:00 ET
+khac,2026-01-28 14:30,2026-01-29 02:30,Hop bao FOMC 27-28/01,https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm,Hop bao Chu tich Fed 14:30 ET
+PPI,2026-01-30 08:30,2026-01-30 20:30,Th12/2025,https://www.bls.gov/schedule/2026/01_sched.htm,
+JOLTS,2026-02-05 10:00,2026-02-05 22:00,Th12/2025,https://www.bls.gov/schedule/2026/02_sched.htm,
+khac,2026-02-10 08:30,2026-02-10 20:30,Q4/2025,https://www.bls.gov/schedule/2026/02_sched.htm,Employment Cost Index
+NFP,2026-02-11 08:30,2026-02-11 20:30,Th1/2026,https://www.bls.gov/schedule/2026/02_sched.htm,
+CPI,2026-02-13 08:30,2026-02-13 20:30,Th1/2026,https://www.bls.gov/schedule/2026/02_sched.htm,
+khac,2026-02-18 14:00,2026-02-19 02:00,Bien ban FOMC 27-28/01,https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm,Ngay cong bo theo trang Fed; gio 14:00 ET theo thong le (chua xac minh)
+GDP,2026-02-20 08:30,2026-02-20 20:30,Q4/2025,https://www.bea.gov/news/schedule/full,GDP Advance Estimate
+PCE,2026-02-20 08:30,2026-02-20 20:30,Th12/2025,https://www.bea.gov/news/schedule/full,Personal Income and Outlays (gom PCE)
+PPI,2026-02-27 08:30,2026-02-27 20:30,Th1/2026,https://www.bls.gov/schedule/2026/02_sched.htm,
+NFP,2026-03-06 08:30,2026-03-06 20:30,Th2/2026,https://www.bls.gov/schedule/2026/03_sched.htm,
+CPI,2026-03-11 08:30,2026-03-11 19:30,Th2/2026,https://www.bls.gov/schedule/2026/03_sched.htm,
+GDP,2026-03-13 08:30,2026-03-13 19:30,Q4/2025,https://www.bea.gov/news/schedule/full,GDP Second Estimate
+PCE,2026-03-13 08:30,2026-03-13 19:30,Th1/2026,https://www.bea.gov/news/schedule/full,Personal Income and Outlays (gom PCE)
+JOLTS,2026-03-13 10:00,2026-03-13 21:00,Th1/2026,https://www.bls.gov/schedule/2026/03_sched.htm,
+PPI,2026-03-18 08:30,2026-03-18 19:30,Th2/2026,https://www.bls.gov/schedule/2026/03_sched.htm,
+FOMC,2026-03-18 14:00,2026-03-19 01:00,Hop 17-18/03,https://www.federalreserve.gov/newsevents/pressreleases/monetary20260318a.htm,Quyet dinh lai suat 14:00 ET (kem SEP/dot plot)
+khac,2026-03-18 14:30,2026-03-19 01:30,Hop bao FOMC 17-18/03,https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm,Hop bao Chu tich Fed 14:30 ET
+JOLTS,2026-03-31 10:00,2026-03-31 21:00,Th2/2026,https://www.bls.gov/schedule/2026/03_sched.htm,
+NFP,2026-04-03 08:30,2026-04-03 19:30,Th3/2026,https://www.bls.gov/schedule/2026/04_sched.htm,
+khac,2026-04-08 14:00,2026-04-09 01:00,Bien ban FOMC 17-18/03,https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm,Ngay cong bo theo trang Fed; gio 14:00 ET theo thong le (chua xac minh)
+GDP,2026-04-09 08:30,2026-04-09 19:30,Q4/2025,https://www.bea.gov/news/schedule/full,GDP Third Estimate
+PCE,2026-04-09 08:30,2026-04-09 19:30,Th2/2026,https://www.bea.gov/news/schedule/full,Personal Income and Outlays (gom PCE)
+CPI,2026-04-10 08:30,2026-04-10 19:30,Th3/2026,https://www.bls.gov/schedule/2026/04_sched.htm,
+PPI,2026-04-14 08:30,2026-04-14 19:30,Th3/2026,https://www.bls.gov/schedule/2026/04_sched.htm,
+FOMC,2026-04-29 14:00,2026-04-30 01:00,Hop 28-29/04,https://www.federalreserve.gov/newsevents/pressreleases/monetary20260429a.htm,Quyet dinh lai suat 14:00 ET
+khac,2026-04-29 14:30,2026-04-30 01:30,Hop bao FOMC 28-29/04,https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm,Hop bao Chu tich Fed 14:30 ET
+GDP,2026-04-30 08:30,2026-04-30 19:30,Q1/2026,https://www.bea.gov/news/schedule/full,GDP Advance Estimate
+PCE,2026-04-30 08:30,2026-04-30 19:30,Th3/2026,https://www.bea.gov/news/schedule/full,Personal Income and Outlays (gom PCE)
+khac,2026-04-30 08:30,2026-04-30 19:30,Q1/2026,https://www.bls.gov/schedule/2026/04_sched.htm,Employment Cost Index
+JOLTS,2026-05-05 10:00,2026-05-05 21:00,Th3/2026,https://www.bls.gov/schedule/2026/05_sched.htm,
+NFP,2026-05-08 08:30,2026-05-08 19:30,Th4/2026,https://www.bls.gov/schedule/2026/05_sched.htm,
+CPI,2026-05-12 08:30,2026-05-12 19:30,Th4/2026,https://www.bls.gov/schedule/2026/05_sched.htm,
+PPI,2026-05-13 08:30,2026-05-13 19:30,Th4/2026,https://www.bls.gov/schedule/2026/05_sched.htm,
+khac,2026-05-20 14:00,2026-05-21 01:00,Bien ban FOMC 28-29/04,https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm,Ngay cong bo theo trang Fed; gio 14:00 ET theo thong le (chua xac minh)
+GDP,2026-05-28 08:30,2026-05-28 19:30,Q1/2026,https://www.bea.gov/news/schedule/full,GDP Second Estimate
+PCE,2026-05-28 08:30,2026-05-28 19:30,Th4/2026,https://www.bea.gov/news/schedule/full,Personal Income and Outlays (gom PCE)
+JOLTS,2026-06-02 10:00,2026-06-02 21:00,Th4/2026,https://www.bls.gov/schedule/2026/06_sched.htm,
+NFP,2026-06-05 08:30,2026-06-05 19:30,Th5/2026,https://www.bls.gov/schedule/2026/06_sched.htm,
+CPI,2026-06-10 08:30,2026-06-10 19:30,Th5/2026,https://www.bls.gov/schedule/2026/06_sched.htm,
+PPI,2026-06-11 08:30,2026-06-11 19:30,Th5/2026,https://www.bls.gov/schedule/2026/06_sched.htm,
+FOMC,2026-06-17 14:00,2026-06-18 01:00,Hop 16-17/06,https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617a.htm,Quyet dinh lai suat 14:00 ET (kem SEP/dot plot)
+khac,2026-06-17 14:30,2026-06-18 01:30,Hop bao FOMC 16-17/06,https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm,Hop bao Chu tich Fed 14:30 ET
+GDP,2026-06-25 08:30,2026-06-25 19:30,Q1/2026,https://www.bea.gov/news/schedule/full,GDP Third Estimate
+PCE,2026-06-25 08:30,2026-06-25 19:30,Th5/2026,https://www.bea.gov/news/schedule/full,Personal Income and Outlays (gom PCE)
+JOLTS,2026-06-30 10:00,2026-06-30 21:00,Th5/2026,https://www.bls.gov/schedule/2026/06_sched.htm,
+NFP,2026-07-02 08:30,2026-07-02 19:30,Th6/2026,https://www.bls.gov/schedule/2026/07_sched.htm,
+khac,2026-07-08 14:00,2026-07-09 01:00,Bien ban FOMC 16-17/06,https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm,Ngay cong bo theo trang Fed; gio 14:00 ET theo thong le (chua xac minh)
+CPI,2026-07-14 08:30,2026-07-14 19:30,Th6/2026,https://www.bls.gov/schedule/2026/07_sched.htm,
+PPI,2026-07-15 08:30,2026-07-15 19:30,Th6/2026,https://www.bls.gov/schedule/2026/07_sched.htm,
+FOMC,2026-07-29 14:00,2026-07-30 01:00,Hop 28-29/07,https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm,Quyet dinh lai suat 14:00 ET
+khac,2026-07-29 14:30,2026-07-30 01:30,Hop bao FOMC 28-29/07,https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm,Hop bao Chu tich Fed 14:30 ET
+GDP,2026-07-30 08:30,2026-07-30 19:30,Q2/2026,https://www.bea.gov/news/schedule/full,GDP Advance Estimate
+PCE,2026-07-30 08:30,2026-07-30 19:30,Th6/2026,https://www.bea.gov/news/schedule/full,Personal Income and Outlays (gom PCE)
+khac,2026-07-31 08:30,2026-07-31 19:30,Q2/2026,https://www.bls.gov/schedule/2026/07_sched.htm,Employment Cost Index
+JOLTS,2026-08-04 10:00,2026-08-04 21:00,Th6/2026,https://www.bls.gov/schedule/2026/08_sched.htm,
+NFP,2026-08-07 08:30,2026-08-07 19:30,Th7/2026,https://www.bls.gov/schedule/2026/08_sched.htm,
+CPI,2026-08-12 08:30,2026-08-12 19:30,Th7/2026,https://www.bls.gov/schedule/2026/08_sched.htm,
+PPI,2026-08-13 08:30,2026-08-13 19:30,Th7/2026,https://www.bls.gov/schedule/2026/08_sched.htm,
+khac,2026-08-19 14:00,2026-08-20 01:00,Bien ban FOMC 28-29/07,https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm,Ngay cong bo theo trang Fed; gio 14:00 ET theo thong le (chua xac minh)
+GDP,2026-08-26 08:30,2026-08-26 19:30,Q2/2026,https://www.bea.gov/news/schedule/full,GDP Second Estimate
+PCE,2026-08-26 08:30,2026-08-26 19:30,Th7/2026,https://www.bea.gov/news/schedule/full,Personal Income and Outlays (gom PCE)
+JOLTS,2026-09-01 10:00,2026-09-01 21:00,Th7/2026,https://www.bls.gov/schedule/2026/09_sched.htm,
+NFP,2026-09-04 08:30,2026-09-04 19:30,Th8/2026,https://www.bls.gov/schedule/2026/09_sched.htm,
+PPI,2026-09-10 08:30,2026-09-10 19:30,Th8/2026,https://www.bls.gov/schedule/2026/09_sched.htm,
+CPI,2026-09-11 08:30,2026-09-11 19:30,Th8/2026,https://www.bls.gov/schedule/2026/09_sched.htm,
+FOMC,2026-09-16 14:00,2026-09-17 01:00,Hop 15-16/09,https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm,Quyet dinh lai suat 14:00 ET (kem SEP/dot plot)
+khac,2026-09-16 14:30,2026-09-17 01:30,Hop bao FOMC 15-16/09,https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm,Hop bao Chu tich Fed 14:30 ET
+JOLTS,2026-09-29 10:00,2026-09-29 21:00,Th8/2026,https://www.bls.gov/schedule/2026/09_sched.htm,
+GDP,2026-09-30 08:30,2026-09-30 19:30,Q2/2026,https://www.bea.gov/news/schedule/full,GDP Third Estimate
+PCE,2026-09-30 08:30,2026-09-30 19:30,Th8/2026,https://www.bea.gov/news/schedule/full,Personal Income and Outlays (gom PCE)
+NFP,2026-10-02 08:30,2026-10-02 19:30,Th9/2026,https://www.bls.gov/schedule/2026/10_sched.htm,
+khac,2026-10-07 14:00,2026-10-08 01:00,Bien ban FOMC 15-16/09,https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm,Ngay cong bo theo trang Fed; gio 14:00 ET theo thong le (chua xac minh)
+CPI,2026-10-14 08:30,2026-10-14 19:30,Th9/2026,https://www.bls.gov/schedule/2026/10_sched.htm,
+PPI,2026-10-15 08:30,2026-10-15 19:30,Th9/2026,https://www.bls.gov/schedule/2026/10_sched.htm,
+FOMC,2026-10-28 14:00,2026-10-29 01:00,Hop 27-28/10,https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm,Quyet dinh lai suat 14:00 ET
+khac,2026-10-28 14:30,2026-10-29 01:30,Hop bao FOMC 27-28/10,https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm,Hop bao Chu tich Fed 14:30 ET
+GDP,2026-10-29 08:30,2026-10-29 19:30,Q3/2026,https://www.bea.gov/news/schedule/full,GDP Advance Estimate
+PCE,2026-10-29 08:30,2026-10-29 19:30,Th9/2026,https://www.bea.gov/news/schedule/full,Personal Income and Outlays (gom PCE)
+khac,2026-10-30 08:30,2026-10-30 19:30,Q3/2026,https://www.bls.gov/schedule/2026/10_sched.htm,Employment Cost Index
+JOLTS,2026-11-03 10:00,2026-11-03 22:00,Th9/2026,https://www.bls.gov/schedule/2026/11_sched.htm,
+NFP,2026-11-06 08:30,2026-11-06 20:30,Th10/2026,https://www.bls.gov/schedule/2026/11_sched.htm,
+CPI,2026-11-10 08:30,2026-11-10 20:30,Th10/2026,https://www.bls.gov/schedule/2026/11_sched.htm,
+PPI,2026-11-13 08:30,2026-11-13 20:30,Th10/2026,https://www.bls.gov/schedule/2026/11_sched.htm,
+GDP,2026-11-25 08:30,2026-11-25 20:30,Q3/2026,https://www.bea.gov/news/schedule/full,GDP Second Estimate
+PCE,2026-11-25 08:30,2026-11-25 20:30,Th10/2026,https://www.bea.gov/news/schedule/full,Personal Income and Outlays (gom PCE)
+JOLTS,2026-12-01 10:00,2026-12-01 22:00,Th10/2026,https://www.bls.gov/schedule/2026/12_sched.htm,
+NFP,2026-12-04 08:30,2026-12-04 20:30,Th11/2026,https://www.bls.gov/schedule/2026/12_sched.htm,
+FOMC,2026-12-09 14:00,2026-12-10 02:00,Hop 8-9/12,https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm,Quyet dinh lai suat 14:00 ET (kem SEP/dot plot)
+khac,2026-12-09 14:30,2026-12-10 02:30,Hop bao FOMC 8-9/12,https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm,Hop bao Chu tich Fed 14:30 ET
+CPI,2026-12-10 08:30,2026-12-10 20:30,Th11/2026,https://www.bls.gov/schedule/2026/12_sched.htm,
+PPI,2026-12-15 08:30,2026-12-15 20:30,Th11/2026,https://www.bls.gov/schedule/2026/12_sched.htm,
+GDP,2026-12-23 08:30,2026-12-23 20:30,Q3/2026,https://www.bea.gov/news/schedule/full,GDP Third Estimate
+PCE,2026-12-23 08:30,2026-12-23 20:30,Th11/2026,https://www.bea.gov/news/schedule/full,Personal Income and Outlays (gom PCE)

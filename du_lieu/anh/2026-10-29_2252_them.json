@@ -1,0 +1,80 @@
+{
+ "luc_vn": "29/10 22:52",
+ "funding": {
+  "hien_tai_%": 0.0097,
+  "9_ky_gan_%": [
+   0.0034,
+   0.01,
+   0.0066,
+   0.01,
+   0.01,
+   0.01,
+   0.01,
+   0.01,
+   0.01
+  ]
+ },
+ "open_interest": {
+  "oi_usd_ty": 3.51,
+  "doi_24h_%": 1.67,
+  "doi_4h_%": -1.06
+ },
+ "long_short_tai_khoan": {
+  "hien_tai": 1.78,
+  "24h_truoc": 2.05
+ },
+ "taker": "lỗi: HTTP Error 400: Bad Request",
+ "thanh_ly_gan_day": {
+  "so_lenh": 100,
+  "tu": "29/10 22:33",
+  "long_bi_thanh_ly_btc": 0,
+  "short_bi_thanh_ly_btc": 9.7
+ },
+ "tuong_lenh_perp": {
+  "gia_giua": 81648,
+  "tuong_mua(bậc, BTC)": [
+   [
+    81500,
+    228.4
+   ]
+  ],
+  "tuong_ban(bậc, BTC)": [
+   [
+    81500,
+    277.6
+   ]
+  ]
+ },
+ "eth": {
+  "ETH-USDT": {
+   "gia": 2365.63,
+   "24h_%": 0.24
+  },
+  "ETH-BTC": {
+   "gia": 0.02895,
+   "24h_%": -0.24
+  }
+ },
+ "vi_mo": {
+  "vang": {
+   "gia": 4037.7,
+   "so_phien_truoc_%": -0.02
+  },
+  "DXY": {
+   "gia": 101.99,
+   "so_phien_truoc_%": 0.03
+  },
+  "SP500": {
+   "gia": 7715.6,
+   "so_phien_truoc_%": 0.68
+  },
+  "Nasdaq": {
+   "gia": 26209.35,
+   "so_phien_truoc_%": 0.77
+  },
+  "dau_WTI": {
+   "gia": 100.41,
+   "so_phien_truoc_%": -1.33
+  }
+ }
+}
