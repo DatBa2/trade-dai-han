@@ -1,0 +1,739 @@
+[ho] [hắng giọng] Ừm. [khịt mũi] Ok, chào mọi người nha.
+Ok, rồi.
+Nãy [hắng giọng][khịt mũi] giờ mình tắt mà, bây giờ mới bật lên lại.
+Anh em ấn nút like nhá.
+Bit [khịt mũi] thì nó vẫn đang trụ cái đoạn này, xem thử thế nào.
+Xem thử là có nên a giữ tiếp cái lệnh short hay là té cho nó an toàn. Ủa, hình như chưa bắt đầu á? Ờ, được rồi mà.
+Kiểm tra xem nào. [khịt mũi] Các bạn được chưa?
+Ok chưa?
+Nghe được hết chưa nào?
+Check check giúp mình cái.
+Ok, chào mọi người, chào bạn Thanh. [khịt mũi] Đoạn này thì nó vẫn đang cố trụ cái vùng này nhỉ.
+Thủng fibo rồi mà.
+Không a gãy luôn đi cho nó lẹ.
+Xu hướng thì gãy là rõ nhưng mà bởi vì cái phe short này nó đang nó đang cố thủ mạnh quá. [hắng giọng] [khịt mũi] Đây, ờ khối lượng đỏ nó vẫn còn.
+Thế nên là cái đoạn này thì chắc là nó sẽ nếu mà nó phóng lên khỏi cái đoạn này thì mình đoán là chắc sẽ lên đâu đó khoảng tầm 64.600.
+Hả?
+Nếu mà ở đây nó vút lên kill hết cái đám short này thì sẽ phải lên khoảng tầm 64.600 nhưng mà liệu rằng có lên được hay không?
+Hơi khó. 63.800 không là cũng đã tắt thở rồi. [khịt mũi] Sau cái tin ngày hôm qua là một tin xấu cho nên là chúng ta đang thấy là thị trường nó đang phản ứng rất là đúng theo cái kịch bản mà mình đã nói với mọi người.
+Hả? Ờ đó là một cái tin a đêm ngày hôm qua thì chúng ta cũng đã cập nhật những cái a liên quan đến tin tức rồi.
+Thì dành cho những anh em nào mà chưa không có tham gia vào cái a [khịt mũi] ờ buổi zoom tối ngày hôm qua thì mình nói lại một xíu về cái phần tin tức nhá.
+Hôm qua chúng ta đã có một cái tin gần như là quan trọng nhất của cái thị trường trong tuần này.
+Trong tuần này đó là cái tin liên quan đến CPI.
+Thì tối nay chúng ta sẽ có tin PPI vào lúc 7:30 nữa.
+Tất nhiên là với một cái tình hình mà thị trường nó cứ nhập nhều như thế này cái tin CPI tối ngày hôm qua là một tin không tốt.
+Nhiều người đánh giá tin này tốt nhưng mà cá nhân mình đánh giá là không tốt.
+Thì lý do vì sao hôm qua mình cũng giải thích rồi.
+Về đại ý là mọi người sẽ hiểu là cái CPI này á nó chỉ tốt ở về mặt hình thức.
+Tức là 2.5% này so với đợt trước là 2.6% và 3.4% so với đợt trước là 3.5% thì nhìn vào đây chúng ta có thể thấy là à nó giảm, CPI nó giảm là thì cứ nghĩ là nó tốt.
+Nhưng mà chúng ta phải hiểu là mỗi cái tháng đi qua thì vì sao cái chỉ số CPI này chúng ta lại hay quan tâm?
+Bởi vì nó sẽ phản ánh cái mức độ lạm phát của thị trường Mỹ theo từng tháng, theo từng cái cái cái cái cột mốc thời gian gọi là real time, thời gian thật.
+Thì đối với tháng này chúng ta lại thấy cái core CPI của tháng trên tháng này, M trên M tức có nghĩa là tháng trên tháng này là 0.2.
+Core CPI là CPI lõi.
+Nó lại cao hơn so với đợt trước là 0%, tức là nó tăng lên 0.2% và cái CPI của tháng trên tháng không tính cái core này thì nó lại 0.1% so với đợt trước là còn âm 0.4.
+Thì cái số đợt trước rất là đẹp.
+Thì đợt này nó sẽ là xấu hơn cái tháng trước.
+Mà anh em biết tháng trước là cái Fed CPI này nó đẹp như cỡ đó mà Fed nó còn dọa là tăng lãi suất.
+Nhưng mà sau đó kết quả thì nó không có tăng mà nó giữ nguyên.
+Nhưng mà tất nhiên là nó không có giảm.
+Thì cái đợt này mà cái CPI của tháng này nó tăng lên thì cái đợt CPI tháng 9 và lãi suất tháng 9 nó sẽ càng rủi ro.
+Đó, đó là cái tâm lý của thị trường hiện tại.
+Cho nên vì sao cái CPI này mình đánh giá là phản ánh cái chỉ số nó không tốt.
+Mặc dù cái CPI của năm thì nó có giảm hơn một xíu, nhưng mà cái này không quan trọng.
+Đó.
+Fed nó sẽ nhìn vào cái con số của tháng này để nó đánh giá xem thử là tháng này so với tháng trước nó có có tốt hơn không?
+Nhưng mà ở đây là không tốt hơn so với cùng kỳ đợt trước, cùng kỳ tháng trước.
+Thì đó là giải thích cho mọi người về cái số CPI này.
+Đấy.
+Tối nay chúng ta sẽ có PPI nữa.
+Còn CPI là gì, PPI là gì thì anh em vui lòng Google thêm.
+Chứ ở trong cái nội dung livestream thì mình cũng không có đủ thời gian để mà giải thích từng cái chỉ số này.
+Đấy.
+Với lại lúc này anh em nghe thì bữa sau lại có một số anh em khác không có hiểu, mọi người lại hỏi tiếp.
+Thì những cái này nó rất là cơ bản.
+Và khi mọi người trade đặc biệt là anh em nào mà gọi là trading trader đánh theo ngày, gọi là day trading thì đánh theo ngày thì bắt buộc phải nắm những cái chỉ số này.
+Ít nhất là hiểu à đây là chỉ số gì và nó tác động như thế nào.
+Nếu chỉ số này nó cao, cao hơn tháng trước thì sao, nó cao hơn dự báo thì sao, thấp thì sao?
+Ít nhất những cái đó anh em phải hiểu.
+Không cần phải phải biết đến cái mức độ gọi là kinh tế vĩ mô nó tổng quát quá thì cũng không cần.
+Nhưng mọi người phải phải hiểu được là à cái chỉ số này nó như thế nào.
+Nhá.
+Nó là cái gì.
+Đó.
+Là ok.
+Thì tối nay chúng ta sẽ có cái tin PPI, nó cũng quan trọng nhá.
+Thị trường nó đi như này thì bây giờ nó chỉ lợi dụng những cái tin để nó đẩy, nó đạp.
+Như hôm qua là CPI này ra mình báo trước luôn là cái plan nếu nó bằng so với dự kiến là giá nó sẽ đẩy lên sau đó nó gãy.
+Đấy thì anh em thấy không?
+Nó đi không trượt phát nào.
+Đấy.
+Lúc trước giờ tin là nó loanh quanh khoảng 64 này.
+Ra tin cái nó đẩy lên đến 64.000 năm.
+Mặc dù lực đẩy rất yếu, nhưng mà cũng có một cái sự kill, một cái sự lên để lấy thanh khoản trên này sau đó là rụng xuống vào trong đêm xong với 3300 và cây nến H4 của chúng ta đã đóng.
+Thấy chưa?
+Đấy.
+Cái này nó đóng nến cây H4 này cực kỳ xấu và đâm thủng khỏi cái đường fibo 0.5 ở cái vùng này.
+Và đâm luôn cả cái thằng fibo 0.618.
+Và ngoài cái thằng fibo thì ở đây anh em sẽ hiểu cái cây nến H4 tối ngày hôm qua vì sao nó lại một cây nến xấu nữa.
+Nó lại tiếp tục gì ạ?
+Nó phá cái đáy này.
+À thì ở đây chúng ta nhìn bằng mắt thường cũng thấy là thấy không?
+Đỉnh này.
+Đỉnh này, đỉnh này, nó cứ đổ đèo xuống.
+À thấy không?
+Nó cứ đổ đèo xuống.
+Đó.
+Dưới này đáy nó cũng đổ đèo xuống.
+Thấy không?
+Và cái cây nến ngày hôm qua là một cái cây nến đâm xuyên thủng khỏi cái đáy này 63500.
+Được chưa?
+Đó thì có nghĩa là cái vùng đáy này nó đã tạo ra một cái đáy thấp hơn.
+Anh em nào mà mà theo gọi là thiên hướng học thuật á thiên hướng học trading mà gọi là bài bản lý thuyết thì sẽ có cái khái niệm là ừm LL này.
+Và HH này, đấy, hoặc là HL này. [hắng giọng] HL có nghĩa là higher low.
+Tức là những cái đỉnh nó thấp dần.
+Higher là những cái cao dần nhưng mà nó lại thấp dần.
+Còn lower low là những cái đáy nó thấp dần.
+Đấy.
+Mình thì hơi dốt tiếng Anh cho nên là mình đọc thì mọi người sẽ nghe không có hiểu đâu.
+Nhưng mà anh em có thể tìm hiểu về những cái khái niệm này lý thuyết thì nó bản chất là gì?
+Nói nôm na gọi là đỉnh đáy sau thấp hơn đỉnh đáy trước thì tạo thành một cái xu hướng tăng và nó đã phá vỡ tạo ra tiếp những cái đỉnh thấp hơn.
+Nói như thế cho nó vuông.
+Được chưa?
+Đấy.
+Mấy cái này đọc trên Google nó chung chung à.
+Đó bữa nay nó có AI thì các bạn hãy nhờ AI nó nó trợ giúp nhá.
+Một cái mẹo mọi người có thể trợ giúp đó là mọi người hãy bảo cái con AI á giải thích ví dụ như này.
+Anh em bảo nó như này này, là kết học rất là nhanh này, giải thích khái niệm và ý nghĩa của chỉ số CPI đi.
+Với tác động lên, đấy, tác động lên thị trường crypto đi, Bitcoin cũng được, thị trường Bitcoin, đấy.
+Lưu ý cho nó một cái đó là giải thích đơn giản bằng ngôn ngữ và ví dụ gọi là thực tế gần gũi mà học sinh lớp 5 cũng có thể hiểu được.
+Đấy.
+Anh em bảo nó giải thích như thế này.
+Là nó sẽ giải thích cho các bạn dễ hiểu, chứ đừng có đi đọc ở trên Google.
+Đấy, Google là thời ngày xưa, còn bữa nay nó AI free, nó gắn ở trong Google luôn mà.
+Được chưa?
+Đấy, thì như như vậy thôi là xong.
+Còn nếu mà nó giải thích như thế này cũng không hiểu được.
+Đó.
+Thì giảm bớt lớp này xuống, lớp 3.
+Hoặc lớp 4 gì đó.
+Sau đó Ừ, đúng rồi.
+Còn nếu mà vẫn không hiểu thì nhá thì các bạn hỏi lại nó, "Tao không hiểu chỗ này, tao không hiểu chỗ kia." Đấy.
+Bảo nó giải thích, giải thích cho đến khi nào mà các bạn hiểu thì thôi.
+Hỏi cho nó đến khi nào hiểu thôi, hoặc là bảo nó hỏi ngược về lại mình.
+Đấy, bảo nó là tao bây giờ là tao học sinh lớp 3, tao mới học hết lớp 3 thôi.
+Mày hãy đặt những cái câu hỏi nào đó để tao trả lời liên quan đến CPI này làm sao để tao hiểu và tao trả lời đúng.
+Đến khi nào tao trả lời đúng thì mày đừng có hỏi nữa.
+Đấy, là được. [hắng giọng] Ok chưa?
+Đơn giản thôi.
+Bữa nay thì công cụ nó nhiều quá rồi.
+Giải thích cho trẻ mẫu giáo.
+Các bạn đừng có đánh đố nó.
+AI các bạn đừng có đánh đố nó.
+Bởi vì các bạn khi mà các bạn đặt cái câu hỏi mà giải thích cho trẻ mẫu giáo bởi vì AI nó thông minh lắm.
+Nó sẽ hiểu là à cái thằng này nó đang thách thức mình.
+Chứ không phải là nó hỏi theo một cái gọi là hỏi theo một cái thái độ gọi là cầu tiến, học hỏi thật sự mà nó đang thách thức mình à.
+Thì nó sẽ trả lời lại cho bạn một cái câu trả lời rất là bố láo.
+Nó sẽ bảo là à trẻ em mẫu giáo thì chưa đủ khả năng để học hoặc là chưa đủ khả năng để mà tìm hiểu về CPI chẳng hạn như thế.
+Là thì có phải là chúng ta mất thời gian và chúng ta tốn token không? [khịt mũi] Vì sao người ta lại gọi là lớp năm?
+Lớp năm nó đủ cái cái hiểu về chữ, đấy, biết đọc chữ.
+Biết về sơ sơ, biết về những cái khái niệm cơ bản, đấy.
+Rồi.
+Đấy, đó là nói cho qua về thị trường.
+Cái đoạn này thì mình không có nghĩ là thị trường nó nó nó nó có những cái cú bật quá căng thẳng đâu.
+Khó.
+Nhìn cái màu này cũng khó.
+Xu hướng hiện tại rất là xấu.
+Được chưa?
+Đây nó đang trụ lại những cái gần như là những cái đợt trụ trụ hạng cuối cùng rồi.
+Bây giờ cũng là ngày 13 tháng 8.
+Đấy, thì không còn nhiều thời gian nữa để cho thị trường nó cứ lòng vòng ở cái vùng này đâu.
+Hồi thì cũng đã phải hồi rồi.
+Á, rụng thì cũng sẽ phải sắp rụng rồi.
+Cho nên là không còn nhiều thời gian nữa.
+Anh em Long thì thận trọng.
+Đấy.
+Được chưa?
+Xu hướng rõ ràng là cái xu hướng giảm, thấy không?
+Giá nằm dưới MA này, khung ngày này.
+H4 là cái gì?
+Đó.
+Giá vẫn nằm dưới MA, đâm qua hai cái điểm cross.
+Đêm ngày hôm qua nó kéo một cái cây ngay ở cái giao điểm này rất là đẹp.
+Và cái vùng này hôm trước mình giải thích nhiều lần anh em nhớ rồi.
+Đấy, nó là một cái vùng từ hỗ trợ mạnh.
+Bây giờ biến thành tội đồ, biến thành kháng cự rồi.
+Đấy, cho nên vùng này để mà nó qua được khỏi cái thằng 64.300 này thì cảm tưởng như là khó khăn vô cùng.
+Nhá.
+Để nó qua được khỏi cái thằng 64.300 này cực kỳ khó khăn vô cùng.
+Đoạn này thì cứ thuận xu hướng thì scalping không rõ thôi.
+Đúng rồi, có bạn hỏi là mô hình cờ thì đoạn này dễ là tạo thành cái mô hình cờ đấy.
+Đây.
+Đấy, trendline này.
+Được chưa?
+Big short thì mình không có big thì mình chỉ short bình thường thôi, mình không có big.
+Nếu mà để an toàn thì các bạn có thể là chờ nến từ chối ở cái vùng này hoặc là nó chạm đến cái vùng râu ở trên này khoảng 63.700 thì các bạn đánh.
+Đấy.
+Chạm biên trên đánh cho an toàn.
+Hiện tại ở trong 5 phút thì nó vẫn vẫn đang kéo cái nhịp phục hồi ở trong phiên Á.
+Thành ra là chúng ta đang thấy là thị trường nó vẫn lòng vòng ở cái vùng này.
+Vậy thôi. [khịt mũi] Xu hướng trong ngày hôm nay thì rõ ràng là không long được rồi.
+Dom này, dom a đây Bitcoin dom thì vẫn a chưa có nhiều sự thay đổi lắm.
+A nhưng mà USDT.D thì vẫn tiếp tục kéo cái xu hướng đi lên.
+Và như hôm trước mình nói thì cái cây nến ngày này vẫn là một cái sự rủi ro cực kỳ lớn cho cái thằng đô.
+Nhá, vẫn là USDT.
+Cái dom á, dom của USDT nó rất là nguy hiểm, rất là xấu.
+Và nếu thằng này nó kéo lên trên này thì coi như là khả năng là đáy nó sẽ được tạo khi mà USDT.D này nó lên trên cái vùng 9 đến 9.5.
+Đấy, là mình nghĩ là khả năng đáy thị trường.
+Cỡ nào cũng phải thịt râu 64K4 à? Ừm thì bình thường thôi.
+Những cái râu thì tầm này mình không có chúng ta đánh ở tầm này phải bỏ qua những cái râu thôi, ngại gì. 64K4 á? 64K4 ở trên này à?
+Để xem sao.
+Mình nghĩ lên trên này hơi căng đấy.
+Nếu mà tối ngày hôm nay mà thị trường nó ra được một cái tin PPI nó cực kỳ tốt thì may ra, chứ còn vùng trên này cũng hơi khó.
+Haha, đúng rồi.
+Nhiều ông tham, nhiều ông cứ thích big short lắm.
+Nhưng mà không dễ đâu, bởi vì anh em phải hiểu là big short chúng ta sẽ phải đánh ở những cái entry nó nó thật là cao kia, nó thật là đẹp kia. [hắng giọng] Nhá, chứ chứ chứ ở cái vùng này là một cái vùng lưng chừng mà.
+Cho nên chúng ta không thể big ở cái đoạn này được.
+Đang long 64K4, cũng hợp lý.
+Những người đang long họ sẽ kỳ vọng giá đi lên.
+Rồi, ATH này.
+ATH thì chưa có gì nhỉ.
+ATH chưa không có gì đặc, không có gì thay đổi lắm.
+Đang sideway, bỏ qua. Ờ xem có cái gì hay không.
+Gap lâu lâu bữa nay không có gap chơi hơi buồn anh em nhỉ.
+Thôi, bỏ qua đi.
+Đây, bên này thì vẫn đang có khoảng tầm 100.000 đỏ nhá. 100.000 đỏ thôi, không có nhiều đâu.
+Đấy, cái đám ở dưới này thì vẫn rất là dày đây các bạn nhá. 63.100, 62.900 này. 64.400 thì cũng có, nhưng mà cái đám này thì nó vừa mới vừa mới short ở cái nhịp đêm sau tin ngày hôm qua.
+Đấy, cái đám này nó giống với anh em mình.
+Hôm qua chúng ta cũng đánh short ở cái vùng 64.300.
+Đúng không?
+Đấy, hôm qua chúng ta cũng short ở 64.300.
+À nhưng mà bây giờ nó không thể nào mà nó thịt được anh em mình được bởi vì chúng ta TP1 và kéo SL entry rồi.
+Đấy, thì cho nên là cái đám này cũng có khả năng như thế.
+Những cái người họ short ở đây thì vẫn có khả năng là bây giờ entry của họ đang rất là tốt so với giá market.
+Thì khi mà thị trường nó kéo lên thì họ sẽ stop loss entry.
+Đấy.
+Vậy thôi.
+Nó ngược lại với cái phe long này bởi vì phe long hiện tại họ đang vào đây, nhưng mà cái stop loss của họ nằm ở dưới này.
+Và cái entry này nó cũng đang bằng với cái giá thị trường.
+Đấy, cho nên họ không thể nào mà kéo SL về entry được.
+Đó, vậy thôi.
+Hay đánh kiểu râu khi ra tin lòng vòng vài ngày. Ờm.
+Vì sao mà mình không phân tích theo kiểu đó?
+Bởi vì các bạn biết nếu mà phân tích kiểu đó thì tất nhiên là nó sẽ có cái xác suất đúng.
+Nó test râu là cái chuyện hết sức bình thường ở trong cái thị trường bởi vì nó lấy thanh khoản.
+Nhưng mà cái kết đó nó chỉ phù hợp cho các bạn đánh swing.
+Tức là đánh dài.
+Đó, và chờ khi nào nó nó khớp thì chúng ta nó quét râu thì chúng ta mới có lệnh.
+Đấy, còn ở đây khi mà đã sau khi phân tích xong những cái khung lớn và xác định xu hướng thì mình vào trong khung nhỏ.
+Và khi đã phân tích khung nhỏ thì chúng ta đánh scalping.
+Mà đã scalping thì bắt buộc phải thích nghi và đánh theo từng cái sóng nhỏ.
+Đó, nếu mà bây giờ chúng ta nhìn lên trên này đôi khi 4 5 ngày mà nó không quét thì chúng ta không có một cái vị thế để để để để giao dịch.
+Thì đó không phải là cái thứ mà chúng ta tìm kiếm.
+Được chưa?
+Tức chứ cái đó nó không có sai.
+Đó.
+Nó cũng giống như là nhiều người bảo là kiểu gì nó cũng sẽ sẽ lên lại 125.000.
+Mình cũng nói như vậy.
+Kiểu gì nó cũng sẽ lên lại 125.000.
+Nhưng mà tất nhiên là chúng ta không thể nào mà chúng ta chờ lên 125.000 chúng ta short được.
+Đó, bởi vì chặng đường từ đây lên đó nó nó bao nhiêu năm tháng. Ờ, và trong những cái năm tháng đó chúng ta làm cái gì?
+Đấy, thì cái bài toán mà chúng ta phân tích trong cái khung nhỏ để xử lý cái câu hỏi đó.
+Chứ cái điều mà chúng ta cứ chờ những cái râu đó nó không có sai.
+Đó, phần đó nó có sự sport hay là swing nó lo nhá. Ờ liquid này, đây vùng này thì vẫn hai hai đầu thôi.
+Đấy 62.800.
+Đấy nếu mà short thì TP 62.800, mình cũng đang chờ ở đây. Ừ hết rồi.
+Fear nào, vẫn 29 nào, vẫn cứng.
+Ok.
+Rồi tiếp nào, cái PPI có bạn hỏi là dự kiến tối ngày hôm nay thì cái kịch bản nó sẽ xảy ra như thế nào đúng không?
+Ok để mình xem.
+Dự kiến là 0.3 so với tháng trước là 0.2 là xấu này.
+Dự kiến 0.2 và cũng là 0. âm 0.3 cũng là xấu này.
+Nếu mà nó ra bằng với cái chỉ số này thì là cái tin tức xấu cho thị trường. Ờ thì kịch bản khả quan nhất là mình nghĩ nó sẽ ra thấp hơn cái con số dự kiến.
+Mình đoán là nó sẽ ra thấp hơn con số dự kiến.
+Ví dụ là dự kiến 0.3 thì nó ra khoảng 0.2.
+Có nghĩa là nó thấp hơn so với dự kiến, nhưng mà nó vẫn cao hơn hoặc bằng so với tháng trước.
+Vẫn là cái câu chuyện là gì?
+Nếu chúng ta chỉ đơn thuần nhìn vào cái tin đó thì về tâm lý của đám đông họ sẽ được thỏa mãn khi cái thời điểm tin ra.
+Vậy ví dụ như đây dự kiến là 0.3, nó chỉ ra 0.2, à mừng quá, nó thấp hơn.
+À, hoặc là cái dự kiến ở PPI tháng này nó là đang 0.2 dự kiến, nó ra khoảng tầm 0.1 thì anh em sẽ rất là mừng.
+Nhưng mà khi nhìn lại là 0.1 này nó vẫn cao hơn 0 âm 0.3 và nó ra 0.2 thì tức có nghĩa là tháng này so với tháng trước cũng không có thay đổi gì, không có tốt hơn.
+Đấy, thì vẫn là kịch bản gì ạ?
+Nếu mà ra như vậy bay lên, sau đó gãy xuống.
+Đấy thế thôi, và kịch bản đó mình nghĩ là khả quan nhất.
+Nó sẽ không có ra bằng cái này, nó sẽ ra thấp hơn một xíu.
+Để xem thử thế nào.
+Được chưa? [khịt mũi] [hắng giọng] Long hay short đây á?
+Nghe nãy giờ mà chưa biết à? [hắng giọng] Nãy giờ mình nói hết cả hơi rồi mà. Ờ, xem xem có cái gì mới nữa không?
+Tin tức rồi, không có gì mới nha, không có gì thêm.
+Ok. Ờ, qua thử nào, qua vàng để xem thử là mất cái sóng này chưa?
+Sóng này thì mình đoán là vàng cũng xấu rồi đó.
+Bị chặn ở Fibo ha.
+Xem H1 nào.
+Đi kiểu này là bắt đầu rụng rồi này, đi kiểu này bắt đầu rụng rồi.
+Bây giờ con vàng này anh em muốn sale nó thì hãy chờ nó phá cái đáy M15 rồi đánh.
+Nhá, chờ phá đáy M15.
+Còn lại nó chưa phá thì đừng có short, đừng có sale, vậy thôi.
+Nó vẫn đang giữ này, nó vẫn đang giữ nhá.
+Đấy, chờ nó tạo cái cấu trúc giảm cái đã.
+Đây, ví dụ ở đây, nó sẽ gãy khỏi cái đoạn này thì bắt đầu là anh em chờ và đánh, ví dụ nó gãy về dưới này.
+Đóng M15 ở đây thì chờ backtest lên khoảng tầm 4400 rồi sau đó đến trước.
+Được chưa?
+Còn cái vùng này thì không nên buy nữa.
+Mình thấy con vàng ở vùng này không nên buy nữa.
+Hết, được chưa?
+Anh em nào mà quan tâm con vàng thì thì mình phân tích rồi nhá, đơn giản thôi, vùng này thì như vậy thôi.
+Dầu à?
+Đấy, dầu thì vẫn đang lên này.
+Đấy, dầu scalpe được không?
+Nhưng mà dầu scalpe hơi nguy hiểm.
+Mà mình nghĩ là nó vẫn tiếp tục đi lên.
+Dầu chặt khá là đẹp.
+Dầu mình nghĩ là nó vẫn tiếp tục đi lên.
+Còn bạc, ờ, bạc này thì chưa được gì.
+Bạc này cũng xấu rồi nhá các bạn.
+Bạc này bắt đầu thể hiện là cái lực nó yếu dần này, cái đỉnh này, đỉnh này bắt đầu rụng dần này.
+Bây giờ cần nó phá qua khỏi cái thằng này nhá, cần nó phá qua khỏi 65 đi.
+Cần phá qua 65 sau đó đánh xuống.
+Nó ok nó sẽ chặn lại ở đánh về đến cái vùng khoảng tầm 61.
+Đó, đánh về quanh 61.
+Là ok.
+Nó sẽ đánh về đây, nhưng mà chờ cái M15 ở đây, à chờ cái H1.
+Xem M15 cũng được, M15 cũng được.
+Đây nó đóng thủng cái vùng hỗ trợ này, thủng qua cái thằng 65 này là đánh xuống.
+Còn lại con vàng thì à con vàng này chắc phải chờ thủng khỏi cái thằng 4400.
+Đó, hôm qua mình nói anh em là chờ 4450 này.
+Đó, 4450.
+Thế hôm qua mình có xem thử để sáng nay còn giữ cái lệnh limit 4450 không ta?
+Không còn rồi.
+Hôm qua đi ngủ xóa mất cái lệnh này rồi.
+Chỉ còn cái lệnh 4470 thôi, nhưng mà nó không khớp. [hắng giọng] [khịt mũi] Hết rồi, hết hết hết hết thứ để chơi rồi anh em.
+Bạc short vàng 4453 đấy, cứ thích đi trả giá so với mình.
+Nó bảo 4450 mà 4450 có phải là khớp ngay đỉnh nó không?
+Cứ đỏ thì 4453 mới được.
+Thị trường vẫn đang sideway vùng biên 6266 hả?
+Kịch bản để quét lên 6667 thì tầm này mình thấy là bắt đầu khó này, chưa chưa nghĩ ra được.
+Không biết thị trường nó có nghĩ ra hay không nhưng mà mình thì mình chưa nghĩ ra được. [tiếng cười] 4160 không đón Tham các ông lại tham.
+Cứ đòi ngồi lên đầu của mình thôi.
+Bắt đầu mua spot Bitcoin chưa?
+Mua được rồi.
+Mua được.
+Nhưng mà đoạn này mình mua ít lắm.
+Mỗi ngày mình mua để cho nó tự động mua ấy mà.
+Mình là cài cái tính năng tự động mua ở trong sàn ấy.
+Nho nhỏ để cho sàn nó cứ tự động mua hàng ngày vậy thôi.
+Cái đó là DCA hàng ngày mình vẫn mua liên tục DCA giờ mà.
+Chỉ từ những cái thời điểm mà bắt đầu cash out ra bán chốt lãi thì không có mua thôi.
+Thế còn lại sau khi chốt lãi xong mà thị trường nó giảm một xíu là bắt đầu vẫn mua vào lại.
+Hàng ngày thôi mà.
+Nhưng mà cái số đó thì nó không có không có được nhiều hàng nhưng mà cứ phải gom tích lũy.
+Bởi vì cái cái hàng mà mình mua DCA tích lũy hàng ngày tự động đó thì đôi khi là mình giữ nhiều năm.
+Đấy cho nên cái đó là mình cứ thoải mái thôi.
+Mình giữ 5 năm, 10 năm gì cũng được hết.
+Bit vượt qua 63k8 hai đáy á?
+H4 á?
+Không.
+H4 mặc dù ở đây có phân kỳ nhẹ nhưng mà mình thấy là không có ăn thua, bởi vì đây này, cái phân kỳ này cũng chưa chưa có ổn áp lắm đâu.
+Đấy.
+Lực ở đây thì anh em thấy rằng cái lực bán sau này nó cũng khá là căng.
+Đấy, cái cây bán này, liên tục những cái cụm này lực bán nó cũng khá là nhiều, thành ra là nhìn nến này mình nghĩ là không ăn thua đâu.
+Đừng có đánh hai đáy đoạn này.
+Rồi, còn câu hỏi nào nữa không?
+XRP khả năng vùng nào để rải support được á?
+Chờ hồi bao nhiêu là short đẹp á?
+Mình nghĩ là vùng hiện tại cũng là một cái vùng tiềm năng.
+Tin này tốt cho vàng và Bit nên vàng sẽ vượt đỉnh 2026 và Bit sẽ hồi nhanh.
+Đấy, nói như thế thì cũng chịu.
+Quan trọng là thời điểm nào thôi.
+Đô á?
+Trần Ngọc Đăng này vẫn chấp niệm với đô vậy hả? Ờ, thời điểm nào gom support?
+Thì đấy, mình nói rồi, nếu mà mua support thì các bạn cứ mua mua mua như mình thì cứ mua thoải mái thôi.
+Ngày nào cũng mua được hết, cứ mỗi ngày mua một xíu vậy.
+Đấy, ví dụ như mỗi ngày mua 1 triệu, 500.000 gì đó, cứ mua thôi.
+Xác định gom đó trong vòng khoảng 1 2 năm gì đó, kệ nó.
+Bao nhiêu cũng được, có bao nhiêu hưởng bấy nhiêu.
+XRP á?
+XRP, nhưng mà con này mình nghĩ là ờ, mùa này nó tăng rồi, cho nên là cái đoạn cái đoạn mà đi tìm đáy với lại đi tìm cái điểm vào này nó có phải là hơi căng, hơi khó.
+Cái key để mà xác định vùng để mua á, đó là thị trường nó sẽ phải đi như thế này các bạn nhá.
+À, nó sẽ phải đi từ từ từ từ từ từ, nó đi tích lũy, gọi là đi tích lũy.
+Hả?
+Thì chúng ta mới mua được.
+Như vậy nhá.
+Nhưng mà nó cứ bám như vậy à nó đứng đứng đứng đứng ở đây từ giờ đến khoảng tầm độ 3 tháng nữa.
+À thì chúng ta có thể là mua ở cái vùng này.
+Còn không cứ để cho nó giảm khi nào mà nó đi tích lũy thì chúng ta tính.
+Chứ đừng có đi đoán giá làm gì.
+Tụi này bây giờ không đoán được đâu.
+Mà không cần phải đoán.
+Mua cao hay mua thấp nó không quan trọng.
+Nhá.
+PPI thấp hơn dự báo lạm phát hạ nhiệt, đồng đô suy yếu cũng có khả năng Fed cắt giảm lãi suất kích thích dòng vốn đổ vào tài sản rủi ro và có thể để Bitcoin hướng lên vùng kháng cự 66.000.
+Đấy, cái này thì không biết là bạn trích nguồn ở đâu hay là bạn tự đánh giá nhưng mà mình có nhiều cái cơ sở để mà phản biện lại cái cái cái logic đó.
+Nhá.
+Lúc nãy mình cũng chia sẻ rồi.
+Cái việc mà PPI thấp hơn dự báo thì lạm phát nó không có cái câu chuyện hạ nhiệt ở đó.
+Nó chỉ là cái dự báo thôi.
+Hả?
+Ngày hôm nay các bạn ờ đi mua một cái mình ví dụ đi các bạn đi mua 1 kg gạo đi. Ừm.
+Ai cũng phải ăn gạo thôi.
+Các bạn đi mua 1 kg gạo.
+Ngày hôm qua các bạn đang phải mua với giá 50.000 một ký.
+À 50.000 một kg.
+Ngày hôm nay các bạn ra chợ các bạn kỳ vọng à các bạn nghĩ là hôm nay ừm sợ là thị trường nó sẽ tăng giá. Ờ các bạn nghĩ trong đầu là hôm nay chắc mình phải mua với cái giá là 55.000 rồi.
+Thì các bạn đang nghĩ trong đầu là như vậy.
+Tức cái này là cái giá dự kiến.
+Được chưa?
+Dự báo dự kiến là 55.000.
+Nhưng mà đến lúc bạn ra chợ thì người bán người họ bán cho bạn là cái giá 52.000.
+Đấy.
+Thế thì mình hỏi là cái 52.000 này à nó thể hiện là cái giá cả nó đang hạ nhiệt hay là không? Ờ và nó có tốt hay không?
+Đó.
+Đấy, bạn trả lời được câu hỏi này thì bạn sẽ trả lời được cái logic cái cái cái cái mà quan điểm mà bạn vừa nêu ra là PPI mà thấp hơn dự báo là lạm phát hạ nhiệt.
+Ngay cái câu đó là nó đã không có ổn rồi.
+Nhá. [hắng giọng] Tốt vì lời 3000.
+Đấy. Ờ.
+Lời ở đây là gì? Ờ, lời 3000 ở đây có nghĩa là lời cảm ơn của cái người bán, lời xin lỗi của cái người cho tiền là vợ.
+Đấy.
+Và lời cảm tạ là kiếm được 3000 tiền dư.
+Được chưa?
+Xin vợ 55.000 á?
+Nó đâu có cho đâu.
+Các ông bảo 55.000, nhưng mà các ông gì ạ?
+Đi ra các ông mua 52.000.
+Ngày mai nó đi hỏi cái bà này hôm qua bán gạo này bao nhiêu 1 kg.
+Bà ấy bảo 52.000 thì các ông vẫn phải đem về trả lại 3000 thôi.
+Ban đầu chúng ta hí hửng là chúng ta tưởng à, ngon rồi, lãi được 3000.
+Nhưng mà sau đó thì thực tế là chúng ta không có lãi được đồng nào hết.
+Đó, mà nó chỉ là tốt hơn so với cái tâm lý dự kiến thôi.
+Dự báo.
+Thì đây chính là cái ví dụ đơn giản cho cái câu chuyện là tin tức.
+Nhá.
+Tính theo phần trăm thì khoảng bao nhiêu phần trăm á?
+Mua á hả?
+Để mình xem nào.
+Ví dụ, mỗi ngày các bạn, ví dụ tài khoản của bạn là 100.000 đô spot đúng không? 100.000 đô spot tổng á.
+Đấy, thì ờ, ví dụ như mỗi ngày mỗi ngày là các bạn mua một ờ 100 đô đi. 1 năm 365 ngày là được 36.500 đô.
+Đấy, là các bạn mua trong vòng 1 năm.
+Nếu mà mỗi ngày các bạn mua 50 đô có phải không? Ờ, đúng rồi.
+Mỗi ngày các bạn mua 50 đô, thì chia đôi cái số này ra, thì nó rơi vào tầm khoảng 18.000 mấy đó, 18.250.
+Đấy.
+Đấy, 18.250, tức là lên vào tầm khoảng 18% thì con số này cũng ổn à, ổn áp.
+Đấy, tức là khoảng sau 1 năm nữa thì cái số này tích lũy đâu tầm khoảng tầm 15 đến 20% là cũng ok.
+Có nghĩa nếu mà vốn của các bạn là 100.000 đô dự kiến tổng đầu tư cho cái thị trường crypto là 100.000 đô à thì các bạn có thể là bắt đầu mỗi ngày các bạn mua 50 đô là ok rồi. 30, 50 gì đó cũng được.
+Thế là ok.
+Nhưng mà rất ít người làm được cái điều này bởi vì chúng ta coi thường cái con số 50.
+Tài khoản của tao 5 à 100.000 đô mà bây giờ bắt tao đi mỗi ngày 50 đô làm gì mất công như vậy.
+Chờ khi nào thị trường nó đung tao vào mua một phát 50.000 đô, 60.000 đô cho nó oách.
+À thì thông thường chúng ta hay có tâm lý đó.
+Rồi Có chuyện của mình là hiểu lầm hôm nay ngày ba trở lại.
+Đúng rồi đó.
+Cho nên là vì sao á mà khi mà cái gạo này nó ra với cái giá 53.000, 52.000 thì trong ngắn hạn là chúng ta hay có cái xu hướng là thị trường nó tăng lên bởi vì lúc này chúng ta sướng.
+À, nó thấp hơn so với dự kiến.
+À, nhưng mà chợt ngày mai ngủ dậy nghĩ lại ơ tự nhiên là mình ngày hôm qua mình vui là bởi vì giá nó thấp hơn 55.000 nhưng mà thực tế là hôm trước mình mua 50.000.
+Hôm nay mình phải trả đến tận 52.000 để mua 1 kg gạo.
+Đúng không?
+Thế thì thực tế là mình mất thêm tiền mà.
+Đấy, sao lại vui được cả lúc này mới nhận ra.
+Thì đó là tâm lý thị trường.
+Bitcoin Battle Field hả?
+Bitcoin Battle Field là cái gì không?
+Xem nào, ở trên TradingView hay ở đâu?
+Bitcoin cái gì đây?
+Bat tle Có đâu?
+Field hả?
+Không hiểu cái này là cái gì.
+Search ở đâu chứ?
+À.
+Hack à? [tiếng cười] Thằng nào làm nó nhiều trò thế?
+Hay thế nhờ.
+Anh em đấm nhau hả?
+Ngon đấy.
+Thằng nào nghĩ ra ý tưởng này hay đó.
+Trang web này mình nghĩ là vài bữa nó vào mùa uptrend nó listing token là chắc cũng nhiều người mua đấy.
+Uh, phe xanh đang đông vậy hả?
+Phe xanh đang lao qua để bắn này.
+Uh.
+Bắn nát phe bia rồi.
+Phe bull đang đang hơn rồi.
+Đây này 63.550.
+Ông nào ông nào tìm ra được cái web này hay thế?
+Ok, cảm ơn nhá.
+Cộng một kiến thức, lưu lại.
+Ok.
+Hấp dẫn đấy.
+Đấy, anh em có thể tham khảo nhá.
+Ông nào bày ra cái trò này vui vậy?
+Uh, trời ơi, phe phe đỏ gần chết hết rồi.
+Phe xanh mạnh thế.
+Đang đấm lên rồi, đang đấm lên rồi.
+Thế này thì không biết những cái quả mà panic sell ấy chắc là phải thả bom nguyên tử quá.
+Liquid short này lên tỏi.
+Được nhờ.
+Thằng nào làm ra ý tưởng này mình đánh giá rất là cao đấy. [hắng giọng] Này, ông nào vai coding ra cái cái cái cái web này đi.
+Cái con này chạy chắc cũng tốn đấy.
+Tốn kém đấy.
+Hấp dẫn nhờ.
+Nên mua theo ngày hay cứ xuống là mua tính từ giá này hold spot.
+Các bạn làm cả hai đi.
+Trích ra một khoản để mua theo ngày, giá bao nhiêu không quan trọng.
+Và để dành một cái khoản để mà gãy là mua.
+Được chưa?
+Tường buy là 52 triệu hả?
+Tường sell là 33 triệu.
+Live Battle nữa.
+Bitcoin price circle.
+Xem có cái gì vui.
+À, đây cũng chart thôi.
+New hacker hả?
+Bữa nay công cụ nó dễ.
+Làm nó nhiều thứ hay ho nhờ.
+À, chơi giống thằng coin Glassnode này ngày xưa, à là bây giờ cũng vậy chứ, Glassnode.
+Muốn xem thì bắt đầu nó phải mua.
+Xem dữ liệu real time là phải mua.
+Bitcoin live price.
+Đây.
+Giá thực này các bạn.
+Hài nhỉ.
+Thằng nào làm ra cái món này công nhận là giỏi thật.
+Đúng rồi, chắc những cái cú panic sell nó phải là đem bom hạt nhân ra nó ném quá rồi mới mới mới mới thể hiện được chứ. [khịt mũi][tiếng cười] Đấy, mình nghĩ là bây giờ chắc cũng rất là nhiều anh em trong kênh chat là bắt đầu đi search cái web này để để mà xem rồi đây, mình copy mình paste cho.
+Vào tele nhá.
+Quá là hay.
+Đấy.
+Ok, cộng một kiến thức rồi.
+Ái giời.
+Đấy, có nhiều anh em paste ở trong nhóm rồi kìa.
+Nhìn vào cứ tưởng là chơi game.
+Hôm sau nó làm quả Alice với Volibear. [tiếng cười] Hai con [khịt mũi] đó đấm nhau thì đâu có cái gì hấp dẫn.
+Phải làm hai con một bên Zed, một bên Yasuo các kiểu.
+Theo luật thì sau tháng 9 vẫn trade bình thường trên BingX rồi P2P được chứ?
+Theo luật thì sau ngày 1 tháng 9 thì vẫn được nhá.
+Vẫn được. 6 tháng kể từ lúc ra sàn thì không không được.
+Bitcoin đoạn này mình chia vốn đô làm ba, một vốn hold, một vốn trade, một vốn bắt đáy ok không?
+Đúng rồi.
+Luôn luôn là như vậy mà.
+Luôn luôn là như vậy chứ không phải là đoạn này.
+Nhưng mà cái tỷ lệ đó, tỷ lệ mà giữa ba cái vốn đó nó sắp xếp như thế nào á thì các bạn sẽ phải tính toán lại cho nó phù hợp theo cái tính toán phù hợp cho nó nó nó nó với cái cái cái cái cái gọi là cái cái độ to của cái vốn.
+Ví dụ vốn 100.000 thì chúng ta tính kiểu khác, vốn 10.000 tính kiểu khác, còn vốn 1 triệu đô tính kiểu khác nhá.
+Trong đó cái vốn mà vốn hold á là phải là to nhất, được chưa?
+Vốn trade là sẽ phải là cái vốn nhỏ nhất.
+Đến ngày 1 tháng 9 có cần chuyển bit về Metamask không hay vẫn để trên sàn được?
+Thực tế thì các bạn để đâu cũng được hết.
+Để đâu cảm thấy an toàn là được.
+Xe xem mệt quá nhảy vào phụ.
+Phe xanh toàn chơi xe tăng không, phe đỏ bây giờ mỗi toàn lính không.
+À.
+Phe đỏ bây giờ toàn lính không.
+Đây.
+Mẹ đấm nhau đấm nhau bây giờ xe tăng mà chơi với lính thế này thì sao mà chơi lại. [khịt mũi] Tụi xanh này bây giờ nhiều xe tăng quá.
+Đấm nhau ác chiến luôn.
+Xe đỏ rụng hết rồi.
+Công nhận là mình vẫn nể thằng nào nó nghĩ ra cái ý tưởng này.
+Tụi nó vẫn thông minh.
+Cái này chỉ có tụi Tây Lỏ nó mới hay nghĩ ra thôi.
+Đó.
+Sáng tạo. Ờ, chắc bữa nay khi mà anh em Scaping Trade á vào đây live được. [tiếng cười] Gớm thật, thằng này nó có cả Buy Bitcoin in Vietnam luôn.
+Xem nào. 10 Best Bitcoin Exchange in Vietnam 2026.
+Top 10 sàn á, mẹ láo láo coi chừng là bị xết cổ bây giờ.
+Top 1 là Bitcoin VN.
+Toàn những cái thằng không bao giờ biết tên.
+Top 2 mới là VBTC.
+Top 3 Binance, Top 4 OKX.
+Mẹ, láo thật.
+Anh em đừng có nghe nó nhá.
+Nhìn cái tên là biết nó nó nó fake kè rồi.
+Nhìn cái tên này là có thấy không ổn rồi.
+Binance với lại OKX mà đứng Top 4 thì hỏng.
+Nát người.
+Xem cho vui thôi.
+Đấy.
+Phe đỏ phải lùi hết rồi.
+Đó, tụi xanh này nó tràn lên qua mạnh quá đây này.
+Thấy mấy thằng này nó máu không?
+Không hổ không?
+Bắn hết, rụng hết.
+Nhóm chat còn mở không?
+Mình vẫn mở chứ, nhưng mà thi thoảng sẽ mở cái đường link này cho anh em vào.
+Kiểu nó thống kê theo vol hiển thị lính tăng.
+Đúng rồi, đúng rồi.
+Nó thống kê theo volume đó.
+Ví dụ như volume của thằng nào càng to thì sẽ có nhiều cái vũ khí hiện đại hơn.
+Phải không?
+Nhiều vũ khí hiện đại hơn.
+Cái này vui đấy.
+Cái này khi mà khi khi mà nó ra tin đấy.
+Đấy, khi nó ra tin đấy.
+Tin tức [hắng giọng] đấy.
+Anh em bật lên xem thử là nó có những cái cái cái cái cái quả nào.
+Có những cái vũ khí nào.
+Đấy, vui vui.
+Đấy, xe tăng đến rồi.
+Phe đỏ đến.
+Thằng bên này có cả máy bay nữa luôn.
+Gớm thật.
+Căn cứ của thằng bia này có vẻ là yếu hơn của cái thằng thằng bun bên này.
+Căn cứ bên này nó mỏng quá, không có nhiều đồ.
+Căn cứ của thằng bun bên này nhiều đồ hơn.
+Thằng này còn có cả nhà nữa.
+Thằng này không có.
+Thằng này mỗi cái cái xong có được hai ngôi nhà thôi.
+Thằng này đến sáu ngôi nhà.
+Có cả âm thanh à?
+Chung ngồi một góc á? Ở đâu?
+Hai.
+Nhưng mà công nhận là nó sáng tạo ở đây.
+Voice ở đây.
+Âm thanh ở đây.
+Tụi này công nhận sáng tạo được ấy.
+Thôi, vàng gãy đây anh em.
+Gãy nào?
+Vàng gãy kiếm entry vàng chơi cũng được.
+Bạc này có vẻ là chưa gãy.
+BinX không xếp hạng à?
+Tất nhiên.
+Nó theo volume ấy. [hắng giọng] Hấp dẫn đấy.
+Được.
+Hôm nay anh em nào cho mình mở mang đầu óc cái này thì cảm ơn nhá. [khịt mũi] Còn [hắng giọng] gì nữa không?
+À, hôm qua có con Z để mình xem thử nó thế nào rồi.
+Sáng thấy 500 rồi hả? 493 hả?
+Vẫn đây, cái vùng này.
+Chưa thay đổi nhiều lắm, vẫn đang trong cái vùng này.
+WLD hôm qua thấy đẹp đẹp, tối qua thấy đẹp đẹp mà thôi, dặn lòng là không làm gì nữa.
+Đêm qua nó lại cắm xuống 3.2.
+Hai đáy à?
+WLD hai đáy à?
+Đẹp thế.
+Tầm này đi long có hơi sợ không?
+Break này này.
+Link đi.
+Link này cũng đẹp này.
+Nhưng mà link cái đoạn này mình thấy hơi căng ấy chứ.
+Xem nào.
+Đến ngày chắc lên được 9 đô, 9.5, test MA200 này quá.
+Chắc nó sẽ phải lên đó.
+Nhưng mà chọn entry nào để mà chơi thôi.
+Bitcoin kệ Bitcoin nhá.
+Con link này mình đóng H1 ở đây mình nghĩ là chơi được.
+Thế hôm nay nhìn được hai con sáng cửa con link với con WLD.
+Nhưng mà ấy ngược xu hướng Bitcoin thì phải chờ confirm ở bên cái thằng dom kia nó rụng.
+À vax không đẹp lắm, BNB.
+BNB này khỏe nha.
+BNB sống khỏe phết đấy, này.
+Oncoin sao hôm nay mình thấy khỏe vậy ta?
+Có bị lừa không?
+Mấy cái ngày mà cứ thấy oncoin nhiều con đẹp là kiểu gì cũng hay bị húp lắm, bị lừa lắm.
+Bây giờ vàng thì lại gãy nữa.
+Vàng gãy nữa thì có vẻ là hơi khó.
+SPX 140 à?
+Con đó mình không [hắng giọng] biết, bây giờ nó đã 146 rồi.
+Đúng không?
+SPCX 146, đêm ngày hôm qua thấy 146 ở đây này, 146 rồi.
+Con này là cái con anh em thấy biết cái cái thứ này nó lên để nó nó lấy thanh khoản thôi.
+Nhưng mà hơi tiếc khi không mua ở dưới này, bởi vì cái vùng này mình cũng đã có quan sát nhưng mà chưa làm gì thì nó đã chạy mất, chạy nhanh quá.
+Cổ phiếu chạy nhanh quá, chưa kịp cân nhắc suy nghĩ gì.
+Không có gì mới, nhỉ?
+Cổ Việt Nam cũng thế.
+Hôm qua Việt Nam có tin tốt về lãi suất do thủ tướng họp với ngân hàng. [hắng giọng] Nhưng mà cổ phiếu nó cũng không có chạy, khả năng là nó chạy trước tin.
+Ôi, trời.
+Team đỏ, à team đỏ vẫn đang bị bán tơi tả luôn. [tiếng cười] AVAX, AVAX tăng mất rồi.
+Cái này có xe tăng bên short của anh em farm ra rặn nhưng không ăn thua.
+Khi Việt Nam có sàn mình sẽ không được trade các sàn như Binance nữa. 6 tháng kể từ khi có sàn nhá.
+Trừ khi lúc đó những cái sàn như là Binance nó được cấp phép thì mới được trade.
+Đấy. Ờ như các cái quốc gia khác như Indo hay là như Thái Lan này kia thì Binance họ lập lập một cái sàn riêng để phục vụ cho những cái quốc gia đó.
+Đó.
+Thì tùy từng quốc gia thì nếu mà ở Việt Nam mình được thì Binance nó được được làm thì nó có thể nó cũng sẽ lập một cái sàn riêng.
+Lúc đó thì chúng ta giao dịch trên cái sàn đó.
+Con WLD này mình thấy ngon đấy.
+Con này long được đấy.
+Hai con này đều long được nhá, WLD với lại cái con a link này nhưng mà tụi này altcoin cho nên là vẫn phải giữ một cái sự tỉnh táo nhất định.
+Ôi, nến ngày nó xấu này.
+Đấy, altcoin cho nên cứ phải giữ cái sự tỉnh táo là đánh vốn nhỏ nhỏ thôi, chứ không có nén to được.
+Nếu mà thị trường nó không có sóng mà các bạn muốn đánh thì chơi mấy con này.
+Sol à?
+Sol à?
+Sol thấy nó vẫn đang khỏe, vẫn đang cứng.
+Chưa chưa nên short đâu.
+ETH xem nào.
+ETH ừm Ờ, ETH đi vậy không nên short nhá các bạn.
+Từ đấy đừng có short mấy con altcoin như ETH nhá.
+Đi kiểu này rất là dễ vút một phát lên đây này.
+Nó dựng một cây lên đây là có Đấy, cho nên đừng có nên short đó, không có đẹp để short. [khịt mũi] Ừm ừm ừm.
+Mẹ, thằng xanh này nhiều vũ khí quá.
+Máy bay bay liên tục.
+Trong [hắng giọng] khi thằng đỏ nó ừm, nó có cả phản lực luôn.
+Thằng đỏ mỗi xe tăng.
+Thằng xanh này có cả máy bay trực thăng lẫn máy bay phản lực luôn.
+Đấy, lính nó ra liên tục này.
+Anh em vào long liên tục. [hắng giọng] Đấy, như máy bay ủ nó có cả một cái cái quả pháo to nằm ở dưới góc nhà này các bạn này.
+Không zoom được, không zoom về dưới này được.
+Anh em thấy không?
+Zoom nó chỉ cho zoom về giữa này thôi.
+Đây này. Ở dưới góc này bắt đầu nó hình thành nó một cái đoàn quân rồi này.
+Xe này, à thằng này cũng có.
+À cái này là mô tả thôi.
+Nhưng mà nãy mình thấy ở cái thằng dưới này nó ờ mấy chiếc xe này nó bắn.
+Nó bắn từ dưới này nó bắn lên.
+À bây giờ có máy bay của thằng đỏ qua rồi.
+Phe đỏ đang bắt đầu nhảy vào rồi.
+Đấy, bắt đầu gia tăng thêm lực lượng rồi.
+Ú. [khịt mũi] Xem cái này đúng giải trí luôn.
+Cứ tưởng là chơi game.
+Được. [hắng giọng] Duyệt đấy.
+H4 đóng vậy long vô không?
+Không nhá.
+Bitcoin hôm nay mình không long đâu.
+Nếu mà long là đi đánh long coin thôi. [hắng giọng] Ok, hết rồi.
+Vậy thôi, thị trường này chừng đó thôi anh em nhé.
+Vàng 4395 này hả? 4396 này này, đấy, vàng gãy rồi.
+Ngon.
+Chờ vàng này nó đóng thủng đi, chờ M15 này đóng thủng, sau đó chờ đánh lại ở quanh khoảng 4400.
+Vàng thủng 3900 à? 3900 còn lâu.
+Đâu, về 3900 là về hỗ trợ mà.
+Nếu sàn Việt Nam có một sàn được cấp phép cộng với Binance cũng được chấp nhận thì cân nhắc chơi cái nào á?
+Tất nhiên là Binance rồi. Ừm.
+Đó là quan điểm cá nhân của mình.
+Giá cái này lệch khá nhiều so với giá trên sàn á.
+Đâu có lệch bao nhiêu đâu.
+Bên này 618.
+Bên này đang 575 thì chênh lệch đâu đó khoảng tầm 50 giá.
+Chênh có 30, 50 giá thì ăn thua gì.
+Bởi vì nó lấy dữ liệu từ các sàn khác nhau mà.
+Ví dụ như các sàn khác nhau á, anh em xem các cái sàn à Mình ví dụ nha, BTC USDT ở trên OKX xem bao nhiêu nhá. 644 này, thấy không?
+Đấy.
+Cũng chênh lệch khoảng độ 30, 40 giá này.
+BTC USDT.ps ở trên BingX.
+Đó, chấm p thôi.
+Đấy, 400, 614 là không chênh lệch bao nhiêu.
+BTC US USDT spot nhá.
+Coinbase.
+Đấy, 661.
+Thực tế cái biên độ 50 giá là biên độ chấp nhận được mà.
+BTC USD.
+Đấy là USDT nhá.
+USD nó còn chênh lệch trên nữa.
+Bitcoin DT này.
+Xem Kraken này.
+Đấy, 649 thì chênh lệch từ khoảng độ 30 đến 50 giá là ok. [hắng giọng] Phe đỏ bây giờ còn toàn người.
+Thằng này tụi xe này nó tràn qua rồi này.
+Thấy không?
+Thấy cái thằng này nó bay qua không?
+Nó chạy qua luôn.
+Ok.
+Rồi, vậy thôi nhá. Ờ chúng ta nghỉ thôi.
+Anh em nào thích thì cứ xem tiếp battle này.
+Được chưa? [hắng giọng] Còn lại ờ anh em mình thì cứ chừng đó thôi.
+Hôm nay thấy sáng cửa được mỗi hai cái con này.
+Anh em thích chơi gì thì chơi, nhưng mà đánh altcoin thì cứ phải đánh thận trọng nhẹ nhẹ thôi.
+Đừng có có có có tin tưởng nó quá.
+Đối với altcoin thì không nên tin tưởng nó quá.
+Nhá.
+Phân tích là một chuyện, nhưng mà khi mà Bitcoin nó gặp sự cố thì tụi này nó bị bẻ chạc ngay lập tức.
+Tức là cái biểu đồ của tụi này nó không thể hiện một cái sức mạnh quá nhiều trong cái câu chuyện ờ thị trường hiện tại nó yếu thanh khoản như này. Ờ, con HIP này khỏe này. Ồ, con HIP này đẹp đấy.
+Con HIP này mình nghĩ là nó đi cái mô hình cờ cái đoạn này các bạn nhá. [hắng giọng] Thế sẽ đi lên được khoảng tầm 59.
+Con HIP này chắc đi lên được khoảng tầm 59 đến 60.
+Đấy.
+Rồi, ok.
+Cảm ơn tất cả mọi người nha.
+Rồi được, anh em chúng ta nghỉ thôi.
+Bye bye mọi người.
+Hẹn gặp lại vào ngày mai nha, ngày mai thứ sáu cuối tuần.
+Và để lưu ý lại cái thời gian 7:30 tối ngày hôm nay đó, thời điểm có tin tức nha.
+Ok.

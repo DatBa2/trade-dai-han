@@ -1,0 +1,704 @@
+Ok rồi, chào tất cả anh em nhá.
+Hello.
+Ok.
+Chào mọi người.
+Tình hình thế nào?
+Chào anh em. tháng mới.
+Nhìn cái màu này của con bí thì khá là hấp dẫn.
+Nhìn rất là muốn sót nhá.
+Đoạn này nếu mà gãy chắc cũng lại về MA200 quá.
+Về được đấy thì ngon nhỉ.
+Vàng thì phục hồi sau cái đêm ngày hôm qua.
+Điều chỉnh vàng cái đoạn này rất là dễ.
+Tiếp tục đi lên nhá. về đúng fibo này cắm lên này.
+Đoạn này con vàng thì mình thấy là không nên sale dầu á hả?
+Dầu gãy thì dễ gì mà gãy.
+Các bạn nhìn con dầu khung nào chứ quan trọng là các bạn view dầu bảo là gãy thì gãy theo khung nào.
+Nếu mà theo H4 thì nó điều chỉnh thì chuyện cũng bình thường không đáng kể lắm.
+Còn nếu mà gọi là gãy thực sự trên những cái khung lớn thì mình nghĩ chắc cũng hơi khó.
+Thực tế bởi vì nó đang lên cái đoạn này thì nó đang lên cái đoạn này thì chắc chắn nó gặp cản khá là lớn nhá.
+Về cơ bản có thể back test về lại một số các cái vùng hỗ trợ trên các khung ngày.
+Đây ví dụ như nó về lại cái vùng nàyấy rồi nó lại tiếp tục nó đi lên.
+Đấy cái nếu mà anh em nhìn vào khung nhỏ á thì sẽ khá là rối đối với cái con dầu nhá.
+Và sẽ dễ bị mất phương hướng.
+Ví dụ như chúng ta nhìn cái khung a khung 1 giờ ở đây bởi vì con dầu thì mình không có trade ngắn.
+Đây nhìn vào đây thì nhìn khả năng là nó sẽ rất là dễ gãy.
+Nhưng mà gãy của nó thì cùng lắm cũng về đâu đó khoảng độ 84 85 gì thôi.
+Nhưng mà khi chúng ta đi vào trong khung lớn thì nó lên trên này nó gặp cái cản đúng không?
+Thì hiện tại nó đã phá qua thì nó vẫn nằm trong cái zô này, nó vẫn nằm trong cái vùng đi loanh quen cái vùng 8x này thì không có nói lên được cái chuyện gì về xu hướng dài hạn.
+Bởi vì cái xu hướng dài của con dầu này nó chạy rất là lâu ha.
+Anh em không có quen đánh dầu thì mọi người ít view sẽ đánh rất là lâu.
+Đây ví dụ như này các bạn thấy cái nhịp này của nó nhá nó cứ đứng nó đi sideway đúng không?
+Đây này.
+Từ năm 2010 ấy nó sideway trong vòng là 100 1750 1700 ngày tức là rơi vào tầm chia 3 lên khoảng tầm 5 đến 6 năm đấy.
+Nó cứ đi ngang trong cái vùng này 84 cho đến là 100 đó. hay là như trước khi cái cú tăng này thì nó đi một cái biên từ đâu đó khoảng tầm độ 70 về đến cái vùng 60 trong vòng từ năm 2023 cho đến 2025 là khoảng 3 năm thì cái biên của con dầu á anh em sẽ phải hiểu là nó tính bằng năm hoặc là tính bằng tháng chứ còn nếu mà tính H1 với lại H4 là không ăn thua đấy vi con dầu cái cái biên của nó đi là cở như Cho nên anh em thấy là vì sao mình không scapping con này là vì thế cái sóng chín của nó nó chạy không to mà chúng ta scapping khung nhỏ thì rất là dễ bị bẻ sóng.
+Cái sóng nó không có chuẩn á.
+Mình rất là ít ít ít ít khi đánh.
+Với lại dầu thực sự sau này nó có sóng thì mình mới đánh lại chứ còn hồi trước cái giai đoạn này nó cứ đi sideway này mình cũng không có quan tâm mình ít khi đánh.
+Mình cũng không có hợp đánh dầu được. một phần là vì cái biên của nó không có sướng mà chủ yếu mình thay đán vàng.
+Nếu mà xét lại nhá, nếu mà xét lại một cái view mà đi biên độ rộng á và ổn định á thì anh em đánh đánh tiền nó lại ngon hơn.
+Đây này, thấy không?
+Đấy, đánh tiền nó lại đều hơn, nó lại bị nổn hơn và nó đỡ bị kill hơn.
+Đây ví dụ nhá.
+Đấy như này con này nó cái khả năng xác suất tăng là nó cao chờ nó phá cản thôi.
+Đó hay là UJ thì nó hơi biến động hơn một tí.
+UiJU này thì hơi biến động hơn một tí.
+Được chưa?
+Liên quan đến đồng yên thì nó hay biến động.
+Đấy nhưng đây về cơ bản thì mấy con này nó phân tích kỹ thuật nó khá là dễ hơn.
+Dễ hơn mấy cái con như là dầu.
+Cụ đang cố lắm rồi. Ờ nhìn có vẻ là cũng đuối rồi.
+Bị lag rồi.
+Đây ví dụ như thế đây.
+Nhưng mà trên này thì nó vẫn bị đá xuống kiểu như vậy.
+Đó.
+Mấy con này nếu mà anh em đánh gọi là đánh trung hạn thì nó nó dễ chịu hơn là đánh con dầu.
+Ok.
+Bị đứng hả mọi người?
+Rớt mạng à?
+Xem nào.
+Chị sửa vô cùng gì đây?
+Ok.
+Mọi người có bị lag không?
+Ok, hình như là trở lại bình thường rồi.
+Ok.
+Ok.
+Rồi.
+À cụ đang cố sắp chịu không nổi.
+Hôm qua bay được quả dầu hai giá rưỡi ngon quá không dám hâu nữa.
+Em view khung ngày về đúng trend em buy.
+Nhì mà dầu mà đánh hai giá ha.
+Dầu mà đánh hai giá thì cũng hơi hơi căng đó.
+Mình không đánh ngắn như vậy.
+Ví dụ cái lệnh dầu để mình xem nè. xem lại cái entry chứ để lâu quá chả nhớ nữa.
+Đấy lệnh dầu của mình một ít là ở entry 7x, một ít nữa là ở entry 8x đấy 84 kiểu vậy.
+Thì anh em thấy mua từ 7x mà lên đến 100 tức là khoảng gần 40 giá mà mình còn chưa chưa chốt bởi vì mục tiêu chờ nó phá đỉnh phá 120 lên 130 hoặc 150 thì mới đánh à mới chốt.
+Ok rồi bình thường là tốt rồi. Ờ check dùng strk hả?
+On coin oncoin sao nó lag lag thế nhỉ?
+Cái chạt này nó chậm chậm trễ trễ.
+Ok đi vào oncoin thì chúng ta điểm qua Bitcoin cái đã nhá.
+Rồi từ từ đi vào oncoin bởi vì muốn oncoin thì phải view lại cái tuổi bitcoin.dom, btc.d và USDT.D nhá.
+Con Neia hồi vẫn khỏe nhờ.
+Rồi anh em ấn nút like giúp mình hết chưa? Ấn nút thích video hết chưa?
+Để kiểm tra xem qua được 50% không.
+Hiện tại 168 người đang xem mà 67 lượt thích.
+Ôi xời, thế này thì hỏng rồi đấy.
+Cứ thế Bitcoin khung tuần lên đẹp chắc chỉnh khung H4.
+Khung tuần thì chúng ta nói từ đầu tuần rồi.
+Hôm nay thì chủ yếu là nến tháng.
+Hôm nay là ngày 01 tháng 10 là cái ngày đầu tiên của tháng 10 cho nên chúng ta sẽ view lại nến tháng.
+Được chưa?
+Con Plum hả?
+Plum bay mạnh quá.
+Gòng lãi sắp ngất rồi.
+Ngon.
+Chúc mừng để xem nào.
+Bay quá à.
+Qua đây để tôi gửi số tài khoản nhá.
+Gửi cái địa chỉ ví anh em chuyển qua đây ít lãi đi là nó đỡ căng thẳng. Ấ mà kiếm đâu ra được mấy con này cũng hay đấy.
+Ngày tang thương à?
+Ngày đấy là ngày nào?
+Mẹ nó lâu quá.
+Nó theo cái tính toán của mình thì bây giờ chúng ta đang ở phải giá 55 thì nó mới đúng.
+Chứ ai là bây giờ ở giá 83 này không biết làm cái gì.
+Khổ thật đấy chứ.
+Đúng không?
+Theo tính toán của của mình thì bây giờ chúng ta đúng ra là phải đang nằm ở 55 thì mua nó mới sướngấy.
+Chờ về đến ba mấy làm cú tất tay chứ bây giờ nó đang ở tám mấy này mua cũng không dám mà bán thì không có hàng.
+Khổ thế chứ mua thì không có tiền mà bán thì không có hàng.
+Giờ ngày nào cũng ngồi nói mõm với nhau chứ không kiếm được đồng nào.
+Khổ thật đấy chứ.
+Near Bitcoin không có vị thế nên chỉ dám đánh scap vào.
+Ok.
+Nói vui vậy.
+Ok.
+Bây giờ chúng ta qua lại này.
+Nến tháng thì chắc chắn là một cái nến xanh rồi.
+Đối với cái kiểu kiểu đi đấy thì không thể nào mà đỏ được.
+Rồi chúng ta đã có một cây nến tháng kết thúc ở cái vùng hôm qua sáng ngày hôm nay đó là 83.600.
+Thì thực sự là khi nó đã qua cái cây nến tháng trước đó và tiếp tục đóng trên cái vùng 80 thì cái vùng mà 83 hay là 85 thì nó không có ý nghĩa nhiều lắm đối với cái cây nến tháng.
+Được chưa?
+Thì ở đây chúng ta thấy là à nó hồi lên đấy.
+Nói tóm lại là nó đang vượt qua được cái cản nline trước đó này.
+Đang hồi khá là đẹp này.
+Thực tế đó là cái chuyện thực tế.
+Còn lại nó có lừa, nó có tráp, nó có láo, nó có cái gì đi nữa thì cái đó chúng ta tính sau.
+Nhưng mà thực tế ở đây là có một cái nến thắng khá là đẹp.
+Đấy, cái đoạn này thì nó đang gặp cái cản phí bô 0.382 ở trên khung lớn, tức là từ cái đỉnh 126.000 kéo về cái đáy vừa rồi là 57.000 thì giá 8384 này đang là cái cản fibo 0.382.
+Thông thường thì cái fibo này không phải là một cái cản fibo mạnh lắm nhá.
+Đấy.
+Và cái mảnh thực sự thì nó là Fibo 0.5 thì cho nên là cái việc mà giá nó kéo lên 91 tức là ở cái vùng Fibo 0.5 5, 91, 92, 93.
+Đấy, nói tóm lại là như thế bởi vì khung lớn cho nên nó sẽ có cái sự biến động sai số đâu đó khoảng 1000 giá thì nó không ăn thua.
+Đấy, nhưng mà chính vì cái điều này thì chúng ta thấy là cái xác suất để mà nó tăng lên là vẫn luôn còn hiện diện ở đó.
+Cộng với những cái biểu đồ như là không tuần hoặc không tháng, nó chưa có bất kỳ một tín hiệu nào xấu.
+Thì ở đây chúng ta vẫn có cái plan là dự phòng giá nó sẽ kéo lên 90.
+Được chưa?
+Đấy nhưng à cái điều này nó sẽ thất bại khi mà trong khung tuần hoặc là khung ngày nó bắt đầu có những cái tín hiệu xấu thì khi nào nó xuất hiện cái điều đó đặc biệt là ở trên khung tuần thì mình sẽ cảnh báo cho mọi người nhá.
+Còn nếu mà nó chưa có những cái tín hiệu nào xấu à thì chúng ta cứ giữ nguyên cái view đó thôi nhá.
+Không có vấn đề.
+Đấy, còn lại trước mắt ở đây cái bố cục, cái thị trường ở đây thì mọi thứ nó vẫn đang khá là tốt thôi.
+Không có không có quá nhiều cái cái vấn đề cho lắm.
+Được chưa?
+Anh em view lại một xíu ở trên cái khung lớn như vậy để mọi người hiểu nhá.
+Rồi chẳng qua là hôm nay thì đóng đến tháng cho nên là chúng ta view một tí nhỏ như thế thôi.
+Còn lại bây giờ thì khung tuần thì không có thay đổi gì bởi vì hôm nay mới giữa tuần nến chưa đóng thì không có thay đổi gì.
+À nhưng mà khung ngày và khung H4 thì bây giờ chúng ta sẽ nói khá là nhiều ở trong cái đoạn này đó. sẽ nói khá là nhiều ở trong cái đoạn này.
+Bây giờ đây, hôm qua sau cái tin PCI là một cái tin rất là tốt.
+Được chưa?
+Đây mình mở lại cái team PCI hôm qua.
+À vì sao nó tốt và nó tốt là nó tốt ở cái góc độ nào.
+Đây ở đây chúng ta thấy là cái PCI hôm qua là 0.2% % so với dự kiến là 0.3 và trước đó là 0.2 2 đó thì và GDP nó lại tăng được 2.2% so với dự kiến là 1.5 và trước đó là 1.5 thì hai tin này đều là hai tin tốt vào ngày hôm qua hết nhưng mà cái gì cái chỉ số tiêu dùng lạm phát này nó giảm khiến cho cái câu chuyện là xác suất tăng lái suất của Fé vào cuối tháng này nó được hạ nhiệt xuống thì đó là một tin tốt.
+Cộng với lạm phát giảm thì rõ ràng đó là một tin tốt.
+Tốt ở đây là tốt cho các cái chỉ số về kinh tế vĩ mô, tốt cho lạm phát, tốt cho lãi suất, tốt cho những cái áp lực lên các cái tài sản đầu cơ về mặt dài hạn, về mặt trung hạn.
+Nói chung tóm lại là nó tốt về mặt macro, tức là về các cái cái chỉ số kinh tế đó.
+Nhưng mà đây 0.2 nhá.
+Thì đây nó sẽ là một cái tiền đề khiến cho cái câu chuyện là áp lực tăng lãi suất của Fé vào tháng 10 này nó được hạ nhiệt xuống.
+Nhưng mà các bạn sẽ phải ở trong thị trường đủ lâu thì anh em sẽ phải hiểu là cái chỉ số nó không có đồng pha 100% và tuyệt đối với cái nhịp của thị trường.
+Đấy, lý do thì đây như cái bài viết lúc sáng này mình có cập nhật lại đêm ngày hôm qua sau cái tin lãi suất lợi suất à sau cái tin PCE này thì chúng ta có một cái tin đó là lợi suất trái phiếu của Mỹ tiếp tục tăng. tiếp tục tăng và cao nhất trong 20 năm, 24 năm từ tháng 5 2002 hiện tại là 5,3% thì có nghĩa là cái lợi tức này nó gần như là nó phủ nhận luôn những cái đây này phản ứng tích cực ban đầu sau cái tin PCI đã bị thị trường trái phiếu đảo ngược hoàn toàn.
+Tức là những cái lợi thế sau đó thì bởi vì và cái điều này tin tức nó hợp lý hóa cho đường giá mà thì anh em thấy là đêm ngày hôm qua đây nó quét lên rõ ràng ở đây chúng ta nhìn thấy lộ rất là lộ đó là quest stop loss chứ gì nữa.
+Chắc chắn đây nó là một cái base rất là lớn này và nó đi lên để nó quét thì gì mà không quét stop loss đúng không?
+Rất là nhiều ông stopl ở trên 85 này nó lên một phát nó lụm thậm chí là 85.600 600 đấy và đã bị đảo ngược hoàn toàn và lợi suất trái phiếu này tăng lên áp lực lên các cái tài sản độ cơ và vì sao cái lợi suất trái phiếu này nó tăng thì nó sẽ xấu cho thị trường là anh em cứ hiểu đơn giản đây giống như là một cái phần trăm lợi suất khi các bạn đi gửi tiết kiệm dành cho những cái doanh nghiệp lớn dành cho những cái dòng tiền lớn đó trái phiếu chính phủ là một trong những cái ken gần như cái rủi ro nó bằng không gần như bằng không.
+Rủi ro chỉ xảy ra khi cái chính phủ này nó bị sập mà ở đây đó là chính phủ Mỹ thì không thể nào mà nó bị sập trong vòng ngắn hạn được.
+Đấy cho nên là các cái doanh nghiệp khi cái cái chỉ số lợi suất này nó tăng á thì cái dòng tiền lớn ở bên ngoài nó có xác suất nó kéo về để nó gửi hưởng 5% 5,3% năm với cái rủi ro bằng 0 thì đó là một cái con số cực kỳ tuyệt vời đấy.
+Và người ta sẽ có xu hướng là rút các cái dòng tiền ở bên ngoài về để bỏ vào đây.
+Và người ta không cần phải đi đầu cơ đầu tư với những cái tài sản nó mang tính rủi ro cao như là Bitcoin hay là ngay cả cổ phiếu có thể là ăn 10% 15% đấy nhưng mà cái rủi ro cũng là 5 đến 10% thì thay vì đó họ gửi vào đây 5% và rủi ro bằng 0 thì cái dòng tiền vài tỷ đô vài chục tỷ đô ấy là cái con số này nó cực kỳ tác động thì đó là lý do mà cứ anh em thấy là cái lợi suất trái phiếu nó tăng lên là nó sẽ gây áp lực lên những cái thị trường đầu cơ đầu tư ví dụ như Bitcoin vàng hay các cái tài sản chứng khoán.
+Đó là cái bản chất nhá.
+Đấy thì từ cái này thì giải thích cho lý do vì sao đêm ngày hôm qua thị trường nó tăng à cái tin PCI nó tốt nhưng mà thị trường nó vẫn đảo chiều.
+Thì đó là cái việc mà mình giải thích cho cái câu chuyện lý do tin tức nó hợp lý hóa cho đường giá.
+Còn về bản chất ở trên kỹ thuật thì anh em cũng hiểu rồi đó.
+Chủ yếu nó quét stop loss.
+Và chúng ta biết là cái vùng 84 này cho đến 85 là một cái vùng cản rất là lớn. một cái vùng cạn rất là lớn của market bây giờ ở đây.
+Và gần như cái cái cái này là cái nhịp fake out.
+Hôm qua chúng ta cũng nói với nhau khá là nhiều về cái câu chuyện fake out ở đây.
+Đó, tức là giả vờ kéo lên và nó không quét qua được.
+Thì nhưng mà may một cái ở đây là chưa phải là fake cao out lắm bởi vì nến H4 là nó không có đóng qua đượcấy.
+Nhưng mà nó cũng thể hiện là cái gì?
+Anh em nhìn cái râu này là cái râu đi quét.
+Nó sẽ test lại cái râ này vào một ngày đẹp trời nào đó.
+Hiện tại thì mình không biết là khi nào đấy nhưng mà cái cấu trúc sóng H4 nó vẫn được đảm bảo.
+Đây đỉnh thấp dần đáy thì vẫn kéo lên.
+Chứng tỏ là vùng này vẫn là cái vùng dằng co và cái đây trước đó mình đã nói rất là nhiều anh em để ý giúp mình những cái móc 84.000 và 85 trong đó 84.000 là cái vùng balance tức là cái vùng lấy lại cái sự cân bằng mất trên lẹt giữa phe mua và phe bán trong đó là phe mua họ sẽ lấy lại lợi thế khi mà nến H4 đóng và duy trì tốt ở trên cái vùng 84 để tiến lên trên 85 bởi vì phải đóng trên 85 thì lúc đó thị trường mới bắt đầu bullish và cái xu hướng tăng được củng cố và kéo lên tiếp là 88 hay là 90.
+Còn lại cái vùng 84 cho đến 85 này cứ bị chặn, cứ bị bán xuống à như hiện tại à như hiện tại thì anh em sẽ thấy là giá sẽ có xu hướng tìm về hỗ trợ.
+Mà trước đó là chúng ta thấy là hỗ trợ từ những ngày vừa rồi nó đã liên tục giữ ở cái vùng là 83.000. 82.000 thi thoảng có quét xuống nhưng mà không đáng kể. 82.00 và rút chân lên vẫn trên 83.000 thì cái hỗ trợ cứng hiện tại đó là 83.000.
+Và với cái áp lực mà nó bán mạnh như thế này á 84.000 này không giữ được thì rất có khả năng là nó sẽ tìm về cái vùng hỗ trợ mạnh kế tiếp đó là 81.00 cho đến 82.00 cái vùng này.
+Đấy.
+Và đây cũng là cái vùng Fibo nữa.
+Đây cái vùng Fibo của con sóng nhỏ ở bên này.
+Đó.
+Hiện tại ở đây nó đang kẹp ở trong Fibo nhá.
+Nó đang được đỡ.
+Về dưới này nó sẽ có cân bằng nhưng mà chúng ta vẽ kéo cái fibon này ra ở đây.
+Đó thì cái vùng dưới này 81.00 cái ngay cái zô này luôn nó cũng khá là đẹp.
+Đây là cái vùng fibo 0.5 của cái nhịp tăng từ 75 lên đến 87.
+Đồng thời đây là cái vùng có cái sự hỗ trợ về mặt cấu trúc, về mặt lực.
+Đấy gọi là như pro action cũng có nói đó. cái vùng hỗ trợ và cái vùng bên này nó cũng khá là trống thanh khoản này.
+Vùng này nó tróng này nhưng mà vẫn được giữ.
+Bởi vì sao?
+Bởi vì sao nó giữ được 78 à 83?
+Bởi 83 này là hỗ trợ trên khung lớn từ khung ngày đây.
+Đó 83 này là hỗ trợ khung ngày và khung tuần cho nên là thị trường hiện tại nó đang rất là dằn co.
+Được chưa?
+Thì nói như vậy để view tổng quát lại cái thị trường hiện tại.
+Các bạn thấy trong H1 thì cái nhịp đêm ngày hôm qua đóng cặp 69 như thế này.
+Một cặp delay sau đó đi xuống thì chúng ta có thể ghi nhận đây là cặp fake out ở trong H1.
+Đó.
+Bây giờ cái điều kiện cần để nó gãy tiếp đó là chỉ cần thủng cái trine này thôi.
+Đấy anh em chờ cái thị trường cái cái chạt này nó thủng cái trline này là có thể là confirm gãy.
+Đây mà ngay ở trend line này chờ thủng bắt tín hiệu sớm thì đây thủng có cái cái đoạn này tức là khoảng 83.00 mà tuột một phát thì mình nghĩ là chắc là về đến 83 nhưng mà 83 này chắc đoạn này không có giữ được đâu.
+Thì khả năng sẽ tuột về rất là nhanh đâu đó khoảng độ 82.00 8200 gần như là cái điểm cao nhất.
+Thì những cái điểm cao này nó sẽ là cái gợi ý để cho anh em TP nếu các bạn có bán xuống nhưng mà không phải là cái entry để cho các bạn đánh lên.
+Bởi vì nếu mà đánh lên thì chúng ta sẽ nên chọn một cái entry sâu hơn.
+Ví dụ như ở đây mình nghĩ là khoảng độ 81 nghìn mấy đó.
+Đó cái vùng dưới này thì nên chờ khoảng quanh 81.000 5 xem sao.
+Đó, còn lại hiện tại thì thị trường rõ ràng là cấu trúc sóng giảm thôi.
+À sóng sóng ở đây cấu trúc sóng điều chỉnh nhưng mà trong ngắn hạn thì nó đang sideway được chưa?
+Nó đang đi ngang đó.
+Vậy thôi.
+Còn lại nếu mà anh em nào mà an toàn chắc kèo thì cứ như mình chờ nó test Fibo lại ở trên này xem có hay không ở cái vùng này.
+Đấy cái vùng 84 này.
+Cái vùng râu râu này này.
+Nếu nó có test ở đó nó đi xuống nữa thì khá là đẹp.
+Có entry đẹp khoảng lợi hơn giá hiện tại khoảng tầm 1000 giá.
+Còn nếu mà anh em nào mà không muốn lỡ tàu thì có thể là chia nhỏ ra, giải ra đấy.
+Giải bốn năm lệnh gì đó từ đây lên đấy.
+SL ở trên khỏ cái thằng Fibon này khoảng trên 85 là té thôi.
+Đó hoặc là chờ nó break khung dưới chúng ta đánh đuổi đó thì nó có rất là nhiều cách tùy theo cái cái việc lựa chọn của các bạn.
+Đó đối với Bitcoin được chưa?
+Nhưng mà sau cái pha đêm ngày hôm qua thì hiện tại ở đây là chúng ta thấy là cái việc bị từ chối liên tục ở vùng 84 nó mang ý nghĩa lớn hơn cái việc là cứ liên tục được hỗ trợ ở cái vùng 83.
+Đó mình thấy là như vậy bởi vì sao?
+Trước đó là chúng ta là đang song tăng mà bây giờ liên tục bị từ chối ở cái vùng này.
+Nó không có lợi dụng được cái lực, cái momentum cái gọi là cái cái gia tốc trước đó của cái nhịp sóng tăng trước đó.
+Hiện tại gần như nó đã bị hóa giải hết rồi và cứ lên là bị đạp, lên bị đạp.
+Chứng tỏ là cái vùng bán trên này nó rất là ác liệt ha.
+Thành thử ra là cái xác suất để mà nó kéo về cái vùng 82 mình vẫn thấy là khả thi.
+Như hôm qua nói với nói chuyện với anh em ở trong nhóm đó.
+Cho dù nó break lên nhưng mình thấy nó cũng không ổn.
+Mình nghĩ là vẫn phải là 82 hoặc loanh quên 82 mà đỡ được thì sau đó nó mới an toàn hơn.
+Chứ còn cứ 83 này mà kéo lên nhìn nó không có chắc chắn tí nào.
+Và đúng sau đó là nó rất thật. ảo thật đấy.
+Ok, đóối với Bitcoin nhá.
+Vậy thì bây giờ chúng ta đi vào các chỉ số khác để trước khi đi vào oncoin này DOM này.
+DOM xem sao.
+Dom này thì bây giờ vẫn là điều chỉnh ở đằng dưới nhưng mà có vẻ là không có rõ ràng lắm cho các bạn.
+Không rõ ràng lắm cho các bạn.
+Đi kiểu này thì cũng chưa chắc là nó sẽ gãy tiếp đâu.
+Mặc dù xu hướng hiện tại của DOM vẫn là giảm nhá.
+Cho nên là oncoin nó đang chủ khá là tốt. Ừ.
+Ok.
+Bây giờ bên USDT.D này.
+Thằng này thì như thằng mid vậy.
+Ngược lại thôi.
+Đây thằng này hôm qua kéo râu nhưng mà cái động thái của nó vẫn rất là muốn đi lên nữa.
+Test cái đường này 6.5 6.6%.
+Đấy.
+Cho nên là nhìn tổng quan từ Bitcoin cho đến các cái DOM.
+DOM chọ oncoin thì không rõ ràng lắm nhưng mà dom market thì dễ bị bán.
+Tức là DOM này nó tăng lên thì toàn bộ thị trường dễ bị bán tháo.
+Cho nên là nhìn chung thì mình thấy thị trường vẫn đang xấu.
+Nếu mà formo bài rồi đi qua chỉ số này xem có giảm không.
+Vẫn chưa giảm tí nào.
+Đấy và thường anh em thấy là khi mà cái Fis này nó nằm ở bảy mấy á để mà chúng ta đi full mobile ở những cái thời điểm này nó cực kỳ rủi ro.
+Cho dù thị trường nó thể hiện một cái bộ mặt như thế nào đi nữa thì mình cũng không có đánh giá cao lắm. cái vùng bảy mấy này.
+Cái tâm lý thị trường là một cái thứ nó cực kỳ lợi hại và gần như nó bất biến trong mọi thị trường, trong mọi hoàn cảnh, trong mọi thời điểm.
+Đấy, những ngày vừa rồi thị trường nó rất là nguy hiểm nhá, nó rất là rủi ro nhưng mà tâm lý thị trường này vẫn liên tục được đẩy được giữ.
+Bởi vì sao?
+Bởi vì oncoin nó không gãy mà thậm chí nó cứ giảm một tí là nó pâm lên khoảng 10 mười mấy phần trăm.
+Làm cho đám đông ngoài kia người ta rất là sướng.
+Đó họ sướng thôi chứ họ chưa chắc đã có tiền.
+Cái tâm lý này khiến cho họ sướng họ phô thôi chứ chưa chắc có tiền.
+Mình nghĩ nhiều anh em đang kẹt lạnh long ở vùng 84 cho đến 85 ngày hôm qua.
+Đấy luôn có những cái đồng coi nó chạy đây mol này, trâm này, Movrì đó chính là lý do khiến cho cái fiorit nó không giảm được.
+Đây liquid thì bây giờ nó có hai đầu vẫn như thường lệ thôi.
+Khi xảy ra những biến động ngắn thì bây giờ liquid nó sẽ xảy ra ở hai đầu.
+Hôm nay chúng ta có tin đầu tháng hình non farm thì phải.
+Cái web này bữa nay tự nhiên nó cấm ở Việt Nam vô lý thật.
+À hôm nay không có ngày mai mới có.
+Ngày mai thứ sáu nó để dàn cuối tuần mới có.
+Ngày mai sẽ có trung bình tiền lương cộng với non farm cộng với thất nghiệp thì non farm là tin quan trọng nhất nhá.
+Non farm là tin quan trọng nhất.
+Nếu bây giờ đối với con vàng thì tí nữa mình nói bởi vì con vàng này nó có một cái gáp cho nên cái khả năng lấp gáp rất là cao.
+Đây rồi hai block đi.
+Bên này thì chắc cũng bị quét hai đầu thành ra không có thanh khoản nhiều đâu.
+Đây này cứ xanh đỏ xanh đỏ này.
+Nhưng mà cái đoạn này á để ý nếu khoản nó không có nhiều cho nên là cứ đỏ một tí thì nó kéo lên nó quét sau đó xen một tí nó lại gảy nó quét nó cứ liên tục như vậy khốn nạn chưa?
+Bên này thì nó lại dài hơn ở bên kia.
+Đây chúng ta có 82.00 8200 và 85 86 luôn chưa biết nó đi đầu nào đấy.
+Và con vàng nhá.
+Đây con vàng.
+Con vàng đoạn này rất là dễ tăng nhá.
+Nhìn như thế thôi nhưng mà mình nghĩ con vàng loại này rất là dễ tăng.
+Như ngày hôm qua đó, hôm trước mình có cho nói anh em là bay dần ở các cái vùng dưới 41 40 41 ba mấy này là cũng được.
+Thì cũng có một số anh em buy hôm qua mình chốt lãi hên cái chốt ở ngay cái vùng này luôn 4210.
+Tối hôm qua lấy tin lên đây thấy sau đó bắt đầu yếu yếu cộng với cản cản H4 nữa.
+Xong thôi mình té luôn.
+Hên xong rồi nó gãy.
+Đấy nó gãy về đến cái vùng này là cái vùng Fibo 0.5 và 0.618.
+Được chưa?
+Đó thì cái mô hình này anh em thấy quen không?
+Fibo Eric.
+Thì ở đây xem thử nó có kéo lên cái gáp không.
+Đấy nếu nếu như này kéo căng nó sẽ kéo lên được 4300 4300 và lấp gáp nhá.
+Đây cái gáp của nó ở 4280 này.
+Đây này.
+Con vàng này có gáp thì khả năng rất là cao.
+Nó sẽ đi lên lấp gáp nhá.
+Và con vàng này cái vùng này là cái vùng hỗ trợ nhá các bạn.
+Đứng mất rồi.
+Cái vùng hiện tại á, cái vùng quen 400 này là cái vùng hỗ trợ hôm trước mình có nói rồi.
+Về đây thì anh em cứ có thể là bài nhỏ, chia nhỏ nếu muốn nhưng mà khi nó gãy xuống dưới 4000 thì 400 về cái đầu 400 á thì lúc đó chúng ta có thể là dừng lại và chờ các cái vị thế ở đầu ba.
+Còn nếu nó vẫn giữ ở đây thì cái xu hướng tăng nó vẫn có khả năng comeback.
+Sao mạng mẽo ngày hôm nay tắt VPN rồi mà sao chậm thế nhỉ?
+Mọi người có đang xem được không hay là tín hiệu bị lag rồi?
+Hello comment cái anh em ơi.
+Hôm qua cảnh báo vàng gãy nên cẩn thận cái nó gãy luôn.
+Đúng rồi.
+Con vàng nó hay chạy trước nhỉ.
+Giờ mấy con spot được tầm 30% tr dưới 70 còn 70.
+Cứ đợi thôi.
+Hôm nay PMI à?
+Hôm nay mình đâu thấy PMI đâu.
+Lag hả?
+Vẫn xem được đúng không?
+Nhưng mà trên màn hình nó cũng đang xoay giống của mình đúng không?
+Không biết vì sao nữa.
+Lag quá hả?
+Lag không?
+Tức là các anh tín hiệu ở trên mọi người đang bị lag.
+Hay là cái lag là lag do nó xoay cái màn hình này.
+Nếu mà xoay cái màn hình này là do của mình nó bị đứng nhá.
+Chứ không phải là do các bạn đang xem bị đứng đâu.
+Hiểu không?
+Phân biệt được không?
+Cái này là do của mình nó bị lag thì mình không biết là do cái mạng chung nó bị lag hay là do của mình nó bị lag.
+Do cái màn hình của mình thôi đúng không?
+Đây nó vẫn không ra tự nhiên nó đứng trading view luôn.
+Đừng bảo nó bị bị nó bị khóa face Trading View ở Việt Nam giống như đợt trước chứ.
+Thôi xem tạo ở bên những cái chỉ số khác tí đi.
+Chờ tí xem sao.
+À màn hình lag.
+Ok.
+Liquid hai bên này. 131 133 browser của mình lag đúng không?
+Không biết lý do là gì.
+Xem lại cái a return cái nhá.
+Đây tháng 9 là hết quý ba chưa anh em?
+Hết quý ba rồi phải không? Ờ quý ba chúng ta đã có sự tăng trưởng ấn tượng 42,7% gần như là cao nhất đó.
+Chỉ sau năm 2017 và sau năm 2010 ừ sau năm 2017 thôi. 80% thôi.
+Ok.
+Năm 2017 này khủng khiếp không?
+Quý 2 123 quý 3 80 quý 4 215%.
+Kinh khủng không?
+Khiếp nhỉ.
+Lịch PM 2100 tối nay á xem nào.
+Lịch tin tức vĩ mô PM investing hay là của nước khác. 13:1500 để xem nhá.
+Đây thất nghiệp UK US trợ cấp thất nghiệp trợ cấp thất nghiệp trợ cấp thất nghiệp chỉ số PMI của Brazil FOMC của những cái ông trong team Fed thôi.
+Đây có PMI của Canada nhá.
+Hay là nhầm qua thằng khác rồi hay nhầm qua nước khác rồi?
+À đây US chỉ số quản lý thu mua PMI sản xuất tháng 9 hả? Ờ PMI tháng 9.
+Ơ mà sao ở bên kia nó không có nhỉ?
+Sao bên Investing nó à bên forest Factory này nó không có hiện ta?
+Bình thường PMI nó sẽ được vào dán setting màu đỏ mà.
+Đây rồi.
+A hồi ừ đây.
+Ok.
+Hôm nay có tin PMI nhưng mà cái tin này không phải là tin màu đỏ cho nên nó không có hiện lắm hiện ra nhá.
+Tin này thì mình đánh giá không quan trọng lắm đâu.
+Đây giống như một số FOMC thành viên Speaker rồi đang có những cái sự phục hồi lên trong ngắn hạn.
+A kéo lên kéo xuống.
+Gom thì sợ sập, chờ đợi thì sợ bay luôn.
+Làm sao thì mới đúng.
+À cái vấn đề ở đây đó là do chúng ta sợ thôi mà.
+Sợ là cái xử lý cái cái tâm lý phải đỡ tâm lý.
+Thế thì cách xử lý đó là đừng có sợ nữa.
+Làm sao đừng có sợ nữa.
+Một là đừng có nhìn nữa.
+Đừng nhìn thì đừng sợ.
+Không biết thì không sợ. đó mà hai thì phải đối diện với nó rồi vượt qua thôi.
+Sợ hồi nó hết sợ, sợ hồi nó quen giống như các bạn sợ ma đúng không?
+Chẳng qua do các bạn chưa gặp ma thôi.
+Các bạn gặp nhưng mà nó gặp nhiều quá cuối cùng lại hết sợ.
+Đấy có hai cách thôi.
+Một là tránh đi những chỗ nào có thì chúng ta đừng có gặp hết sợ.
+Mà hai là phải cứ gặp liên tục rồi hồi nó quen thì hết sợ nhá.
+Chỉ có như thế thôi, không có cái két nào khác đâu.
+Sợ quá. mỗi ngày mua một ít.
+Đúng rồi.
+Cái đó thì cái phương pháp mà chúng ta vượt qua những cái rào cản về mặt tâm lý đấy chưa nhỏ.
+Giá nó cứ lòng vòng ở trong cái vùng này thì cũng chịu thôi.
+Đấy nhưng chỉ có riêng con vàng thì mình thấy là cái xác suất nó tăng rất là cao.
+Rồi để điểm qua vài con oncoin mà lúc nãy anh em hỏi nhá.
+Dùng Extension VPN hả?
+Cái này Cloud hả?
+À cái cái này lâu lắm rồi.
+Ngày xưa nó là một cái tên khác.
+Bữa nay mình không nhớ là nó tên là cái gì đây.
+Xem đã.
+Free VPN for Jerome mình chả biết nó tên à đây.
+Proy VPN VN VPN nghe có vẻ Việt Nam nhỉ.
+Đấy anh em gõ V và V EPN. cách mà cách viết viết cái từ mà bố láo như thế này thì thường nó hay nằm ở mấy cái ông Việt Nam mình rồi ICP còn cửa tăng không cái gì mà đua 9x không đua ở giá 9x à tính ra con này đang là ngon rồi chứ ấn tượng hơn so với tưởng tượng của mình rồi đấy này là ngon rồi. mua giá 2 đô rồi.
+Bây giờ cứ ngồi im mà chờ thôi.
+Chung đối với mình thấy oncoin nó không có được an toàn lắm nhỉ.
+Ơ con con này có tăng được không?
+En này, injective này, D1 hỗ trợ được cái H4 hai đáy này.
+Hai đáy mà kẹp MA như này thì cũng đáng thử đấy.
+Nhưng mà phải luôn nhớ là cái rủi ro mà Bitcoin nó đang dọa SL 4%.
+TP thì trên này 9%.
+Sóng giám sát hả?
+Con hip mà cũng nằm trong giám sát hả?
+Cái người Long ETH 2k4 sọc 1k6 à. Ờ chịu ạ.
+Quên lâu lắm rồi không nhớ nữa.
+Hip và tao.
+Hip và tao.
+Hip và tao.
+Hip vừa có cái tin gì mà nó trả lại một cây ác vậy?
+Ngay Fibo luôn.
+Cái con này bây giờ rất là dễ phết cao nhá.
+Con tao thì mình không biết.
+Tao này thì có vẻ còn tốt hơn, còn lực hơn.
+Tao này thì tốt nhất là nên chờ nó break out đi rồi mới tính được nhá.
+Chờ nó break out đi rồi mới tính được.
+Xui xui thì chắc cũng không có biên mà chơi.
+Mấy con này ở đây bây giờ không có biên mà chơi nữa.
+Hôm nay có con này mình chịu nhá.
+Bỏ qua đi.
+Có con m Monas.
+Con này mình cũng follow đợt trước rồi nhưng mà không có vào.
+Con này thì mình biết kiểu gì nó cũng dễ tăng ấy nhưng mà nhưng mà market nó nó cũng đi xa quá thành ra tôi cũng không có muốn lắm.
+Chạt gì mà không có nó đủ ấ nhỉ.
+Cu coi xem nào mấy con này hay là tối đa là như vậy thôi chắc cũng vậy thôi.
+Đây con này đợt trước mình xem chắc loanh quen khoảng hai mấy 25 25 26 gì đó 30% à.
+Hàng như này bây giờ trên thị trường này cũng khá nhiều. Ờ apt xem thế nào rồi.
+Chắc cũng đi sideway ở đứng cắm mỏ rồi.
+Tám mấy bây giờ gại về dưới này rồi.
+Con này thì đang về M nhưng mà theo lịch sử thì cái MA đối với nó gần như không có tác dụng.
+QNT con này còn biên không? 300 à?
+Con này chắc còn biên lên đó.
+Con này đừng có đi sale nó.
+Còn pin lên mấy cái con này nhá.
+Mấy cái con này thì anh em nếu mà phô nó thì cứ chờ những cái vùng mà nó chưa quét á.
+Đấy, chờ nó về đó.
+Đôi khi nó ra tin nó quét về đây.
+Ví dụ như xa như vậy thì chờ H4 ở quanh 230 200 210 này.
+Còn H1 thì có thể là nó quét căng thì quét về cái râ này là khoảng tầm 200 này.
+Đấy, nếu có quét về đó thì chơi, còn không thì thôi chứ mình không có phomo.
+Đấy, nếu không có chơi thì chờ về đây rồi tính chờ về quét về trong cái vùng này rồi rồi bắt lên.
+Near thì vẫn thế thôi.
+Đây vẫn trụ H1 chạm bật lên này.
+Khỏe này.
+Nia này vẫn khỏe đấy.
+Nhìn à lúc nãy có bạn hỏi mình là Nia có hai đỉnh H4 hay không?
+Thực sự thì cũng không hẳn là hai đỉnh đâu.
+Nhìn thì rất là muốn sót nhưng mà cũng thận trọng bởi vì đây nó phá cái trend line này nhá.
+Bây giờ nó đang lên lại được chưa?
+Nó đang lên.
+Có thể đây là cái nhịp back test trend line này nhưng mà cũng có thể nếu mà nó chui vào lại trong cái trend line này tức là lên trên khỏi được 5.6 6 là coi như cái lực vừa rồi nó đã phá được cái lực giảm, cái lực tăng này nó phá qua được cái lực giảm trước đó thì nó có khả năng nó tiếp tục.
+Đấy cho nên thận trọng với con này.
+Rất là nhiều ông đang muốn đi sale con này.
+Hôm qua mình có cho anh em test thử con này sale nhưng mà vẫn không được đấy.
+Nó là đang như thế.
+Link ờ Link hả?
+Link thì vẫn còn cái vùng Fibo là 17.
+Fibo của nó thì vẫn đang 17.
+Khung lớn thì khung lớn thì khả năng là vẫn còn lực lên đấy.
+Nhìn khung lớn thì vẫn còn lực đấy.
+Nhưng mà H4 xem nào. Ở H4 ở đây thì khả năng vẫn vẫn vẫn có cửa để đi lên tiếp mà.
+Còn không thấy an toàn thì chờ khoảng 14.0 cho đến 13.8 để chờ cái cú kill đó.
+Chờ cái củ kêu.
+Rồi rồi rồi rồi vào thế nà.
+Thôi vừa check xong rồi.
+Có gì đâu mà check nữa.
+Bnb à.
+Xem nhá.
+BNB mình nghĩ là vẫn còn đấy.
+Bên B này nó giống Bitcoin á.
+Con này nó đi sóng giống Bitcoin này.
+Tức là cái biên lên của nó vẫn còn nhưng mà ở đây nó đã bắt đầu gặp cả bán.
+Cho nên là chờ xem thử nó có qua được cái cái lực bán ở đây hay là nó cần phải về test sâu nữa.
+Ví dụ như ở đây nó cần phải về sâu hơn á thì nó sẽ về đến đây đây.
+Đấy nó về đến khoảng 750 746 đó.
+Rồi nó nó có thể là nó sẽ về đó rồi nó mới quét lên lại.
+Đây ví dụ như đây ha.
+Đây nó về đến đây đấy.
+Rồi nó mới break lên.
+Thì cái nhịp tiếp theo break là nó sẽ đứng ở trên khoảng 820.
+Đấy thì các bạn có thể vào quanh cái vùng 750 nếu mà nó về và có tín hiệu đẹp.
+Thế thôi.
+Con coin nào có thể gom sport được á.
+Không, câu này mình không trả lời được.
+Thực tế mà nói thì oncoin con nào cũng gom được, con nào cũng mua được.
+Quan trọng là cái cái sức mua và cái sức chịu đựng của bạn nó đến đâu và cái mục tiêu đến đâu thôi.
+Cái đó mới là cái quan trọng chứ còn lại oncoin thì con nào m cũng được hết nhá.
+Chứ hỏi là oncoin nào g được Nó khó nói lắm.
+Strk.
+Con này thì đang hồi tốt.
+Con này nó gảy về ở đây cũng hợp lý đấy. 0.5 luôn này.
+An toàn thì có thể là chờ nó về test lại cái vùng này này. 36 này này.
+Rồi tính.
+Đấy, còn là đi như vậy thì cứ thả thôi chứ đi như vậy bạn hỏi để với mục đích gì nữa đúng không?
+Đi như vậy nếu mà bạn đang có hàng rồi thì cứ giữ bình thường.
+Nếu mà chưa có hàng thì cũng không có nên formo ở đây mà nên chờ về cái nhịp giữa này, Fibo này.
+Đấy, 35 36 gì đấy.
+Rồi rồi rồi rồi xem xét.
+Thế thôi, chỉ có hai trường hợp là như vậy thôi.
+AVNT này cũng hồi được một tí này.
+À vừa thấy đâu rồi?
+Đây này.
+Cũng 13.
+Cái con này tính ra nó chạy cũng chậm hết.
+Aster 75 này.
+Gáp vàng á.
+Gáp vàng đây.
+Gáp vàng đây nè.
+Đây này. 4280 này. 4276 này.
+Đấy.
+H4 này của vàng mà đóng sen thì mình thấy khá là đẹp.
+Ví thì bây giờ nó sẽ dập dìu ở trong này chứ biết nó đi về hướng nào.
+Đi sideway nhá.
+Cho nên là phương án của mình thì mình sẽ chờ nó test lại ở cái vùng khoảng 84.005 8400200 gì đó.
+Con card hả?
+CR collector crypto.
+Mấy con này thực sự là mình không có ý tưởng gì bởi vì mấy con này bây giờ anh em có nhảy vào FOMO quá không có vào làm gì hết. bỏ qua thôi.
+Mấy con này thông thường mình bỏ qua con coin không delete thì chúng ta có thể mua cho đến lúc nó bị delete Ada với AVC.
+Avac AV này.
+Bây giờ các bạn làm gì?
+Các bạn phải hỏi cho mình biết là cái vị thế như thế nào nhá.
+Còn nếu mà trong trường hợp các bạn đang có vị thế thì mình không nói, đang có vị thế tốt ở dưới này thì thôi không cần phải bàn.
+Còn nếu mà chưa có vị thế đi, khung ngày này.
+Đấy chưa có vị thế thì cứ chơi cái bài chờ test.
+Đây lanh quanh cái vùng này.
+Đấy.
+Chờ test vùng này tính.
+Còn lại chơi FOMO thì bó tay.
+Formo ở đây mình thấy là không có có không có cơ sở lắm.
+Formo ở đây thì nếu mà scapping á, scapping H1 hả?
+Scapping H1 thì cũng đã break rồi.
+Đây scapping H1 thì SL dưới đáy thôi.
+Nhưng mà nhưng mà khả năng bị lụm SL rất là cao nhá.
+Đây nếu mà đánh scapping kiểu này đấy thì cũng được nhưng mà khả năng bị lụm stop los ở đây rất là cao cho nên là đi volume cho nó thận trọng vào thế thôi.
+Còn nếu mà dài hạn thì đây dài hạn chờ cái vùng ngoặc ngoặc này.
+ADA thì cũng xem 0.15 15 dưới này.
+ADA này bây giờ 56% là nó đã trả lại so với cái vùng giá trị mà hồi nó bị phú rồi đó.
+Hồi mà cái cái ông CEO á Chucklist gì đấy ông này ông này thời đó ông bắt đầu đi nghỉ mát là ở cái vùng giá 0.2 mấy này.
+Sau đó bị delete bị panic về 0.15 15 thì bây giờ nó đã về lại cái vùng phục hồi về lại cái vùng bắt đầu đi nghỉ mát rồi.
+Có vẻ là chắc đi nghỉ Holiday về rồi.
+Anh em thấy dạo này không có ai hỏi ETH không?
+Mọi người có thấy đặc điểm đó không?
+Tức là những cái con mà anh em hỏi đa phần là con FOMO thì cũng giống như ETH cái thời nó tăng ạ.
+Ngày nào cũng các ông cũng hỏi ETH.
+Từ đó đến đây mình thấy chải.
+Từ khi nó lên 2007 không có ông nào hỏi hát nữa mà cũng đúng thôi.
+Bởi vì bây giờ có hỏi cũng không biết làm gì.
+Về chắc nó cũng không về mà lên nó cũng không lên.
+Đánh vàng trên bên XD lệnh riêng thì nên đi 7 bao nhiêu cho hợp lý hả?
+Nó còn tùy theo stop loss nữa chứ.
+Nếu mà đi lệnh riêng ấy, ví dụ nhá, bây giờ cái biên của vàng đoạn này thì đánh SL khoảng tầm 30 giá là hết sức.
+Đấy, 30 giá thôi.
+Ví dụ ở đây 75 về 45 là căng lắm rồi.
+Đấy, 45 đây. 45 là ở đây là 0.67%.
+Ví dụ các bạn đấy, x100 là x100 là bao nhiêu? 67% hả?
+Đấy là tối đa là x100 thôi.
+Mua mỗi ngày thì mình vẫn boss nó vẫn tự động lo mua thôi.
+Mình chưa đi lệnh lớn bao giờ.
+Nếu giờ đi lệnh 10k thì với biên hiện tại của Bitcoin đ future bao nhiêu thì phù hợp?
+Vốn 10k hay là tài khoản 10k? tài vản 10k và chia vốn mỗi lệnh 1000 hay là bao nhiêu.
+Còn nếu mà đi tổng đi luôn cái vốn 10.000 1000 đô tiền ròng á thì đi đoàn 7 giai đoạn hiện tại thì mình nghĩ là đi 7 khoảng tầm x10 x10 cho đến khoảng x15 chốt ETH 8000 hợp lý mà chắc đôi khi 6000 thì nhảy hết rồi.
+Sao không ai quan tâm Pi hả? Ở 6k là té sạch đi.
+Một lệnh á.
+Một lệnh thì đấy lúc nãy mình nói rồi.
+X10 thôi.
+Với lại tùy biên bạn muốn đánh.
+Nếu mà đánh xe win thì đánh vậy.
+Eth Bundun sau mùa sau lên được hai con số hay không?
+Này hỏi mình bây giờ thì để mình đi hỏi Vanga đã.
+MNT á MNT thì coi sàn này có gì đâu mà check bây giờ ta cũng ăn theo nấy leo với lại market chung thôi chứ chck cái gì nữa bạn coi gì nữa mà check đấy con này đam mê thì cứ lao người vào đơn giản thôi.
+Live hả?
+Live vẫn là 1/2 Pi không biết dạo này thế nào rồi.
+USDT vẫn ở tại đấy.
+Vẫn đẹp đúng không?
+Khả năng là nó tạo base ở cái vùng này rồi đấy.
+Mẹ đến tuần thế này các ông còn chờ gì.
+Chắc là tạo base ở đây nó sẽ đi sideway ở trong cái vùng này.
+Arb PP nào me mùa này thất vọng nhỉ?
+Me đợt này không cóõ được một cái con sóng nào để lấy lại thể diện luôn.
+Ta này ô ta này kể ra có những cái pha back test ngon đấy chứ.
+Thiếu một cái pha rũ ở đằng dưới nữa thì tuyệt vời.
+Con này đúng là nó thiếu một cái pha cái pha này pha đây này nó phách về dưới này sau đó lại đi lên thì nó mới đúng mới nó chuẩn rồi.
+Đi như vậy thì có vẻ hơi đáng tiếc.
+Con alt xem nào.
+Alt con này đây không ai thèm để ý nó.
+Đấy.
+Mấy con này nó cũng tạo b hết rồi.
+Tạo cái vùng dưới này hết rồi. 0.05 khoảng không 2% hai mươi mấy phần trăm 23 24% hoặc là con AXL.
+Xem nào.
+Mình check vài cái con cũ không ai để ý không ai quan tâm nó.
+Đấy cũng vậy thôi.
+Những con này cũng như nhau chung một cái biểu đồ.
+Ono thì quá ngon rồi.
+Break rồi.
+Me ờ chắc có bị hy vọng mình nghĩ là me cũng nên có một cái sóng bay chứ đợt này không thấy sóng.
+Mà me nó bay thì có thể là là cái nhịp cuối của market.
+Đây này.
+Nó đang gặp cản này.
+À bảo sao nhưng mà gặp cản này thì chắc cũng phá sớm thôi.
+Đây ví dụ như tụi này chắc cũng phá sớm thôi.
+Nhưng mà đừng có FOMO nhá.
+Mẹ phomo đây.
+Đâu rồi đây.
+Đấy.
+ICP à.
+Ngày hôm nay sao nhiều ông hỏi ICP thế nhỉ?
+Lại chắc lại có idol nào đi phím con ICP rồi.
+Mình tin chắc là như thế.
+Khai thật đi.
+Vì sao hôm nay anh em lại quan tâm ICP thế?
+Lại đi follow một thằng nào đó nó lại đi chia sẻ con ICP tiềm năng hả?
+Rồi bây giờ anh em lại nhảy vào đây để đi hỏi entry đúng không?
+Phải không?
+Nói thật đi, không chơi tới hết đời à?
+Nói thật xem nào.
+Mình chắc chắn luôn.
+Chắc chắn hôm nay có vẻ là nhiều anh em con xem con ICP trong khi con này hôm nay không có tăng mạnh không phải là quá ấn tượng đúng không?
+Con này cũng bình thường đây.
+Nó cũng đang cũng đang đang đứng bình thường đấy.
+Thì chắc chắn là có một thằng nào đó nó đang đi share cái nó đang đi view cái con này.
+Và bây giờ các ông đang đi hỏi rồi phải không?
+Đấy, khai thật xem nào để mình biết cái tâm lý anh em nào.
+Một con một người là không sao nhưng mà một con cứ nhiều ông hỏi là kiểu gì.
+Một á là nó đang bay đấy.
+Mà hai á là con này đang được ông nào đó ông ấy phím kèoấy.
+Ông ấy phím thành ra là anh em đang muốn mua lắm rồi nhưng mà đi vào hỏi cho nó phomo.
+Idol à?
+Idol nào mình không biết nhá.
+Đấy nhưng mà nếu là như vậy thì khả năng chắc vậy rồi đấy.
+Thấy đoán đúng không?
+Có ông nào đó đi phím là các ông lại cứ sồn sồn cả lên.
+Trong khi bình thường chả ai để ý nó.
+Anh em biết như vậy là nó sẽ khiến ra cái hiệu ứng nặng tàu hay là nhẹ tàu rồi đấy.
+Tự đó chúng ta nhìn biết là vì sao chúng ta cứ hay bị lỗ thôi.
+Và đây đó có không?
+Đấy chắc là có.
+Mình nghĩ chắc là có.
+Chắc là có idol nào đó vừa đi phím con ICP đốt nữa hả?
+Con này bây giờ thì tất nhiên nếu mua thì thì đều được cả thôi.
+Nhưng quan trọng là các anh em mua có trụ được đối với cái view này hay không?
+Phải không?
+Ví dụ nhá. Ở mua ở đây có thể là nó sẽ về test 0.95 95 đấy.
+Đấy là khoảng 25% đấy.
+Thì đến lúc đó lại ngồi lại khóc là chết bởi vì khung tuần mà nó chạy theo khung lớn mà.
+Về đây 0.95 nó giảm 30% thì nó mới có những cái nhịp nó lên x3 x4 chứ.
+OP ấy.
+À pô sale thôi.
+Không có gì nhiều.
+Con này mình nghĩ là anh em cứ chờ cái biên Fibo này này.
+Mau nó chắc về để cứ chờ nó về đây này.
+Trong cái đoạn này lưng chừng này khoảng chấm 0.11 gì đấy thì tính nhìn thế thôi.
+Ít bữa nó Bitcoin nó nó lại đung một phát 10%.
+Ví dụ nhá bây giờ nó Bitcoin nó gãy về khoảng 70 đi.
+Oncoin nó này nó lại về đến cái vùng 0.09 này thì anh em lại x cả mặt ra. Ừ nghe sếp từ trước con ICP giờ vẫn theo dõi ở thì theo dõi thì theo dõi thôi.
+Nhưng mà nếu mà đã theo đã xem từ trước nhá.
+Nếu mà bạn đã nói là xem từ trước thì không lý do gì.
+Bây giờ bạn lại hỏi là chờ giá nào để mua được.
+Đấy được chưa?
+Khi nó đi như này thì không lý do gì.
+Bây giờ bạn lại hỏi là chờ giá nào để mua được?
+Chứng tỏ là chưa mua.
+Đấy.
+Chưa mua.
+Mà bây giờ muốn mua ở cái vùng này thì chắc là đang phomo.
+Còn nếu mà theo view của mình mà chờ bí thì cứ yên tâm ngồi chờ thôi.
+Có thì hưởng mà không có thì thôi.
+Bởi vì sao?
+Cái thời điểm mà anh em hỏi entry và muốn mua ấ ở trong cái thời điểm mà thị trường nó phomo như này rất là nhạy cảm.
+Cái tâm lý của mọi người sẽ được thể hiện ở đây.
+Cho nên là mình mới bắt xem thử là nó có đúng cái tâm lý hay không. Ờ đóng H4 rồi quay lại ví giải tán m thì hôm qua có vẻ là tăng con này thì H4 đóng nói chung là H4 đóng này vô nghĩa nhá no meaning vô nghĩa chịu không hiểu nó đang muốn cái gì các bạn ơi.
+Tầm này anh em mình cứ ngồi im thôi.
+Chờ nó qua cơn này rồi tính nhá.
+Cứ lên quên vài chục giá, vài trăm giá thế này không ăn thua gì.
+Nhưng chỉ có cái là hôm nay thì mình thấy là anh em hạn chế long phomo nhá.
+Hạn chế long AAve giá hầu tru bị 125.
+Ok xem câu này cuối cùng nhá mọi người.
+Sau đó chúng ta sẽ nghỉ nhá.
+Ave giá hâu trung bì 127 cạn trên vùng nào quan sát?
+Ok.
+Câu này khá là hay này.
+Nó phải đúng như vậy.
+Wow, tăng đẹp thế.
+Con này chắc còn biên tăng hả?
+Con này chắc còn FOMO được lên được 174 hả?
+Căng vậy lực nhỉ.
+Con này còn căng đấy.
+Con này thì chắc nếu mà 127 mà sport thì cứ giữ thôi, cứ ngồi im thôi.
+Chứ còn nếu mà con này đánh nhỏ thì khoảng 177, đánh lớn thì 300.
+Đánh khung lớn lên 85 à.
+Lên 85 mà đóng được H4 ở trên cái vùng đó thì khả năng là bay luôn.
+Bạch tiếp lên 90.
+Còn lên đó mà không thành công thì mới là đi xuống lại nhá.
+Ok, chúng ta nghỉ thôi ha.
+Cảm ơn tất cả anh em, hẹn gặp lại vào tuần sau nhá.
+Hôm nay thứ sáu rồi, đặc biệt là tối ngày hôm nay mọi người nên thận trọng.
+Tối hôm nay mình dự kiến là cũng khá là kinh hoàng đấy.
+Mình đoán là như vậy, có cảm nhận là như thế nha.
+Cho nên là mọi người à đúng lên ken trên chck sót được rồi á.
+Rồi nghỉ nhá.
+Cảm ơn tất cả anh em.
+Hẹn qua tuần sau chúng ta gặp lại nhá.
+Ok, bye bye.
