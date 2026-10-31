@@ -1,0 +1,47 @@
+{
+  "buoi": "2026-08-10_1001_8BGhoFetSaU",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/zip_clean/2026-08-10_8BGhoFetSaU.txt",
+  "gia_btc_luc_noi": 65000,
+  "dau_buoi": {
+    "thien_huong_h4": "GIAM",
+    "gio": "[00:14:55]",
+    "trich": "Hiện tại vùng này thì mình vẫn nghiêng vào cửa giảm hơn là cửa tăng. Mình vẫn thiên vào cửa giảm nhiều hơn là cửa tăng."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "TANG",
+    "do_chac": "thap",
+    "gio": "[01:03:07]",
+    "trich": "H4 của nó vẫn giữ xu hướng tăng cho nên tất cả những lệnh sell hiện tại là đang đánh ngược xu hướng. Anh em lưu ý."
+  },
+  "doi_y_giua_buoi": true,
+  "ly_do_doi_y": "Đầu buổi nói nghiêng cửa giảm; sau khi phân tích lại (nến tuần xanh đóng trên Fibo 0.5 ~62.500, chân 63.000 được giữ, dạng vai đầu vai ngược; H4 cấu trúc phục hồi 'rất cứng'), chuyển sang cảnh báo phe short, coi sell là ngược xu hướng H4 và chờ về 64.300-64.400 để đánh lên.",
+  "chang_ke_tiep": {"huong": "GIAM", "dich": [64000, 64400]},
+  "duong_di": [
+    {"huong": "GIAM", "dich": [64000, 64400]},
+    {"huong": "TANG", "dich": [66000, 67000]}
+  ],
+  "dich_chinh": [66000, 67000],
+  "han_gio": null,
+  "vo_hieu": null,
+  "lenh": [
+    {"chieu": "SHORT", "vao": null, "tp": [64600], "sl": null, "trang_thai": "da_dong"},
+    {"chieu": "LONG", "vao": [64300, 64400], "tp": [66000, 67000], "sl": null, "trang_thai": "de_xuat_moi"}
+  ],
+  "hanh_dong": "dung_ngoai_cho_entry",
+  "khung_lon": {"D1": "PHAN_VAN", "W1": "PHAN_VAN"},
+  "pha_vo_gia": "Nến H4 đóng xanh có râu 'cực kỳ dụ short'; nếu thủng trendline thì 'đôi khi nó thủng kỹ thuật thôi' — quét về ~64.000 lấy stop loss phe long FOMO rồi rút râu lên vẫn giữ xu hướng tăng.",
+  "trich_them": [
+    {"gio": "[00:19:03]", "cau": "có một cây nến tuần màu xanh và đóng nến trên vùng 62.000. Và các bạn biết cái 62.000 5 này mình vẽ ra màu xanh này là cái gì không? Đây là vùng Fibo 0.5 của nhịp này."},
+    {"gio": "[00:20:39]", "cau": "63.000 nó vẫn được giữ và nếu chúng ta nhìn chỉ xét trên khung nến tuần thôi thì xu hướng này nó đang là vai đầu vai ngược ... Đây là một trong những tín hiệu rủi ro cho phe cứ cố đi short cả thị trường."},
+    {"gio": "[00:21:10]", "cau": "đôi khi nó vẫn là nhịp lên test ví dụ như test 68 test 72 rồi nó mới gãy xuống là chuyện hết sức bình thường đối với khung nến tuần."},
+    {"gio": "[00:22:16]", "cau": "phạm vi cuối cùng của anh em short là ở vùng 66 đến 67 này. Nếu giá nó bật lên trên 67.000 mà đóng nến ngày thì chắc chắn là các bạn bắt buộc phải rời khỏi tàu thôi."},
+    {"gio": "[00:23:22]", "cau": "Thì H4 ở đây mình muốn nói anh em thấy xu hướng của thị trường nó đang tạo ra là một xu hướng tăng rất là bền vững. Xu hướng phục hồi của H4 rất là cứng."},
+    {"gio": "[00:23:53]", "cau": "Xác suất mà nó chạm đến vùng này là không thấp đâu. 66.8, 66000, 67."},
+    {"gio": "[00:24:29]", "cau": "Mình vẫn đang cho anh em một lệnh scalping đánh xuống. Tuy nhiên là lãi rồi lỗ lỗ rồi lãi ... chờ H4 này đóng xong. Nếu H4 này đóng xanh là out."},
+    {"gio": "[00:25:35]", "cau": "Vùng này chưa phải là một vùng để chúng ta long phù hợp mà thực tế ở đây thì đang nhìn nhận là những rủi ro có khả năng xảy ra cho phe bán phe short."},
+    {"gio": "[00:28:45]", "cau": "Cho nên chiến lược của anh em mình hôm nay là đánh ngắn ăn ngắn chứ không ăn dài đối với những nhịp thị trường như này. Maximum ở đây mình sẽ ăn ở 64k6 là hết tối đa là mình sẽ húp mình sẽ trốn."},
+    {"gio": "[01:00:46]", "cau": "Nó đóng xanh nhưng lại dụ short, đóng xanh kiểu này cực kỳ dụ short luôn ... Chờ nó breakout xuống như thế này là tính, nếu mà có về khoảng 64.300, 6400 gì đó thì chờ nến đảo chiều đánh lên."},
+    {"gio": "[01:02:34]", "cau": "Đẹp nhất là cứ phải chờ nó về đến vùng này, 63.000 hay 64.000 6400 gì đó. Đừng thấy nó thủng trendline này mà cứ cố cắm đầu xuống tận dưới. Đôi khi nó thủng kỹ thuật thôi."}
+  ],
+  "kho": "Đầu buổi nói nghiêng giảm, giữa buổi khẳng định 'không khuyên long cũng không khuyên short', cuối buổi coi sell là ngược xu hướng H4 và chờ 64.300 để long — gán TANG/thấp, đổi ý. Đích 66-67k lấy từ câu 'xác suất chạm ... không thấp', không phải TP nêu rõ. Mốc 67.000 D1 là mốc thoát cho phe short (view giảm cũ), không có mốc vô hiệu cho view tăng. Giá lúc nói ước ~65k (không nêu trực tiếp)."
+}

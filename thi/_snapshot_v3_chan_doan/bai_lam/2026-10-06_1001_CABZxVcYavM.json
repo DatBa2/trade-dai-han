@@ -1,0 +1,99 @@
+{
+ "buoi": "2026-10-06_1001_CABZxVcYavM",
+ "ngay": "2026-10-06",
+ "gio_vn": "10:01",
+ "gia_btc_luc_noi": 85522,
+ "nhan_dinh": [
+  {
+   "khung": "H4",
+   "huong": "PHAN_VAN",
+   "do_chac": "vua",
+   "dich": null,
+   "han": "chờ nến H4 đóng ra khỏi vùng 84–87, trong 1–2 ngày",
+   "han_gio": 48,
+   "vo_hieu_khi": "chờ xác nhận: H4 đóng thủng 84.000 → mất cấu trúc tăng, tính short về 82–81; hai cây H4 đóng trên 87.000 → tính long lên 90–92. Ở giữa 84–87 thì ngồi im",
+   "kich_ban_phu": null,
+   "duong_di": null,
+   "doi_y": null,
+   "ly_do": [
+    "giữ view 05/10: chưa có H4 nào đóng dưới 84 hay hai cây trên 87",
+    "87 vẫn là cản ba đỉnh (87.238 / 87.283 / 87.399), đỉnh H4 thấp dần 86.994 → 86.720 → 86.143",
+    "nhưng về 85 (râu 84.980) không thủng 84 — đúng chỗ người đó nói 'về 85 không thủng 84 thì đừng sale'",
+    "giá ngồi ngay mép trên dải EMA34 H4 (84.735–85.496), trên EMA89 H4 83.931 — 86 lằng nhằng, chơi đầu nào cũng mệt",
+    "D1 thứ Hai đỏ -0.88% nhưng râu dưới rút chân; khung tuần vẫn xanh — hai phía ngang nhau"
+   ],
+   "trich": null
+  },
+  {
+   "khung": "D1",
+   "huong": "PHAN_VAN",
+   "do_chac": "vua",
+   "dich": null,
+   "han": "vài ngày",
+   "han_gio": 72,
+   "vo_hieu_khi": "chờ xác nhận: D1 đóng trên 87.400 → lên 90; D1 đóng dưới 83.800 → về 82",
+   "kich_ban_phu": null,
+   "duong_di": null,
+   "doi_y": null,
+   "ly_do": [
+    "giữ view 05/10: lực lượng 50/50, giá đang test đỉnh 87 bằng volume yếu dần",
+    "D1 05/10 đỏ sau cây xanh Chủ nhật — đừng FOMO long, nhưng râu dưới 0.9% cho thấy 85 còn đỡ",
+    "giá vẫn trên dải EMA34 D1 (80.1–82.3), cấu trúc D1 chưa gãy"
+   ],
+   "trich": null
+  },
+  {
+   "khung": "W1",
+   "huong": "TANG",
+   "do_chac": "cao",
+   "dich": [90000, 93000],
+   "han": "2–3 tuần",
+   "han_gio": 336,
+   "vo_hieu_khi": "nến tuần đóng dưới 82.000",
+   "kich_ban_phu": null,
+   "duong_di": null,
+   "doi_y": null,
+   "ly_do": [
+    "nến tuần xanh liên tục, tuần trước đóng 86.525 rút chân ở 82–83",
+    "giá trên EMA89 tuần và dải EMA34 tuần",
+    "93 là Fibo 0.5 (126K → 57K) — vùng phân phối, hạn chế sale khung lớn"
+   ],
+   "trich": null
+  }
+ ],
+ "vung_gia": {
+  "khang_cu": [86200, 87000, 87400, 88000],
+  "ho_tro": [85000, 84500, 84000, 82000]
+ },
+ "lenh": [],
+ "hanh_dong": "dung_ngoai_vi_lap_lung",
+ "giu_view": true,
+ "ly_do_doi_view": "Giữ view 05/10: không có H4 đóng thủng 84 hay hai cây đóng trên 87, không chạm đích nào, không tin lớn, không phải đầu tuần/tháng. Nhịp đêm qua chỉ là râu chọc 85.",
+ "rau": {
+  "tren": "86.143 — nến H4 06/10 07:00; trên nữa 86.720 (H4 05/10 19:00) và 86.994 (H4 05/10 07:00)",
+  "duoi": "85.321 — nến H4 06/10 07:00; râu sâu nhất 84.980 (H4 05/10 23:00)",
+  "test_lai": "Râu dưới 84.980 CÓ — chọc 85 chưa đóng, trùng dải EMA34 H4 low 84.735 + Fibo 0.618 nhịp 83.884→86.994 (85.072) + liquid map hai đầu dưới 85, SL phe long nằm sát dưới 85 (R2). Râu trên 86.720–86.994 KHÔNG ngay — đỉnh thấp dần, chỉ test khi có cú fake out lên 87–88."
+ },
+ "vung_on": [
+  {
+   "loai": "SHORT",
+   "khoang": [87200, 88000],
+   "ly_do": [
+    "cụm ba đỉnh 87.238 / 87.283 / 87.399 (H4, D1)",
+    "kháng cự 87 người đó nêu; điểm sale sau fake out quét SL phe sale ở 88",
+    "liquid map hai đầu trên 87.300 + cụm thanh lý 88"
+   ]
+  },
+  {
+   "loai": "LONG",
+   "khoang": [84000, 84700],
+   "ly_do": [
+    "dải EMA34 H4 low 84.735 và EMA89 H4 83.931 ngay dưới",
+    "đáy H4 84.550 = Fibo 0.786 nhịp 83.884→86.994",
+    "mốc 84 người đó nêu (H4 đóng thủng 84 mới mất cấu trúc tăng)"
+   ]
+  }
+ ],
+ "pha_vo_gia": "Cú chọc thủng 85 đêm qua (H4 05/10 23:00 râu 84.980) là phá giả xuống: chỉ râu, thân đóng lại 85.739 trên 85 (G1), phiên Mỹ/đêm (G9), không tới nổi 84. Không đổi view vì cú này.",
+ "loi_binh": "View từ hôm qua không thay đổi gì nhiều anh em. Đêm qua chọc xuống 85 rồi rút chân, không thủng nổi 84, thì như mình nói: về 85 không thủng 84 thì đừng sale. Nhưng trên đầu vẫn là 87 ba đỉnh, chưa có hai cây H4 đóng qua thì cũng đừng FOMO. 86 lằng nhằng, long không được short không xong thì làm gì? Xem livestream — đóng H4 thủng 84 mình mới tính xuống, hai cây trên 87 mới tính lên 90."
+}

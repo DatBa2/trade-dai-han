@@ -1,0 +1,31 @@
+{
+  "buoi": "2026-03-18_oyJGNnpopXw",
+  "ngay": "2026-03-18",
+  "gia_btc_luc_noi": 74400,
+  "moc": [
+    {"gia": 75000, "gia_tren": null, "vai_tro": "tp", "huong": "TANG", "khung": "H1", "can_cu": ["số tròn"], "moc_gio": "00:05:12", "chac": true, "trich": "bet một cửa lên ăn khoảng 75.000 xem sao"},
+    {"gia": 73600, "gia_tren": null, "vai_tro": "vo_hieu", "huong": "TANG", "khung": "H1", "can_cu": ["đáy H1 73.600", "mô hình vai đầu vai H1"], "moc_gio": "00:09:20", "chac": true, "trich": "Nếu nó phá thủng qua khỏi đáy 73.600 này thì về một phát là 71.000 rất dễ"},
+    {"gia": 71000, "gia_tren": null, "vai_tro": "dich", "huong": "GIAM", "khung": "H1", "can_cu": ["mô hình vai đầu vai H1 (thủng 73.600)", "gap CME 71"], "moc_gio": "00:09:20", "chac": true, "trich": "phá thủng đáy 73.600 thì về một phát là 71.000"},
+    {"gia": 75200, "gia_tren": null, "vai_tro": "khang_cu", "huong": "TANG", "khung": "D1", "can_cu": ["Fibo mở rộng 1.618 (nhịp hồi từ 62K, khung D1/H4)"], "moc_gio": "00:11:25", "chac": true, "trich": "giá chạm đến vùng target là 1.618 là 75.200 và rút râu"},
+    {"gia": 72000, "gia_tren": null, "vai_tro": "entry", "huong": "TANG", "khung": "H4", "can_cu": ["MA H4 (giá điều chỉnh về MA)"], "moc_gio": "00:13:01", "chac": true, "trich": "chờ giá điều chỉnh về MA và đánh lên. Nó về khoảng 72.000"},
+    {"gia": 77000, "gia_tren": 78000, "vai_tro": "tp", "huong": "TANG", "khung": "H4", "can_cu": [], "moc_gio": "00:13:01", "chac": true, "trich": "hai cột mốc là khoảng quanh 77, 78 và 80 cho đến 83"},
+    {"gia": 80000, "gia_tren": 83000, "vai_tro": "tp", "huong": "TANG", "khung": "H4", "can_cu": [], "moc_gio": "00:13:01", "chac": true, "trich": "chắc chắn không bao giờ mình giữ quá vùng 83.000"},
+    {"gia": 72200, "gia_tren": 72800, "vai_tro": "ho_tro", "huong": "TANG", "khung": "H4", "can_cu": ["râu nến H4"], "moc_gio": "00:14:33", "chac": true, "trich": "Anh em nhìn các râu nến này. 72.800 và râu dưới này, 72.200"},
+    {"gia": 71700, "gia_tren": 71800, "vai_tro": "entry", "huong": "TANG", "khung": "H4", "can_cu": ["MA200 H4", "gap CME 71k8", "vùng limit hôm qua"], "moc_gio": "00:14:33", "chac": true, "trich": "71.800... mình đoán là ở MA200. Ở 71, 71.700"},
+    {"gia": 75000, "gia_tren": null, "vai_tro": "sl", "huong": "GIAM", "khung": null, "can_cu": ["số tròn"], "moc_gio": "00:15:34", "chac": true, "trich": "muốn short ở đây thì stop loss bắt buộc phải đặt ở 75"},
+    {"gia": 71800, "gia_tren": 72200, "vai_tro": "tp", "huong": "GIAM", "khung": null, "can_cu": ["gap CME 71k8"], "moc_gio": "00:16:05", "chac": true, "trich": "TP về dưới khoảng 72.000 2 và 71.000 8"},
+    {"gia": 71000, "gia_tren": 71800, "vai_tro": "ho_tro", "huong": "TANG", "khung": null, "can_cu": ["gap CME 71 và 71k8"], "moc_gio": "00:18:10", "chac": true, "trich": "gap 71, 71k8 này cũng phù hợp với câu chuyện lấp gap"},
+    {"gia": 80000, "gia_tren": null, "vai_tro": "dich", "huong": "TANG", "khung": null, "can_cu": ["gap CME 80"], "moc_gio": "00:18:40", "chac": true, "trich": "chúng ta vẫn giữ nguyên hai gap đó là gap ở 71 và gap ở 80"},
+    {"gia": 73200, "gia_tren": null, "vai_tro": "tp", "huong": "GIAM", "khung": null, "can_cu": ["cụm thanh lý / heatmap (stop loss phe long)"], "moc_gio": "00:19:13", "chac": true, "trich": "vùng quét stop loss khoảng 73.200... đánh short thì có thể TP1 ở vùng 73.200"},
+    {"gia": 74900, "gia_tren": 75000, "vai_tro": "tp", "huong": "TANG", "khung": null, "can_cu": ["cụm thanh lý / heatmap (stop loss phe short)"], "moc_gio": "00:19:44", "chac": true, "trich": "vùng quét ở phía trên là khoảng 74.900... đánh long thì nên chốt quanh vùng 74.900 cho đến 75.000"},
+    {"gia": 75000, "gia_tren": null, "vai_tro": "tp", "huong": "TANG", "khung": null, "can_cu": ["số tròn", "cụm thanh lý / heatmap"], "moc_gio": "00:35:04", "chac": true, "trich": "Lên đến cái vùng 75 là bắt đầu TP1 là được"},
+    {"gia": 75800, "gia_tren": null, "vai_tro": "tp", "huong": "TANG", "khung": null, "can_cu": [], "moc_gio": "00:35:04", "chac": true, "trich": "Đến 75.800 là TP2"},
+    {"gia": 74900, "gia_tren": null, "vai_tro": "khang_cu", "huong": "TANG", "khung": null, "can_cu": ["Fibo 0.618", "cụm thanh lý / heatmap"], "moc_gio": "00:35:04", "chac": true, "trich": "kẹt ở Fibo 618 nằm ở cái vùng 74k9 này. Ngay vùng 74k9 có một đống thanh lý"},
+    {"gia": 78000, "gia_tren": 80000, "vai_tro": "tp", "huong": "TANG", "khung": null, "can_cu": [], "moc_gio": "00:43:33", "chac": true, "trich": "Lên 78 thì chúng ta cắt 20% volume, lên được 80 chúng ta cắt 50% volume"},
+    {"gia": 100000, "gia_tren": null, "vai_tro": "dich", "huong": "TANG", "khung": "W1", "can_cu": ["số tròn"], "moc_gio": "00:43:33", "chac": true, "trich": "lên 100.000 thì mình nghĩ gần như là chả bao giờ rồi. Tỷ lệ 2% đến 5%"},
+    {"gia": 69000, "gia_tren": null, "vai_tro": "ho_tro", "huong": null, "khung": null, "can_cu": [], "moc_gio": "00:44:03", "chac": true, "trich": "ngày mai nó tụt xuống lại 69.000 (ví dụ giả định)"},
+    {"gia": 73500, "gia_tren": 73700, "vai_tro": "vo_hieu", "huong": "TANG", "khung": "H1", "can_cu": ["đáy H1"], "moc_gio": "00:54:57", "chac": true, "trich": "nó thủng ở cái vùng 73k5 đến 73k7 này thì mình khuyên là các bạn không nên long nữa"},
+    {"gia": 71800, "gia_tren": 72000, "vai_tro": "dich", "huong": "GIAM", "khung": "H1", "can_cu": ["gap CME 71k8"], "moc_gio": "00:54:57", "chac": true, "trich": "khả năng rất là cao nó đấm về tận 71k8 hoặc là 72 luôn"},
+    {"gia": 71000, "gia_tren": 72000, "vai_tro": "dich", "huong": "GIAM", "khung": "H1", "can_cu": ["gap CME"], "moc_gio": "01:09:06", "chac": true, "trich": "Thủng khỏi vùng 73k6, 73k7 này thì té... rụng về đến tận 72 cho đến 71.000. Dưới này có một cái gap nữa"}
+  ]
+}

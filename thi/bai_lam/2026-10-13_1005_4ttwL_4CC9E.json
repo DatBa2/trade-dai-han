@@ -1,0 +1,112 @@
+{
+ "buoi": "2026-10-13_1005_4ttwL_4CC9E",
+ "ngay": "2026-10-13",
+ "gio_vn": "10:05",
+ "gia_btc_luc_noi": 83330,
+ "nhan_dinh": [
+  {
+   "khung": "H4",
+   "huong": "GIAM",
+   "do_chac": "thap",
+   "dich": [80400, 81000],
+   "han": "2–3 ngày (đến hết thứ Năm 15/10)",
+   "han_gio": 72,
+   "vo_hieu_khi": "H4 đóng trên 84.500 (vượt đỉnh đôi 84.200–84.362, đổi cấu trúc đỉnh thấp dần)",
+   "kich_ban_phu": "cây rút chân sáng nay kéo hồi lên quét 84–84.4 trước rồi mới gãy về test hai đáy 80.4–81",
+   "duong_di": [
+    {"huong": "TANG", "dich": 84100},
+    {"huong": "GIAM", "dich": 80700}
+   ],
+   "doi_y": null,
+   "ly_do": [
+    "đích H4 80–82 của view 07/10 đã chạm (đáy 80.400 ngày 08/10) → lập view mới theo khung lớn: D1 vẫn điều chỉnh về 76",
+    "đỉnh H4 thấp dần 87.238 → 86.694 → 84.362; hồi lên 84 hai lần (11–12/10) đều bị bán",
+    "EMA34 H4 đã cắt xuống dưới EMA89 H4, giá đang ngay dưới EMA89 H4 83.492 — MA thành kháng cự",
+    "D1 thứ Hai đỏ -2.28% (đóng 81.853) — nến ngày đỏ thì không đánh ngược; nến tuần trước đóng đỏ -3.19%, phá chuỗi tuần xanh",
+    "USDT.D tăng mạnh lên 6.69% (+0.39 điểm/7 ngày), BTC.D tăng — dòng tiền rút, thị trường dễ bị bán; dầu tăng thì BTC khó tăng"
+   ],
+   "trich": null
+  },
+  {
+   "khung": "D1",
+   "huong": "GIAM",
+   "do_chac": "vua",
+   "dich": [76000, 77000],
+   "han": "5–10 ngày",
+   "han_gio": 192,
+   "vo_hieu_khi": "D1 đóng trên 84.500",
+   "kich_ban_phu": "dải EMA34 D1 80.9–83.0 và hai đáy 80.4–81 khựng vài ngày rồi mới đi tiếp",
+   "duong_di": null,
+   "doi_y": null,
+   "ly_do": [
+    "giữ view D1 07/10: hai đỉnh D1 ở 87, đẹp nhất về 76 = EMA89 D1 76.926 + vùng cung cầu + tường thanh lý 76–77",
+    "D1 đỉnh thấp dần, đáy thấp dần (82.557 → 80.400), RSI D1 xuống 47",
+    "giá đang test dải EMA34 D1 lần thứ hai — test nhiều lần thì yếu"
+   ],
+   "trich": null
+  },
+  {
+   "khung": "W1",
+   "huong": "TANG",
+   "do_chac": "thap",
+   "dich": [90000, 93000],
+   "han": "vài tuần",
+   "han_gio": 504,
+   "vo_hieu_khi": "nến tuần đóng dưới 79.400 (thủng EMA89 tuần)",
+   "kich_ban_phu": null,
+   "duong_di": null,
+   "doi_y": "hạ độ chắc từ cao xuống thấp: nến tuần 05/10 đóng đỏ -3.19%, hết chuỗi tuần xanh",
+   "ly_do": [
+    "nến tuần đỏ nhưng râu dưới dài 3.88% (rút chân từ 80.400), đóng 83.760 vẫn trên 82",
+    "giá trên EMA89 tuần 79.432 và dải EMA34 tuần",
+    "khung tuần chỉ hỏng khi thủng 74–76; điều chỉnh về 7x rồi lên lại 9x vẫn là kịch bản"
+   ],
+   "trich": null
+  }
+ ],
+ "vung_gia": {
+  "khang_cu": [83700, 84400, 85000, 86700],
+  "ho_tro": [81000, 80400, 79500, 76900]
+ },
+ "lenh": [
+  {
+   "chieu": "SHORT",
+   "loai": "limit",
+   "vao": 84000,
+   "tp": [81700, 80900],
+   "sl": 84750,
+   "trang_thai": "de_xuat_moi"
+  }
+ ],
+ "hanh_dong": "dung_ngoai_cho_entry",
+ "giu_view": true,
+ "ly_do_doi_view": "Giữ hướng GIẢM của 07/10. Đích H4 80–82 đã chạm (b) nên lập lại view từ khung lớn: D1 vẫn về 76, đầu tuần (d) xem nến tuần đỏ rút chân — không đủ để lật lên. Chỉ cập nhật đích mới (test hai đáy 80.4–81) và chờ hồi 84 để vào.",
+ "rau": {
+  "tren": "83.606 — nến H4 13/10 07:00; đỉnh gần nhất 84.362 (H4 12/10 11:00)",
+  "duoi": "81.033 — nến H4 13/10 07:00 (râu dưới 1.0%); đáy tuần trước 80.400 (H4 08/10 23:00)",
+  "test_lai": "Râu dưới 81.033 CÓ — râu dài vừa tạo, trùng Fibo 0.5 nhịp D1 74.956→87.399 (81.177) + dải EMA34 D1 low 80.876 + đáy 80.400 tạo hai đáy, SL phe bắt đáy nằm dưới 81 (R1, R2). Râu trên 84.362 CÓ ở chặng 1 — đỉnh đôi 84.2–84.36 là chỗ SL phe short, cụm EMA H4 + kháng cự 84 người đó nêu; quét râu nhưng không đóng qua."
+ },
+ "vung_on": [
+  {
+   "loai": "SHORT",
+   "khoang": [83700, 84400],
+   "ly_do": [
+    "đỉnh đôi H4 84.200 (11/10) / 84.362 (12/10)",
+    "Fibo 0.786 nhịp giảm 84.362→81.033 = 83.649 + mép trên dải EMA34 H4 83.658 + EMA89 H4 83.492",
+    "kháng cự 84 người đó nêu 07/10 (lực bán lớn ở 84, MA600 M30)"
+   ]
+  },
+  {
+   "loai": "LONG",
+   "khoang": [80400, 81200],
+   "ly_do": [
+    "hai đáy 80.400 / 81.033",
+    "Fibo 0.5 nhịp D1 74.956→87.399 = 81.177",
+    "dải EMA34 D1 low 80.876",
+    "vùng entry 81 người đó nêu (06/10)"
+   ]
+  }
+ ],
+ "pha_vo_gia": "Cú thủng 82 lúc 03:00 sáng nay (H4 đóng 81.853) là phá giả xuống: mới 1 cây đóng dưới (G2), cây sau rút chân từ 81.033 lên 83.330 quét SL dưới hỗ trợ 82 (G4), đêm thứ Hai rạng sáng thứ Ba (G5). Vì vậy chưa đi thẳng xuống được — chặng 1 hồi lên 84 trước, hướng giảm của khung ngày giữ nguyên.",
+ "loi_binh": "Tuần trước mình nói 80 đến 82 là vùng về, nó về 80.4 rồi anh em — xong việc chặng đó. Sáng nay chọc thủng 82 rồi rút chân lên 83.3, cây này là cây dụ short thôi, short ở đây là hòa mình vào đám đông. Nhưng đỉnh vẫn thấp dần, MA34 H4 cắt xuống MA89, USDT.D lên 6.7, khung ngày mình vẫn giữ view về 76. Chờ nó hồi lên 83.7–84.4 rồi mới tính short, SL trên 84.7; về 80.4–81 là chỗ chốt, không vào giữa."
+}

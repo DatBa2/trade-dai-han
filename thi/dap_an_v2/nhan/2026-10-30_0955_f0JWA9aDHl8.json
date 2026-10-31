@@ -1,0 +1,49 @@
+{
+  "buoi": "2026-10-30_0955_f0JWA9aDHl8",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/lam_sach/2026-10-30_0955_f0JWA9aDHl8.md",
+  "gia_btc_luc_noi": 77000,
+  "dau_buoi": {
+    "thien_huong_h4": "GIAM",
+    "gio": null,
+    "trich": "H1 này hơi đẹp, nhưng cái râu này phải test phát nữa, hoặc back test về đoạn này thì may ra mới lên được. Tức là vẫn phải có một pha điều chỉnh về quanh vùng Fibo 76.000 gì đó... Đẹp nhất là chờ nó hồi lên vùng Fibo 79 này."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "GIAM",
+    "do_chac": "thap",
+    "gio": null,
+    "trich": "Mình vẫn thích phương án sale hơn. Long thì không đẹp, vì mình bật khung tuần, ai đi long khung tuần đâu... Hồi lần này mình nghĩ cơ bản là thị trường đang hồi kỹ thuật chứ không phải tăng bền... View không đổi nhá. Bitcoin thì đoạn này bắt đầu thận trọng: anh em nào sale ngược sóng nên cân nhắc chốt lãi hoặc kéo SL về entry cho an toàn."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {"huong": "TANG", "dich": [78000, 79000]},
+  "duong_di": [
+    {"huong": "TANG", "dich": [78000, 79000]},
+    {"huong": "GIAM", "dich": [75000, 76800]}
+  ],
+  "dich_chinh": [75000, 76800],
+  "han_gio": 62,
+  "vo_hieu": null,
+  "lenh": [
+    {"chieu": "SHORT", "vao": null, "tp": [], "sl": null, "trang_thai": "dang_giu"},
+    {"chieu": "SHORT", "vao": 78000, "tp": [76800], "sl": 78500, "trang_thai": "de_xuat_moi"},
+    {"chieu": "LONG", "vao": [76000, 77000], "tp": [], "sl": null, "trang_thai": "de_xuat_moi"}
+  ],
+  "hanh_dong": "chot_loi",
+  "khung_lon": {"D1": "GIAM", "W1": "GIAM"},
+  "pha_vo_gia": "Pha kéo lên 82 (81.964) đêm trước rồi sập do tin Binance bị hack; nhịp hồi hiện tại 'hồi kỹ thuật chứ không phải tăng bền', cây H4 đẹp 'cũng ảo ma lắm; buồn buồn nó lại về lấp luôn cái râu'.",
+  "trich_them": [
+    {"gio": null, "cau": "Hôm 24 tháng 10 mình đã có bài post trên channel, quan điểm cá nhân là giá vẫn về 77 và 78, 77-78 cho đến cuối tháng thôi."},
+    {"gio": null, "cau": "Mình nghĩ thị trường sẽ không giảm thêm quá sâu nữa, nhưng cũng không hồi quá mạnh ở vùng này, sẽ lòng vòng. Có thể trong ngắn hạn có vài nhịp đấm về 75 rồi hồi lên 79 kiểu kiểu như thế. Xác định vùng 7x này là vùng giao dịch chủ đạo từ giờ đến hết tuần."},
+    {"gio": null, "cau": "Xu hướng rõ ràng vẫn là xu hướng điều chỉnh xuống. Ở đây có vùng hỗ trợ 76.000, khá cứng... Khi về 76 sẽ có những nhịp khựng lại và đỡ, nhưng không có nghĩa là đây là đáy."},
+    {"gio": null, "cau": "Nhưng mình dự đoán vùng này khó đạp sâu thêm từ giờ đến cuối tuần. Tệ nhất nó đạp về khoảng 75 rồi cuối tuần giao dịch lại khoảng 77, 78."},
+    {"gio": null, "cau": "Khung lớn: bình thường thôi. Maximum đợt này chắc 75. Qua tuần sau thì hy vọng nó gãy về vùng sáu được. Càng ngày càng sát biên dưới. Với các lệnh sale, anh em hãy thận trọng, đánh có lãi thì cố gắng chốt ăn ngắn, vì rất dễ hồi ở vùng này."},
+    {"gio": null, "cau": "Vì biên độ đi rộng nên vùng này mình mở lên đến khoảng 78: vùng này tìm entry sale đánh phản ứng, về chốt khoảng 76.800 gì đó, tùy nhịp hồi lên của nó đến đâu."},
+    {"gio": null, "cau": "Zone: hồi căng nhất có thể là 79, tuy nhiên 79 mình thấy hơi khó. Hồi đẹp nhất khoảng 78 đến 78.8. Bên dưới là từ 77.000 đến khoảng 75.000; 76.800 xuống 75."},
+    {"gio": null, "cau": "Ví dụ đánh M15, nếu nó hồi đẹp đóng nến xanh vượt khỏi hai cây nến khoảng 78.500 [?] thì thôi không sale nữa."},
+    {"gio": null, "cau": "Nếu H4 kéo lên trên MA này thì là hồi khỏe; khi đó có thể ken điểm để buy đến chiều, ken quanh vùng 76X này là chơi được."},
+    {"gio": null, "cau": "Hỏi: chốt hết lệnh sale chưa? Mình chưa, vẫn còn một ít lệnh, tuy nhiên mình chốt cũng phải 80% volume rồi."},
+    {"gio": null, "cau": "Nếu chiều nay đóng một cây H4, tức là về test khoảng 77.000, rồi sau đó break lên được một phát nữa thì khả năng tối nay chúng ta sẽ thấy giá phục hồi về lại vùng 79X. Với vùng 77 đến 78 mình view trước đó cho anh em rồi, đến đây mình cũng khá happy về target rồi."},
+    {"gio": null, "cau": "Tầm này cứ để giá chạy; vào cũng ngồi im, không vào cũng ngồi im. Cho nó kéo lên khoảng 500 giá nữa cũng được."}
+  ],
+  "kho": "File không có mốc giờ. Đích cũ 77-78k đã đạt (tin Binance bị hack); người nói chốt 80% short, chuyển sang 'chơi hai đầu' trong biên 75-79k tới hết tuần, nhưng vẫn khẳng định xu hướng điều chỉnh xuống và thích sale hơn → GIAM độ chắc thấp, không PHAN_VAN. Đích chính lấy vùng dưới 75-76.8k ('Maximum đợt này chắc 75'); 'qua tuần sau hy vọng gãy về vùng sáu' quá mơ hồ để làm đích. SL 78.500 của lệnh sale đề xuất là mốc M15 (2 nến xanh vượt), số có dấu [?]. Lệnh long 76X là scalp có điều kiện (H4 kéo lên trên MA). Hạn 'đến hết tuần' ≈ 62 giờ."
+}

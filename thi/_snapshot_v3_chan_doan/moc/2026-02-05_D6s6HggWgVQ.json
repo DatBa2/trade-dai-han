@@ -1,0 +1,19 @@
+{
+  "buoi": "2026-02-05_D6s6HggWgVQ",
+  "ngay": "2026-02-05",
+  "gia_btc_luc_noi": 71500,
+  "moc": [
+    {"gia": 62000, "gia_tren": null, "vai_tro": "dich", "huong": "GIAM", "khung": "D1", "can_cu": ["mô hình cờ khung ngày"], "moc_gio": "00:06:08", "chac": true, "trich": "target của mình về dưới 62 này bây giờ nó gần đến rồi. Đang 71, 10.000 giá nữa"},
+    {"gia": 69000, "gia_tren": null, "vai_tro": "ho_tro", "huong": "TANG", "khung": null, "can_cu": ["MA200"], "moc_gio": "00:03:22", "chac": true, "trich": "Ví dụ nó có thể quét về 69 để MA200 này, rồi sau đó mới phục hồi lên"},
+    {"gia": 79000, "gia_tren": 81000, "vai_tro": "dich", "huong": "TANG", "khung": null, "can_cu": ["gap CME 79-81"], "moc_gio": "00:03:54", "chac": true, "trich": "Gap thì chúng ta vẫn còn gap 7981"},
+    {"gia": 76000, "gia_tren": null, "vai_tro": "dich", "huong": "TANG", "khung": "H1", "can_cu": ["MA89 H1 (chưa test lần nào)"], "moc_gio": "00:09:40", "chac": true, "trich": "nó sẽ hồi lên đâu đó khoảng MA89 ở H1 là khoảng 76.000"},
+    {"gia": 68000, "gia_tren": null, "vai_tro": "dich", "huong": "GIAM", "khung": null, "can_cu": [], "moc_gio": "00:12:20", "chac": true, "trich": "Có thể ví dụ nó về đến 68. Nó về đến 68 rồi nó hồi lên lại khoảng 70, 72 thì đó cũng là nhịp hồi"},
+    {"gia": 70000, "gia_tren": 72000, "vai_tro": "dich", "huong": "TANG", "khung": null, "can_cu": [], "moc_gio": "00:12:20", "chac": true, "trich": "nó hồi lên lại khoảng 70, 72 thì đó cũng là nhịp hồi, chúng ta có thể ăn từ 72 về lại 69"},
+    {"gia": 76000, "gia_tren": null, "vai_tro": "entry", "huong": "TANG", "khung": null, "can_cu": ["cấu trúc ổn"], "moc_gio": "00:11:50", "chac": true, "trich": "nó lên 76 mà nếu thấy cấu trúc ở 76 ổn thì... đánh lại một view từ 76 lên đến 81 bình thường"},
+    {"gia": 81000, "gia_tren": null, "vai_tro": "tp", "huong": "TANG", "khung": null, "can_cu": ["gap CME 79-81"], "moc_gio": "00:11:50", "chac": true, "trich": "Lúc nào chúng ta đánh lại một view từ 76 lên đến 81"},
+    {"gia": 84000, "gia_tren": 90000, "vai_tro": "khang_cu", "huong": "GIAM", "khung": null, "can_cu": [], "moc_gio": "00:14:28", "chac": false, "trich": "trong trường hợp xấu thì chúng ta phải tính đến trường hợp nó vòng lên lại đến khoảng 84 hoặc 90"},
+    {"gia": 63000, "gia_tren": null, "vai_tro": "entry", "huong": "TANG", "khung": null, "can_cu": ["biên độ 10% từ giá hiện tại"], "moc_gio": "00:17:22", "chac": true, "trich": "anh em có thể kéo từ đây về 10% của BTC nữa là về khoảng 63 luôn"},
+    {"gia": 58000, "gia_tren": null, "vai_tro": "entry", "huong": "TANG", "khung": "H4", "can_cu": ["biên độ 20% từ giá hiện tại"], "moc_gio": "00:17:57", "chac": true, "trich": "H4 mà được 10 đến 20% thì về đâu? 20% thì về khoảng 58. Nếu bắt râu thì chắc khoảng 15%"},
+    {"gia": 78000, "gia_tren": 83000, "vai_tro": "entry", "huong": "GIAM", "khung": "H4", "can_cu": ["vùng H4"], "moc_gio": "00:44:34", "chac": true, "trich": "Hai là cái vùng ở khoảng 79 hoặc 83. 78, 79 hoặc 83 là những vùng chúng ta quan sát"}
+  ]
+}

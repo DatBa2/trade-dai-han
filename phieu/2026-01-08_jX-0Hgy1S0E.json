@@ -1,0 +1,82 @@
+{
+  "buoi": "2026-01-08_jX-0Hgy1S0E",
+  "ngay": "2026-01-08",
+  "gio_vn": "10:00",
+  "gia_btc_luc_noi": 91000,
+  "nhan_dinh": [
+    {
+      "khung": "H4",
+      "huong": "GIAM",
+      "do_chac": "vua",
+      "dich": [87000, 90000],
+      "han": "hôm nay; chưa nói cụ thể",
+      "han_gio": 24,
+      "vo_hieu_khi": "một cây H4 đóng xanh trên MA34 (vùng 91.000) thì mới tính long đuổi",
+      "kich_ban_phu": "có thể còn một nhịp hồi lên ~96 (MA89) rồi mới sập hẳn; nếu về 88-87 sau đó lên 96 thì ăn được 2-3 nhịp (long 90→96, short 96-100→đáy)",
+      "ly_do": [
+        "nến D1 hôm qua là cụm đảo chiều nến ngày rất đẹp, râu trap, lực bán áp đảo",
+        "H4 điều chỉnh nhịp đầu đã thủng luôn MA34 nên MA34 thành cản, sóng tăng yếu bất thường",
+        "2 gap CME (91-90 và 88) chưa lấp xong; thủng 90 thì về 88",
+        "Fibo 0.5 ở 87 trùng gap 88 nhưng không đánh giá cao"
+      ],
+      "trich": "Thủng 90 thì về 88. Thủng 89 về 88. Gap thì bản chất nó sinh ra rồi nó lấp thôi.",
+      "doi_y": null,
+      "duong_di": [
+        {"huong": "GIAM", "dich": [88000, 90000]},
+        {"huong": "TANG", "dich": 96000},
+        {"huong": "GIAM", "dich": null}
+      ]
+    },
+    {
+      "khung": "D1",
+      "huong": "GIAM",
+      "do_chac": "vua",
+      "dich": null,
+      "han": "chưa sập hẳn, còn nhập nhằng thêm",
+      "han_gio": null,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": "còn một nhịp lên ~96 để test MA89 (cần chạm MA89 hoặc MA200 cho cân bằng cung cầu)",
+      "ly_do": [
+        "toàn bộ nhịp lên chỉ là sóng hồi để điều chỉnh tiếp",
+        "chưa tin siêu chu kỳ, BTC còn lâu mới tạo đáy (60K, 50K, 40K, 30K, 20K còn ở dưới)"
+      ],
+      "trich": "Đừng có vội. Chúng ta mới đang ở những vùng trên này thôi, 90 95.000, 87.000, 60.000, 50.000 còn chưa thấy. Dưới nữa mới là 40.000, 30.000, rồi 20.000.",
+      "doi_y": null,
+      "duong_di": null
+    }
+  ],
+  "vung_gia": {"khang_cu": [91000, 96000], "ho_tro": [90000, 88000, 87000]},
+  "lenh": [
+    {"chieu": "SHORT", "loai": "vốn nhỏ", "vao": 91000, "tp": [90000], "sl": null,
+     "trang_thai": "dang_giu",
+     "trich": "Lệnh short của chúng ta vẫn đang lãi, lãi nhẹ. ... Đường này 90.000 chốt TP 90.000. Ăn ngắn thôi."},
+    {"chieu": "LONG", "loai": "chờ nến tại 90.000 / hợp lưu MA89 H1 + MA200 M30", "vao": [90000, 88000], "tp": [91000], "sl": null,
+     "trang_thai": "de_xuat_moi",
+     "trich": "Nếu về đây mà long ăn được thì cũng nên té khoảng 1000 giá là phải TP1."}
+  ],
+  "nhin_lai_truoc": "Hôm trước bán ETH ở 3300 là out đỉnh, happy; phiên grid mua 2x bán 42. Hôm qua đã nhắc không đụng altcoin vì BTC.D đi lên và đúng. Hôm qua lệnh short TP 91.0 phải sau ba nhịp mới về. Bán bạc hôm trước ở 79 đúng.",
+  "cong_cu": ["nến ngày cụm đảo chiều", "gap CME 91/90 và 88", "MA34 H4", "MA89", "MA200", "Fibo 0.5", "BTC.D", "USDT.D", "Fear & Greed 43", "volume", "liquidation"],
+  "tin_tuc": [
+    {"tin": "Non-farm tối qua", "danh_gia": "thị trường khá lành, vàng chỉ chạy 30 giá"},
+    {"tin": "Trợ cấp thất nghiệp 8:30 và nhiều tin thứ sáu", "danh_gia": "tránh phiên Mỹ"}
+  ],
+  "thoi_quen": [
+    "xác định sóng (bước 1) rồi mới tìm entry (2), TP/SL (3), phân bổ vốn (4)",
+    "chờ H4 đóng xác nhận, thà đuổi entry xấu hơn nhưng sóng chắc hơn",
+    "SL theo nến (ba cây nến), không cố định SL; quản lý bằng vốn",
+    "lệnh âm quá plan/quá lâu thì cắt, khi về gần bờ thì out, không chờ hòa",
+    "không đánh grid/lướt rồi biến thành holder",
+    "chỉ view, mỗi người tự quyết định xử lý vị thế kẹt"
+  ],
+  "cau_cua_mieng": [
+    "Cơ hội không hết đâu các bạn.",
+    "Chúng ta chỉ có plan thôi chứ không có dự đoán.",
+    "Đáy hôm nay là đỉnh ngày mai."
+  ],
+  "altcoin": [
+    {"coin": "altcoin chung", "huong": "GIAM", "ghi": "BTC.D tiếp tục có khả năng đi lên, USDT.D về MA89 trả hết lực nhưng cả hai không cho dữ liệu long; không đụng altcoin"},
+    {"coin": "ETH", "huong": "TANG", "ghi": "H4 trông đẹp hơn BTC, đang cân nhắc"},
+    {"coin": "vàng/bạc", "huong": "PHAN_VAN", "ghi": "yếu lực, nhưng đừng sell; vàng gap 4330-4350; chỉ long khi bạc về 72-73"}
+  ],
+  "ghi_chu": "Giờ 10:00 là giả định. Giá 91.000 suy từ MA34 H4 và lệnh short ~91.0."
+}

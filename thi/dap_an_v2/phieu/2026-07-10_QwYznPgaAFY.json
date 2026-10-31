@@ -1,0 +1,190 @@
+{
+ "buoi": "2026-07-10_QwYznPgaAFY",
+ "ngay": "2026-07-10",
+ "gio_vn": "10:00",
+ "gia_btc_luc_noi": 63800,
+ "nhan_dinh": [
+  {
+   "khung": "H4",
+   "huong": "TANG",
+   "do_chac": "thap",
+   "dich": [
+    66000,
+    68000
+   ],
+   "han": null,
+   "han_gio": 96,
+   "vo_hieu_khi": "nến H4 đóng dưới 61.000",
+   "vo_hieu_cau_truc": {
+    "gia": 61000,
+    "khung": "H4",
+    "so_nen": 1,
+    "chieu": "dong_duoi",
+    "cau": "Tức là giá ở đây rất khó để thấp hơn, đóng nến H4 thấp hơn vùng 61.000... Còn nếu vùng này sập khỏi 61.000 này là coi như kết thúc luôn, hoặc dưới 61 là dưới Fibo 0.5, thủng và tạo hai ngọn ở trên này và sẽ rụng xuống luôn."
+   },
+   "kich_ban_phu": null,
+   "duong_di": [
+    {
+     "huong": "GIAM",
+     "dich": [
+      60500,
+      61500
+     ]
+    },
+    {
+     "huong": "TANG",
+     "dich": [
+      66000,
+      68000
+     ]
+    }
+   ],
+   "doi_y": null,
+   "ly_do": [],
+   "trich": "Tình hình này thì chúng ta nghỉ. Nó chưa chạy gì. Bây giờ long FOMO vẫn chưa đến lúc. Nếu long được mình sẽ báo cho anh em trong nhóm. Còn lại tình hình này mình vẫn giữ quan điểm, vẫn ngồi chờ. Chờ nó về đến 61, 60.000 rồi tính tiếp.",
+   "nhan_v1": "TANG"
+  },
+  {
+   "khung": "D1",
+   "huong": "GIAM",
+   "do_chac": "thap",
+   "dich": null,
+   "han": null,
+   "han_gio": null,
+   "vo_hieu_khi": "D1 đóng trên 64.000 thì bỏ short, bắt buộc chạy",
+   "kich_ban_phu": "D1 đóng qua MA34 và thêm một nến break nữa mới chắc đi lên",
+   "ly_do": [
+    "vẫn là downtrend, đây là sóng hồi",
+    "giá chưa vượt MA34 D1, có thể không vượt được; không chắc chắn"
+   ],
+   "trich": "Mặc dù nhìn như vậy nhưng chúng ta vẫn là downtrend. ... không nên quá tự tin, không nên quá khẳng định là nó sẽ đi lên.",
+   "doi_y": null,
+   "duong_di": null
+  },
+  {
+   "khung": "M5",
+   "huong": "GIAM",
+   "do_chac": "thap",
+   "dich": [
+    63600,
+    63600
+   ],
+   "han": "trong ngày",
+   "han_gio": 24,
+   "vo_hieu_khi": null,
+   "kich_ban_phu": "nếu thủng thì về 63 rồi 62.000",
+   "ly_do": [
+    "scalp 5 phút điều chỉnh về 63.600 rồi tính tiếp, không long ở vùng này"
+   ],
+   "trich": "5 phút thì về scalping khả năng là điều chỉnh, điều chỉnh chắc là về khoảng 63.600 rồi tính tiếp.",
+   "doi_y": null,
+   "duong_di": null
+  }
+ ],
+ "vung_gia": {
+  "khang_cu": [
+   64000,
+   66000
+  ],
+  "ho_tro": [
+   60500,
+   61500
+  ]
+ },
+ "lenh": [
+  {
+   "chieu": "LONG",
+   "vao": [
+    60500,
+    61500
+   ],
+   "tp": [
+    66000,
+    68000,
+    72000
+   ],
+   "sl": null,
+   "trang_thai": "de_xuat_moi"
+  },
+  {
+   "chieu": "SHORT",
+   "vao": null,
+   "tp": [],
+   "sl": null,
+   "trang_thai": "da_dong"
+  }
+ ],
+ "nhin_lai_truoc": "Lệnh short hôm qua (hai lệnh DCA, tổng 2/3 vốn thường) dính SL tổng khoảng 350 đô, ít hơn một lệnh thường; vùng 61-64 rất khó chơi, giá đã lên 64.000 sáng nay.",
+ "cong_cu": [
+  "D1",
+  "H4",
+  "H1",
+  "M5",
+  "MA34/200",
+  "Fibo 0.5/0.618",
+  "vai đầu vai ngược",
+  "Coinglass",
+  "USDT.D",
+  "BTC.D",
+  "Fear & Greed"
+ ],
+ "tin_tuc": [
+  {
+   "tin": "Hôm nay không có tin",
+   "danh_gia": "thị trường clear đến hết thứ hai tuần sau, thứ ba mới có CPI và FED"
+  }
+ ],
+ "thoi_quen": [
+  "đi vốn nhỏ ở vùng khó chơi",
+  "chờ điều kiện cần và đủ (hai nến) mới kết luận",
+  "kiên trì chờ giá về vùng đẹp, không đuổi",
+  "SL cứ thả, dính thì đánh lệnh khác",
+  "chia vốn khi mua spot/dầu"
+ ],
+ "cau_cua_mieng": [
+  "Nến khổng lồ không có nghĩa là nó không gãy được.",
+  "Đừng đi short rồi khấn nó gãy, khó lắm."
+ ],
+ "altcoin": [
+  {
+   "coin": "BNB",
+   "huong": "TANG",
+   "ghi": "sáng cửa nhất, về Fibo 0.5 rồi hồi; LINK tương tự, vai đầu vai ngược"
+  },
+  {
+   "coin": "BCH",
+   "huong": "TANG",
+   "ghi": "đẹp, xổ số nhỏ, SL dưới 229 (5,5%)"
+  },
+  {
+   "coin": "ETH",
+   "huong": "TANG",
+   "ghi": "đẹp nhưng cần test Fibo 1650; đỉnh đáy thấp chưa phá"
+  },
+  {
+   "coin": "SOL",
+   "huong": "GIAM",
+   "ghi": "gãy, gặp cản H4 và MA34 D1"
+  },
+  {
+   "coin": "vàng",
+   "huong": "TANG",
+   "ghi": "lên 4000-4250 (MA200 H4), hạn chế short"
+  }
+ ],
+ "ghi_chu": "gio_vn theo quy ước 10:00. Giá BTC lúc nói khoảng 63.8k-64k (đang cố kéo 64). Sáng sớm giá từng 62.5k.",
+ "hanh_dong": "dung_ngoai_cho_entry",
+ "chang_ke_tiep": {
+  "huong": "GIAM",
+  "dich": [
+   60500,
+   61500
+  ]
+ },
+ "khung_lon_v2": {
+  "D1": "PHAN_VAN",
+  "W1": null
+ },
+ "pha_vo_gia": "[00:49:36] vùng ~64 'Vẫn maybe là bẫy long. Anh em nào cứ FOMO ở vùng giá này thì cũng mệt'; kịch bản [00:27:44] quét về ~61.500 'quét stop loss của các ông long' rồi bật lên thành vai đầu vai ngược; Coinglass 'thả cửa cho anh em đi short về dưới này' (dụ short).",
+ "nguon_nhan": "dap_an_v2 (Opus 5.5 rút mù 31/10)"
+}

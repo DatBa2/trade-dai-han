@@ -1,0 +1,73 @@
+{
+  "buoi": "2026-03-03_xXKnEs9z81g",
+  "ngay": "2026-03-03",
+  "gio_vn": "10:00",
+  "gia_btc_luc_noi": 68600,
+  "nhan_dinh": [
+    {
+      "khung": "H4",
+      "huong": "TANG",
+      "do_chac": "vua",
+      "dich": [70000, 70500],
+      "han": "trong tuần",
+      "han_gio": 168,
+      "vo_hieu_khi": "H4 đâm sâu xuống 66.000 dưới MA34 thì nhịp tăng kết thúc; thủng 68.000 thì không giữ long nữa",
+      "kich_ban_phu": "có thể về Fibo 0.5-0.618 (66-67k) rồi mới lên; nếu H4 gãy 66 thì confirm cờ D1, về 59 test râu hoặc 50-52",
+      "ly_do": [
+        "Fibo mở rộng hội tụ 70.000-70.500 (và 75.000 Fibo 1.618); target cờ 70.000",
+        "vùng liquid 70.500 có nhiều short stop loss, lên chỉ để kill short",
+        "H4 bắt đầu có cấu trúc đỉnh đáy đi lên, kênh giá",
+        "nhưng thiếu volume mua, lực bán vẫn áp đảo; xu hướng chưa đẹp"
+      ],
+      "trich": "Mình chưa biết nó gãy về đâu nhưng khả năng vùng 70.000 năm này mình nghĩ sẽ đạt được trong tuần.",
+      "doi_y": null,
+      "duong_di": [
+        {"huong": "TANG", "dich": 70500}
+      ]
+    },
+    {
+      "khung": "D1",
+      "huong": "GIAM",
+      "do_chac": "vua",
+      "dich": [50000, 52000],
+      "han": "qua D1 vùng 69-71 phải cuối tuần hoặc tuần sau",
+      "han_gio": null,
+      "vo_hieu_khi": "D1 đóng nến qua 69.000-71.000 + MA34",
+      "kich_ban_phu": "vùng 69-71 lằng nhằng, cản, hạn chế đánh; nến xanh thứ hai chỉ xử lý lệnh tuần cũ",
+      "ly_do": [
+        "vẫn downtrend, nến D1 xanh hôm qua chỉ là kill short + test MA34",
+        "nếu H4 gãy thì cờ D1 về 50-52"
+      ],
+      "trich": "Dù sao đi nữa thì hiện tại chúng ta vẫn đang nằm ở downtrend. Chứ không phải nằm ở uptrend.",
+      "doi_y": null,
+      "duong_di": null
+    },
+    {
+      "khung": "M15",
+      "huong": "TANG",
+      "do_chac": "thap",
+      "dich": [69800, 70400],
+      "han": "trong ngày",
+      "han_gio": 24,
+      "vo_hieu_khi": "thủng 68.000 / SL 250-300 giá",
+      "kich_ban_phu": "qua 68.600 kéo SL về entry",
+      "ly_do": ["mô hình hai đáy M15/M5, MA34 M15, Fibo", "scalping SL vài trăm giá, xác suất lên TP 70%"],
+      "trich": "Thủng 68 này là thôi không giữ nữa. ... qua được khỏi vùng này là kéo SL về entry ngay cho an toàn.",
+      "doi_y": null,
+      "duong_di": null
+    }
+  ],
+  "vung_gia": {"khang_cu": [70000, 70500], "ho_tro": [66000, 68000]},
+  "lenh": [
+    {"chieu": "LONG", "loai": "scalping M15", "vao": 68800, "tp": [69800, 70400], "sl": 68500, "trang_thai": "da_cat", "trich": "cho anh em bắt sớm ở entry 68.800 và stop loss ở 68.500 thì nó chỉ là 300 giá thôi."},
+    {"chieu": "LONG", "loai": "sau thủng/chờ", "vao": 67000, "tp": null, "sl": 65800, "trang_thai": "de_xuat_moi", "trich": "Long 67 SL khoảng 65.800."},
+    {"chieu": "SHORT", "loai": "gợi ý cho người đang short có lãi", "vao": 69100, "tp": [67000], "sl": 69100, "trang_thai": "dang_giu", "trich": "các lệnh short có lãi thì anh em nên kéo stop loss về entry ... TP có thể là ở 67."}
+  ],
+  "nhin_lai_truoc": "Lệnh dò hôm qua entry 67.000 âm khoảng 4.000 giá (25%) rồi hồi về entry và thoát hòa; vàng thoát 5408 gần target 5440 rồi vàng sập; TP 70 hôm trước đo đúng, khựng ở MA600 H1.",
+  "cong_cu": ["M15 MA34", "Fibo 0.5/0.618", "Fibo mở rộng", "H1 MA200", "H4 MA34/89/200", "heatmap liquidation", "mô hình cờ", "hai đáy M5", "gap CME"],
+  "tin_tuc": [{"tin": "chiến tranh Iran-Mỹ", "danh_gia": "vàng bạc chưa sập vì chiến tranh còn căng"}],
+  "thoi_quen": ["trade theo rủi ro, thấy rủi ro thì dừng hoặc giảm volume", "luôn cài SL; SL nhỏ khi đúng mô hình", "thoát tại entry khi lệnh hồi về hòa", "kéo SL về entry khi lên được", "đánh isolate không cross", "thứ hai xanh không định hình tuần"],
+  "cau_cua_mieng": ["Đừng có đánh theo lợi nhuận. Mà luôn trading theo rủi ro.", "Một lệnh không nghèo đi đâu.", "Ai thích thì đánh vui vẻ thì chơi, tùy thôi."],
+  "altcoin": [{"coin": "ETH", "huong": "TANG", "ghi": "target 2100 và 2400, giống BTC"}, {"coin": "BTC.D", "huong": "TANG", "ghi": "break xu hướng giảm để tăng; chưa tốt cho altcoin"}, {"coin": "Vàng", "huong": "GIAM", "ghi": "điều chỉnh về 5200, hạn chế buy"}, {"coin": "Bạc", "huong": "TANG", "ghi": "lên test 95-96"}, {"coin": "Dầu", "huong": "TANG", "ghi": "dài hạn trên 100"}],
+  "ghi_chu": "Không nói giờ live. Giá khoảng 68.4-68.8k từ ngữ cảnh. Bẫy số: '70.000 năm'=70.500, '68.000 năm'=68.500, '68001'=68.000. Đã bỏ phần chuyện bot/scam trong nhóm."
+}

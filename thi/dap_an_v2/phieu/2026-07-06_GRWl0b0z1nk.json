@@ -1,0 +1,184 @@
+{
+ "buoi": "2026-07-06_GRWl0b0z1nk",
+ "ngay": "2026-07-06",
+ "gio_vn": "10:00",
+ "gia_btc_luc_noi": 63200,
+ "nhan_dinh": [
+  {
+   "khung": "H4",
+   "huong": "GIAM",
+   "do_chac": "vua",
+   "dich": 62000,
+   "han": null,
+   "han_gio": null,
+   "vo_hieu_khi": "nến H4 đóng trên 64.000",
+   "vo_hieu_cau_truc": {
+    "gia": 64000,
+    "khung": "H4",
+    "so_nen": 1,
+    "chieu": "dong_tren",
+    "cau": "Nếu H4 đóng trên 64 thậm chí nó tiến đến khu vực 67 hoặc 68."
+   },
+   "kich_ban_phu": null,
+   "duong_di": [
+    {
+     "huong": "GIAM",
+     "dich": [
+      62700,
+      62900
+     ]
+    },
+    {
+     "huong": "GIAM",
+     "dich": 62000
+    }
+   ],
+   "doi_y": null,
+   "ly_do": [],
+   "trich": "H4 đóng cặp đỏ anh em ạ, H4 đóng rất là xấu. H4 đóng thế này thì phải chờ thêm một cây H4 nữa thì khả năng là nhịp tiếp theo nó về được 6200. Anh em nào đang short ở vùng trên này thì TP ở 6200 đến 629 là ok.",
+   "nhan_v1": "GIAM"
+  },
+  {
+   "khung": "W1",
+   "huong": "PHAN_VAN",
+   "do_chac": "thap",
+   "dich": null,
+   "han": null,
+   "han_gio": null,
+   "vo_hieu_khi": null,
+   "kich_ban_phu": "nến tuần xanh có thể tạo hai đáy tuần, hồi lên rồi mới giảm; vẫn có khả năng gãy xuống nhưng không gãy liền",
+   "ly_do": [
+    "nến tuần xanh sau nến gãy, có thể tạo vùng hai đáy, phân kỳ RSI: lực bán không còn mạnh như trước (không có nghĩa lực mua mạnh)",
+    "vùng 50-60 là hỗ trợ cứng, mới 140 ngày so với 224 ngày lần trước nên phải lòng vòng",
+    "short rất rén vì khả năng short đáy cao"
+   ],
+   "trich": "Cây nến tuần như thế này sẽ làm khó cho các anh em đi short. ... đừng quá tự tin mà short.",
+   "doi_y": null,
+   "duong_di": null
+  },
+  {
+   "khung": "D1",
+   "huong": "GIAM",
+   "do_chac": "thap",
+   "dich": null,
+   "han": "qua ngày mai mới biết có test MA34 rồi đi xuống luôn không",
+   "han_gio": null,
+   "vo_hieu_khi": null,
+   "kich_ban_phu": null,
+   "ly_do": [
+    "giá test MA34 D1 ở 64 và bị phản ứng",
+    "swing short từ vùng 64 nhưng chờ lực bán hết/confirm"
+   ],
+   "trich": "Liệu nó có test MA34 khung ngày và đi xuống luôn được hay không? Cái này phải qua ngày mai mới biết.",
+   "doi_y": null,
+   "duong_di": null
+  },
+  {
+   "khung": "M5",
+   "huong": "GIAM",
+   "do_chac": "vua",
+   "dich": [
+    62000,
+    62900
+   ],
+   "han": "trong ngày",
+   "han_gio": 24,
+   "vo_hieu_khi": null,
+   "kich_ban_phu": "chiều tối lại lên 64",
+   "ly_do": [
+    "M5 đỉnh đáy thấp dần, vùng trống bên dưới dễ quét về",
+    "M5 thủng đường xanh nhỏ thì gồng về 62"
+   ],
+   "trich": "5 phút của Bitcoin thì vẫn đang xu hướng điều chỉnh, vẫn đang xu hướng đi xuống. ... Sau 2008, sau 2009 là ok.",
+   "doi_y": null,
+   "duong_di": null
+  }
+ ],
+ "vung_gia": {
+  "khang_cu": [
+   64000,
+   65000
+  ],
+  "ho_tro": [
+   62000,
+   62900
+  ]
+ },
+ "lenh": [
+  {
+   "chieu": "SHORT",
+   "vao": null,
+   "tp": [
+    62900,
+    62700,
+    62000
+   ],
+   "sl": null,
+   "trang_thai": "dang_giu"
+  }
+ ],
+ "nhin_lai_truoc": "Nhận định giá lên 64 đã đúng (lên 63.999) và chỉ để chốt lãi vị thế dưới; ai cố gồng short 60.500 sau khi H4 đóng trên 61 là sai plan.",
+ "cong_cu": [
+  "W1",
+  "D1",
+  "H4",
+  "H1",
+  "M5",
+  "MA34/89/200",
+  "Fibo",
+  "RSI phân kỳ",
+  "BTC.D",
+  "USDT.D",
+  "Fear & Greed",
+  "Hyperliquid"
+ ],
+ "tin_tuc": [],
+ "thoi_quen": [
+  "tuân thủ plan, H4 đóng trên 61 thì không giữ short",
+  "chờ nến confirm thay vì short ngay ở giá hiện tại",
+  "không nhảy vào phe đông (Hyperliquid long nhiều)",
+  "chỉ dùng khung cơ bản M15, H1, H4, D1",
+  "gom spot DCA chia vốn từ 50-54k"
+ ],
+ "cau_cua_mieng": [
+  "Số tiền chỉ là phần thưởng cho việc chúng ta ra quyết định đúng.",
+  "Đây là tác hại cực kỳ độc hại của downtrend."
+ ],
+ "altcoin": [
+  {
+   "coin": "SOL",
+   "huong": "GIAM",
+   "ghi": "yếu, vai đầu vai H4, sáng cửa gãy nhất; short market, MA200 hợp lý"
+  },
+  {
+   "coin": "ETH",
+   "huong": "GIAM",
+   "ghi": "bám BTC, hai đỉnh nhưng chưa sập được"
+  },
+  {
+   "coin": "BTC.D",
+   "huong": "GIAM",
+   "ghi": "D1/tuần có khả năng giảm hoặc đi ngang; short altcoin chưa chắc ngon"
+  },
+  {
+   "coin": "vàng",
+   "huong": "GIAM",
+   "ghi": "H4 xấu, điều chỉnh về 4150 rồi test 4250; chưa nên buy"
+  }
+ ],
+ "ghi_chu": "gio_vn theo quy ước 10:00. Số '2008/2009/2007' đọc là 62.800-62.900-62.700 (quanh 62.xxx); '6200' = 62.000.",
+ "hanh_dong": "giu_lenh",
+ "chang_ke_tiep": {
+  "huong": "GIAM",
+  "dich": [
+   62700,
+   62900
+  ]
+ },
+ "khung_lon_v2": {
+  "D1": "PHAN_VAN",
+  "W1": "PHAN_VAN"
+ },
+ "pha_vo_gia": "[00:25:30] nến tuần xanh: 'Chúng ta biết có khả năng fake, tức là giả vờ đi lên để tiếp tục đi xuống' (chỉ dùng để quản lý rủi ro); ví dụ lịch sử 2022 cây nến tuần fake breakout rũ bỏ trước khi tạo đáy; [00:59:19]/[00:35:25] quanh 64 'cứ vòng vòng trong vùng này dụ long thêm'.",
+ "nguon_nhan": "dap_an_v2 (Opus 5.5 rút mù 31/10)"
+}

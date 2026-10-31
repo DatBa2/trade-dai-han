@@ -1,0 +1,14 @@
+{
+  "luc_vn": "2026-10-29 23:18", "coin": "NEAR", "gia": 4.625, "gia_btc": 81558,
+  "bot": {"khung": "H4", "huong": "GIAM", "do_chac": "vua", "dich": 4.30, "han_gio": 24,
+          "duong_di": [{"huong": "TANG", "dich": 4.80}, {"huong": "GIAM", "dich": 4.30}],
+          "vo_hieu_khi": "2 cây H4 đóng trên 4.97 (MA200 H4 4.955 + MA34 D1 4.965)",
+          "kich_ban_phu": "thủng hẳn đáy 4.25 thì về 3.8–3.9, sâu 3.6–3.7 (mốc người đó nêu 29/10)",
+          "lenh": [{"chieu": "SHORT", "loai": "limit", "vao": 4.80, "tp": [4.40, 4.30], "sl": 4.98, "trang_thai": "de_xuat_moi"}],
+          "ly_do": ["người đó 27–29/10 đều GIẢM: 'H4 confirm gãy, mô hình H4 cực kỳ xấu, chờ gãy hẳn rồi tính'",
+                    "giá 4.625 nằm giữa hộp 4.25–4.82, không có entry ngon → chỉ đánh 2 đầu",
+                    "4.80–4.82 = đỉnh 28 và 29/10 + MA89 H4 4.816; giá dưới MA89/MA200 H4"],
+          "trich": "Con NEAR bây giờ không có entry ngon mà cứ đòi FOMO thì chịu anh em; muốn sale thì chờ nó hồi lên 4.8 rồi tính, còn không thì chờ gãy hẳn về dưới."},
+  "doc_lap_cua_claude": {"huong": "GIAM", "do_chac": "thap", "dich": 4.45, "han_gio": 24, "vo_hieu_khi": "H4 đóng trên 4.82",
+          "ly_do": "NEAR yếu tương đối: hôm nay −2,3% trong khi BTC/ETH/ZEC tăng sau GDP; nến H4 23:00 đang trả lại; taker bán nhỉnh hơn mua (0,98–0,99); tài khoản long/short 1,93 và OI +4,8%/4h với giá đi ngang = long đang dồn vào, dễ bị xả. Nhưng xu hướng lớn vẫn tăng (x4 từ 1,54 tháng 8, vừa bật đúng Fibo 0.382 của cả sóng ~4,31) nên chỉ kỳ vọng xuống 4,45 (MA34 H4 4,546 rồi dưới), không kỳ vọng thủng 4,25"}
+}

@@ -1,0 +1,192 @@
+{
+ "buoi": "2026-09-04_1014_eujLmRVw88k",
+ "ngay": "2026-09-04",
+ "gio_vn": "10:14",
+ "gia_btc_luc_noi": 80700,
+ "nhan_dinh": [
+  {
+   "khung": "H4",
+   "huong": "GIAM",
+   "do_chac": "thap",
+   "dich": [
+    70000,
+    72000
+   ],
+   "han": null,
+   "han_gio": null,
+   "vo_hieu_khi": "nến H4 đóng trên 83.000",
+   "vo_hieu_cau_truc": {
+    "gia": 83000,
+    "khung": "H4",
+    "so_nen": 1,
+    "chieu": "dong_tren",
+    "cau": "Vùng này cắt toàn bộ phải cắt ở trên 83. Tức là nếu H4 đóng trên 83 là bắt buộc các bạn phải cắt, không giữ quá 83 được. 83 là điểm cuối có thể trụ được đối với lệnh sót rồi nhá, điểm cuối rồi."
+   },
+   "kich_ban_phu": null,
+   "duong_di": [
+    {
+     "huong": "TANG",
+     "dich": [
+      81000,
+      81600
+     ]
+    },
+    {
+     "huong": "GIAM",
+     "dich": [
+      70000,
+      72000
+     ]
+    }
+   ],
+   "doi_y": null,
+   "ly_do": [],
+   "trich": "Mình nghĩ khả năng là hồi thì có. Nhắc lại những vị thế các bạn đánh sót đều là ngược xu hướng cho nên cần phải thận trọng. Còn không thì thị trường như hiện tại nên ở ngoài để quan sát, chờ khi nào nó bắt đầu đi vào những nhịp sóng cụ thể hơn thì đánh tiếp sẽ dễ hơn.",
+   "nhan_v1": "GIAM"
+  },
+  {
+   "khung": "W1",
+   "huong": "PHAN_VAN",
+   "do_chac": "vua",
+   "dich": null,
+   "han": "chờ đóng nến tuần này",
+   "han_gio": 168,
+   "vo_hieu_khi": null,
+   "kich_ban_phu": "nến tuần xanh đóng qua 83 (82) thì long nhịp 83 lên 92; đóng ngay 79 hoặc kẹp giữa hai MA thì khó chịu",
+   "ly_do": [
+    "chưa phải uptrend: cần đỉnh sau cao hơn và MA34>MA89>MA200 xếp đúng trên khung tuần",
+    "chưa phải đáy 60 theo mình"
+   ],
+   "trich": "Nếu gọi là uptrend trong một giai đoạn chu kỳ thì rõ ràng ở đây là chưa. Quan điểm của mình là chưa.",
+   "doi_y": null,
+   "duong_di": null
+  }
+ ],
+ "vung_gia": {
+  "khang_cu": [
+   81000,
+   83000
+  ],
+  "ho_tro": [
+   79000,
+   79500
+  ]
+ },
+ "lenh": [
+  {
+   "chieu": "SHORT",
+   "vao": [
+    81000,
+    81600
+   ],
+   "tp": [],
+   "sl": 83000,
+   "trang_thai": "dang_giu"
+  },
+  {
+   "chieu": "SHORT",
+   "vao": [
+    81000,
+    81600
+   ],
+   "tp": [],
+   "sl": 83000,
+   "trang_thai": "de_xuat_moi"
+  },
+  {
+   "chieu": "LONG",
+   "vao": [
+    70000,
+    72000
+   ],
+   "tp": [
+    90000
+   ],
+   "sl": null,
+   "trang_thai": "de_xuat_moi"
+  },
+  {
+   "chieu": "LONG",
+   "vao": 83000,
+   "tp": [
+    92000
+   ],
+   "sl": null,
+   "trang_thai": "de_xuat_moi"
+  }
+ ],
+ "nhin_lai_truoc": "Nhịp hôm qua long lên khỏi 79.000/79.500 chốt ở râu 81.000 là xong, đúng; hôm qua ốm nên không ngồi máy long đuổi; SL sót hôm qua đúng.",
+ "cong_cu": [
+  "W1",
+  "D1",
+  "H4",
+  "H1",
+  "M5",
+  "M30",
+  "RSI",
+  "MA34",
+  "MA89",
+  "MA200",
+  "Fibo",
+  "trendline",
+  "mô hình cờ",
+  "BTC.D",
+  "USDT.D",
+  "Fear and Greed",
+  "Coinglass thanh lý"
+ ],
+ "tin_tuc": [
+  {
+   "tin": "Non farm tối nay 19:30",
+   "danh_gia": "ảnh hưởng vàng, tuần ít tin"
+  },
+  {
+   "tin": "Xác suất tăng lãi suất tháng 9 được đẩy cao trên Investing",
+   "danh_gia": "mình nghĩ tháng tới Fed giữ nguyên nhưng phát biểu diều hâu; nhìn hành động không nhìn lời nói"
+  }
+ ],
+ "thoi_quen": [
+  "không long ở vùng này, ngồi im chờ thị trường",
+  "sale ngược xu hướng chỉ sale dò, cài SL",
+  "chốt lệnh tại từng hỗ trợ rồi chờ thủng mới vào tiếp",
+  "view không quan trọng bằng hành động (action plan)",
+  "đọc đám đông qua comment và F&G"
+ ],
+ "cau_cua_mieng": [
+  "Chỉ có người hành động đúng thôi chứ không có người nhận định đúng.",
+  "Lúc cảm giác đánh bên nào cũng không an toàn thì tốt nhất cứ ngồi im, chờ thị trường.",
+  "Pump nhanh là vì không cho ai lên tàu."
+ ],
+ "altcoin": [
+  {
+   "coin": "altcoin chung",
+   "huong": "PHAN_VAN",
+   "ghi": "con nào cũng gặp Fibo, sóng altcoin ngắn không phải sóng dài"
+  },
+  {
+   "coin": "ETH",
+   "huong": "TANG",
+   "ghi": "Bitcoin lên 90 thì ETH lên 3000; vùng giữa trống"
+  },
+  {
+   "coin": "SOL",
+   "huong": "GIAM",
+   "ghi": "cặp nến đỏ xấu, đi dưới Fibo, điều chỉnh tiếp"
+  }
+ ],
+ "ghi_chu": "Không nêu giá BTC rõ (quanh 80.500-81.500, sale entry khoảng 81.000 - bản gốc '81.00', có chỗ nói 81.600 trong bản sạch nhưng gốc cho thấy 81.000). Chọn 'chung' vì không gắn khung; tự nhận view cá nhân ít cơ sở, độ chắc thấp. Short chỉ là lệnh dò ngược xu hướng. Gốc 'phá 84 lên 90,92' là của vàng.",
+ "hanh_dong": "giu_lenh",
+ "chang_ke_tiep": {
+  "huong": "TANG",
+  "dich": [
+   81000,
+   81600
+  ]
+ },
+ "khung_lon_v2": {
+  "D1": "PHAN_VAN",
+  "W1": "GIAM"
+ },
+ "pha_vo_gia": "Gọi vùng hiện tại (~80–81, dưới cản 83) là dễ thành trap long: 'Long ở đây nhìn cứ hơi trap trap thế nào ấy'; 'vùng này nhiều người view long quá, nên nó dễ trở thành một trap view, trở thành một trap long... đóng cây H4 này có thể là break cản, break cản và đi xuống... Gọi là fake out cũng được'.",
+ "nguon_nhan": "dap_an_v2 (Opus 5.5 rút mù 31/10)"
+}

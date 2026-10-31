@@ -1,0 +1,52 @@
+buoi	giay	t_utc	loi_volume	vol_max_2nen	nhom_vol	volume_nhan	nen_nhan
+2026-01-08_jX-0Hgy1S0E	891	2026-01-08 03:16	manh	1.02	0.8-1.2	Bật volume lên; lực bán áp đảo lực mua	Râu rút chân H4 ở 91, test lên một cây
+2026-01-15_S30tBiADnLk	2928	2026-01-15 04:27	yeu	0.97	0.8-1.2	Volume cực kỳ yếu dù thị trường tăng	Các nhịp đẩy lên hôm qua và sáng nay
+2026-01-20_GygVJDmjlgY	1991	2026-01-20 04:09	manh	0.98	0.8-1.2	Volume đỏ lớn → không thể tăng tiếp ngay; cần thêm cây rút chân có volume bán vượt trội mới hồi nhẹ	Cây H4 đỏ kèm volume bán lớn
+2026-01-22_WvCOBcm0bd0	2916	2026-01-22 03:53	?	1.98	>=1.2	Volume short/vị thế short trên sàn lệch quá nhiều	Không xét nến nữa trong ngày
+2026-01-26_KZ3cHk9a3yc	2637	2026-01-26 04:19	manh	1.56	>=1.2	Lực bán mạnh khi đấm xuyên thì thôi	Cách giá test đáy 86: tạo lực hồi vs đấm xuyên thẳng
+2026-01-27_Q2qX5gIvNC8	3020	2026-01-27 04:08	yeu	0.70	<0.8	Volume hơi yếu	H4 đóng cây xanh, lực mua khá tốt, treo và đóng lên
+2026-01-30_4PUqxjVBR4M	593	2026-01-30 03:57	manh	2.76	>=1.2	Hai cây đỏ volume bán áp đảo, cây xanh chỉ bằng khoảng 1/5 volume bán	Cây H4 xanh kẹp sau cây đỏ (giống nến đảo chiều)
+2026-02-04_c6WnN4Q9EXo	502	2026-02-04 03:51	?	2.28	>=1.2	Volume vượt trội	Cây nến bán H4 lớn; trước đó một cây bán, sau đó test lại râu rồi đi lên; đỉnh thấp đáy thấp
+2026-03-03_xXKnEs9z81g	1181	2026-03-03 03:22	manh	1.42	>=1.2	Pump volume tốt	Cây H4 pump; lịch sử: sau nến mua mạnh volume lớn thường điều chỉnh từ từ lấy thanh khoản rồi đi lên
+2026-03-04_OawlrpkFqQk	1694	2026-03-04 03:27	?	1.40	>=1.2	Lực bán phía trên còn rất nhiều; lực mua ngày càng lên	Các đỉnh 68–69 không breakout được, đáy cao dần
+2026-03-12_qJZk9q5A7rA	1637	2026-03-12 03:28	manh	0.88	0.8-1.2	Volume mua vẫn chủ đạo; trước có volume bán kéo xuống nhưng volume xanh đang chinh phục dần	Nến bán
+2026-04-02_orDQVRuxI1E	2884	2026-04-02 03:47	manh	0.80	<0.8	phải có volume một tí	H4 15h: xanh có lực (không phải râu hẹp) thì lên; đỏ thì gãy
+2026-04-03_vnCUK9ayUsI	3644	2026-04-03 04:02	yeu	0.38	<0.8	không có thanh khoản	nhiều cây M5 râu; H4 đóng không thanh khoản
+2026-04-07_HeBpJr0i6Bg	3462	2026-04-07 03:58	yeu	1.98	>=1.2	lực còn yếu	H4 chưa rõ hướng
+2026-04-09_gx-69-TVn_w	1616	2026-04-09 03:25	manh	0.87	0.8-1.2	Khựng lại chứng tỏ có lực mua (chưa biết mua đẩy giá hay giữ để trap short)	Cụm H4 có cây tăng rồi đang điều chỉnh, cứ khựng lại
+2026-04-24_ZTOmNH9I_wM	814	2026-04-24 03:15	?	1.43	>=1.2	Toàn lực bán H4	Gãy về 78, không qua khỏi Fibo; M5 có cây bán
+2026-04-24_ZTOmNH9I_wM	1483	2026-04-24 03:26	?	1.43	>=1.2	Volume lực lên nhưng không đồng thuận với lực mua	Nhịp lên H4
+2026-04-27_9oEDyu-IfMM	1523	2026-04-27 15:19	?	2.43	>=1.2	Lực bán chắc chắn nhiều mới đạp được	Một cây bán lớn rồi tiếp tục một cây bán nữa; nếu H4 đóng ở giá hiện tại lúc 11 giờ
+2026-05-11_jm7VS-lKW8w	1613	2026-05-11 03:25	manh	2.38	>=1.2	có volume nhưng không quá xuất sắc, 'loại dụ'	một cây H4 kéo lên 82 rất đẹp (sáng thứ hai)
+2026-06-04_59zOmIM_EOM	1016	2026-06-04 03:17	manh	1.64	>=1.2	volume lớn	hôm qua nến nhấn chìm đẹp nhưng vẫn cắm xuống; hiện phân kỳ H4
+2026-06-05_a6-MmsaBAfA	456	2026-06-05 03:05	manh	0.73	<0.8	lực bán / lực xả cực kỳ kinh khủng (không nêu số volume)	Cụm nến H4 đêm qua nỗ lực cực kỳ nhưng không vượt qua được
+2026-06-05_a6-MmsaBAfA	3728	2026-06-05 04:00	manh	0.75	<0.8	lực bán vẫn mạnh ('lực bán này bán phát')	H4 đóng giữ được ở hỗ trợ Fibo nhưng thân/lực yếu
+2026-06-09_UmnCq7p4NlU	611	2026-06-09 03:06	?	0.50	<0.8	lực mua đẹp (điều kiện vào)	Chờ cây H4 có lực mua đẹp hoặc cây H1 đảo chiều tại 60-61
+2026-06-11_Xix-qwmyPkE	1978	2026-06-11 03:29	?	0.58	<0.8	Không có nhiều volume, đang build; volume đỏ; delta chênh cho short nhưng không đáng kể -> không đảm bảo cho nhịp phục hồi căng	Nhịp hồi hiện tại (đọc qua order block/volume)
+2026-06-12_x75V4Kb1fj4	2469	2026-06-12 03:41	?	0.67	<0.8	khối lượng như thế này cũng không đáng ngại lắm	Thị trường hết đỏ qua xanh
+2026-06-23_w3K-VXD_Tns	71	2026-06-23 03:01	?	0.57	<0.8	lực bán vẫn không cho lên, nhưng lực mua vẫn còn	Đêm qua lên test Fibo rồi rụng, H4 đóng dưới Fibo
+2026-06-23_w3K-VXD_Tns	1392	2026-06-23 03:23	?	0.57	<0.8	khối lượng không nhiều, khoảng 100.000	Vùng thanh khoản yếu, húp hai đầu
+2026-06-24_ZrqOEgiFEF8	986	2026-06-24 03:17	yeu	0.59	<0.8	lực mua không nổi, lực mua yếu quá	Cây H4 phá khỏi vùng 63-64, thủng hỗ trợ
+2026-06-26_UzjWDBAiahs	140	2026-06-26 03:11	manh	0.94	0.8-1.2	lực bán vẫn còn rất kinh khủng	H4 có vẻ muốn test đáy đi lên
+2026-06-26_UzjWDBAiahs	1337	2026-06-26 03:31	manh	0.94	0.8-1.2	lực bán kinh khủng	Mẫu downtrend: bán một cây lớn, vài cây nhỏ tạo râu để hồi, hồi không quá Fibo của cây bán trước, rồ
+2026-06-26_UzjWDBAiahs	1849	2026-06-26 03:39	?	0.94	0.8-1.2	khối lượng long mở màu xanh liên tục; mốc 500.000 quét lên quét xuống	Khối lượng long mở ra liên tục (Hyblock)
+2026-06-26_UzjWDBAiahs	2970	2026-06-26 03:58	manh	0.94	0.8-1.2	cần thêm 1-2 cây H4 full lực bán	Râu nhiều, chưa có cây xả mạnh
+2026-06-29_wyCTvVbTVPE	1625	2026-06-29 03:28	?	0.64	<0.8	đỏ nhiều nhưng chênh lệch không lớn, khoảng 100.000	Pha xanh vừa nhú là bị phe đỏ áp (Hyblock)
+2026-06-30_h3mwuQrqabM	3632	2026-06-30 04:02	?	4.59	>=1.2	hụt hơi	Nến H4 vừa đóng: lên rồi không trụ được
+2026-07-10_QwYznPgaAFY	2292	2026-07-10 03:40	yeu	0.64	<0.8	Hyblock xanh lên một tí nhưng khối lượng không ăn thua	
+2026-07-10_QwYznPgaAFY	3636	2026-07-10 04:02	manh	0.60	<0.8	Volume khủng	Nến H4 đóng 'khốn nạn', cây nến khủng
+2026-07-29_2FMmTeLGCNY	1159	2026-07-29 03:30	?	0.73	<0.8	Quan sát lực xả trước đó; xả căng quá thì phải chờ	Khi về 62.000-62.500: đang nến đỏ xả thì không bắt; chờ nhịp rút râu lên đẹp / cặp nến xanh-đỏ
+2026-07-30_qBG2h5D9CrE	2870	2026-07-30 03:57	?	2.15	>=1.2	Volume phiên Mỹ sau tin lãi suất, không phải giá trị nội tại	H4 đóng xanh nhưng vẫn dưới xu hướng; hai cây H1 tăng (cây H4 vừa rồi) sau tin lãi suất
+2026-08-12_1003_EaWaSL7aWT4	1200	2026-08-12 03:23	manh	1.66	>=1.2	Lực bán rất mạnh ở cây nến tối thứ hai; phe mua gồng hết sức chỉ đẩy được ~3000 giá (lên ~65)	Các cụm H4 liên tục râu nến (lên là bị đạp, phe mua giữ); cây nến tối thứ hai phá hủy cả cụm MA
+2026-08-13_1006_hNxSX7GUKMs	800	2026-08-13 03:19	yeu	0.62	<0.8	Lực đẩy rất yếu	Sau tin CPI giá đẩy lên 64.500 [?] rồi rụng trong đêm, H4 đóng
+2026-08-13_1006_hNxSX7GUKMs	1959	2026-08-13 03:38	?	0.62	<0.8	Lực bán ở các cụm này khá căng	H4 có phân kỳ nhẹ (khi hỏi về hai đáy vượt 63.800)
+2026-08-17_1006_tmR0aXnjOlA	1357	2026-08-17 03:28	manh	0.59	<0.8	Lực mua khá tốt, không chỉ là lực mua kỹ thuật đơn thuần	Một cây H4 xanh phá qua hẳn vùng tích lũy nhỏ cuối tuần (trên H4 và H1)
+2026-08-18_0957__c0_SERWnz0	3555	2026-08-18 03:56	yeu	2.75	>=1.2	Lực khá yếu	Giá cố trụ và đẩy lên; nến M30 đẹp nhưng H4 gần như chắc đóng ở đây
+2026-10-06_1001_CABZxVcYavM	923	2026-10-06 03:16	?	0.59	<0.8	vùng trên bị bán giật (không nêu số volume)	Đỉnh thấp dần từ CN đến thứ ba: 87.000 từ chối, 87.000 từ chối, 86.700 (phụ đề '86.007') từ chối, 86
+2026-10-06_1001_CABZxVcYavM	955	2026-10-06 03:16	manh	0.59	<0.8	lực mua dài vẫn cứng; lực bán mới áp đảo một xíu ở khung ngắn	Đáy liên tục được kéo lên, đáy cao dần
+2026-10-07_1004_Rl-3RfG8EiY	3439	2026-10-07 04:01	?	3.10	>=1.2	vẫn là nến bán rất mạnh, lực bán rất trâu bò	H4 đóng trên 84.050 và dưới 84.300 đúng dự đoán
+2026-10-07_1004_Rl-3RfG8EiY	3289	2026-10-07 03:58	?	1.17	0.8-1.2	volume profile	Volume profile: vùng 84 có volume lớn (lực mua, thanh khoản mạnh) nên giá đứng lại; phía trên ~85.x 
+2026-10-13_1005_4ttwL_4CC9E	1044	2026-10-13 03:22	?	1.69	>=1.2	lực bán trước đó ở H4 giảm dần	Cây H4 hiện tại kéo lên lại, giữ đáy 81; nếu đóng ~82 (thay vì đóng về 79)
+2026-10-14_1009_BlA26qxNBTE	1436	2026-10-14 03:32	?	0.76	<0.8	volume vào thị trường ít, khối lượng cực thấp	Thanh lý 24h chỉ 174 triệu (hôm qua 900 triệu); khối lượng kill hai đầu, nghiêng long một xíu
+2026-10-15_1005_5iN8iTFsmlY	683	2026-10-15 03:16	?	0.82	0.8-1.2	lực bán còn rất mạnh, cộng tin xấu	Điều kiện ổn: hai nến H4 - một cây rút râu ở đây và một cây chiều nay đóng xanh
+2026-10-15_1005_5iN8iTFsmlY	1101	2026-10-15 03:23	manh	0.82	0.8-1.2	lực bán rất mạnh, giá không đảo chiều được	Cây nến xanh hồi lúc 11 giờ đêm qua

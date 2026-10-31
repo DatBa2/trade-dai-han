@@ -1,0 +1,26 @@
+{
+  "buoi": "2026-03-11_q-9RpBVzOhU",
+  "ngay": "2026-03-11",
+  "gia_btc_luc_noi": 69800,
+  "moc": [
+    {"gia": 71000, "gia_tren": null, "vai_tro": "nhac_lai", "huong": "TANG", "khung": "H1", "can_cu": ["Fibo 0.5 (limit long theo Fibo của nhịp)"], "moc_gio": "00:16:41", "chac": true, "trich": "Mình cho một limit là giá nó chạy lên đến 71 luôn, 2000 giá. Mình vừa cho anh em limit ở Fibo 0.5 xong là giá nó vút lên luôn"},
+    {"gia": 75000, "gia_tren": null, "vai_tro": "dich", "huong": "TANG", "khung": "D1", "can_cu": ["Fibo mở rộng 2.0 (đã đo hôm trước)"], "moc_gio": "00:17:43", "chac": true, "trich": "Fibo 75 hôm trước mình đo rồi. Nếu anh em đo Fibo đoạn này thì nó cho Fibo 2 ở 75"},
+    {"gia": 78000, "gia_tren": null, "vai_tro": "dich", "huong": "TANG", "khung": null, "can_cu": ["vùng tích lũy, đáy nâng dần"], "moc_gio": "00:18:15", "chac": false, "trich": "Khả năng nó lên vùng 780 rất cao"},
+    {"gia": 69000, "gia_tren": null, "vai_tro": "sl", "huong": "TANG", "khung": "M30", "can_cu": ["hai đáy khung nhỏ"], "moc_gio": "00:19:18", "chac": true, "trich": "Hai đáy ở đây mình nghĩ có thể đánh long ... Stop loss là 69.00"},
+    {"gia": 72000, "gia_tren": null, "vai_tro": "tp", "huong": "TANG", "khung": null, "can_cu": ["cụm thanh lý / heatmap (short mở dài phía trên 72)"], "moc_gio": "00:20:18", "chac": true, "trich": "TP 72. 72 trên này mở khá dài thì khả năng lên trên này húp anh em ở trên này cũng hợp lý"},
+    {"gia": 69000, "gia_tren": 69750, "vai_tro": "entry", "huong": "TANG", "khung": null, "can_cu": ["cụm thanh lý / heatmap (long mới mở ở 69.000)"], "moc_gio": "00:20:18", "chac": false, "trich": "Phần thứ hai mọi người có thể chờ ở vùng 69750 69. SL tất cả đều 69"},
+    {"gia": 68000, "gia_tren": 69000, "vai_tro": "ho_tro", "huong": "TANG", "khung": null, "can_cu": ["cụm thanh lý / heatmap (data dày 68-69)"], "moc_gio": "00:23:03", "chac": true, "trich": "68 69 này vẫn dày. 68 ở bên này thì có một data ở 68"},
+    {"gia": 67000, "gia_tren": 69000, "vai_tro": "ho_tro", "huong": "TANG", "khung": "M5", "can_cu": ["Fibo 0.5 của đoạn M5", "cụm thanh lý / heatmap"], "moc_gio": "00:26:32", "chac": true, "trich": "Chờ nến cái đoạn này 67000, 6900 ... Thằng này về đây cũng là Fibo 50 của đoạn này"},
+    {"gia": 69700, "gia_tren": null, "vai_tro": "ho_tro", "huong": "TANG", "khung": "M5", "can_cu": ["cụm thanh lý / heatmap"], "moc_gio": "00:27:48", "chac": false, "trich": "6970 khả năng hú anh em ở đây rồi"},
+    {"gia": 70500, "gia_tren": 70500, "vai_tro": "tp", "huong": "TANG", "khung": null, "can_cu": [], "moc_gio": "00:34:53", "chac": false, "trich": "lên đến vùng khoảng 5 600 giá là phải chốt đi. Nếu anh em scalping"},
+    {"gia": 66000, "gia_tren": null, "vai_tro": "ho_tro", "huong": "TANG", "khung": "H4", "can_cu": ["trendline (test nhiều lần, hiệu lực thấp)"], "moc_gio": "00:42:03", "chac": true, "trich": "market nó vẫn chạy tiếp cái trendline này thì về đâu đó khoảng 66.000. Rồi lại bật lên đâu đó khoảng độ 74"},
+    {"gia": 74000, "gia_tren": null, "vai_tro": "dich", "huong": "TANG", "khung": "H4", "can_cu": ["trendline (biên độ lặp lại)"], "moc_gio": "00:42:03", "chac": true, "trich": "Rồi lại bật lên đâu đó khoảng độ 74"},
+    {"gia": 69800, "gia_tren": null, "vai_tro": "vo_hieu", "huong": "TANG", "khung": "M5", "can_cu": ["entry scalping"], "moc_gio": "00:44:45", "chac": true, "trich": "Đóng M5 dưới cái vùng hiện tại 69K8 gì đó là sẽ hòa luôn ... thoát luôn"},
+    {"gia": 65000, "gia_tren": null, "vai_tro": "sl", "huong": "TANG", "khung": "H4", "can_cu": [], "moc_gio": "00:48:02", "chac": true, "trich": "lấy H4 vào giá hiện tại, SL nó nằm ở đâu đó khoảng 65"},
+    {"gia": 70000, "gia_tren": null, "vai_tro": "dich", "huong": "TANG", "khung": "M5", "can_cu": ["số tròn"], "moc_gio": "00:59:03", "chac": true, "trich": "giờ mà nó vút lên luôn được 70.000 thì mình chốt đóng ngủ luôn"},
+    {"gia": 80000, "gia_tren": null, "vai_tro": "dich", "huong": "TANG", "khung": null, "can_cu": ["gap CME"], "moc_gio": "01:00:12", "chac": true, "trich": "Gap ở trên này, từ 2004 đến 2006, tương đương với BTC 80 (gap ETH tương ứng BTC 80)"},
+    {"gia": 40000, "gia_tren": null, "vai_tro": "dich", "huong": "GIAM", "khung": null, "can_cu": [], "moc_gio": "01:00:42", "chac": true, "trich": "Big short 40.000 thì chưa đâu. Dễ ăn như vậy thì đâu có còn là cái thị trường này"},
+    {"gia": 74000, "gia_tren": null, "vai_tro": "dich", "huong": "TANG", "khung": "H1", "can_cu": ["mô hình cốc tay cầm H1"], "moc_gio": "01:14:14", "chac": false, "trich": "Cốc nhỏ lên 74. Cốc H1 thì SL ở dưới này, 68k5 thôi"},
+    {"gia": 68500, "gia_tren": null, "vai_tro": "sl", "huong": "TANG", "khung": "H1", "can_cu": ["mô hình cốc tay cầm H1"], "moc_gio": "01:14:14", "chac": true, "trich": "Cốc H1 thì SL ở dưới này, 68k5 thôi"}
+  ]
+}

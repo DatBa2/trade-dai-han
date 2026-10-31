@@ -1,0 +1,104 @@
+{
+ "buoi": "2026-10-15_1005_5iN8iTFsmlY",
+ "ngay": "2026-10-15",
+ "gio_vn": "10:05",
+ "gia_btc_luc_noi": 80920,
+ "nhan_dinh": [
+  {
+   "khung": "H4",
+   "huong": "GIAM",
+   "do_chac": "vua",
+   "dich": 78000,
+   "han": "1–2 ngày, tới hết thứ Bảy 17/10",
+   "han_gio": 48,
+   "vo_hieu_khi": "Nến H4 đóng trên 83.300 (lấy lại vùng 83 + EMA34/89 H4)",
+   "kich_ban_phu": "Giá vừa quét thủng đáy 80.4 rồi rút chân, nhiều khả năng hồi kỹ thuật lên 82–82.6 test lại vùng gãy trước khi đi tiếp xuống",
+   "duong_di": [{"huong": "TANG", "dich": 82300}, {"huong": "GIAM", "dich": 78000}],
+   "doi_y": null,
+   "ly_do": [
+    "ĐỔI view vì (a): hôm qua đã nói 'chỉ sell an toàn khi H4 về dưới 83' — sau CPI 4 cây H4 liên tiếp đóng dưới 83 và dưới 82, cây 07:00 đóng 80.92 dưới mốc 81 của buổi 13/10",
+    "Giá nằm dưới cả EMA34, EMA89, EMA200 H4 (82.97/83.32/82.06), EMA34 H4 đã quay đầu dốc xuống",
+    "Không vượt được 84 sau 3 lần test (84.36 → 84.17 → 84.15) → hai đỉnh D1 86–87 + neckline giữ vai trò, kịch bản về 76 còn nguyên",
+    "Fibo mở rộng từ vùng 84 ra 78; EMA89 D1 77.2 + đáy cũ 76 là đích lớn",
+    "Đúng kịch bản CPI hôm qua: tăng trước (quét 84.1) giảm sau, về 80–81"
+   ],
+   "trich": null
+  },
+  {
+   "khung": "D1",
+   "huong": "GIAM",
+   "do_chac": "vua",
+   "dich": 76000,
+   "han": "3–7 ngày",
+   "han_gio": 168,
+   "vo_hieu_khi": "Nến D1 đóng trên 83.200 (xoá cây đỏ 14/10, quay lại trên EMA34 D1)",
+   "kich_ban_phu": "Vùng 80–80.4 (râu tuần + đáy D1) có thể khựng 1–2 ngày rồi mới gãy",
+   "duong_di": [{"huong": "TANG", "dich": 82300}, {"huong": "GIAM", "dich": 76500}],
+   "doi_y": null,
+   "ly_do": [
+    "D1 14/10 đỏ thân dày 83.17 → 81.68 xoá sạch cây xanh 13/10 → hôm nay không đánh ngược (không long)",
+    "Giá rơi xuống mép dưới dải EMA34 D1 (80.92), MA34 D1 test lần thứ 4 → mất uy tín",
+    "Mô hình hai đỉnh D1 86–87 + neckline đã phá, đích đo được ~76 trùng EMA89 D1 77.2 và đáy cũ 75–76",
+    "BTC.D tăng, USDT.D tăng, Nasdaq −1.9%, vàng −1.7% → dòng tiền rút khỏi rủi ro"
+   ],
+   "trich": null
+  },
+  {
+   "khung": "W1",
+   "huong": "TANG",
+   "do_chac": "thap",
+   "dich": [90000, 93000],
+   "han": "2–4 tuần",
+   "han_gio": 504,
+   "vo_hieu_khi": "Nến tuần đóng dưới 82.000 (thứ Hai 19/10 07:00)",
+   "kich_ban_phu": "Nến tuần đang −3.4%, nếu đóng dưới 82 thì nhịp tăng 57 → 87 kết thúc, về test 76 khung tuần",
+   "duong_di": null,
+   "doi_y": null,
+   "ly_do": [
+    "Giữ view tuần vì nến tuần chưa đóng (mốc sai tính theo nến đóng)",
+    "Giá vẫn trên EMA89 tuần 79.4 và trên dải EMA34 tuần (72.8–79.3)",
+    "Độ chắc hạ xuống thấp: nến tuần đang đỏ, nằm dưới 82"
+   ],
+   "trich": null
+  }
+ ],
+ "vung_gia": {
+  "khang_cu": [82000, 82600, 83300, 84200],
+  "ho_tro": [80200, 78000, 77200, 76000]
+ },
+ "lenh": [
+  {"chieu": "SHORT", "loai": "limit", "vao": 82400, "tp": [80500, 78200], "sl": 83400, "trang_thai": "de_xuat_moi"}
+ ],
+ "hanh_dong": "dung_ngoai_cho_entry",
+ "giu_view": false,
+ "ly_do_doi_view": "(a) Nến đóng qua mốc sai đã báo: buổi 14/10 nói 'chỉ sell an toàn khi H4 về dưới 83' và buổi 13/10 nói 'H4 đóng dưới 81 thì đánh về 76' — sau CPI 4 cây H4 liền đóng dưới 83/82, cây 11:00 đóng 80.92. PHÂN VÂN chờ tin chuyển sang GIẢM, nhưng không short đáy, chờ hồi.",
+ "rau": {
+  "tren": "84.147 (H4 mở 15:00 14/10, cây quét trước CPI) — đỉnh thứ 3 thấp dần sau 84.36/84.17",
+  "duoi": "80.228 (H4 mở 07:00 15/10) — quét thủng đáy D1 80.4 rồi rút chân ~700 giá",
+  "test_lai": "Râu dưới 80.228: KHÔNG ở chặng 1 — vừa quét xong đáy 80.4 (SL phe bắt đáy), giá cần hồi trước; nó sẽ bị phá ở chặng 2 khi đi về 78. Râu trên 84.15: KHÔNG — vùng 84 đã test 3 lần hết giá trị, giữa đường còn EMA34/89 H4 83.0–83.5 chắn."
+ },
+ "vung_on": [
+  {
+   "loai": "SHORT",
+   "khoang": [82000, 82700],
+   "ly_do": [
+    "EMA200 H4 82.06 vừa bị thủng → thành cản",
+    "Fibo 0.5–0.618 nhịp giảm H4 84.15 → 80.23 (82.19 / 82.65)",
+    "Hỗ trợ cũ 82–83 + trendline H4 82 đã gãy, đổi vai thành kháng cự",
+    "Mép dưới dải EMA34 H4 82.59"
+   ]
+  },
+  {
+   "loai": "LONG",
+   "khoang": [76000, 77200],
+   "ly_do": [
+    "EMA89 D1 77.17",
+    "Đích mô hình hai đỉnh D1 ~76 (đã nêu 07/10, 13/10)",
+    "Đáy cũ 75–76 (15–17/09) + tường thanh lý 76–77",
+    "Chỉ là vùng quan sát, chưa limit"
+   ]
+  }
+ ],
+ "pha_vo_gia": "Cú gãy 83/82 sau CPI là THẬT: 4 cây H4 liên tiếp đóng dưới, thủng cả EMA200 H4, không hồi lại được trên 82. Riêng cây chọc 80.2 mới là 1 cây đóng sát 81 và rút chân dưới đáy 80.4 (G2 + G4) → đó là cú quét đáy, chưa phải điểm short; chờ hồi.",
+ "loi_binh": "Hôm qua mình nói rồi anh em, CPI ra thì tăng trước giảm sau, quét 84 xong về 80–81, đúng bài. H4 giờ nằm dưới MA34, 89, 200 cả rồi, nến ngày hôm qua đỏ thân dày xoá hết cây xanh, không có cơ sở gì để đi long. Nhưng giá đang sát đáy 80, vừa quét râu, short tầm này khác nào hòa mình vào đám đông. Chờ nó hồi lên 82–82.6 test lại vùng gãy với MA200 H4, có nến đỏ volume thì mình short, mục tiêu 78 rồi 76. Thà rớt nước miếng còn hơn lau nước mắt."
+}

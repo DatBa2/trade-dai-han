@@ -1,0 +1,19 @@
+{
+  "buoi": "2026-03-16_5DzdErSA8jk",
+  "ngay": "2026-03-16",
+  "gia_btc_luc_noi": 74000,
+  "moc": [
+    {"gia": 72000, "gia_tren": 72999, "vai_tro": "sl", "huong": "TANG", "khung": "M30", "can_cu": ["vùng break phía trên"], "moc_gio": "00:08:47", "chac": false, "trich": "mình định thủng khoảng đoạn 72.000 mấy này thì out. Chắc rơi vào khoảng 15% thôi"},
+    {"gia": 74600, "gia_tren": null, "vai_tro": "sl", "huong": "GIAM", "khung": "M30", "can_cu": ["mô hình hai đỉnh M30 + phân kỳ", "EMA M30 đã test 2 lần"], "moc_gio": "00:09:49", "chac": true, "trich": "kêu một lệnh short ở đây stop loss khoảng 74.600 thì quá đơn giản ... Nhưng mình thấy thị trường đi kiểu vậy có vẻ là dụ short"},
+    {"gia": 80000, "gia_tren": null, "vai_tro": "dich", "huong": "TANG", "khung": "W1", "can_cu": ["số tròn 80K"], "moc_gio": "00:20:54", "chac": true, "trich": "nếu giá muốn chinh phục mốc 80 thì khả năng rất cao nó sẽ chinh phục trong tuần này"},
+    {"gia": 78000, "gia_tren": null, "vai_tro": "dich", "huong": "TANG", "khung": null, "can_cu": [], "moc_gio": "00:25:04", "chac": true, "trich": "Nếu đến lúc BTC đạt target ví dụ như 78.000 mà con này không lên nổi thì chúng ta nhảy tàu"},
+    {"gia": 79000, "gia_tren": null, "vai_tro": "dich", "huong": "TANG", "khung": "D1", "can_cu": [], "moc_gio": "00:25:35", "chac": false, "trich": "Nến ngày kết thúc điểm 79 rồi điều chỉnh. 79 thì quá êm luôn (lời người xem, mình đồng tình)"},
+    {"gia": 71600, "gia_tren": null, "vai_tro": "dich", "huong": "GIAM", "khung": "M15", "can_cu": ["Fibo 0.618 M15 ở 74K (phản ứng)"], "moc_gio": "00:39:58", "chac": true, "trich": "nó đang phản ứng ở Fibo 61.8, 74 này. Rụng khỏi đây thì thị trường sẽ cho anh em ăn cú short rất ngon về 71k6"},
+    {"gia": 74800, "gia_tren": 74900, "vai_tro": "khang_cu", "huong": "GIAM", "khung": null, "can_cu": ["cụm thanh lý / heatmap (Coinglass, nhiều lệnh short chờ phía trên)"], "moc_gio": "00:43:09", "chac": true, "trich": "Khả năng nó còn lụm anh em thêm phát nữa mới cho gãy. 74.800, 74.900"},
+    {"gia": 71000, "gia_tren": null, "vai_tro": "dich", "huong": "GIAM", "khung": "H4", "can_cu": ["gap CME 71K"], "moc_gio": "00:43:39", "chac": true, "trich": "Bitcoin có một gap ở 71, tầm này thấy vẫn xa. Anh em không nên short"},
+    {"gia": 71000, "gia_tren": 71800, "vai_tro": "ho_tro", "huong": "TANG", "khung": "H4", "can_cu": ["gap CME 71K", "H4 cột cờ"], "moc_gio": "00:46:18", "chac": true, "trich": "nó điều chỉnh về lại khoảng 71.000, 71.800 vừa đẹp để lấp gap và vừa đủ về mặt kỹ thuật để lên tiếp"},
+    {"gia": 69000, "gia_tren": null, "vai_tro": "vo_hieu", "huong": "TANG", "khung": "H4", "can_cu": [], "moc_gio": "00:46:18", "chac": true, "trich": "Gãy sóng này thì phải thủng 69.000 mới đứt sóng. Còn giữ trên vùng 7X thì vẫn còn sóng"},
+    {"gia": 70000, "gia_tren": null, "vai_tro": "ho_tro", "huong": "TANG", "khung": null, "can_cu": ["cụm thanh lý / heatmap (bẫy lụm thanh lý ~70K)"], "moc_gio": "00:48:54", "chac": false, "trich": "Bẫy gãy về 70k lụm thanh lý lên thì ác quá, biết đâu được"},
+    {"gia": 70800, "gia_tren": 70900, "vai_tro": "ho_tro", "huong": "TANG", "khung": null, "can_cu": [], "moc_gio": "00:52:33", "chac": true, "trich": "BTC liệu có về 70 hay 71? ... 70k8, 70k9 mình nghĩ cũng được, không đến nỗi sâu đâu"}
+  ]
+}

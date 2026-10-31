@@ -1,0 +1,250 @@
+[
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[0].trich",
+  "trich": "Vùng này nó nhập nhằng ... Cá nhân mình nghĩ phải về 75 là tối thiểu, còn không thì 74.000 là đẹp rồi mới tính chuyện tiếp.",
+  "giay": 2430,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=AG126RfNCk4&t=2430s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[1].trich",
+  "trich": "Đà tăng thì mình thấy vẫn còn. ... Mục tiêu của chúng ta là 80.",
+  "giay": 235,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=AG126RfNCk4&t=235s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[2].trich",
+  "trich": "khả năng tuần này là tuần bay cuối cùng của thị trường. ... Khi nào thị trường đủ target ... thì các bạn phải xử lý.",
+  "giay": 1770,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=AG126RfNCk4&t=1770s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "lenh[0].trich",
+  "trich": "Quét về 75.000 rồi đi lên trên này là đẹp. Trên này có 76, 77.000. Chúng ta ăn 76.900 thôi.",
+  "giay": 2281,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=AG126RfNCk4&t=2281s",
+  "anh": [
+   {
+    "file": "so_tay/khung/AG126RfNCk4_003636.jpg",
+    "giay": 2196,
+    "lech": -85
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[0].trich",
+  "trich": "Bitcoin vẫn giữ được vùng 75 76",
+  "giay": 220,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=AG126RfNCk4&t=220s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[1].trich",
+  "trich": "MA200 ở khung ngày 80. Mục tiêu của chúng ta là 80",
+  "giay": 265,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=AG126RfNCk4&t=265s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[2].trich",
+  "trich": "Fibo cho chúng ta lên được 80, gap này, Fibo mở rộng này... 80, 81, 82, 83",
+  "giay": 899,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=AG126RfNCk4&t=899s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[3].trich",
+  "trich": "có cây H4 đóng lại lên trên vùng 76 thì lúc đó chúng ta mới có khả năng chơi tiếp",
+  "giay": 1163,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=AG126RfNCk4&t=1163s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[4].trich",
+  "trich": "nó về test lại vùng 0.5 đến 0.618, từ 74.000 cho đến 75.000",
+  "giay": 1190,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=AG126RfNCk4&t=1190s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[5].trich",
+  "trich": "Lên 77.000 khả năng là bị đạp về 76 rồi mới lên tiếp 79",
+  "giay": 1271,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=AG126RfNCk4&t=1271s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[6].trich",
+  "trich": "Lên 77.000 khả năng là bị đạp về 76",
+  "giay": 1271,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=AG126RfNCk4&t=1271s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[7].trich",
+  "trich": "bị đạp về 76 rồi mới lên tiếp 79",
+  "giay": 1273,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=AG126RfNCk4&t=1273s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[8].trich",
+  "trich": "Về đến vùng hỗ trợ 71.000 này",
+  "giay": 1322,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=AG126RfNCk4&t=1322s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[9].trich",
+  "trich": "Về đến vùng thứ hai là 69.000... Fibo 0.618 của nhịp sóng tăng",
+  "giay": 1326,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=AG126RfNCk4&t=1326s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[10].trich",
+  "trich": "Đây có một kênh giá cùng ngày nữa... nó về đến đây cũng được thôi, 67 này",
+  "giay": 1418,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=AG126RfNCk4&t=1418s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[11].trich",
+  "trich": "nó về hẳn luôn dưới bốn mấy 50.000",
+  "giay": 1466,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=AG126RfNCk4&t=1466s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[12].trich",
+  "trich": "chờ về vùng 7400 hoặc 7500 để tìm điểm vào",
+  "giay": 1674,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=AG126RfNCk4&t=1674s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[13].trich",
+  "trich": "Khả năng nhịp này nó lên lấp tiếp gap này 77 sau đó mới rụng",
+  "giay": 1695,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=AG126RfNCk4&t=1695s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[14].trich",
+  "trich": "Khi nào thị trường đủ target, ví dụ anh em target lên 80... thì các bạn phải xử lý",
+  "giay": 1803,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=AG126RfNCk4&t=1803s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[15].trich",
+  "trich": "ra lãi suất hôm sau thấy Bitcoin về 65, giảm 15.000 giá",
+  "giay": 2179,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=AG126RfNCk4&t=2179s",
+  "anh": [
+   {
+    "file": "so_tay/khung/AG126RfNCk4_003636.jpg",
+    "giay": 2196,
+    "lech": 17
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[16].trich",
+  "trich": "Liquid có 7500... Còn quét thêm phát nữa về 75.000 thì đẹp hơn",
+  "giay": 2274,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=AG126RfNCk4&t=2274s",
+  "anh": [
+   {
+    "file": "so_tay/khung/AG126RfNCk4_003636.jpg",
+    "giay": 2196,
+    "lech": -78
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[17].trich",
+  "trich": "Trên này có 76, 77.000. Chúng ta ăn 76.900 thôi",
+  "giay": 2289,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=AG126RfNCk4&t=2289s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[18].trich",
+  "trich": "phải về 75 là tối thiểu, còn không thì 74.000 là đẹp rồi",
+  "giay": 2431,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=AG126RfNCk4&t=2431s",
+  "anh": []
+ }
+]

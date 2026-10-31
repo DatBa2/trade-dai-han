@@ -1,0 +1,474 @@
+{
+  "buoi": "2026-05-05_Au_SuIIstcY",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/zip_clean/2026-05-05_Au_SuIIstcY.txt",
+  "gia_btc_luc_noi": 80800,
+  "dau_buoi": {
+    "thien_huong_h4": "TANG",
+    "gio": "[00:07:07]",
+    "trich": "Hôm qua mình nói với anh em mục tiêu của mình trong suốt giai đoạn vừa rồi là xong vùng gap ở đây và đến bây giờ nó xong rồi. Thì chúng ta xong việc thôi. Để cho ETH đến sáng ngày hôm nay hoàn thiện nốt phần 2k mấy, 2k6 ở trên này mà có vẻ là không kịp rồi. Không được rồi. Quá là đáng tiếc. MA200 lên đến 2006 xem thử mà không được. Bitcoin thì khả năng là mình nghĩ sẽ còn những râu nến kéo lên đến vùng MA200 này. Tuy nhiên vùng hiện tại để long FOMO khá là nguy hiểm."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "TANG",
+    "do_chac": "thap",
+    "gio": "[00:59:42]",
+    "trich": "H4 đóng rồi, đóng nến ngon thế này thì chắc còn lực. Hôm qua cũng đóng nến ngon, sau đó đến chiều nó điều chỉnh về ngay đáy H4 này rồi tối mới lên lại. Nến ngon ở đây mình nghĩ không phải để dành cho chúng ta vào một vị thế long mới mà là một điểm để anh em biết không phải là quá FOMO short ở thời điểm bây giờ."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {
+    "huong": "TANG",
+    "dich": [
+      81800,
+      82000
+    ]
+  },
+  "duong_di": [
+    {
+      "huong": "TANG",
+      "dich": [
+        81800,
+        82000
+      ]
+    },
+    {
+      "huong": "TANG",
+      "dich": 83000
+    }
+  ],
+  "dich_chinh": [
+    82000,
+    83000
+  ],
+  "han_gio": null,
+  "vo_hieu": {
+    "gia": 70000,
+    "khung": "H4",
+    "so_nen": 1,
+    "chieu": "dong_duoi",
+    "cau": "[00:33:02] Vùng này mà thủng về bao nhiêu là hết trend tăng? Câu này khá hay. [00:33:36] Mình nghĩ là sẽ phải thủng 70."
+  },
+  "lenh": [
+    {
+      "chieu": "SHORT",
+      "vao": null,
+      "tp": null,
+      "sl": null,
+      "trang_thai": "dang_giu"
+    },
+    {
+      "chieu": "SHORT",
+      "vao": 83000,
+      "tp": null,
+      "sl": null,
+      "trang_thai": "de_xuat_moi"
+    }
+  ],
+  "hanh_dong": "vao_short",
+  "khung_lon": {
+    "D1": "Vẫn tiếp tục một nến ngày xanh ngon đẹp → chưa short; khả năng cao lên 81.8-82k (MA200 D1), xa hơn 83k (Fibo 0.618 vẽ từ 2 tháng trước). Hết trend tăng khi thủng 70k.",
+    "W1": "Lấp xong gap 80-81 là hoàn tất mục tiêu lớn nửa đầu năm ('lên đỉnh rồi thì thôi'); mục tiêu căng 83 và 90. Dòng tiền tháng 5 giảm, tháng 6 sang World Cup. Cuối năm hoặc đầu năm sau vẫn có thể về lấp gap 20k; theo chu kỳ 4 năm đỉnh hay ở tháng 12-1, đáy khoảng 1 năm sau."
+  },
+  "pha_vo_gia": "Cây H1 bán theo tin Iran bắn tên lửa (có vẻ tin fake) với volume panic sell rồi bị kéo lên lại — chỉ là phản ứng tâm lý theo tin, nhưng là kèn cảnh báo đầu tiên cho phe long. Liquid dày 81.000-81.200 có thể đang 'gọi anh em vào long' để húp. Gap 15 phút 78k chưa lấp hết (mới về 78.5k) nên có thể sớm về 78 rồi vòng lên 83 test đỉnh.",
+  "nhin_lai_view_truoc": {
+    "view_truoc": "TANG",
+    "giu_hay_doi": "giu",
+    "vi_sao": "Chạm đích: gap 80-81 (CME 81.2k) đã lấp xong — mục tiêu chờ gần 3 tháng hoàn tất, 'xong việc'. Nến ngày vẫn xanh nên còn khả năng lên 82-83, chưa short, nhưng không FOMO long.",
+    "gio": "[00:06:36]",
+    "trich": "Đẹp nhất là hiện tại gap đã được lấp xong. Gap chưa phải cao nhất. Gap vùng cao chúng ta đã chờ đâu đó là gap 80, 81 hiện tại đã được lấp xong, đã được xử lý xong phần gap này. Xong cái gap 80 này hoàn tất rồi."
+  },
+  "trendline": [
+    {
+      "khung": "M15",
+      "loai": "khac",
+      "noi_tu": "Trendline nhắc cùng lúc với phân kỳ M15 (RSI và volume) sau khi lấp gap bị đạp xuống; không rõ kẻ trên giá hay trên RSI, không nêu điểm neo",
+      "diem_neo": [],
+      "gia_duong_luc_noi": null,
+      "trang_thai": "chua_pha",
+      "dieu_kien_pha": "RSI break lên được thì còn một nhịp đi lên nữa",
+      "ket_luan_huong": "TANG",
+      "gio": "[00:07:41]",
+      "trich": "Giá vừa lên là bị đạp xuống ngay. Vừa lên lấp gap xong là bị đạp xuống ngay. Đây trendline và phân kỳ này. Phân kỳ M15 chắc luôn. Phân kỳ này, phân kỳ volume nữa. Phân kỳ volume nữa. RSI sau này nó break lên được thì như thế này chắc vẫn còn một nhịp đi lên nữa."
+    }
+  ],
+  "nen_volume": [
+    {
+      "khung": "M15",
+      "nen": "Vừa lấp gap xong bị đạp xuống ngay; phân kỳ M15",
+      "volume": "Phân kỳ volume",
+      "ket_luan": "Long FOMO nguy hiểm; nếu RSI break lên thì vẫn còn một nhịp lên.",
+      "gio": "[00:07:41]",
+      "trich": "Đây trendline và phân kỳ này. Phân kỳ M15 chắc luôn. Phân kỳ này, phân kỳ volume nữa."
+    },
+    {
+      "khung": "D1",
+      "nen": "Tiếp tục một cây nến ngày xanh ngon đẹp",
+      "volume": null,
+      "ket_luan": "Vẫn ok, khả năng cao lên 81.8-82k; nến này chưa short.",
+      "gio": "[00:16:29]",
+      "trich": "Nói gì thì nói nhưng mà chúng ta vẫn tiếp tục có một cây nến ngày xanh ngon đẹp. Thế thì vẫn ok thôi. Khả năng cao là sẽ lên được 82."
+    },
+    {
+      "khung": "H1",
+      "nen": "Cây H1 nến bán (tin Iran bắn tên lửa) rồi giá kéo lên lại",
+      "volume": "Có volume bán — panic sell",
+      "ket_luan": "Chỉ là phản ứng ngắn hạn theo tin, bản chất vẫn muốn tăng; không short theo cây này, nhưng là dấu hiệu cảnh báo đầu tiên cho long.",
+      "gio": "[00:22:05]",
+      "trich": "thấy có volume bán chứng tỏ sẽ có một lượng panic sell khá bởi vì đây rõ ràng cũng là một vùng giá có ý đồ ở trong này để nó đạp giá xuống để nó kill nhưng mà sau đó nó vẫn kéo lên. Chứng tỏ là gì? Nhịp bán ở đây chưa thể hiện là một xu hướng của thị trường mà nó chỉ là một nhịp phản ứng ngắn hạn của tâm lý theo tin tức."
+    },
+    {
+      "khung": null,
+      "nen": "Vùng hỗ trợ nhưng xuất hiện cây nến bán",
+      "volume": "Hỗ trợ nhưng volume yếu; xuất hiện volume bán",
+      "ket_luan": "Thấy mùi không ổn thì phải nhảy ngay (bài học lệnh long hôm qua).",
+      "gio": "[00:23:43]",
+      "trich": "Nhưng mà đoạn này nếu chúng ta tinh ý một tí và kiểm soát thì ở đây nó hỗ trợ nhưng volume yếu. Khi nó xuất hiện một cây nến này là các bạn sẽ phải nhảy ngay bởi vì thấy mùi này là không ổn. Thấy mùi xuất hiện volume bán này"
+    },
+    {
+      "khung": "M5",
+      "nen": "Test hai đỉnh không qua, có râu",
+      "volume": "Low volume xanh",
+      "ket_luan": "Đóng thêm một râu nữa thì rụng; nến full lực thì lên được.",
+      "gio": "[00:40:41]",
+      "trich": "Test hai đỉnh có vẻ là không qua được rồi. Râu. Low volume xanh. Chờ xem cây M5 này thế nào. Đóng thêm một cái râu nữa thì khả năng là rụng. Còn nếu cây nến full lực thì khả năng là sẽ lên được."
+    },
+    {
+      "khung": null,
+      "nen": "Nguyên lý giá-volume (xe đạp lên dốc)",
+      "volume": "Lên dốc mà volume tăng thì duy trì; càng lên volume càng yếu thì dễ gãy; nhìn cả quá trình, không chỉ 1-2 cây",
+      "ket_luan": "Dùng volume theo cả quá trình để đánh giá lực tăng.",
+      "gio": "[00:45:32]",
+      "trich": "Nếu nó đang đi lên dốc mà lực này chạy nhanh, chạy khỏe, tức volume tăng lên thì lực tăng sẽ được duy trì và nó sẽ đi lên tiếp. Còn nếu càng lên cao mà volume, lực này càng ngày càng yếu thì đến một thời điểm nào đó càng lên cao nó càng đuối, dễ gãy xuống."
+    },
+    {
+      "khung": "M5",
+      "nen": "M5 xấu sau cây vừa rồi",
+      "volume": null,
+      "ket_luan": "Lấp xong gap thì cũng hết mục tiêu, lên đâu kệ nó.",
+      "gio": "[00:49:11]",
+      "trich": "Lúc nãy nói sau cây này, xấu rồi. M5 này khá xấu. Lấp xong gap thì cũng hết mục tiêu. Còn lại nó lên được thì đi đâu kệ nó."
+    },
+    {
+      "khung": "H4",
+      "nen": "H4 đóng nến ngon",
+      "volume": null,
+      "ket_luan": "Còn lực; không phải để long mới mà để đừng FOMO short.",
+      "gio": "[00:59:42]",
+      "trich": "H4 đóng rồi, đóng nến ngon thế này thì chắc còn lực. Hôm qua cũng đóng nến ngon, sau đó đến chiều nó điều chỉnh về ngay đáy H4 này rồi tối mới lên lại. Nến ngon ở đây mình nghĩ không phải để dành cho chúng ta vào một vị thế long mới mà là một điểm để anh em biết không phải là quá FOMO short ở thời điểm bây giờ."
+    }
+  ],
+  "cach_lam": [
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "Gap CME: so râu nến trên chart CME với biên gap",
+      "ket_qua": "Râu CME chạm 81.200 → gap 80-81 lấp xong (xóa); còn gap 90-92; dưới 69-70, 67; gap 15 phút 78k (mới về 78.5k)",
+      "gio": "[00:26:30]",
+      "trich": "Gap thì các bạn sẽ phải xem điểm thấp nhất của giá đây. Ví dụ cây râu này nó về là 81.200 đúng không? Ở trên CME. Tất nhiên ở trên TradingView hoặc BingX thì nó sẽ chưa đến giá này. Nhưng mà ở trên CME thì nó đã đến rồi. Ví dụ đây 81.000 và điểm thấp nhất là 79.000 thì kéo qua bên này. Ở đây cây râu nến này nó đã lấp xong. Nó chạm khẽ gap này 81.000 rồi rụng xuống, thì đã coi như là xong gap."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "rsi",
+      "chi_tiet": "Phân kỳ RSI + volume khung M15, kèm trendline",
+      "ket_qua": "Bị đạp sau lấp gap; RSI break lên thì còn một nhịp",
+      "gio": "[00:07:41]",
+      "trich": "Phân kỳ M15 chắc luôn. Phân kỳ này, phân kỳ volume nữa. Phân kỳ volume nữa. RSI sau này nó break lên được thì như thế này chắc vẫn còn một nhịp đi lên nữa."
+    },
+    {
+      "hanh_dong": "do",
+      "cong_cu": "fibo_thoai_lui",
+      "chi_tiet": "Fibo vẽ từ ~2 tháng trước; giá đã qua 0.5",
+      "ket_qua": "0.618 = 83.000",
+      "gio": "[00:12:07]",
+      "trich": "Hoặc là ở đây lên 83 này các bạn. Fibo ở đây là 83. Fibo 0.618 này nó đã lên trên 0.5 thì khả năng vẫn có thể quét lên được 0.618 này. Fibonacci này mình vẽ chắc cũng phải 2 tháng rồi."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "ema",
+      "chi_tiet": "MA200 khung ngày (đường tím)",
+      "ket_qua": "81.800-82.000",
+      "gio": "[00:16:59]",
+      "trich": "Khả năng cao là sẽ lên được 82. 81.800 cho đến 82 bởi vì MA200 sẽ lên được cỡ vùng này thôi."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "heatmap",
+      "chi_tiet": "Liquidation map",
+      "ket_qua": "Đám liquid rất nhiều 81.000-81.200 phía trên",
+      "gio": "[00:34:07]",
+      "trich": "Trên này có một đám rất nhiều 70, 8100 thì khả năng chắc cũng bị húp nhưng cũng có thể nó đang gọi anh em vào. Gọi vào làm gì? Vào long để lên húp liquid tụi này. Nhiều ông bây giờ sẽ nhìn vào đây và nghĩ trong bụng lực này có vẻ tăng đẹp. Trên này có MA200 các thứ. Bên này có một vùng thanh khoản rất lớn ở 81.000 200."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "hyblock",
+      "chi_tiet": "Hyblock long/short",
+      "ket_qua": "Số lượng long vẫn cao (chưa quá căng) → tín hiệu rủi ro, không long FOMO",
+      "gio": "[00:39:06]",
+      "trich": "Khối lượng lệnh long vẫn đang nhiều nhưng không phải quá căng. Nhưng số lượng như này cũng là một tín hiệu rủi ro. Cho nên mình không long FOMO nữa."
+    }
+  ],
+  "vung_nguoi_do": [
+    {
+      "loai": "dich",
+      "tu": 81500,
+      "den": 81500,
+      "gio": "[00:12:07]",
+      "trich": "Mình nghĩ là phải lên trên 81.000. Chắc khoảng 81.000 năm thì ok hơn."
+    },
+    {
+      "loai": "dich",
+      "tu": 83000,
+      "den": 83000,
+      "gio": "[00:12:07]",
+      "trich": "Hoặc là ở đây lên 83 này các bạn. Fibo ở đây là 83."
+    },
+    {
+      "loai": "vao",
+      "tu": 66000,
+      "den": 68000,
+      "gio": "[00:15:23]",
+      "trich": "Bitcoin ở những vùng khoảng 6x, 70 cũng thuộc loại cao, còn không thì đa phần nằm ở khoảng 66, 68."
+    },
+    {
+      "loai": "dich",
+      "tu": 90000,
+      "den": 90000,
+      "gio": "[00:15:56]",
+      "trich": "mục tiêu căng của nó thì như hôm trước mình nói nhiều lần là 83 và 90."
+    },
+    {
+      "loai": "dich",
+      "tu": 81800,
+      "den": 82000,
+      "gio": "[00:16:59]",
+      "trich": "81.800 cho đến 82 bởi vì MA200 sẽ lên được cỡ vùng này thôi."
+    },
+    {
+      "loai": "tp",
+      "tu": 79800,
+      "den": 79800,
+      "gio": "[00:24:47]",
+      "trich": "TP2 nằm ở đây 7980 là xong."
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 81200,
+      "den": 81200,
+      "gio": "[00:26:30]",
+      "trich": "Ví dụ cây râu này nó về là 81.200 đúng không? Ở trên CME."
+    },
+    {
+      "loai": "dich",
+      "tu": 92000,
+      "den": 92000,
+      "gio": "[00:27:33]",
+      "trich": "Có một gap 90 này. 92 chứ. 92."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 69000,
+      "den": 70000,
+      "gio": "[00:27:33]",
+      "trich": "Dưới này chúng ta vẫn còn một cái ở 70 này. 69, 70, một cái thấp hơn nữa ở 67 này."
+    },
+    {
+      "loai": "dich",
+      "tu": 78000,
+      "den": 78000,
+      "gio": "[00:28:05]",
+      "trich": "Nó phải về được đến 78.000 kìa nhưng mà nó không về, nó chỉ về đến 78.500 rồi sau đó nó bật lên thì vẫn là câu chuyện gap nó đi nhiều lần chứ nó không lấp trong một phát. Rất là khó chịu. Thì có khả năng là nhịp này nó sẽ sớm về lại vùng 78 này."
+    },
+    {
+      "loai": "vao",
+      "tu": 83000,
+      "den": 83000,
+      "gio": "[00:30:53]",
+      "trich": "nếu short 83 thì SL ở đâu hay là không SL? Thứ nhất 0 SL là chết mà SL 15.000 giá cũng chết. Bởi vì sao? Nếu các bạn short 83 này bắt buộc các bạn sẽ phải chừa vốn và DCA đi lên."
+    },
+    {
+      "loai": "vo_hieu",
+      "tu": 70000,
+      "den": 70000,
+      "gio": "[00:33:36]",
+      "trich": "Vùng này mà thủng về bao nhiêu là hết trend tăng? Câu này khá hay. Mình nghĩ là sẽ phải thủng 70."
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 81000,
+      "den": 81200,
+      "gio": "[00:34:38]",
+      "trich": "Bên này có một vùng thanh khoản rất lớn ở 81.000 200."
+    },
+    {
+      "loai": "dich",
+      "tu": 86000,
+      "den": 90000,
+      "gio": "[01:04:09]",
+      "trich": "Trống thanh khoản có thể biết đâu nó kéo lên được 86, 86 90 nữa, trống thanh khoản này cho nên short thì phải thận trọng."
+    }
+  ],
+  "view_trung_han": [
+    {
+      "khung": "D1",
+      "huong": "TANG",
+      "dich": [
+        82000,
+        83000
+      ],
+      "han": null,
+      "mat_view_khi": "Thủng 70 thì hết trend tăng",
+      "gio": "[00:21:01]",
+      "trich": "Còn lại mục tiêu thì có thể có hai mục tiêu nhỏ là 82 và 83. 82 là đường MA màu tím này, MA200 của khung ngày. Còn lại 83 là Fibo 0.618."
+    },
+    {
+      "khung": "M1",
+      "huong": "GIAM",
+      "dich": null,
+      "han": "tháng 5 giảm, tháng 6 rút tiền sang World Cup",
+      "mat_view_khi": null,
+      "gio": "[00:29:11]",
+      "trich": "Hai là chúng ta đánh giá theo nhịp dòng tiền: dòng tiền tháng tư tăng. Tháng 5 bắt đầu giảm, tháng sáu rút tiền ra để chuyển qua thị trường World Cup."
+    },
+    {
+      "khung": "W1",
+      "huong": "GIAM",
+      "dich": 20000,
+      "han": "cuối năm hoặc đầu năm sau",
+      "mat_view_khi": null,
+      "gio": "[00:47:47]",
+      "trich": "View cá nhân cuối năm về lấp gap 20.000 còn không? Vẫn còn. Có thể cuối năm hoặc đầu năm sau. Không loại trừ được."
+    }
+  ],
+  "vung_tranh": [
+    {
+      "tu": 81000,
+      "den": 81000,
+      "vi_sao": "Long FOMO ở 81 (đỉnh, giá xa MA, liquid trên 81.2k dụ vào) rủi ro cực cao, nhất là x100-x150 không SL",
+      "gio": "[00:20:30]",
+      "trich": "Tất nhiên vùng hiện tại chúng ta cũng không nên đi FOMO lên nữa bởi vì rủi ro cực kỳ cao rồi. Vùng này Bitcoin đang cực kỳ cao rồi. Nếu chúng ta cứ cố đuổi là sẽ cực kỳ nguy hiểm."
+    },
+    {
+      "tu": 83000,
+      "den": 83000,
+      "vi_sao": "Short cứng ở 83: 0 SL là chết, SL 15.000 giá cũng chết — phải chừa vốn DCA lên, hoặc không đặt mà chờ tín hiệu đảo chiều chuẩn",
+      "gio": "[00:30:53]",
+      "trich": "Thứ nhất 0 SL là chết mà SL 15.000 giá cũng chết. Bởi vì sao? Nếu các bạn short 83 này bắt buộc các bạn sẽ phải chừa vốn và DCA đi lên. Bắt buộc là như thế thôi. Còn không thì không có đặt short ở đó mà chờ phản ứng và chờ tín hiệu chuẩn rồi mới vào."
+    }
+  ],
+  "giu_dong": [
+    {
+      "lenh": "Tài khoản/spot",
+      "quyet_dinh": "dong",
+      "khi_nao": "Lấp xong gap 80-81 là hoàn tất mục tiêu nửa đầu năm, 'biết đủ'; hôm nay tập trung xử lý tài khoản",
+      "gio": "[00:29:45]",
+      "trich": "Vùng hiện tại hôm nay là một trong những ngày khá quan trọng mà các bạn nên tập trung vào thị trường. Không phải tập trung để kiếm kèo, tập trung để xử lý tài khoản."
+    },
+    {
+      "lenh": "LONG vị thế dưới / đang lãi",
+      "quyet_dinh": "giu",
+      "khi_nao": "Có thể kéo SL và gồng; mục tiêu nhỏ 82 và 83",
+      "gio": "[00:20:30]",
+      "trich": "Trừ những anh em nào đang có các vị thế ở dưới hoặc các vị thế lãi thì mọi người có thể kéo SL và gồng. Còn lại mục tiêu thì có thể có hai mục tiêu nhỏ là 82 và 83."
+    },
+    {
+      "lenh": "SHORT DCA bằng bot lưới (biên rộng)",
+      "quyet_dinh": "gong",
+      "khi_nao": "Vào dần, giá càng lên càng có entry đẹp; cho chạy thêm 10.000 giá cũng ok",
+      "gio": "[00:39:37]",
+      "trich": "Short của mình thì short thoải mái, cho nó chạy thêm 10.000 giá nữa cũng ok."
+    },
+    {
+      "lenh": "LONG FOMO x150 không SL (người xem hôm qua)",
+      "quyet_dinh": "dong",
+      "khi_nao": "Ở hỗ trợ mà volume yếu, xuất hiện cây nến bán có volume thì phải nhảy ngay",
+      "gio": "[00:23:43]",
+      "trich": "Khi nó xuất hiện một cây nến này là các bạn sẽ phải nhảy ngay bởi vì thấy mùi này là không ổn."
+    }
+  ],
+  "tin_tuc": [
+    {
+      "su_kien": "Iran bắn tên lửa (có vẻ tin fake)",
+      "thoi_diem": "chiều hôm qua",
+      "nguon": "bao",
+      "so_lieu": null,
+      "anh_huong_view": "Tạo cây H1 bán panic rồi kéo lên → chỉ phản ứng ngắn hạn theo tin; là kèn cảnh báo cho long kỳ vọng cao",
+      "gio": "[00:21:33]",
+      "trich": "Chiều ngày hôm qua do Iran bắn tên lửa. Mà tin đó hình như là tin fake. Nhưng mà thông qua cây H1 này thì các bạn sẽ đọc thị trường như thế nào?"
+    },
+    {
+      "su_kien": "Fear & Greed",
+      "thoi_diem": "hôm qua 40, hôm nay ~50",
+      "nguon": "khac",
+      "so_lieu": "40 → 50, chuyển xanh",
+      "anh_huong_view": "Tham lam cao là một tín hiệu có khả năng đảo chiều giảm; đám đông FOMO thì đứng ngoài",
+      "gio": "[00:31:56]",
+      "trich": "Thứ nhất là Phi (Greed) nó cao cũng là một tín hiệu giảm có khả năng đảo chiều."
+    },
+    {
+      "su_kien": "PMI, Non-farm, bầu chủ tịch Fed mới",
+      "thoi_diem": "PMI tối nay (thứ ba); NFP thứ sáu; tuần sau bỏ phiếu chủ tịch Fed",
+      "nguon": "lich_kinh_te",
+      "so_lieu": "Cần 60 phiếu; kỳ phát biểu cuối của Powell đã qua",
+      "anh_huong_view": "Tin PMI nhẹ; sắp chuyển sang 'người thao túng thị trường mới'",
+      "gio": "[00:35:44]",
+      "trich": "Tin tức tuần này thứ ba ngày 5, tối nay có tin nhẹ nhẹ. PMI. Thứ sáu có tin non farm. Tuần sau có chủ tịch FED, dự kiến sẽ được bình chọn thông qua"
+    },
+    {
+      "su_kien": "Dòng tiền theo mùa / World Cup",
+      "thoi_diem": "tháng 4-6",
+      "nguon": "khac",
+      "so_lieu": null,
+      "anh_huong_view": "Các phương pháp (Fear&Greed, dòng tiền tháng 4 tăng-tháng 5 giảm-tháng 6 World Cup, gap, kỹ thuật) cùng ra một kết quả → giảm FOMO, xử lý tài khoản",
+      "gio": "[00:29:11]",
+      "trich": "dòng tiền tháng tư tăng. Tháng 5 bắt đầu giảm, tháng sáu rút tiền ra để chuyển qua thị trường World Cup. Thứ hai vẫn đúng. Thứ ba nữa là các chỉ số gap, vẫn đúng."
+    },
+    {
+      "su_kien": "BTC.D",
+      "thoi_diem": "hôm nay",
+      "nguon": "khac",
+      "so_lieu": "DOM vẫn kéo lên cao",
+      "anh_huong_view": "Kịch bản hợp lý: hạ DOM cho altcoin chạy một tí tạo pump rồi gãy",
+      "gio": "[01:00:43]",
+      "trich": "Hợp lý nhất kịch bản bây giờ mình nghĩ là thị trường sẽ có một nhịp hạ DOM để cho Altcoin chạy một tí. Chạy được một tí thôi chứ không chạy nhiều. Mình nghĩ thị trường có khả năng là sẽ Nhả DOM để cho Altcoin chạy một tí để tạo sự pump sau đó sẽ gãy."
+    },
+    {
+      "su_kien": "Chu kỳ 4 năm",
+      "thoi_diem": "đỉnh tháng 12-1, đáy ~1 năm sau",
+      "nguon": "khac",
+      "so_lieu": null,
+      "anh_huong_view": "Bối cảnh dài hạn: đỉnh chu kỳ quanh tháng 12 (dư âm tháng 1), đáy thường trong vòng 1-2 năm sau đỉnh",
+      "gio": "[00:55:26]",
+      "trich": "Sau đó về đáy 1 năm sau. Đáy thông thường tạo trong vòng 2 năm sau khi lập đỉnh. Đó là theo chu kỳ 4 năm."
+    }
+  ],
+  "trich_them": [
+    {
+      "gio": "[00:14:52]",
+      "cau": "gần như lấp xong gap này là mình hoàn tất mục tiêu lớn của giai đoạn, tức là giai đoạn nửa đầu năm này mục tiêu của mình là đến vùng hiện tại thôi. Đến vùng hiện tại thôi thì các bạn nếu như mình không có kỳ vọng gì nữa. Lên đây coi như là mình thỏa mãn rồi. Lên đỉnh rồi thì thôi. Thỏa mãn rồi thì thôi."
+    },
+    {
+      "gio": "[00:18:53]",
+      "cau": "Nến này thì chưa short đâu. Nến này các bạn đừng quá tập trung vào short. Short là một câu chuyện chặng đường dài cho nên các bạn cũng không cần phải vội. Còn nếu ai vội thì có thể chia lệnh ra. Và mình thì chia bằng cách dùng bot. Dùng bot lưới cho nó khỏe."
+    },
+    {
+      "gio": "[00:28:38]",
+      "cau": "Rồi sau đó nó lại có những nhịp vòng lên 83 cũng có. Tức là nó test đỉnh lại một phát nữa. Tóm lại là nhịp hiện tại nó đã đến những vùng giá mà các bạn nên chú ý, nên tập trung, nên quan sát, giảm FOMO."
+    },
+    {
+      "gio": "[00:29:45]",
+      "cau": "Mình nhắc lại đừng quá tập trung đi short. Bởi vì sao? Biết đâu được, đừng chủ quan. Nó vẫn lên gap 91, 92."
+    },
+    {
+      "gio": "[00:35:12]",
+      "cau": "Mình thì đang khá mong nó lên. Nó lên càng cao chúng ta sẽ càng có những entry short đẹp. Bởi vì mình nãy có nói mình sẽ vào DCA bằng con bot lưới."
+    },
+    {
+      "gio": "[01:03:05]",
+      "cau": "Khi nào thấy được tín hiệu short swing? Mình nghĩ sẽ phải chờ thôi chứ khi nào mình cũng không biết. Còn lại bây giờ thì vào dần thôi."
+    },
+    {
+      "gio": "[01:04:09]",
+      "cau": "Anh em nên nhớ lý do nó lên là bởi vì trên này là những vùng giá nó cần phải lên để xong nhiệm vụ của giá. Nó có một cái chóp của nó, nó cần phải lên để xong thôi chứ cũng không phải lực hay pump gì quá, mọi người thận trọng."
+    }
+  ],
+  "kho": "Khó: view H4 ngắn hạn vẫn lên (nến ngày/H4 xanh, còn 82 MA200 D1 và 83 Fibo 0.618, có thể về gap 78 trước rồi vòng lên 83), nhưng anh ta coi mục tiêu đã xong và đang VÀO SHORT DẦN bằng bot lưới biên rộng ('lên càng cao càng có entry short đẹp'). Ghi cuoi_buoi TANG (độ chắc thấp, hướng tới 82-83) và hanh_dong=vao_short vì đó là hành động thực. Vô hiệu 'thủng 70' là mức hết trend tăng anh ta nói (không nói khung → H4). Lệnh short bot không có giá vào/TP/SL. Giá lúc nói ~80.8k (đã lấp gap CME 81.2k)."
+}

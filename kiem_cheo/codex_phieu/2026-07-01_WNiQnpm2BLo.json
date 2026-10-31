@@ -1,0 +1,39 @@
+{
+  "buoi": "2026-07-01_WNiQnpm2BLo",
+  "gia_btc_luc_noi": 58000,
+  "dau_buoi": {
+    "huong_h4": "GIAM",
+    "trich": "[00:19:26] Cho nên để qua được khỏi xu hướng giảm này thì giá phải phá được khỏi 61.000 kia. Nhưng xác suất này đối với cá nhân mình đánh giá ở tình hình hiện tại cực kỳ khó."
+  },
+  "cuoi_buoi": {
+    "huong_h4": "GIAM",
+    "trich": "[00:33:47] Nó thủng rồi, chẳng qua nó đang hồi lên để quét thôi. Nó cứ giữ ở vùng dưới 61 này thì kiểu gì xác suất về cũng rất cao."
+  },
+  "doi_y_giua_buoi": false,
+  "huong_lon": {
+    "D1": "GIAM",
+    "W1": null,
+    "chu_ky": "GIAM"
+  },
+  "hanh_dong": "dung_ngoai_cho_entry",
+  "duong_di": [
+    {
+      "huong": "TANG",
+      "dich": 60400,
+      "khung": "H1"
+    },
+    {
+      "huong": "GIAM",
+      "dich": null,
+      "khung": "H4"
+    }
+  ],
+  "dich_chinh": null,
+  "moc_sai": {
+    "gia": 61000,
+    "dieu_kien": "Giá phải phá khỏi 61.000 để thoát xu hướng giảm; [00:48:09] cần H4 đóng trên 61.000 mới có hy vọng hồi tới 64.000–66.000."
+  },
+  "pha_vo_gia": "[00:21:36–00:22:13] Nhịp sáng phá xuống rồi nhanh chóng rút lên được gọi là fake out, quét SL phe long trước khi hồi.",
+  "do_chac": "vua",
+  "ghi_chu": "Đã đọc hết transcript. H4 vẫn giảm; nhịp hồi ngắn lên 60.000–60.400 là cơ hội chờ short, không phải đảo H4. [00:21:05] đích giảm là vùng 54.000–51.000, không chọn một số giả nên đích chặng cuối/null. Cuối [00:45:24] xác nhận hồi ngắn lên 59.000, [00:51:52] khuyên TP1 cho người đã long; hành động chính vẫn chờ hồi lấy entry ([00:40:00], [00:53:33]). Giá 58.000 là xấp xỉ theo [00:15:09]."
+}

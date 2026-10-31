@@ -1,0 +1,74 @@
+{
+  "buoi": "2026-06-05_a6-MmsaBAfA",
+  "ngay": "2026-06-05",
+  "gio_vn": "10:00",
+  "gia_btc_luc_noi": 62500,
+  "nhan_dinh": [
+    {
+      "khung": "H4",
+      "huong": "PHAN_VAN",
+      "do_chac": "thap",
+      "dich": [64000, 67700],
+      "han": "từ giờ đến cuối tuần",
+      "han_gio": 168,
+      "vo_hieu_khi": "H4 đóng dưới 62.000 là 'hết cứu'; ngược lại cần H4 đóng trên 63.000 rồi 64.000 mới có hy vọng hồi",
+      "kich_ban_phu": "thủng 62.000 thì mất cơ sở hồi nhưng không short đuổi (sợ trap); hồi tối đa 67.700 (trùm của trùm), nếu hồi lên 68-69 thì short về 52-53",
+      "ly_do": [
+        "H4 đóng nhưng lực bán khủng, cụm nến H4 nỗ lực không qua được",
+        "H1 mô hình gãy cờ, xấu; chỉ còn hy vọng nhỏ nhờ Fibo 0.618 (62.650) và vùng 62.000-62.500 hỗ trợ cứng",
+        "xác suất lên 67-70 ngang bằng xác suất về 54-55 nên không phải vị thế hold short đẹp",
+        "nghiêng xác suất có nhịp hồi vào giữa/cuối tuần nhưng 'không lạc quan'"
+      ],
+      "trich": "Xác suất nó lên 67 hoặc 70 cũng bằng xác suất về 54-55. Không phải vị thế đẹp để các bạn hold lệnh short.",
+      "doi_y": null,
+      "duong_di": [
+        {"huong": "TANG", "dich": 67700},
+        {"huong": "GIAM", "dich": [52000, 53000]}
+      ]
+    },
+    {
+      "khung": "H1",
+      "huong": "GIAM",
+      "do_chac": "vua",
+      "dich": null,
+      "han": "ngắn hạn",
+      "han_gio": null,
+      "vo_hieu_khi": "cần nến H1 xanh đóng kéo lên, hồi qua 64.000 mới có cửa",
+      "kich_ban_phu": "short chỉ nên scalp, có 500 giá là chốt; không long ngược",
+      "ly_do": ["H1 mô hình gãy cờ", "không có điểm vào short, short ngày đáy dễ bị hồi"],
+      "trich": "H1 thế này thì chịu rồi... Nỗ lực bao nhiêu cũng đi củi thôi.",
+      "doi_y": null,
+      "duong_di": null
+    },
+    {
+      "khung": "chung",
+      "huong": "GIAM",
+      "do_chac": "vua",
+      "dich": [52000, 53000],
+      "han": "năm nay là năm downtrend; cuối năm khoảng 35.000, tháng 4/2027 đáy 25.000 (râu 22.000)",
+      "han_gio": null,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": "tháng 9/2027 hồi 32.000; đầu 2028 khoảng 60 mấy nghìn; halving 3/2028 tạo vùng cao rồi sập về 45.000",
+      "ly_do": ["Fibo mở rộng khung tuần cho 52-53", "view năm nay down trend, 'không có đỉnh'", "Altcoin phải ra đi, trả vốn về Bitcoin"],
+      "trich": "Mình đoán cuối năm nay Bitcoin chắc đâu đó vùng 35... tháng tư năm 2027 nó nhấn một phát về 25.000 tạo đáy.",
+      "doi_y": null,
+      "duong_di": null
+    }
+  ],
+  "vung_gia": {"khang_cu": [64000, 67700], "ho_tro": [61000, 62500]},
+  "lenh": [
+    {"chieu": "LONG", "loai": "vol nhỏ", "vao": null, "tp": null, "sl": null,
+     "trang_thai": "dang_giu",
+     "trich": "Mình còn long một lệnh vol nhỏ tối qua, giảm vol và giữ qua đêm... Sau đó cài SL vào thôi."}
+  ],
+  "nhin_lai_truoc": "Hôm qua nói có khả năng test râu nến D1 61.000; hôm nay giá về đúng vùng đó. Lệnh long vào tối qua ở đáy 62.3 bị SL 61.7 nhiều người.",
+  "cong_cu": ["H1", "H4", "D1", "Fibo 0.618", "Fibo mở rộng", "MA34", "MA89", "EMA200", "liquidation heatmap", "Fear and Greed"],
+  "tin_tuc": [
+    {"tin": "Nonfarm tối nay 19:30", "danh_gia": "ngày có tin; nếu kéo lên trên 64.000 và D1 đóng trên 64.000 mới có điều kiện hồi tới 69 trước CPI thứ tư"},
+    {"tin": "Founder ADA nghỉ dự án", "danh_gia": "ADA gãy, coi chừng ADA/XRP đi cùng nhau"}
+  ],
+  "thoi_quen": ["không short đuổi, không vào điểm rủi ro cao", "short đáy chỉ scalp, 500 giá chốt", "đặt kịch bản 'thủng X thế nào, trên Y thế nào' rồi chờ nến đóng", "không đánh altcoin ngược xu hướng", "không trả lời vị thế giữa chừng, theo TP SL"],
+  "cau_cua_mieng": ["Rủi ro cao là chúng ta không chơi. Có thì ăn, không có thì cũng chả mất gì.", "Tốt nhất không biết thì đừng đoán.", "Cây nến này chẳng qua là cây nến níu giữ hy vọng thôi."],
+  "altcoin": [{"coin": "ETH", "huong": "GIAM", "ghi": "1700 rồi, có thể về đáy năm ngoái 1.400; 1.200 là giá chân ái gom"}, {"coin": "ZEC", "huong": "GIAM", "ghi": "vào downtrend đừng long, về MA200, có thể về 370-380"}, {"coin": "altcoin chung", "huong": "GIAM", "ghi": "Altcoin sấp mặt; HYPE, LAB, JTO, TON, NEAR canh short khi hồi; WLD còn khỏe; Bitcoin chia đôi thì altcoin chia 5-7"}],
+  "ghi_chu": "Đầu buổi hơi đã cho là giá gãy tiếp, giữa buổi vẫn nghiêng 'có nhịp hồi' nên H4 để PHAN_VAN. Số '62.008' hiểu 62.800."
+}

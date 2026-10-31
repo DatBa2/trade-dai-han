@@ -1,0 +1,377 @@
+{
+  "buoi": "2026-01-29_8NrjverKQpo",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/zip_clean/2026-01-29_8NrjverKQpo.txt",
+  "gia_btc_luc_noi": 87500,
+  "dau_buoi": {
+    "thien_huong_h4": "PHAN_VAN",
+    "gio": "[00:10:34]",
+    "trich": "Thế thì hôm nay chúng ta đánh cái gì? Tạm thời đối với thị trường cái đoạn này thì H4 này mình đi short cũng ngại bị trap bởi vì trên này nó còn gap. Còn cây này mà đi long thì càng ngại hơn nữa, điều kiện để long là phải trên 8800."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "PHAN_VAN",
+    "do_chac": "thap",
+    "gio": "[00:11:04]",
+    "trich": "Thủng khỏi vùng 8700, đóng H4 dưới 87.000 thì chúng ta đánh theo nhịp short. Còn trên 88.00 thì chúng ta đánh theo nhịp long. Còn lại nếu nó cứ giao dịch ở trong vùng 88.00 cho đến 87.00 này thì các bạn ngồi im. Đó là plan ngày hôm nay."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": null,
+  "duong_di": null,
+  "dich_chinh": null,
+  "han_gio": null,
+  "vo_hieu": null,
+  "lenh": [
+    {
+      "chieu": "LONG",
+      "vao": null,
+      "tp": 89000,
+      "sl": null,
+      "trang_thai": "da_dong"
+    },
+    {
+      "chieu": "LONG",
+      "vao": 88000,
+      "tp": 92000,
+      "sl": null,
+      "trang_thai": "de_xuat_moi"
+    },
+    {
+      "chieu": "SHORT",
+      "vao": 87000,
+      "tp": [
+        62000,
+        70000
+      ],
+      "sl": null,
+      "trang_thai": "de_xuat_moi"
+    }
+  ],
+  "hanh_dong": "dung_ngoai_vi_lap_lung",
+  "khung_lon": {
+    "D1": "Hôm qua lên test MA34 khung ngày và bị từ chối; nến ngày hôm nay chưa đóng (7h sáng mai) nên không nên tự tin short theo nó. Có mô hình cờ khung ngày: thủng thì về 70.000, TP 62.000.",
+    "W1": "Không phân tích nến tuần BTC; dài hạn 2026 là downtrend, đáy cuối 2026, gom từ 40k trở xuống, chừa kế hoạch gom sâu nhất ở 20.000."
+  },
+  "pha_vo_gia": null,
+  "nhin_lai_view_truoc": {
+    "view_truoc": "GIAM",
+    "giu_hay_doi": "giu",
+    "vi_sao": "Kịch bản hôm trước diễn ra đúng: tăng trước tin lãi suất, lên 'nơi cần đến' (MA89 H4, test MA34 khung ngày bị từ chối, lấp gap 88-89), chốt long ở 89.000, sau tin thì gãy. Vẫn giữ ý 'cái gì rồi cũng gãy', nhưng giá đang ở vùng Fibo 0.5-0.618 (87-88k) và còn gap 93 phía trên nên chờ H4 đóng để chọn hướng.",
+    "gio": "[00:02:28]",
+    "trich": "Chủ yếu sau cái tin lãi suất ngày hôm qua thì giá nó lợi dụng tin để nó lên, như mình nói nếu mà nó tăng trước tin thì sau tin nó gãy, nếu sideway trước tin thì sau tin nó tăng rồi lại gãy. Chung quy lại thì cái gì rồi cũng gãy thôi. Hôm qua cái nhịp này mình báo anh em trên tele là nó đến cái nơi cần đến."
+  },
+  "trendline": [
+    {
+      "khung": "D1",
+      "loai": "kenh",
+      "noi_tu": "Mô hình cờ khung ngày (kéo khung ngày lại là thấy); không nêu điểm neo cụ thể.",
+      "diem_neo": [],
+      "gia_duong_luc_noi": null,
+      "trang_thai": "chua_pha",
+      "dieu_kien_pha": "H4 đóng thủng Fibo 0.618, dưới 87.000",
+      "ket_luan_huong": "GIAM",
+      "gio": "[00:10:02]",
+      "trich": "Nó mà thủng tiếp vào Fibo 618 này thì nó đi về dưới này luôn. Các bạn biết nó về đâu không? 70.000 chứ đâu nữa. Mô hình cờ khung ngày. Kéo lại như vậy là các bạn nhìn ra ngay. Nó mà thủng thì nó về đây. Mình đã ghi ở đây là TP FL này 62.000 chứ không phải là 72.000, 62.000."
+    }
+  ],
+  "trich_them": [
+    {
+      "gio": "[00:02:28]",
+      "cau": "Hôm qua lúc giá ở 90 mình cho anh em chốt TP ở 89.000. Ai tham thì chờ 92 kéo SL về entry, còn không thì tham lam hơn nữa thì ăn luôn."
+    },
+    {
+      "gio": "[00:05:05]",
+      "cau": "Hôm qua chúng ta thấy là nó lên test MA34 ở khung ngày và bị từ chối."
+    },
+    {
+      "gio": "[00:07:54]",
+      "cau": "Và trên này chúng ta vẫn còn một cái gap nữa là gap 93 và hiện tại nó vẫn đang để trống cho nên mình nói là kiểu gì rồi nó cũng sẽ lên thôi. Còn khi nào lấp thì mình thua thị trường ở khâu này."
+    },
+    {
+      "gio": "[00:08:27]",
+      "cau": "Nhưng mà đối với cây H4 đóng màu đỏ như thế này thì để long được cũng thuộc loại gan to thì mới long được cái nhịp này. Mặc dù ở đây nó chạm thủng Fibo 50 và đang nằm giữa Fibo 618."
+    },
+    {
+      "gio": "[00:09:00]",
+      "cau": "Nếu chiều nay nó đóng lên trên 88.00 thì lúc đó mới có thể đánh long lại được. Và cái nhịp long sau này thì anh em có thể đánh TP lên 92."
+    },
+    {
+      "gio": "[00:14:11]",
+      "cau": "Nhưng làm gì làm cứ phải có cây nến H4 đóng qua được 88.00 này thì nói chuyện, còn không thì cắm đầu."
+    },
+    {
+      "gio": "[00:37:06]",
+      "cau": "Tầm này còn nhịp nào quét lên nữa hay không? Mình nghĩ là vẫn còn nhịp lên 93 để lấp gap."
+    },
+    {
+      "gio": "[00:57:42]",
+      "cau": "Hôm nay chờ BTC hồi về đâu thì short được? Nãy mình nói rồi, nếu nó thủng 87.000 thì mới short được."
+    }
+  ],
+  "kho": "Đúng nghĩa PHAN_VAN: giá kẹt giữa 87.000-88.000 (Fibo 0.5-0.618), nói rõ chờ H4 đóng — trên 88.000 long TP 92, dưới 87.000 short về 70.000/62.000 (cờ D1); trong vùng thì ngồi im. Hơi nghiêng xuống ('long càng ngại hơn', 'không thì cắm đầu') nhưng vẫn nói còn nhịp lên 93 lấp gap. '88.00'/'8800' hiểu là 88.000, '8700' là 87.000. Lệnh chốt TP 89.000 'lúc giá ở 90' giữ nguyên lời.",
+  "nen_volume": [
+    {
+      "khung": "D1",
+      "nen": "Hôm qua lên test MA34 khung ngày bị từ chối; nến ngày hôm nay trả về nhưng chưa đóng (7h sáng mai)",
+      "volume": null,
+      "ket_luan": "Chỉ phân tích nến đã đóng; nhìn cây nến ngày chưa đóng mà tự tin short thì chưa chắc",
+      "gio": "[00:05:36]",
+      "trich": "Bây giờ nó trả về lại cây nến ngày này nhưng chưa chắc là ngày mai nó sẽ đóng cây nến ngày ở đây đâu. Bởi vì cây nến này được xác định vào 7:00 sáng ngày mai, thì đến ngày mai còn rất nhiều sự kiện có thể xảy ra. Chúng ta chỉ nên phân tích vào những thứ nó đã đóng là cây nến ngày này."
+    },
+    {
+      "khung": "H4",
+      "nen": "Cây H4 đóng màu đỏ, chạm thủng Fibo 50",
+      "volume": null,
+      "ket_luan": "Long lúc này là gan to; không long",
+      "gio": "[00:08:27]",
+      "trich": "Nhưng mà đối với cây H4 đóng màu đỏ như thế này thì để long được cũng thuộc loại gan to thì mới long được cái nhịp này. Mặc dù ở đây nó chạm thủng Fibo 50 và đang nằm giữa Fibo 618."
+    },
+    {
+      "khung": "H4",
+      "nen": "Cây H4 tiếp theo (đóng 15:00) phải đóng vượt lên trên Fibo 50 (88.000)",
+      "volume": null,
+      "ket_luan": "Đóng trên 88.000 mới long, TP 92; đóng dưới thì không long",
+      "gio": "[00:09:00]",
+      "trich": "Điều kiện để chúng ta có thể đánh lệnh long là cây H4 tiếp theo đóng vào lúc 15:00 chiều ngày hôm nay phải vượt qua lại trên vùng Fibo 50, tức là trên 88.00, thì sau 15 giờ anh em mới biết là có thể long được hay không."
+    },
+    {
+      "khung": "H4",
+      "nen": "Có thể là vai đầu vai ngược H4; cần cây nến đảo chiều đi lên để confirm",
+      "volume": null,
+      "ket_luan": "Không cần nhìn vai đầu vai, điều kiện Fibo là đủ — H4 phải đóng qua 88.000",
+      "gio": "[00:13:39]",
+      "trich": "Với điều kiện confirm là phải có cây nến đảo chiều đi lên thì lúc đó chúng ta mới confirm được. Nó cũng không cần phải nhìn vào vai đầu vai, điều kiện Fibo không thì cũng đã đủ rồi."
+    }
+  ],
+  "cach_lam": [
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "ema",
+      "chi_tiet": "MA34 khung ngày; MA34/89 khung H4",
+      "ket_qua": "Test MA34 D1 bị từ chối; H4 lên 34 rồi lên 89 rồi đi xuống",
+      "gio": "[00:07:00]",
+      "trich": "H4 thì nó lên 34 sau đó nó lên 89 và nó đi xuống."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "Gap CME",
+      "ket_qua": "Gap 88-89 đã lấp; còn gap 93 và gap 20.000",
+      "gio": "[00:08:27]",
+      "trich": "Gap 88-89 này đã xong rồi. Bây giờ chúng ta chỉ còn một cái gap ở 93 và một cái gap ở 20.000."
+    },
+    {
+      "hanh_dong": "do",
+      "cong_cu": "fibo_thoai_lui",
+      "chi_tiet": "Fibo nhịp tăng gần nhất trên H4",
+      "ket_qua": "Fibo 0.5 = 88.000 (đã chạm thủng), giá nằm giữa vùng 0.618 (~87.000)",
+      "gio": "[00:08:27]",
+      "trich": "Mặc dù ở đây nó chạm thủng Fibo 50 và đang nằm giữa Fibo 618."
+    },
+    {
+      "hanh_dong": "ke",
+      "cong_cu": "khac",
+      "chi_tiet": "Mô hình cờ (flag) khung ngày, đo TP",
+      "ket_qua": "Thủng thì về 70.000; TP cờ 62.000",
+      "gio": "[00:10:02]",
+      "trich": "Mô hình cờ khung ngày. Kéo lại như vậy là các bạn nhìn ra ngay. Nó mà thủng thì nó về đây. Mình đã ghi ở đây là TP FL này 62.000 chứ không phải là 72.000, 62.000."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "USDT.D, DXY",
+      "ket_qua": "USDT.D kéo lên (xấu); DXY tiếp tục điều chỉnh",
+      "gio": "[00:11:35]",
+      "trich": "USD.D thì nói chung là không có gì sáng sủa hết, USD.D kéo lên này. Như mình nói rồi, DXY thì tiếp tục điều chỉnh"
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "nen",
+      "chi_tiet": "Mẫu hình vai đầu vai ngược H4",
+      "ket_qua": "Chưa confirm, cần nến đảo chiều lên",
+      "gio": "[00:13:39]",
+      "trich": "H4 nó đang ở đây, bạn cũng nhìn ra cái vai đầu vai ngược này. Có hay không thì chúng ta không biết được."
+    }
+  ],
+  "vung_nguoi_do": [
+    {
+      "loai": "tp",
+      "tu": 89000,
+      "den": 89000,
+      "gio": "[00:02:28]",
+      "trich": "Hôm qua lúc giá ở 90 mình cho anh em chốt TP ở 89.000."
+    },
+    {
+      "loai": "tp",
+      "tu": 92000,
+      "den": 92000,
+      "gio": "[00:02:28]",
+      "trich": "Ai tham thì chờ 92 kéo SL về entry"
+    },
+    {
+      "loai": "dich",
+      "tu": 93000,
+      "den": 93000,
+      "gio": "[00:07:54]",
+      "trich": "trên này chúng ta vẫn còn một cái gap nữa là gap 93 và hiện tại nó vẫn đang để trống cho nên mình nói là kiểu gì rồi nó cũng sẽ lên thôi."
+    },
+    {
+      "loai": "vao",
+      "tu": 88000,
+      "den": 88000,
+      "gio": "[00:09:00]",
+      "trich": "Nếu chiều nay nó đóng lên trên 88.00 thì lúc đó mới có thể đánh long lại được."
+    },
+    {
+      "loai": "tp",
+      "tu": 92000,
+      "den": 92000,
+      "gio": "[00:09:31]",
+      "trich": "Và cái nhịp long sau này thì anh em có thể đánh TP lên 92."
+    },
+    {
+      "loai": "dich",
+      "tu": 70000,
+      "den": 70000,
+      "gio": "[00:10:02]",
+      "trich": "Các bạn biết nó về đâu không? 70.000 chứ đâu nữa."
+    },
+    {
+      "loai": "dich",
+      "tu": 62000,
+      "den": 62000,
+      "gio": "[00:10:34]",
+      "trich": "Mình đã ghi ở đây là TP FL này 62.000 chứ không phải là 72.000, 62.000."
+    },
+    {
+      "loai": "vao",
+      "tu": 87000,
+      "den": 87000,
+      "gio": "[00:11:04]",
+      "trich": "Thủng khỏi vùng 8700, đóng H4 dưới 87.000 thì chúng ta đánh theo nhịp short."
+    },
+    {
+      "loai": "vao",
+      "tu": 60000,
+      "den": 60000,
+      "gio": "[00:17:21]",
+      "trich": "Bitcoin về 60k gom thì bạn cứ gom bao nhiêu cũng được."
+    },
+    {
+      "loai": "vao",
+      "tu": 20000,
+      "den": 20000,
+      "gio": "[00:17:21]",
+      "trich": "Nhưng nhớ là điểm sâu nhất cứ chừa sẵn kế hoạch ở 20.000. Chờ 20.000 gom"
+    },
+    {
+      "loai": "vao",
+      "tu": 40000,
+      "den": 40000,
+      "gio": "[00:35:29]",
+      "trich": "Bitcoin về bao nhiêu gom được? Nói mãi luôn, mình thì từ 40 trở xuống mình mới gom."
+    }
+  ],
+  "view_trung_han": [
+    {
+      "khung": "D1",
+      "huong": "GIAM",
+      "dich": [
+        62000,
+        70000
+      ],
+      "han": null,
+      "mat_view_khi": null,
+      "gio": "[00:10:02]",
+      "trich": "Nó mà thủng tiếp vào Fibo 618 này thì nó đi về dưới này luôn. Các bạn biết nó về đâu không? 70.000 chứ đâu nữa. Mô hình cờ khung ngày."
+    },
+    {
+      "khung": null,
+      "huong": "TANG",
+      "dich": 93000,
+      "han": "không biết khi nào lấp",
+      "mat_view_khi": null,
+      "gio": "[00:07:54]",
+      "trich": "Và trên này chúng ta vẫn còn một cái gap nữa là gap 93 và hiện tại nó vẫn đang để trống cho nên mình nói là kiểu gì rồi nó cũng sẽ lên thôi. Còn khi nào lấp thì mình thua thị trường ở khâu này"
+    },
+    {
+      "khung": "M1",
+      "huong": "GIAM",
+      "dich": [
+        20000,
+        40000
+      ],
+      "han": "6 tháng đến 1 năm nữa tạo đáy",
+      "mat_view_khi": null,
+      "gio": "[00:22:55]",
+      "trich": "Bây giờ các bạn phải xác định là 1 năm nữa downtrend hoặc 6 tháng nữa là tạo đáy, thị trường về 20.000, 40.000."
+    },
+    {
+      "khung": "M1",
+      "huong": "GIAM",
+      "dich": null,
+      "han": "cả năm 2026; đáy tạo ở cuối 2026",
+      "mat_view_khi": null,
+      "gio": "[00:29:43]",
+      "trich": "Bởi vì view của mình 2026 là sập tất cả các thị trường thành ra mình không đi đầu tư thị trường nào trong 26 hết. Đó là quan điểm cá nhân. Có thể là mình sai"
+    }
+  ],
+  "vung_tranh": [
+    {
+      "tu": 87000,
+      "den": 88000,
+      "vi_sao": "Giao dịch trong vùng 87.000-88.000 thì ngồi im, chờ H4 đóng ra khỏi vùng",
+      "gio": "[00:11:04]",
+      "trich": "Còn lại nếu nó cứ giao dịch ở trong vùng 88.00 cho đến 87.00 này thì các bạn ngồi im. Đó là plan ngày hôm nay."
+    },
+    {
+      "tu": null,
+      "den": 88000,
+      "vi_sao": "H4 còn đóng dưới Fibo 50 (88.000) thì đừng long",
+      "gio": "[00:09:31]",
+      "trich": "Còn nếu chiều nay nó vẫn đóng ở dưới Fibo này thì các bạn đừng nên long làm cái gì hết."
+    },
+    {
+      "tu": null,
+      "den": null,
+      "vi_sao": "Short H4 lúc này ngại bị trap vì phía trên còn gap",
+      "gio": "[00:10:34]",
+      "trich": "Tạm thời đối với thị trường cái đoạn này thì H4 này mình đi short cũng ngại bị trap bởi vì trên này nó còn gap."
+    }
+  ],
+  "giu_dong": [
+    {
+      "lenh": "Long của cộng đồng hôm trước",
+      "quyet_dinh": "dong",
+      "khi_nao": "Chốt TP ở 89.000 khi giá ở 90; ai tham thì giữ chờ 92 và kéo SL về entry",
+      "gio": "[00:02:28]",
+      "trich": "Hôm qua lúc giá ở 90 mình cho anh em chốt TP ở 89.000. Ai tham thì chờ 92 kéo SL về entry, còn không thì tham lam hơn nữa thì ăn luôn."
+    },
+    {
+      "lenh": "Danh mục spot đang âm 30% của người xem",
+      "quyet_dinh": "dong",
+      "khi_nao": "Nếu là người đó thì cắt, giữ lại 70% tiền, vào downtrend làm lại",
+      "gio": "[00:28:40]",
+      "trich": "Nếu là mình thì mình sẽ cắt, mình lấy 70% mình giữ lại và vào downtrend mình làm lại"
+    }
+  ],
+  "tin_tuc": [
+    {
+      "su_kien": "FOMC (lãi suất)",
+      "thoi_diem": "hôm qua (đã ra)",
+      "nguon": "khac",
+      "so_lieu": "Ra 3.7, không giảm — 'không ngoài dự đoán'",
+      "anh_huong_view": "Giá lợi dụng tin để lên rồi gãy sau tin, đúng kịch bản 'tăng trước tin thì sau tin gãy'; tin quan trọng nhất tháng đã qua",
+      "gio": "[00:13:09]",
+      "trich": "Lãi suất ngày hôm qua không ngoài dự đoán là ra 3.7, tức là không giảm ở đợt này. Lãi suất chắc chắn đợt này không thể giảm được nữa bởi vì mọi thứ đang kiểm soát được rồi."
+    },
+    {
+      "su_kien": "Trợ cấp thất nghiệp; PPI",
+      "thoi_diem": "hôm nay (trợ cấp thất nghiệp), ngày mai (PPI)",
+      "nguon": "lich_kinh_te",
+      "so_lieu": null,
+      "anh_huong_view": "Chỉ nhắc lịch; tin quan trọng nhất tháng (lãi suất) đã qua",
+      "gio": "[00:13:09]",
+      "trich": "Hôm nay thì chúng ta tiếp tục có tin trợ cấp thất nghiệp. Đến ngày mai chúng ta sẽ có tin PPI. Nói chung là tin quan trọng nhất của tháng là tin lãi suất thì cũng đã qua rồi."
+    }
+  ]
+}

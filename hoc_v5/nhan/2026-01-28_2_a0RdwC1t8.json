@@ -1,0 +1,434 @@
+{
+  "buoi": "2026-01-28_2_a0RdwC1t8",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/zip_clean/2026-01-28_2_a0RdwC1t8.txt",
+  "gia_btc_luc_noi": 89000,
+  "dau_buoi": {
+    "thien_huong_h4": "GIAM",
+    "gio": "[00:13:56]",
+    "trich": "Nhìn vào nến ngày này thì có lẽ vẫn không nên short. Chúng ta đi vào H4, hiện tại anh em thấy giá đã phá qua khỏi đường MA34. Khi giá đóng một cây H4 khá đẹp và phá qua MA34 thì rõ ràng chúng ta không nên short nữa, vì hoàn toàn có thể nó lên đến tận MA89 hoặc 200 ở vùng này, 90 hoặc 91 đấy."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "GIAM",
+    "do_chac": "thap",
+    "gio": "[00:23:59]",
+    "trich": "Đây gần như là nó quét gần sạch tụi short ngày hôm qua, còn lại một tí như thế này. Thế thì khả năng là chưa gãy được. Khi nào nó ngóc lên thêm một đoạn nữa thì mới sập xuống được. Mình nghĩ như vậy. Cho nên tốt nhất là không short trong ngày hôm nay. Đó là plan của hôm nay."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {
+    "huong": "TANG",
+    "dich": [
+      90000,
+      93000
+    ]
+  },
+  "duong_di": [
+    {
+      "huong": "TANG",
+      "dich": [
+        90000,
+        93000
+      ]
+    },
+    {
+      "huong": "GIAM",
+      "dich": null
+    }
+  ],
+  "dich_chinh": null,
+  "han_gio": null,
+  "vo_hieu": null,
+  "lenh": [
+    {
+      "chieu": "LONG",
+      "vao": 87000,
+      "tp": null,
+      "sl": 88300,
+      "trang_thai": "dang_giu"
+    },
+    {
+      "chieu": "LONG",
+      "vao": 88700,
+      "tp": null,
+      "sl": null,
+      "trang_thai": "de_xuat_moi"
+    }
+  ],
+  "hanh_dong": "dung_ngoai_cho_entry",
+  "khung_lon": {
+    "D1": "Nến ngày trước là nến xanh, đi một cặp có khả năng đảo chiều; nhìn nến ngày thì hôm nay vẫn không nên short.",
+    "W1": "Không phân tích khung tuần; kế hoạch dài hạn vẫn là BTC về dưới 40.000 (thậm chí 20.000), DCA khoảng 6 tháng nữa."
+  },
+  "pha_vo_gia": "Hôm qua là pha fake out/dụ short: H4 đóng hai nến đỏ ở 87 khiến nhiều người short về đáy 86, sau đó giá kéo lên quét short và phá MA34 H4.",
+  "nhin_lai_view_truoc": {
+    "view_truoc": "GIAM",
+    "giu_hay_doi": "giu",
+    "vi_sao": "Hôm qua đã dặn không short vì nến ngày trước xanh, cặp nến có khả năng đảo chiều/fake out; hôm nay xác nhận đúng là ngày dụ short, giá lên lấp gap và đóng H4 trên MA34 → tiếp tục không short, xu hướng chung vẫn giảm sau khi ngóc lên thêm.",
+    "gio": "[00:13:26]",
+    "trich": "Quay lại với Bitcoin. Ngày hôm qua có một pha fake out. Hôm qua chúng ta cũng nói lý do vì sao anh em không nên short trong ngày hôm qua, bởi vì nến ngày trước đó là cây nến xanh, và đặc biệt nó đi một cặp có khả năng đảo chiều như thế này thì khả năng fake out cũng có. Và đúng là ngày hôm qua là một ngày lừa, một ngày dụ short thật."
+  },
+  "trendline": [],
+  "trich_them": [
+    {
+      "gio": "[00:14:30]",
+      "cau": "Điều kiện để short lại là H4 này trước tiên phải đóng một cây nến xuống dưới đường MA, lúc đó may ra mới short được."
+    },
+    {
+      "gio": "[00:15:31]",
+      "cau": "Và hiện tại ở H4 thì vẫn chưa nên short, vì nó vẫn tiếp tục tạo đỉnh cao hơn. Hoàn toàn có thể nó phóng lên tiếp."
+    },
+    {
+      "gio": "[00:16:01]",
+      "cau": "Điều kiện để long có thể là nó test về lại khoảng 88.700, chúng ta sẽ chờ phản ứng ở vùng này. Khi nào nó về đến đây mà tạo nhịp hai đáy hoặc ba đáy, tức là không tạo đáy sau thấp hơn đáy trước thì lúc đó khả năng chúng ta có thể long lại."
+    },
+    {
+      "gio": "[00:16:31]",
+      "cau": "Thứ nhất anh em xác định xu hướng là hôm nay chưa short được. Điều đó có đồng nghĩa với long không? Chưa hẳn, mới đồng nghĩa khoảng 50% thôi."
+    },
+    {
+      "gio": "[00:19:13]",
+      "cau": "Một khi nó lên thì khả năng rất cao nó lên 93 để lấp gap. Cho nên vùng này short thì mình nghĩ chưa thơm lắm."
+    },
+    {
+      "gio": "[00:19:43]",
+      "cau": "Điều kiện để vào short là giá phải nằm dưới MA34 89 và 200 ở khung H4. Điều kiện này đang không đảm bảo cho nên tuyệt đối đừng short."
+    },
+    {
+      "gio": "[00:21:42]",
+      "cau": "Cho nên trong ngày hôm nay có hai trạng thái. Một là thị trường sẽ đi sideway cứng ở vùng này, qua ngày mai giá bắt đầu có thể bơm lên và sau đó gãy xuống. Hai là nó sẽ bơm trước tin thì qua ngày mai khả năng nó sẽ giảm."
+    },
+    {
+      "gio": "[00:22:13]",
+      "cau": "Anh em để ý tình hình chung thì khả năng vẫn là giảm xuống, nhưng khác nhau ở động thái trước tin và trong tin. Nhớ các lệnh anh em không nên cầm qua đêm trong thời điểm ra lãi suất đêm ngày hôm nay."
+    },
+    {
+      "gio": "[00:30:50]",
+      "cau": "Nếu tối ra tin H4 đóng dưới 87.000 là đi luôn hả? Chưa, phải dưới 87.000, mà ra tin H4 thì sẽ phải thủng đáy này. ... Về cơ bản nếu đóng dưới 87.000 thì khả năng cao cũng đi luôn rồi. Nhưng confirm thì sẽ phải đóng dưới 86, 85, 8500."
+    },
+    {
+      "gio": "[01:03:00]",
+      "cau": "Nến H4 đóng cũng màu đỏ rồi. Mình bảo thằng này nó phải tạo một cấu trúc có khả năng bật tăng ở trong M5. Ví dụ như là hai đáy hoặc ba đáy vai đầu vai các kiểu thì mới chơi."
+    },
+    {
+      "gio": "[01:05:08]",
+      "cau": "BTC bắt đầu ngóc lên thôi. Cứ chờ có đảo chiều lên."
+    }
+  ],
+  "kho": "Ngắn hạn H4 nghiêng lên (đã phá MA34, có thể lên MA89/200 90-91 hoặc 93 lấp gap, chờ long ở ~88.700 khi M5 tạo hai/ba đáy) nhưng 'tình hình chung vẫn là giảm', ngóc lên thêm rồi mới sập — không có đích giảm cụ thể nên dich_chinh null. Lệnh long 87.000 SL 88.300 là của người xem hỏi và được đồng ý ('Ok, ngon rồi'), người đó nói hôm qua 'cho anh em long lại một phần'. Mốc 'khoảng 8800' ở [00:41:49] không rõ là 88.000 hay 88.700. Không có trendline.",
+  "nen_volume": [
+    {
+      "khung": "D1",
+      "nen": "Nến ngày trước là nến xanh, đi một cặp có khả năng đảo chiều",
+      "volume": null,
+      "ket_luan": "Khả năng fake out — đúng là ngày dụ short; hôm nay nhìn nến ngày vẫn không nên short",
+      "gio": "[00:13:26]",
+      "trich": "bởi vì nến ngày trước đó là cây nến xanh, và đặc biệt nó đi một cặp có khả năng đảo chiều như thế này thì khả năng fake out cũng có. Và đúng là ngày hôm qua là một ngày lừa, một ngày dụ short thật."
+    },
+    {
+      "khung": "H4",
+      "nen": "H4 đóng một cây khá đẹp, phá qua MA34",
+      "volume": null,
+      "ket_luan": "Không short nữa, có thể lên MA89/200 ở 90-91",
+      "gio": "[00:13:56]",
+      "trich": "Khi giá đóng một cây H4 khá đẹp và phá qua MA34 thì rõ ràng chúng ta không nên short nữa, vì hoàn toàn có thể nó lên đến tận MA89 hoặc 200 ở vùng này, 90 hoặc 91 đấy."
+    },
+    {
+      "khung": "H4",
+      "nen": "Hôm qua H4 đóng hai cây đỏ ở vùng 87",
+      "volume": null,
+      "ket_luan": "Dụ nhiều người short về đáy 86 rồi kéo lên — thấy nghi",
+      "gio": "[00:14:30]",
+      "trich": "Anh em thấy nó test H4 ở đây, đóng cho anh em hai cây đỏ thì rất nhiều người nhảy vào short ở vùng 87 này và short về đáy 86."
+    },
+    {
+      "khung": "H4",
+      "nen": "H4 tiếp tục tạo đỉnh cao hơn",
+      "volume": null,
+      "ket_luan": "Chưa nên short, có thể phóng lên tiếp",
+      "gio": "[00:15:31]",
+      "trich": "Và hiện tại ở H4 thì vẫn chưa nên short, vì nó vẫn tiếp tục tạo đỉnh cao hơn. Hoàn toàn có thể nó phóng lên tiếp."
+    },
+    {
+      "khung": "M30",
+      "nen": "Nến 30 phút đang gặp hỗ trợ (MA34 M30); nếu nến tiếp theo đóng xanh",
+      "volume": null,
+      "ket_luan": "Có khả năng đi lên tiếp",
+      "gio": "[00:16:01]",
+      "trich": "30 phút thì nó đang gặp hỗ trợ. Nếu cây nến 30 phút tiếp theo đóng lại màu xanh thì mình nghĩ có khả năng nó đi lên tiếp, vì vùng này nó vẫn giữ được."
+    },
+    {
+      "khung": "M5",
+      "nen": "M5 đang tạo cấu trúc đi xuống; cần hai/ba đáy, đáy sau không thấp hơn đáy trước",
+      "volume": null,
+      "ket_luan": "Chờ về 88.700 tạo cấu trúc đảo chiều M5 mới long",
+      "gio": "[00:16:01]",
+      "trich": "5 phút thì hiện tại hơi xấu vì nó đang tạo cấu trúc đi xuống, cho nên điều kiện để long lên lại, không short nữa. Điều kiện để long có thể là nó test về lại khoảng 88.700, chúng ta sẽ chờ phản ứng ở vùng này."
+    },
+    {
+      "khung": "H4",
+      "nen": "Nến H4 đóng đỏ",
+      "volume": null,
+      "ket_luan": "Chờ M5 tạo cấu trúc bật tăng (hai đáy, ba đáy, vai đầu vai) mới chơi; đừng vội long",
+      "gio": "[01:03:00]",
+      "trich": "Nến H4 đóng cũng màu đỏ rồi. Mình bảo thằng này nó phải tạo một cấu trúc có khả năng bật tăng ở trong M5. Ví dụ như là hai đáy hoặc ba đáy vai đầu vai các kiểu thì mới chơi."
+    }
+  ],
+  "cach_lam": [
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "ema",
+      "chi_tiet": "MA34/89/200 khung H4 (bộ Sonic R)",
+      "ket_qua": "Giá đã phá MA34 H4; MA89/200 ở 90-91",
+      "gio": "[00:13:56]",
+      "trich": "hiện tại anh em thấy giá đã phá qua khỏi đường MA34. ... hoàn toàn có thể nó lên đến tận MA89 hoặc 200 ở vùng này, 90 hoặc 91 đấy."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "heatmap",
+      "chi_tiet": "Vùng liquidation dưới giá",
+      "ket_qua": "Vùng liquidation trên 86.000",
+      "gio": "[00:14:30]",
+      "trich": "Hơn nữa nó lại thể hiện một vùng liquidation ở trên 86.000."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "ema",
+      "chi_tiet": "MA200 khung H1; MA34 khung 30 phút",
+      "ket_qua": "H1 chạm MA200 thì rụng; MA34 M30 ~88.700 là hỗ trợ",
+      "gio": "[00:15:31]",
+      "trich": "H1 nó chạm MA200 thì rụng, 30 phút thì nó đang gặp hỗ trợ."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "nen",
+      "chi_tiet": "Cấu trúc M5: hai đáy/ba đáy, đáy sau không thấp hơn đáy trước",
+      "ket_qua": "Điều kiện long tại 88.700",
+      "gio": "[00:16:31]",
+      "trich": "Khi nào nó về đến đây mà tạo nhịp hai đáy hoặc ba đáy, tức là không tạo đáy sau thấp hơn đáy trước thì lúc đó khả năng chúng ta có thể long lại."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "DOM, USDT.D, DXY",
+      "ket_qua": "DOM lưng khưng; USDT.D xấu (tăng); DXY giảm — không phải lý do chính",
+      "gio": "[00:17:36]",
+      "trich": "DOM hiện tại vẫn lưng khưng ở đây nên chúng ta không quan tâm lắm. USDT.D cũng như vậy. Tụi này vẫn tiếp tục là xấu, duy trì xu hướng tăng. DXY nó giảm."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "Gap CME",
+      "ket_qua": "Mới lấp 1/2 gap nên khó giảm; gap trên ở 93",
+      "gio": "[00:18:07]",
+      "trich": "Gap này là lý do hôm qua mình cho anh em long lại một phần. Hôm qua mình check thì thấy nó mới 1/2 gap ở loanh quanh vùng này thì mình thấy nó cũng khó để giảm, cho nên khả năng cao nó lên để lấp gap luôn."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "heatmap",
+      "chi_tiet": "Liquid trên/dưới",
+      "ket_qua": "Liquid dưới ~87.000, trên ~89.000; quét về 87 thì long đẹp",
+      "gio": "[00:21:09]",
+      "trich": "Liquid thì dưới này vẫn duy trì một vùng ở khoảng 87.000, trên này thì 89.000. Để gọi an toàn, nếu nó quét về dưới này thì mình nghĩ anh em sẽ long được."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "Dữ liệu thanh lý short",
+      "ket_qua": "Đã quét gần sạch short hôm qua → chưa gãy được, phải ngóc thêm",
+      "gio": "[00:23:59]",
+      "trich": "Đây gần như là nó quét gần sạch tụi short ngày hôm qua, còn lại một tí như thế này. Thế thì khả năng là chưa gãy được."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "dinh_day_cu",
+      "chi_tiet": "Đáy H4 gần nhất ~87.000 và các mốc 86/85",
+      "ket_qua": "Đóng dưới 87.000 có thể đi luôn; confirm dưới 86-85",
+      "gio": "[00:30:50]",
+      "trich": "H4 thực sự nếu nó gãy thì sẽ phải thủng đáy này. Về cơ bản nếu đóng dưới 87.000 thì khả năng cao cũng đi luôn rồi. Nhưng confirm thì sẽ phải đóng dưới 86, 85, 8500."
+    }
+  ],
+  "vung_nguoi_do": [
+    {
+      "loai": "dich",
+      "tu": 90000,
+      "den": 91000,
+      "gio": "[00:13:56]",
+      "trich": "hoàn toàn có thể nó lên đến tận MA89 hoặc 200 ở vùng này, 90 hoặc 91 đấy."
+    },
+    {
+      "loai": "vao",
+      "tu": 88700,
+      "den": 88700,
+      "gio": "[00:16:01]",
+      "trich": "Điều kiện để long có thể là nó test về lại khoảng 88.700, chúng ta sẽ chờ phản ứng ở vùng này."
+    },
+    {
+      "loai": "dich",
+      "tu": 93000,
+      "den": 93000,
+      "gio": "[00:19:13]",
+      "trich": "Một khi nó lên thì khả năng rất cao nó lên 93 để lấp gap."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 87000,
+      "den": 87000,
+      "gio": "[00:21:09]",
+      "trich": "Liquid thì dưới này vẫn duy trì một vùng ở khoảng 87.000"
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 89000,
+      "den": 89000,
+      "gio": "[00:21:09]",
+      "trich": "trên này thì 89.000."
+    },
+    {
+      "loai": "sl",
+      "tu": 88300,
+      "den": 88300,
+      "gio": "[00:27:01]",
+      "trich": "Long ở 87.000 đã cắt một nửa, đưa SL về 88.300 ok không? Ok, ngon rồi."
+    },
+    {
+      "loai": "vo_hieu",
+      "tu": 87000,
+      "den": 87000,
+      "gio": "[00:30:50]",
+      "trich": "Về cơ bản nếu đóng dưới 87.000 thì khả năng cao cũng đi luôn rồi."
+    },
+    {
+      "loai": "vo_hieu",
+      "tu": 85000,
+      "den": 86000,
+      "gio": "[00:30:50]",
+      "trich": "Nhưng confirm thì sẽ phải đóng dưới 86, 85, 8500."
+    },
+    {
+      "loai": "vao",
+      "tu": 88000,
+      "den": 88000,
+      "gio": "[00:41:49]",
+      "trich": "BTC này chắc mình vẫn cứ chờ về dưới này đi, khoảng 8800 gì đó."
+    },
+    {
+      "loai": "vao",
+      "tu": 100000,
+      "den": 100000,
+      "gio": "[00:53:50]",
+      "trich": "mình không short ở đây bởi vì mình không muốn mất 150 triệu này, mà mình chỉ muốn là gì? Nó lên đến 100.000 thì lúc này là số tiền mất của mình nó chỉ còn lại khoảng tầm 70 triệu thôi"
+    },
+    {
+      "loai": "dich",
+      "tu": 20000,
+      "den": 40000,
+      "gio": "[00:53:50]",
+      "trich": "Ví dụ mình vẫn plan về dưới này là 40.000 hoặc thậm chí là 20.000"
+    }
+  ],
+  "view_trung_han": [
+    {
+      "khung": "M1",
+      "huong": "GIAM",
+      "dich": [
+        20000,
+        40000
+      ],
+      "han": "khoảng 6 tháng nữa mới bắt đầu DCA",
+      "mat_view_khi": null,
+      "gio": "[00:53:50]",
+      "trich": "Ví dụ mình vẫn plan về dưới này là 40.000 hoặc thậm chí là 20.000 nhưng mà mình không short ở đây bởi vì mình không muốn mất 150 triệu này"
+    },
+    {
+      "khung": "M1",
+      "huong": "GIAM",
+      "dich": 40000,
+      "han": null,
+      "mat_view_khi": null,
+      "gio": "[00:48:01]",
+      "trich": "Thế các bạn đến bây giờ vẫn không nghĩ là Bitcoin có thể về dưới 40.000 hả? ... Mình thì gần như tin tưởng tuyệt đối vào kế hoạch của mình."
+    }
+  ],
+  "vung_tranh": [
+    {
+      "tu": null,
+      "den": null,
+      "vi_sao": "Hôm nay không short: H4 đã đóng trên MA34, điều kiện short (giá dưới MA34/89/200 H4) không đảm bảo, còn gap 93",
+      "gio": "[00:19:43]",
+      "trich": "Điều kiện để vào short là giá phải nằm dưới MA34 89 và 200 ở khung H4. Điều kiện này đang không đảm bảo cho nên tuyệt đối đừng short."
+    },
+    {
+      "tu": null,
+      "den": null,
+      "vi_sao": "Giá hiện tại chưa long, phải chờ về 88.700 + cấu trúc đảo chiều M5",
+      "gio": "[00:17:03]",
+      "trich": "Còn đối với giá hiện tại thì mình vẫn chưa long."
+    },
+    {
+      "tu": null,
+      "den": 88000,
+      "vi_sao": "Người xem hỏi short khi nến 15 phút ngồi dưới 88k — trả lời hôm nay không short, phải nhìn H4",
+      "gio": "[00:56:26]",
+      "trich": "Nến 15 phút nó ngồi dưới 88k thì short được không? Mình đã bảo ngày hôm nay không short các bạn ơi. H4 này anh em phải nhìn vào thằng H4 này."
+    },
+    {
+      "tu": null,
+      "den": null,
+      "vi_sao": "Không mở short swing dài hạn ở giá hiện tại (về 40k) vì rủi ro mất quá lớn so với lãi; chờ giá lên 100.000",
+      "gio": "[00:53:50]",
+      "trich": "Ví dụ mình vẫn plan về dưới này là 40.000 hoặc thậm chí là 20.000 nhưng mà mình không short ở đây bởi vì mình không muốn mất 150 triệu này"
+    }
+  ],
+  "giu_dong": [
+    {
+      "lenh": "Long 87.000 của người xem",
+      "quyet_dinh": "chot_mot_phan",
+      "khi_nao": "Đã cắt một nửa, dời SL về 88.300 — người đó đồng ý",
+      "gio": "[00:27:01]",
+      "trich": "Long ở 87.000 đã cắt một nửa, đưa SL về 88.300 ok không? Ok, ngon rồi."
+    },
+    {
+      "lenh": "Mọi lệnh đang mở",
+      "quyet_dinh": "dong",
+      "khi_nao": "Không cầm lệnh qua đêm ra tin lãi suất",
+      "gio": "[00:22:13]",
+      "trich": "Nhớ các lệnh anh em không nên cầm qua đêm trong thời điểm ra lãi suất đêm ngày hôm nay."
+    },
+    {
+      "lenh": "Long một phần cho cộng đồng hôm qua (lý do: gap)",
+      "quyet_dinh": "giu",
+      "khi_nao": "Gap mới lấp 1/2, khả năng lên lấp hết",
+      "gio": "[00:18:07]",
+      "trich": "Gap này là lý do hôm qua mình cho anh em long lại một phần."
+    }
+  ],
+  "tin_tuc": [
+    {
+      "su_kien": "Tin vĩ mô nói chung (Mỹ đánh Iran, FED, đồng đô)",
+      "thoi_diem": null,
+      "nguon": null,
+      "so_lieu": null,
+      "anh_huong_view": "Tin tức chỉ là cái cớ, có bàn tay nhà tạo lập; 'tin tức để cho vui thôi'",
+      "gio": "[00:12:28]",
+      "trich": "Rồi kinh tế vĩ mô, FED, giảm sức mạnh của đồng đô la Mỹ, mọi thứ đều có sự kiểm soát hết. Cho nên mình nhắc đi nhắc lại là tin tức để cho vui thôi."
+    },
+    {
+      "su_kien": "Trump phát biểu / DXY giảm",
+      "thoi_diem": "hôm qua",
+      "nguon": null,
+      "so_lieu": "DXY giảm",
+      "anh_huong_view": "Không phải lý do chính khiến giá lên; lý do là trap short và lên lấp gap",
+      "gio": "[00:18:07]",
+      "trich": "Về bản chất để soi cái tin DXY hôm qua khiến giá lên thì mình nghĩ không phải lý do chính. Lý do thứ nhất là nó trap short. Lý do thứ hai là nó lên gap."
+    },
+    {
+      "su_kien": "FOMC (lãi suất)",
+      "thoi_diem": "đêm nay, rạng sáng mai (thứ tư)",
+      "nguon": "khac",
+      "so_lieu": "Người đó dự đoán lãi suất không giảm, duy trì",
+      "anh_huong_view": "Hai/ba trạng thái: sideway hôm nay rồi mai bơm lên rồi gãy; bơm trước tin thì mai giảm; giảm trước tin thì mai bơm rồi lại giảm — tình hình chung vẫn giảm; không cầm lệnh qua đêm ra tin",
+      "gio": "[00:21:42]",
+      "trich": "Tin tức thì anh em nhớ đêm ngày hôm nay, rạng sáng ngày mai, FED công bố lãi suất và khả năng đợt này lãi suất sẽ không giảm, sẽ duy trì. Cho nên trong ngày hôm nay có hai trạng thái. Một là thị trường sẽ đi sideway cứng ở vùng này, qua ngày mai giá bắt đầu có thể bơm lên và sau đó gãy xuống. Hai là nó sẽ bơm trước tin thì qua ngày mai khả năng nó sẽ giảm."
+    }
+  ]
+}

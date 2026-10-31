@@ -1,0 +1,41 @@
+{
+  "buoi": "2026-10-07_1004_Rl-3RfG8EiY",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/lam_sach/2026-10-07_1004_Rl-3RfG8EiY.md",
+  "gia_btc_luc_noi": 84000,
+  "dau_buoi": {
+    "thien_huong_h4": "GIAM",
+    "gio": null,
+    "trich": "Sell ở đây có lãi thì chốt được rồi. Tất nhiên mình nghĩ nhịp này thị trường còn đi tiếp xuống dưới, nhưng đánh sell ngược xu hướng thì có lãi là chốt được rồi."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "GIAM",
+    "do_chac": "vua",
+    "gio": null,
+    "trich": "Kết quả đã đúng: đóng trên 84.050 và dưới 84.300, vẫn nằm trong khoảng đó... Tất nhiên nến này vẫn là nến bán rất mạnh và lực bán vẫn rất trâu bò. Nhưng mình đoán nó sẽ test lên khoảng 84.00 [?], cứ chờ thôi. Lên trên này lại tìm điểm xem tình hình rồi tính tiếp."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {"huong": "TANG", "dich": null},
+  "duong_di": [
+    {"huong": "GIAM", "dich": [80000, 82000]}
+  ],
+  "dich_chinh": [80000, 82000],
+  "han_gio": null,
+  "vo_hieu": null,
+  "lenh": [],
+  "hanh_dong": "dung_ngoai_cho_entry",
+  "khung_lon": {"D1": "GIAM", "W1": null},
+  "pha_vo_gia": "Nến H4 cố đóng trên 84 / MA89 H4 có thể là để 'dụ lượng FOMO nhảy vào rồi sau đó mới điều chỉnh tiếp trong phiên chiều và phiên tối'.",
+  "trich_them": [
+    {"gio": null, "cau": "Trendline H4 này đã thủng mất rồi. Thủng thì chờ nó hồi lên, nhưng để hồi lên được 8400 cũng hơi căng... Nhịp này tiếp tục có xác suất về những vùng lúc nãy mình nói. Bây giờ 80 đến 82.000 vẫn là vùng đẹp, Fibo gãy tất cả."},
+    {"gio": null, "cau": "Cho nên ngắn hạn có khả năng thị trường hồi lên đây. Trước đó nó làm hỗ trợ thì bây giờ có xác suất đóng vai trò kháng cự. Ngắn hạn có thể nó lên đây, và maybe lên đây mình sẽ tìm entry để đánh xuống, nếu thị trường cho phép."},
+    {"gio": null, "cau": "Có thể nó đóng 84 để dụ lượng FOMO nhảy vào rồi sau đó mới điều chỉnh tiếp trong phiên chiều và phiên tối. Nhưng trước mắt ở vùng này thì hạn chế sell FOMO đã, vì khả năng nó đóng 84 rất cao."},
+    {"gio": null, "cau": "Hỗ trợ của khung ngày là vùng 83. MA khung ngày là 81.00 [?], mình lấy giá tròn 82 cũng được... Đẹp nhất là nó về lại khoảng 76.000: MA89 trên khung ngày là vùng hỗ trợ cứng."},
+    {"gio": null, "cau": "Trendline và hỗ trợ cũng đã gãy rồi... nên xác suất rơi về những vùng thấp hơn vẫn có."},
+    {"gio": null, "cau": "Tối qua mình cho anh em bay scalping một phát, chốt ở 8600 luôn."},
+    {"gio": null, "cau": "Hàng thì gom được ít, trade thì từ hôm qua đến giờ chưa có lệnh nào."},
+    {"gio": null, "cau": "Tuần này chưa có 7x đâu, đừng vội; vừa thấy 84 đã đòi 7x, chặng đường từ đây về đầu bảy còn xa lắm."},
+    {"gio": null, "cau": "Chốt lại từ đây đến cuối tuần thì không chốt được... Việc của chúng ta bây giờ là chờ thôi."}
+  ],
+  "kho": "File không có mốc giờ. Hướng chính rõ (GIAM về 80–82), nhưng chặng hồi kế tiếp chỉ nêu là test lên vùng cản '84.00 [?]' / MA600 khung 30 phút — số trong phụ đề bị lỗi nên để dich null. Lệnh scalp LONG đêm trước đã chốt ở 86.000 (không rõ entry) nên không ghi vào 'lenh'; kế hoạch sell khi hồi chỉ là 'maybe', chưa có giá vào. Không có câu vô hiệu rõ ràng."
+}

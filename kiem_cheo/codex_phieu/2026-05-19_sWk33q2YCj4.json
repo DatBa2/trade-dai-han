@@ -1,0 +1,44 @@
+{
+  "buoi": "2026-05-19_sWk33q2YCj4",
+  "gia_btc_luc_noi": 76000,
+  "dau_buoi": {
+    "huong_h4": "GIAM",
+    "trich": "[00:03:17] Xu hướng thì vẫn là giảm thôi, vẫn là ưu tiên short nhưng mà nếu mà chúng ta vào một cái entry xấu và FOMO thì cực kỳ rủi ro."
+  },
+  "cuoi_buoi": {
+    "huong_h4": "GIAM",
+    "trich": "[01:02:54] BTC đứng ở đây có điều xấu: long sẽ phải cẩn thận là giá tiếp tục đóng gãy khỏi đường MA cuối cùng này. ... [01:03:32] Nói chung mình thấy nó cũng nỗ lực lắm nhưng không thành công. Cho nên đừng long vội vàng quá."
+  },
+  "doi_y_giua_buoi": false,
+  "huong_lon": {
+    "D1": "GIAM",
+    "W1": "GIAM",
+    "chu_ky": "GIAM"
+  },
+  "hanh_dong": "dung_ngoai_cho_entry",
+  "duong_di": [
+    {
+      "huong": "GIAM",
+      "dich": 75000,
+      "khung": "H1"
+    },
+    {
+      "huong": "TANG",
+      "dich": null,
+      "khung": "H4"
+    },
+    {
+      "huong": "GIAM",
+      "dich": 70000,
+      "khung": "D1"
+    }
+  ],
+  "dich_chinh": 70000,
+  "moc_sai": {
+    "gia": null,
+    "dieu_kien": "Không có mốc vô hiệu H4 giảm rõ. Lên 83.000 vẫn có thể chỉ là test cản [00:55:14]. SL short xổ số cuối buổi được chép 7700 [01:03:32], thiếu chữ số nên không đoán."
+  },
+  "pha_vo_gia": "[00:11:11] Một ngày xanh trong chuỗi giảm từ 82.000 được gọi cây trap. [00:13:22–00:13:52] cảnh báo có thể hồi xuyên 78.xxx tới 79.000 để quét short trước khi giảm; là kịch bản tương lai.",
+  "do_chac": "cao",
+  "ghi_chu": "Đã đọc hết transcript. Giá 76.000 xấp xỉ từ tiêu đề. Đứng ngoài chờ entry:75.000 có thể long hồi ngược trend với SL khoảng 1000 giá, hoặc chờ 78.000–79.000 xem nến để short; chưa chắc chạm 79.000 đã short, có thể quét 83.000 nếu short quá dày. Đường ghi kịch bản kết hợp ưu tiên: quét 75.000→hồi vùng 78.000–79.000→giảm tiếp; chặng cuối 70.000 chỉ khi hỗ trợ 74.800–75.000 bị gãy. Đích hồi là vùng nên null, không lấy trung điểm. Cuối có short xổ số TP75.600, không phải plan chính để gồng 70.000. H4/khung lớn giảm không đổi dù có khả năng hồi kỹ thuật."
+}

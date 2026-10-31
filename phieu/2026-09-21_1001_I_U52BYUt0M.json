@@ -1,0 +1,145 @@
+{
+  "buoi": "2026-09-21_1001_I_U52BYUt0M",
+  "ngay": "2026-09-21",
+  "gio_vn": "10:01",
+  "gia_btc_luc_noi": null,
+  "nhan_dinh": [
+    {
+      "khung": "H4",
+      "huong": "GIAM",
+      "do_chac": "thap",
+      "dich": [
+        80000,
+        80000
+      ],
+      "han": "từ giờ đến trưa hoặc chiều",
+      "han_gio": 6,
+      "vo_hieu_khi": "qua 83.000, nến ngày đóng hai cây trên 83.000",
+      "kich_ban_phu": "lên rất nhanh quét 84.000-85.000 rồi tụt luôn là phá cao đi xuống; giữ 1-2 ngày trên 83 thì đi tiếp lên 90-93",
+      "ly_do": [
+        "khả năng rất cao có nhịp lên test 82.000 (quét SL short ở râu) rồi mới gãy thực sự",
+        "H4 có phân kỳ, lên trong nghi ngờ",
+        "liquidation 80.000 dày hơn vùng trên, thể nào trong tuần cũng có pha kill long",
+        "vùng 93 không đủ hấp dẫn thanh khoản kéo giá lên",
+        "muốn short thì short trên râu nến sáng, không short ở giá hiện tại"
+      ],
+      "trich": "mình nghĩ khả năng rất cao sẽ có một nhịp lên test đâu đó khoảng 82.00 ... rồi nó mới gãy thực sự.",
+      "doi_y": null,
+      "duong_di": [
+        {
+          "huong": "TANG",
+          "dich": 82000
+        },
+        {
+          "huong": "GIAM",
+          "dich": 80000
+        }
+      ]
+    },
+    {
+      "khung": "D1",
+      "huong": "PHAN_VAN",
+      "do_chac": "vua",
+      "dich": null,
+      "han": null,
+      "han_gio": null,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": "qua 83 với hai nến D1 thì xác suất 90-93 khá cao; không qua được thì test đỉnh cạn, phân kỳ, điều chỉnh về dưới",
+      "ly_do": [
+        "giá đóng trên MA, cấu trúc bull nhưng volume yếu, có phân kỳ",
+        "RSI D1 đẹp nên không short vội vì phân kỳ"
+      ],
+      "trich": "Nếu chúng ta chỉ nhìn câu chuyện nến tuần đẹp mà đã tự tin múc lên đến 90 thì hơi vội vàng.",
+      "doi_y": null,
+      "duong_di": null
+    },
+    {
+      "khung": "W1",
+      "huong": "TANG",
+      "do_chac": "cao",
+      "dich": [
+        90000,
+        93000
+      ],
+      "han": null,
+      "han_gio": null,
+      "vo_hieu_khi": "nến tuần không vượt được 83.000 thì chỉ là test đỉnh",
+      "kich_ban_phu": "phân kỳ D1/H4 có thể điều chỉnh",
+      "ly_do": [
+        "nến tuần khổng lồ đóng cao hơn đợt trước (81.000 vs 80.000)",
+        "trên 96% thị trường sẽ thấy tương lai BTC ở 92-93",
+        "đừng cản tàu, scalping thì được"
+      ],
+      "trich": "Nói chung hiện tại trên khung tuần Bitcoin đang thể hiện một gương mặt cực kỳ tươi. Cho nên cứ cố đi cản tàu là điều không nên.",
+      "doi_y": null,
+      "duong_di": null
+    }
+  ],
+  "vung_gia": {
+    "khang_cu": [
+      83000,
+      85000
+    ],
+    "ho_tro": [
+      80000,
+      80000
+    ]
+  },
+  "lenh": [],
+  "nhin_lai_truoc": "Tuần trước thứ hai xanh, cả tuần đỏ, rồi thứ sáu nến khổng lồ kéo 8000 giá từ 75; kỳ vọng sập về 72-73 không thành. Lúc nãy định cho anh em đánh Bitcoin lên nhưng đang kẹt lệnh short kia.",
+  "cong_cu": [
+    "nến tuần",
+    "D1",
+    "H4",
+    "RSI",
+    "volume",
+    "MA34",
+    "MA89",
+    "liquidation",
+    "gap 90",
+    "BTC.D",
+    "USDT.D",
+    "Total/Total2"
+  ],
+  "tin_tuc": [
+    {
+      "tin": "Tuần này không có tin; PCE core thứ tư tuần sau, rồi FOMC/CPI tháng 10",
+      "danh_gia": "tuần này clear"
+    }
+  ],
+  "thoi_quen": [
+    "phân biệt rủi ro/kỳ vọng thay vì cố nhận bull trap",
+    "không cản tàu khi nến tuần đẹp",
+    "FOMO thì phải có SL; rút lãi ra khi đang thắng",
+    "đầu tuần view dài, giữa tuần view ngắn không đổi view lớn",
+    "không nhắc điểm gom, tự học vượt sợ hãi"
+  ],
+  "cau_cua_mieng": [
+    "cẩn tắc vô áy náy",
+    "Cắt con virus sợ hãi trong người đi.",
+    "thận trọng không bao giờ thừa"
+  ],
+  "altcoin": [
+    {
+      "coin": "USDT.D",
+      "huong": "TANG",
+      "ghi": "gãy nhưng đang test lại MA, hỗ trợ tuần/ngày cứng; nếu đảo chiều lên thì BTC bị bẻ"
+    },
+    {
+      "coin": "BTC.D",
+      "huong": "PHAN_VAN",
+      "ghi": "hỗ trợ nhẹ ở trendline dưới"
+    },
+    {
+      "coin": "ETH",
+      "huong": "TANG",
+      "ghi": "xu hướng tuần rất tốt, quét 2007 rồi, ETH/BTC có thể đi lên"
+    },
+    {
+      "coin": "Altcoin chung",
+      "huong": "PHAN_VAN",
+      "ghi": "Total chạm trendline, quá mua; đừng FOMO altcoin"
+    }
+  ],
+  "ghi_chu": "Số trong bản sạch có [?] (82.00-82.00, 81.00). Bản gốc dòng 119 cũng ghi 'khoảng 82.00 cho đến 82.00', nên chỉ ghi test 82. Giá BTC lúc nói ~81-82k không rõ. Hướng H4 GIAM thấp theo 'lên test 82 rồi mới gãy', nhưng W1 TANG và anh cảnh báo mạnh đừng cản tàu; D1 chọn PHAN_VAN vì anh chờ xác nhận trên 83."
+}

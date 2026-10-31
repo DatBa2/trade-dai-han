@@ -1,0 +1,76 @@
+{
+  "buoi": "2026-03-17_UKs5T1J0H9w",
+  "ngay": "2026-03-17",
+  "gio_vn": "10:00",
+  "gia_btc_luc_noi": 74500,
+  "nhan_dinh": [
+    {
+      "khung": "H4",
+      "huong": "TANG",
+      "do_chac": "vua",
+      "dich": [78000, 80000],
+      "han": "từ giờ đến trước tin lãi suất FED (rạng sáng thứ năm)",
+      "han_gio": 72,
+      "vo_hieu_khi": "thủng 69.000-70.000 mới là gãy trong tăng",
+      "kich_ban_phu": "lên 78 (Fibo 0.5 + MA89 cản lớn) rồi điều chỉnh về 71 test MA34 là bình thường; chờ điều chỉnh 72.500-71.500 mới long, không limit; nếu đóng H4/D1 trên 79 thì 79 lên 81 rất nhanh; lấp nhẹ gap 74/71.8",
+      "ly_do": [
+        "giá nằm trên EMA34/89, cụm EMA kéo lên đẹp, volume xanh chiếm ưu thế",
+        "Fibo mở rộng 1.618 ở 75.000, Fibo 2 ở 82; cản 78 (Fibo 0.5 + MA89), 83 (Fibo 0.618)",
+        "không nên short vì rủi ro quá lớn, nhưng gần ngưỡng chốt lãi 74-75 và 78-80"
+      ],
+      "trich": "Cho nên tốt nhất cái đoạn này tuyệt đối đừng có short. ... trước mắt là lên được 80 là coi như là kế hoạch.",
+      "doi_y": null,
+      "duong_di": [
+        {"huong": "TANG", "dich": 78000},
+        {"huong": "GIAM", "dich": 71500},
+        {"huong": "TANG", "dich": 80000}
+      ]
+    },
+    {
+      "khung": "D1",
+      "huong": "TANG",
+      "do_chac": "vua",
+      "dich": [78000, 83000],
+      "han": null,
+      "han_gio": null,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": "xa hơn Fibo 0.5 sóng dài ở 93 nhưng cho là hơi khó",
+      "ly_do": ["D1 xanh liên tục", "vùng 74 đến trên 85 rất mỏng nên lên rất nhanh", "sau khi test MA34 vài lần, test MA89, lần tới có thể test MA200"],
+      "trich": "Và ở đây khung ngày này hoàn toàn có khả năng lên được cái vùng này.",
+      "doi_y": null,
+      "duong_di": null
+    },
+    {
+      "khung": "chung",
+      "huong": "GIAM",
+      "do_chac": "thap",
+      "dich": null,
+      "han": "khả năng sập khoảng thứ sáu sau tin lãi suất FED nếu trước đó đẩy chạm 78-80",
+      "han_gio": null,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": "view dài hạn vẫn giữ nguyên, 40.000 mới bắt đầu tạo đáy; không view theo lãi suất",
+      "ly_do": ["nếu từ giờ đến mai đẩy căng nữa thì sau tin lãi suất khả năng sập", "FED khả năng cao không giảm lãi suất", "chủ tịch FED phát biểu tối thứ bảy"],
+      "trich": "Nếu từ giờ đến đó nó đạt luôn cột mốc 78 80 gì đấy... mình nghĩ cuối tuần này sẽ là một cuối tuần không yên ổn lắm.",
+      "doi_y": null,
+      "duong_di": null
+    }
+  ],
+  "vung_gia": {"khang_cu": [78000, 80000], "ho_tro": [71500, 72500]},
+  "lenh": [
+    {"chieu": "LONG", "loai": "chờ phản ứng (không limit)", "vao": [71500, 72500], "tp": [75000, 78000, 80000], "sl": null,
+     "trang_thai": "de_xuat_moi",
+     "trich": "Tầm này ngồi chờ quanh đoạn khoảng 72.500 cho đến 71.500 thì đẹp."}
+  ],
+  "nhin_lai_truoc": "Hôm qua vùng liquid lớn ở 74.8 bị quét thật, 4h sáng bay lên 76.000; lệnh long ETH tối qua cài SL đi ngủ khớp TP lúc 5h sáng.",
+  "cong_cu": ["Fibo", "MA34/89/200", "H4", "H1", "M30", "gap CME", "heatmap liquidation", "USDT.D", "BTC.D", "Fear and Greed", "trendline"],
+  "tin_tuc": [{"tin": "Lãi suất FED rạng sáng thứ năm, PPI tối mai", "danh_gia": "FED khả năng cao không giảm; đẩy căng trước tin thì sau tin sập"}],
+  "thoi_quen": ["lên kế hoạch điểm chốt lãi từng phần trước (72, 74, 76, 78, 80)", "đến ngưỡng là cắt/chốt, không say lãi", "chờ vùng hỗ trợ chứ không limit", "70% chờ rình, 20% cân nhắc, 10% ra đòn", "tới 78 phải xử lý tài khoản"],
+  "cau_cua_mieng": ["Còn tiền là còn cơ hội.", "Đừng có say theo thị trường."],
+  "altcoin": [
+    {"coin": "ETH", "huong": "TANG", "ghi": "TP quanh 2400, max 2500 mấy thoát hết; gap 2400-2600"},
+    {"coin": "BTC.D", "huong": null, "ghi": "điều chỉnh nhẹ; altcoin lowcap bị đẩy FOMO có thể là dấu hiệu sóng tăng sắp kết thúc"},
+    {"coin": "TAO", "huong": "GIAM", "ghi": "chờ quét lên 290 fail H1 thì short về 265, ngược trend"},
+    {"coin": "BNB", "huong": "GIAM", "ghi": "yếu, chưa đến lúc short"}
+  ],
+  "ghi_chu": "Vàng: có thể long lại, không sell; đáy 58-60 từng nói. Header không ghi giờ."
+}

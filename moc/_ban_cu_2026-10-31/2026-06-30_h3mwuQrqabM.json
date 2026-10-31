@@ -1,0 +1,23 @@
+{
+  "buoi": "2026-06-30_h3mwuQrqabM",
+  "ngay": "2026-06-30",
+  "gia_btc_luc_noi": 59800,
+  "moc": [
+    {"gia": 60000, "gia_tren": 60300, "vai_tro": "dich", "huong": "TANG", "khung": "H4", "can_cu": ["quét râu nến lên 60.000-60.300"], "moc_gio": "00:08:03", "chac": true, "trich": "Đoạn này mình đang tính nó hồi lên đâu đó khoảng 60.000 ... nó sẽ quét một phát râu nến lên khoảng 60.000 60.300"},
+    {"gia": 60000, "gia_tren": null, "vai_tro": "ho_tro", "huong": null, "khung": "D1", "can_cu": ["số tròn", "cản tâm lý", "hỗ trợ"], "moc_gio": "00:18:08", "chac": true, "trich": "60 là một vùng hỗ trợ, chưa kể đây là vùng cản tâm lý. Nếu qua tháng sau mà nó đóng nến dưới 60.000 ... chắc qua tháng sau nó về 50"},
+    {"gia": 61000, "gia_tren": null, "vai_tro": "khang_cu", "huong": "TANG", "khung": "D1", "can_cu": ["vùng kháng cự"], "moc_gio": "00:17:37", "chac": true, "trich": "phải trên được 60.000 thì nó sẽ đẩy lên được trên vùng kháng cự này là 61, thì đầu tháng sau khả năng nó sẽ phục hồi lên đâu đó khoảng 62"},
+    {"gia": 62000, "gia_tren": null, "vai_tro": "dich", "huong": "TANG", "khung": "H4", "can_cu": ["Fibo của đoạn giảm (đo, ban đầu nghĩ 64-65 rồi sửa lại 62)"], "moc_gio": "00:19:42", "chac": true, "trich": "Fibo của đoạn này mình xem thử, đâu đó khoảng 64 65, à 62 thôi ... nó sẽ phóng lên được vùng Fibo 62.000"},
+    {"gia": 63000, "gia_tren": null, "vai_tro": "dich", "huong": "TANG", "khung": "D1", "can_cu": [], "moc_gio": "00:19:10", "chac": true, "trich": "xác nhận break hẳn lên khỏi 61 này thì khả năng lên được 62 63"},
+    {"gia": 59000, "gia_tren": null, "vai_tro": "vo_hieu", "huong": "TANG", "khung": "D1", "can_cu": ["đáy hai đáy / cây nến ngày hôm qua", "thủng thì đánh xuống"], "moc_gio": "00:19:10", "chac": true, "trich": "Còn nếu nó thủng tiếp khỏi vùng 59 này thì lúc đó chúng ta đánh xuống"},
+    {"gia": 59400, "gia_tren": null, "vai_tro": "vo_hieu", "huong": "TANG", "khung": "M30", "can_cu": ["trendline M30", "cấu trúc xu hướng nhỏ"], "moc_gio": "00:21:54", "chac": true, "trich": "nó phải gãy khỏi vùng 59.400 này ... thủng trendline thì mới thủng hỗ trợ thôi chứ chưa phá vỡ cấu trúc xu hướng"},
+    {"gia": 59000, "gia_tren": null, "vai_tro": "entry", "huong": "GIAM", "khung": "M30", "can_cu": ["nến 30 phút đóng dưới trendline"], "moc_gio": "00:21:54", "chac": true, "trich": "lúc đó chúng ta có thể đánh short từ 59.000 đi xuống"},
+    {"gia": 50000, "gia_tren": null, "vai_tro": "dich", "huong": "GIAM", "khung": "MN", "can_cu": ["nói vui: nếu đóng nến tháng dưới 60K, mỗi tháng giảm 10K"], "moc_gio": "00:18:08", "chac": true, "trich": "nếu qua tháng sau mà nó đóng nến dưới 60.000 ... chắc qua tháng sau nó về 50, cứ thế mỗi tháng nó về khoảng 10.000"},
+    {"gia": 30000, "gia_tren": null, "vai_tro": "dich", "huong": "GIAM", "khung": "MN", "can_cu": ["nói vui, mỗi tháng giảm 10K"], "moc_gio": "00:18:08", "chac": false, "trich": "chúng ta sẽ có vùng giá đâu đó khoảng 30.000 sớm đối với Bitcoin, hoặc 45 gì đó"},
+    {"gia": 59000, "gia_tren": 61000, "vai_tro": "khac", "huong": null, "khung": "D1", "can_cu": ["vùng sideway tranh chấp"], "moc_gio": "00:17:02", "chac": true, "trich": "giá vẫn loanh quanh trong vùng từ 59 cho đến 61"},
+    {"gia": 59200, "gia_tren": null, "vai_tro": "tp", "huong": "GIAM", "khung": "M5", "can_cu": ["mô hình cờ", "cụm thanh lý / heatmap (liquid 59K3)"], "moc_gio": "00:59:52", "chac": false, "trich": "cái mô hình cờ này thì các bạn TP như những vùng lúc nãy, vẫn 59 thôi, 59.2 gì đó ... 9k3 đây. 59k2 hoặc 58k8"},
+    {"gia": 58800, "gia_tren": null, "vai_tro": "tp", "huong": "GIAM", "khung": "M5", "can_cu": ["mô hình cờ"], "moc_gio": "00:59:52", "chac": false, "trich": "59k2 hoặc 58k8 gì đó"},
+    {"gia": 60100, "gia_tren": null, "vai_tro": "vo_hieu", "huong": "GIAM", "khung": "H4", "can_cu": ["hồi lên 60k1 thì tình thế khác, đi lên luôn"], "moc_gio": "01:03:41", "chac": true, "trich": "H4 này giờ chờ hồi lên được 60k1 ... hồi lên 60k1 thì lại là một tình thế khác rồi, nó lại đi lên luôn"},
+    {"gia": 59000, "gia_tren": null, "vai_tro": "khang_cu", "huong": "GIAM", "khung": "H4", "can_cu": [], "moc_gio": "01:04:11", "chac": true, "trich": "nếu nó gãy là nó sẽ gãy tiếp luôn chứ không hồi đâu. Cùng lắm hồi lên đâu đó khoảng 59k"},
+    {"gia": 86000, "gia_tren": null, "vai_tro": "khac", "huong": null, "khung": null, "can_cu": ["vùng bắt đầu chốt (DCA out) năm ngoái, chốt dần lên 120K"], "moc_gio": "01:01:06", "chac": true, "trich": "Eric chốt lời Bitcoin ở 86 ... chốt mãi lên đến 120"}
+  ]
+}

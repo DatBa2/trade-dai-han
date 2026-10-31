@@ -1,0 +1,39 @@
+{
+  "buoi": "2026-10-05_1013_5U5CVdTlwT8",
+  "gia_btc_luc_noi": 86000,
+  "dau_buoi": {
+    "huong_h4": "PHAN_VAN",
+    "trich": "§ Khung ngày: Mình nghĩ lực lượng bây giờ là 50 50 nhá. § H4: Muốn biết lên confirm thật hay lên giả vờ thì phải chờ nến đóng cửa."
+  },
+  "cuoi_buoi": {
+    "huong_h4": "GIAM",
+    "trich": "§ Diễn biến cuối buổi: Bitcoin vừa đóng một cây H4 đỏ; nhưng mình nghĩ cây này chắc chưa gãy liền đâu. H1 cũng xấu, H4 cũng xấu. Chắc phải hồi lên được khoảng vài trăm giá."
+  },
+  "doi_y_giua_buoi": true,
+  "huong_lon": {
+    "D1": "PHAN_VAN",
+    "W1": "TANG",
+    "chu_ky": "PHAN_VAN"
+  },
+  "hanh_dong": "dung_ngoai_cho_entry",
+  "duong_di": [
+    {
+      "huong": "TANG",
+      "dich": null,
+      "khung": "M5"
+    },
+    {
+      "huong": "GIAM",
+      "dich": 84000,
+      "khung": "H4"
+    }
+  ],
+  "dich_chinh": 84000,
+  "moc_sai": {
+    "gia": 87000,
+    "dieu_kien": "Ít nhất hai cây H4 đóng trên 87.000 mới confirm đi tiếp 90.000–92.000; một cây xanh chưa đủ."
+  },
+  "pha_vo_gia": "§ H4: kịch bản chờ phá cao tới khoảng 88.000 rồi nhanh chóng trở dưới 87.000/86.000; mới là tín hiệu sale. Chưa xác nhận cú 88.000 đã xảy ra.",
+  "do_chac": "vua",
+  "ghi_chu": "Đã đọc hết transcript. Giá khoảng 86.000. Đầu thật sự chờ hai hướng, không đơn thuần vì thiếu entry: hai H4 trên 87.000 mới tăng, mất 84.000 mới giảm rõ; cuối H4 đỏ làm nghiêng giảm sau hồi vài trăm giá. Không khẳng định đã đủ tín hiệu short: vẫn chờ fake out hoặc đóng thủng 84.000. Đường cuối buổi chỉ gán hồi ngắn không rõ đích→test 84.000; nếu gãy 84.000 mới xét 81.000/82.000/80.000, không tự ghép thành tất yếu. Kịch bản đẹp 88.000→82.000 trước đó là nhánh điều kiện. Chu kỳ: vẫn hy vọng 30.000–40.000 nhưng tự nói kỹ thuật hiện chưa có cơ sở, W1 đang tăng; gán PHAN_VAN thay vì coi hy vọng là dự báo chắc."
+}

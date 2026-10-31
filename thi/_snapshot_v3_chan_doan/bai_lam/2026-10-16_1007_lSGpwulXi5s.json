@@ -1,0 +1,100 @@
+{
+ "buoi": "2026-10-16_1007_lSGpwulXi5s",
+ "ngay": "2026-10-16",
+ "gio_vn": "10:07",
+ "gia_btc_luc_noi": 82118,
+ "nhan_dinh": [
+  {
+   "khung": "H4",
+   "huong": "PHAN_VAN",
+   "do_chac": "vua",
+   "dich": null,
+   "han": "qua cuối tuần, tới nến tuần đóng 07:00 thứ Hai 19/10",
+   "han_gio": 68,
+   "vo_hieu_khi": "Chờ nến H4 đóng: đóng trên 83.200 (lấy lại EMA89 H4 + đỉnh 83) mới tính long; đóng dưới 81.500 (mất đáy H4 81.69 + Fibo 0.5 nhịp hồi) mới tính short lại. Ở giữa 81.5–83.2 đứng ngoài.",
+   "kich_ban_phu": "Cuối tuần thanh khoản mỏng, thứ Sáu khó đánh: nhiều khả năng sideway 81.5–83 chờ nến tuần đóng",
+   "duong_di": null,
+   "doi_y": null,
+   "ly_do": [
+    "Đích GIẢM 79–80 của hôm qua đã chạm (râu 79.775 lúc PPI) → xong việc, phải view lại",
+    "Giá rút chân rất nhanh 79.8 → 82.4 trong 1 cây H4: đúng kịch bản 'về 79 rồi rút chân lên trên 80 vẫn ok', 'bật nhanh thì ok'",
+    "H4 kẹp giữa EMA200 (82.05) bên dưới và EMA89 (83.15) bên trên, 3 cây H4 sau PPI thân nhỏ, đi ngang → chưa cây nào xác nhận",
+    "Nhịp hồi đã lên đúng vùng 82–83 quét thanh khoản như hôm qua nói, giờ mới phải tìm xu hướng; thứ Sáu + Fed phát biểu → 50-50 không tham gia"
+   ],
+   "trich": null
+  },
+  {
+   "khung": "D1",
+   "huong": "PHAN_VAN",
+   "do_chac": "thap",
+   "dich": null,
+   "han": "chờ nến D1/W1 đóng đầu tuần sau",
+   "han_gio": 72,
+   "vo_hieu_khi": "D1 đóng trên 83.200 (trên dải EMA34 D1) mới quay lại tăng; D1 đóng dưới 79.700 (thủng râu PPI) mới tiếp tục về 76–77",
+   "kich_ban_phu": "Nghiêng giảm vẫn còn vì đỉnh D1 thấp dần 87 → 84 → 82.6, nhưng chưa có nến xác nhận",
+   "duong_di": null,
+   "doi_y": null,
+   "ly_do": [
+    "D1 15/10 là cây rút chân dài 2.34%, đóng xanh 82.23 ngay EMA34 D1 → lực mua ở 80 còn mạnh",
+    "Giá nằm trong dải EMA34 D1 (80.85–83.1) = vùng công tắc khung ngày",
+    "Không về tới 78 như lo ngại, chưa có lower low đóng cửa dưới 80.4"
+   ],
+   "trich": null
+  },
+  {
+   "khung": "W1",
+   "huong": "TANG",
+   "do_chac": "thap",
+   "dich": [90000, 93000],
+   "han": "2–4 tuần",
+   "han_gio": 504,
+   "vo_hieu_khi": "Nến tuần đóng dưới 82.000 (07:00 thứ Hai 19/10)",
+   "kich_ban_phu": "Muốn giữ mục tiêu 90 thì phải lấy lại 84–85 sớm; không lấy lại được thì mục tiêu 90 càng xa",
+   "duong_di": null,
+   "doi_y": null,
+   "ly_do": [
+    "Giữ view tuần vì nến tuần chưa đóng; râu tuần quét 79.8 đã test EMA89 tuần 79.4 / râu tuần cũ 80",
+    "Giá vẫn trên dải EMA34 tuần (72.8–79.3) và EMA89 tuần",
+    "Độ chắc thấp: nến tuần đang −2%, đóng sát 82"
+   ],
+   "trich": null
+  }
+ ],
+ "vung_gia": {
+  "khang_cu": [82650, 83200, 84000, 85000],
+  "ho_tro": [81500, 80400, 79800, 77200]
+ },
+ "lenh": [],
+ "hanh_dong": "dung_ngoai_vi_lap_lung",
+ "giu_view": false,
+ "ly_do_doi_view": "(b) Giá đã chạm đích 79–80 của view GIẢM hôm qua (râu 79.775 lúc PPI) → xong việc, rồi rút chân nhanh lên 82.4 đúng kịch bản 'bật nhanh thì ok'. View lại từ khung lớn: H4 kẹp giữa MA200 và MA89, chuyển sang PHÂN VÂN chờ nến đóng.",
+ "rau": {
+  "tren": "82.643 (H4 mở 19:00 15/10) — đỉnh nhịp hồi, chạm Fibo 0.618 (82.48) của nhịp 84.15 → 79.78 rồi bị đẩy xuống",
+  "duoi": "79.775 (H4 mở 19:00 15/10, cũng là râu dưới D1 15/10) — quét thủng 80/80.4 lúc PPI rồi rút chân ~2.6K giá",
+  "test_lai": "Râu trên 82.64: CÓ — sát giá, trùng Fibo 0.618 + EMA34 H4 82.2–83.1, cụm thanh lý 82–83 còn đó. Râu dưới 79.775: CÓ nhưng chỉ khoảng nửa râu (về 80.2–80.5) — râu D1 dài chưa test, trùng đáy D1 80.4 + EMA610 D1 79.5 + Fibo 0.618 khung ngày 80.36; chưa phải ngay hôm nay."
+ },
+ "vung_on": [
+  {
+   "loai": "SHORT",
+   "khoang": [83000, 83500],
+   "ly_do": [
+    "EMA89 H4 83.15 + mép trên dải EMA34 H4 83.13",
+    "Fibo 0.786 nhịp giảm H4 84.15 → 79.78 ở 83.21",
+    "Đỉnh 83 khung ngày (đỉnh sau thấp hơn đỉnh trước, nêu 15/10)",
+    "Hỗ trợ cũ 83 đã gãy thành kháng cự"
+   ]
+  },
+  {
+   "loai": "LONG",
+   "khoang": [79800, 80400],
+   "ly_do": [
+    "Râu PPI 79.775 + đáy D1 80.4 (08/10)",
+    "Fibo 0.618 sóng ngày 76.0 → 87.4 ở 80.36; Fibo 0.618 H4 ~79 (nêu 15/10)",
+    "EMA610 D1 79.48 + EMA89 tuần 79.43",
+    "Râu tuần cũ 80 — hỗ trợ khung tuần"
+   ]
+  }
+ ],
+ "pha_vo_gia": "Cú thủng 80 lúc PPI tối qua là quét dụ short: chỉ có râu chọc 79.775, thân H4 đóng lại 82.4 (G1), quét đúng chỗ SL phe long dưới 80/80.4 (G4), xảy ra ngay giờ tin 19:30 phiên Mỹ (G6 + G9). Không đánh short theo cú thủng đó.",
+ "loi_binh": "Hôm qua mình nói về 79–80 là xong, và nó về đúng 79.7 rồi rút chân cái vèo lên 82, đủ mồm thì chốt rồi anh em. Giờ giá kẹp giữa MA200 H4 ở 82 với MA89 ở 83, ba cây H4 đứng im, hôm nay thứ Sáu lại có Fed phát biểu. Long không được short không xong thì làm gì? Xem livestream. H4 đóng trên 83.2 thì mình tính tiếp lên 84–85, đóng dưới 81.5 thì quay lại short về 80, còn giờ 50-50 là mình không tham gia, không vào giữa."
+}

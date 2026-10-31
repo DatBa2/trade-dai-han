@@ -1,0 +1,316 @@
+{
+  "buoi": "2026-09-30_1003_3qAxAK71YAs",
+  "ngay": "2026-09-30",
+  "gia_btc_luc_noi": 83000,
+  "moc": [
+    {
+      "gia": 84600,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "Short Max Pain Coinglass"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": false,
+      "trich": "Short Max Pain của Bitcoin là 84.600 [?]"
+    },
+    {
+      "gia": 82100,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "Long Max Pain Coinglass"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Long Max Pain là 82.100"
+    },
+    {
+      "gia": 82000,
+      "gia_tren": 83000,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "W1",
+      "can_cu": [
+        "hỗ trợ cứng khung tuần",
+        "đã đỡ giá từ đầu tuần"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "chúng ta đang ở vùng hỗ trợ quan trọng là 82 đến 83.000... đây là vùng hỗ trợ cứng trên khung tuần"
+    },
+    {
+      "gia": 82000,
+      "gia_tren": null,
+      "vai_tro": "entry",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "quét về điểm mỏng nhất, dưới MA34 H4"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "khả năng vẫn phải có một pha quét về đâu đó khoảng 82.000... Đó là điểm mỏng nhất mà thị trường nên quét về"
+    },
+    {
+      "gia": 80000,
+      "gia_tren": null,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": "H4",
+      "can_cu": [
+        "vùng tâm lý chẵn, nhiều người chờ entry"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Thị trường đang chờ đợi rất nhiều quanh vùng 80 — vùng tâm lý chẵn... nếu market muốn đẩy lên thì nó sẽ không bao giờ về 80"
+    },
+    {
+      "gia": 81000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "râu nến quét sâu nhất"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": false,
+      "trich": "căng nữa thì đẩy một cái râu nến đâu đó khoảng 81.00 [?] thôi, rồi bật lên luôn 90"
+    },
+    {
+      "gia": 90000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "bật từ 82"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "rồi bật lên luôn 90"
+    },
+    {
+      "gia": 82000,
+      "gia_tren": null,
+      "vai_tro": "vo_hieu",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "giá đóng cửa dưới 82.000"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Còn nếu giá đóng cửa dưới 82.000 thì gần như 80 không có ý nghĩa"
+    },
+    {
+      "gia": 76000,
+      "gia_tren": 80000,
+      "vai_tro": "ho_tro",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [
+        "vùng base tạm thời, đã tái tích lũy"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "thủng 82.000 thì 80 hay 79 chỉ mang ý nghĩa là vùng base tạm thời... tái tích lũy tiếp ở quanh 76, 79, 80"
+    },
+    {
+      "gia": 60000,
+      "gia_tren": 65000,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "W1",
+      "can_cu": [
+        "phá ra khỏi vùng 76 đi xuống"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "dần dần phá ra khỏi vùng 76 và đi xuống những vùng thấp hơn, 60 – 65"
+    },
+    {
+      "gia": 81500,
+      "gia_tren": 82500,
+      "vai_tro": "entry",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "vùng chủ lực đánh lên"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": false,
+      "trich": "nếu đánh nhịp xu hướng tăng tiếp thì hiện tại mình vẫn chờ vùng từ khoảng 82.500 [?] đến 81.500. Đây là vùng chủ lực nếu muốn đánh lên"
+    },
+    {
+      "gia": 84000,
+      "gia_tren": 85000,
+      "vai_tro": "khang_cu",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "confirm sóng tăng tiếp"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Để confirm nhịp sóng tăng tiếp thì phải trên 84 cho đến 85"
+    },
+    {
+      "gia": 85000,
+      "gia_tren": 92000,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "đánh lại trên 85"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "đánh một nhịp từ 85 đến 92 là cũng khá thơm rồi"
+    },
+    {
+      "gia": 83000,
+      "gia_tren": 85000,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": "H4",
+      "can_cu": [
+        "vùng bất động"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "chúng ta có một vùng gần như là bất động từ 83.000 đến 85.000"
+    },
+    {
+      "gia": 84000,
+      "gia_tren": null,
+      "vai_tro": "dinh_cu",
+      "huong": null,
+      "khung": "H1",
+      "can_cu": [
+        "râu đêm qua quét stop loss"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Đêm hôm qua nó lên đến 84"
+    },
+    {
+      "gia": 80500,
+      "gia_tren": 81000,
+      "vai_tro": "sl",
+      "huong": "TANG",
+      "khung": "H1",
+      "can_cu": [
+        "SL dưới entry 1500 giá, nến H1 đóng cửa"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "SL đâu đó dưới entry 1500 giá, tức khoảng dưới 81.000 cho đến 80.500"
+    },
+    {
+      "gia": 80500,
+      "gia_tren": 81500,
+      "vai_tro": "sl",
+      "huong": "TANG",
+      "khung": "H1",
+      "can_cu": [
+        "SL long quanh 82, theo nến H1 đóng"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Long ở quanh 82 thì... SL trong vùng khoảng 81.500 cho đến 80.500 tùy theo nến H1 đóng cửa"
+    },
+    {
+      "gia": 64000,
+      "gia_tren": 75000,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [
+        "các vùng hỗ trợ lần lượt 80, 79, 76, 75, 72, 69, 64"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "xác suất nó rơi tiếp 80, rồi 79, 76, 75; thủng 75 lại về tiếp 72, thủng 72 về 69, thủng 69 về 64"
+    },
+    {
+      "gia": 82500,
+      "gia_tren": null,
+      "vai_tro": "khac",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "PCE ra 0.2 tạo đáy"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": false,
+      "trich": "Còn nếu ra 0.2 thì khả năng tạo đáy quanh vùng hiện tại hoặc 82.500 [?]"
+    },
+    {
+      "gia": 82000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý / heatmap dưới 82.000"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": false,
+      "trich": "dưới này vẫn là 82.000 [?]. Bên này có một vùng khoảng 82.00 [?], 8100 [?]"
+    },
+    {
+      "gia": 70000,
+      "gia_tren": null,
+      "vai_tro": "khac",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "SL của nhóm tiền lớn giữ 10% lãi (người nói lấy ví dụ)"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Họ có thể đưa SL về giữ 10% lãi, ví dụ về 70.000"
+    },
+    {
+      "gia": 75000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "người xem hỏi quét lại 75"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": false,
+      "trich": "Bao nhiêu ngày nữa thì quét lại 75? Không biết"
+    }
+  ]
+}

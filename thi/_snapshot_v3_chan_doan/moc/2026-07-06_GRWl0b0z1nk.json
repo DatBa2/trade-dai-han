@@ -1,0 +1,258 @@
+{
+  "buoi": "2026-07-06_GRWl0b0z1nk",
+  "ngay": "2026-07-06",
+  "gia_btc_luc_noi": 62500,
+  "moc": [
+    {
+      "gia": 64000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [
+        "MA34 D1",
+        "MA200 H4",
+        "Fibo của đoạn giảm (không nói rõ kéo từ đâu)"
+      ],
+      "moc_gio": "00:26:02",
+      "chac": true,
+      "trich": "Vùng 64... vừa MA34 trên khung D1, vừa MA200 trên khung H4, vừa Fibo của đoạn này xuống đoạn này nữa. Đây là ba cái cản"
+    },
+    {
+      "gia": 64000,
+      "gia_tren": null,
+      "vai_tro": "tp",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "MA200 H4"
+      ],
+      "moc_gio": "00:32:04",
+      "chac": true,
+      "trich": "TP quanh 64 chốt là phù hợp, ăn được khoảng gần 1000 giá"
+    },
+    {
+      "gia": 60500,
+      "gia_tren": null,
+      "vai_tro": "entry",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "MA89 H4"
+      ],
+      "moc_gio": "00:28:11",
+      "chac": true,
+      "trich": "cố gồng lệnh sell ở 60.500... cây H4 qua khỏi 61 thì đừng giữ lệnh short"
+    },
+    {
+      "gia": 61000,
+      "gia_tren": null,
+      "vai_tro": "vo_hieu",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "H4 đóng trên 61"
+      ],
+      "moc_gio": "00:28:47",
+      "chac": true,
+      "trich": "nếu vùng này đóng cây H4 qua khỏi 61 thì các bạn tốt nhất đừng giữ lệnh short nào nữa"
+    },
+    {
+      "gia": 67000,
+      "gia_tren": 68000,
+      "vai_tro": "vo_hieu",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "H4 đóng trên 64"
+      ],
+      "moc_gio": "00:29:21",
+      "chac": true,
+      "trich": "Nếu H4 đóng trên 64 thậm chí nó tiến đến khu vực 67 hoặc 68"
+    },
+    {
+      "gia": 61500,
+      "gia_tren": 62000,
+      "vai_tro": "entry",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "MA34 và MA89 H4 cắt nhau"
+      ],
+      "moc_gio": "00:30:24",
+      "chac": true,
+      "trich": "short khi H4 đóng xuyên... dưới 62.000 hay dưới 61.500, dưới vùng hai đường MA cắt qua nhau"
+    },
+    {
+      "gia": 62000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "GIAM",
+      "khung": "M30",
+      "can_cu": [
+        "MA200 M30 (tương đương MA610 M5)"
+      ],
+      "moc_gio": "00:32:37",
+      "chac": false,
+      "trich": "Tệ cũng test về MA200. MA200 của 30 phút tương đương khoảng MA610 của 5 phút"
+    },
+    {
+      "gia": 62800,
+      "gia_tren": 63000,
+      "vai_tro": "tp",
+      "huong": "GIAM",
+      "khung": "M5",
+      "can_cu": [],
+      "moc_gio": "00:33:12",
+      "chac": true,
+      "trich": "Gồng về đâu đó khoảng 63 hoặc 62.800. Còn sâu hơn nữa thì khoảng 62"
+    },
+    {
+      "gia": 62000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "M5",
+      "can_cu": [],
+      "moc_gio": "00:33:12",
+      "chac": true,
+      "trich": "Còn khi M5 thủng khỏi đường màu xanh nhỏ này thì lúc đó có thể gồng với 62"
+    },
+    {
+      "gia": 64000,
+      "gia_tren": 65000,
+      "vai_tro": "khac",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [],
+      "moc_gio": "00:30:56",
+      "chac": true,
+      "trich": "tối lại vòng lên 64 65"
+    },
+    {
+      "gia": 65700,
+      "gia_tren": null,
+      "vai_tro": "entry",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": "00:37:34",
+      "chac": false,
+      "trich": "Short BTC ở 65K7, nếu 65K thì còn xa mà kê ở đó thì cứ kê thôi"
+    },
+    {
+      "gia": 62000,
+      "gia_tren": null,
+      "vai_tro": "tp",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [],
+      "moc_gio": "00:49:59",
+      "chac": true,
+      "trich": "nhịp này xuống 62.000? 62.000 là cái vùng này... thủng khỏi 6200 thì có khi về 61 nghìn mấy mà gãy luôn"
+    },
+    {
+      "gia": 61000,
+      "gia_tren": null,
+      "vai_tro": "tp",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": "00:50:32",
+      "chac": true,
+      "trich": "TP1 61k. Xác suất ăn không cao, tỉ lệ R cũng không thơm lắm"
+    },
+    {
+      "gia": 67000,
+      "gia_tren": null,
+      "vai_tro": "vo_hieu",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": "00:54:31",
+      "chac": true,
+      "trich": "nếu bây giờ các bạn vào mà giá nó lên đến 67.000 thì sao... xác suất để giá lên 67 nó thấp"
+    },
+    {
+      "gia": 62000,
+      "gia_tren": 62900,
+      "vai_tro": "tp",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [],
+      "moc_gio": "00:58:10",
+      "chac": true,
+      "trich": "anh em nào đang short ở vùng trên này thì TP ở 6200 đến 629 là ok"
+    },
+    {
+      "gia": 60000,
+      "gia_tren": 61000,
+      "vai_tro": "entry",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": "01:00:25",
+      "chac": true,
+      "trich": "61 60 các thứ short vẫn dễ hơn là vùng này"
+    },
+    {
+      "gia": 50000,
+      "gia_tren": 59999,
+      "vai_tro": "entry",
+      "huong": "TANG",
+      "khung": "W1",
+      "can_cu": [],
+      "moc_gio": "00:47:18",
+      "chac": true,
+      "trich": "bắt đầu gom từ giá 50.000 được chưa? Được. Đầu 5x là có thể gom được"
+    },
+    {
+      "gia": 54000,
+      "gia_tren": null,
+      "vai_tro": "entry",
+      "huong": "TANG",
+      "khung": "W1",
+      "can_cu": [],
+      "moc_gio": "00:47:48",
+      "chac": true,
+      "trich": "Khoảng 54 cũng ok. Không cần chờ về giá chẵn quá... DCA"
+    },
+    {
+      "gia": 20000,
+      "gia_tren": null,
+      "vai_tro": "khac",
+      "huong": "TANG",
+      "khung": "W1",
+      "can_cu": [],
+      "moc_gio": "00:47:48",
+      "chac": true,
+      "trich": "cho dù trường hợp xấu nó về đâu đó khoảng 20.000 thì mình vẫn rất vui để mua"
+    },
+    {
+      "gia": 50000,
+      "gia_tren": 60000,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "W1",
+      "can_cu": [
+        "vùng giá đứng 224 ngày (8-9 tháng) khung tuần, 2 đáy tuần"
+      ],
+      "moc_gio": "00:20:15",
+      "chac": true,
+      "trich": "Giá đứng ở đây mất đâu đó 224 ngày, tức khoảng 8 9 tháng ở vùng 50 60 này"
+    },
+    {
+      "gia": 75000,
+      "gia_tren": 76000,
+      "vai_tro": "khang_cu",
+      "huong": "GIAM",
+      "khung": "W1",
+      "can_cu": [
+        "vùng lực bán mạnh trước đó, phân kỳ RSI"
+      ],
+      "moc_gio": "00:23:20",
+      "chac": false,
+      "trich": "lực bán ở vùng này không còn mạnh giống lực bán ở vùng 75 76"
+    }
+  ]
+}

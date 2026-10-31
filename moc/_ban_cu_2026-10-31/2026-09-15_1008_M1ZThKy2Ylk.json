@@ -1,0 +1,259 @@
+{
+  "buoi": "2026-09-15_1008_M1ZThKy2Ylk",
+  "ngay": "2026-09-15",
+  "gia_btc_luc_noi": 77500,
+  "moc": [
+    {
+      "gia": 79000,
+      "gia_tren": 80000,
+      "vai_tro": "khang_cu",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "Fibo (không nói rõ) trùng kháng cự bên tay trái",
+        "râu nến ngày thứ sáu",
+        "vùng test đêm qua lên 79.500"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "Đêm qua nó lên đến 79.500 thì cái vùng anh em chờ là chính xác... vừa là kháng cự bên tay trái, vừa là Fibo luôn"
+    },
+    {
+      "gia": 77000,
+      "gia_tren": 77200,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý / heatmap (long dồn nhiều)"
+      ],
+      "moc_gio": null,
+      "chac": false,
+      "trich": "Vùng 77.000 đến 77.200 đang dồn khối lượng thanh lý, số lượng lệnh long rất nhiều"
+    },
+    {
+      "gia": 76000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "cụm thanh lý (SL team long vào từ 78.900-77.x)",
+        "vùng hỗ trợ khung ngày"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "Vùng 76 này là của team long... stop loss của đám này nằm ở 76.000. Vùng 76 vẫn là vùng hỗ trợ"
+    },
+    {
+      "gia": 73000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "chưa xác nhận một nhịp gãy xuống những vùng sâu hơn, ví dụ 73"
+    },
+    {
+      "gia": 82000,
+      "gia_tren": 83000,
+      "vai_tro": "khang_cu",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "biên trên mô hình cờ / vùng sideway 76-82"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "Để lên được vùng 9x thì cần vượt qua vùng 80 đến 81, 82, 83. Thực sự phải đóng nến trên 83 thì mới gọi là uy tín"
+    },
+    {
+      "gia": 83000,
+      "gia_tren": 92000,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "break 82 xác nhận mô hình cờ"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "Lúc này confirm mô hình cờ và đánh lên, chúng ta có quyền đuổi theo từ 83 lên đến 92."
+    },
+    {
+      "gia": 82000,
+      "gia_tren": null,
+      "vai_tro": "vo_hieu",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [
+        "biên trên mô hình cờ"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "Mô hình cờ được xác nhận khi vượt qua 82, phải break ra được thằng 82."
+    },
+    {
+      "gia": 76000,
+      "gia_tren": null,
+      "vai_tro": "vo_hieu",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "biên dưới vùng 76-82"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "Còn nếu break 76 thì khả năng về test đâu đó khoảng vùng 75 cho đến 72."
+    },
+    {
+      "gia": 72000,
+      "gia_tren": 75000,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "break 76 thì khả năng về test đâu đó khoảng vùng 75 cho đến 72... vùng đầu tiên là 75, vùng thứ hai là 73"
+    },
+    {
+      "gia": 77000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "Fibo 0.5 nhịp tăng từ sáng qua đến đêm qua (mũi tên xanh)",
+        "cụm thanh lý 76/77"
+      ],
+      "moc_gio": null,
+      "chac": false,
+      "trich": "Hiện tại cũng là Fibo 0.5 của nhịp tăng từ sáng hôm qua đến đêm hôm qua... còn một hỗ trợ nữa ở khoảng 77.000, kết hợp dữ liệu thanh khoản"
+    },
+    {
+      "gia": 77000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "GIAM",
+      "khung": "M5",
+      "can_cu": [
+        "bản đồ thanh lý đậm 18-19 triệu"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "Bản đồ thanh lý khác cũng vẫn liquid ở 77.000, đậm hơn (18–19 triệu)"
+    },
+    {
+      "gia": 76000,
+      "gia_tren": 80000,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": "D1",
+      "can_cu": [
+        "biên sideway"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "vùng sideway từ 76 đến 80 / biên từ khoảng 76.000 lên 82.000"
+    },
+    {
+      "gia": 77000,
+      "gia_tren": null,
+      "vai_tro": "tp",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "Vùng TP thứ nhất là 77.000 và thứ hai là 76.000."
+    },
+    {
+      "gia": 76000,
+      "gia_tren": null,
+      "vai_tro": "tp",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "Vùng TP thứ nhất là 77.000 và thứ hai là 76.000."
+    },
+    {
+      "gia": 66000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "W1",
+      "can_cu": [],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "Chúng ta follow theo mốc 66."
+    },
+    {
+      "gia": 73000,
+      "gia_tren": 76000,
+      "vai_tro": "entry",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "Kịch bản khó chơi nhất là nó về đến khoảng 73 lưng chừng rồi bắt đầu đi lên: chỉ đánh được từ 73 lên khoảng 76 hoặc 77"
+    },
+    {
+      "gia": 77000,
+      "gia_tren": 83000,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": null,
+      "can_cu": [
+        "vùng không đánh được"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "Từ vùng 77 cho đến 83 là mình không đánh được."
+    },
+    {
+      "gia": 69000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "W1",
+      "can_cu": [
+        "nếu Fed tăng lãi suất"
+      ],
+      "moc_gio": null,
+      "chac": false,
+      "trich": "Nếu tăng lãi suất thì mình nghĩ là đi về nơi bắt đầu luôn, có thể về 69 hay sáu mấy luôn."
+    },
+    {
+      "gia": 70000,
+      "gia_tren": 79999,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "đóng thủng Fibo H4 (không nói rõ)"
+      ],
+      "moc_gio": null,
+      "chac": false,
+      "trich": "đóng thủng luôn Fibo này thì anh em biết điểm đến tiếp theo rồi, khả năng là bảy mươi mấy dưới này rất cao"
+    },
+    {
+      "gia": 65000,
+      "gia_tren": null,
+      "vai_tro": "day_cu",
+      "huong": "TANG",
+      "khung": "W1",
+      "can_cu": [
+        "backtest sóng tuần, râu nến quét"
+      ],
+      "moc_gio": null,
+      "chac": false,
+      "trich": "Ví dụ BTC backtest ở vùng 65 và đứng mãi ở đó đến cuối năm... (ví dụ minh họa quá khứ/giả định)"
+    }
+  ]
+}

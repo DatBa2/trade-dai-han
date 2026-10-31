@@ -1,0 +1,313 @@
+{
+  "buoi": "2026-06-22_eaj9NEm85O4",
+  "ngay": "2026-06-22",
+  "gia_btc_luc_noi": 65500,
+  "moc": [
+    {
+      "gia": 65500,
+      "gia_tren": null,
+      "vai_tro": "tp",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": "00:04:38",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Đang 65.5 này, anh em nào long ăn ngắn TP1 thì ăn ở đây cũng được"
+    },
+    {
+      "gia": 67000,
+      "gia_tren": null,
+      "vai_tro": "tp",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "MA200 H4 vùng 67-68",
+        "đỉnh hôm trước 67.000"
+      ],
+      "moc_gio": "00:04:38",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "tệ thì nó cũng lên MA200 chỗ này, lên lại test 67... ăn dài thì TP ở vùng 67"
+    },
+    {
+      "gia": 68000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "MA200 H4"
+      ],
+      "moc_gio": "00:04:04",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "nhịp này hoàn toàn có thể kéo lên tận 68"
+    },
+    {
+      "gia": 64000,
+      "gia_tren": null,
+      "vai_tro": "entry",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "Fibo 0.5 H4",
+        "MA89 H4"
+      ],
+      "moc_gio": "00:05:41",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "hồi về lại vùng Fibo 0.5 này thì có thể long lại. Ở vùng 64"
+    },
+    {
+      "gia": 69000,
+      "gia_tren": null,
+      "vai_tro": "entry",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "Fibo mở rộng 1.618",
+        "MA200 H4"
+      ],
+      "moc_gio": "00:05:08",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "67 mình nghĩ chưa nên short. 69 mới short đẹp"
+    },
+    {
+      "gia": 50000,
+      "gia_tren": 59999,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "W1",
+      "can_cu": [
+        "test râu nến tuần dưới"
+      ],
+      "moc_gio": "00:07:53",
+      "tai_san": "BTC",
+      "chac": false,
+      "trich": "test lại cái râu dưới này, khả năng cắm sâu về vùng 5x"
+    },
+    {
+      "gia": 63000,
+      "gia_tren": null,
+      "vai_tro": "vo_hieu",
+      "huong": "TANG",
+      "khung": "W1",
+      "can_cu": [
+        "điểm đóng nến tuần/ngày (bốn thân nến tuần đóng ở 63.000)",
+        "Fibo"
+      ],
+      "moc_gio": "00:18:10",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Khi nào nó đóng xuyên thấp hơn điểm đóng nến 63.000 này thì anh em mới quay lại góc nhìn short"
+    },
+    {
+      "gia": 70000,
+      "gia_tren": 71000,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "Fibo mở rộng khung ngày"
+      ],
+      "moc_gio": "00:10:01",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "một là vùng 71 70 này"
+    },
+    {
+      "gia": 75000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "Fibo mở rộng khung ngày"
+      ],
+      "moc_gio": "00:09:30",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "nếu buồn buồn nó kéo lên tận 75"
+    },
+    {
+      "gia": 65000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "Fibo 1 H4"
+      ],
+      "moc_gio": "00:10:32",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "đo Fibo này nó sẽ cho kết quả là 65.00 Fibo 1 và vùng thứ hai là ở 69"
+    },
+    {
+      "gia": 69000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "Fibo mở rộng 1.618 H4",
+        "MA200 H4"
+      ],
+      "moc_gio": "00:11:07",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "target là 69. Ở đây có MA200 thì có thể nó sẽ quét lên đến 69 thôi"
+    },
+    {
+      "gia": 62000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "Fibo 0.5 nhịp H4"
+      ],
+      "moc_gio": "00:10:32",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "nhịp vừa rồi test về 62 rất khớp với vùng Fibo 0.5"
+    },
+    {
+      "gia": 68000,
+      "gia_tren": null,
+      "vai_tro": "sl",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "mô hình cờ H4 (setup short của người khác)"
+      ],
+      "moc_gio": "00:12:47",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "short ở đây thì stop loss sẽ phải đặt ở trên này, 68.000"
+    },
+    {
+      "gia": 50000,
+      "gia_tren": null,
+      "vai_tro": "tp",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "mô hình cờ H4 (đo cán cờ)"
+      ],
+      "moc_gio": "00:12:47",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "TP của lệnh này sẽ phải là 50.000"
+    },
+    {
+      "gia": 69000,
+      "gia_tren": null,
+      "vai_tro": "sl",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": "00:15:26",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "stop loss của các bạn phải nằm trên 68 thậm chí 69. Còn TP sẽ phải ở 50"
+    },
+    {
+      "gia": 75000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "vùng trống thanh khoản"
+      ],
+      "moc_gio": "00:17:34",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "bên này trống thanh khoản... lỡ phóng lên tận 75 thì mới short được"
+    },
+    {
+      "gia": 20000,
+      "gia_tren": null,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": "D1",
+      "can_cu": [
+        "gap CME dưới 20.000"
+      ],
+      "moc_gio": "00:22:32",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Chỉ còn một gap 20.000"
+    },
+    {
+      "gia": 74000,
+      "gia_tren": 90000,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": null,
+      "can_cu": [
+        "gap CME trên: 74, 75, 78, 79, 83, 90"
+      ],
+      "moc_gio": "00:22:32",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "gap trên 74 75 78 79 83 90 tùm lum. 90 chắc mùa sau"
+    },
+    {
+      "gia": 64400,
+      "gia_tren": null,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý / heatmap mới"
+      ],
+      "moc_gio": "00:23:04",
+      "tai_san": "BTC",
+      "chac": false,
+      "trich": "cụm mới xuất hiện ở 400 này... Về quét 64 sau 4400 chúng ta lại có entry tốt"
+    },
+    {
+      "gia": 64000,
+      "gia_tren": 64600,
+      "vai_tro": "entry",
+      "huong": "TANG",
+      "khung": "M5",
+      "can_cu": [],
+      "moc_gio": "00:27:59",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "nếu gãy về khoảng 64.000 64.600 thì ngon"
+    },
+    {
+      "gia": 64000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "MA89 H4",
+        "Fibo 0.5"
+      ],
+      "moc_gio": "00:46:05",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "H4 phải giữ được trên MA89 vùng 64.000 thì khả năng tăng tiếp"
+    },
+    {
+      "gia": 40000,
+      "gia_tren": null,
+      "vai_tro": "entry",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": "00:40:15",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Chờ Bitcoin về 40.000 thì mua lấy số lượng"
+    }
+  ]
+}

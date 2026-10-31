@@ -1,0 +1,256 @@
+{
+  "buoi": "2026-05-05_Au_SuIIstcY",
+  "ngay": "2026-05-05",
+  "gia_btc_luc_noi": 81000,
+  "moc": [
+    {
+      "gia": 80000,
+      "gia_tren": 81000,
+      "vai_tro": "nhac_lai",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "gap CME 80-81 đã lấp xong (râu CME chạm 81.200)"
+      ],
+      "moc_gio": "00:06:36",
+      "chac": true,
+      "trich": "gap 80, 81 hiện tại đã được lấp xong"
+    },
+    {
+      "gia": 81000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "Fibo 0.618 (dự kiến)",
+        "chỉ cần trên 81.000"
+      ],
+      "moc_gio": "00:12:07",
+      "chac": false,
+      "trich": "Mình nghĩ là phải lên trên 81.000. Chắc khoảng 81.000 năm thì ok hơn"
+    },
+    {
+      "gia": 83000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "Fibo 0.618 (đã vẽ ~2 tháng, giá đã trên 0.5)"
+      ],
+      "moc_gio": "00:12:07",
+      "chac": true,
+      "trich": "Hoặc là ở đây lên 83 này các bạn. Fibo ở đây là 83. Fibo 0.618"
+    },
+    {
+      "gia": 90000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "mục tiêu căng",
+        "từ 83 và 90"
+      ],
+      "moc_gio": "00:15:56",
+      "chac": true,
+      "trich": "mục tiêu căng của nó thì như hôm trước mình nói nhiều lần là 83 và 90"
+    },
+    {
+      "gia": 66000,
+      "gia_tren": 68000,
+      "vai_tro": "nhac_lai",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "vùng mua BTC trong plan"
+      ],
+      "moc_gio": "00:15:23",
+      "chac": true,
+      "trich": "đa phần nằm ở khoảng 66, 68"
+    },
+    {
+      "gia": 81800,
+      "gia_tren": 82000,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "MA200 D1"
+      ],
+      "moc_gio": "00:16:59",
+      "chac": true,
+      "trich": "lên được 82. 81.800 cho đến 82 bởi vì MA200 sẽ lên được cỡ vùng này"
+    },
+    {
+      "gia": 82000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "MA200 D1 (đường tím)"
+      ],
+      "moc_gio": "00:21:01",
+      "chac": true,
+      "trich": "82 là đường MA màu tím này, MA200 của khung ngày"
+    },
+    {
+      "gia": 83000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "Fibo 0.618"
+      ],
+      "moc_gio": "00:21:01",
+      "chac": true,
+      "trich": "83 là Fibo 0.618"
+    },
+    {
+      "gia": 79800,
+      "gia_tren": null,
+      "vai_tro": "tp",
+      "huong": "TANG",
+      "khung": "H1",
+      "can_cu": [
+        "TP2 lệnh long hôm qua, Fibo test về đáy"
+      ],
+      "moc_gio": "00:24:47",
+      "chac": true,
+      "trich": "TP2 nằm ở đây 7980 là xong"
+    },
+    {
+      "gia": 81200,
+      "gia_tren": null,
+      "vai_tro": "nhac_lai",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "gap CME 81.200 đã lấp (râu CME)"
+      ],
+      "moc_gio": "00:26:30",
+      "chac": true,
+      "trich": "cây râu này nó về là 81.200 đúng không? Ở trên CME"
+    },
+    {
+      "gia": 92000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "gap 92 (gap 90-92 cũ chưa lấp)"
+      ],
+      "moc_gio": "00:27:33",
+      "chac": true,
+      "trich": "Gap 90 này. 92 chứ. 92"
+    },
+    {
+      "gia": 69000,
+      "gia_tren": 70000,
+      "vai_tro": "ho_tro",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [
+        "gap CME 69-70 chưa lấp"
+      ],
+      "moc_gio": "00:27:33",
+      "chac": true,
+      "trich": "một cái ở 70 này. 69, 70"
+    },
+    {
+      "gia": 67000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [
+        "gap CME 67 chưa lấp"
+      ],
+      "moc_gio": "00:27:33",
+      "chac": true,
+      "trich": "một cái thấp hơn nữa ở 67 này"
+    },
+    {
+      "gia": 78000,
+      "gia_tren": 78500,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "M15",
+      "can_cu": [
+        "gap M15 chưa lấp (chỉ về 78.500)"
+      ],
+      "moc_gio": "00:28:05",
+      "chac": true,
+      "trich": "Nó phải về được đến 78.000 kìa nhưng nó chỉ về đến 78.500"
+    },
+    {
+      "gia": 70000,
+      "gia_tren": null,
+      "vai_tro": "vo_hieu",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "thủng 70 thì hết trend tăng"
+      ],
+      "moc_gio": "00:33:36",
+      "chac": true,
+      "trich": "Mình nghĩ là sẽ phải thủng 70"
+    },
+    {
+      "gia": 81200,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý / heatmap (thanh khoản lớn 81.200)"
+      ],
+      "moc_gio": "00:34:38",
+      "chac": true,
+      "trich": "một vùng thanh khoản rất lớn ở 81.000 200"
+    },
+    {
+      "gia": 91000,
+      "gia_tren": 92000,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "gap 91-92"
+      ],
+      "moc_gio": "00:29:45",
+      "chac": true,
+      "trich": "Nó vẫn lên gap 91, 92"
+    },
+    {
+      "gia": 86000,
+      "gia_tren": 90000,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "vùng trống thanh khoản"
+      ],
+      "moc_gio": "01:04:09",
+      "chac": false,
+      "trich": "trống thanh khoản có thể biết đâu nó kéo lên được 86, 86 90"
+    },
+    {
+      "gia": 20000,
+      "gia_tren": null,
+      "vai_tro": "day_cu",
+      "huong": "GIAM",
+      "khung": "W1",
+      "can_cu": [
+        "lấp gap CME 20.000 (cuối năm hoặc đầu năm sau)"
+      ],
+      "moc_gio": "00:47:47",
+      "chac": true,
+      "trich": "View cá nhân cuối năm về lấp gap 20.000 còn không? Vẫn còn"
+    }
+  ]
+}

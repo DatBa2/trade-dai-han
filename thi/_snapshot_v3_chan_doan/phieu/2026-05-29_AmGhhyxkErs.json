@@ -1,0 +1,71 @@
+{
+  "buoi": "2026-05-29_AmGhhyxkErs",
+  "ngay": "2026-05-29",
+  "gio_vn": "10:00",
+  "gia_btc_luc_noi": 73000,
+  "nhan_dinh": [
+    {
+      "khung": "H4",
+      "huong": "GIAM",
+      "do_chac": "vua",
+      "dich": [71000, 71500],
+      "han": null,
+      "han_gio": null,
+      "vo_hieu_khi": "đóng nến qua 78.000 mới có thể lên 8x-90",
+      "kich_ban_phu": "lực yếu thì gãy luôn về 71.500 rồi mới hồi; hoặc hồi lên 74-75 (test MA H4 + MA200 + gap + Fibo) rồi mới điều chỉnh xuống",
+      "ly_do": ["H4 xu hướng giảm rất rõ, MA xa giá nên có thể lên test MA ở khoảng 75", "74-75 trùng gap H1, M30, H4, D1, Fibo", "hỗ trợ sát nhất 71-71.500 (Fibo 0.5), xa hơn 68-69 (Fibo 0.618)"],
+      "trich": "tất cả những nhịp mà nó đi từ đây lên 75 thì đều là những nhịp hồi quang phản chiếu thôi. Tức là những nhịp hồi trong xu hướng giảm.",
+      "doi_y": null,
+      "duong_di": [
+        {"huong": "TANG", "dich": 75000},
+        {"huong": "GIAM", "dich": 71500}
+      ]
+    },
+    {
+      "khung": "D1",
+      "huong": "GIAM",
+      "do_chac": "cao",
+      "dich": [71000, 71500],
+      "han": null,
+      "han_gio": null,
+      "vo_hieu_khi": "vượt cản 77.000-78.000",
+      "kich_ban_phu": "xấu hơn thì 68.000-69.000 (Fibo 0.618)",
+      "ly_do": ["ba nến ngày đỏ liên tục", "đỉnh đáy sau thấp hơn trước, mô hình vai đầu vai", "nhịp hồi chỉ là backtest rồi tiếp tục xuống"],
+      "trich": "Khung ngày là xu hướng giảm. Vùng hỗ trợ sát nhất bây giờ là 71.000 đến 71.500.",
+      "doi_y": null,
+      "duong_di": null
+    },
+    {
+      "khung": "H1",
+      "huong": "PHAN_VAN",
+      "do_chac": "thap",
+      "dich": [74000, 75000],
+      "han": null,
+      "han_gio": null,
+      "vo_hieu_khi": "thủng đáy 72.000 thì tuột",
+      "kich_ban_phu": "giữ được đáy thì ít nhất lên 74 hoặc MA200 ở 75",
+      "ly_do": ["H1 đang tạo đỉnh đáy cao dần nhưng chỉ là test MA", "trường phái an toàn chờ xu hướng M30/H1 rõ hơn"],
+      "trich": "Thủng khỏi vùng này hoặc thủng khỏi đáy 72.000 này thì coi như là tuột.",
+      "doi_y": null,
+      "duong_di": null
+    }
+  ],
+  "vung_gia": {"khang_cu": [74000, 75000], "ho_tro": [71000, 72000]},
+  "lenh": [
+    {"chieu": "LONG", "loai": "test", "vao": null, "tp": null, "sl": null,
+     "trang_thai": "da_cat", "trich": "Lý do mình cho anh em long lệnh test lúc sáng ... thị trường xấu quá nó gãy và mất xu hướng thì bắt buộc chúng ta phải out như lệnh lúc sáng."},
+    {"chieu": "SHORT", "loai": "bot", "vao": null, "tp": [71000, 72000], "sl": null,
+     "trang_thai": "dang_giu", "trich": "Mình đang chờ về 72 71 gì đó, chốt con bot một phát cho nó sướng người"}
+  ],
+  "nhin_lai_truoc": "Lệnh treo hôm qua bị quét SL vì đêm qua kéo lên 74; sáng test long ở 10:00 rồi cắt vì mất xu hướng M5.",
+  "cong_cu": ["D1", "H4", "H1", "MA", "Fibo 0.5/0.618", "gap CME", "liquidation map/heatmap", "Fear and Greed", "BTC.D", "USDT.D"],
+  "tin_tuc": [{"tin": "Core PCE 0.2% thấp hơn kỳ vọng, GDP tăng", "danh_gia": "hợp lý hóa nhịp phục hồi hôm qua; từ giờ đến thứ hai không có tin"}],
+  "thoi_quen": ["dự kiến cả hai kịch bản (lên 75 hoặc gãy 70) và tìm cách sống ở cả hai", "ngược xu hướng H4 và D1 thì hạn chế, nếu test long nhỏ mà không ổn là gỡ ngay", "liquidation dùng để quản lý rủi ro, không dùng để vào lệnh", "thứ sáu rất khó đánh, hôm nay chủ yếu ngồi nhìn"],
+  "cau_cua_mieng": ["Đường nào chúng ta cũng phải tìm cách để tồn tại và sống ở trong các trường hợp đó.", "Bán ngay đỉnh mà mua ngay đáy đâu cần phải học cái gì cao xa."],
+  "altcoin": [
+    {"coin": "altcoin chung", "huong": "GIAM", "ghi": "BTC.D về hỗ trợ, phục hồi thì altcoin đổ máu; BTC giảm thì altcoin không sóng được"},
+    {"coin": "HYPE", "huong": null, "ghi": "đang cứng, D1 phân kỳ xa MA rất xấu, hết cơ hội trade"},
+    {"coin": "WLD", "huong": null, "ghi": "đừng múc ở giá này"}
+  ],
+  "ghi_chu": "Bản làm sạch không có giờ live; gio_vn mặc định 10:00. Nửa sau buổi là tranh luận cách đọc liquidation map. Vàng: MA34 cắt 89 xuống nhưng chưa gọi là downtrend."
+}

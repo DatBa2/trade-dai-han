@@ -1,0 +1,89 @@
+{
+ "von_gia_dinh": 1000.0,
+ "lenh": [
+  {
+   "ten": "BTC short (thuận xu hướng)",
+   "chieu": "SHORT",
+   "vao": [
+    78450,
+    78750
+   ],
+   "gia_tb": 78600.0,
+   "sl": 79650,
+   "sl_pct": 1.34,
+   "don_bay": 20,
+   "rui_ro_usd": 20.0,
+   "gia_tri_usd": 1497.1,
+   "ky_quy_usd": 74.9,
+   "so_luong": 0.01905,
+   "tp": [
+    76250,
+    75200
+   ],
+   "lai_tung_tp": [
+    22.4,
+    32.4
+   ],
+   "lai_tong": 53.3,
+   "R": 2.66,
+   "R_tp1": 2.24,
+   "phi": 1.5
+  },
+  {
+   "ten": "ETH short (thuận xu hướng)",
+   "chieu": "SHORT",
+   "vao": [
+    2290,
+    2305
+   ],
+   "gia_tb": 2297.5,
+   "sl": 2360,
+   "sl_pct": 2.72,
+   "don_bay": 20,
+   "rui_ro_usd": 10.0,
+   "gia_tri_usd": 367.6,
+   "ky_quy_usd": 18.4,
+   "so_luong": 0.16,
+   "tp": [
+    2185,
+    2120
+   ],
+   "lai_tung_tp": [
+    9.0,
+    14.2
+   ],
+   "lai_tong": 22.8,
+   "R": 2.28,
+   "R_tp1": 1.8,
+   "phi": 0.4
+  },
+  {
+   "ten": "BTC long lướt 75K (ngược xu hướng)",
+   "chieu": "LONG",
+   "vao": [
+    75050,
+    75350
+   ],
+   "gia_tb": 75200.0,
+   "sl": 74150,
+   "sl_pct": 1.4,
+   "don_bay": 20,
+   "rui_ro_usd": 10.0,
+   "gia_tri_usd": 716.2,
+   "ky_quy_usd": 35.8,
+   "so_luong": 0.00952,
+   "tp": [
+    76250,
+    77700
+   ],
+   "lai_tung_tp": [
+    5.0,
+    11.9
+   ],
+   "lai_tong": 16.2,
+   "R": 1.62,
+   "R_tp1": 1.0,
+   "phi": 0.7
+  }
+ ]
+}

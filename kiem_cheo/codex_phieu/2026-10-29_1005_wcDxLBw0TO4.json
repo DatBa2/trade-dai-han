@@ -1,0 +1,39 @@
+{
+  "buoi": "2026-10-29_1005_wcDxLBw0TO4",
+  "gia_btc_luc_noi": null,
+  "dau_buoi": {
+    "huong_h4": "GIAM",
+    "trich": "§ Mở đầu: Thế thì cái vùng giá 77.00[?] cho đến 78.00[?], đó là một trong những vùng rất dễ quét về, anh em nên thận trọng."
+  },
+  "cuoi_buoi": {
+    "huong_h4": "GIAM",
+    "trich": "§ Cập nhật sau khi H4 đóng: Anh em cứ follow theo plan lúc nãy mình đưa ... vẫn kịch bản cũ, khả năng chạy lên đây, test lại vùng này rồi đi xuống, hoặc test vùng 80.500"
+  },
+  "doi_y_giua_buoi": false,
+  "huong_lon": {
+    "D1": "GIAM",
+    "W1": "GIAM",
+    "chu_ky": "GIAM"
+  },
+  "hanh_dong": "dung_ngoai_cho_entry",
+  "duong_di": [
+    {
+      "huong": "TANG",
+      "dich": 80500,
+      "khung": "M5"
+    },
+    {
+      "huong": "GIAM",
+      "dich": null,
+      "khung": "H4"
+    }
+  ],
+  "dich_chinh": null,
+  "moc_sai": {
+    "gia": null,
+    "dieu_kien": "Lấy lại và giữ phía trên cụm ba MA H4 thì cụm kháng cự đổi thành hỗ trợ; không cho giá/điều kiện đóng nến chính xác để vô hiệu view giảm."
+  },
+  "pha_vo_gia": "§ Mở đầu/Tin Fed: sau tin lên test 81.700 rồi gãy được gọi là những pha kéo lên rất trap, không phải xác nhận đảo tăng.",
+  "do_chac": "cao",
+  "ghi_chu": "Đã đọc hết transcript. Không lấy 81.000 tiêu đề làm giá hiện tại vì trong buổi đã nói quanh 79.000–80.000. Hiện tại không có entry mới; chờ hồi lên 80.000–80.500 rồi tính short, người có sell được TP bớt. Target chính vùng 78.000–77.000 nên null cho đích vùng. Nếu hai H4 thủng 77.000 mới tiếp tục 75.000 hoặc sâu hơn; sau nến đóng có nói 75/76 cũng được, nhưng vẫn yêu cầu follow plan cũ nên không bỏ điều kiện thủng 77.000. W1 đang được gọi Diamond phân phối đỉnh sau nến đóng, chọn GIAM; chu kỳ downtrend tới giữa 2027/xấu nhất hết 2027. Không coi hồi M5 là đổi H4."
+}

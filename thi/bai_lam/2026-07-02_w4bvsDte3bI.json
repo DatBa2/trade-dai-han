@@ -1,0 +1,124 @@
+{
+ "buoi": "2026-07-02_w4bvsDte3bI",
+ "ngay": "2026-07-02",
+ "gio_vn": "09:57",
+ "gia_btc_luc_noi": 61066,
+ "nhan_dinh": [
+  {
+   "khung": "H4",
+   "huong": "TANG",
+   "do_chac": "thap",
+   "dich": [63300, 64400],
+   "han": "hết thứ Bảy 04/07 (tối nay 19:30 non-farm: trước tin đi ngang/backtest, sau tin mới chạy)",
+   "han_gio": 60,
+   "vo_hieu_khi": "H4 đóng dưới 60.000 (mất lại số 60 + EMA34 H4 ~60.0 + Fibo 0.382 nhịp tăng 59.99)",
+   "kich_ban_phu": "hồi kỹ thuật thôi: chặng 1 backtest 60.3–60.5 (vùng vừa phá + dải EMA34 H4) rồi chặng 2 lên test EMA34 D1/Fibo 0.618 63.3–64.4, tới đó là vùng short",
+   "duong_di": [
+    {"huong": "GIAM", "dich": 60400},
+    {"huong": "TANG", "dich": 63800}
+   ],
+   "doi_y": null,
+   "ly_do": [
+    "H4 07:00 đóng 61.066 trên mốc 61.000 đã báo hôm qua ('H4 đóng trên 61 thì có hy vọng hồi 64–66') → bật công tắc hồi",
+    "Giá đã lên trên dải EMA34 H4 (59.5–60.45), đỉnh H4 60.8/60.95 bị đóng vượt → đổi cấu trúc nhỏ",
+    "D1 hôm qua xanh +2.4% rút chân từ 57.8 → hôm nay không đánh ngược, chưa short",
+    "Giá xa EMA34 D1 (63.35–65.65) → hồi lên test MA; F&G 11 → 19, phe short bị quét",
+    "Chỉ là hồi kỹ thuật: D1/W1 dưới toàn bộ EMA, nến tháng 6 đỏ -20%"
+   ],
+   "trich": null
+  },
+  {
+   "khung": "D1",
+   "huong": "GIAM",
+   "do_chac": "vua",
+   "dich": [52000, 54000],
+   "han": "1–2 tuần (sau khi hồi xong 63–64)",
+   "han_gio": 240,
+   "vo_hieu_khi": "D1 đóng trên 65.700 (trên dải EMA34 D1 + đỉnh tuần 65.6–65.8)",
+   "kich_ban_phu": "hồi lên 63.3–64.4 test EMA34 D1 rồi mới gãy tiếp",
+   "duong_di": [
+    {"huong": "TANG", "dich": 63800},
+    {"huong": "GIAM", "dich": 54000}
+   ],
+   "doi_y": null,
+   "ly_do": [
+    "D1 dưới EMA34/89/200, đỉnh thấp đáy thấp",
+    "Nhịp tăng 57.8 → 61 mới hồi 0.34 sóng giảm 30 ngày, chưa tới 0.5–0.618",
+    "MA89 tháng ~52K, cờ D1 cán cờ 52–54 vẫn treo"
+   ],
+   "trich": null
+  },
+  {
+   "khung": "W1",
+   "huong": "GIAM",
+   "do_chac": "cao",
+   "dich": [52000, 54000],
+   "han": "2–4 tuần (tháng 7)",
+   "han_gio": 500,
+   "vo_hieu_khi": "nến tuần đóng trên 65.800",
+   "kich_ban_phu": "dài hạn 40K vùng discount, 28–30K nếu giảm 70–77% như mùa trước",
+   "duong_di": null,
+   "doi_y": null,
+   "ly_do": [
+    "Tuần dưới toàn bộ EMA tuần, EMA34/89 tuần đã cắt xuống",
+    "Nến tháng 6 đỏ nhất từ đầu năm, chưa bao giờ quay đầu bay ngay tháng sau",
+    "Chu kỳ: đỉnh 126K, downtrend mới khoảng nửa chặng"
+   ],
+   "trich": null
+  }
+ ],
+ "vung_gia": {
+  "khang_cu": [61500, 62000, 63300, 64400, 65700],
+  "ho_tro": [60400, 60000, 59500, 57800]
+ },
+ "lenh": [
+  {
+   "chieu": "LONG",
+   "loai": "limit",
+   "vao": 60350,
+   "tp": [62450, 63150],
+   "sl": 59450,
+   "trang_thai": "de_xuat_moi"
+  },
+  {
+   "chieu": "SHORT",
+   "loai": "limit",
+   "vao": 63650,
+   "tp": [61650, 60450],
+   "sl": 64950,
+   "trang_thai": "de_xuat_moi"
+  }
+ ],
+ "hanh_dong": "dung_ngoai_cho_entry",
+ "giu_view": false,
+ "ly_do_doi_view": "(a) Nến H4 07:00 đóng 61.066 trên mốc vô hiệu 61.000 đã báo hôm qua → H4 đổi sang hồi kỹ thuật (mới 1 cây, sát mốc nên độ chắc thấp). D1/W1 giữ giảm, không có gì đổi.",
+ "rau": {
+  "tren": "61.342 (H4 02/07 03:00, quét SL phe short trên 61 rồi rút về 60.0)",
+  "duoi": "59.583 (H4 02/07 07:00); xa hơn 57.809 (H4 01/07 07:00, đáy nhịp)",
+  "test_lai": "Râu trên 61.342 CÓ — giá đang ngay dưới, trùng EMA89 H4 61.47 + Fibo 0.382 D1 61.5 (R2), nhịp hồi sẽ vượt qua. Râu dưới 59.583 KHÔNG ở chặng này — dải EMA34 H4 60.0–60.45 chắn giữa, backtest chỉ về 60.3–60.5 (5.3). Râu 57.809 KHÔNG — đã quét long xong."
+ },
+ "vung_on": [
+  {
+   "loai": "LONG",
+   "khoang": [60000, 60600],
+   "ly_do": [
+    "Dải EMA34 H4 59.5–60.45 (H4)",
+    "Số 60K + vùng đỉnh H4 60.5–60.95 vừa bị đóng vượt, đổi vai thành hỗ trợ (H4)",
+    "Fibo 0.382 nhịp tăng H4 57.8 → 61.34 = 59.99 (H4)",
+    "MA200 H1 cũ 60.4–60.5 (H1)"
+   ]
+  },
+  {
+   "loai": "SHORT",
+   "khoang": [63300, 64400],
+   "ly_do": [
+    "Dải EMA34 D1 63.35–65.65 (D1)",
+    "Fibo 0.618 sóng giảm 30 ngày 63.8 (D1)",
+    "Mốc 63.003 (thân tuần/ngày) + đỉnh H4 63.245 chưa bị vượt (W1/H4)",
+    "EMA200 H4 64.4 (H4)"
+   ]
+  }
+ ],
+ "pha_vo_gia": "Cú vượt 61K của cây H4 07:00: thân đóng trên chứ không phải râu, đóng sát đỉnh nến; chỉ có G2 (mới 1 cây, sát mốc 66 giá) → chưa đủ 2 dấu hiệu giả, coi là bật công tắc. Cần cây H4 kế tiếp đóng giữ trên 61 để xác nhận. Giá 61.07 ở giữa vùng long 60–60.6 và vùng short 63.3–64.4 → KHÔNG VÀO GIỮA.",
+ "loi_binh": "Hôm nay thứ Năm anh em. Hôm qua mình nói rồi, H4 đóng trên 61 thì có hy vọng hồi, giờ nó đóng 61 rồi thì mình không cố short nữa, nến ngày hôm qua xanh rút chân thì hôm nay không đánh ngược. Nhưng đây chỉ là hồi kỹ thuật thôi, hồi quang phản chiếu, tối nay còn non-farm, ai long thì chờ về 60.3–60.5 vol nhỏ, đủ mồm thì chốt 62.4–63. Lên được 63.3–64.4 test MA34 ngày với Fibo 0.618 là chỗ mình tìm short lại. Không phải lời khuyên đầu tư."
+}

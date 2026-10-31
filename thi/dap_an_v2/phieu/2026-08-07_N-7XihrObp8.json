@@ -1,0 +1,181 @@
+{
+ "buoi": "2026-08-07_N-7XihrObp8",
+ "ngay": "2026-08-07",
+ "gio_vn": "10:00",
+ "gia_btc_luc_noi": 64000,
+ "nhan_dinh": [
+  {
+   "khung": "H4",
+   "huong": "TANG",
+   "do_chac": "thap",
+   "dich": 65000,
+   "han": null,
+   "han_gio": null,
+   "vo_hieu_khi": "nến H4 đóng dưới 63.000",
+   "vo_hieu_cau_truc": {
+    "gia": 63000,
+    "khung": "H4",
+    "so_nen": 1,
+    "chieu": "dong_duoi",
+    "cau": "Còn nếu chúng ta có một cây nến H4 đóng màu đỏ xuyên qua khỏi cụm này thì coi như thôi, không có long nữa, không có bay nữa."
+   },
+   "kich_ban_phu": null,
+   "duong_di": [
+    {
+     "huong": "GIAM",
+     "dich": [
+      63000,
+      63500
+     ]
+    },
+    {
+     "huong": "TANG",
+     "dich": 65000
+    }
+   ],
+   "doi_y": null,
+   "ly_do": [],
+   "trich": "H1 đóng qua trên live dễ rụng. Cứ chờ thôi. Trụ thì tốt mà nó phải phá qua được đoạn này chứ đoạn 64 này nó trụ ác lắm và nó vẫn từ từ đi lên. Không có gì bất ngờ. H4 chúng ta cũng xấu, D1 thì cũng xấu. H1 cũng xấu, H4 cũng vậy thôi. Tốt nhất là vẫn cứ giữ view. Nếu anh em muốn đánh long này thì chờ ở vùng 63.00 cho đến 63.00300 dưới này.",
+   "nhan_v1": "PHAN_VAN"
+  },
+  {
+   "khung": "H1",
+   "huong": "GIAM",
+   "do_chac": "thap",
+   "dich": 63000,
+   "han": "trong ngày",
+   "han_gio": 24,
+   "vo_hieu_khi": "bám được trendline H1 thì đi lên",
+   "kich_ban_phu": "bám trendline thì đi lên; tạm chưa nên long",
+   "ly_do": [
+    "thủng trendline H1 thì tụt về khoảng 63.000",
+    "phá đáy, phá đỉnh dần, đổ đèo"
+   ],
+   "trich": "Thủng H1 này một cái thì chắc tụt về khoảng 63.000.",
+   "doi_y": null,
+   "duong_di": null
+  },
+  {
+   "khung": "D1",
+   "huong": "GIAM",
+   "do_chac": "vua",
+   "dich": null,
+   "han": null,
+   "han_gio": null,
+   "vo_hieu_khi": "D1 vượt cản 65.000 để confirm lên",
+   "kich_ban_phu": "D1 chưa vượt cản 65.000, đang bị chặn ở trendline back test",
+   "ly_do": [
+    "thị trường down trend rõ rệt, đi chậm, yếu, thanh khoản thấp",
+    "D1 cũng xấu"
+   ],
+   "trich": "Thị trường đang thể hiện một down trend quá rõ rệt.",
+   "doi_y": null,
+   "duong_di": null
+  },
+  {
+   "khung": "M15",
+   "huong": "PHAN_VAN",
+   "do_chac": "vua",
+   "dich": null,
+   "han": "trong ngày",
+   "han_gio": 24,
+   "vo_hieu_khi": null,
+   "kich_ban_phu": "short nhẹ scalping xuống; long chỉ khi nến M15/M30 đẹp ở vùng 63.000",
+   "ly_do": [
+    "vùng giá đánh chiều nào cũng khó chịu",
+    "chờ quét 63.000 hoặc 65.000 rồi mới đánh, vào market giờ rủi ro"
+   ],
+   "trich": "Vùng giá này đánh chiều nào cũng khó chịu hết. Nhưng an toàn nhất vẫn là chờ điều chỉnh xuống rồi long lên.",
+   "doi_y": null,
+   "duong_di": null
+  }
+ ],
+ "vung_gia": {
+  "khang_cu": [
+   65000
+  ],
+  "ho_tro": [
+   63000,
+   64000
+  ]
+ },
+ "lenh": [
+  {
+   "chieu": "SHORT",
+   "vao": null,
+   "tp": [],
+   "sl": null,
+   "trang_thai": "dang_giu"
+  },
+  {
+   "chieu": "LONG",
+   "vao": [
+    63000,
+    63500
+   ],
+   "tp": [],
+   "sl": null,
+   "trang_thai": "de_xuat_moi"
+  }
+ ],
+ "nhin_lai_truoc": "Lệnh long hôm qua trượt 20 giá không khớp; giá lên 64.900 không chạm 65.000.",
+ "cong_cu": [
+  "H4",
+  "H1",
+  "M15",
+  "D1",
+  "trendline",
+  "MA",
+  "heatmap liquidation",
+  "Fibo",
+  "Fear and Greed"
+ ],
+ "tin_tuc": [
+  {
+   "tin": "Non farm tối nay",
+   "danh_gia": "thị trường đói tin cả tuần, sẽ quét cả hai đầu; né giờ tin (7:30), tất lệnh nhất là vàng"
+  }
+ ],
+ "thoi_quen": [
+  "chờ quét liquidation một đầu rồi mới vào lệnh ngược",
+  "chờ nến đóng ở vùng hỗ trợ mới tìm entry",
+  "né tin non farm, tất lệnh trước tin",
+  "thị trường down trend thì ăn ngắn, scalping, không gồng"
+ ],
+ "cau_cua_mieng": [
+  "Down trend mà biết làm sao được.",
+  "Thị trường chậm thì chúng ta không thể vội được."
+ ],
+ "altcoin": [
+  {
+   "coin": "altcoin chung",
+   "huong": "PHAN_VAN",
+   "ghi": "BTC.D lên, đô sideway, cuối tuần có thể sóng nhỏ M15; altcoin không bền vững, chưa có setup đẹp, BTC xấu thì khoan vội"
+  },
+  {
+   "coin": "ETH",
+   "huong": "PHAN_VAN",
+   "ghi": "chưa long được vì chưa phá trendline"
+  },
+  {
+   "coin": "ADA",
+   "huong": "TANG",
+   "ghi": "nến D1 đẹp, dễ lên thêm khoảng 10%"
+  }
+ ],
+ "ghi_chu": "Vàng: đang khỏe, không nên short, dễ kéo 4300-4320. 'vùng sau 3' hiểu là dưới 63.000.",
+ "hanh_dong": "dung_ngoai_cho_entry",
+ "chang_ke_tiep": {
+  "huong": "GIAM",
+  "dich": [
+   63000,
+   63500
+  ]
+ },
+ "khung_lon_v2": {
+  "D1": "GIAM",
+  "W1": null
+ },
+ "pha_vo_gia": "H4 vượt 64.000 nhưng bị trả về nhanh; muốn long phải chờ một cú quét stop loss / kill nhóm liquid long phía dưới (63.000-63.500) rồi mới vào. Tin Non-farm tối nay dễ quét hai đầu.",
+ "nguon_nhan": "dap_an_v2 (Opus 5.5 rút mù 31/10)"
+}

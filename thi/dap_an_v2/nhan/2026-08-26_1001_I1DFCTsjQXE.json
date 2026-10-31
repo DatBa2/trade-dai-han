@@ -1,0 +1,46 @@
+{
+  "buoi": "2026-08-26_1001_I1DFCTsjQXE",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/lam_sach/2026-08-26_1001_I1DFCTsjQXE.md",
+  "gia_btc_luc_noi": 78800,
+  "dau_buoi": {
+    "thien_huong_h4": "GIAM",
+    "gio": null,
+    "trich": "Mình short là bởi vì mình đang muốn nó đánh nhịp về đâu đó khoảng 77.000 hoặc 78.000 để test cái đường MA trên H4 này. ... Nếu nó đóng qua khỏi cái thằng 79.00 này thì các bạn không nên giữ short nữa."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "TANG",
+    "do_chac": "thap",
+    "gio": null,
+    "trich": "Nhịp này mình nghĩ nếu con Bit này không lên nổi thì khả năng là hỏng. Khả năng anh em mình mất ăn nhịp short rồi. Có cây H4 màu xanh hả? Rồi H4 màu xanh thì đúng là không nên short thật."
+  },
+  "doi_y_giua_buoi": true,
+  "ly_do_doi_y": "Giá bật lên nhanh 'như tên lửa' qua mốc 79.000 (mốc SL short), có volume và cấu trúc tăng, H4 đóng xanh → hết lý do giữ short; chuyển sang đứng ngoài, chờ chỉnh về 77–78k tìm setup long, không short nữa.",
+  "chang_ke_tiep": null,
+  "duong_di": [
+    {"huong": "GIAM", "dich": [77000, 78000]},
+    {"huong": "TANG", "dich": [81000, 82000]}
+  ],
+  "dich_chinh": [81000, 82000],
+  "han_gio": null,
+  "vo_hieu": null,
+  "lenh": [
+    {"chieu": "SHORT", "vao": null, "tp": [78000, 77000], "sl": 79000, "trang_thai": "da_dong"},
+    {"chieu": "LONG", "vao": [77000, 78000], "tp": [], "sl": null, "trang_thai": "de_xuat_moi"},
+    {"chieu": "LONG", "vao": 83000, "tp": [93000, 94000], "sl": null, "trang_thai": "de_xuat_moi"}
+  ],
+  "hanh_dong": "dung_ngoai_cho_entry",
+  "khung_lon": {"D1": "GIAM", "W1": "GIAM"},
+  "pha_vo_gia": "Trendline H4: thường lên fake out một tí rồi mới gãy, nên không limit short mà chờ vài nến gãy mới đánh.",
+  "trich_them": [
+    {"gio": null, "cau": "Bitcoin hiện tại đang nằm ở giai đoạn điều chỉnh quanh đây. ... Nếu nó trụ được đoạn này đi lên tiếp thì mình nghĩ sẽ có những pha kéo trước khi gãy thực sự. Vùng này để sell có vẻ cũng khó ăn."},
+    {"gio": null, "cau": "Nếu nó vượt qua được cái vùng 80-82 này thì nó sẽ lên tiếp cái cản tiếp theo đó là 93 đến 94. ... một khi nến đã đi qua được cái thằng 82, 83 thì anh em đừng có cố short nhá."},
+    {"gio": null, "cau": "(nếu) đóng nến ngày trên 83 thì long đuổi được? — Mình nghĩ là long được, long đuổi được."},
+    {"gio": null, "cau": "Điểm tiếp theo nếu nó rướn thì mình nghĩ nó sẽ rướn lên đây, quanh 81, 82, 81.00 gì đó. Đó là ở khung H1."},
+    {"gio": null, "cau": "Còn an toàn thì cứ chờ về dưới này đánh lên cho chắc kèo: dưới này có nghĩa là ở vùng từ 78 cho đến 77. Nếu đánh long lên thì lựa chọn vùng đó là phương án an toàn nhất."},
+    {"gio": null, "cau": "Phục hồi lên này, nhanh, bắn như tên lửa luôn. ... Có vẻ đoạn này mình không thấy động lực để chúng ta giữ lệnh short nữa."},
+    {"gio": null, "cau": "Khả năng cao nó đi sideway quanh vùng hiện tại rồi chờ đến ra tin; thậm chí mình nghĩ nó chờ ra tin đến thứ sáu luôn ... Nhưng an toàn thì thôi cứ tránh khỏi cái short đi. Ngồi chờ. Nếu nó có điều chỉnh về lại những vùng dưới này, tìm setup đánh lên thì có vẻ ngon hơn."},
+    {"gio": null, "cau": "Khả năng hôm nay thị trường không tăng, không thay đổi nhiều đâu."},
+    {"gio": null, "cau": "và làm gì làm, chúng ta cứ thấy cây nến ngày này còn đóng dưới cái đường MA này thì chúng ta cần phải lưu ý, thận trọng, hạn chế đi long FOMO ở đây ... vùng 79 này là cái đường MA trên khung ngày."}
+  ],
+  "kho": "Transcript không có mốc giờ. Đổi ý rõ: đầu buổi giữ short về 77–78k (SL đóng H1/M15 trên 79k), giữa buổi giá vọt lên, bỏ short. Cuối buổi chỉ nghiêng nhẹ phía tăng (H4 xanh, không short, H1 rướn 81–82) nhưng lại nói sideway chờ tin PCE/Jackson Hole, 'hôm nay không tăng nhiều', chưa có setup long, D1 còn dưới MA 79 → TANG độ chắc thấp, gần PHAN_VAN. chang_ke_tiep để null vì cuối buổi chỉ nói sideway; chỉnh về 77–78 là có điều kiện. Vùng 80–82 là cản tuần."
+}

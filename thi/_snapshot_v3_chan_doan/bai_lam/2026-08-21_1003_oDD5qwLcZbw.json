@@ -1,0 +1,112 @@
+{
+ "buoi": "2026-08-21_1003_oDD5qwLcZbw",
+ "ngay": "2026-08-21",
+ "gio_vn": "10:03",
+ "gia_btc_luc_noi": 74518,
+ "nhan_dinh": [
+  {
+   "khung": "H4",
+   "huong": "GIAM",
+   "do_chac": "thap",
+   "dich": [71600, 73200],
+   "han": "2-3 ngày, qua cuối tuần đến hết Chủ nhật 23/08",
+   "han_gio": 60,
+   "vo_hieu_khi": "H4 đóng trên 77.000 (vượt EMA34 dải trên tuần 76.6, chạm Fibo 0.786 nhịp giảm lớn 77.485 - đúng SL lệnh short 71-74)",
+   "kich_ban_phu": "chặng 1 về 73.000-73.300 (Fibo 0.618 khung lớn vừa phá + giá đóng D1 hôm qua) giữ một nhịp, chặng 2 mới về 71.300-71.600 (Fibo 0.382 cả nhịp + EMA200 D1)",
+   "duong_di": [
+    {"huong": "GIAM", "dich": 73200},
+    {"huong": "GIAM", "dich": 71600}
+   ],
+   "doi_y": null,
+   "ly_do": [
+    "đích 71-73K hôm qua đã tới, còn vượt lên 75.8 - xong việc, giờ là vùng hết hồi",
+    "RSI H4 92, RSI D1 80, F&G 72 Greed - FOMO cực độ, giá cách EMA34 H4 gần 11%, xa MA quá thì phải về test",
+    "cây H4 07:00 quét lên 75.779 rồi rút râu 1.7%, lấp xong gap CME 74-75K",
+    "khung lớn vẫn downtrend: dưới EMA89 tuần 79K, đây chỉ là hồi quang phản chiếu",
+    "thứ Sáu, chuẩn bị cuối tuần - đã lên 18% trong tuần thì cuối tuần hay chỉnh"
+   ],
+   "trich": null
+  },
+  {
+   "khung": "D1",
+   "huong": "GIAM",
+   "do_chac": "thap",
+   "dich": 69000,
+   "han": "3-7 ngày, đến hết tuần sau",
+   "han_gio": 168,
+   "vo_hieu_khi": "D1 đóng trên 77.500 (Fibo 0.786 nhịp giảm 82.8→57.8)",
+   "kich_ban_phu": "nếu cuối tuần còn quét lên 77-78K (gap CME 78-79) thì đó là chỗ hết hồi, sau đó vẫn về 69-70K",
+   "duong_di": null,
+   "doi_y": null,
+   "ly_do": [
+    "vẫn là sóng hồi trong chu kỳ downtrend, đảo thành uptrend còn quá nhiều điều kiện",
+    "D1 đã 3 cây xanh dài liên tiếp, RSI D1 80 quá mua",
+    "Fibo 0.5 nhịp tăng D1 62.268→75.779 = 69.024 trùng vùng phá 68-70K cũ"
+   ],
+   "trich": null
+  },
+  {
+   "khung": "W1",
+   "huong": "GIAM",
+   "do_chac": "thap",
+   "dich": 40000,
+   "han": "chu kỳ downtrend, đáy 2027",
+   "han_gio": null,
+   "vo_hieu_khi": "nến tuần đóng trên dải EMA34 tuần (76.600) và EMA34/89 tuần cắt lên",
+   "kich_ban_phu": "nến tuần này xanh rất dài, phải chờ đóng nến tuần Chủ nhật mới đánh giá trendline tuần thủng thật hay fake out",
+   "duong_di": null,
+   "doi_y": null,
+   "ly_do": [
+    "giá mới vào trong dải EMA34 tuần, vẫn dưới EMA89 tuần 79.081",
+    "EMA34/89 tuần vẫn đang cắt xuống",
+    "đáy chu kỳ dự kiến 2027, kịch bản ~40K chưa hủy"
+   ],
+   "trich": null
+  }
+ ],
+ "vung_gia": {
+  "khang_cu": [75800, 76600, 77500, 78500],
+  "ho_tro": [73200, 71600, 69000, 68000]
+ },
+ "lenh": [
+  {
+   "chieu": "SHORT",
+   "loai": "limit",
+   "vao": 75450,
+   "tp": [73350, 71750],
+   "sl": 77150,
+   "trang_thai": "de_xuat_moi"
+  }
+ ],
+ "hanh_dong": "giu_lenh",
+ "giu_view": true,
+ "ly_do_doi_view": "Giữ thiên hướng short của buổi 20/08 (D1 sóng hồi, limit short 71-74, SL 77): giá chưa chạm SL/mốc sai 77K, chỉ quét tới 75.779. Đích hồi 71-73K đã tới (b) nên H4 chuyển từ dập dìu sang chiều điều chỉnh xuống, nhưng khung lớn không đổi.",
+ "rau": {
+  "tren": "75.779 (H4 mở 07:00 21/08) - râu trên 1.7%, quét SL phe short + lấp gap CME 74-75K",
+  "duoi": "73.020 (H4 mở 07:00 21/08); râu đáng kể 71.118 (H4 mở 19:00 20/08)",
+  "test_lai": "Râu 75.779 KHÔNG ở chặng tới: vừa quét xong phe short, gap đã lấp, nằm ngược chiều điều chỉnh (5.3) - nếu giá quay lại đó thì là chỗ short thêm. Râu 71.118 CÓ: trùng EMA200 D1 71.556 + Fibo 0.382 cả nhịp 71.342, phía dưới là vùng nến H4 +3% chạy nhanh trống thanh khoản (R2, R3)."
+ },
+ "vung_on": [
+  {
+   "loai": "SHORT",
+   "khoang": [75300, 77000],
+   "ly_do": [
+    "râu quét 75.779 (H4 21/08) + gap CME 74-75K đã lấp",
+    "EMA34 dải trên khung tuần 76.604",
+    "Fibo 0.786 nhịp giảm D1 lớn 77.485 + SL 77K người đó đã đặt cho lệnh short"
+   ]
+  },
+  {
+   "loai": "LONG",
+   "khoang": [71300, 71700],
+   "ly_do": [
+    "Fibo 0.382 nhịp tăng H4 64.164→75.779 = 71.342",
+    "EMA200 D1 71.556",
+    "râu H4 71.118 + cản cũ 71-72K đã phá đổi vai thành hỗ trợ",
+    "chỉ long lướt vol nhỏ, ăn non"
+   ]
+  }
+ ],
+ "pha_vo_gia": "Cú vọt lên 75.779 là cú quét: chỉ râu, thân H4 đóng 74.518 rút 1.7% (G1), quét đúng SL phe short sau chuỗi thanh lý short (G4), đi cùng hướng đám đông đang FOMO long, F&G 72 (G8). Riêng trendline tuần 73K: H4 đã đóng trên nhưng nến tuần chưa đóng, chưa gọi là phá thật.",
+ "loi_binh": "Target 71-73 mình nói hôm qua tới hết rồi anh em, còn chạy lố lên 75.8 quét short và lấp luôn gap 74-75. RSI H4 92, Fear and Greed 72, giờ mà mua đuổi thì khác nào hòa mình vào đám đông. Lệnh short 71-74 cứ giữ, SL 77 vẫn để nguyên, mình nghĩ cuối tuần nó chỉnh về 73 rồi 71.5. Giá đang ở giữa nên không vào giữa, ai chưa có lệnh thì chờ nó hồi lên vùng 75.3 trở lên có nến đỏ volume rồi short. Không ai happy trong downtrend, đây vẫn chỉ là hồi kỹ thuật thôi."
+}

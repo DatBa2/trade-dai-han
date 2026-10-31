@@ -1,0 +1,340 @@
+[
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[0].trich",
+  "trich": "Hỏi nhận định sẽ giảm đến giá nào trong sóng ngắn? Nếu ngắn hạn thì mình nghĩ sẽ về đâu đó khoảng tầm 675.",
+  "giay": 4102,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=qJZk9q5A7rA&t=4102s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[1].trich",
+  "trich": "Quan điểm của mình thì mình vẫn bullish cái đoạn này. Mình không có short nhiều.",
+  "giay": 1495,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=qJZk9q5A7rA&t=1495s",
+  "anh": [
+   {
+    "file": "so_tay/khung/qJZk9q5A7rA_002330.jpg",
+    "giay": 1410,
+    "lech": -85
+   }
+  ]
+ },
+ {
+  "nguon": "phieu",
+  "truong": "lenh[0].trich",
+  "trich": "Kèo scalping, kèo cà phê vui vẻ thôi. SL 400 giá này. SL 69140. ... TP 69860. Tỉ lệ đúng 1:1.",
+  "giay": 3863,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=qJZk9q5A7rA&t=3863s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "lenh[1].trich",
+  "trich": "SL chỉ cần đặt ở dưới khoảng 65.200 thôi. ... nếu nó break được qua khỏi cái vùng này thì anh em cứ tự tin mà đánh lên 75.000 và 78.000 và 80.000.",
+  "giay": 1481,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=qJZk9q5A7rA&t=1481s",
+  "anh": [
+   {
+    "file": "so_tay/khung/qJZk9q5A7rA_002330.jpg",
+    "giay": 1410,
+    "lech": -71
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[0].trich",
+  "trich": "từ 50 trở xuống ... chặng đường từ 50 về đến 20 này. Cứ cách khoảng 5.000 giá thì chúng ta bắt một nhát",
+  "giay": 507,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=qJZk9q5A7rA&t=507s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[1].trich",
+  "trich": "Hôm qua mình báo anh em chốt ở quanh 70.700 hay 70.800. Đêm thì nó quét lên đến độ ở 71.200 rồi lại rụng xuống",
+  "giay": 1441,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=qJZk9q5A7rA&t=1441s",
+  "anh": [
+   {
+    "file": "so_tay/khung/qJZk9q5A7rA_002330.jpg",
+    "giay": 1410,
+    "lech": -31
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[2].trich",
+  "trich": "giá gần như nó không có chạy. Cứ loanh quanh cái vùng từ 69 đến 70 ... giá vẫn bị chặn dưới ở cái đường MA34",
+  "giay": 1405,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=qJZk9q5A7rA&t=1405s",
+  "anh": [
+   {
+    "file": "so_tay/khung/qJZk9q5A7rA_002330.jpg",
+    "giay": 1410,
+    "lech": 5
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[3].trich",
+  "trich": "SL chỉ cần đặt ở dưới khoảng 65.200 thôi. Tức là đâu đó khoảng tầm 2.000 giá thôi",
+  "giay": 1481,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=qJZk9q5A7rA&t=1481s",
+  "anh": [
+   {
+    "file": "so_tay/khung/qJZk9q5A7rA_002330.jpg",
+    "giay": 1410,
+    "lech": -71
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[4].trich",
+  "trich": "nếu mà nó break được qua khỏi cái vùng này thì anh em cứ tự tin mà đánh lên 75.000 và 78.000 và 80.000",
+  "giay": 1488,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=qJZk9q5A7rA&t=1488s",
+  "anh": [
+   {
+    "file": "so_tay/khung/qJZk9q5A7rA_002330.jpg",
+    "giay": 1410,
+    "lech": -78
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[5].trich",
+  "trich": "Nó qua khỏi 71.000 và đóng nến ở trên cái vùng này thì tức là tạo một cái đỉnh cao hơn thì mình nghĩ là nó sẽ có đà để nó bứt phá lên rất là nhanh",
+  "giay": 1640,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=qJZk9q5A7rA&t=1640s",
+  "anh": [
+   {
+    "file": "so_tay/khung/qJZk9q5A7rA_002730.jpg",
+    "giay": 1650,
+    "lech": 10
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[6].trich",
+  "trich": "gap chúng ta vẫn còn tiếp tục là gap nằm ở trên này. 7980 vẫn còn nguyên gap",
+  "giay": 1689,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=qJZk9q5A7rA&t=1689s",
+  "anh": [
+   {
+    "file": "so_tay/khung/qJZk9q5A7rA_002730.jpg",
+    "giay": 1650,
+    "lech": -39
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[7].trich",
+  "trich": "entry anh em sẽ phải rải ra từ 78.500 cho đến khoảng 84 là mình thấy là an toàn hơn",
+  "giay": 1779,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=qJZk9q5A7rA&t=1779s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[8].trich",
+  "trich": "Rải đến 84 còn SL 90 thì được ... SL ở trên 92 này là 8%",
+  "giay": 1792,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=qJZk9q5A7rA&t=1792s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[9].trich",
+  "trich": "TP của cái nhịp này thì sẽ tối thiểu cũng phải là 53. Mình nghĩ là tối thiểu cũng sẽ phải là 53, 54",
+  "giay": 1825,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=qJZk9q5A7rA&t=1825s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[10].trich",
+  "trich": "Liquid có cái vùng nhẹ ở 71.500 này, cẩn thận",
+  "giay": 1860,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=qJZk9q5A7rA&t=1860s",
+  "anh": [
+   {
+    "file": "so_tay/khung/qJZk9q5A7rA_003230.jpg",
+    "giay": 1950,
+    "lech": 90
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[11].trich",
+  "trich": "Thị trường có thể là nó quét về dưới cái vùng này để nó lượm những cái lệnh thanh lý lớn ở đây ... Chắc về 68 này là quét hết đống này rồi",
+  "giay": 1946,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=qJZk9q5A7rA&t=1946s",
+  "anh": [
+   {
+    "file": "so_tay/khung/qJZk9q5A7rA_003230.jpg",
+    "giay": 1950,
+    "lech": 4
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[12].trich",
+  "trich": "nó sẽ về đâu đó lại khoảng tầm 69k4. Lên đây về lại khoảng cái vùng này 69k4 cho đến 69k3 gì đó",
+  "giay": 2002,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=qJZk9q5A7rA&t=2002s",
+  "anh": [
+   {
+    "file": "so_tay/khung/qJZk9q5A7rA_003230.jpg",
+    "giay": 1950,
+    "lech": -52
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[13].trich",
+  "trich": "short theo kiểu hai đỉnh ở đây và short về quanh cái vùng 67. Nếu mà đánh an toàn thì anh em có thể chờ quanh cái vùng 67",
+  "giay": 2438,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=qJZk9q5A7rA&t=2438s",
+  "anh": [
+   {
+    "file": "so_tay/khung/qJZk9q5A7rA_003930.jpg",
+    "giay": 2370,
+    "lech": -68
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[14].trich",
+  "trich": "đóng mà rút lên trên được khỏi cái vùng 69k4, 69k38 này thì mới chơi được",
+  "giay": 2828,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=qJZk9q5A7rA&t=2828s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[15].trich",
+  "trich": "SL đơn giản, SL 69K135, 140",
+  "giay": 3804,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=qJZk9q5A7rA&t=3804s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[16].trich",
+  "trich": "Kiếm tiền cà phê. TP 69860. Tỉ lệ đúng 1:1",
+  "giay": 3881,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=qJZk9q5A7rA&t=3881s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[17].trich",
+  "trich": "Nếu ngắn hạn thì mình nghĩ sẽ về đâu đó khoảng tầm 675",
+  "giay": 4113,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=qJZk9q5A7rA&t=4113s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[18].trich",
+  "trich": "Còn đi qua khỏi 64 thì là đi về luôn chứ không phải sóng ngắn nữa",
+  "giay": 4127,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=qJZk9q5A7rA&t=4127s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[19].trich",
+  "trich": "chuẩn bị rụng về 69k4 rồi lại mới có đà lên tiếp được",
+  "giay": 4176,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=qJZk9q5A7rA&t=4176s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[20].trich",
+  "trich": "ví dụ như nó về đến độ khoảng 40.000 thì mình nghĩ sẽ giống cái giai đoạn tháng sáu này",
+  "giay": 2211,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=qJZk9q5A7rA&t=2211s",
+  "anh": [
+   {
+    "file": "so_tay/khung/qJZk9q5A7rA_003530.jpg",
+    "giay": 2130,
+    "lech": -81
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[21].trich",
+  "trich": "sau đó nó sẽ đạp một cú nữa về đến độ khoảng 20 thì rồi nó giật lên",
+  "giay": 2226,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=qJZk9q5A7rA&t=2226s",
+  "anh": []
+ }
+]

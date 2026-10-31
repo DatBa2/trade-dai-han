@@ -1,0 +1,39 @@
+{
+  "buoi": "2026-09-15_1008_M1ZThKy2Ylk",
+  "gia_btc_luc_noi": 77000,
+  "dau_buoi": {
+    "huong_h4": "GIAM",
+    "trich": "§ Nhìn lại plan hôm qua: nó trả lại một cây H4 khá đỏ, cho nên nhịp hiện tại vẫn chưa bay được, chưa thấy cái cửa để cho nó lên. Vẫn quay về lại vùng 77"
+  },
+  "cuoi_buoi": {
+    "huong_h4": "GIAM",
+    "trich": "§ Góc độ cá nhân: Xu hướng của mình vẫn là xấu. Nhìn H4, kẻ Fibo ra: giá nằm dưới 0.5 thì không view theo góc độ đi lên được."
+  },
+  "doi_y_giua_buoi": false,
+  "huong_lon": {
+    "D1": "TANG",
+    "W1": null,
+    "chu_ky": "GIAM"
+  },
+  "hanh_dong": "dung_ngoai_vi_lap_lung",
+  "duong_di": [
+    {
+      "huong": "GIAM",
+      "dich": 77000,
+      "khung": "H4"
+    },
+    {
+      "huong": "GIAM",
+      "dich": 76000,
+      "khung": "H4"
+    }
+  ],
+  "dich_chinh": 76000,
+  "moc_sai": {
+    "gia": 82000,
+    "dieu_kien": "Phải vượt cản 82.000 mới đánh sóng tăng; D1 trên 82.000 và nhất là trên 83.000 mới xác nhận uy tín. Không phải SL cụ thể cho mọi vị thế."
+  },
+  "pha_vo_gia": null,
+  "do_chac": "vua",
+  "ghi_chu": "Đã đọc hết transcript. Giá khoảng 77.000. Đây là buổi ranh giới GIAM/PHAN_VAN: mô tả H4 dằng co, nhiều kịch bản và chờ break hai đầu; nhưng góc độ cá nhân/khung nhỏ nghiêng xuống rõ nên chọn GIAM, hành động đứng ngoài do nhập nhằng. Người có short 79.000/79.500 được giữ/chốt TP1 77.000 và TP2 76.000; không suy thành người nói đang mở short mới. Cấu trúc D1 được gọi sóng tăng, dù vĩ mô/chu kỳ xấu. Nhánh thủng 76.000 mới xét 75.000 rồi 73.000/72.000; nhánh tăng lãi suất có thể về 69.000/sáu mấy là giả định, không ghép vào đường chắc chắn. Không có đảo hướng H4 được tuyên bố."
+}

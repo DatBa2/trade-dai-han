@@ -1,0 +1,43 @@
+{
+  "buoi": "2026-08-25_1003_nSxBbLai2mE",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/lam_sach/2026-08-25_1003_nSxBbLai2mE.md",
+  "gia_btc_luc_noi": 80500,
+  "dau_buoi": {
+    "thien_huong_h4": "GIAM",
+    "gio": null,
+    "trich": "Hiện tại mình chưa khẳng định được đây là nhịp tăng. Thị trường chỉ đang trả lời cho anh em đây là một nhịp hồi thôi. ... Về cấu trúc sóng, H4 tăng nhưng rất xa khỏi MA, nên mua ở giai đoạn này cực kỳ rủi ro."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "GIAM",
+    "do_chac": "thap",
+    "gio": null,
+    "trich": "Ai mà nãy có short thì kéo SL về entry và gồng thôi. Gồng về khoảng 79 đầu, tính khoảng chắc là non này khoảng 80.000 [?] hoặc 79K9. Sâu hơn có thể gồng khoảng 79K5 gì đó. Hiện tại chúng ta đang lãi khoảng 500 giá."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {"huong": "GIAM", "dich": [79500, 80000]},
+  "duong_di": [
+    {"huong": "GIAM", "dich": [79500, 80000]}
+  ],
+  "dich_chinh": [79500, 80000],
+  "han_gio": null,
+  "vo_hieu": null,
+  "lenh": [
+    {"chieu": "SHORT", "vao": null, "tp": [80000, 79900, 79500], "sl": null, "trang_thai": "dang_giu"}
+  ],
+  "hanh_dong": "giu_lenh",
+  "khung_lon": {"D1": "GIAM", "W1": "GIAM"},
+  "pha_vo_gia": "Nhịp lên D1 qua MA được coi là fake out hợp lý ('từ đây nó mới đi xuống dễ'); vùng cản rất dễ lên quét 83 để kill lệnh sale, mọi nhịp lên 82–83 không bền vững, chỉ lấy nốt thanh khoản stop loss.",
+  "trich_them": [
+    {"gio": null, "cau": "Hiện tại giá vẫn đang bám H1 khá là chắc kèo. Chưa biết điểm dừng của thị trường là ở đâu."},
+    {"gio": null, "cau": "Đoạn này rất khó đánh. Ở trên cao này, sale thì ngược xu hướng, còn long thì long trên đỉnh sóng ... Không có entry cho bất kỳ động thái nào."},
+    {"gio": null, "cau": "Vùng này cản này rất dễ lên quét 83 để kill cản ... Tất cả những nhịp tăng hiện tại lên đến vùng khoảng 82-83 mình nói là không có tính bền vững nào hết."},
+    {"gio": null, "cau": "Nếu nó rụng một phát thì sẽ về luôn 76 chứ không dừng loanh quanh vùng 77."},
+    {"gio": null, "cau": "Mình nghĩ thị trường chưa sập bất ngờ đâu. ... Nó chưa cho các ông đi short cản tàu ăn dễ như vậy đâu."},
+    {"gio": null, "cau": "H4 đóng căng quá. H4 nóng như thế này mà short xem chừng cũng nguy hiểm. Test MA đóng nến rất đẹp. Nếu bình thường vùng giá này không cao quá thì có lẽ long được."},
+    {"gio": null, "cau": "Đoạn này thị trường khó, chắc cứ phải húp. Mình đang kỳ vọng nó về dưới này luôn, về 80, 79 gì đó. ... Nó mà dump một phát thì cũng phải về 79 là ít."},
+    {"gio": null, "cau": "Khung ngày: ... Fake out rất hợp lý, từ đây nó mới đi xuống dễ. Mình không đánh giá nhịp này là nhịp tiếp tục con sóng để tăng bền vững."},
+    {"gio": null, "cau": "Một tuần đẹp vậy cũng view long? — Mình đâu có view long. ... Cho nên bây giờ chúng ta ngồi im là vì vậy."}
+  ],
+  "kho": "Transcript không có mốc giờ. Người nói chủ yếu đứng ngoài ('nằm im thở khẽ', không có entry), coi đây là nhịp hồi quá xa MA, có thể quét 83 trước; nhưng cuối buổi giữ short scalp M5 (ngược xu hướng, vốn nhỏ) kỳ vọng về 79.5–80k → ghi GIAM độ chắc thấp, đích là đích lệnh short. H4 bản thân vẫn tăng nóng, nên chấm cần lưu ý khả năng lên 82–83 trước."
+}

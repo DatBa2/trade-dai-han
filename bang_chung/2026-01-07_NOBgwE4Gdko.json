@@ -1,0 +1,222 @@
+[
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[0].trich",
+  "trich": "Kỳ vọng của mình ở nhịp này là 98.000 cho đến 100.000, nhưng không phải nó vút một cái lên liền.",
+  "giay": 906,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=NOBgwE4Gdko&t=906s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[1].trich",
+  "trich": "Nến ngày như này thì khả năng test lại cái râu này rất cao, cực kỳ cao. Test cái râu này hoặc thậm chí thấp hơn.",
+  "giay": 789,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=NOBgwE4Gdko&t=789s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[2].trich",
+  "trich": "Những nhịp tăng hiện tại tất cả chỉ là sóng hồi thôi. Sóng hồi trong downtrend thôi. Hy vọng nó sẽ lên được 100 để mình mở thêm các vị thế short.",
+  "giay": 874,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=NOBgwE4Gdko&t=874s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "lenh[0].trich",
+  "trich": "Đang trống lệnh thì làm tí short ngắn đoạn này. ... TP thả về 91k3, SL ở trên này.",
+  "giay": 3467,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=NOBgwE4Gdko&t=3467s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "lenh[1].trich",
+  "trich": "Plan trước mắt là sẽ về 91 để xem nếu nó có về 91 thì chúng ta sẽ quan sát phản ứng.",
+  "giay": 1657,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=NOBgwE4Gdko&t=1657s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[0].trich",
+  "trich": "khả năng kiểu gì cũng về test lại cái râu này 91 hoặc thấp hơn... Fibo 0.5 nằm ở vùng 91.000 chẵn.",
+  "giay": 779,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=NOBgwE4Gdko&t=779s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[1].trich",
+  "trich": "Gap hôm qua mình vẽ sẵn ở đây. Đây 91.00, 90.00 và ở dưới này là 88.00 và 87.00.",
+  "giay": 345,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=NOBgwE4Gdko&t=345s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[2].trich",
+  "trich": "ở dưới này là 88.00 và 87.00. (gap)",
+  "giay": 357,
+  "do_giong": 0.9,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=NOBgwE4Gdko&t=357s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[3].trich",
+  "trich": "nếu cái sóng này nó đi từ vùng này lên vùng này luôn... thì Fibo nằm ở 89.000 và 90.",
+  "giay": 827,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=NOBgwE4Gdko&t=827s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[4].trich",
+  "trich": "Maximum tối đa của nhịp này là 106 đến 108 thôi. Theo Fibo",
+  "giay": 893,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=NOBgwE4Gdko&t=893s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[5].trich",
+  "trich": "Kỳ vọng của mình ở nhịp này là 98.000 cho đến 100.000, nhưng không phải nó vút một cái lên liền.",
+  "giay": 906,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=NOBgwE4Gdko&t=906s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[6].trich",
+  "trich": "Hy vọng nó sẽ lên được 100 để mình mở thêm các vị thế short.",
+  "giay": 879,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=NOBgwE4Gdko&t=879s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[7].trich",
+  "trich": "ít nhất là đường MA màu xanh này sẽ được test, tức là khoảng 76.000 sẽ được test sớm.",
+  "giay": 1101,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=NOBgwE4Gdko&t=1101s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[8].trich",
+  "trich": "khi nó test gap thì nó lại cắm về 86, 87. Lúc đó nếu long sớm ở khoảng 90, 91 thì sẽ chết.",
+  "giay": 1145,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=NOBgwE4Gdko&t=1145s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[9].trich",
+  "trich": "Ở đây chắc chắn là Fibo 0.618. Để đo thử xem. 0.618 chạm và bật lên thì nó phải qua được đường MA trên này.",
+  "giay": 1338,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=NOBgwE4Gdko&t=1338s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[10].trich",
+  "trich": "cái gap này với lại cái vùng khoảng 91, thủng 91 thì về 88.",
+  "giay": 3583,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=NOBgwE4Gdko&t=3583s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[11].trich",
+  "trich": "nếu Bitcoin về 87 88000 thì ETH chắc cũng phải về đầu 3000 thôi",
+  "giay": 2305,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=NOBgwE4Gdko&t=2305s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[12].trich",
+  "trich": "Mình sẽ chờ Bitcoin từ 40 cho đến khoảng 20... giảm khoảng 70% từ đỉnh là bắt đầu mua được.",
+  "giay": 555,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=NOBgwE4Gdko&t=555s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[13].trich",
+  "trich": "85% là khoảng 20.000. Thì chúng ta có thể mua được trong vùng biên từ khoảng 40 về đến 20.",
+  "giay": 603,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=NOBgwE4Gdko&t=603s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[14].trich",
+  "trich": "Bitcoin còn quay lại test trên 94 nữa không? Mình nghĩ là có nhưng mà phải về thấp dưới này đã rồi lên",
+  "giay": 2587,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=NOBgwE4Gdko&t=2587s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[15].trich",
+  "trich": "93k này, SL ở trên này. Còn lại TP thả về 91k3, 91250",
+  "giay": 3491,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=NOBgwE4Gdko&t=3491s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[16].trich",
+  "trich": "TP thả về 91k3, 91250, 91k3 gì đó.",
+  "giay": 3495,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=NOBgwE4Gdko&t=3495s",
+  "anh": []
+ }
+]

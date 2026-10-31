@@ -1,0 +1,340 @@
+{
+  "buoi": "2026-09-04_1014_eujLmRVw88k",
+  "ngay": "2026-09-04",
+  "gia_btc_luc_noi": 81500,
+  "moc": [
+    {
+      "gia": 83000,
+      "gia_tren": null,
+      "vai_tro": "sl",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "H4 đóng trên 83",
+        "cản khung tuần"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "H4 đóng trên 83 là bắt buộc phải cắt, 83 là điểm cuối có thể trụ"
+    },
+    {
+      "gia": 93000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "W1",
+      "can_cu": [
+        "MA34/89/200 tuần xếp thứ tự (điều kiện uptrend)",
+        "cản khung tuần"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "nó lên trên 93 và kéo những thằng MA lên... mình sẽ gọi là uptrend"
+    },
+    {
+      "gia": 70000,
+      "gia_tren": 72000,
+      "vai_tro": "entry",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "pha gãy về mới là điểm long đẹp"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "nếu muốn long thì phải chờ một pha gãy về đâu đó quanh 70 đến 72"
+    },
+    {
+      "gia": 90000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "view cá nhân nếu gãy về 70-72 rồi đi lên"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "mình có thể view lên khoảng tầm 90"
+    },
+    {
+      "gia": 92000,
+      "gia_tren": 93000,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "mô hình cờ H4",
+        "cản khung tuần 93",
+        "vượt 83"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "khi vượt qua được 83 thì có khả năng lên 92, 93. 93 là cản ở khung tuần"
+    },
+    {
+      "gia": 83000,
+      "gia_tren": null,
+      "vai_tro": "entry",
+      "huong": "TANG",
+      "khung": "W1",
+      "can_cu": [
+        "nến tuần đóng xanh qua 83"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "nến tuần đóng qua được 83 thì nhịp từ 83 lên đến 92 là nhịp long ok"
+    },
+    {
+      "gia": 70000,
+      "gia_tren": 72000,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "view cá nhân"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "có thể xảy ra những nhịp gãy về đâu đó khoảng 72, 70 hoặc sâu hơn"
+    },
+    {
+      "gia": 60000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "số tròn",
+        "thủng 60 về 5x"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "Nó thủng 60 về 5x. Đơn giản thế thôi"
+    },
+    {
+      "gia": 40000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "kịch bản lên 92 vẫn có thể về 40"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "nó lên 92 vẫn gãy về 40 được bình thường thôi"
+    },
+    {
+      "gia": 81600,
+      "gia_tren": null,
+      "vai_tro": "entry",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "Fibo (lên lại Fibo)",
+        "lệnh sale đang giữ"
+      ],
+      "moc_gio": null,
+      "chac": false,
+      "trich": "Mình đang sale một lệnh ở khoảng 81.600 [?] ('81.00')"
+    },
+    {
+      "gia": 80600,
+      "gia_tren": null,
+      "vai_tro": "tp",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "cân nhắc chốt ~500 giá"
+      ],
+      "moc_gio": null,
+      "chac": false,
+      "trich": "cân nhắc chốt ở khoảng 80.600 ('80.006') được khoảng 500 giá"
+    },
+    {
+      "gia": 81000,
+      "gia_tren": 81600,
+      "vai_tro": "entry",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "nhịp hồi lên + hình thái nến"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "nếu có những nhịp hồi lên khoảng 81.600 hoặc 81.000 thì cân nhắc"
+    },
+    {
+      "gia": 79300,
+      "gia_tren": null,
+      "vai_tro": "nhac_lai",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "nhịp hôm qua"
+      ],
+      "moc_gio": null,
+      "chac": false,
+      "trich": "Hôm qua lên 79.300 [?] đúng rồi"
+    },
+    {
+      "gia": 79500,
+      "gia_tren": null,
+      "vai_tro": "nhac_lai",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "phá cản nhịp hôm qua"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "nếu lên trên khỏi vùng 79.500 thì anh em long là lãi"
+    },
+    {
+      "gia": 81000,
+      "gia_tren": null,
+      "vai_tro": "nhac_lai",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "râu đỉnh cũ"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "long lên test chốt ở cái râu này là 81.000, chốt hết"
+    },
+    {
+      "gia": 50000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "view cá nhân tệ cũng dưới 50 (vùng 5x gom spot)",
+        "gap CME 19-20"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "Góc nhìn của mình tệ cũng phải dưới 50. Dưới 50, ở vùng 5x thì mới gọi là vùng gom spot"
+    },
+    {
+      "gia": 20000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [
+        "gap CME 19-20 (nếu CME còn giữ gap)"
+      ],
+      "moc_gio": null,
+      "chac": false,
+      "trich": "Mùa này về lấp gap 19, 20 còn giữ view đó không? Nếu CME không bỏ gap thì mình vẫn giữ"
+    },
+    {
+      "gia": 82100,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý / heatmap (Coinglass)"
+      ],
+      "moc_gio": null,
+      "chac": false,
+      "trich": "Còn một nhịp ở 82.100 [?] ('82 nữa. 8100') vừa được tạo ra"
+    },
+    {
+      "gia": 76000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý long"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "76.000 có vùng thanh lý nhá. Trên này 84"
+    },
+    {
+      "gia": 84000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý short"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "Trên này 84. Những vùng này vừa được tạo ra, không có uy tín lắm"
+    },
+    {
+      "gia": 90000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "đám long gồng"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "Đám này mình nghĩ chắc phải gồng lên đến 90"
+    },
+    {
+      "gia": 60000,
+      "gia_tren": null,
+      "vai_tro": "entry",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "gom ít ở 6x; short 125 còn chưa chốt 60,57"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "60, 57 mình còn chưa chốt (lệnh short 125)"
+    },
+    {
+      "gia": 80000,
+      "gia_tren": 82000,
+      "vai_tro": "vo_hieu",
+      "huong": "GIAM",
+      "khung": "W1",
+      "can_cu": [
+        "nến tuần đóng trên 80 hoặc 82",
+        "giữa hai đường MA tuần (MA89 ~79)"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "Nếu đóng hẳn lên trên vùng 80 thì ok, hoặc đóng hẳn lên trên 82... đóng ngay đoạn 89, vùng 79 cũng khó chịu"
+    },
+    {
+      "gia": 79000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "GIAM",
+      "khung": "W1",
+      "can_cu": [
+        "MA89 tuần"
+      ],
+      "moc_gio": null,
+      "chac": false,
+      "trich": "Nó đóng ngay đoạn 89 này, đóng khép ngay vùng 79 này cũng khó chịu"
+    },
+    {
+      "gia": 35000,
+      "gia_tren": 40000,
+      "vai_tro": "nhac_lai",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "đám đông đổi view khi về 5x"
+      ],
+      "moc_gio": null,
+      "chac": false,
+      "trich": "cả làng hô về 35, 40 (câu mỉa mai khi giá về 5x)"
+    }
+  ]
+}

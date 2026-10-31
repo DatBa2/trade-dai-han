@@ -1,0 +1,359 @@
+{
+  "buoi": "2026-04-06_b48t6sSiV90",
+  "ngay": "2026-04-06",
+  "gia_btc_luc_noi": 69000,
+  "moc": [
+    {
+      "gia": 50000,
+      "gia_tren": 40000,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "sau nhịp hồi ngắn ~10 ngày"
+      ],
+      "moc_gio": "00:04:25",
+      "chac": true,
+      "trich": "sau đó nó sập tiếp về 50 40.000 gì đó là ok"
+    },
+    {
+      "gia": 78000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "W1",
+      "can_cu": [
+        "nến tuần xanh phủ quyết 2 tuần giảm",
+        "trendline trên/dưới"
+      ],
+      "moc_gio": "00:14:15",
+      "chac": true,
+      "trich": "Nhịp này mình nghĩ là maximum nó lên được 78"
+    },
+    {
+      "gia": 76000,
+      "gia_tren": 78000,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "W1",
+      "can_cu": [
+        "điểm đầu tiên test lại"
+      ],
+      "moc_gio": "00:19:10",
+      "chac": true,
+      "trich": "Điểm đầu tiên nó sẽ test lại là vùng 76 đến 78"
+    },
+    {
+      "gia": 80000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "W1",
+      "can_cu": [
+        "gap CME 80.000",
+        "cụm thanh lý swing short SL 80-81K (khung 3 tháng)"
+      ],
+      "moc_gio": "00:19:10",
+      "chac": true,
+      "trich": "cá nhân mình vẫn kỳ vọng nó lên được vùng khoảng 80"
+    },
+    {
+      "gia": 66000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "W1",
+      "can_cu": [
+        "nến tuần đóng 69.000, trên 66"
+      ],
+      "moc_gio": "00:17:27",
+      "chac": true,
+      "trich": "giá phải giữ được vùng 66... đóng nến tuần ở 69.000"
+    },
+    {
+      "gia": 65000,
+      "gia_tren": 66000,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "W1",
+      "can_cu": [
+        "hỗ trợ khung tuần"
+      ],
+      "moc_gio": "00:17:27",
+      "chac": true,
+      "trich": "vùng 66 cho đến 65.000 này vẫn giữ được ở khung tuần"
+    },
+    {
+      "gia": 60000,
+      "gia_tren": 70000,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": "W1",
+      "can_cu": [
+        "biên độ tuần vừa rồi 60-70K (tái phân phối)"
+      ],
+      "moc_gio": "00:15:52",
+      "chac": true,
+      "trich": "thị trường đi trong khoảng từ 60 đến 70.000"
+    },
+    {
+      "gia": 66000,
+      "gia_tren": null,
+      "vai_tro": "sl",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "nến ngày đóng dưới 66.000",
+        "breakout trendline ngắn hạn D1"
+      ],
+      "moc_gio": "00:20:21",
+      "chac": true,
+      "trich": "stop loss ở vùng 66.000. Đây là gần như điểm stop loss tuyệt đối của các lệnh long"
+    },
+    {
+      "gia": 69000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "MA200 H4",
+        "đỉnh cũ"
+      ],
+      "moc_gio": "00:22:24",
+      "chac": true,
+      "trich": "cây H4 đóng trên vùng 69.000 này trên MA200 cộng với trên cái đỉnh này"
+    },
+    {
+      "gia": 70000,
+      "gia_tren": 72000,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "Fibo mở rộng nhịp H4 (ngắn hạn)"
+      ],
+      "moc_gio": "00:22:55",
+      "chac": true,
+      "trich": "Fibo target đây này. Nó cho chúng ta ngắn hạn là 70 này. 72 này"
+    },
+    {
+      "gia": 74000,
+      "gia_tren": 75000,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [],
+      "moc_gio": "00:22:55",
+      "chac": true,
+      "trich": "Đôi khi trong ngày hôm nay nó cũng đẩy luôn 74 75 cũng có"
+    },
+    {
+      "gia": 81000,
+      "gia_tren": 91000,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "Fibo mở rộng khung ngày (đo hôm trước)"
+      ],
+      "moc_gio": "00:23:29",
+      "chac": true,
+      "trich": "Thì nó vẫn là 81 này, 91 này"
+    },
+    {
+      "gia": 74000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "MA89 D1 ở ~74K"
+      ],
+      "moc_gio": "00:24:01",
+      "chac": true,
+      "trich": "MA89 của khung ngày tầm này nó không giữ được đâu. 74 như này... nhiều người short ở 74"
+    },
+    {
+      "gia": 82000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "MA200 D1 ~82K; điểm sell swing dài hạn"
+      ],
+      "moc_gio": "00:24:01",
+      "chac": true,
+      "trich": "nó có thể đẩy lên đến 82 MA200 ở trên khung ngày. Đây mới thực sự là điểm để tìm sell swing"
+    },
+    {
+      "gia": 68000,
+      "gia_tren": 67000,
+      "vai_tro": "entry",
+      "huong": "TANG",
+      "khung": "M5",
+      "can_cu": [
+        "nến M5 đóng thủng 6800 thì về 67-68K"
+      ],
+      "moc_gio": "00:25:35",
+      "chac": true,
+      "trich": "chờ giá điều chỉnh về lại quanh 6800 cho đến 6700 mấy"
+    },
+    {
+      "gia": 67000,
+      "gia_tren": null,
+      "vai_tro": "khac",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [
+        "gap nhỏ sáng nay 67K"
+      ],
+      "moc_gio": "00:27:49",
+      "chac": true,
+      "trich": "sáng nay có một cái gap nhỏ 67. Gap này chỉ nhìn cho vui"
+    },
+    {
+      "gia": 80000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "gap CME 80K to chưa lấp"
+      ],
+      "moc_gio": "00:27:49",
+      "chac": true,
+      "trich": "vẫn còn một cái gap là 80, gap to không biết khi nào lấp"
+    },
+    {
+      "gia": 64000,
+      "gia_tren": 65000,
+      "vai_tro": "khac",
+      "huong": "GIAM",
+      "khung": "MN",
+      "can_cu": [
+        "cụm thanh lý dài hạn (heatmap khung 1 tháng)"
+      ],
+      "moc_gio": "00:29:27",
+      "chac": true,
+      "trich": "một vùng ở trên 64 đúng không? 64 65 này. Nhưng vùng này là vùng dài hạn khung 1 tháng"
+    },
+    {
+      "gia": 68000,
+      "gia_tren": null,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý nhỏ ngắn hạn (heatmap)"
+      ],
+      "moc_gio": "00:29:27",
+      "chac": false,
+      "trich": "ví dụ như là 68.00 (vùng nhỏ vừa hình thành)"
+    },
+    {
+      "gia": 80000,
+      "gia_tren": 81000,
+      "vai_tro": "khac",
+      "huong": "TANG",
+      "khung": "3M",
+      "can_cu": [
+        "cụm thanh lý swing short SL 80-81K (heatmap khung 3 tháng)"
+      ],
+      "moc_gio": "00:29:58",
+      "chac": true,
+      "trich": "vẫn có những lệnh short swing họ đặt stop loss ở 80.000 81.000"
+    },
+    {
+      "gia": 68000,
+      "gia_tren": null,
+      "vai_tro": "sl",
+      "huong": "TANG",
+      "khung": "M5",
+      "can_cu": [
+        "dưới đáy M5 ~68.007"
+      ],
+      "moc_gio": "00:32:40",
+      "chac": true,
+      "trich": "SL nằm ở dưới cái đáy này thôi. 68.007"
+    },
+    {
+      "gia": 65000,
+      "gia_tren": null,
+      "vai_tro": "entry",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "bot long grid range H4",
+        "dưới SL"
+      ],
+      "moc_gio": "00:47:54",
+      "chac": true,
+      "trich": "bot long bắt ở vùng 6500, giải từ 6500 cho đến 80"
+    },
+    {
+      "gia": 78000,
+      "gia_tren": null,
+      "vai_tro": "khac",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "phá 78 thì lên 80"
+      ],
+      "moc_gio": "01:04:32",
+      "chac": true,
+      "trich": "Phá lên được 78 thì sẽ lên được 80"
+    },
+    {
+      "gia": 70400,
+      "gia_tren": null,
+      "vai_tro": "tp",
+      "huong": "TANG",
+      "khung": "M5",
+      "can_cu": [
+        "mô hình cờ M5 (vẽ đại khái)"
+      ],
+      "moc_gio": "01:08:51",
+      "chac": true,
+      "trich": "SL ở 68k, TP ở 70k4"
+    },
+    {
+      "gia": 68600,
+      "gia_tren": null,
+      "vai_tro": "sl",
+      "huong": "TANG",
+      "khung": "M5",
+      "can_cu": [],
+      "moc_gio": "01:08:51",
+      "chac": true,
+      "trich": "SL kéo xuống thấp tí khoảng 68k6"
+    },
+    {
+      "gia": 68000,
+      "gia_tren": null,
+      "vai_tro": "vo_hieu",
+      "huong": "TANG",
+      "khung": "M5",
+      "can_cu": [
+        "M5 thủng 6800 thì cắt"
+      ],
+      "moc_gio": "00:59:57",
+      "chac": true,
+      "trich": "Khi nào thủng 6800 này thì cắt"
+    },
+    {
+      "gia": 50000,
+      "gia_tren": null,
+      "vai_tro": "entry",
+      "huong": "GIAM",
+      "khung": "W1",
+      "can_cu": [
+        "dưới 50K bắt đầu tìm điểm mua dài hạn"
+      ],
+      "moc_gio": "00:53:18",
+      "chac": true,
+      "trich": "Bitcoin bạn cứ dưới 50 bắt đầu tìm điểm mua là đẹp"
+    }
+  ]
+}

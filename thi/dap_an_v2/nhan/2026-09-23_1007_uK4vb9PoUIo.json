@@ -1,0 +1,46 @@
+{
+  "buoi": "2026-09-23_1007_uK4vb9PoUIo",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/lam_sach/2026-09-23_1007_uK4vb9PoUIo.md",
+  "gia_btc_luc_noi": 86500,
+  "dau_buoi": {
+    "thien_huong_h4": "TANG",
+    "gio": null,
+    "trich": "Kháng cự: 77-78 (đặc biệt đỉnh cũ 78.300 [?]); hiện có vẻ nó sẽ lên test lại đỉnh này. Nếu break và đóng vượt qua thì target 88, 90 và 93."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "TANG",
+    "do_chac": "thap",
+    "gio": null,
+    "trich": "Kiểu này thì xác suất break khỏi vùng trên và đi lên sẽ cao hơn xác suất kịch bản đi xuống; cao hơn thôi chứ không chắc chắn. Theo thực nghiệm của mình trong thị trường, mình đánh giá khả năng đi lên cao hơn. ... An toàn thì tốt nhất chờ nó out ra khỏi vùng này; chắc trong ngày hôm nay hoặc tối sẽ có kết quả."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {"huong": "TANG", "dich": 88000},
+  "duong_di": [
+    {"huong": "TANG", "dich": [88000, 93000]}
+  ],
+  "dich_chinh": [88000, 93000],
+  "han_gio": null,
+  "vo_hieu": {
+    "gia": 85000,
+    "khung": "H4",
+    "so_nen": 1,
+    "chieu": "dong_duoi",
+    "cau": "Hỗ trợ gần: 85 đến 86. ... Khi giá bắt đầu thủng 85 thì xem xét khả năng về các vùng này."
+  },
+  "lenh": [],
+  "hanh_dong": "dung_ngoai_cho_entry",
+  "khung_lon": {"D1": "TANG", "W1": null},
+  "pha_vo_gia": "Theo USDT.D (rướn về 6.1 rồi hồi), BTC có thể còn một nhịp quét qua râu đỉnh, ví dụ lên 87.000, rồi mới đi xuống — 'nhịp như vậy cũng không thể hiện được nhiều vì nó chỉ lên rồi bị kéo xuống'.",
+  "trich_them": [
+    {"gio": null, "cau": "Nhưng mô hình này: đáy kéo cao dần và đỉnh đi ngang. Từ thứ hai đến giờ thị trường luôn muốn điều chỉnh nhưng đám đông vẫn tiếp tục mua ở vùng giá cao, nghĩa là đại đa số đang muốn đẩy giá lên."},
+    {"gio": null, "cau": "H4 bắt đầu có xác suất (không chắc chắn) lên test đỉnh và hình thành mô hình hai đỉnh; và back test về lại vùng MA là không loại trừ, tức về lại hỗ trợ 82-83 vẫn còn xác suất."},
+    {"gio": null, "cau": "Nếu muốn confirm chắc chắn để đảo chiều/điều chỉnh đi xuống và đánh short, nếu là mình thì chờ một điểm breakout ở dưới này mới chắc chắn, an toàn, rồi đánh về khoảng 85 hoặc 84 rồi tính tiếp"},
+    {"gio": null, "cau": "USDT.D: mình nghĩ xác suất rất cao nó rướn một nhịp về 6.1 để test Fibo 0.618 rồi mới phục hồi đi lên. Tức thị trường mình đoán còn một nhịp tăng nữa, chưa biết đến bao nhiêu; có thể nó rướn quét qua khỏi râu này, ví dụ quét lên 87.000 rồi mới đi xuống"},
+    {"gio": null, "cau": "Mình không làm gì ở đây, vẫn chờ thị trường điều chỉnh."},
+    {"gio": null, "cau": "Đoạn này cần phòng thủ chứ không phải tấn công. ... Cuối nghĩa là nó đang đứng trước xác suất bị điều chỉnh rất cao. Thận trọng là không thừa."},
+    {"gio": null, "cau": "Bitcoin vừa đóng một cây H4 khá xanh, nhưng vẫn không out ra khỏi view hiện tại; view vẫn thế, vẫn các vùng này."},
+    {"gio": null, "cau": "Muốn nó gãy thì phải chứng kiến pha phá khỏi trendline này; còn không thì mọi người đừng cố đi cản tàu."}
+  ],
+  "kho": "Transcript không có mốc giờ. Phụ đề ghi kháng cự '77-78 (đỉnh cũ 78.300 [?])' rõ là lỗi chữ — theo mạch (giá 86–87, 'thực tế 87.000 là đỉnh rồi', target sau khi phá là 88/90/93) phải là 87–88. Người nói nói rõ xác suất phá lên cao hơn (tam giác đáy cao dần) nhưng đồng thời nhấn mạnh 'xác suất bị điều chỉnh rất cao', khả năng hai đỉnh H4 về 82–83, và USDT.D gợi ý 'lên nốt rồi đi xuống' → TANG độ chắc thấp. Đích chính ghi khoảng 88–93 theo chuỗi target 88, 90, 93 (điều kiện phá và đóng trên đỉnh ~87)."
+}

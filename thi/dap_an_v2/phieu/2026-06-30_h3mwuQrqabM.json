@@ -1,0 +1,148 @@
+{
+  "buoi": "2026-06-30_h3mwuQrqabM",
+  "ngay": "2026-06-30",
+  "gio_vn": "10:00",
+  "gia_btc_luc_noi": 59800,
+  "nhan_dinh": [
+    {
+      "khung": "H4",
+      "huong": "GIAM",
+      "do_chac": "thap",
+      "dich": [
+        58800,
+        59200
+      ],
+      "han": "trong ngày (cuối tháng, thị trường chưa biến động lớn đến ~4h sáng mai)",
+      "han_gio": 24,
+      "vo_hieu_khi": "break hẳn lên trên 61.000 (khả năng 62.000-63.000); H4 hồi lên 60.100 là tình thế khác, đi lên luôn",
+      "kich_ban_phu": "nếu thủng 59.000/59.400 và giao dịch dưới đó thì short xuống; nếu lên 61 thì tính 62-63; hồi tối đa khoảng 59.000 rồi gãy tiếp",
+      "ly_do": [
+        "vùng 59-61 là sideway tranh chấp, không nên phán lên hay xuống",
+        "phe bán chặn ở 60.000 đấm xuống; nên nghe phe bán nhiều hơn phe mua",
+        "nến H4 vừa đóng xấu rất xấu, vàng tiếp tục gãy nên BTC gãy xu hướng phục hồi",
+        "short thuận xu hướng lớn nhưng ngược xu hướng nhỏ nên ăn ngắn rồi chạy"
+      ],
+      "trich": "Nó phải gãy khỏi vùng 59.400 này. ... Nhưng mà chờ lên là short nó thuận hơn là cứ cố đi bắt đáy rất rủi ro.",
+      "doi_y": "đầu buổi: sideway 59-61 không phán, hai đáy chưa biết qua không; cuối buổi: nến H4 xấu, kéo xuống dưới 60, short scalping TP 59.2-58.8",
+      "duong_di": null
+    },
+    {
+      "khung": "W1",
+      "huong": "GIAM",
+      "do_chac": "vua",
+      "dich": null,
+      "han": "mỗi tháng có thể giảm ~10.000; thêm 2-3 nhịp giảm mới tìm thấy đáy",
+      "han_gio": null,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": "nếu giữ trên 60.000 qua tháng sau thì phục hồi lên khoảng 62 | đích dài hạn: 30.000-50.000",
+      "ly_do": [
+        "khung tuần lực bán cực lớn",
+        "nến tháng đỏ dài xấu, cần thêm tháng nữa rồi xanh rồi đỏ mới có đáy",
+        "tâm lý: Fear 15 phải xuống dưới 10 hai ngày mới hồi thật"
+      ],
+      "trich": "Cây nến tháng này cũng không có tốt đẹp gì. ... chúng ta sẽ phải trải qua khoảng hai đến ba nhịp giảm nữa thì mới gọi là tìm thấy đáy.",
+      "doi_y": null,
+      "duong_di": null
+    }
+  ],
+  "vung_gia": {
+    "khang_cu": [
+      60000,
+      61000
+    ],
+    "ho_tro": [
+      59000,
+      59400
+    ]
+  },
+  "lenh": [
+    {
+      "chieu": "SHORT",
+      "loai": "scalping nhanh (sáng)",
+      "vao": null,
+      "tp": [
+        59200,
+        58800
+      ],
+      "sl": null,
+      "trang_thai": "da_chot",
+      "trich": "Bắt nhanh quét lại tí thôi, 300 giá gì đó, được 2R thì phải. ... lúc sáng này chúng ta gỡ lại được cái lệnh stop loss đêm qua rồi."
+    },
+    {
+      "chieu": "SHORT",
+      "loai": "scalping mô hình cờ (cuối buổi)",
+      "vao": 59800,
+      "tp": [
+        59200,
+        58800
+      ],
+      "sl": null,
+      "trang_thai": "de_xuat_moi",
+      "trich": "Cái mô hình cờ này thì các bạn TP như những vùng lúc nãy, vẫn 59 thôi, 59.2 gì đó. ... 59k2 hoặc 58k8 gì đó."
+    }
+  ],
+  "nhin_lai_truoc": "Đêm qua dính SL một lệnh, sáng nay scalping short gỡ lại 2R; chốt sớm vì xu hướng nhỏ vẫn kéo lên, giá sau đó gãy 59.000 nên một số anh em tiếc. Hôm qua long ngon nhất ở nhịp 60 sáng, giờ thì không long.",
+  "cong_cu": [
+    "D1",
+    "H4",
+    "M30",
+    "Fibo",
+    "mô hình cờ/hai đáy",
+    "Fear and Greed",
+    "heatmap liquidation",
+    "funding",
+    "DOM",
+    "tâm lý thị trường"
+  ],
+  "tin_tuc": [
+    {
+      "tin": "Đóng nến tháng 6; 1/7 áp dụng thuế 0,1% giao dịch tài sản mã hóa; tối mai Chủ tịch FED mới phát biểu 20:00",
+      "danh_gia": "ngày mai-ngày kia va đập, thứ sáu-chủ nhật trở lại đi chung nhịp"
+    },
+    {
+      "tin": "Upbit niêm yết token AI",
+      "danh_gia": "kéo một số altcoin AI, vẫn không long WLD"
+    }
+  ],
+  "thoi_quen": [
+    "ngược xu hướng nhỏ thì ăn ngắn rồi chạy",
+    "vùng tranh chấp thì đứng ngoài chờ thoát ra",
+    "nghe thông điệp của thị trường: nghe phe bán",
+    "DCA in và DCA out (chốt nhỏ ra), không đòi chốt đỉnh",
+    "voucher thì đánh ngược vì free",
+    "không lách luật thuế, lưu lại lịch sử giao dịch"
+  ],
+  "cau_cua_mieng": [
+    "Lãi không chốt thì trời chu đất diệt.",
+    "Cách để chốt được ở trên đỉnh chỉ có DCA thôi. Cách để mua được ở đáy chỉ có DCA thôi.",
+    "Tụi mày đừng hòng lên được trên này, tụi tao chặn ở đây."
+  ],
+  "altcoin": [
+    {
+      "coin": "SOL",
+      "huong": "TANG",
+      "ghi": "break cờ H1, kỳ vọng 77-79 rồi 81; entry 69-70 gồng; short 77-79 'mời vào' nhưng không dạy"
+    },
+    {
+      "coin": "HYPE",
+      "huong": "TANG",
+      "ghi": "hai đáy H4 chuẩn sách giáo khoa nhưng chưa chắc lên tiếp"
+    },
+    {
+      "coin": "LAB",
+      "huong": "GIAM",
+      "ghi": "vai đầu vai H4, funding 0.6 rất căng"
+    },
+    {
+      "coin": "vàng",
+      "huong": "GIAM",
+      "ghi": "về đầu 38; ngắn hạn tiếp tục sell"
+    },
+    {
+      "coin": "ETH",
+      "huong": null,
+      "ghi": "không short ETH, mùa trước vẫn còn khả năng lên đẹp"
+    }
+  ],
+  "ghi_chu": "gio_vn mặc định. Giá khoảng 59.8-60.0 đầu buổi, 59.4 giữa buổi. Phần dài về thuế 1/7 bỏ qua. 'Short 59.8 rồi hả' là câu người xem; lệnh cuối buổi là gợi ý TP của cờ nên coi như đề xuất."
+}

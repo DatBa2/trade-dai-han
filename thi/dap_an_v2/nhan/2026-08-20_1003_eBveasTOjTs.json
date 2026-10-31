@@ -1,0 +1,46 @@
+{
+  "buoi": "2026-08-20_1003_eBveasTOjTs",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/lam_sach/2026-08-20_1003_eBveasTOjTs.md",
+  "gia_btc_luc_noi": 69500,
+  "dau_buoi": {
+    "thien_huong_h4": "TANG",
+    "gio": null,
+    "trich": "Fibo mở rộng cũng cho kết quả khoảng trên 71. Vậy hôm nay các bạn biết khả năng cao giá sẽ đi đến đâu. Những lệnh short hiện tại phải đánh cực kỳ nhạy bén, vào lủi cái là thoát."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "TANG",
+    "do_chac": "thap",
+    "gio": null,
+    "trich": "H4 đóng cũng không có ý nghĩa lắm. Khả năng là hồi ở đây rồi anh em; hồi đây lại không ăn được pha short rồi. Chờ về 68 nghìn mấy mà có vẻ trụ lại ở đây thôi."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {"huong": "TANG", "dich": [71000, 73000]},
+  "duong_di": [
+    {"huong": "GIAM", "dich": 68000},
+    {"huong": "TANG", "dich": [71000, 73000]}
+  ],
+  "dich_chinh": [71000, 73000],
+  "han_gio": null,
+  "vo_hieu": null,
+  "lenh": [
+    {"chieu": "SHORT", "vao": null, "tp": [68000], "sl": null, "trang_thai": "dang_giu"},
+    {"chieu": "SHORT", "vao": [70000, 74000], "tp": [], "sl": null, "trang_thai": "de_xuat_moi"},
+    {"chieu": "LONG", "vao": 68000, "tp": [], "sl": null, "trang_thai": "de_xuat_moi"}
+  ],
+  "hanh_dong": "dung_ngoai_cho_entry",
+  "khung_lon": {"D1": "PHAN_VAN", "W1": "GIAM"},
+  "pha_vo_gia": "Trendline D1: dù lên tận 73 vẫn chưa xác nhận break, có thể fake out lên đó rồi đi xuống; trendline tin ở khung tuần. Pha pump 64→70k là cú quét short lớn nhất lịch sử.",
+  "trich_them": [
+    {"gio": null, "cau": "Lệnh short lúc sáng cho anh em hiện đang chạy, chờ TP quanh 68."},
+    {"gio": null, "cau": "Nó đã pump như thế, mình đo mô hình cờ này (hôm trước mình cũng đo rồi): nó lên khoảng 71. Đo căng thì lên khoảng 72, 73.000."},
+    {"gio": null, "cau": "Chặng đường từ đây lên 71, 72 xét theo khung lớn rất dễ. Cho nên đừng vội an tâm với những entry short hay nến cản hiện tại"},
+    {"gio": null, "cau": "Cụm H4 này bắt đầu chưa ổn lắm, xác suất đoạn này có điều chỉnh là dễ hiểu."},
+    {"gio": null, "cau": "Mình đoán chắc nó về khoảng 68, về test lại vùng này thì có vẻ ok, xem xét ở đây; nếu có lực thì có thể bay lại."},
+    {"gio": null, "cau": "Hôm nay anh em hỏi đánh hướng nào thì đoạn này mình đánh cả hai phía, cả long cả short. ... Nếu đánh lên thì mình chờ quanh 68 này quan sát."},
+    {"gio": null, "cau": "Đoạn này tốt nhất là linh hoạt thị trường, đánh phải có sự linh hoạt, không có chiều nào quá nghiêng hẳn."},
+    {"gio": null, "cau": "Nếu short ở đây thì mình nghĩ phải xét một limit để open khoảng 70 trở lên hoặc 71 cho đến 74. Nhưng phải phòng trường hợp xấu là nó quét lên tận 77.000."},
+    {"gio": null, "cau": "Hôm qua anh nói lên 70K, nhưng để phá xu hướng thì phải 73K mới gọi là đảo chiều, vẫn view sập thôi? — Đúng rồi. ... Còn vùng này đảo chiều thành uptrend luôn thì mình nghĩ khó lắm"}
+  ],
+  "kho": "Transcript không có mốc giờ. Buổi rất hai chiều: người nói đo đích 71–73 ('khả năng cao'), dự đoán điều chỉnh về 68 trước (RSI H4 87), vẫn giữ short sáng TP 68, đề xuất short limit 70–74 (phòng quét 77) và chờ long quanh 68; tự nói 'đánh cả hai phía, không có chiều nào quá nghiêng hẳn'. Ghi TANG độ chắc thấp theo đích 71–73; cuối buổi nhận giá trụ lại, khó về 68. Khung lớn vẫn view sập sau nhịp hồi. Có thể tranh luận PHAN_VAN."
+}

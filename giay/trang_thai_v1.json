@@ -1,0 +1,27 @@
+{
+ "so_du": 4000.0,
+ "vithe": {},
+ "cho": {},
+ "lenh": [],
+ "pheu": {},
+ "huy": {},
+ "pha_moc": {},
+ "von": [],
+ "nen_cuoi": null,
+ "bot": "v1",
+ "mo_ta": "v1 — luật chay.py (vào EMA34, SL giá, TP fractal)",
+ "co": {
+  "di_ngang": false,
+  "nen_lon": false,
+  "pha_moc": false,
+  "sl_dong": false,
+  "tp_fibo": false,
+  "vang_scalp": false
+ },
+ "bat_dau_vn": "2026-10-31 00:00",
+ "tao_luc_vn": "2026-10-31 01:03",
+ "tin_hieu": {},
+ "so_nen_da_xu_ly": 0,
+ "cap_nhat_vn": "2026-10-31 01:03",
+ "von_theo_gia_tt": 4000.0
+}

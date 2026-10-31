@@ -1,0 +1,60 @@
+{
+  "buoi": "2026-02-06_PLl8AM0RxEM",
+  "ngay": "2026-02-06",
+  "gio_vn": "10:00",
+  "gia_btc_luc_noi": 64500,
+  "nhan_dinh": [
+    {
+      "khung": "H4",
+      "huong": "TANG",
+      "do_chac": "vua",
+      "dich": [75000, 80000],
+      "han": "từ giờ đến cuối tuần; thứ sáu, thứ bảy, chủ nhật, thứ hai khả năng phục hồi",
+      "han_gio": 168,
+      "vo_hieu_khi": "mất đáy 59.000-60.000 (râu quét 59.000)",
+      "kich_ban_phu": "có thể vòng về test lại râu thêm lần nữa rồi mới lên (xác suất khoảng 50%); chỉ hồi 3.000 giá rồi gãy tiếp; hồi chậm dập lên dập xuống nhiều vòng, không vút lên 80 lấp gap ngay",
+      "ly_do": [
+        "BTC chạm 62.000 là full TP mô hình cờ, nến ngày kéo lên đúng 62.000; râu quét tới 59.000-60.800 rồi bật",
+        "Fear and Greed về 9, đám đông view down hết, thị trường hoảng sợ thì mua",
+        "Hyperliquid khoảng 1 triệu khối lượng nghiêng short chờ thanh lý, short đòn bẩy lớn FOMO",
+        "mô hình cờ khung lớn đã full TP thì khó có hồi để short (kinh nghiệm rút ra)"
+      ],
+      "trich": "Hôm nay tinh thần của mình là khả năng có nhịp hồi. Còn lại nó có test để mà hồi hay không thì cũng bình thường.",
+      "doi_y": "những ngày trước view giảm về 62.000 và short; từ hôm nay đổi sang đừng short nữa, chờ nhịp hồi vì đã full TP",
+      "duong_di": null
+    },
+    {
+      "khung": "chung",
+      "huong": "GIAM",
+      "do_chac": "thap",
+      "dich": [50000, 53000],
+      "han": "sau nhịp hồi; về 40.000 là mua mạnh; lấp gap 20.000 cuối năm 2026",
+      "han_gio": null,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": "view về 53 gần như khó, cực kỳ khó vì tâm lý quá bi quan; về 5x hoặc 4x chỉ là râu",
+      "ly_do": ["vẫn là xu hướng giảm, đoạn này phải hồi lên tí rồi mới sập tiếp", "đỉnh vàng sập kéo mọi thị trường sập theo"],
+      "trich": "Đoạn này mình nghĩ sẽ phải hồi lên tí rồi mới sập tiếp được.",
+      "doi_y": null,
+      "duong_di": [
+        {"huong": "TANG", "dich": [75000, 80000]},
+        {"huong": "GIAM", "dich": 50000}
+      ]
+    }
+  ],
+  "vung_gia": {"khang_cu": [75000, 83000], "ho_tro": [59000, 62000]},
+  "lenh": [
+    {"chieu": "LONG", "loai": "spot lướt, chia nhỏ limit", "vao": [62000, 65000], "tp": [75000, 80000], "sl": null,
+     "trang_thai": "da_khop",
+     "trich": "Mình vừa mua lướt xong. Những nhịp xả từ đêm hôm qua cho đến sáng ngày hôm nay mua một ít spot lướt thôi. Xác định lướt thôi."},
+    {"chieu": "SHORT", "loai": "đang giữ", "vao": 125000, "tp": null, "sl": null,
+     "trang_thai": "dang_giu",
+     "trich": "Cái lệnh từ 125.000 mình vẫn còn nhưng mà mình không chốt. Bây giờ thì cái lệnh đó nó full lực rồi."}
+  ],
+  "nhin_lai_truoc": "Đã nói vùng 62.000 từ lâu, hôm nay nến ngày kéo lên đúng 62.000 (lệch 500 giá), chạm đáy râu 59.000-60.800; phương pháp 'không trượt một tí nào'. Hôm qua đo 15% bắt râu: ETH 1800, BNB 580.",
+  "cong_cu": ["mô hình cờ khung ngày", "Fear and Greed", "đo 15% limit bắt râu", "gap CME 81-83 và 93 và 20", "MA34 H4", "liquidation Hyperliquid", "tâm lý đám đông"],
+  "tin_tuc": [{"tin": "tin cuối tuần", "danh_gia": "thứ sáu đến thứ hai khả năng thị trường phục hồi"}],
+  "thoi_quen": ["thị trường hoảng sợ chúng ta mua, FOMO chúng ta bán", "mua lướt phải ghi rõ SL/TP, chọn top 5", "short thấy lãi thì chốt, không thêm short ở đáy", "không đặt SL số chẵn 60.000, râu quét 59.000", "TP chia đều, bán khi lấp gap hoặc Fear and Greed FOMO", "âm thầm mua, đừng hô"],
+  "cau_cua_mieng": ["Thị trường hoảng sợ chúng ta mua, thị trường FOMO chúng ta bán.", "Đỉnh là người bi quan nhất cũng trở nên lạc quan. Đáy là người lạc quan nhất cũng trở nên bi quan.", "Nỗi đau nhân ba."],
+  "altcoin": [{"coin": "ETH", "huong": "TANG", "ghi": "đo 15% từ hôm qua về 1800 để bắt râu, hồi cùng BTC"}, {"coin": "vàng/bạc", "huong": "GIAM", "ghi": "xu hướng giảm, xả ác, vàng có thể đi biên tam giác"}, {"coin": "altcoin chung", "huong": null, "ghi": "chỉ chơi con lớn, không có altcoin season"}],
+  "ghi_chu": "BTC lúc nói suy từ 'hồi 75-80', râu 59.000-60.800, đã chạm 62.000; có thể quanh 64.000-66.000. 'short 64K6' trong câu hỏi cho thấy giá gần 64.600. Các mốc '5x/6x' chỉ là con số nghìn."
+}

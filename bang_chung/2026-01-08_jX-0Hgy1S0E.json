@@ -1,0 +1,182 @@
+[
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[0].trich",
+  "trich": "Thủng 90 thì về 88. Thủng 89 về 88. Gap thì bản chất nó sinh ra rồi nó lấp thôi.",
+  "giay": 2996,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=jX-0Hgy1S0E&t=2996s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[1].trich",
+  "trich": "Đừng có vội. Chúng ta mới đang ở những vùng trên này thôi, 90 95.000, 87.000, 60.000, 50.000 còn chưa thấy. Dưới nữa mới là 40.000, 30.000, rồi 20.000.",
+  "giay": 2384,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=jX-0Hgy1S0E&t=2384s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "lenh[0].trich",
+  "trich": "Lệnh short của chúng ta vẫn đang lãi, lãi nhẹ. ... Đường này 90.000 chốt TP 90.000. Ăn ngắn thôi.",
+  "giay": 3390,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=jX-0Hgy1S0E&t=3390s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "lenh[1].trich",
+  "trich": "Nếu về đây mà long ăn được thì cũng nên té khoảng 1000 giá là phải TP1.",
+  "giay": 4164,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=jX-0Hgy1S0E&t=4164s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[0].trich",
+  "trich": "Gửi lại cái gap này cho mọi người xem. Lúc đó đang ở 91.00, gap 91 và 90.00. Gap 2 là 88.",
+  "giay": 972,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=jX-0Hgy1S0E&t=972s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[1].trich",
+  "trich": "Fibo thì có thằng 87.000 này vẫn là Fibo 0.5. Nếu nó về đến gap 2, gap 88 thì nó sẽ về đến Fibo này. Chủ yếu là cái gap mới quan trọng.",
+  "giay": 1219,
+  "do_giong": 0.771,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=jX-0Hgy1S0E&t=1219s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[2].trich",
+  "trich": "thằng 87.000 này vẫn là Fibo 0.5.",
+  "giay": 1220,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=jX-0Hgy1S0E&t=1220s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[3].trich",
+  "trich": "nó có thể sẽ còn một nhịp lên được khoảng 96 nữa. Tức là test đường MA89 này.",
+  "giay": 1068,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=jX-0Hgy1S0E&t=1068s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[4].trich",
+  "trich": "Nhịp thứ hai là ăn được nhịp short từ khoảng 96, 100 cho đến về đến dưới đáy này.",
+  "giay": 1162,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=jX-0Hgy1S0E&t=1162s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[5].trich",
+  "trich": "phải chờ có một cây H4 đóng màu xanh lên trên khỏi MA34 tức là trên vùng giá 91.000 thì lúc đó chúng ta hẵng nghĩ đến câu chuyện long đuổi",
+  "giay": 1349,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=jX-0Hgy1S0E&t=1349s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[6].trich",
+  "trich": "nó có lên lại khoảng 91.000... mình có short một cái entry 91.00, 9100 gì đó",
+  "giay": 1459,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=jX-0Hgy1S0E&t=1459s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[7].trich",
+  "trich": "Chúng ta mới đang ở những vùng trên này thôi, 90 95.000, 87.000, 60.000, 50.000 còn chưa thấy.",
+  "giay": 2386,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=jX-0Hgy1S0E&t=2386s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[8].trich",
+  "trich": "60.000, 50.000 còn chưa thấy. Dưới nữa mới là 40.000, 30.000, rồi 20.000",
+  "giay": 2398,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=jX-0Hgy1S0E&t=2398s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[9].trich",
+  "trich": "Dưới nữa mới là 40.000, 30.000, rồi 20.000, nó còn nằm sâu dưới.",
+  "giay": 2403,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=jX-0Hgy1S0E&t=2403s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[10].trich",
+  "trich": "À quên check liquid rồi. Hôm qua ăn được nhiều liquid. 90.000... chốt TP 90.000. Ăn ngắn thôi.",
+  "giay": 3406,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=jX-0Hgy1S0E&t=3406s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[11].trich",
+  "trich": "Có hai vùng lấp gap, chờ vùng đầu tiên quanh 90.000... nếu nến đẹp thì mới chơi, còn không thì chờ về khoảng vùng 88.",
+  "giay": 3693,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=jX-0Hgy1S0E&t=3693s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[12].trich",
+  "trich": "còn không thì chờ về khoảng vùng 88.",
+  "giay": 3712,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=jX-0Hgy1S0E&t=3712s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[13].trich",
+  "trich": "Trở về đây thì hợp lưu MA, vừa MA89 vừa đường MA200 ở trên khung 30 phút... Ăn ngắn khoảng 91, tức khoảng 1000 giá là chốt long",
+  "giay": 3778,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=jX-0Hgy1S0E&t=3778s",
+  "anh": []
+ }
+]

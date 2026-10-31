@@ -1,0 +1,445 @@
+{
+  "buoi": "2026-08-07_N-7XihrObp8",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/zip_clean/2026-08-07_N-7XihrObp8.txt",
+  "gia_btc_luc_noi": 64000,
+  "dau_buoi": {
+    "thien_huong_h4": "TANG",
+    "gio": "[00:25:09]",
+    "trich": "Được một điều là H4 này cross qua khá ổn rồi. Bây giờ đây sẽ trở thành vùng hỗ trợ như hôm qua mình nói, trước mắt chúng ta sẽ chờ phản ứng ở vùng 64. Nếu nó quét về khoảng 64 này một hai phát mà vẫn trụ được thì mình nghĩ nó vẫn giữ được đà này và đi lên back test."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "TANG",
+    "do_chac": "thap",
+    "gio": "[00:56:35]",
+    "trich": "H1 đóng qua trên live dễ rụng. Cứ chờ thôi. Trụ thì tốt mà nó phải phá qua được đoạn này chứ đoạn 64 này nó trụ ác lắm và nó vẫn từ từ đi lên. Không có gì bất ngờ. H4 chúng ta cũng xấu, D1 thì cũng xấu. H1 cũng xấu, H4 cũng vậy thôi. Tốt nhất là vẫn cứ giữ view. Nếu anh em muốn đánh long này thì chờ ở vùng 63.00 cho đến 63.00300 dưới này."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {
+    "huong": "GIAM",
+    "dich": [
+      63000,
+      63500
+    ]
+  },
+  "duong_di": [
+    {
+      "huong": "GIAM",
+      "dich": [
+        63000,
+        63500
+      ]
+    },
+    {
+      "huong": "TANG",
+      "dich": 65000
+    }
+  ],
+  "dich_chinh": 65000,
+  "han_gio": null,
+  "vo_hieu": {
+    "gia": 63000,
+    "khung": "H4",
+    "so_nen": 1,
+    "chieu": "dong_duoi",
+    "cau": "Còn nếu chúng ta có một cây nến H4 đóng màu đỏ xuyên qua khỏi cụm này thì coi như thôi, không có long nữa, không có bay nữa."
+  },
+  "lenh": [
+    {
+      "chieu": "SHORT",
+      "vao": null,
+      "tp": [],
+      "sl": null,
+      "trang_thai": "dang_giu"
+    },
+    {
+      "chieu": "LONG",
+      "vao": [
+        63000,
+        63500
+      ],
+      "tp": [],
+      "sl": null,
+      "trang_thai": "de_xuat_moi"
+    }
+  ],
+  "hanh_dong": "dung_ngoai_cho_entry",
+  "khung_lon": {
+    "D1": "GIAM",
+    "W1": null
+  },
+  "pha_vo_gia": "H4 vượt 64.000 nhưng bị trả về nhanh; muốn long phải chờ một cú quét stop loss / kill nhóm liquid long phía dưới (63.000-63.500) rồi mới vào. Tin Non-farm tối nay dễ quét hai đầu.",
+  "trich_them": [
+    {
+      "gio": "[00:21:54]",
+      "cau": "Hôm qua nó trả về lại một cây nến D1 màu đỏ và vẫn chưa qua được cản 65 này."
+    },
+    {
+      "gio": "[00:22:25]",
+      "cau": "Đến tối nó lên đến 64.900 nhưng vẫn quyết tâm không chạm được mốc 65.000. Và D1 thì chưa vượt qua cản. H4 thì vượt qua được khỏi 64.000 nhưng sau đó lại bị trả về nhanh chóng."
+    },
+    {
+      "gio": "[00:23:33]",
+      "cau": "Thủng H1 này một cái thì chắc tụt về khoảng 63.000. Còn nếu cứ bám được trendline này thì sẽ đi lên."
+    },
+    {
+      "gio": "[00:24:05]",
+      "cau": "Cho nên vùng này tạm thời chưa nên long. Nếu các bạn muốn long thì mình nghĩ anh em nên chờ một cú quét stop loss ở phía dưới này thì may ra chúng ta chờ long và có entry long được, đỡ nguy hiểm hơn. Hiện tại mình đang short nhẹ short test để đánh xuống dưới này. Scalping một tí"
+    },
+    {
+      "gio": "[00:25:39]",
+      "cau": "Nói chung trạng thái hiện tại, vùng giá này đánh chiều nào cũng khó chịu hết. Nhưng an toàn nhất vẫn là chờ điều chỉnh xuống rồi long lên sẽ an toàn hơn."
+    },
+    {
+      "gio": "[00:27:21]",
+      "cau": "Vẫn là hai vùng 64.000 dưới nữa thì 63.000, còn trên thì vẫn là 65.000 ... Ví dụ nó quét về dưới 63.000 này, cũng trùng với view của mình, chờ về đó thì chúng ta tìm vị thế để setup đánh lên sẽ an toàn hơn."
+    },
+    {
+      "gio": "[00:42:45]",
+      "cau": "Giống như Bitcoin nếu đoạn này nó gãy một phát thì về lại 62 này luôn thì chết."
+    },
+    {
+      "gio": "[00:54:53]",
+      "cau": "Tối nay 63k3 đơn giản có gì đâu, 63k cần gì nghĩ. 63k3 thì nằm trong vùng lúc nãy mình nói rồi. 63k5 đến 63k. Vùng này có gì đâu mà nghĩ. Quét thì tốt thôi."
+    },
+    {
+      "gio": "[00:58:16]",
+      "cau": "SL thì ở dưới vùng sau 3. Nếu chờ đó là SL về dưới vùng sau 3. Thị trường này vẫn thế. Khả năng cao thì nó đi sideway để chờ tin tối nay."
+    }
+  ],
+  "nhin_lai_view_truoc": {
+    "view_truoc": "TANG",
+    "giu_hay_doi": "giu",
+    "vi_sao": "H4 MA đã cross, vùng 64 trở thành hỗ trợ như hôm qua nói → vẫn giữ view chờ long; nhưng D1 hôm qua đóng đỏ, lên 64.900 không chạm 65, H4 vượt 64 bị trả về nhanh, H1 bắt đầu phá đáy → chưa long, chờ quét xuống 63–63.5.",
+    "gio": "[00:25:09]",
+    "trich": "Được một điều là H4 này cross qua khá ổn rồi. Bây giờ đây sẽ trở thành vùng hỗ trợ như hôm qua mình nói, trước mắt chúng ta sẽ chờ phản ứng ở vùng 64"
+  },
+  "trendline": [
+    {
+      "khung": "H4",
+      "loai": "khang_cu_giam",
+      "noi_tu": "Trendline H4 (cản cũ của kênh giảm, đã bị phá hôm trước), giá đang backtest; anh em trong nhóm cũng vẽ như vậy; không nêu điểm neo",
+      "diem_neo": [
+        {
+          "ngay": null,
+          "gia": null
+        }
+      ],
+      "gia_duong_luc_noi": 64000,
+      "trang_thai": "pha_roi_test_lai",
+      "dieu_kien_pha": "Giữ backtest ~64 thì đi lên; nhưng sóng yếu",
+      "ket_luan_huong": "TANG",
+      "gio": "[00:22:59]",
+      "trich": "Hiện tại H4 ở đây chúng ta nhìn rất dễ câu chuyện back test trendline. Một vài anh em trong nhóm cũng vẽ như thế này. Về bản chất nhìn ở đây quá rõ rồi, không có gì lạ, hoàn toàn back test ở đoạn này. Nhưng có một điều là sóng nó yếu."
+    },
+    {
+      "khung": "H1",
+      "loai": "ho_tro_tang",
+      "noi_tu": "Trendline H1 nối các đáy cao dần trước đó, giá đang trụ nhẹ trên đường này; không nêu điểm neo",
+      "diem_neo": [
+        {
+          "ngay": null,
+          "gia": null
+        }
+      ],
+      "gia_duong_luc_noi": null,
+      "trang_thai": "dang_giu",
+      "dieu_kien_pha": "Thủng H1 khỏi trendline → tụt về ~63.000; bám được thì đi lên",
+      "ket_luan_huong": null,
+      "gio": "[00:23:33]",
+      "trich": "H1 thì vẫn đang trụ nhẹ ở đường này, ở đáy dưới này, ở trendline này. Thủng H1 này một cái thì chắc tụt về khoảng 63.000. Còn nếu cứ bám được trendline này thì sẽ đi lên. Nhưng H1 đi kiểu này thì chúng ta thấy càng ngày càng xấu vì bên này nó phá đáy dần. Trước đó nó bám trend này đi lên và vẫn [00:24:05] giữ được đáy cao."
+    }
+  ],
+  "nen_volume": [
+    {
+      "khung": null,
+      "nen": "Nến đi ngang mãi, đi rất chậm, rất yếu, ít sóng",
+      "volume": "Không có thanh khoản",
+      "ket_luan": "Đặc trưng downtrend — sideway chán, ăn ngắn",
+      "gio": "[00:10:10]",
+      "trich": "Thị trường đang thể hiện một down trend quá rõ rệt khi anh em thấy những chuyển động trên thị trường không có nhiều. Đi rất chậm, rất yếu, không có giá nào hết, không chạy nhiều sóng. Đây là một trong những đặc trưng nhất của thị trường down trend. Có nghĩa là nó cứ đi chậm, rất chán, không có thanh khoản, chạy từ từ vậy. Nến cứ đi ngang mãi"
+    },
+    {
+      "khung": "D1",
+      "nen": "D1 hôm qua trả lại một cây đỏ, chưa qua cản 65 (lên 64.900)",
+      "volume": null,
+      "ket_luan": "Chưa confirm lên",
+      "gio": "[00:21:54]",
+      "trich": "Hôm qua nó trả về lại một cây nến D1 màu đỏ và vẫn chưa qua được cản 65 này. Hôm qua nó đóng một nến xanh tiệm cận ở đây và kỳ vọng [00:22:25] là nó sẽ lên 65.000 và phá được cản 65 bên này trên khung ngày để confirm lên cho đẹp."
+    },
+    {
+      "khung": "H4",
+      "nen": "H4 vượt 64.000 rồi bị trả về nhanh; backtest trendline nhưng sóng yếu",
+      "volume": null,
+      "ket_luan": "Chưa long",
+      "gio": "[00:22:59]",
+      "trich": "H4 thì vượt [00:22:59] qua được khỏi 64.000 nhưng sau đó lại bị trả về nhanh chóng."
+    },
+    {
+      "khung": "H1",
+      "nen": "H1 đổ đèo: đáy thấp dần, phá đáy, phá đỉnh",
+      "volume": null,
+      "ket_luan": "Tạm chưa long; chờ quét SL phía dưới",
+      "gio": "[00:24:05]",
+      "trich": "Nhưng hiện tại bắt đầu có trạng thái đổ đèo, thấp dần, phá đáy và phá đỉnh. Cho nên vùng này tạm thời chưa nên long."
+    },
+    {
+      "khung": "M15",
+      "nen": "Chờ nến M15 / H1 / M30 đẹp ở 63.000; H1, M30, M15 đều kẹp giữa hai MA",
+      "volume": null,
+      "ket_luan": "Nến đẹp ở 63 mới tìm entry long",
+      "gio": "[00:24:38]",
+      "trich": "Nếu nến khoảng 15 phút hay H1 30 phút gì đó đẹp ở vùng 63.000 này thì sẽ tìm entry long. Nhưng phải chờ nến. H1 các bạn thấy cũng bị kẹp giữa hai đường MA. 30 phút cũng vậy, 15 phút cũng vậy."
+    },
+    {
+      "khung": "H4",
+      "nen": "Râu nến H4 về 63 thì chấp nhận; H4 đóng đỏ xuyên qua cụm thì bỏ long",
+      "volume": null,
+      "ket_luan": "Phân biệt râu (quét) với thân nến đóng (gãy)",
+      "gio": "[00:25:09]",
+      "trich": "Còn trong trường hợp vì sao mình cứ chờ thêm một vùng ở 63.000 ở dưới này thì đó là mình chờ cái râu nến trên khung H4. Còn nếu [00:25:39] chúng ta có một cây nến H4 đóng màu đỏ xuyên qua khỏi cụm này thì coi như thôi, không có long nữa, không có bay nữa."
+    },
+    {
+      "khung": null,
+      "nen": "Cả buổi sáng chỉ chạy vài trăm giá",
+      "volume": null,
+      "ket_luan": "Khó chơi",
+      "gio": "[00:45:31]",
+      "trich": "Thị trường bây giờ anh em thấy một cây nến hoặc nguyên cả buổi sáng nó chỉ chạy trong vòng khoảng vài trăm giá thế này thì chơi gì đây."
+    },
+    {
+      "khung": "H1",
+      "nen": "H1 đóng qua trên live dễ rụng; 64 trụ rất chắc và từ từ đi lên; H4, D1, H1 đều xấu",
+      "volume": null,
+      "ket_luan": "Giữ view, long chờ 63–63.3",
+      "gio": "[00:56:35]",
+      "trich": "H1 đóng qua trên live dễ rụng. Cứ chờ thôi. Trụ thì tốt mà nó phải phá qua được đoạn này chứ đoạn 64 này nó trụ ác lắm và nó vẫn từ từ đi lên. Không có gì bất ngờ. H4 chúng ta cũng xấu, D1 thì cũng xấu."
+    }
+  ],
+  "cach_lam": [
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "Nhận diện downtrend qua nhịp chạy: chậm, yếu, ít sóng, không thanh khoản",
+      "ket_qua": "Ăn ngắn, không gồng",
+      "gio": "[00:10:42]",
+      "trich": "một trong những đặc trưng nhất của thị trường down trend. Có nghĩa là nó cứ đi chậm, rất chán, không có thanh khoản, chạy từ từ vậy."
+    },
+    {
+      "hanh_dong": "ke",
+      "cong_cu": "trendline",
+      "chi_tiet": "H4: trendline đang backtest; H1: trendline đáy cao dần",
+      "ket_qua": "Thủng H1 → 63; bám → lên",
+      "gio": "[00:23:33]",
+      "trich": "H1 thì vẫn đang trụ nhẹ ở đường này, ở đáy dưới này, ở trendline này."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "ema",
+      "chi_tiet": "H4: MA đã cross → hỗ trợ 64; H1/M30/M15 kẹp giữa hai MA",
+      "ket_qua": "Sideway; chờ 64 rồi 63",
+      "gio": "[00:24:38]",
+      "trich": "H1 các bạn thấy cũng bị kẹp giữa hai đường MA. 30 phút cũng vậy, 15 phút cũng vậy. Nói chung thị trường đi sideway mãi ở vùng này. Được một điều là H4 này cross qua khá ổn rồi"
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "heatmap",
+      "chi_tiet": "Nhóm liquid long (màu xanh) dài đặc phía dưới; liquid 64, 63 dưới và 65 trên",
+      "ket_qua": "Chờ kill bớt/kill sạch nhóm long phía dưới rồi long; đánh đầu nào thì chờ quét một đầu",
+      "gio": "[00:26:46]",
+      "trich": "An toàn thì có thể chờ nhóm màu xanh này bị kill bớt đi hoặc kill sạch đi thì càng tốt. Lúc đó anh em nhảy vào lại đối với tàu long sẽ an toàn hơn. Các bạn có thể thấy dưới này là một đám rất dài đặc để chờ bị húp. Liquid thì chúng ta thấy hiện tại hai vùng giá liquid này vẫn luôn hiện diện. Bên này nó cũng thế. Vẫn là hai vùng 64.000 dưới nữa thì 63.000, còn trên thì vẫn là 65.000. Vẫn chặn hai đầu như thường lệ"
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "BTC.D đi lên, đô sideway; Fear & Greed 29",
+      "ket_qua": "Cuối tuần có thể có sóng nhỏ altcoin khung nhỏ",
+      "gio": "[00:28:24]",
+      "trich": "BTC.DOM đang đi lên mà đô thì đi sideway, đi như này chúng ta cũng có thể kỳ vọng cuối tuần này sẽ có những sóng nhỏ cho Altcoin chạy nhẹ. Ví dụ một vài đồng coin có những sự phục hồi nho nhỏ trong ngắn hạn trong khung nhỏ, ví dụ M15 kiểu như vậy. AVAX hôm qua một setup rất đẹp nhưng sau đó vẫn thất bại. Không biết có tin gì không vì bán xuống ngay ở đoạn này luôn. Đóng một cây H4 no hope. ADA này hôm qua anh em nào xem ở đây thì ăn được một tí sau đó lại đẩy lên rồi lại thả xuống. Nó cứ đi loanh quanh như vậy. Altcoin mình nghĩ chắc phải chờ ngày mai. Thị trường down trend thì ra cũng không có gì hấp dẫn lắm. 29 là điểm Fear and Greed hôm nay"
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "Quy trình: xu hướng dài/ngắn, tin tức, vùng thanh lý, tâm lý, tương quan (dầu, vàng), rồi từ khung lớn xuống khung nhỏ để tìm điểm vào",
+      "ket_qua": null,
+      "gio": "[00:46:41]",
+      "trich": "Từ xu hướng dài, xu hướng ngắn, các tin tức, các vùng thanh lý, tâm lý thị trường, những cặp khác, những đồng khác tương quan có tác động ví dụ như dầu, vàng thì có tác động nên chúng ta cũng phải phân tích kèm theo. Khi hết những thông tin đó đi vào mỗi con, con BTC chẳng hạn thì sẽ đi từ khung lớn cho đến khung nhỏ. Xác định xu hướng sau đó là tìm điểm vào"
+    }
+  ],
+  "vung_nguoi_do": [
+    {
+      "loai": "khang_cu",
+      "tu": 65000,
+      "den": 65000,
+      "gio": "[00:21:54]",
+      "trich": "Hôm qua nó trả về lại một cây nến D1 màu đỏ và vẫn chưa qua được cản 65 này."
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 64900,
+      "den": 64900,
+      "gio": "[00:22:25]",
+      "trich": "Đến tối nó lên đến 64.900 nhưng vẫn quyết tâm không chạm được mốc 65.000."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 64000,
+      "den": 64000,
+      "gio": "[00:25:09]",
+      "trich": "trước mắt chúng ta sẽ chờ phản ứng ở vùng 64. Nếu nó quét về khoảng 64 này một hai phát mà vẫn trụ được thì mình nghĩ nó vẫn giữ được đà này và đi lên back test."
+    },
+    {
+      "loai": "dich",
+      "tu": 63000,
+      "den": 63000,
+      "gio": "[00:23:33]",
+      "trich": "Thủng H1 này một cái thì chắc tụt về khoảng 63.000."
+    },
+    {
+      "loai": "vao",
+      "tu": 63000,
+      "den": 63000,
+      "gio": "[00:24:38]",
+      "trich": "Còn nếu long thì chắc sẽ chờ nó phản ứng ở dưới vùng 63.000 này."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 63000,
+      "den": 63000,
+      "gio": "[00:27:21]",
+      "trich": "Vẫn là hai vùng 64.000 dưới nữa thì 63.000, còn trên thì vẫn là 65.000."
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 65000,
+      "den": 65000,
+      "gio": "[00:27:21]",
+      "trich": "còn trên thì vẫn là 65.000. Vẫn chặn hai đầu như thường lệ."
+    },
+    {
+      "loai": "dich",
+      "tu": 62000,
+      "den": 62000,
+      "gio": "[00:42:45]",
+      "trich": "Giống như Bitcoin nếu đoạn này nó gãy một phát thì về lại 62 này luôn thì chết."
+    },
+    {
+      "loai": "vao",
+      "tu": 63000,
+      "den": 63500,
+      "gio": "[00:54:53]",
+      "trich": "63k3 thì nằm trong vùng lúc nãy mình nói rồi. 63k5 đến 63k. Vùng này có gì đâu mà nghĩ. Quét thì tốt thôi."
+    },
+    {
+      "loai": "vao",
+      "tu": 63000,
+      "den": 63300,
+      "gio": "[00:57:09]",
+      "trich": "Nếu anh em muốn đánh long này thì chờ ở vùng 63.00 cho đến 63.00300 dưới này."
+    },
+    {
+      "loai": "sl",
+      "tu": 63000,
+      "den": 63000,
+      "gio": "[00:58:16]",
+      "trich": "SL thì ở dưới vùng sau 3. Nếu chờ đó là SL về dưới vùng sau 3."
+    }
+  ],
+  "view_trung_han": [
+    {
+      "khung": "D1",
+      "huong": "GIAM",
+      "dich": null,
+      "han": null,
+      "mat_view_khi": "D1 phá được cản 65 thì mới confirm lên",
+      "gio": "[00:56:35]",
+      "trich": "H4 chúng ta cũng xấu, D1 thì cũng xấu. H1 cũng xấu, H4 cũng vậy thôi."
+    },
+    {
+      "khung": "M1",
+      "huong": "GIAM",
+      "dich": null,
+      "han": "những tháng buồn chán nhất của downtrend; đi chậm ru ngủ rồi lâu lâu gãy",
+      "mat_view_khi": null,
+      "gio": "[00:37:44]",
+      "trich": "Những tháng ngày này là những tháng ngày gần như buồn chán nhất của down trend rồi. Mọi người sẽ thấy thị trường cứ đi ngang đi ngang thì đôi khi anh em nghĩ down trend cứ nghe tưởng sợ nhưng nó đâu có gãy, đúng không? Nhưng thực tế nó cứ đi chậm để cho anh em chủ quan với lại ru ngủ rồi lâu lâu nó làm vài pha gãy thế thôi. Chủ yếu để kéo giá đi xuống. Đối với một thị trường mà nó đứng như thế này là gần như không có hào hứng hay mới mẻ gì, dòng tiền đổ vào đây không có. Nếu nó đi kiểu như này là không có gì. ADA hả? Con này nến D1 đẹp. Nến ngày này dễ phá lên thêm được khoảng 10% nữa. Nếu anh em có entry ở dưới thì gồng được. SUI tăng lượng coin đốt gấp năm lần, không biết mùa tới có ổn không. Nói chung đối với SUI thì mình vẫn chưa thấy cánh cửa nào ổn cho mùa tới hết. Cho dù có tin gì đi nữa, BTC sai nhưng không gãy, xác suất lên vẫn có, nhưng không thể dùng cách phân tích đó áp dụng cho thị trường down trend được. Nó không gãy không có nghĩa là nó không gãy, nó chưa gãy thôi"
+    }
+  ],
+  "vung_tranh": [
+    {
+      "tu": 63500,
+      "den": 64900,
+      "vi_sao": "Tạm chưa long ở giá market: H1 đổ đèo phá đáy, H4 bị trả về; vào giá market rủi ro — chờ quét SL/kill nhóm long xuống 63–63.5",
+      "gio": "[00:24:05]",
+      "trich": "Cho nên vùng này tạm thời chưa nên long. Nếu các bạn muốn long thì mình nghĩ anh em nên chờ một cú quét stop loss ở phía dưới này"
+    }
+  ],
+  "giu_dong": [
+    {
+      "lenh": "Mọi lệnh trong thị trường sóng nhỏ",
+      "quyet_dinh": "dong",
+      "khi_nao": "Ăn ngắn; gồng là mất lãi",
+      "gio": "[00:14:43]",
+      "trich": "Đoạn này chơi con nào cũng nên ăn ngắn thôi. Nó không có xu hướng cụ thể. Gồng là mất lãi."
+    },
+    {
+      "lenh": "Short test BTC nhẹ (scalping)",
+      "quyet_dinh": "giu",
+      "khi_nao": "Scalp xuống vùng dưới",
+      "gio": "[00:24:05]",
+      "trich": "Hiện tại mình đang short nhẹ short test để đánh xuống dưới này. Scalping một tí [00:24:38] xem sao."
+    },
+    {
+      "lenh": "Long chờ ở 63–63.5",
+      "quyet_dinh": "dong",
+      "khi_nao": "SL dưới 63; nếu H4 đóng đỏ xuyên qua cụm thì bỏ long hẳn",
+      "gio": "[00:25:09]",
+      "trich": "Còn nếu chúng ta có một cây nến H4 đóng màu đỏ xuyên qua khỏi cụm này thì coi như thôi, không có long nữa"
+    },
+    {
+      "lenh": "Lệnh trước tin Non-farm (đặc biệt vàng)",
+      "quyet_dinh": "dong",
+      "khi_nao": "Né giờ tin 7:30 tối; tắt hết lệnh vàng; chờ ngày mai hoặc sau 10 giờ",
+      "gio": "[00:29:57]",
+      "trich": "Tốt nhất mình nghĩ nên tất hết lệnh, đặc biệt liên quan đến vàng. Thị trường Mỹ khi vào phiên với lại sau tin non farm này sẽ rất nguy hiểm. Chờ ổn định ngày mai, ngày kia đánh hoặc sau 10 giờ."
+    },
+    {
+      "lenh": "Lệnh hay DCA âm/tăng ký quỹ (người xem)",
+      "quyet_dinh": "dong",
+      "khi_nao": "Đánh isolate để không đắp thêm ký quỹ, giảm đòn bẩy",
+      "gio": "[00:43:15]",
+      "trich": "Muốn khỏi làm cái đó thì một là đánh isolate để không tăng ký quỹ được, không đắp thêm, không DCA vào. Thứ hai nữa là giảm đòn bẩy xuống."
+    }
+  ],
+  "tin_tuc": [
+    {
+      "su_kien": "Non-farm (NFP)",
+      "thoi_diem": "7:30 tối nay (thứ Sáu)",
+      "nguon": "lich_kinh_te",
+      "so_lieu": null,
+      "anh_huong_view": "Cả tuần đói tin nên sẽ tranh thủ tin để quét, khả năng quét cả hai đầu; né giờ tin, không cần phân tích (khác tin lãi suất); hôm nay sideway chờ tin",
+      "gio": "[00:29:27]",
+      "trich": "Tin tức thì tối nay chúng ta có tin quan trọng là tin non farm, các bạn lưu ý. Tốt nhất là nên né giờ phiên tối nay ra, bởi vì cả tuần này gần như thị trường đói tin cho nên nó sẽ tranh thủ tin non farm tối [00:29:57] ngày hôm nay để lụm. Chưa biết nó lụm đầu nào nhưng khả năng nó lụm cả hai đầu."
+    },
+    {
+      "su_kien": "Chứng khoán Mỹ điều chỉnh sau đỉnh (S&P 500 -1%), VN-Index gãy",
+      "thoi_diem": "hôm qua",
+      "nguon": "khac",
+      "so_lieu": "S&P 500 giảm 1%",
+      "anh_huong_view": "Chỉ nhìn theo biên độ",
+      "gio": "[00:12:18]",
+      "trich": "Chứng khoán hôm qua có những cú điều chỉnh nhẹ sau pha lập đỉnh mới hôm kia. Bắt đầu điều chỉnh ở US30. VN Index cũng gãy sau pha tăng hôm trước."
+    },
+    {
+      "su_kien": "Các sàn list nhiều cổ phiếu token hóa",
+      "thoi_diem": "gần đây",
+      "nguon": "khac",
+      "so_lieu": null,
+      "anh_huong_view": "Thanh khoản crypto bị phân mảnh, downtrend càng yếu thanh khoản",
+      "gio": "[00:49:30]",
+      "trich": "Bây giờ tụi nó list quá nhiều cổ phiếu token hóa lên. Thứ nhất là nó làm cho sàn của chúng ta bị loãng đi, khó nhìn, loạn lên. Thứ hai nữa là nó cũng làm cho thanh khoản trong thị trường bị phân mảnh ra"
+    }
+  ],
+  "nghi_van_nhan_v2": "Không chắc là sai: vo_hieu v2 = 63.000 (H4 đóng dưới), nhưng người nói phân biệt 'râu H4 về 63 thì chấp nhận' với 'H4 đóng đỏ xuyên qua cụm (cụm MA H4 ~64)' là bỏ long — mốc vô hiệu có thể là ~64.000 đóng thân H4 hơn là 63.000. Trích [00:25:09]: 'vì sao mình cứ chờ thêm một vùng ở 63.000 ở dưới này thì đó là mình chờ cái râu nến trên khung H4. Còn nếu chúng ta có một cây nến H4 đóng màu đỏ xuyên qua khỏi cụm này thì coi như thôi'. Đồng thời SL lệnh long lại 'dưới vùng 63' [00:58:16], nên để nguyên nhãn.",
+  "kho": "Mâu thuẫn: nói thị trường downtrend rõ, 'H4 cũng xấu, D1 cũng xấu' và đang short scalp nhẹ, nhưng kế hoạch chính là chờ quét về 63.000-63.500 để long lên (64k 'trụ ác', 'từ từ đi lên'). Gán TANG/thấp theo hướng lệnh dự kiến; đích 65.000 suy từ vùng liquid/cản 65k, không nói rõ TP. Lệnh short scalp và SL 'dưới vùng 63' không có số cụ thể. Có thể chấm PHAN_VAN nếu coi 'đánh chiều nào cũng khó chịu' là 50/50."
+}

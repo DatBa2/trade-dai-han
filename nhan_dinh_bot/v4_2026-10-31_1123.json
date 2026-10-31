@@ -1,0 +1,168 @@
+{
+ "phien_ban": "bot v4",
+ "gio_phat_hanh": "2026-10-31 04:23 UTC",
+ "gio_phat_hanh_vn": "2026-10-31 11:23 VN",
+ "gio_cat": "2026-10-31 04:00 UTC",
+ "gio_cat_vn": "2026-10-31 11:00 VN",
+ "ghi_chu_gio": "gio_cat = giờ ĐÓNG nến H4 cuối cùng động cơ dùng (nến đã đóng); gio_phat_hanh = lúc chạy script",
+ "du_lieu": {
+  "nguon": "OKX spot <X>-USDT, chỉ nến confirm=1 (4H, 1Dutc); lịch sử cũ chép từ bot_v4/du_lieu/",
+  "tep": {
+   "BTC_4H.csv": {
+    "so_nen": 9679,
+    "nen_dau": "2022-06-01 00:00",
+    "nen_cuoi_mo_luc": "2026-10-31 00:00",
+    "nen_moi_tu_okx": 1
+   },
+   "BTC_1D.csv": {
+    "so_nen": 1613,
+    "nen_dau": "2022-06-01 00:00",
+    "nen_cuoi_mo_luc": "2026-10-30 00:00",
+    "nen_moi_tu_okx": 0
+   },
+   "ETH_4H.csv": {
+    "so_nen": 9679,
+    "nen_dau": "2022-06-01 00:00",
+    "nen_cuoi_mo_luc": "2026-10-31 00:00",
+    "nen_moi_tu_okx": 1
+   },
+   "ETH_1D.csv": {
+    "so_nen": 1613,
+    "nen_dau": "2022-06-01 00:00",
+    "nen_cuoi_mo_luc": "2026-10-30 00:00",
+    "nen_moi_tu_okx": 0
+   }
+  }
+ },
+ "sha256": {
+  "THIET_KE.md": "cdfc577d13f29c3c0f3ec7572e417187dfd5ff229ceecde9a4f98e9204db30e9",
+  "dong_co.py": "c05dfb7adfe12626cf48a589994f98ebd2955c93de1c1725393937c1f983529c"
+ },
+ "ghi_chu_dong_co": "gọi dong_co.chay(['BTC','ETH'], năm của gio_cat, cat_tai=gio_cat) + dong_co.view_tai; vốn mô phỏng 4.000$ từ 01/01 năm đó; THAM_SO['het_du_lieu_utc'] nâng trong bộ nhớ để kỳ chạy tới gio_cat (không đổi luật). Lệnh CHO_KHOP hiệu lực 6 nến H4 từ t_quyet_dinh, huỷ sớm nếu view đổi (TK 5.3).",
+ "tai_san": [
+  {
+   "tai_san": "BTC",
+   "gia_dong_h4_cuoi": 77118.9,
+   "gio_cat": "2026-10-31 04:00 UTC",
+   "pha": "GIAM",
+   "view": "GIAM",
+   "kieu": "THUAN",
+   "ly_do": "thuan_pha GIAM, RSI14_D1=34.20",
+   "gio_cat_view": "2026-10-31 04:00 UTC",
+   "hanh_dong_luc_cat": "DANG_CO_LENH",
+   "ly_do_bo_luc_cat": null,
+   "vung_on": {
+    "khoang": [
+     79117.8,
+     79791.0
+    ],
+    "diem": 3,
+    "can_cu": [
+     "FIBO_0.5:79117.8",
+     "FRACTAL:79377.7",
+     "FRACTAL:79505",
+     "FRACTAL:79709.5",
+     "FIBO_0.618:79791"
+    ],
+    "mo_ta": "79117.8-79791 diem=3 [FIBO_0.5:79117.8; FRACTAL:79377.7; FRACTAL:79505; FRACTAL:79709.5; FIBO_0.618:79791]"
+   },
+   "lenh": [
+    {
+     "trang_thai": "CHO_KHOP",
+     "loai": "chinh",
+     "chieu": "SHORT",
+     "t_quyet_dinh": "2026-10-31 00:00 UTC",
+     "hieu_luc_den": "2026-11-01 00:00 UTC",
+     "vao": 79454.4068,
+     "gia_khop": null,
+     "t_khop": null,
+     "sl": 80407.8596816,
+     "sl_hien_tai": 80407.8596816,
+     "tp1": 76417.7304,
+     "tp2": 70223.3932,
+     "t_tp1": null,
+     "gio_dung": 120,
+     "khoi_luong_von_4000": 0.04640647,
+     "don_bay": 20.0,
+     "vung": {
+      "khoang": [
+       79117.8,
+       79791.0
+      ],
+      "diem": 3,
+      "can_cu": [
+       "FIBO_0.5:79117.8",
+       "FRACTAL:79377.7",
+       "FRACTAL:79505",
+       "FRACTAL:79709.5",
+       "FIBO_0.618:79791"
+      ],
+      "mo_ta": "79117.8-79791 diem=3 [FIBO_0.5:79117.8; FRACTAL:79377.7; FRACTAL:79505; FRACTAL:79709.5; FIBO_0.618:79791]"
+     },
+     "ghi": "tp_fibo"
+    }
+   ]
+  },
+  {
+   "tai_san": "ETH",
+   "gia_dong_h4_cuoi": 2238.88,
+   "gio_cat": "2026-10-31 04:00 UTC",
+   "pha": "GIAM",
+   "view": "GIAM",
+   "kieu": "THUAN",
+   "ly_do": "thuan_pha GIAM, RSI14_D1=30.00",
+   "gio_cat_view": "2026-10-31 04:00 UTC",
+   "hanh_dong_luc_cat": "DANG_CO_LENH",
+   "ly_do_bo_luc_cat": null,
+   "vung_on": {
+    "khoang": [
+     2293.17,
+     2300.91
+    ],
+    "diem": 2,
+    "can_cu": [
+     "FRACTAL:2293.17",
+     "FRACTAL:2293.93",
+     "FRACTAL:2297.82",
+     "FIBO_0.618:2300.91"
+    ],
+    "mo_ta": "2293.17-2300.91 diem=2 [FRACTAL:2293.17; FRACTAL:2293.93; FRACTAL:2297.82; FIBO_0.618:2300.91]"
+   },
+   "lenh": [
+    {
+     "trang_thai": "CHO_KHOP",
+     "loai": "chinh",
+     "chieu": "SHORT",
+     "t_quyet_dinh": "2026-10-31 00:00 UTC",
+     "hieu_luc_den": "2026-11-01 00:00 UTC",
+     "vao": 2297.04124,
+     "gia_khop": null,
+     "t_khop": null,
+     "sl": 2324.60573488,
+     "sl_hien_tai": 2324.60573488,
+     "tp1": 2178.348,
+     "tp2": 1964.76876,
+     "t_tp1": null,
+     "gio_dung": 120,
+     "khoi_luong_von_4000": 1.60519471,
+     "don_bay": 20.0,
+     "vung": {
+      "khoang": [
+       2293.17,
+       2300.91
+      ],
+      "diem": 2,
+      "can_cu": [
+       "FRACTAL:2293.17",
+       "FRACTAL:2293.93",
+       "FRACTAL:2297.82",
+       "FIBO_0.618:2300.91"
+      ],
+      "mo_ta": "2293.17-2300.91 diem=2 [FRACTAL:2293.17; FRACTAL:2293.93; FRACTAL:2297.82; FIBO_0.618:2300.91]"
+     },
+     "ghi": "tp_fibo"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,213 @@
+{
+  "buoi": "2026-06-03_OVGlvdAXMKo",
+  "ngay": "2026-06-03",
+  "gia_btc_luc_noi": 66000,
+  "moc": [
+    {
+      "gia": 65000,
+      "gia_tren": null,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": "W1",
+      "can_cu": [
+        "MA200 tuần (đã xong nhiệm vụ)"
+      ],
+      "moc_gio": "00:11:30",
+      "chac": false,
+      "trich": "MA200 khung tuần... đỡ và cho chúng ta ăn được nhịp mua từ 65 lên đến 82"
+    },
+    {
+      "gia": 80000,
+      "gia_tren": 81000,
+      "vai_tro": "dinh_cu",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [
+        "gap CME 80 lấp",
+        "Fear & Greed lên 50"
+      ],
+      "moc_gio": "00:15:56",
+      "chac": true,
+      "trich": "chờ lên 80 và lấp đủ gap 80 này là chúng ta nhảy tàu, nhảy 80 81 này có phải bán ở đỉnh không"
+    },
+    {
+      "gia": 45000,
+      "gia_tren": 50000,
+      "vai_tro": "entry",
+      "huong": "TANG",
+      "khung": "W1",
+      "can_cu": [
+        "Fear & Greed 10-11",
+        "vùng gom spot dài hạn"
+      ],
+      "moc_gio": "00:16:26",
+      "chac": true,
+      "trich": "45 đến 50 nghìn gom dần, thậm chí mình nghĩ các bạn có thể gom luôn ở giá bây giờ"
+    },
+    {
+      "gia": 20000,
+      "gia_tren": 40000,
+      "vai_tro": "entry",
+      "huong": "TANG",
+      "khung": "W1",
+      "can_cu": [
+        "vùng gom chủ đạo"
+      ],
+      "moc_gio": "00:17:27",
+      "chac": true,
+      "trich": "Plan của mình là 40 cho đến 20 là vùng gom chủ đạo. Còn dưới 50 nghìn là bắt đầu gom"
+    },
+    {
+      "gia": 20000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "W1",
+      "can_cu": [
+        "gap CME dưới sâu"
+      ],
+      "moc_gio": "00:27:56",
+      "chac": true,
+      "trich": "gap dưới rất sâu là ở 20.000 thôi"
+    },
+    {
+      "gia": 60000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [],
+      "moc_gio": "00:21:32",
+      "chac": true,
+      "trich": "Tầm này nó gãy về đây thì cùng lắm cũng về 60 thôi. Mình nghĩ khó mà về 50 được trong tuần này"
+    },
+    {
+      "gia": 65800,
+      "gia_tren": 66000,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [],
+      "moc_gio": "00:23:05",
+      "chac": true,
+      "trich": "đi sideway H4 quanh vùng 66 này, 66 cho đến 65.800 cùng lắm như vậy rồi kéo lên"
+    },
+    {
+      "gia": 70000,
+      "gia_tren": 71000,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "MA34 H4"
+      ],
+      "moc_gio": "00:23:05",
+      "chac": true,
+      "trich": "hồi một nhịp lên test MA34, 71, 70 gì đó"
+    },
+    {
+      "gia": 67500,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "M30",
+      "can_cu": [
+        "MA200 M5 / test MA khung nhỏ"
+      ],
+      "moc_gio": "00:24:37",
+      "chac": true,
+      "trich": "tệ lắm cũng phải lên 67.500 hoặc đâu đó 69... rất dễ test MA200. Đầu tiên là 67.500"
+    },
+    {
+      "gia": 69000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "M5",
+      "can_cu": [
+        "phiên Mỹ"
+      ],
+      "moc_gio": "00:24:37",
+      "chac": true,
+      "trich": "nếu lực tốt vào phiên Mỹ, mình nghĩ nó sẽ lên khoảng 69"
+    },
+    {
+      "gia": 65800,
+      "gia_tren": 66200,
+      "vai_tro": "ho_tro",
+      "huong": "GIAM",
+      "khung": "M5",
+      "can_cu": [
+        "cụm thanh lý short tạo sáng nay"
+      ],
+      "moc_gio": "00:33:10",
+      "chac": true,
+      "trich": "Những vùng short này được tạo ra lúc sáng, 66.200, 65.800... quét xong đến vùng 65.800 mới hồi lên lại"
+    },
+    {
+      "gia": 69000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "M5",
+      "can_cu": [
+        "liquidation heatmap đỏ ~700K short"
+      ],
+      "moc_gio": "00:34:59",
+      "chac": true,
+      "trich": "Hỏi: hồi về tối đa được bao nhiêu? Mình nghĩ chắc khoảng 69.000 là căng"
+    },
+    {
+      "gia": 63000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "M5",
+      "can_cu": [
+        "biên bot đánh hồi"
+      ],
+      "moc_gio": "00:36:07",
+      "chac": true,
+      "trich": "kéo ra vùng dưới khoảng 2, 3.000 giá... có khả năng về đâu đó khoảng 63.000"
+    },
+    {
+      "gia": 72000,
+      "gia_tren": 73000,
+      "vai_tro": "khang_cu",
+      "huong": "TANG",
+      "khung": "M5",
+      "can_cu": [
+        "biên bot đánh hồi"
+      ],
+      "moc_gio": "00:36:07",
+      "chac": true,
+      "trich": "Kéo lên vùng trên khoảng 72.000, 72, 73.000. Đánh biên đó"
+    },
+    {
+      "gia": 65600,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "M5",
+      "can_cu": [
+        "biên khựng quanh 66"
+      ],
+      "moc_gio": "00:38:44",
+      "chac": true,
+      "trich": "Biên này, nó sẽ về đâu đó khoảng 65.600 gì đó. Rồi nó lại kéo lên"
+    },
+    {
+      "gia": 65900,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "M5",
+      "can_cu": [
+        "Fibo 0.5 M5 (không nói kéo từ đâu)"
+      ],
+      "moc_gio": "01:06:25",
+      "chac": true,
+      "trich": "nó có về test lại Fibo 0.5 này không? Test lại 65.900"
+    }
+  ]
+}

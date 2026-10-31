@@ -1,0 +1,70 @@
+{
+  "buoi": "2026-05-07_FlYmDPPMwhY",
+  "ngay": "2026-05-07",
+  "gio_vn": "10:00",
+  "gia_btc_luc_noi": null,
+  "nhan_dinh": [
+    {
+      "khung": "H4",
+      "huong": "GIAM",
+      "do_chac": "vua",
+      "dich": [78000, 80000],
+      "han": "ngắn hạn, TP1 80.000",
+      "han_gio": null,
+      "vo_hieu_khi": "nến D1 đóng xanh vượt MA200 (khoảng 82-83) thì bỏ hết short",
+      "kich_ban_phu": "có thể quét râu lên 83.000-83.300 (xong gap CME, Fibo 0.618) rồi mới giảm; có thể lên tối đa 91 nhưng không kỳ vọng; thủng 78 thì về 73-74",
+      "ly_do": [
+        "đã lên MA200 D1 ở 82+, chạm Fibo mở rộng 100%, hoàn tất 95% target",
+        "H4 có dấu hiệu điều chỉnh đẹp, M5 phá MA nhỏ, cấu trúc khung nhỏ chuyển giảm",
+        "hai block: phe long chờ bị thanh lý rất nhiều (500-600 triệu)",
+        "gap nhỏ 78 chưa lấp; BTC.D hai đáy H1, USDT.D H4 đang lên"
+      ],
+      "trich": "Tệ tệ cũng 80.000, tệ cũng phải TP1 của chúng ta. 80 TP1. Thị trường vẫn chạy đúng cái view thì chúng ta cứ vậy mà làm.",
+      "doi_y": null,
+      "duong_di": null
+    },
+    {
+      "khung": "D1",
+      "huong": "TANG",
+      "do_chac": "thap",
+      "dich": null,
+      "han": null,
+      "han_gio": null,
+      "vo_hieu_khi": "mất xu hướng tăng chỉ khi phá đáy",
+      "kich_ban_phu": "nến D1 đóng trên MA200 thì có thể kéo lên 91",
+      "ly_do": ["xu hướng hiện tại vẫn là tăng, cặp nến đảo chiều chỉ là đảo chiều điều chỉnh", "BTC đang điều chỉnh về hỗ trợ 73-74 vẫn không loại trừ lên tiếp"],
+      "trich": "Tất nhiên xu hướng hiện tại vẫn là xu hướng tăng. Để an toàn thì các bạn vẫn phải chờ đợi vị thế long ở những vùng hỗ trợ.",
+      "doi_y": null,
+      "duong_di": null
+    }
+  ],
+  "vung_gia": {"khang_cu": [82000, 83300], "ho_tro": [78000, 79000]},
+  "lenh": [
+    {"chieu": "SHORT", "loai": "đang giữ", "vao": null, "tp": [80000], "sl": 82000,
+     "trang_thai": "dang_giu",
+     "trich": "Lệnh short hiện tại mình nghĩ anh em có thể kéo stop loss về entry được rồi... (sau đó nói: chưa cần kéo, mới được khoảng nghìn giá)."},
+    {"chieu": "LONG", "loai": "chờ, không limit", "vao": [78000, 79000], "tp": null, "sl": null,
+     "trang_thai": "de_xuat_moi",
+     "trich": "Đây chỉ là một vùng để chờ, chờ chứ không limit. Nếu giá về được đây thì tìm kiếm cơ hội."}
+  ],
+  "nhin_lai_truoc": "Target MA200 82+ đạt rồi, hoàn tất mục tiêu lớn 6 tháng đầu năm (từ vùng 65-68 lên 80); đêm qua cảnh báo hai block 82.000 bị húp xong về dưới 80.000.",
+  "cong_cu": ["MA200 D1", "Fibo 0.5/0.618/1.0", "gap CME", "hai block", "Hyblock", "Sonic R", "RSI", "volume", "Fear & Greed", "BTC.D", "USDT.D", "voucher BingX"],
+  "tin_tuc": [{"tin": "Tuần sau: thứ hai bầu chủ tịch FED mới, thứ ba CPI, thứ tư PPI", "danh_gia": "nhiều tin quan trọng; tác giả chỉ live thứ hai"}],
+  "thoi_quen": [
+    "đánh ngược xu hướng chỉ dùng voucher hoặc volume nhỏ",
+    "không long khi phe long chờ thanh lý nhiều",
+    "bỏ short nếu nến D1 đóng trên MA200",
+    "không xem giúp, hỏi phải cụ thể",
+    "altcoin: chờ break rồi bám ăn nhẹ, xổ số 5-10 đô"
+  ],
+  "cau_cua_mieng": [
+    "Mua khi hoảng sợ và bán khi tham lam thôi.",
+    "Có thì hưởng thôi anh em."
+  ],
+  "altcoin": [
+    {"coin": "ETH", "huong": "PHAN_VAN", "ghi": "không quá tệ, có thể quét về Fibo 0.5 H4 / 2003 rồi phục hồi; đừng short ETH hay altcoin"},
+    {"coin": "BTC.D", "huong": "TANG", "ghi": "hai đáy H1 rất dễ đi lên; USDT.D H4 đang lên, chưa thấy cửa phục hồi"},
+    {"coin": "ZEC", "huong": "GIAM", "ghi": "đang short, thả đó"}
+  ],
+  "ghi_chu": "Tên file không có giờ, gio_vn đặt 10:00. Không nói giá hiện tại rõ ràng. 'chạm Fibo 1' = Fibo mở rộng 100%. TP '80k'."
+}

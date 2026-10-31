@@ -1,0 +1,117 @@
+{
+ "buoi": "2026-08-13_1006_hNxSX7GUKMs",
+ "ngay": "2026-08-13",
+ "gio_vn": "11:00",
+ "gia_btc_luc_noi": 63648,
+ "nhan_dinh": [
+  {
+   "khung": "H4",
+   "huong": "GIAM",
+   "do_chac": "vua",
+   "dich": [62000, 62500],
+   "han": "hết thứ Sáu 14/08 (trước cuối tuần)",
+   "han_gio": 40,
+   "vo_hieu_khi": "nến H4 đóng trên 64.550 (vượt đỉnh đôi 64.497/64.500 và dải EMA34 H4)",
+   "kich_ban_phu": "trước khi gãy có thể hồi nhẹ lên 63.900–64.100 test lại dải MA H4",
+   "duong_di": [
+    {"huong": "TANG", "dich": 64000},
+    {"huong": "GIAM", "dich": 63200},
+    {"huong": "GIAM", "dich": 62300}
+   ],
+   "doi_y": null,
+   "ly_do": [
+    "đúng kịch bản hôm qua: CPI pump lên 64.497 quét short FOMO đúng vùng 64.000–64.500 rồi cây H4 19h đỏ thân dài -1,2% đạp về 63.300",
+    "đỉnh đôi H4 64.500 (11/08) – 64.497 (12/08), đỉnh sau thấp hơn 65.490; giá nằm dưới cả EMA34/89/200 H4 (63.960–64.400)",
+    "D1 ba cây đỏ liên tiếp, cây CPI có râu trên dài 1,4% — khung ngày đỉnh thấp dần, chủ đạo short",
+    "đáy 63.238–63.309 đã test hai lần, hỗ trợ test nhiều lần thì yếu; dưới 63.000 thanh khoản trống tới 62.000–62.500",
+    "USDT.D tiếp tục ngóc lên, DXY lên lại 100"
+   ],
+   "trich": null
+  },
+  {
+   "khung": "D1",
+   "huong": "GIAM",
+   "do_chac": "cao",
+   "dich": [53000, 55000],
+   "han": "trong tháng 8; đáy cuối tháng 8 hoặc đầu tháng 9",
+   "han_gio": null,
+   "vo_hieu_khi": "nến D1 đóng trên 65.000 (lấy lại trên EMA34 D1 và vùng gãy 10/08)",
+   "kich_ban_phu": "trước khi thủng 62.000 có thể còn đi ngang 62.000–64.500 vài cây",
+   "duong_di": [
+    {"huong": "GIAM", "dich": 62000},
+    {"huong": "GIAM", "dich": 54000}
+   ],
+   "doi_y": null,
+   "ly_do": [
+    "ba cây D1 đỏ 10–12/08, đỉnh D1 thấp dần 66.955 → 65.490 → 64.500",
+    "giá dưới EMA34 D1 close (~64.190) và EMA89 D1 (~66.190)",
+    "thủng 62.000 (hai đáy D1 62.268/62.300) thì trên 80% về 55.000–53.000"
+   ],
+   "trich": null
+  },
+  {
+   "khung": "W1",
+   "huong": "GIAM",
+   "do_chac": "vua",
+   "dich": [53000, 55000],
+   "han": "đáy cuối quý 3 / đầu quý 4/2026",
+   "han_gio": null,
+   "vo_hieu_khi": "nến tuần đóng trên 71.000 (lấy lại dải EMA34 tuần)",
+   "kich_ban_phu": null,
+   "duong_di": null,
+   "doi_y": null,
+   "ly_do": [
+    "nến tuần này đỏ -1,9%, nuốt gần hết cây xanh tuần trước",
+    "giá dưới toàn bộ dải EMA34 tuần và EMA89 tuần",
+    "chu kỳ: còn 1–2 nhịp giảm mạnh nữa mới có đáy"
+   ],
+   "trich": null
+  }
+ ],
+ "vung_gia": {
+  "khang_cu": [64000, 64300, 64500, 65000],
+  "ho_tro": [63250, 62500, 62000]
+ },
+ "lenh": [
+  {
+   "chieu": "SHORT",
+   "loai": "limit",
+   "vao": 63950,
+   "tp": [63320, 62550, 62080],
+   "sl": 64620,
+   "trang_thai": "de_xuat_moi"
+  }
+ ],
+ "hanh_dong": "giu_lenh",
+ "giu_view": true,
+ "ly_do_doi_view": "Giữ view hôm qua: CPI chạy đúng kịch bản (pump quét 64.0–64.5 rồi gãy), không có cây H4 nào đóng trên 64.500, chưa chạm đích 62.000, không phải đầu tuần/đầu tháng. Lệnh short 64.000–64.300 hôm qua đang có lãi, tiếp tục giữ.",
+ "rau": {
+  "tren": "64.497 — râu trên H4 19h 12/08 (cây CPI), cùng chỗ với 64.500 của H4 19h 11/08",
+  "duoi": "63.309 — râu dưới H4 23h 12/08; sát đáy 63.238 (H4 23h 11/08)",
+  "test_lai": "Râu trên 64.497: KHÔNG — đã test hai lần (11/08, 12/08) hết giá trị, giờ là trần; giá chỉ hồi tới dải MA 63.900–64.100 (5.3). Râu dưới 63.238–63.309: CÓ — đáy đôi, SL phe long dồn ngay dưới 63.200, phía dưới tới 62.500 trống thanh khoản nên sẽ bị quét thủng (R3)."
+ },
+ "vung_on": [
+  {
+   "loai": "SHORT",
+   "khoang": [63900, 64300],
+   "ly_do": [
+    "dải EMA34 H4 (63.960–64.400) + EMA89/200 H4 ~64.210–64.220",
+    "Fibo 0.5–0.618 nhịp giảm CPI 64.497 → 63.309 (63.900–64.040)",
+    "Fibo 0.382 sóng giảm D1 66.955 → 62.268 (~64.060)",
+    "cụm thanh lý short 64.000–64.300 đã nêu hôm qua"
+   ]
+  },
+  {
+   "loai": "LONG",
+   "khoang": [62000, 62500],
+   "ly_do": [
+    "hai đáy D1 62.268 (01/08) và 62.300 (03/08)",
+    "Fibo 0.5 khung tuần ~62.500 + Fibo mở rộng mức 1 ~62.470",
+    "cụm thanh khoản 62.000–62.500 (heatmap)",
+    "chỉ để chốt short, không long bắt đáy"
+   ]
+  }
+ ],
+ "pha_vo_gia": "Cú pump CPI lên 64.497 là cú dụ long: râu trên dài chọc vào cụm MA H4 rồi thân đóng đỏ -1,2% (G1), xảy ra ngay trong 1–2 giờ ra tin (G6), phiên Mỹ (G9), quét đúng cụm thanh lý short 64.000–64.500 (G4). Không đổi view.",
+ "loi_binh": "View từ hôm qua không thay đổi gì nhiều anh em. CPI ra, nó pump đúng lên 64.5 quét hết đám short FOMO rồi đạp một cây H4 đỏ về 63.3, chúng ta có thể sai ở phân tích nhưng đúng ở hành động, ai short 64–64.3 thì giữ, SL trên 64.6. Đáy 63.2 test hai lần rồi, thủng là 62 đến rất nhanh vì dưới đó trống thanh khoản; còn thủng 62 thì trên 80% về 55–53 trong tháng 8. Chưa vào thì chờ hồi về 63.9–64.1 rồi short, đừng short đuổi ở đáy."
+}

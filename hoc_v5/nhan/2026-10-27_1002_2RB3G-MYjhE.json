@@ -1,0 +1,405 @@
+{
+  "buoi": "2026-10-27_1002_2RB3G-MYjhE",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/lam_sach/2026-10-27_1002_2RB3G-MYjhE.md",
+  "gia_btc_luc_noi": 80200,
+  "dau_buoi": {
+    "thien_huong_h4": "GIAM",
+    "gio": null,
+    "trich": "H4 Bitcoin đang đi đỉnh, đáy bằng nhau dần thì có xu hướng đi xuống... Xu hướng thị trường vẫn đang là điều chỉnh, và target của chúng ta vẫn là vùng 78.000, 77 78. Mục tiêu của mình nhịp này vẫn là 77 78."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "GIAM",
+    "do_chac": "cao",
+    "gio": null,
+    "trich": "Nến H4 đóng đỏ, vẫn tiếp tục view giữ thôi; gia tăng xác suất gãy sớm."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {
+    "huong": "GIAM",
+    "dich": [
+      77000,
+      78100
+    ]
+  },
+  "duong_di": [
+    {
+      "huong": "GIAM",
+      "dich": [
+        77000,
+        78100
+      ]
+    }
+  ],
+  "dich_chinh": [
+    77000,
+    78100
+  ],
+  "han_gio": 110,
+  "vo_hieu": null,
+  "lenh": [
+    {
+      "chieu": "SHORT",
+      "vao": null,
+      "tp": [
+        78000,
+        77000
+      ],
+      "sl": null,
+      "trang_thai": "dang_giu"
+    }
+  ],
+  "hanh_dong": "giu_lenh",
+  "khung_lon": {
+    "D1": "PHAN_VAN",
+    "W1": null
+  },
+  "pha_vo_gia": "Nếu giá break lên trên 82.000 thì 'nhịp này là nhịp quét thanh khoản chứ không phải nhịp phá cao' rồi mới rớt; vùng 80 hiện tại 'còn dụ buy', giá hạ dần 'để ru ngủ phe buy'.",
+  "nhin_lai_view_truoc": {
+    "view_truoc": "GIAM - 79.000 không phải đáy (đã giải thích ở live hôm qua); target nhịp này 77-78",
+    "giu_hay_doi": "giu",
+    "vi_sao": "Nhắc lại quan điểm hôm qua: 79 không phải đáy trung hạn, giai đoạn này phải tìm đáy của cả chu kỳ downtrend; H4 vẫn điều chỉnh (đỉnh sau thấp hơn, giá dưới EMA 34/89/200) nên target vẫn 77-78. Cuối buổi nến H4 đóng đỏ càng củng cố việc giữ view.",
+    "gio": null,
+    "trich": "79.000 đã là đáy trung hạn hay chưa? Câu này mình đã giải thích rất nhiều, đặc biệt trong livestream ngày hôm qua. Nhắc lại thì về cơ bản mình không nghĩ 79 sẽ là đáy của trung hạn. ... Xu hướng thị trường vẫn đang là điều chỉnh, và target của chúng ta vẫn là vùng 78.000, 77 78. Mục tiêu của mình nhịp này vẫn là 77 78."
+  },
+  "trendline": [],
+  "nen_volume": [
+    {
+      "khung": "D1",
+      "nen": "Nến hôm qua đóng cửa lưỡng lự, gần như sideway, dừng ngay Fibo 0.618 (có một đường MA nhỏ màu xanh)",
+      "volume": null,
+      "ket_luan": "Vùng tranh chấp giữa phe mua và phe bán; đi ngang khá khó chơi",
+      "gio": null,
+      "trich": "Ngày hôm qua Bitcoin có một cây nến đóng cửa lưỡng lự, gần như vùng sideway, vùng phân chia địa bàn của hai phe sale và buy, dừng ngay ở vùng Fibo 0.618. Có một đường MA nhỏ màu xanh nữa. Dừng ở đây chúng ta biết vùng này bắt đầu là vùng tranh chấp giữa phe mua và phe bán."
+    },
+    {
+      "khung": "H4",
+      "nen": "Đỉnh sau thấp hơn đỉnh trước (đỉnh, đáy bằng nhau dần); giá dưới EMA34, 34 dưới 89, 89 dưới 200",
+      "volume": null,
+      "ket_luan": "Xu hướng giảm đã confirm; tỉ lệ rất cao về test MA xanh quanh 77-78",
+      "gio": null,
+      "trich": "H4 theo nguyên tắc trade của mình thì rõ ràng là xu hướng giảm, confirm rồi: đỉnh sau thấp hơn đỉnh trước, giá nằm dưới 34, 34 dưới 89, 89 dưới 200, tất cả mọi thứ. Đi kiểu này tỉ lệ rất cao là nó về test tiếp vùng MA màu xanh, quanh 77.000 đến 78.000."
+    },
+    {
+      "khung": "H1",
+      "nen": "Giá sideway, chưa biết phá đường nào; kiểu đi này ít fake out, lên là quét thanh lý luôn",
+      "volume": "Phe mua rất ít, phe sale nhiều",
+      "ket_luan": "Nếu break lên thì chỉ là quét thanh khoản trên 82.000 rồi mới rớt, không phải nhịp phá cao",
+      "gio": null,
+      "trich": "H1 cũng vậy, thể hiện như thế. Giá đang sideway, chưa biết phá đường nào, nhưng đi kiểu này thường ít khi fake out. Nó lên là lên luôn, lên là quét thanh lý chứ không fake out nữa. Vùng này phe mua cũng rất ít, phe sale thì nhiều; phe sale nhiều thì có thể nó phải kéo cao lên cho sale tốt hơn."
+    },
+    {
+      "khung": "H1",
+      "nen": "Đêm qua có nhịp lên 80.000 nhưng bị bán xuống ngay; đỉnh sau dần thấp, giá tuột dưới MA",
+      "volume": "Có lực lên nhưng lực bán áp đảo, càng ngày càng đè xuống",
+      "ket_luan": "Xu hướng bán chủ đạo; bên dưới trống trải, phải về 77-78 mới có hỗ trợ",
+      "gio": null,
+      "trich": "H1 vẫn bị đè dưới MA, tức vẫn đè xu hướng bán. Đêm hôm qua có những nhịp lên đến 80.000 nhưng cũng cho chúng ta một câu trả lời: có lực lên nhưng liên tục bị bán xuống ngay lập tức, nghĩa là lực bán áp đảo. Vùng này đang giữ được nhưng càng ngày lực bán càng đè xuống, những đỉnh sau cứ dần thấp, giá vẫn tuột dưới đường MA, chứng tỏ xu hướng bán đang chủ đạo (H4). Vùng bên dưới khá trống trải, khả năng rất cao phải về đến vùng 77-78 mới có hỗ trợ."
+    },
+    {
+      "khung": "H4",
+      "nen": "Điều kiện để tăng: H4 phải tạo râu hoặc tạo hai đáy (khung 5-30 phút chưa thể hiện xu hướng)",
+      "volume": null,
+      "ket_luan": "Chưa có râu/hai đáy nên vẫn giảm; từ giờ đến cuối tháng không buy",
+      "gio": null,
+      "trich": "Khung nhỏ hơn (5, 15, 30 phút) chưa thể hiện được xu hướng; anh em nên follow từ nến H1 cho đến H4. H4 đi kiểu này thì khó tăng; nó phải tạo râu hoặc tạo hai đáy thì may ra mới break đi lên được. Cho nên xu hướng hiện tại của thị trường mình nghĩ vẫn là xu hướng giảm, và từ giờ đến cuối tháng mình sẽ không buy."
+    },
+    {
+      "khung": "H1",
+      "nen": "Đỉnh hạ dần 80.800 -> 80.700 -> 80.500 -> 80.400 -> 80.200",
+      "volume": null,
+      "ket_luan": "Giá hạ dần độ cao để ru ngủ phe buy chứ không giữ nguyên vùng giá",
+      "gio": null,
+      "trich": "Giá cứ đi chậm chậm nhưng hạ dần độ cao. H1 hạ dần: 80.800 hạ xuống 80.700, 80.500, 80.400, 80.200. Nó cứ hạ dần xuống để ru ngủ phe buy chứ không giữ nguyên vùng giá đâu."
+    },
+    {
+      "khung": "H4",
+      "nen": "Nến H4 đóng đỏ (cuối buổi)",
+      "volume": null,
+      "ket_luan": "Giữ view giảm; gia tăng xác suất gãy sớm",
+      "gio": null,
+      "trich": "Nến H4 đóng đỏ, vẫn tiếp tục view giữ thôi; gia tăng xác suất gãy sớm."
+    }
+  ],
+  "cach_lam": [
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "rsi",
+      "chi_tiet": "Cách dùng RSI (14, SMA 14): chủ yếu dùng phân kỳ, chỉ xét khi RSI ra ngoài 30/70; khung càng lớn càng uy tín; RSI D1 tháng 6 về 15-16 trùng đáy 60.000",
+      "ket_qua": "RSI D1 về ~15 lịch sử đa phần là đáy -> điểm dịu vào mua; mua ở RSI thấp thì bán ở RSI rất cao (85-86); phân kỳ chỉ là cảnh báo rủi ro, không phải tín hiệu vào lệnh",
+      "gio": null,
+      "trich": "Phân kỳ hội tụ chúng ta chỉ xét khi RSI vượt ra khỏi vùng quá mua quá bán: trên 70 hoặc dưới 30 mới tính. ... Khung thời gian càng lớn thì độ uy tín càng cao, khung càng bé thì độ uy tín càng yếu. Ví dụ khung ngày, RSI ngày tháng Sáu chạm khoảng 15-16 điểm, rất thấp, và đó cũng là vùng đáy 60.000."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "rsi",
+      "chi_tiet": "RSI hiện tại chỉ dừng ở 40, nằm dưới 50, đỉnh/đáy RSI sau thấp hơn trước",
+      "ket_qua": "Không mua, không bán; cùng lắm RSI hồi lên 50 tương ứng giá hồi 1000-2000 rồi giảm tiếp",
+      "gio": null,
+      "trich": "Vì sao mình không muốn buy? Vì RSI này chỉ dừng ở 40, 40 chưa phải điểm đảo chiều đẹp, và hiện tại RSI đã nằm dưới 50, liên tục tạo xu hướng giảm: đỉnh đáy sau thấp hơn đỉnh đáy trước. ... Cùng lắm nó hồi lên 50, giá hồi khoảng 1000, 2000 giá rồi lại giảm tiếp."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "rsi",
+      "chi_tiet": "RSI H4 có phân kỳ nhẹ, chạm 30 là bật lên",
+      "ket_qua": "Có thể lên chạm 50 -> giá ngắn hạn kéo lên ~81 rồi mới sập; sập vẫn là xu hướng chính",
+      "gio": null,
+      "trich": "RSI H4 hiện tại có phân kỳ nhẹ, chạm 30 là bật lên. Nhịp này RSI có thể lên một nhịp nữa chạm 50 rồi mới rớt, nghĩa là giá ngắn hạn vẫn có xác suất kéo lên khoảng 81 rồi sau đó mới sập xuống; nhưng sập vẫn là xu hướng chính."
+    },
+    {
+      "hanh_dong": "do",
+      "cong_cu": "rsi",
+      "chi_tiet": "Ước tính RSI khi giá gãy về 77-78",
+      "ket_qua": "RSI sẽ đâm dưới 20 (quá bán) như nhịp trước -> chốt lãi sale ở 77-78, không lấy đó làm lý do buy",
+      "gio": null,
+      "trich": "Theo tính toán của mình, từ đây giá gãy về vùng 77 hoặc 78.000 thì kiểu gì RSI cũng đâm xuống dưới vùng 20 (quá bán), tương tự nhịp trước. Khi RSI sâu như vậy thì chúng ta chốt lãi sale, chờ nhịp hồi lên rồi tiến tiếp, kiểu gì cũng có nhịp hồi."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "rsi",
+      "chi_tiet": "RSI 5 phút ở giá 80.500: buy ngược mỗi lần chạm quá bán",
+      "ket_qua": "Có thể bị quét SL tới 4 lần; khung nhỏ nhiễu, phải đa khung + đa phương pháp",
+      "gio": null,
+      "trich": "Ví dụ RSI 5 phút ở giá 80.500: nếu cứ RSI chạm quá bán là buy ngược lên thì dễ chết, mặc dù có xác suất ăn. ... Nếu không nhanh trí chốt hoặc RR không tốt thì có thể bị quét stop loss đến bốn lần trước khi thị trường thực sự lên. Mọi thứ đều tương đối: phải nhìn đa khung cộng đa phương pháp thì mới tăng được xác suất đúng."
+    },
+    {
+      "hanh_dong": "do",
+      "cong_cu": "fibo_thoai_lui",
+      "chi_tiet": "D1 dừng ngay Fibo 0.618",
+      "ket_qua": "Vùng tranh chấp mua - bán, đi ngang",
+      "gio": null,
+      "trich": "dừng ngay ở vùng Fibo 0.618. Có một đường MA nhỏ màu xanh nữa. Dừng ở đây chúng ta biết vùng này bắt đầu là vùng tranh chấp giữa phe mua và phe bán."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "ema",
+      "chi_tiet": "H4: giá dưới 34, 34 dưới 89, 89 dưới 200; MA xanh ở 77-78; H1 bị đè dưới MA",
+      "ket_qua": "Xu hướng giảm confirm; đích test MA xanh 77-78",
+      "gio": null,
+      "trich": "giá nằm dưới 34, 34 dưới 89, 89 dưới 200, tất cả mọi thứ. Đi kiểu này tỉ lệ rất cao là nó về test tiếp vùng MA màu xanh, quanh 77.000 đến 78.000."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "dinh_day_cu",
+      "chi_tiet": "Vùng 82.000: stop loss/thanh khoản phía trên, nhiều người chờ quét qua 82 mới vào vị thế",
+      "ket_qua": "Sale swing ở 82 khả năng không khớp; nếu cho vào đẹp ở 82 thì có thể kéo 83-85 để kill; đoán sẽ đứng quanh đây rồi đi tiếp",
+      "gio": null,
+      "trich": "Giá nén như vậy thì ông nào cũng chờ nó quét stop loss rồi mới vào tàu; stop loss chắc chắn ở vùng thanh khoản bên trên, tức quét qua khỏi 82, 82.000 mới nhiều người chờ vào vị thế. Cho nên vùng 82 để swing thì maybe, nhưng sợ khả năng không khớp cũng cao. ... Một khi nó đã lên mà cho anh em vào đẹp ở 82 thì khả năng là nó kéo lên 83, 84, 85 gì đó để kill luôn"
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "heatmap",
+      "chi_tiet": "Thanh lý 151 triệu/24h, long short bằng nhau; vùng thanh lý rất dày ở 79.000; 78.800 đỏ nhưng thanh lý đều ở phe sale",
+      "ket_qua": "Thanh lý đỏ nhiều không có nghĩa sẽ tăng mạnh (đi ngang cũng dọn được thanh khoản); vùng hiện tại nhiều người bắt đáy",
+      "gio": null,
+      "trich": "Có một vùng rất dày ở 79.000, thanh lý 79.000 cực kỳ dày. ... Cho nên không phải khối lượng đỏ nhiều như này là nó sẽ tăng mạnh đâu. ... Bên này thanh lý 78.800 nhìn đỏ như vậy nhưng thanh lý vẫn đều ở phe sale, chứng tỏ vùng này cũng nhiều người bắt đáy."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "BTC.D H4 treo trên cao, sắp về hỗ trợ, đà tăng rất vững",
+      "ket_qua": "Dom mà lên thì thị trường toát",
+      "gio": null,
+      "trich": "Bitcoin Dom (BTC.D) H4: đang treo trên cao nhưng sắp về đến hỗ trợ, không ngon. Con này mới là nguy hiểm: rất vững đà tăng, gần như xác suất sẵn sàng lên 7% [?] rồi, chỉ chờ hiệu lệnh. Nó mà lên thì thị trường toát."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "Fear & Greed về dưới 50 (neutral); kinh nghiệm: dưới 30 là DCA, về một con số là ngon",
+      "ket_qua": "Chưa thể hiện gì; chờ ngày thực sự sợ",
+      "gio": null,
+      "trich": "Fear & Greed [?]: hôm nay lâu lắm rồi bắt đầu thấy nó về dưới 50. Vùng 50 là vùng neutral, trung bình ở giữa, không thể hiện gì nhiều. ... Fear & Greed [?] dưới 30 là DCA, về một con số là ngon theo kinh nghiệm."
+    }
+  ],
+  "vung_nguoi_do": [
+    {
+      "loai": "tp",
+      "tu": 77000,
+      "den": 78000,
+      "gio": null,
+      "trich": "Nhưng trước mắt profit của mình dừng ở 77 đến 78.000: khoảng 78.000 hoặc 77.000 là happy, là ok."
+    },
+    {
+      "loai": "dich",
+      "tu": 77000,
+      "den": 78100,
+      "gio": null,
+      "trich": "Vùng mục tiêu lúc nãy mình nói từ 77.000 đến 78.100 gì đó."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 77000,
+      "den": 78000,
+      "gio": null,
+      "trich": "Vùng bên dưới khá trống trải, khả năng rất cao phải về đến vùng 77-78 mới có hỗ trợ."
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 81000,
+      "den": 81000,
+      "gio": null,
+      "trich": "giá ngắn hạn vẫn có xác suất kéo lên khoảng 81 rồi sau đó mới sập xuống; nhưng sập vẫn là xu hướng chính."
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 82000,
+      "den": 82000,
+      "gio": null,
+      "trich": "Nếu break lên trên thì bắt đầu quét thanh khoản luôn khoảng trên 82.000 rồi mới rớt xuống. Nhịp này là nhịp quét thanh khoản chứ không phải nhịp phá cao."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 80000,
+      "den": 80000,
+      "gio": null,
+      "trich": "Chắc chắn 80 này không giữ từ đây đến cuối năm. ... Vì 80.000 không phải là một vùng hỗ trợ quá cứng."
+    }
+  ],
+  "view_trung_han": [
+    {
+      "khung": "D1",
+      "huong": "GIAM",
+      "dich": [
+        77000,
+        78000
+      ],
+      "han": "Đến cuối tháng 10 (không buy tới cuối tháng); hi vọng giảm trước tin lãi suất, sau tin có pha lên kill rồi giảm tiếp",
+      "mat_view_khi": null,
+      "gio": null,
+      "trich": "Mục tiêu là hi vọng thị trường giảm trước tin lãi suất, sau tin lãi suất có những pha đi lên để kill, và sau đó nữa mới giảm tiếp. ... Cho nên xu hướng hiện tại của thị trường mình nghĩ vẫn là xu hướng giảm, và từ giờ đến cuối tháng mình sẽ không buy."
+    },
+    {
+      "khung": "M1",
+      "huong": "GIAM",
+      "dich": null,
+      "han": "Tìm đáy của cả chu kỳ downtrend; cuối năm tạo đáy, sau bầu cử có đáy",
+      "mat_view_khi": null,
+      "gio": null,
+      "trich": "Và tất nhiên quan điểm của mình là mình không nghĩ 79.000 là đáy, hay 60.000 là đáy. ... View tổng quát cuối năm của mình chỉ một từ: tạo đáy. ... View của mình là sau bầu cử có đáy."
+    },
+    {
+      "khung": "M1",
+      "huong": "TANG",
+      "dich": null,
+      "han": "Khoảng giữa năm sau hoặc trong năm 2027: thị trường quay đầu vào uptrend mới, hoặc là mốc kết thúc downtrend rồi sideway một thời gian",
+      "mat_view_khi": null,
+      "gio": null,
+      "trich": "View cá nhân của mình: khoảng giữa năm sau hoặc trong năm 2027 thì Trump sẽ rớt giữa nhiệm kỳ. Lúc đó mình nghĩ là thời điểm thị trường bắt đầu quay đầu và đi vào chu kỳ mới up trend luôn, hoặc là mốc đánh dấu kết thúc down trend, sau đó đi sideway một thời gian rồi vào chu kỳ mới."
+    }
+  ],
+  "vung_tranh": [
+    {
+      "tu": null,
+      "den": null,
+      "vi_sao": "Không buy: RSI mới 40, chưa quá bán, xu hướng giảm rất mạnh; từ giờ đến cuối tháng không buy",
+      "gio": null,
+      "trich": "Nhìn RSI như vậy thì không mua, không bán, vì xu hướng thị trường đang giảm rất mạnh."
+    },
+    {
+      "tu": 74000,
+      "den": 75000,
+      "vi_sao": "Cả làng chờ về 74-75 để buy theo idol rồi up trend; ông không đồng ý view đó",
+      "gio": null,
+      "trich": "Mình nghĩ vùng 75 74 chắc cả làng đi vào buy, buy theo các idol. ... Vùng này còn dụ buy nữa. Nhiều người view về 74.000 rồi tăng mạnh. Mình nghĩ ngoài kia rất nhiều người nghĩ như vậy, và cá nhân mình không đồng ý với view đó."
+    },
+    {
+      "tu": null,
+      "den": null,
+      "vi_sao": "Vùng hiện tại (~80) còn dụ buy; giá hạ dần để ru ngủ phe buy",
+      "gio": null,
+      "trich": "Vùng này còn dụ buy nữa."
+    },
+    {
+      "tu": null,
+      "den": null,
+      "vi_sao": "Khung nhỏ (5 phút) buy ngược mỗi lần RSI quá bán dễ bị quét SL nhiều lần; khung 5-30 phút chưa thể hiện xu hướng",
+      "gio": null,
+      "trich": "Nếu không nhanh trí chốt hoặc RR không tốt thì có thể bị quét stop loss đến bốn lần trước khi thị trường thực sự lên."
+    },
+    {
+      "tu": null,
+      "den": null,
+      "vi_sao": "Đang đi ngang tranh chấp quanh Fibo 0.618: cứ chờ",
+      "gio": null,
+      "trich": "Còn bây giờ nó đang đi ngang thì chúng ta cứ chờ."
+    }
+  ],
+  "giu_dong": [
+    {
+      "lenh": "Lệnh sale (short) đang giữ",
+      "quyet_dinh": "giu",
+      "khi_nao": "Giữ tới 77-78 rồi chốt lãi (lúc RSI đâm dưới 20); nến H4 đóng đỏ càng giữ",
+      "gio": null,
+      "trich": "Khi RSI sâu như vậy thì chúng ta chốt lãi sale, chờ nhịp hồi lên rồi tiến tiếp, kiểu gì cũng có nhịp hồi. ... Nến H4 đóng đỏ, vẫn tiếp tục view giữ thôi; gia tăng xác suất gãy sớm."
+    },
+    {
+      "lenh": "Lệnh sale khi giá về vùng RSI quá bán",
+      "quyet_dinh": "dong",
+      "khi_nao": "RSI về quá bán thì biên độ giảm không còn thơm -> chốt sale; không dùng kết quả lệnh sale làm lý do vào buy",
+      "gio": null,
+      "trich": "Về đó thì biên độ giảm không còn thơm nữa nên chúng ta chốt lệnh sale, chứ không phải về đó là mua. ... TP một lệnh sale khác với việc tìm vị thế vào một xu hướng tăng; khác xu hướng thì khác logic, không thể lấy kết quả của lệnh sale làm nguyên nhân để vào lệnh buy."
+    },
+    {
+      "lenh": "Tổng thể vị thế/view",
+      "quyet_dinh": "giu",
+      "khi_nao": "Thị trường đi từ từ, giữ nguyên xu hướng và view, không vội",
+      "gio": null,
+      "trich": "Thị trường đang đứng đấy, cứ đi từ từ, các bạn thấy không. Giữ nguyên xu hướng, giữ nguyên view, cứ chờ cho nó chạy thôi. Không vội nhá."
+    }
+  ],
+  "tin_tuc": [
+    {
+      "su_kien": "FOMC công bố lãi suất tháng 10",
+      "thoi_diem": "1:00 sáng rạng sáng thứ năm (đêm mai)",
+      "nguon": "lich_kinh_te",
+      "so_lieu": "Gần như chắc chắn giữ nguyên lãi suất",
+      "anh_huong_view": "Thị trường đứng im chờ tin; hi vọng giảm trước tin, sau tin có pha đi lên để kill rồi mới giảm tiếp; quan trọng là phát biểu của Fed và cách thị trường lừa",
+      "gio": null,
+      "trich": "Tuần này gần như toàn bộ thị trường đứng im chờ tin lãi suất, công bố vào tối ngày mai, lúc 1:00 sáng, tức rạng sáng thứ năm, có buổi họp của Fed công bố lãi suất tháng 10. Tuy nhiên tháng này mình thấy không hấp dẫn như tháng trước, vì gần như chắc chắn tháng này nó giữ nguyên lãi suất. Quan trọng là phát biểu sau đó của Fed, cộng với việc thị trường sẽ lừa anh em như thế nào"
+    },
+    {
+      "su_kien": "Bầu cử giữa kỳ Mỹ",
+      "thoi_diem": "sắp tới",
+      "nguon": "khac",
+      "so_lieu": null,
+      "anh_huong_view": "Sau bầu cử có đáy; Trump đang níu chứng khoán giữ chỉ số đẹp; cuối năm tạo đáy",
+      "gio": null,
+      "trich": "Đáy sóng gió thì không thoát được; sắp bầu cử mà. View của mình là sau bầu cử có đáy. Đoạn này Trump đang cố níu thị trường chứng khoán để giữ các chỉ số đẹp."
+    }
+  ],
+  "trich_them": [
+    {
+      "gio": null,
+      "cau": "Nhưng trước mắt profit của mình dừng ở 77 đến 78.000: khoảng 78.000 hoặc 77.000 là happy, là ok. Mục tiêu là hi vọng thị trường giảm trước tin lãi suất, sau tin lãi suất có những pha đi lên để kill, và sau đó nữa mới giảm tiếp."
+    },
+    {
+      "gio": null,
+      "cau": "RSI H4 hiện tại có phân kỳ nhẹ, chạm 30 là bật lên. Nhịp này RSI có thể lên một nhịp nữa chạm 50 rồi mới rớt, nghĩa là giá ngắn hạn vẫn có xác suất kéo lên khoảng 81 rồi sau đó mới sập xuống; nhưng sập vẫn là xu hướng chính."
+    },
+    {
+      "gio": null,
+      "cau": "Khi RSI sâu như vậy thì chúng ta chốt lãi sale, chờ nhịp hồi lên rồi tiến tiếp, kiểu gì cũng có nhịp hồi."
+    },
+    {
+      "gio": null,
+      "cau": "H4 theo nguyên tắc trade của mình thì rõ ràng là xu hướng giảm, confirm rồi: đỉnh sau thấp hơn đỉnh trước, giá nằm dưới 34, 34 dưới 89, 89 dưới 200, tất cả mọi thứ. Đi kiểu này tỉ lệ rất cao là nó về test tiếp vùng MA màu xanh, quanh 77.000 đến 78.000."
+    },
+    {
+      "gio": null,
+      "cau": "Vùng bên dưới khá trống trải, khả năng rất cao phải về đến vùng 77-78 mới có hỗ trợ."
+    },
+    {
+      "gio": null,
+      "cau": "Cho nên xu hướng hiện tại của thị trường mình nghĩ vẫn là xu hướng giảm, và từ giờ đến cuối tháng mình sẽ không buy."
+    },
+    {
+      "gio": null,
+      "cau": "Nếu break lên trên thì bắt đầu quét thanh khoản luôn khoảng trên 82.000 rồi mới rớt xuống. Nhịp này là nhịp quét thanh khoản chứ không phải nhịp phá cao."
+    },
+    {
+      "gio": null,
+      "cau": "Vùng mục tiêu lúc nãy mình nói từ 77.000 đến 78.100 gì đó."
+    }
+  ],
+  "kho": "File không có mốc giờ. Không nói giá vào/SL của lệnh sale đang giữ (chỉ suy ra từ 'profit của mình dừng ở 77 đến 78.000' và 'chốt lãi sale' ở RSI quá bán) nên vao/sl = null. Không có mốc vô hiệu rõ: kể cả quét lên trên 82k vẫn coi là quét thanh khoản rồi rớt. Hạn: hi vọng giảm trước tin Fed (~39 giờ), không buy tới cuối tháng (~110 giờ) — lấy mốc cuối tháng. Có khả năng hồi ngắn lên ~81k trước, nhưng sau nến H4 đỏ thì nghiêng gãy sớm."
+}

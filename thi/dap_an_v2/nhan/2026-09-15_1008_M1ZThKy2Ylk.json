@@ -1,0 +1,50 @@
+{
+  "buoi": "2026-09-15_1008_M1ZThKy2Ylk",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/lam_sach/2026-09-15_1008_M1ZThKy2Ylk.md",
+  "gia_btc_luc_noi": 77500,
+  "dau_buoi": {
+    "thien_huong_h4": "GIAM",
+    "gio": null,
+    "trich": "Vùng 77.000 đến 77.200 [?] đang dồn khối lượng thanh lý, số lượng lệnh long rất nhiều. Cho nên vùng hiện tại để bắt lên thì chưa thấy cơ sở. Ai còn entry ở những vùng 79 thì có thể gồng về khoảng 77. Ai chưa có thì tốt nhất đừng có FOMO để cản tàu đi lên nhá, đoạn này mình thấy chả ổn tí nào."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "GIAM",
+    "do_chac": "thap",
+    "gio": null,
+    "trich": "Xu hướng của mình vẫn là xấu. Nhìn H4, kẻ Fibo ra: giá nằm dưới 0.5 thì không view theo góc độ đi lên được. Đơn giản vậy thôi."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {"huong": "GIAM", "dich": [76000, 77000]},
+  "duong_di": null,
+  "dich_chinh": [76000, 77000],
+  "han_gio": null,
+  "vo_hieu": {
+    "gia": 82000,
+    "khung": "D1",
+    "so_nen": 1,
+    "chieu": "dong_tren",
+    "cau": "Thực sự phải đóng nến trên 83 thì mới gọi là uy tín. Trên khung ngày, đóng trên khoảng 82 là khả năng cao đóng lên được 83. ... Mô hình cờ được xác nhận khi vượt qua 82, phải break ra được thằng 82. Lúc này confirm mô hình cờ và đánh lên, chúng ta có quyền đuổi theo từ 83 lên đến 92."
+  },
+  "lenh": [
+    {"chieu": "SHORT", "vao": [79000, 80000], "tp": [77000, 76000], "sl": null, "trang_thai": "dang_giu"},
+    {"chieu": "SHORT", "vao": 76000, "tp": [75000, 73000], "sl": null, "trang_thai": "de_xuat_moi"},
+    {"chieu": "LONG", "vao": 73000, "tp": [76000, 77000], "sl": null, "trang_thai": "de_xuat_moi"},
+    {"chieu": "LONG", "vao": 83000, "tp": [92000], "sl": null, "trang_thai": "de_xuat_moi"}
+  ],
+  "hanh_dong": "giu_lenh",
+  "khung_lon": {"D1": "PHAN_VAN", "W1": null},
+  "pha_vo_gia": "Nhịp lên 79.500 đêm qua rồi rơi về 77 được gọi là đi xuống 'để kill các lệnh long': 'đám FOMO long đuổi lên, long ngay đỉnh. Sáng nay nó giảm hẳn từ 79 về 77, kêu bằng sạch đám này'.",
+  "trich_them": [
+    {"gio": null, "cau": "Hôm qua, ở góc độ con BTC, chúng ta chờ nó test lại vùng từ 79 đến 80 và xem phản ứng giá ở đấy. Thực tế đêm qua nó lên đến 79.500 ... Và nó trả lại một cây H4 khá đỏ, cho nên nhịp hiện tại vẫn chưa bay được, chưa thấy cái cửa để cho nó lên. Vẫn quay về lại vùng 77, một vùng khá khó để scalp."},
+    {"gio": null, "cau": "Break 82 thì thị trường có khả năng xu hướng tiếp tục đi lên. Còn nếu break 76 thì khả năng về test đâu đó khoảng vùng 75 cho đến 72. Anh em đừng view sâu quá. Nếu thủng 76 thì phải xem từng vùng một: vùng đầu tiên là 75, vùng thứ hai là 73..."},
+    {"gio": null, "cau": "Trên H4, xu hướng hiện tại đã kéo lên trên được rồi. Nến bán lớn, cặp H4 đảo chiều, nhưng nếu nến vẫn trụ được trên cụm hai đường MA thì phe bán không quá áp đảo. Nó vẫn giữ được ở đây thì vẫn nằm trong thế dằng co. Khi nằm trong thế này chúng ta rất khó nhận định..."},
+    {"gio": null, "cau": "M5 thì vẫn có khả năng tạo hai đáy đi lên, nhưng xác suất phục hồi mình đánh giá không cao. ... Nên anh em hạn chế FOMO và bắt đáy ở đoạn này, thấy chưa ổn tí nào."},
+    {"gio": null, "cau": "Tầm này là ngồi nhìn thôi. Nhìn ở đâu: ... Một là chờ nó về 76, thủng 76 thì tính tiếp. ... Hai là lên trên 81, 82 thì tính tiếp. ... Ba là nếu anh em có entry ở vùng 79 thì cứ TP1 và chờ về những vùng sâu hơn: 77.000 hoặc 76.000, hoặc thủng 76 nữa thì có thêm một vùng nữa."},
+    {"gio": null, "cau": "Tùy. Nếu tăng lãi suất thì mình nghĩ là đi về nơi bắt đầu luôn, có thể về 69 hay sáu mấy luôn. ... Mà xác suất tăng lãi suất cực kỳ lớn."},
+    {"gio": null, "cau": "Hai cây H4 thế này, đóng thủng luôn Fibo này thì anh em biết điểm đến tiếp theo rồi, khả năng là bảy mươi mấy dưới này rất cao."},
+    {"gio": null, "cau": "Kịch bản khó chơi nhất là nó về đến khoảng 73 lưng chừng rồi bắt đầu đi lên: lúc đó mình chỉ đánh được từ 73 lên khoảng 76 hoặc 77 thôi, sau đó vẫn phải ngồi chờ. Từ vùng 77 cho đến 83 là mình không đánh được."},
+    {"gio": null, "cau": "Vùng TP thứ nhất là 77.000 và thứ hai là 76.000."}
+  ],
+  "kho": "File không có mốc giờ. Người đó nói nhiều kịch bản (D1 sideway 76–82 có thể là cờ tăng, H4 'dằng co', hai đáy H4 có thể backtest rồi lên) và khuyên 'ngồi nhìn', nhưng view riêng vẫn xấu (dưới Fibo 0.5 H4, thanh khoản long dồn ở 77, lệnh sale 79 gồng về 77/76) → GIAM độ chắc thấp. Giá ~77.5 rất sát đích 77 nên đích chính để vùng 76–77. Lệnh sale 79 là plan hôm trước người đó cho anh em 'đi qua đêm', không nói rõ bản thân còn giữ. Kịch bản tăng lãi suất (về 69/6x) là có điều kiện theo tin Fed."
+}

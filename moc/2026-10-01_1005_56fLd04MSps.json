@@ -1,0 +1,234 @@
+{
+  "buoi": "2026-10-01_1005_56fLd04MSps",
+  "ngay": "2026-10-01",
+  "gia_btc_luc_noi": 83600,
+  "moc": [
+    {
+      "gia": 83000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "hỗ trợ khung ngày và khung tuần",
+        "giữ nhiều ngày vừa rồi"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "83 là hỗ trợ khung ngày và khung tuần... hỗ trợ cứng hiện tại là 83.000"
+    },
+    {
+      "gia": 83000,
+      "gia_tren": 84000,
+      "vai_tro": "khang_cu",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [
+        "Fibo 0.382 kéo từ đỉnh 126.000 về đáy 57.000, khung lớn"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "từ đỉnh 126.000 kéo về đáy vừa rồi 57.000 thì giá 83 84 này đang là cản Fibo 0.382"
+    },
+    {
+      "gia": 91000,
+      "gia_tren": 93000,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "Fibo 0.5 kéo từ đỉnh 126.000 về đáy 57.000, khung lớn"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Cản thực sự mạnh là Fibo 0.5, tức việc giá kéo lên 91, 92, 93"
+    },
+    {
+      "gia": 90000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "W1",
+      "can_cu": [
+        "plan dự phòng, khung tuần/tháng chưa có tín hiệu xấu"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "vẫn có plan dự phòng giá nó sẽ kéo lên 90"
+    },
+    {
+      "gia": 84000,
+      "gia_tren": 85000,
+      "vai_tro": "khang_cu",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "vùng râu quét stop loss nến H4 không đóng qua được",
+        "vùng balance mua bán"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Vùng 84 đến 85 là một vùng cản rất lớn... 84.000 là vùng balance"
+    },
+    {
+      "gia": 85000,
+      "gia_tren": null,
+      "vai_tro": "vo_hieu",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "nến H4 đóng trên 85 thì bullish"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "phải đóng trên 85 thì thị trường mới bắt đầu bullish"
+    },
+    {
+      "gia": 85000,
+      "gia_tren": null,
+      "vai_tro": "sl",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "SL trên vùng Fibo/râu"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "SL trên Fibo này, trên 85 là thoát"
+    },
+    {
+      "gia": 88000,
+      "gia_tren": 90000,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "sau khi đóng H4 trên 85"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "kéo lên tiếp 88 hay 90"
+    },
+    {
+      "gia": 81000,
+      "gia_tren": 82000,
+      "vai_tro": "ho_tro",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "vùng Fibo của con sóng nhỏ",
+        "Fibo 0.5 nhịp tăng từ 75 lên 87",
+        "vùng cấu trúc"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": false,
+      "trich": "tìm về vùng hỗ trợ mạnh kế tiếp là 81 đến 82... Fibo 0.5 của nhịp tăng từ 75 lên 87"
+    },
+    {
+      "gia": 81500,
+      "gia_tren": null,
+      "vai_tro": "entry",
+      "huong": "TANG",
+      "khung": "H1",
+      "can_cu": [
+        "vùng hỗ trợ dưới"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "vùng dưới nên chờ quanh 81.500 xem sao"
+    },
+    {
+      "gia": 82000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "H1",
+      "can_cu": [
+        "thủng trendline H1",
+        "điểm gợi ý TP"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "tuột rất nhanh về khoảng 82.000"
+    },
+    {
+      "gia": 83000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "H1",
+      "can_cu": [
+        "thủng trendline H1"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": false,
+      "trich": "thủng đoạn khoảng 83.000 mà tuột một phát thì mình nghĩ chắc về đến 83"
+    },
+    {
+      "gia": 85600,
+      "gia_tren": null,
+      "vai_tro": "dinh_cu",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "râu quét stop loss đêm qua"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "thậm chí lên 85.600, và đã bị đảo ngược hoàn toàn"
+    },
+    {
+      "gia": 82000,
+      "gia_tren": null,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": "H1",
+      "can_cu": [
+        "cụm thanh lý / heatmap"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Chúng ta có 82.000 và 85 86 luôn, chưa biết nó đi đầu nào"
+    },
+    {
+      "gia": 85000,
+      "gia_tren": 86000,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": "H1",
+      "can_cu": [
+        "cụm thanh lý / heatmap"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Chúng ta có 82.000 và 85 86 luôn"
+    },
+    {
+      "gia": 70000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": false,
+      "trich": "Bitcoin gãy về khoảng 70, altcoin về đến vùng 0.09"
+    }
+  ]
+}

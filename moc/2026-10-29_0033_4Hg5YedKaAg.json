@@ -1,0 +1,219 @@
+{
+  "buoi": "2026-10-29_0033_4Hg5YedKaAg",
+  "ngay": "2026-10-29",
+  "gia_btc_luc_noi": 81000,
+  "moc": [
+    {
+      "gia": 82000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "Fibo 0.5 của nhịp giảm",
+        "quét thanh khoản"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Nó lên đây chủ yếu là lấy thanh khoản cộng với quét lại vùng này và Fibo 0.5 của nhịp giảm. Tí nữa có thể có nhịp lên 82"
+    },
+    {
+      "gia": 82500,
+      "gia_tren": 83000,
+      "vai_tro": "sl",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "né quét SL khi ra tin"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Ví dụ SL trên 82.500 hoặc 83 chẳng hạn"
+    },
+    {
+      "gia": 82000,
+      "gia_tren": null,
+      "vai_tro": "entry",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Limit 82K5 hơi xa. Quanh 82 thì cũng được"
+    },
+    {
+      "gia": 81000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "GIAM",
+      "khung": "M15",
+      "can_cu": [
+        "Fibo (vùng test lại sau mô hình hai đáy)",
+        "Fibo 0.5 / 0.618"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Thông thường mô hình này sẽ lên test lại vùng 81.000... vùng Fibo nên xác suất lên test cực kỳ cao"
+    },
+    {
+      "gia": 85000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "vùng hòa vốn holder dài hạn (Glassnode: mua 85-118K)"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Glassnode cảnh báo hồi phục lên 85.000 có thể kích hoạt bán ra từ nhà đầu tư muốn bán hòa vốn"
+    },
+    {
+      "gia": 76000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": false,
+      "trich": "Ôi giờ mà tăng lãi thì chắc ngày mai thấy 76.000"
+    },
+    {
+      "gia": 84000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "đỉnh nhịp lên H4 trước, vùng Fibo"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "nhịp lên 84.000: nó lên đúng vùng Fibo này rồi rớt"
+    },
+    {
+      "gia": 86000,
+      "gia_tren": null,
+      "vai_tro": "dinh_cu",
+      "huong": "TANG",
+      "khung": "M15",
+      "can_cu": [
+        "đỉnh cũ (hai đáy breakout phải vượt)"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Bình thường hai đáy chạy vào breakout thì phải lên được trên đỉnh, trên 86"
+    },
+    {
+      "gia": 81000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "râu nến H4 xa nhất",
+        "Fibo 50% cây nến H4 bán"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "râu nến kéo ra vùng xa nhất rồi, 81.000. Lên mà không quá được 50% của cây nến này là coi như oẳng"
+    },
+    {
+      "gia": 82500,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "nếu PCE ra 0.2"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Còn nếu ra 0.2 thì chắc ngày mai nó kéo lên khoảng 82.500"
+    },
+    {
+      "gia": 78000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [
+        "kịch bản vai đầu vai khung ngày",
+        "vùng cần test"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "nó điều chỉnh về vùng 78 rồi sideway, bật lên test lại vùng đó"
+    },
+    {
+      "gia": 83000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [
+        "vai phải của mô hình vai đầu vai D1"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "bật lên test lại vùng đó, 83; rồi lại đi xuống thì lúc này có một mô hình vai đầu vai trên khung ngày"
+    },
+    {
+      "gia": 78400,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [
+        "Fibo 0.5 của tổng thể nhịp này",
+        "mô hình vai đầu vai D1"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": false,
+      "trich": "phục hồi lên vùng 784 [?], là Fibo 0.5 của tổng thể nhịp này"
+    },
+    {
+      "gia": 60000,
+      "gia_tren": 69999,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [
+        "mô hình vai đầu vai D1 (đo xuống)"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": false,
+      "trich": "nó tuột về khoảng sáu mấy nghìn, lúc đó thị trường mới tính tiếp là tạo đáy ở 60 hay đáy thấp hơn"
+    },
+    {
+      "gia": 80000,
+      "gia_tren": 81000,
+      "vai_tro": "khang_cu",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "MA34 H4",
+        "Fibo 1/2 cây nến bán"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": false,
+      "trich": "có thể có một nhịp test nữa lên vùng 80.00[?]/81.00[?]... H4 test MA rồi quay về dưới MA34"
+    }
+  ]
+}

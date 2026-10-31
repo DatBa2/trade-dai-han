@@ -1,0 +1,53 @@
+{
+  "buoi": "2026-09-14_1007_ykgTTK3EbP8",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/lam_sach/2026-09-14_1007_ykgTTK3EbP8.md",
+  "gia_btc_luc_noi": 77300,
+  "dau_buoi": {
+    "thien_huong_h4": "GIAM",
+    "gio": null,
+    "trich": "Khung H4 đã cross sau một quá trình dài tăng; kẹp MA không giữ được và hiện cây nến đang cố kéo thay đổi cấu trúc H4. Còn được hay không thì chờ mới biết, nhưng nhịp tăng này cá nhân mình không đánh giá là nhịp tăng vững."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "GIAM",
+    "do_chac": "thap",
+    "gio": null,
+    "trich": "Vùng 77 này vẫn là vùng 50/50, khó chơi chứ không dễ. Một là lên cao hơn 79 thì dễ chơi, hai là về dưới 76 thì dễ chơi; vùng 77 rất lưng chừng. ... Đặc biệt sau tin, trong bài phát biểu giá dễ kéo; nếu từ giờ đến đó nó không test râu 79 thì có khả năng khi có tin lãi suất nó sẽ test râu này, rồi sau đó mới giảm. ... Đó là nhịp mình đang quan sát, không dám sale quá vội."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {"huong": "TANG", "dich": [79000, 80000]},
+  "duong_di": [
+    {"huong": "TANG", "dich": [79000, 80000]},
+    {"huong": "GIAM", "dich": [72000, 74000]}
+  ],
+  "dich_chinh": [72000, 74000],
+  "han_gio": null,
+  "vo_hieu": {
+    "gia": 83000,
+    "khung": "W1",
+    "so_nen": 1,
+    "chieu": "dong_tren",
+    "cau": "View khung tuần vẫn như cũ: muốn kỳ vọng một cú đi lên thì phải thấy nến tuần đóng trên 83.000; không đóng trên được thì khó."
+  },
+  "lenh": [
+    {"chieu": "SHORT", "vao": [79000, 80000], "tp": [], "sl": null, "trang_thai": "de_xuat_moi"},
+    {"chieu": "SHORT", "vao": 76000, "tp": [73000, 69000], "sl": null, "trang_thai": "de_xuat_moi"},
+    {"chieu": "SHORT", "vao": null, "tp": [], "sl": null, "trang_thai": "da_dong"},
+    {"chieu": "LONG", "vao": 83000, "tp": [90000, 92000], "sl": null, "trang_thai": "de_xuat_moi"}
+  ],
+  "hanh_dong": "dung_ngoai_cho_entry",
+  "khung_lon": {"D1": null, "W1": "GIAM"},
+  "pha_vo_gia": "Sau tin CPI 'một pha quét hai đầu': quét lên 79.800 'với mục đích quét stop loss của những lệnh sót ở trên', rồi rớt về 77, quét 76 và vút lên. Sáng nay 'có một pha dụ sale rồi tăng khối lượng ... đã kill hết đám FOMO, đám sale hiện tại rồi'.",
+  "trich_them": [
+    {"gio": null, "cau": "Cây nến tuần vừa rồi rất xấu: volume bán không quá lớn nhưng hình thái nến bắt đầu ở 80 rồi trả về 76.000 [?], phá luôn vùng hỗ trợ trước đó ở 77.500. Nến tuần này sẽ gặp hỗ trợ ở đường MA, tức 74.000, hoặc thậm chí khoảng 72–73.000. ... View cá nhân mình vẫn là thị trường xấu chứ không quá đẹp."},
+    {"gio": null, "cau": "Giá liên tục được giữ ở vùng 76, đây là vùng hỗ trợ rất cứng. Muốn sale thì chờ nó thủng qua 76. Thủng 76 thì đánh về hai vùng: 74 đến 72, và 70 đến 68. ... Nếu thủng 76 thì chờ ở vùng 73; có vị thế bán thì tranh thủ chốt TP quanh vùng này."},
+    {"gio": null, "cau": "Thêm nữa: xu hướng giảm này thủng liên tục đỉnh đáy; bây giờ về đến hỗ trợ nhưng biên hẹp dần, thủng dần, đỉnh thấp dần, nên rất dễ bị đạp xuống và bán xuống ở lần dưới."},
+    {"gio": null, "cau": "Ngắn hạn không loại trừ xác suất giá lên test hai cái râu này rồi mới đi xuống; ví dụ nó thủng xuống dưới vẫn có xác suất lên test lại râu 79.000 [?] rồi mới đi xuống."},
+    {"gio": null, "cau": "Vùng 79 đến 80 là vùng anh em có thể quan sát để chọn làm entry sale. Nếu ở đây có tín hiệu phù hợp, cấu trúc nến phù hợp thì chọn làm entry đánh xuống."},
+    {"gio": null, "cau": "Lúc sáng mình có sale dò một lệnh nhỏ, SL trên vùng này, không thành công và đã cắt. Bây giờ vùng từ 77.800 [?] đến 79 mình ở ngoài quan sát, không vào vị thế nào, cả long lẫn sale."},
+    {"gio": null, "cau": "Plan: vùng đầu tiên để sale là chờ ở 79 đến 80 và quan sát phản ứng nến. Còn nếu không muốn bắt trên đó vì sợ nó pump luôn thì phải chờ nó thủng khỏi 76 thì tính tiếp."},
+    {"gio": null, "cau": "79 mình nghĩ không nên nhồi dương; ... Còn đúng ra lệnh 79 đó nên chốt quanh 77 hoặc 76.800 [?] thì tốt hơn."},
+    {"gio": null, "cau": "Tăng lãi suất chắc thị trường giảm trong ngắn hạn; mình nghĩ nó sẽ giảm trong trung hạn."}
+  ],
+  "kho": "File không có mốc giờ. Người đó nói thẳng 'vùng 77 là 50/50' nhưng đó là về điểm vào lệnh; tổng thể vẫn nghiêng giảm (nến tuần rất xấu, đỉnh thấp dần, chỉ có plan sale ở 79–80 hoặc khi thủng 76, dự kiến test râu 79 'rồi sau đó mới giảm') → GIAM độ chắc thấp, đứng ngoài chờ entry. Lệnh sale dò buổi sáng đã cắt, không rõ giá vào. Mốc vô hiệu H4 không nêu; lấy mốc nến tuần đóng trên 83."
+}

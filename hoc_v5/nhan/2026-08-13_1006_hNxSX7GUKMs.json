@@ -1,0 +1,403 @@
+{
+  "buoi": "2026-08-13_1006_hNxSX7GUKMs",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/lam_sach/2026-08-13_1006_hNxSX7GUKMs.md",
+  "gia_btc_luc_noi": 63600,
+  "dau_buoi": {
+    "thien_huong_h4": "GIAM",
+    "gio": null,
+    "trich": "Bitcoin vẫn đang cố trụ ở đoạn này, xem thử có nên giữ tiếp lệnh short hay té cho an toàn. Giá thủng Fibo rồi mà phe short đang cố thủ mạnh quá. Xu hướng gãy là rõ nhưng khối lượng đỏ vẫn còn."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "GIAM",
+    "do_chac": "cao",
+    "gio": null,
+    "trich": "Xu hướng rõ ràng là giảm: giá nằm dưới MA khung ngày, H4 giá vẫn nằm dưới MA, đâm qua hai điểm cross ... Xu hướng hôm nay rõ ràng là không Long được rồi. ... Hỏi: H4 đóng vậy long vô không? — Không. Bitcoin hôm nay mình không long."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {
+    "huong": "GIAM",
+    "dich": 62800
+  },
+  "duong_di": [
+    {
+      "huong": "GIAM",
+      "dich": 62800
+    }
+  ],
+  "dich_chinh": 62800,
+  "han_gio": null,
+  "vo_hieu": null,
+  "lenh": [
+    {
+      "chieu": "SHORT",
+      "vao": 64300,
+      "tp": [
+        62800
+      ],
+      "sl": 64300,
+      "trang_thai": "dang_giu"
+    },
+    {
+      "chieu": "SHORT",
+      "vao": 63700,
+      "tp": [
+        62800
+      ],
+      "sl": null,
+      "trang_thai": "de_xuat_moi"
+    }
+  ],
+  "hanh_dong": "giu_lenh",
+  "khung_lon": {
+    "D1": "GIAM",
+    "W1": null
+  },
+  "pha_vo_gia": "Sau tin CPI giá đẩy lên ~64.500 ('một cú lên lấy thanh khoản phía trên rồi rụng xuống trong đêm'); PPI tối nay dự kiến cũng 'bay lên, sau đó gãy xuống'. Không đánh hai đáy/phân kỳ nhẹ H4 khi giá vượt 63.800.",
+  "nhin_lai_view_truoc": {
+    "view_truoc": "GIAM",
+    "giu_hay_doi": "giu",
+    "vi_sao": "Hôm qua báo trước plan CPI: ra đúng dự kiến thì đẩy lên rồi gãy -> giá đẩy lên ~64.500 lực rất yếu, lấy thanh khoản rồi rụng trong đêm, H4 đóng xấu; lệnh short 64.300 đã TP1, SL về entry. Vẫn giữ view giảm, chỉ cân nhắc giữ lệnh hay té cho an toàn.",
+    "gio": "[00:13:04]",
+    "trich": "Hôm qua CPI ra mình báo trước plan: nếu bằng dự kiến thì giá đẩy lên sau đó gãy. Nó đi không trượt phát nào. Trước giờ tin loanh quanh 64, ra tin nó đẩy lên 64.500 [?] (nguyên văn \"64.000 năm\"). Lực đẩy rất yếu nhưng cũng có một cú lên lấy thanh khoản phía trên rồi rụng xuống trong đêm, và cây nến H4 đóng."
+  },
+  "trendline": [
+    {
+      "khung": null,
+      "loai": "kenh",
+      "noi_tu": "Trả lời câu hỏi mô hình cờ: đoạn hồi hiện tại dễ thành mô hình cờ, có kẻ trendline; không nói khung, không nêu điểm neo",
+      "diem_neo": [],
+      "gia_duong_luc_noi": null,
+      "trang_thai": "chua_pha",
+      "dieu_kien_pha": null,
+      "ket_luan_huong": "GIAM",
+      "gio": "[00:19:40]",
+      "trich": "Đoạn này thuận xu hướng thì scalping. Có bạn hỏi mô hình cờ: đoạn này dễ tạo thành mô hình cờ, có trendline. Mình chỉ short bình thường thôi, không big short."
+    }
+  ],
+  "nen_volume": [
+    {
+      "khung": null,
+      "nen": "Giá thủng Fibo nhưng vẫn cố trụ vùng hiện tại",
+      "volume": "Khối lượng đỏ vẫn còn",
+      "ket_luan": "Xu hướng gãy là rõ; nếu vút lên kill short thì tối đa ~64.600, nhưng 63.800 đã khó",
+      "gio": "[00:07:50]",
+      "trich": "Giá thủng Fibo rồi mà phe short đang cố thủ mạnh quá. Xu hướng gãy là rõ nhưng khối lượng đỏ vẫn còn."
+    },
+    {
+      "khung": "H4",
+      "nen": "Sau tin CPI giá đẩy lên 64.500 [?] rồi rụng trong đêm, H4 đóng",
+      "volume": "Lực đẩy rất yếu",
+      "ket_luan": "Đúng kịch bản tin ra bằng dự kiến: đẩy lên lấy thanh khoản rồi gãy",
+      "gio": "[00:13:20]",
+      "trich": "Lực đẩy rất yếu nhưng cũng có một cú lên lấy thanh khoản phía trên rồi rụng xuống trong đêm, và cây nến H4 đóng."
+    },
+    {
+      "khung": "H4",
+      "nen": "Cây H4 tối qua đóng cực kỳ xấu: đâm thủng Fibo 0.5 và 0.618, xuyên thủng đáy 63.500 tạo đáy thấp hơn; đỉnh và đáy đều đổ đèo xuống",
+      "volume": null,
+      "ket_luan": "Lower low -> phá vỡ xu hướng tăng, tiếp tục tạo đỉnh thấp hơn",
+      "gio": "[00:13:41]",
+      "trich": "Cây H4 đóng cực kỳ xấu, đâm thủng Fibo 0.5 ở vùng này và đâm luôn Fibo 0.618. Ngoài Fibo, cây nến H4 tối qua xấu vì nó phá cái đáy ... Cây nến hôm qua đâm xuyên thủng đáy 63.500, tạo một đáy thấp hơn."
+    },
+    {
+      "khung": "H4",
+      "nen": "Đêm qua kéo một cây ngay giao điểm MA (giá dưới MA D1 và H4, đâm qua hai điểm cross)",
+      "volume": null,
+      "ket_luan": "Vùng hỗ trợ mạnh thành kháng cự; qua 64.300 cực kỳ khó",
+      "gio": "[00:18:56]",
+      "trich": "Xu hướng rõ ràng là giảm: giá nằm dưới MA khung ngày, H4 giá vẫn nằm dưới MA, đâm qua hai điểm cross. Đêm qua nó kéo một cây ngay giao điểm này rất đẹp."
+    },
+    {
+      "khung": "M5",
+      "nen": "Khung 5 phút vẫn kéo nhịp phục hồi trong phiên Á, lòng vòng",
+      "volume": null,
+      "ket_luan": "Chờ nến từ chối hoặc chạm râu 63.700 mới short",
+      "gio": "[00:20:13]",
+      "trich": "Để an toàn thì chờ nến từ chối ở vùng này hoặc nó chạm vùng râu phía trên khoảng 63.700 thì đánh, chạm biên trên đánh cho an toàn. Hiện ở 5 phút nó vẫn kéo nhịp phục hồi trong phiên Á, lòng vòng ở vùng này."
+    },
+    {
+      "khung": "H4",
+      "nen": "H4 có phân kỳ nhẹ (khi hỏi về hai đáy vượt 63.800)",
+      "volume": "Lực bán ở các cụm này khá căng",
+      "ket_luan": "Phân kỳ chưa ổn áp, đừng đánh hai đáy",
+      "gio": "[00:32:39]",
+      "trich": "H4 tuy có phân kỳ nhẹ nhưng mình thấy không ăn thua, phân kỳ chưa ổn áp. Lực bán ở những cụm này khá căng. Đừng đánh hai đáy đoạn này."
+    }
+  ],
+  "cach_lam": [
+    {
+      "hanh_dong": "do",
+      "cong_cu": "fibo_thoai_lui",
+      "chi_tiet": "Fibo 0.5 và 0.618 của đoạn hồi trên H4",
+      "ket_qua": "Cây H4 tối qua đâm thủng cả hai -> xấu",
+      "gio": "[00:13:41]",
+      "trich": "Cây H4 đóng cực kỳ xấu, đâm thủng Fibo 0.5 ở vùng này và đâm luôn Fibo 0.618."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "dinh_day_cu",
+      "chi_tiet": "Đỉnh đáy đổ đèo; đáy 63.500 bị xuyên thủng (LL theo lý thuyết HH/HL/LL)",
+      "ket_qua": "Phá vỡ xu hướng tăng, tiếp tục đỉnh thấp hơn",
+      "gio": "[00:14:00]",
+      "trich": "nhìn bằng mắt thường cũng thấy đỉnh cứ đổ đèo xuống, đáy cũng đổ đèo xuống ... Theo lý thuyết bài bản có khái niệm LL (lower low), HH, HL: đỉnh đáy sau thấp hơn đỉnh đáy trước thì phá vỡ xu hướng tăng và tạo tiếp những đỉnh thấp hơn."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "ema",
+      "chi_tiet": "Giá dưới MA khung ngày và H4, đâm qua hai điểm cross; vùng MA từ hỗ trợ mạnh thành kháng cự",
+      "ket_qua": "Qua 64.300 cực kỳ khó",
+      "gio": "[00:19:22]",
+      "trich": "Vùng này hôm trước mình giải thích nhiều lần: từ vùng hỗ trợ mạnh bây giờ biến thành kháng cự, nên để nó qua khỏi 64.300 là cực kỳ khó khăn."
+    },
+    {
+      "hanh_dong": "ke",
+      "cong_cu": "trendline",
+      "chi_tiet": "Mô hình cờ có trendline cho đoạn hồi",
+      "ket_qua": "Short bình thường thuận xu hướng, không big short",
+      "gio": "[00:19:40]",
+      "trich": "Có bạn hỏi mô hình cờ: đoạn này dễ tạo thành mô hình cờ, có trendline. Mình chỉ short bình thường thôi, không big short."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "nen",
+      "chi_tiet": "Chờ nến từ chối hoặc chạm râu trên 63.700",
+      "ket_qua": "Điểm short an toàn ở biên trên",
+      "gio": "[00:20:08]",
+      "trich": "Để an toàn thì chờ nến từ chối ở vùng này hoặc nó chạm vùng râu phía trên khoảng 63.700 thì đánh, chạm biên trên đánh cho an toàn."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "USDT.D tiếp tục kéo lên; cây nến ngày rủi ro lớn",
+      "ket_qua": "Nếu USDT.D lên 9-9.5% thì khả năng đáy thị trường được tạo khi đó",
+      "gio": "[00:20:38]",
+      "trich": "USDT.D vẫn tiếp tục kéo xu hướng đi lên ... USDT.D rất nguy hiểm, rất xấu. Nếu nó kéo lên trên vùng 9 đến 9.5 thì mình nghĩ khả năng đáy thị trường sẽ được tạo ra khi đó."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "heatmap",
+      "chi_tiet": "Liquid: phía trên ~100.000 đỏ (ít); phía dưới dày 63.100, 62.900; 64.400 có đám short mới sau tin (giống lệnh 64.300 của nhóm, đã kéo SL về entry)",
+      "ket_qua": "Liquid hai đầu; short thì TP 62.800",
+      "gio": "[00:22:32]",
+      "trich": "Bên này có khoảng 100.000 đỏ thôi, không nhiều. Đám ở dưới vẫn rất dày: 63.100, 62.900; 64.400 thì cũng có, nhưng đám này vừa mới short ở nhịp đêm sau tin hôm qua."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "Fear & Greed",
+      "ket_qua": "29, vẫn cứng",
+      "gio": "[00:25:14]",
+      "trich": "Liquid vùng này vẫn hai đầu thôi. Nếu short thì TP 62.800, mình cũng đang chờ ở đây. Fear & Greed vẫn 29, vẫn cứng."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "Phân kỳ H4 (không nói tên chỉ báo)",
+      "ket_qua": "Phân kỳ nhẹ, chưa ổn áp -> không đánh hai đáy",
+      "gio": "[00:32:39]",
+      "trich": "H4 tuy có phân kỳ nhẹ nhưng mình thấy không ăn thua, phân kỳ chưa ổn áp."
+    }
+  ],
+  "vung_nguoi_do": [
+    {
+      "loai": "dich",
+      "tu": 64600,
+      "den": 64600,
+      "gio": "[00:08:39]",
+      "trich": "Nếu nó phóng lên khỏi đoạn này, vút lên kill hết đám short thì mình đoán sẽ lên khoảng 64.600, nhưng liệu có lên được không thì hơi khó"
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 63800,
+      "den": 63800,
+      "gio": "[00:08:55]",
+      "trich": "63.800 không là cũng đã tắt thở rồi."
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 64300,
+      "den": 64300,
+      "gio": "[00:19:25]",
+      "trich": "từ vùng hỗ trợ mạnh bây giờ biến thành kháng cự, nên để nó qua khỏi 64.300 là cực kỳ khó khăn."
+    },
+    {
+      "loai": "vao",
+      "tu": 63700,
+      "den": 63700,
+      "gio": "[00:20:08]",
+      "trich": "chờ nến từ chối ở vùng này hoặc nó chạm vùng râu phía trên khoảng 63.700 thì đánh, chạm biên trên đánh cho an toàn."
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 64400,
+      "den": 64400,
+      "gio": "[00:21:01]",
+      "trich": "> Hỏi: Cỡ nào cũng phải thịt râu 64K4? — Bình thường thôi, tầm này đánh phải bỏ qua những cái râu. Mình nghĩ lên 64.400 hơi căng"
+    },
+    {
+      "loai": "sl",
+      "tu": 64300,
+      "den": 64300,
+      "gio": "[00:23:02]",
+      "trich": "hôm qua chúng ta cũng short ở 64.300. Bây giờ nó không thể thịt anh em mình vì chúng ta đã TP1 và kéo SL về entry rồi."
+    },
+    {
+      "loai": "tp",
+      "tu": 62800,
+      "den": 62800,
+      "gio": "[00:25:06]",
+      "trich": "Liquid vùng này vẫn hai đầu thôi. Nếu short thì TP 62.800, mình cũng đang chờ ở đây."
+    }
+  ],
+  "view_trung_han": [
+    {
+      "khung": "D1",
+      "huong": "GIAM",
+      "dich": null,
+      "han": "sắp rụng, không còn nhiều thời gian lòng vòng (nói ngày 13/8)",
+      "mat_view_khi": null,
+      "gio": "[00:18:32]",
+      "trich": "Xu hướng hiện tại rất xấu. Đây gần như là những đợt trụ hạng cuối cùng rồi. Hôm nay ngày 13 tháng 8, không còn nhiều thời gian để thị trường cứ lòng vòng ở vùng này; hồi thì cũng đã phải hồi, rụng thì cũng sắp rụng."
+    },
+    {
+      "khung": "M1",
+      "huong": "TANG",
+      "dich": 125000,
+      "han": "nhiều năm tháng (không nêu cụ thể)",
+      "mat_view_khi": null,
+      "gio": "[00:24:29]",
+      "trich": "Giống nhiều người bảo kiểu gì cũng lên lại 125.000, mình cũng nói vậy; nhưng chúng ta không thể chờ lên 125.000 mới short được, vì chặng đường từ đây lên đó mất bao nhiêu năm tháng"
+    }
+  ],
+  "vung_tranh": [
+    {
+      "tu": null,
+      "den": null,
+      "vi_sao": "Xu hướng hôm nay rõ ràng không long được",
+      "gio": "[00:20:29]",
+      "trich": "Xu hướng hôm nay rõ ràng là không Long được rồi."
+    },
+    {
+      "tu": null,
+      "den": null,
+      "vi_sao": "Vùng lưng chừng, không big short; big short chỉ ở entry thật cao, thật đẹp",
+      "gio": "[00:21:51]",
+      "trich": "big short phải đánh ở những entry thật cao, thật đẹp, còn vùng này là vùng lưng chừng nên không thể big ở đoạn này."
+    },
+    {
+      "tu": 63800,
+      "den": 63800,
+      "vi_sao": "Vượt 63.800 không phải tín hiệu hai đáy H4: phân kỳ chưa ổn, lực bán căng -> đừng long hai đáy",
+      "gio": "[00:32:55]",
+      "trich": "> Hỏi: BTC vượt 63.800, hai đáy H4? — H4 tuy có phân kỳ nhẹ nhưng mình thấy không ăn thua ... Đừng đánh hai đáy đoạn này."
+    },
+    {
+      "tu": null,
+      "den": null,
+      "vi_sao": "H4 đóng như vậy không long BTC hôm nay",
+      "gio": "[00:56:40]",
+      "trich": "> Hỏi: H4 đóng vậy long vô không? — Không. Bitcoin hôm nay mình không long."
+    }
+  ],
+  "giu_dong": [
+    {
+      "lenh": "Short 64.300 (hôm qua)",
+      "quyet_dinh": "giu",
+      "khi_nao": "Đã TP1, kéo SL về entry nên không bị thịt; còn lại chờ TP 62.800 (đầu buổi cân nhắc giữ hay té)",
+      "gio": "[00:23:02]",
+      "trich": "hôm qua chúng ta cũng short ở 64.300. Bây giờ nó không thể thịt anh em mình vì chúng ta đã TP1 và kéo SL về entry rồi."
+    },
+    {
+      "lenh": "Short 64.300 (hôm qua) – phần TP1",
+      "quyet_dinh": "chot_mot_phan",
+      "khi_nao": "Đã chốt TP1 trước buổi (không nêu giá)",
+      "gio": "[00:23:02]",
+      "trich": "chúng ta đã TP1 và kéo SL về entry rồi."
+    },
+    {
+      "lenh": "Spot BTC DCA tự động hằng ngày",
+      "quyet_dinh": "giu",
+      "khi_nao": "Mua đều hằng ngày, giữ nhiều năm (5-10 năm); chỉ dừng mua khi cash out chốt lãi, giảm một xíu thì mua lại",
+      "gio": "[00:31:49]",
+      "trich": "Mua được rồi, nhưng đoạn này mình mua ít. Mình cài tính năng tự động mua hàng ngày trên sàn, nho nhỏ ... vì hàng DCA tích lũy tự động đó đôi khi mình giữ nhiều năm, 5 năm, 10 năm gì cũng được."
+    }
+  ],
+  "tin_tuc": [
+    {
+      "su_kien": "CPI Mỹ (đã ra tối 12/8)",
+      "thoi_diem": "tối qua 12/8",
+      "nguon": "lich_kinh_te",
+      "so_lieu": "CPI y/y 2.5% (trước 2.6%), 3.4% (trước 3.5%); core CPI m/m 0.2% (trước 0%); CPI m/m 0.1% (trước -0.4, theo lời ông)",
+      "anh_huong_view": "Ông đánh giá tin không tốt (chỉ tốt hình thức theo năm; số tháng xấu hơn tháng trước) -> CPI và lãi suất tháng 9 càng rủi ro; giá đẩy lên rồi gãy đúng kịch bản",
+      "gio": "[00:10:14]",
+      "trich": "CPI này chỉ tốt về mặt hình thức: 2.5% so với đợt trước 2.6%, và 3.4% so với đợt trước 3.5% ... Core CPI (CPI lõi) tháng trên tháng là 0.2%, cao hơn đợt trước là 0% ... Đợt này CPI tháng này tăng lên thì CPI tháng 9 và lãi suất tháng 9 càng rủi ro."
+    },
+    {
+      "su_kien": "PPI Mỹ tối nay",
+      "thoi_diem": "19:30 tối 13/8",
+      "nguon": "lich_kinh_te",
+      "so_lieu": "PPI dự kiến 0.3 (tháng trước 0.2); PPI lõi dự kiến 0.2 (trước -0.3 [?])",
+      "anh_huong_view": "Ra bằng dự kiến là xấu; khả quan nhất ra thấp hơn dự kiến một xíu nhưng vẫn cao hơn tháng trước -> bay lên rồi gãy xuống",
+      "gio": "[00:25:31]",
+      "trich": "PPI dự kiến 0.3 so với tháng trước 0.2 là xấu; PPI lõi dự kiến 0.2 so với âm 0.3 [?] cũng là xấu ... Nếu ra như vậy thì kịch bản vẫn là bay lên, sau đó gãy xuống."
+    },
+    {
+      "su_kien": "Lập luận người xem: PPI thấp hơn dự báo -> lạm phát hạ nhiệt, Fed cắt lãi suất, BTC lên 66.000",
+      "thoi_diem": null,
+      "nguon": "khac",
+      "so_lieu": null,
+      "anh_huong_view": "Ông bác bỏ: thấp hơn dự báo không có nghĩa hạ nhiệt (ví dụ giá gạo 50k -> 52k thay vì 55k); chỉ làm giá tăng ngắn hạn vì tâm lý",
+      "gio": "[00:35:11]",
+      "trich": "PPI thấp hơn dự báo thì không có chuyện lạm phát hạ nhiệt, nó chỉ là dự báo. ... Nó chỉ tốt hơn so với tâm lý dự kiến thôi. ... trong ngắn hạn giá hay tăng vì sướng, nhưng hôm sau ngủ dậy nghĩ lại mới thấy mình mất thêm tiền."
+    },
+    {
+      "su_kien": "Luật tài sản mã hóa Việt Nam: sau 1/9 vẫn trade sàn nước ngoài; 6 tháng sau khi có sàn VN thì không được dùng sàn chưa cấp phép",
+      "thoi_diem": "1/9",
+      "nguon": "khac",
+      "so_lieu": null,
+      "anh_huong_view": "Không liên quan view giá",
+      "gio": "[00:44:46]",
+      "trich": "Theo luật sau ngày 1 tháng 9 thì vẫn được. Khi Việt Nam có sàn thì 6 tháng kể từ khi có sàn sẽ không được trade các sàn như Binance nữa, trừ khi những sàn đó được cấp phép."
+    }
+  ],
+  "trich_them": [
+    {
+      "gio": null,
+      "cau": "Nếu nó phóng lên khỏi đoạn này, vút lên kill hết đám short thì mình đoán sẽ lên khoảng 64.600, nhưng liệu có lên được không thì hơi khó, 63.800 không là cũng đã tắt thở rồi."
+    },
+    {
+      "gio": null,
+      "cau": "Cây nến hôm qua đâm xuyên thủng đáy 63.500, tạo một đáy thấp hơn."
+    },
+    {
+      "gio": null,
+      "cau": "Vùng này hôm trước mình giải thích nhiều lần: từ vùng hỗ trợ mạnh bây giờ biến thành kháng cự, nên để nó qua khỏi 64.300 là cực kỳ khó khăn."
+    },
+    {
+      "gio": null,
+      "cau": "Mình chỉ short bình thường thôi, không big short. Để an toàn thì chờ nến từ chối ở vùng này hoặc nó chạm vùng râu phía trên khoảng 63.700 thì đánh, chạm biên trên đánh cho an toàn."
+    },
+    {
+      "gio": null,
+      "cau": "hôm qua chúng ta cũng short ở 64.300. Bây giờ nó không thể thịt anh em mình vì chúng ta đã TP1 và kéo SL về entry rồi."
+    },
+    {
+      "gio": null,
+      "cau": "Liquid vùng này vẫn hai đầu thôi. Nếu short thì TP 62.800, mình cũng đang chờ ở đây."
+    },
+    {
+      "gio": null,
+      "cau": "Mình nghĩ lên 64.400 hơi căng; nếu tối nay PPI ra cực kỳ tốt thì may ra, còn vùng trên này cũng hơi khó."
+    },
+    {
+      "gio": null,
+      "cau": "Kịch bản quét lên 66–67 thì tầm này mình thấy bắt đầu khó, chưa nghĩ ra được."
+    },
+    {
+      "gio": null,
+      "cau": "H4 tuy có phân kỳ nhẹ nhưng mình thấy không ăn thua, phân kỳ chưa ổn áp. Lực bán ở những cụm này khá căng. Đừng đánh hai đáy đoạn này."
+    }
+  ],
+  "kho": "Transcript không có mốc giờ. Không nêu mốc vô hiệu rõ (64.300 chỉ là 'cản cực kỳ khó qua', SL lệnh đang giữ đã kéo về entry 64.300). Đích chỉ nói TP 62.800 cho short, không nhắc lại đích xa 53-55k của hôm trước. Giá lúc nói ước ~63.600 từ các số giá các sàn '618/644/614...'."
+}

@@ -1,0 +1,41 @@
+{
+  "buoi": "2026-10-14_1009_BlA26qxNBTE",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/lam_sach/2026-10-14_1009_BlA26qxNBTE.md",
+  "gia_btc_luc_noi": 83000,
+  "dau_buoi": {
+    "thien_huong_h4": "PHAN_VAN",
+    "gio": null,
+    "trich": "Như hôm qua mình bảo anh em, khả năng cao thị trường sẽ sideway, và hiện tại nó đúng như vậy: đi ngang, hẹp dần về trong những biên này thôi... M5 đang tốt, cho nên về ngắn hạn có thể nó sẽ break một nhịp lên đâu đó khoảng 84... Nhưng vẫn hơi khó để lên mạnh trước giờ tin."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "PHAN_VAN",
+    "do_chac": "thap",
+    "gio": null,
+    "trich": "Nếu tối nay ra tin mà thị trường vẫn ở trong vùng này thì tiếp theo vẫn cần ngồi chờ nến xem có phá qua được 84 hay thủng về 83. Nếu tin ra mà không giúp giá breakout khỏi vùng khó chịu hiện tại, không rõ xu hướng, thì chúng ta vẫn tiếp tục phải chờ."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {"huong": "TANG", "dich": [84000, 85000]},
+  "duong_di": null,
+  "dich_chinh": null,
+  "han_gio": null,
+  "vo_hieu": null,
+  "lenh": [],
+  "hanh_dong": "dung_ngoai_vi_lap_lung",
+  "khung_lon": {"D1": "PHAN_VAN", "W1": null},
+  "pha_vo_gia": "Kịch bản tin CPI: pump quét lên 85 (vùng thanh lý 84–85) rồi sập về 80–81 — 'tăng trước giảm sau'; ngoài ra một cây H4 đóng trên 84 'đôi khi dính fake' nên cần hai cây H4.",
+  "trich_them": [
+    {"gio": null, "cau": "Hiện tại nó chỉ cần đóng H4 trên khỏi 84 là coi như ngon. Nếu H4 đóng trên được 84 thì nó sẽ lấy lại rất nhanh vùng 86, và sau khi phá được 86 thì sẽ tiến đến 90. Đó là kịch bản đẹp với điều kiện phá được 84."},
+    {"gio": null, "cau": "Với nhịp hiện tại thì tốt nhất đừng sale nữa. Vì sao? Lực bán đã bị ngắt đi sau cái đáy này rồi, nó không tạo ra được đáy thấp hơn. Kịch bản khả thi nhất ở giai đoạn này, theo cá nhân mình, là đi ngang... chờ tin CPI tối nay."},
+    {"gio": null, "cau": "Nếu không vượt qua được 84 thì vẫn còn xác suất đi về 76.000. Cho nên tốt nhất nó phải vượt qua được 84 thì mới có cửa lấy lại 86. Và khi đã lên được 86 thì xác suất khoảng 70% nó sẽ tiến đến phá 86 lên 90."},
+    {"gio": null, "cau": "Cho dù các bạn có view tăng hay giảm, theo đánh giá của mình đoạn này chưa đủ điều kiện... chắc chắn lên 90 hay chắc chắn gãy về bảy mấy, thì nên bỏ qua, vì đoạn này chưa đủ dữ liệu để kết luận."},
+    {"gio": null, "cau": "Theo cấu trúc hiện tại, xu hướng này không sale được từ khung lớn đến khung nhỏ. Chỉ khi H4 quay về lại dưới 83.000 thì lúc đó chúng ta có thể sale mới an toàn. Còn tầm này nếu không buy được thì chỉ ngồi ngoài nhìn chờ."},
+    {"gio": null, "cau": "Heatmap vẫn hai đầu: 82.000 và 84.000. Cho nên mình nghĩ ngắn hạn có thể có những nhịp quét lên đâu đó khoảng 84.000, rồi sau đó lại bị đạp xuống, rồi tối nay chúng ta có tin."},
+    {"gio": null, "cau": "Có thể nó quét lên đến 85, sau đó sập về lại 80.000 hay 81 gì đó. Cho nên thận trọng, kịch bản này rất khó đánh, rất rủi ro, biên độ rất lớn."},
+    {"gio": null, "cau": "H4 thì tốt nhất đóng trên 84. Một cây H4 không đủ nhá, một cây H4 đôi khi dính fake, hai cây H4 thì confirm hơn, chắc hơn."},
+    {"gio": null, "cau": "Tùy thôi. Nếu tối nay nến H4 [giờ 11 giờ?] hai cây đóng trên 85 thì xác định là đáy, xác định 90 là tỉ lệ cao nhá."},
+    {"gio": null, "cau": "CPI xấu là một chuyện, tin là một chuyện, nhưng nó phải đạp được giá thủng 83 hoặc thậm chí thủng 82.500 [?: gốc \"82.000 năm\"] thì mới ngon."},
+    {"gio": null, "cau": "Hôm nay không ngoài dự đoán hôm qua: thị trường đi ngang chờ tin thôi nhá anh em."}
+  ],
+  "kho": "File không có mốc giờ. Người nói chủ động từ chối chọn hướng ('đừng vội phán xu hướng', 'chưa đủ dữ liệu'), chờ tin CPI và chờ nến phá 84 (hai cây H4) hay thủng 83 → PHAN_VAN. Có hai nghiêng ngược nhau: cấu trúc 'không sale được' (nghiêng lên) và kịch bản tin 'quét 85 rồi sập về 80–81, rất dễ xảy ra' (nghiêng xuống) — không bên nào là kịch bản chính. Không có câu vô hiệu một chiều."
+}

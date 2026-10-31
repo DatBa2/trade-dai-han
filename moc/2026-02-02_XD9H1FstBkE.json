@@ -1,0 +1,23 @@
+{
+  "buoi": "2026-02-02_XD9H1FstBkE",
+  "ngay": "2026-02-02",
+  "gia_btc_luc_noi": 75500,
+  "moc": [
+    {"gia": 62000, "gia_tren": 65000, "vai_tro": "dich", "huong": "GIAM", "khung": "W1", "can_cu": ["mô hình cờ khung ngày (TP 62)", "vai đầu vai khung tuần"], "moc_gio": "00:27:08", "tai_san": "BTC", "chac": true, "trich": "Vùng 62 này mình thấy khả quan. Thị trường hiện tại gần như rất ít người có góc nhìn về vùng 62 đến 65 này... hoàn toàn nó có thể về 62 theo cái mô hình cờ"},
+    {"gia": 20000, "gia_tren": 40000, "vai_tro": "dich", "huong": "GIAM", "khung": null, "can_cu": ["gap CME 20K"], "moc_gio": "00:08:06", "tai_san": "BTC", "chac": true, "trich": "Về bao nhiêu gom lại? Về từ 20 đến 40. Đó là mục tiêu cá nhân của mình"},
+    {"gia": 50000, "gia_tren": 60000, "vai_tro": "tp", "huong": "GIAM", "khung": null, "can_cu": [], "moc_gio": "00:15:10", "tai_san": "BTC", "chac": true, "trich": "BTC nó về đâu đó khoảng 50 đến 60.000 thì có lẽ là full không có lãi thêm được nữa"},
+    {"gia": 80000, "gia_tren": 82000, "vai_tro": "dich", "huong": "TANG", "khung": null, "can_cu": ["gap CME"], "moc_gio": "00:20:46", "tai_san": "BTC", "chac": true, "trich": "Tầm này mình nghĩ hồi max chắc lên được khoảng 80, mà gap thế này có thể là lên gap 82"},
+    {"gia": 78000, "gia_tren": 81000, "vai_tro": "dich", "huong": "TANG", "khung": null, "can_cu": ["gap CME 78.000 đến 81.000"], "moc_gio": "00:36:14", "tai_san": "BTC", "chac": true, "trich": "Tiếp tục có một gap 78.000 cho đến 81. Gap to phết"},
+    {"gia": 93000, "gia_tren": null, "vai_tro": "khac", "huong": "TANG", "khung": null, "can_cu": ["gap CME"], "moc_gio": "00:32:07", "tai_san": "BTC", "chac": true, "trich": "Gap 93 có lấp nổi hay không thì bây giờ mình không thể nói được"},
+    {"gia": 88000, "gia_tren": null, "vai_tro": "dich", "huong": "TANG", "khung": "W1", "can_cu": ["râu nến"], "moc_gio": "00:27:08", "tai_san": "BTC", "chac": true, "trich": "Cùng lắm nó sẽ có một nhịp lên test đâu đó khoảng vùng 88, mình nghĩ là râu nến... cùng lắm là hồi lên đây rồi lại gãy tiếp"},
+    {"gia": 74000, "gia_tren": 76000, "vai_tro": "khac", "huong": "TANG", "khung": "H4", "can_cu": ["giá nằm xa MA D1", "phân kỳ nhẹ H4"], "moc_gio": "00:30:34", "tai_san": "BTC", "chac": true, "trich": "lời khuyên của mình vẫn duy trì là không short ở vùng 76 cho đến 74"},
+    {"gia": 78000, "gia_tren": null, "vai_tro": "dich", "huong": "TANG", "khung": "H4", "can_cu": [], "moc_gio": "00:31:05", "tai_san": "BTC", "chac": true, "trich": "Hồi tối thiểu mình nghĩ cũng phải lên đâu đó khoảng 78 hoặc thậm chí 81 mới hợp lý"},
+    {"gia": 81000, "gia_tren": null, "vai_tro": "entry", "huong": "GIAM", "khung": "H4", "can_cu": ["râu nến 81"], "moc_gio": "00:31:05", "tai_san": "BTC", "chac": true, "trich": "Tệ cũng phải là cái râu này 81 thì may ra mới tìm điểm short lại"},
+    {"gia": 75000, "gia_tren": null, "vai_tro": "entry", "huong": "TANG", "khung": "M30", "can_cu": ["đo Fibo"], "moc_gio": "00:32:39", "tai_san": "BTC", "chac": false, "trich": "Nhịp này đo Fibo đến thôi. Về vùng 7500 cho đến 75.00 thì anh em thích có thể long scalping lên. Đánh đòn bẩy x10 thôi"},
+    {"gia": 75300, "gia_tren": null, "vai_tro": "entry", "huong": "TANG", "khung": "M5", "can_cu": ["Fibo"], "moc_gio": "00:44:07", "tai_san": "BTC", "chac": true, "trich": "75k3 các bạn vào được, như lúc nãy nó về... đúng vùng này. Sau đó cây nến đỏ mà đóng thủng vùng 75k là các bạn phải out"},
+    {"gia": 75150, "gia_tren": null, "vai_tro": "sl", "huong": "TANG", "khung": "M5", "can_cu": ["đóng nến M5, không tính râu"], "moc_gio": "00:45:11", "tai_san": "BTC", "chac": true, "trich": "Nếu nó đóng M5 dưới 75.150 là thoát"},
+    {"gia": 78000, "gia_tren": null, "vai_tro": "tp", "huong": "TANG", "khung": "M5", "can_cu": [], "moc_gio": "00:49:22", "tai_san": "BTC", "chac": true, "trich": "Ông nào chia nhiều lệnh hoặc thích ăn ngắn thì ăn khoảng 78"},
+    {"gia": 81000, "gia_tren": null, "vai_tro": "tp", "huong": "TANG", "khung": "M5", "can_cu": ["gap CME 78-81"], "moc_gio": "00:49:22", "tai_san": "BTC", "chac": true, "trich": "Còn muốn ăn dài thì ăn ở khoảng 81"},
+    {"gia": 22000, "gia_tren": 23000, "vai_tro": "dich", "huong": "GIAM", "khung": null, "can_cu": ["kịch bản tâm lý đám đông"], "moc_gio": "00:22:31", "tai_san": "BTC", "chac": false, "trich": "mất hàng xong nó đạp thêm một phát nữa là về khoảng 22 23 đi"}
+  ]
+}

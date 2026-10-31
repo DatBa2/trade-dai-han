@@ -1,0 +1,336 @@
+{
+  "buoi": "2026-01-23_ACM0WA7Rt3I",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/zip_clean/2026-01-23_ACM0WA7Rt3I.txt",
+  "gia_btc_luc_noi": 89900,
+  "dau_buoi": {
+    "thien_huong_h4": "GIAM",
+    "gio": "[00:06:09]",
+    "trich": "Nhìn chung thì mình vẫn phải nhắc lại anh em là xu hướng hiện tại của chúng ta là xu hướng khá là xấu đối với khung lớn. Ví dụ như là khung ngày hoặc là khung H4 Nhưng cái nhịp trong ngắn hạn thì khả năng là mình nghĩ sẽ có nhịp hồi."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "GIAM",
+    "do_chac": "thap",
+    "gio": "[00:52:31]",
+    "trich": "Plan từ giờ đến qua tuần sau thì lời khuyên của mình là tạm thời chúng ta khoan short đã. Chờ đến qua tuần sau đi. Từ giờ thì chúng ta cứ chờ nó lên quét stop loss ở khoảng tầm 91 đến 93 rồi tính."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {
+    "huong": "TANG",
+    "dich": [
+      91000,
+      93000
+    ]
+  },
+  "duong_di": [
+    {
+      "huong": "TANG",
+      "dich": [
+        91000,
+        93000
+      ]
+    },
+    {
+      "huong": "GIAM",
+      "dich": null
+    }
+  ],
+  "dich_chinh": null,
+  "han_gio": null,
+  "vo_hieu": null,
+  "lenh": [
+    {
+      "chieu": "LONG",
+      "vao": null,
+      "tp": 91000,
+      "sl": null,
+      "trang_thai": "dang_giu"
+    },
+    {
+      "chieu": "SHORT",
+      "vao": [
+        91000,
+        93000
+      ],
+      "tp": null,
+      "sl": null,
+      "trang_thai": "de_xuat_moi"
+    },
+    {
+      "chieu": "SHORT",
+      "vao": 125000,
+      "tp": null,
+      "sl": null,
+      "trang_thai": "dang_giu"
+    }
+  ],
+  "hanh_dong": "giu_lenh",
+  "khung_lon": {
+    "D1": "Xu hướng khung lớn (D1, H4) khá xấu; dài hạn đã phá trendline và đang back test lên.",
+    "W1": "Không bàn khung tuần; tuần sau thứ năm có FOMC — thị trường có thể tăng tới thứ tư rồi điều chỉnh theo tin."
+  },
+  "pha_vo_gia": "Kỳ vọng 'trap short': lượng short cộng dồn rất dày (delta ~500.000 BTC) nên giá sẽ lên 91-93 lấy stop loss short trước, rồi mới xuống.",
+  "nhin_lai_view_truoc": {
+    "view_truoc": "GIAM",
+    "giu_hay_doi": "giu",
+    "vi_sao": "Pha điều chỉnh hôm qua về đúng Fibo 0.5-0.618 rồi bật lên (đúng plan sóng hồi); khung lớn vẫn xấu, đã phá trendline và giờ chỉ là back test lên 91-93 (MA H4, MA200 H1) để quét short rồi mới xuống → giữ view, chỉ khoan short tới tuần sau.",
+    "gio": "[00:06:41]",
+    "trich": "Về dài hạn thì nó vẫn rất là xấu. Dài hạn vẫn rất là xấu, vẫn đã phá trendline đang back test lên. Nhưng trong H4, trong ngắn hạn thì mình nghĩ là nó sẽ có nhịp hồi lên."
+  },
+  "trendline": [
+    {
+      "khung": "D1",
+      "loai": "kenh",
+      "noi_tu": "Trendline khung lớn (cạnh dưới mô hình cờ giảm) đã bị phá, giá đang back test lên; không nói điểm neo",
+      "diem_neo": [],
+      "gia_duong_luc_noi": null,
+      "trang_thai": "pha_roi_test_lai",
+      "dieu_kien_pha": "Đã phá; back test lên vùng 91-93 (MA H4) rồi đi xuống",
+      "ket_luan_huong": "GIAM",
+      "gio": "[00:06:41]",
+      "trich": "Dài hạn vẫn rất là xấu, vẫn đã phá trendline đang back test lên."
+    },
+    {
+      "khung": "M15",
+      "loai": "ho_tro_tang",
+      "noi_tu": "Khung 5 phút (ghi M15 vì enum không có M5): cấu trúc đáy cao dần, đỉnh nằm ngang (tam giác) — đỉnh sẽ bị phá trong thời gian ngắn",
+      "diem_neo": [],
+      "gia_duong_luc_noi": null,
+      "trang_thai": "chua_pha",
+      "dieu_kien_pha": "Phá đỉnh ngang phía trên",
+      "ket_luan_huong": "TANG",
+      "gio": "[00:09:17]",
+      "trich": "Trong 5 phút thì anh em có thể thấy nó đang tạo một cấu trúc. Cấu trúc này thì nó rất hay break và đi lên. Đáy cao dần và nó bằng cái đỉnh trên này. Có nghĩa là cái đỉnh này nó sẽ được phá trong thời gian ngắn."
+    }
+  ],
+  "nen_volume": [
+    {
+      "khung": "H1",
+      "nen": "Pha điều chỉnh hôm qua về Fibo 0.5-0.618 rồi bật lên",
+      "volume": null,
+      "ket_luan": "Pha điều chỉnh cực đẹp; nhịp hồi tiếp tục",
+      "gio": "[00:04:13]",
+      "trich": "Mình nghĩ pha điều chỉnh ngày hôm qua là một pha điều chỉnh cực kỳ đẹp. Hôm qua về bản chất thì chúng ta ngồi chờ, nó về đúng Fibo 0.5 và Fibo 618 là nó bật lên được."
+    },
+    {
+      "khung": "D1",
+      "nen": "Chờ cây nến ngày",
+      "volume": null,
+      "ket_luan": "Khung lớn vẫn xấu, ngắn hạn có nhịp hồi",
+      "gio": "[00:06:09]",
+      "trich": "Hôm qua thì chúng ta tiếp tục là chờ một cây nến ngày."
+    },
+    {
+      "khung": "M15",
+      "nen": "5 phút: đáy cao dần, đỉnh ngang",
+      "volume": null,
+      "ket_luan": "Hay break đi lên, đỉnh sẽ bị phá sớm",
+      "gio": "[00:09:17]",
+      "trich": "Đáy cao dần và nó bằng cái đỉnh trên này. Có nghĩa là cái đỉnh này nó sẽ được phá trong thời gian ngắn. Nó sẽ break và lên trên này."
+    }
+  ],
+  "cach_lam": [
+    {
+      "hanh_dong": "do",
+      "cong_cu": "fibo_thoai_lui",
+      "chi_tiet": "Fibo nhịp tăng trên H1 (pha điều chỉnh hôm qua)",
+      "ket_qua": "Bật lên đúng ở Fibo 0.5-0.618",
+      "gio": "[00:04:13]",
+      "trich": "nó về đúng Fibo 0.5 và Fibo 618 là nó bật lên được."
+    },
+    {
+      "hanh_dong": "do",
+      "cong_cu": "fibo_mo_rong",
+      "chi_tiet": "Fibo mở rộng trên H1 để xem nhịp hồi lên tới đâu, kết hợp MA200 H1",
+      "ket_qua": "91k (MA200 H1), cao hơn 93k",
+      "gio": "[00:07:14]",
+      "trich": "Thì chúng ta dùng Fibo mở rộng để xem thử là nhịp này nó lên được đến đâu. Khả năng là cũng 91 này. MA200 ở trên H1 là khoảng 91.000. Cao hơn nữa thì sẽ là khoảng 93."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "ema",
+      "chi_tiet": "MA trên H4",
+      "ket_qua": "Vùng test MA 91-93 mới tính short",
+      "gio": "[00:06:41]",
+      "trich": "thì khả năng nhịp này ít nhất chúng ta sẽ muốn short thì anh em sẽ phải chờ lên test MA này ở khoảng tầm 91 đến 93"
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "dinh_day_cu",
+      "chi_tiet": "Cấu trúc đáy-đỉnh khung 5 phút",
+      "ket_qua": "Đáy cao dần + đỉnh ngang → break lên",
+      "gio": "[00:09:17]",
+      "trich": "Cấu trúc này thì nó rất hay break và đi lên."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "heatmap",
+      "chi_tiet": "Liquidation map khung nhỏ và khung lớn",
+      "ket_qua": "Liquid 91k",
+      "gio": "[00:12:24]",
+      "trich": "Liquid thì chúng ta có vùng ở 91. Xem khung lớn coi có cái gì không. Khung lớn hơn thì cũng có ở 91."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "Delta cộng dồn vị thế short BTC",
+      "ket_qua": "~500.000 BTC lệch short → áp lực kill short >80%",
+      "gio": "[00:12:55]",
+      "trich": "số lượng cộng dồn delta của thằng short này nó lên đến tận 500.000 là một con số rất là lớn ở thời điểm bây giờ. Những thời điểm mà ví dụ BTC nó lên 120.000 thì 500.000 này không phải là một con số quá khủng khiếp, nhưng ở thời điểm này cá nhân mình đánh giá 500.000 Bitcoin chênh lệch là một con số rất là lớn. Cho nên áp lực nó sẽ lên để nó kill gần như là trên 80%."
+    }
+  ],
+  "vung_nguoi_do": [
+    {
+      "loai": "tp",
+      "tu": 91000,
+      "den": 91000,
+      "gio": "[00:03:10]",
+      "trich": "Chắc lên đến khoảng 91 trước mắt, còn lại nếu muốn rướn hơn thì sẽ phải xem các dữ liệu khác. 91, 901 này. Đến trên đó chúng ta sẽ chốt lệnh long."
+    },
+    {
+      "loai": "vao",
+      "tu": 91000,
+      "den": 93000,
+      "gio": "[00:06:41]",
+      "trich": "chúng ta sẽ muốn short thì anh em sẽ phải chờ lên test MA này ở khoảng tầm 91 đến 93, ở cái vùng này thì mới tính được câu chuyện short."
+    },
+    {
+      "loai": "dich",
+      "tu": 91000,
+      "den": 91000,
+      "gio": "[00:07:45]",
+      "trich": "Khả năng là cũng 91 này. MA200 ở trên H1 là khoảng 91.000."
+    },
+    {
+      "loai": "dich",
+      "tu": 93000,
+      "den": 93000,
+      "gio": "[00:07:45]",
+      "trich": "Cao hơn nữa thì sẽ là khoảng 93."
+    },
+    {
+      "loai": "vao",
+      "tu": 88000,
+      "den": 88000,
+      "gio": "[00:09:17]",
+      "trich": "Hôm qua anh em nào bắt long ở 88.000 thì khá là tốt rồi."
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 91000,
+      "den": 91000,
+      "gio": "[00:12:24]",
+      "trich": "Liquid thì chúng ta có vùng ở 91."
+    },
+    {
+      "loai": "tp",
+      "tu": 91000,
+      "den": 91000,
+      "gio": "[00:45:59]",
+      "trich": "Lên 91 rồi bắt đầu là TP1. 90.00 là TP1."
+    },
+    {
+      "loai": "vao",
+      "tu": 125000,
+      "den": 125000,
+      "gio": "[00:47:03]",
+      "trich": "Riêng cái lệnh Bitcoin, lệnh short của mình từ 125.000 từ bữa đến giờ cứ liên tục là dương phí funding"
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 91000,
+      "den": 93000,
+      "gio": "[00:52:31]",
+      "trich": "Từ giờ thì chúng ta cứ chờ nó lên quét stop loss ở khoảng tầm 91 đến 93 rồi tính."
+    }
+  ],
+  "view_trung_han": [
+    {
+      "khung": "D1",
+      "huong": "GIAM",
+      "dich": null,
+      "han": null,
+      "mat_view_khi": null,
+      "gio": "[00:06:41]",
+      "trich": "Về dài hạn thì nó vẫn rất là xấu. Dài hạn vẫn rất là xấu, vẫn đã phá trendline đang back test lên."
+    }
+  ],
+  "vung_tranh": [
+    {
+      "tu": null,
+      "den": 91000,
+      "vi_sao": "Khi giá chưa chạm 91-93 thì khoan short tất cả (BTC lẫn altcoin); từ giờ tới thứ hai chưa short — short bây giờ là bị dắt vào trap short",
+      "gio": "[00:07:45]",
+      "trich": "Cho nên trước mắt khi nó chưa chạm đến hai vùng này thì mọi người khoan short. Khoan short tất cả các dự án. Kể cả Bitcoin lẫn Altcoin."
+    }
+  ],
+  "giu_dong": [
+    {
+      "lenh": "Long BTC scalping (người nói, đang giữ)",
+      "quyet_dinh": "giu",
+      "khi_nao": "Tranh thủ long scalping lướt lên cho tới khi BTC chạm 91-93",
+      "gio": "[00:08:47]",
+      "trich": "Cho nên từ giờ cho đến lúc BTC chạm những vùng trên này thì khả năng cao mình vẫn tranh thủ đánh long scalping để lướt lên một tí."
+    },
+    {
+      "lenh": "Long BTC scalping (người nói)",
+      "quyet_dinh": "chot_mot_phan",
+      "khi_nao": "Lên 91k thì TP1; giá lên 91 hoặc 93 thì ra ngoài quan sát tìm điểm sau",
+      "gio": "[00:45:59]",
+      "trich": "Đây BTC nó cứ từ từ nó đi lên là đẹp. Chúng ta long rồi. Bây giờ chỉ ngồi chờ nó lên thôi. Lên 91 rồi bắt đầu là TP1."
+    },
+    {
+      "lenh": "Quy tắc TP1 chung",
+      "quyet_dinh": "chot_mot_phan",
+      "khi_nao": "TP1 chốt tối thiểu 50% vốn",
+      "gio": "[00:26:02]",
+      "trich": "TP1 nên chốt gốc bao nhiêu phần trăm? Thông thường thì TP1 mình chốt tối thiểu 50% vốn."
+    },
+    {
+      "lenh": "Short BTC swing từ 125.000 (người nói)",
+      "quyet_dinh": "giu",
+      "khi_nao": "Vẫn giữ, liên tục ăn phí funding",
+      "gio": "[00:47:03]",
+      "trich": "Riêng cái lệnh Bitcoin, lệnh short của mình từ 125.000 từ bữa đến giờ cứ liên tục là dương phí funding, luôn ăn phí funding"
+    }
+  ],
+  "tin_tuc": [
+    {
+      "su_kien": "Tin sản xuất (PMI)",
+      "thoi_diem": "tối nay",
+      "nguon": "lich_kinh_te",
+      "so_lieu": null,
+      "anh_huong_view": "Tin nhẹ, không có gì nhiều",
+      "gio": "[00:14:28]",
+      "trich": "Tin tức thì để xem hôm nay có tin không. Tối nay thì sẽ có nhẹ nhẹ tin sản xuất thôi, không có gì nhiều."
+    },
+    {
+      "su_kien": "FOMC (lãi suất Fed)",
+      "thoi_diem": "thứ năm tuần sau",
+      "nguon": "lich_kinh_te",
+      "so_lieu": "Người nói dự đoán lần này Fed không giảm lãi suất",
+      "anh_huong_view": "Thị trường có thể tăng tới thứ tư, sideway rồi thứ năm điều chỉnh theo tin; short lại sau tuần sau",
+      "gio": "[00:14:28]",
+      "trich": "Tuần sau thứ năm sẽ có tin FED, thì đôi khi là thị trường nó sẽ tăng cho đến ngày thứ tư. Tăng thứ bảy, chủ nhật, thứ hai, thứ ba cho đến ngày thứ tư thì khả năng là nó sẽ đi sideway, vào ngày thứ năm này điều chỉnh theo tin."
+    }
+  ],
+  "trich_them": [
+    {
+      "gio": "[00:03:10]",
+      "cau": "Hiện tại thì mình vẫn đang long. Đi kiểu này thì anh em cứ long thôi. Long lên đến cái vùng ở trên này. Chắc lên đến khoảng 91 trước mắt"
+    },
+    {
+      "gio": "[00:08:16]",
+      "cau": "Nhưng để nó lên trên này thì mình nghĩ chắc khoảng qua tuần sau thì chúng ta mới đánh short lại được. Còn từ giờ đến thứ hai thì chưa short."
+    },
+    {
+      "gio": "[00:13:58]",
+      "cau": "lấy stop loss rồi sau đó nó mới xuống. Tất nhiên nó sẽ xuống nhưng nó lấy stop loss trước."
+    },
+    {
+      "gio": "[00:14:59]",
+      "cau": "Lưu ý tuần sau có tin tức quan trọng là tin lãi suất FED. Tất nhiên là mình nghĩ là đợt này nó sẽ không có tăng à không có giảm lãi suất nữa."
+    }
+  ],
+  "kho": "Khó: người nói đang long và bảo 'khoan short tới tuần sau', nhưng kịch bản là hồi 91-93 quét short ('tất nhiên nó sẽ xuống nhưng lấy stop loss trước') → theo quy tắc chặng cuối thì GIAM, do_chac thấp vì kết thúc bằng 'rồi tính'; không nêu đích giảm cụ thể nên dich_chinh null. Giá ~89.9k. Lệnh short BTC 125k là vị thế swing cá nhân người nói nhắc thoáng (ăn funding). '91, 901' và '90.00 là TP1' bị méo phụ đề, ghi TP 91k. Đoạn 'cuối tuần kéo lên ba mấy bốn chục' (00:12:24) có vẻ nói vàng/bạc nên bỏ."
+}

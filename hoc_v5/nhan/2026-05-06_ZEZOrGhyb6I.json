@@ -1,0 +1,390 @@
+{
+  "buoi": "2026-05-06_ZEZOrGhyb6I",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/zip_clean/2026-05-06_ZEZOrGhyb6I.txt",
+  "gia_btc_luc_noi": 81500,
+  "dau_buoi": {
+    "thien_huong_h4": "GIAM",
+    "gio": "[00:04:06]",
+    "trich": "Đoạn này đang short nhẹ nhưng nó vẫn đang phản ứng ở Fibo nên chúng ta cứ xem thế nào. Mình đoán thị trường sẽ tranh thủ nhịp này mà gãy."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "GIAM",
+    "do_chac": "thap",
+    "gio": "[01:07:19]",
+    "trich": "Giá thế này thì khả năng giữ nguyên vị thế và giữ nguyên view. Không có gì thay đổi."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {
+    "huong": "GIAM",
+    "dich": 80000
+  },
+  "duong_di": [
+    {
+      "huong": "GIAM",
+      "dich": 80000
+    },
+    {
+      "huong": "GIAM",
+      "dich": 79000
+    }
+  ],
+  "dich_chinh": [
+    79000,
+    80000
+  ],
+  "han_gio": null,
+  "vo_hieu": {
+    "gia": 82000,
+    "khung": "M15",
+    "so_nen": 1,
+    "chieu": "dong_tren",
+    "cau": "[01:04:39] SL thì mình nghĩ cứ khoảng trên 82. Tức là nếu nến kéo lên trên khỏi cái này, đóng 30 phút hoặc đóng 15 phút trên khỏi 82 này thì nhảy."
+  },
+  "lenh": [
+    {
+      "chieu": "short",
+      "vao": 81000,
+      "tp": [
+        80000,
+        79000
+      ],
+      "sl": 82000,
+      "trang_thai": "dang_giu"
+    },
+    {
+      "chieu": "short",
+      "vao": null,
+      "tp": null,
+      "sl": null,
+      "trang_thai": "dang_giu"
+    }
+  ],
+  "hanh_dong": "giu_lenh",
+  "khung_lon": {
+    "D1": "MA khung ngày là cản phía trên; gap trên chưa lấp hết tới 83k; 83k là Fibo 0.618 hợp lưu kháng cự; nếu qua được thì Fibo mở rộng + gap 91k (mục tiêu TP spot ~90k). Bối cảnh lớn vẫn coi là down trend (lý do mở bot short lưới).",
+    "W1": null
+  },
+  "pha_vo_gia": null,
+  "nhin_lai_view_truoc": {
+    "view_truoc": "TANG",
+    "giu_hay_doi": "giu",
+    "vi_sao": "Vẫn chờ nhịp điều chỉnh về vùng Fibo 0.5 ~79 như buổi sáng đã nói (BTC hay 'đẩy hai đụng một' test Fibo 0.5); thêm lý do: nến H1 đỏ xanh xen kẽ, test MA34/MA89 H1, H4 đóng một cây đỏ, volume kéo lên yếu, vàng gãy nhẹ → không long",
+    "gio": "[01:00:30]",
+    "trich": "thì khả năng nhịp này dễ về test 79. Vùng 79 lúc sáng mình có nói mọi người rồi, Fibo này đẹp nhất thì chúng ta cứ phải kiên nhẫn chờ tí về đây xem sao. Có thì ăn không có thì thôi chả mất gì."
+  },
+  "trendline": [],
+  "trich_them": [
+    {
+      "gio": "[00:08:21]",
+      "cau": "Nói chung nếu đóng nến thủng khoảng vùng 81.000, 81.320 thì mình nghĩ mới ổn được cho phe short. Còn không thì chúng ta vẫn là ngược trend."
+    },
+    {
+      "gio": "[00:19:16]",
+      "cau": "Thế thì chúng ta chưa qua hết gap. Đúng là 83k. Thế thì chúng ta vẫn còn một đoạn nữa mới hết gap này."
+    },
+    {
+      "gio": "[00:22:00]",
+      "cau": "Hai điểm này các bạn: một là nó qua được 81 thì có khả năng lên 91. Lên 91 này. Hôm trước mình nhớ có đo một Fibo mở rộng cho kết quả ở 83. Bây giờ không có setup động, chỉ có một cái ở đây là lên 91, còn lại một cái nhỏ thì đã xa rồi. Bây giờ ở đây 83 chỉ có mỗi Fibo 0.618 là hợp lưu vùng kháng cự thôi"
+    },
+    {
+      "gio": "[00:27:26]",
+      "cau": "chờ điều kiện để chúng ta out là nó đóng nến qua cái nextline này. Nếu nó đóng qua cái này thì cần phải out. 81.873 này. Nó đóng nến 5 phút mà cao hơn cây này là out."
+    },
+    {
+      "gio": "[00:29:08]",
+      "cau": "Short giá nào? Mình đang short 8100 lên quanh vùng đó."
+    },
+    {
+      "gio": "[00:38:53]",
+      "cau": "Lý do mở đợt này không phải đợt khác, thì lý do thứ nhất là xu hướng thị trường mình vẫn báo, thực tế nó vẫn đang down trend. Thứ hai nữa là bắt đầu đến vùng có khả năng short được rồi"
+    },
+    {
+      "gio": "[01:01:35]",
+      "cau": "H4 đóng một cây đỏ rồi. Đóng cây này thì chúng ta không long thôi. Đơn giản. Dạo này BTC đẩy hai đụng một nhịp dài test Fibo 0.5. Chính xác."
+    },
+    {
+      "gio": "[01:02:41]",
+      "cau": "Đại đa số view của mình trong năm nay thì BTC cứ về dưới 50.000 là tính. Cuối năm yên tâm."
+    },
+    {
+      "gio": "[01:04:06]",
+      "cau": "Nhìn thì có vẻ êm êm rồi lệnh này, nếu các anh em xét TP thì TP1 ở vùng liquid này. Nhịp này thì khả năng set TP1 ở đây luôn, 80.00. TP1 80.00, còn lại TP2 nếu các bạn tham thì kéo về Fibo luôn, 79.00."
+    }
+  ],
+  "kho": "Buổi tối chủ yếu scalp/gồng short ngược xu hướng (ông tự nói 'ngược trend', 'rủi ro cao'); xu hướng H4 lớn hơn vẫn được coi là tăng ở buổi sáng nên ghi GIAM do_chac thap. Giá lúc nói không nêu rõ, 81.500 là ước lượng (out ở 81.873, short ~81k). 'nextline' 81.873 (M5) có thể là neckline/trendline — không rõ nên không ghi vào trendline. 'qua được 81 thì có khả năng lên 91' có thể là lỗi phụ đề (83?).",
+  "nen_volume": [
+    {
+      "khung": "M30",
+      "nen": "cây 30 phút vẫn đóng ở đây, chờ cây 30 phút kế",
+      "volume": null,
+      "ket_luan": "đang cân nhắc thoát short (~70%), chờ nến 30 phút xác nhận",
+      "gio": "[00:26:54]",
+      "trich": "Mình đang cân nhắc xem có nên thoát lệnh short hay không. Khả năng nghiêng vào, tỉ lệ khoảng 70% là chắc phải thoát. Xem nào. 30 phút vẫn đóng ở đây. Chờ cây 30 phút này xem sao."
+    },
+    {
+      "khung": "M5",
+      "nen": "đóng nến 5 phút cao hơn cây/đường 81.873",
+      "volume": null,
+      "ket_luan": "điều kiện out lệnh short",
+      "gio": "[00:27:26]",
+      "trich": "chờ điều kiện để chúng ta out là nó đóng nến qua cái nextline này. Nếu nó đóng qua cái này thì cần phải out. 81.873 này. Nó đóng nến 5 phút mà cao hơn cây này là out."
+    },
+    {
+      "khung": "H1",
+      "nen": "nến đỏ xanh đỏ xanh đỏ xen kẽ",
+      "volume": null,
+      "ket_luan": "điều chỉnh liên tục, nguy hiểm cho long",
+      "gio": "[00:59:59]",
+      "trich": "Bitcoin nhìn đóng kiểu này mình thấy cũng nguy hiểm rồi. Nến đỏ xanh đỏ xanh đỏ như này là điều chỉnh liên tục."
+    },
+    {
+      "khung": "M30",
+      "nen": "đang cố kéo lên, chỉ có một cây rút râu",
+      "volume": "volume rất yếu",
+      "ket_luan": "chưa có tín hiệu tăng trưởng",
+      "gio": "[01:01:02]",
+      "trich": "30 phút thì đang cố kéo lên nhưng volume thì thấy rất yếu. Ngoài cây rút râu này thì mình thấy chưa có bất kỳ tín hiệu nào thấy được tăng trưởng ở đây hết."
+    },
+    {
+      "khung": "M5",
+      "nen": "kéo lên 3 lần không thành công",
+      "volume": null,
+      "ket_luan": "lực lên yếu",
+      "gio": "[01:01:02]",
+      "trich": "5 phút này các bạn thấy, từ lúc bắt đầu live cho đến bây giờ kéo lên nhưng kéo mãi không thành công. Kéo 1, 2, 3 lần, ba lần kéo chưa thành công."
+    },
+    {
+      "khung": "H4",
+      "nen": "H4 đóng một cây đỏ",
+      "volume": null,
+      "ket_luan": "không long",
+      "gio": "[01:01:35]",
+      "trich": "H4 đóng một cây đỏ rồi. Đóng cây này thì chúng ta không long thôi. Đơn giản."
+    }
+  ],
+  "cach_lam": [
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "Đọc gap CME theo râu nến: điểm bắt đầu là râu nến dưới của cây trước, cây nến sau",
+      "ket_qua": "gap trên chưa lấp hết, tới 83k",
+      "gio": "[00:18:43]",
+      "trich": "Để xem, gap này chúng ta tính ở râu nến dưới này. Các bạn đọc gap này. Đây là điểm bắt đầu, cây nến trước và đây là cây nến sau. Bạn này soi kỹ. Thế thì chúng ta chưa qua hết gap. Đúng là 83k."
+    },
+    {
+      "hanh_dong": "do",
+      "cong_cu": "fibo_thoai_lui",
+      "chi_tiet": "Đo lại Fibo thoái lui nhịp trước",
+      "ket_qua": "0.618 = 83k, hợp lưu kháng cự",
+      "gio": "[00:21:29]",
+      "trich": "Đợt trước có một Fibo, thứ nhất là Fibo 0.618 này là khả năng nó lên hit 83 cũng đúng 0.618."
+    },
+    {
+      "hanh_dong": "do",
+      "cong_cu": "fibo_mo_rong",
+      "chi_tiet": "Fibo mở rộng nhịp tăng hiện tại",
+      "ket_qua": "91k (trùng gap 91k)",
+      "gio": "[00:32:22]",
+      "trich": "Một là lúc nãy mình đo cái Fibo mở rộng ở cái đoạn này là các bạn đã thấy. 91 này. Fibo nó cho ở 91. Hai là chúng ta có một vùng gap ở 91.000."
+    },
+    {
+      "hanh_dong": "do",
+      "cong_cu": "fibo_mo_rong",
+      "chi_tiet": "Fibo mở rộng khung tháng (trả lời người hỏi, ông không tin)",
+      "ket_qua": "170k và 230k",
+      "gio": "[00:30:12]",
+      "trich": "Còn nếu mà Fibo mở rộng theo kiểu này thì lên được 230.000. Một là 170 mà hai là 230.000. Bạn hỏi thì mình trả lời thôi chứ mình không nghĩ là nó có thể lên được."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "heatmap",
+      "chi_tiet": "Heatmap thanh khoản quanh 80k",
+      "ket_qua": "đám thanh khoản ~80k1200 vẫn còn, chưa bị quét hết",
+      "gio": "[00:26:54]",
+      "trich": "Hit map có cái gì không? Có cơ sở nào để về quét đám này không? 80k1200 luôn. Đám này cũng được mở ra 80 chưa hết."
+    },
+    {
+      "hanh_dong": "ke",
+      "cong_cu": "khac",
+      "chi_tiet": "Kẻ 'nextline' (có thể neckline) trên M5 làm mốc out short",
+      "ket_qua": "81.873",
+      "gio": "[00:27:26]",
+      "trich": "chờ điều kiện để chúng ta out là nó đóng nến qua cái nextline này. Nếu nó đóng qua cái này thì cần phải out. 81.873 này"
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "hyblock",
+      "chi_tiet": "Hyblock: khối lượng long chờ thanh lý",
+      "ket_qua": "long ~500 triệu → khả năng điều chỉnh lớn, không long",
+      "gio": "[00:58:51]",
+      "trich": "ví dụ hai block này hiện tại số lượng long rất cao là 500.000.000 và khả năng điều chỉnh cực kỳ lớn cho nên chúng ta không vội đi long."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "ema",
+      "chi_tiet": "USDT.D H1 test MA34 nhiều lần, có thể lên MA89/MA200; so với BTC H1 cũng test MA34 nhiều lần, test MA89 một lần",
+      "ket_qua": "BTC dễ về test 79; USDT.D lên MA200 thì BTC mất 2000-3000 giá",
+      "gio": "[00:58:19]",
+      "trich": "Ví dụ con này đã test MA34 nhiều lần. Nhịp tiếp theo khả năng MA34 này không giữ thì nhịp này nó sẽ lên MA89, có giữ được không? Ở đây nó đã test thì theo cá nhân mình nghĩ khả năng nó lên MA200. Mà cái này lên MA200 thì BTC chắc tệ cũng phải 2000 giá cho đến 3000 giá"
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "heatmap",
+      "chi_tiet": "Đặt TP1 tại vùng liquid",
+      "ket_qua": "TP1 80.000, TP2 về Fibo 79.000",
+      "gio": "[01:04:06]",
+      "trich": "nếu các anh em xét TP thì TP1 ở vùng liquid này. Nhịp này thì khả năng set TP1 ở đây luôn, 80.00. TP1 80.00, còn lại TP2 nếu các bạn tham thì kéo về Fibo luôn, 79.00."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "Vàng, dầu",
+      "ket_qua": "vàng gãy nhẹ, dầu hồi → không nên long BTC",
+      "gio": "[01:02:10]",
+      "trich": "Vàng gãy này. Vàng lúc nãy là 400 bây giờ điều chỉnh nhẹ 20 giá. Dầu có hồi nhẹ. Đây là những dữ liệu khiến chúng ta không nên long."
+    }
+  ],
+  "vung_nguoi_do": [
+    {
+      "loai": "ho_tro",
+      "tu": 81000,
+      "den": 81320,
+      "gio": "[00:08:21]",
+      "trich": "Nói chung nếu đóng nến thủng khoảng vùng 81.000, 81.320 thì mình nghĩ mới ổn được cho phe short."
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 83000,
+      "den": 83000,
+      "gio": "[00:22:00]",
+      "trich": "Bây giờ ở đây 83 chỉ có mỗi Fibo 0.618 là hợp lưu vùng kháng cự thôi."
+    },
+    {
+      "loai": "dich",
+      "tu": 91000,
+      "den": 91000,
+      "gio": "[00:22:00]",
+      "trich": "một là nó qua được 81 thì có khả năng lên 91. Lên 91 này."
+    },
+    {
+      "loai": "sl",
+      "tu": 81873,
+      "den": 81873,
+      "gio": "[00:27:26]",
+      "trich": "81.873 này. Nó đóng nến 5 phút mà cao hơn cây này là out."
+    },
+    {
+      "loai": "vao",
+      "tu": 81000,
+      "den": 81000,
+      "gio": "[00:29:08]",
+      "trich": "Short giá nào? Mình đang short 8100 lên quanh vùng đó."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 79000,
+      "den": 79000,
+      "gio": "[01:00:30]",
+      "trich": "thì khả năng nhịp này dễ về test 79. Vùng 79 lúc sáng mình có nói mọi người rồi, Fibo này đẹp nhất"
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 78000,
+      "den": 79000,
+      "gio": "[01:02:10]",
+      "trich": "78, 79 mình kiểm tra thấy nó cứ tăng sướng nhưng lâu lâu nó cứ về lại 0.5 rồi nó lên."
+    },
+    {
+      "loai": "tp",
+      "tu": 80000,
+      "den": 80000,
+      "gio": "[01:04:39]",
+      "trich": "TP1 80.00, còn lại TP2 nếu các bạn tham thì kéo về Fibo luôn, 79.00."
+    },
+    {
+      "loai": "tp",
+      "tu": 79000,
+      "den": 79000,
+      "gio": "[01:04:39]",
+      "trich": "TP2 nếu các bạn tham thì kéo về Fibo luôn, 79.00. Thêm 1000 giá nữa."
+    },
+    {
+      "loai": "sl",
+      "tu": 82000,
+      "den": 82000,
+      "gio": "[01:04:39]",
+      "trich": "SL thì mình nghĩ cứ khoảng trên 82. Tức là nếu nến kéo lên trên khỏi cái này, đóng 30 phút hoặc đóng 15 phút trên khỏi 82 này thì nhảy."
+    },
+    {
+      "loai": "dich",
+      "tu": 50000,
+      "den": 50000,
+      "gio": "[01:02:41]",
+      "trich": "Đại đa số view của mình trong năm nay thì BTC cứ về dưới 50.000 là tính."
+    }
+  ],
+  "view_trung_han": [
+    {
+      "khung": "M1",
+      "huong": "GIAM",
+      "dich": 50000,
+      "han": "trong năm nay; tháng 8-9-10 hay tạo đáy",
+      "mat_view_khi": null,
+      "gio": "[01:02:41]",
+      "trich": "Đại đa số view của mình trong năm nay thì BTC cứ về dưới 50.000 là tính. Cuối năm yên tâm. Thời điểm khoảng tháng 8 tháng 9 thông thường là những thời điểm thị trường rất buồn chán, rất panic."
+    }
+  ],
+  "vung_tranh": [
+    {
+      "tu": null,
+      "den": null,
+      "vi_sao": "Không long ở vùng giá hiện tại (không nêu số): Hyblock long ~500 triệu chờ thanh lý, khả năng điều chỉnh lớn",
+      "gio": "[00:58:51]",
+      "trich": "Cho nên việc các bạn FOMO long bây giờ mình thấy cũng không nên. Theo data của mình thì đoạn này mình không long, ví dụ hai block này hiện tại số lượng long rất cao là 500.000.000 và khả năng điều chỉnh cực kỳ lớn cho nên chúng ta không vội đi long."
+    }
+  ],
+  "giu_dong": [
+    {
+      "lenh": "short BTC ~81.000 (từ 8100 lên)",
+      "quyet_dinh": "giu",
+      "khi_nao": "out nếu nến 5 phút đóng trên 81.873 / nến 15-30 phút đóng trên 82; TP1 80.000, TP2 79.000",
+      "gio": "[00:44:27]",
+      "trich": "hiện tại thì vẫn đang gồng lệnh short của Bitcoin. Lệnh này thì hiện tại vẫn giữ được. Đi kiểu vậy vẫn giữ tốt."
+    },
+    {
+      "lenh": "short BTC 81.400 của người xem (kèm short 82.500)",
+      "quyet_dinh": "dong",
+      "khi_nao": "giá về entry 81.4 thì thoát hòa, chỉ giữ lệnh đẹp",
+      "gio": "[00:17:38]",
+      "trich": "vẫn còn hai lệnh short 82k5 và 81k4? 81k4 thì về đây thoát hòa đi. Giữ hai lệnh làm gì, thoát hòa giữ lệnh đẹp thôi."
+    },
+    {
+      "lenh": "bot short lưới BTC (range chạy tới ~95-96k)",
+      "quyet_dinh": "giu",
+      "khi_nao": "nếu BTC lên cao nữa thì nhồi thêm vol vào bot hiện tại chứ không mở thêm",
+      "gio": "[00:37:48]",
+      "trich": "bot của mình hiện tại nó chạy lên đến khoảng 95 96.000 mà có thể mình không mở thêm nhưng mà mình sẽ nhồi thêm vol ở trong bot hiện tại cho tiện cũng được."
+    }
+  ],
+  "tin_tuc": [
+    {
+      "su_kien": "ETF / dòng tiền quỹ",
+      "thoi_diem": "mấy ngày qua",
+      "nguon": null,
+      "so_lieu": null,
+      "anh_huong_view": "không dùng: không theo dõi dòng tiền ETF vì là dữ liệu lịch sử, không tác động giá hiện tại",
+      "gio": "[00:20:22]",
+      "trich": "Câu một mình không trả lời được bởi vì mình không theo dõi những chỉ số liên quan đến dòng tiền đẩy vào thị trường, đặc biệt là ETF. Lý do là khi tiếp cận những thông tin đó thì nó là dữ liệu của lịch sử, dữ liệu cũ rồi, không tác động gì đến giá hiện tại."
+    },
+    {
+      "su_kien": "World Cup",
+      "thoi_diem": "mùa World Cup (khoảng 2 tháng tới)",
+      "nguon": null,
+      "so_lieu": null,
+      "anh_huong_view": "thị trường khá buồn, sẽ đứng nhiều",
+      "gio": "[00:57:13]",
+      "trich": "World Cup thì thị trường khá buồn. Nó sẽ đứng lắm."
+    }
+  ]
+}

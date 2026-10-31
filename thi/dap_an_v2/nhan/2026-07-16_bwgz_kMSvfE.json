@@ -1,0 +1,49 @@
+{
+  "buoi": "2026-07-16_bwgz_kMSvfE",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/zip_clean/2026-07-16_bwgz_kMSvfE.txt",
+  "gia_btc_luc_noi": 65000,
+  "dau_buoi": {
+    "thien_huong_h4": "TANG",
+    "gio": "[00:13:42]",
+    "trich": "Ở đây chúng ta đang thấy khung D1 vẫn giữ trên đường MA34. Khả năng rất cao nhịp này nó test vùng 66 đến 67. Khả năng là 67. ... Trước mắt target ở nhịp này cá nhân mình đánh giá khoảng 67 khả thi."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "TANG",
+    "do_chac": "vua",
+    "gio": "[01:03:13]",
+    "trich": "Cú này mình nghĩ cứ phải chờ một cú đạp về dưới chắc quanh 64, quanh cái râu này cũng khả thi, 642 mới tính đến chuyện khác được hoặc thấp hơn nữa. Đẹp nhất là về đến khoảng 63.000 nhưng chỉ sợ nó không về đến. [01:04:18] Còn lại view vùng hay mọi thứ vẫn giữ nguyên và áp dụng view này các bạn có thể đánh đến thứ hai tuần sau."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {"huong": "GIAM", "dich": [63000, 64000]},
+  "duong_di": [
+    {"huong": "GIAM", "dich": [63000, 64000]},
+    {"huong": "TANG", "dich": 67000}
+  ],
+  "dich_chinh": 67000,
+  "han_gio": 96,
+  "vo_hieu": {
+    "gia": 61600,
+    "khung": "H4",
+    "so_nen": 1,
+    "chieu": "dong_duoi",
+    "cau": "nếu nó về đến 61 66 này tức là thủng khỏi cái râu nến này thì là mất xu hướng, gãy luôn. ... Cho nên SL của nhịp tăng này nằm ở 61.600 thôi. Thủng khoảng đoạn này là coi như mất xu hướng, đừng chờ thấp hơn nữa. Thủng khoảng đoạn này là coi như về 5x."
+  },
+  "lenh": [
+    {"chieu": "LONG", "vao": [63000, 64000], "tp": [67000], "sl": 61600, "trang_thai": "de_xuat_moi"},
+    {"chieu": "SHORT", "vao": null, "tp": [64000, 64300], "sl": null, "trang_thai": "dang_giu"}
+  ],
+  "hanh_dong": "dung_ngoai_cho_entry",
+  "khung_lon": {"D1": "TANG", "W1": "GIAM"},
+  "pha_vo_gia": "H1: đỉnh kéo cao dần nhưng bị cản, cây H1 xanh khi test MA H1 'rất dễ đưa anh em vào lệnh long' nhưng thực tế đã gãy xu hướng; cần một pha đạp quét stop loss của phe long (về ~63-64) rồi mới lên.",
+  "trich_them": [
+    {"gio": "[00:14:17]", "cau": "Đoạn này mình đoán là rất dễ xảy ra khả năng về test Fibo. Fibo ở đây có nghĩa là khoảng quanh 63.000, râu nến có thể quét đến tận 63.000 ở vùng dưới này."},
+    {"gio": "[00:14:48]", "cau": "Các bạn có thể lựa chọn một vị thế an toàn là loanh quanh khoảng 63 đến 64. SL dưới 61.666 [00:15:18] TP ở 67.000. ... Đánh theo nhịp này là nhịp an toàn. Và nhịp này view luôn từ giờ đến cuối tuần."},
+    {"gio": "[00:16:24]", "cau": "Nhưng đoạn này mình thấy cửa để lên được 67 khá cao đối với hình thái của khung D1 như thế này. Đây chính là nhịp mà các bạn có thể khai thác từ giờ đến cuối tuần."},
+    {"gio": "[00:22:14]", "cau": "Hiện tại mình đang có một lệnh short nhẹ để test đoạn này."},
+    {"gio": "[00:26:01]", "cau": "Nếu short scalping hiện tại mình sẽ chốt quanh 64.000 hoặc 64.300 gì đó. Cũng có thanh khoản có thể quét về dưới này sau đó lại vút lên 66 sau đó lại sập xuống."},
+    {"gio": "[00:28:09]", "cau": "Thị trường khi vào down trend này nhìn vậy nhưng để tăng mạnh lên cũng khó lắm. ... nếu muốn lấy entry để long lên thì vẫn phải chờ một pha đạp quét stop loss của những thằng long hiện tại thì mới ổn được."},
+    {"gio": "[00:59:26]", "cau": "Nhịp hồi này anh đánh giá lên max được bao nhiêu? Nãy mình nói rồi, max khoảng 72 nhưng khó. Còn khả thi thì khoảng 67."}
+  ],
+  "kho": "Kịch bản 2 chặng: ngắn hạn H1/M5 đang giảm, chờ đạp về 63-64 rồi mới long lên 67; hướng chính tính theo đích 67. Lệnh short scalp (SL 300 giá) không rõ giá vào. Giá lúc nói lấy theo tiêu đề '65K' (ước lượng)."
+}

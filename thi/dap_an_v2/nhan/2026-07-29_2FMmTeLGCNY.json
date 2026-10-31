@@ -1,0 +1,48 @@
+{
+  "buoi": "2026-07-29_2FMmTeLGCNY",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/zip_clean/2026-07-29_2FMmTeLGCNY.txt",
+  "gia_btc_luc_noi": null,
+  "dau_buoi": {
+    "thien_huong_h4": "PHAN_VAN",
+    "gio": "[00:08:54]",
+    "trich": "Hôm qua nó đá cái râu về đến 62k6. Mình nghĩ râu này chắc nó vẫn sẽ phải test lại thôi. Trừ khi ở đây nó có một cái H4 [00:09:28] đóng lên trên khỏi cái 64.000 này thì may ra mới không có cái gì."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "PHAN_VAN",
+    "do_chac": "thap",
+    "gio": "[00:22:04]",
+    "trich": "Cực kỳ khó để mà gọi là chọn một cái phe nào. Thực tế là thị trường hiện tại nó cũng không biết là nó nên đi đâu. Mình đánh giá hiện tại thị trường nó cũng không biết là nó nên lên hay là nên xuống. ... [00:23:11] có những cái lúc mình không có nhìn ra được xu hướng mình cũng phải thừa nhận với anh em là mình chịu. Ví dụ như hiện tại."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {"huong": "GIAM", "dich": [62000, 62500]},
+  "duong_di": null,
+  "dich_chinh": null,
+  "han_gio": null,
+  "vo_hieu": {
+    "gia": 62000,
+    "khung": "D1",
+    "so_nen": 1,
+    "chieu": "dong_duoi",
+    "cau": "nếu mà D1 mà nó thủng qua khỏi cái 62.000 này thì đó là một cái tín hiệu sẽ rất là xấu bởi vì nó vừa thủng hỗ trợ vừa thủng khỏi Fibo 0.5 của cái nhịp hồi hiện tại. ... nếu mà cái vùng này mà D1 mà nó đóng xuyên qua thì e rằng là hỏng."
+  },
+  "lenh": [
+    {"chieu": "LONG", "vao": [62000, 62500], "tp": [], "sl": 60000, "trang_thai": "de_xuat_moi"},
+    {"chieu": "LONG", "vao": [60500, 62000], "tp": [], "sl": 60000, "trang_thai": "de_xuat_moi"},
+    {"chieu": "SHORT", "vao": 64000, "tp": [], "sl": null, "trang_thai": "de_xuat_moi"}
+  ],
+  "hanh_dong": "dung_ngoai_vi_lap_lung",
+  "khung_lon": {"D1": "PHAN_VAN", "W1": "GIAM"},
+  "pha_vo_gia": "Nghi giá 'lên nó quét nốt cái này [cụm thanh lý 64.000] rồi nó mới xuống', 'thị trường nó cứ thích quét hai đầu 64.000', 'Đôi khi nó trap lên nó gãy xuống'. Phía dưới: nếu chỉ 'về quét cái râu đâu đó 61.000 sau đó rút lên thì là ok là đẹp' (quét giả để tạo vai đầu vai ngược).",
+  "trich_them": [
+    {"gio": "[00:12:07]", "cau": "Trừ khi là ngày mai chúng ta sẽ có một cái nến đóng trên lại cái đường MA này. Tức là trên cái vùng 64.000 thì mình nghĩ là may ra mới có những cái cửa nó sáng để đi lên tiếp tục và quay trở lại cái plan lên 70. Còn không cứ đóng ở dưới cái vùng này thì rất là xấu."},
+    {"gio": "[00:16:37]", "cau": "Tuy nhiên đây là một cái kịch bản mặc dù cái kịch bản này thì mình đánh giá mức độ khả thi nó không cao lắm ở trong thị trường downtrend. [vai đầu vai ngược lên trên 72]"},
+    {"gio": "[00:18:16]", "cau": "nếu mà giá nó đóng H4 trên 64.000 thì sẽ confirm cho một cái nhịp comeback. ... Còn lại hiện tại giá nó cứ như này và thả cho thời gian trôi dần thì hai cái đường này cắt xuống và đây sẽ trở thành một cái kháng cự thì giá không có cơ sở nào để đi lên. Ngoại trừ cái câu chuyện là phải về test lại cái vùng 62 cho đến 62.500"},
+    {"gio": "[00:21:32]", "cau": "Xu hướng H4 thì thể hiện rõ là cái nhịp này là nhịp điều chỉnh. Nhịp này mình đánh giá H4 vẫn đang là cái nhịp điều chỉnh chứ chưa confirm là nhịp giảm đâu."},
+    {"gio": "[00:23:45]", "cau": "Đó là các bạn chờ bắt ở cái vùng 62 cho đến là 60.500. ... và thủng [00:24:17] khỏi 60 thì gần như là kết thúc tất cả mọi thứ ... Thì đây là phương án an toàn nhất. 60.500 cho đến 62.000."},
+    {"gio": "[00:10:34]", "cau": "Ở đây mình nghĩ là SL 60. Lần này nếu bắt lên thì chắc SL 60."},
+    {"gio": "[00:26:26]", "cau": "64.000 này mình nghĩ cũng là một cái vùng hấp dẫn đủ để nếu anh em nào muốn sell scalp. ... Nếu mà sell, nếu mà các bạn sell thì mình nghĩ là đừng có vào sell sớm hơn cái vùng 64.000 đó."},
+    {"gio": "[00:40:40]", "cau": "Đối với các mốc xuống là 62.000 cho đến 62.000 và tiếp theo đó là 60.000 5 cho đến 61. Còn mốc trên thì chúng ta sẽ quan sát là 64.000. Đó là cột mốc đầu tiên."}
+  ],
+  "kho": "Buổi trước tin FED (1h sáng 30/7); người nói tự nhận 'chịu', không chọn phe. Có nghiêng nhẹ là giá test lại râu 62.5-62.6 (chặng kế GIAM) rồi tìm mua, còn lên lại plan 70 chỉ khi H4/D1 đóng trên 64.000 → gán PHAN_VAN. vo_hieu ghi mốc làm hỏng kế hoạch mua (D1 đóng dưới 62.000), thủng 60 là 'kết thúc tất cả'. Giá lúc nói không rõ (chỉ biết quanh/dưới 64.000)."
+}

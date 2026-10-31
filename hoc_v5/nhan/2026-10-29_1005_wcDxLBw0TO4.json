@@ -1,0 +1,449 @@
+{
+  "buoi": "2026-10-29_1005_wcDxLBw0TO4",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/lam_sach/2026-10-29_1005_wcDxLBw0TO4.md",
+  "gia_btc_luc_noi": 79500,
+  "dau_buoi": {
+    "thien_huong_h4": "GIAM",
+    "gio": null,
+    "trich": "Thị trường đang chạy khá ngon rồi, gãy khá đẹp rồi. Đêm hôm qua sau cái tin thì có những pha kéo lên, những pha kéo lên rất là trap luôn... Thế thì cái vùng giá 77.00[?] cho đến 78.00[?], đó là một trong những vùng rất dễ quét về, anh em nên thận trọng."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "GIAM",
+    "do_chac": "cao",
+    "gio": null,
+    "trich": "Không ngoài dự đoán, Bitcoin đóng ở đây... Anh em cứ follow theo plan lúc nãy mình đưa, từ giờ đến trưa: vẫn kịch bản cũ, khả năng chạy lên đây, test lại vùng này rồi đi xuống, hoặc test vùng 80.500, tùy đó chúng ta quan sát."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {
+    "huong": "TANG",
+    "dich": [
+      80000,
+      80500
+    ]
+  },
+  "duong_di": [
+    {
+      "huong": "TANG",
+      "dich": [
+        80000,
+        80500
+      ]
+    },
+    {
+      "huong": "GIAM",
+      "dich": [
+        77000,
+        78000
+      ]
+    }
+  ],
+  "dich_chinh": [
+    77000,
+    78000
+  ],
+  "han_gio": null,
+  "vo_hieu": null,
+  "lenh": [
+    {
+      "chieu": "SHORT",
+      "vao": null,
+      "tp": [
+        78000,
+        77000
+      ],
+      "sl": null,
+      "trang_thai": "dang_giu"
+    }
+  ],
+  "hanh_dong": "chot_loi",
+  "khung_lon": {
+    "D1": "GIAM",
+    "W1": "GIAM"
+  },
+  "pha_vo_gia": "Các pha kéo lên sau tin Fed đêm qua (test 81.700 rồi gãy) là trap; dự đoán 11h kéo đóng trên 80.000 (vùng tâm lý) để phe long 'bay' rồi đi xuống.",
+  "nhin_lai_view_truoc": {
+    "view_truoc": "GIAM (đêm qua: cây H4 sau tin rất xấu, đóng đỏ thì sáng mai thấy 78; nhịp hồi chỉ test Fibo)",
+    "giu_hay_doi": "giu",
+    "vi_sao": "Giá gãy đẹp như dự đoán; các pha kéo lên sau tin (test 81.700) là trap, tin chỉ hợp lý hóa đường giá; xu hướng không đổi, plan không đổi.",
+    "gio": null,
+    "trich": "Thị trường đang chạy khá ngon rồi, gãy khá đẹp rồi. Đêm hôm qua sau cái tin thì có những pha kéo lên, những pha kéo lên rất là trap luôn. ... Sau tin thì về bản chất thị trường hôm qua nó quét là do có tin, nó hợp lý hóa đường giá thôi, chứ xu hướng thị trường mình vẫn không thay đổi. ... Plan thì có thay đổi gì đâu."
+  },
+  "trendline": [],
+  "nen_volume": [
+    {
+      "khung": "H4",
+      "nen": "Đêm qua 1:30: một pha tăng, H4 đóng một cây rất sâu; lúc họp báo kéo một cây nến xanh vượt lên, test 81.700 rồi gãy",
+      "volume": "Vẫn có lực mua cố níu nhưng không ăn thua",
+      "ket_luan": "Các pha kéo lên sau tin là trap, chỉ test lại vùng cản",
+      "gio": null,
+      "trich": "Quan trọng là đến lúc 1:30 thì thành cột mốc khiến thị trường thay đổi: có một pha tăng, H4 đóng một cây rất sâu; sau đó lúc họp báo nó kéo lên một cây nến xanh vượt khỏi vùng này, test lại vùng 81.700 rồi gãy về như hiện tại."
+    },
+    {
+      "khung": "H4",
+      "nen": "Cây H4 sắp đóng (45 phút nữa) là nến đỏ ở vùng giá hiện tại",
+      "volume": null,
+      "ket_luan": "Đóng ở đây là xấu lắm; cùng lắm kéo lên không quá 80.500; breakout khó nhai",
+      "gio": null,
+      "trich": "Nhưng nếu cây H4 của chúng ta, khoảng 45 phút nữa đóng ở vùng giá này, trả cho mình một cây nến đỏ như bây giờ, thì gần như chắc chắn nó sẽ đóng ở đây. Cùng lắm đoạn này nó kéo lên không quá được 80.500. Đóng ở đây thì coi như là xấu lắm. Breakout hả? Breakout này hơi khó nhai."
+    },
+    {
+      "khung": "H1",
+      "nen": "H1 về hỗ trợ nhưng chưa tạo được đáy thấp hơn",
+      "volume": null,
+      "ket_luan": "Chuẩn bị hồi khả năng rất cao; hồi lên thì dễ chạy xuống tiếp",
+      "gio": null,
+      "trich": "Mở H1: nó về hỗ trợ nhưng chưa tạo được đáy thấp hơn, nên chuẩn bị hồi khả năng rất cao. Có nhịp hồi 30 phút cũng khá xa, cho nên chờ nó hồi lên rồi tính."
+    },
+    {
+      "khung": "D1",
+      "nen": "D1 lại có một cây nến xanh",
+      "volume": null,
+      "ket_luan": "Nhưng vùng 81-82 là vùng khó nhai (support cũ thành kháng cự)",
+      "gio": null,
+      "trich": "D1 lại có một cây nến xanh, nhưng như mình đã nói, vùng 81 và 82 là vùng khó nhai. Trước đó đây là vùng support cực kỳ mạnh, về là bật như tôm. Sau khi bị phá thì bây giờ trở thành kháng cự."
+    },
+    {
+      "khung": "H4",
+      "nen": "H4 đóng ở vùng dự đoán, cây nến bán 'uy lực'",
+      "volume": null,
+      "ket_luan": "Không long; ít nhất phải có cây xanh mới long được; RSI H4 lên 50 rồi quay về",
+      "gio": null,
+      "trich": "Không ngoài dự đoán, Bitcoin đóng ở đây. ... Cây H4 uy lực thế này mà còn long thì: ít nhất phải có cây xanh mới long được chứ. RSI lên 50 H4 rồi quay về thôi."
+    },
+    {
+      "khung": "H4",
+      "nen": "Sau khi H4 đóng: giá đi sideway, RSI kéo lên nhưng giá không tăng",
+      "volume": "Có lực mua nhảy vào nhưng bị triệt tiêu, không đổi được cấu trúc giá",
+      "ket_luan": "Đẹp nhất là lên test MA, trên 80; giờ chờ",
+      "gio": null,
+      "trich": "Xem RSI: nó đang đi sideway và kéo RSI lên nhưng giá không tăng, nghĩa là triệt tiêu bớt các lực mua; có lực mua nhảy vào nhưng không thay đổi được cấu trúc giá. Đẹp nhất là nó lên test MA này, phát trên 80 thì ngon. Bây giờ chờ thôi."
+    }
+  ],
+  "cach_lam": [
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "dinh_day_cu",
+      "chi_tiet": "Vùng 81-82: support cũ cực mạnh nay thành kháng cự; hội tụ râu thanh khoản, Fibo 0.5 nhịp trước, cản thanh khoản, MA34 D1",
+      "ket_qua": "Vùng khó nhai; trước mắt bị cản ở 81-82",
+      "gio": null,
+      "trich": "Vùng này dồn rất nhiều kháng cự: vừa là râu thanh khoản, vừa Fibo 0.5 của nhịp trước, vừa cản thanh khoản, vừa MA34 trên D1. Trước đó MA34 là hỗ trợ, bây giờ trở thành kháng cự"
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "ema",
+      "chi_tiet": "D1: giá bị nhốt giữa MA34 (kháng cự) và MA89",
+      "ket_qua": "Tối thiểu sẽ có 1-2 lần test MA89; đẹp nhất test hai lần tạo hai đáy mới lên được",
+      "gio": null,
+      "trich": "và giá bị nhốt trong hai vùng MA này. Khi đã như vậy thì tối thiểu sẽ có một đến hai lần test MA89. Đẹp nhất là test hai lần, tạo hai đáy, lúc đó mới có nhịp lên được nữa."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "ema",
+      "chi_tiet": "H4: ba đường MA dồn thành một -> vùng thanh khoản cứng; thêm một đường MA ở 77",
+      "ket_qua": "Đang là kháng cự (cứ lên là bị bán); target 78-77; 2 nến H4 thủng dưới 77 (dưới MA) thì về 75 hoặc sâu hơn",
+      "gio": null,
+      "trich": "H4: dồn ba đường MA lại thành một, nghĩa là đây là vùng giá của phe từ trung hạn cho đến ngắn hạn, nên vùng giá này đóng vai trò vùng thanh khoản cứng. Giá nằm dưới thì nó là kháng cự; nếu giá trôi lên trên được thì vùng này trở thành hỗ trợ. Hiện tại là kháng cự, cứ lên thì bị bán xuống. Có thêm một đường nữa ở 77.00[?]"
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "rsi",
+      "chi_tiet": "RSI 5 phút khá thấp",
+      "ket_qua": "5 phút chưa gãy tiếp ngay được: sideway tới ~11:30 hoặc hồi 80-80.5 rồi mới gãy; gãy luôn về 79/78 thì khó",
+      "gio": null,
+      "trich": "RSI 5 phút cũng khá thấp. Đi kiểu này chắc tí nữa nó sẽ hồi lên khoảng 80.500. RSI như này thì mình thấy trong 5 phút ngắn hạn nó không gãy tiếp được. Một là nó sideway ở đây một khoảng thời gian đến khoảng 11:30 thì mới gãy tiếp."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "rsi",
+      "chi_tiet": "RSI H1 quá bán, nhịp trước quá bán và phân kỳ",
+      "ket_qua": "Sẽ hồi lên rồi dễ chạy xuống tiếp; hoặc sideway tới 11:30 kéo RSI lên 50 rồi điều chỉnh",
+      "gio": null,
+      "trich": "RSI ở đây đang quá bán, nhịp trước đó quá bán và phân kỳ, thành ra đoạn này sẽ hồi lên; hồi lên thì sẽ dễ chạy xuống tiếp. Còn không hồi thì nó đứng sideway từ giờ đến khoảng 11:30 để kéo RSI lên 50, sau đó mới bắt đầu điều chỉnh xuống."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "dinh_day_cu",
+      "chi_tiet": "80 là vùng tâm lý; 79 là đáy cũ chưa phá",
+      "ket_qua": "Đoán 11h kéo đóng trên 80 để nhóm long bay; vùng 79 khó chơi",
+      "gio": null,
+      "trich": "Mình nghĩ tí nữa 11 giờ nó lại kéo lên đóng trên 80.000, vì 80 là vùng tâm lý. Nó đóng trên 80.000 thì nhóm kia sẽ thấy 'đóng lên trên được 80.000 ngon rồi' và họ sẽ bay. ... Vùng 79 bắt đầu cũng là vùng khó chơi, vì đây là vùng đáy cũ, chưa phá ra khỏi đáy thấp, chưa tạo được đáy thấp hơn."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "heatmap",
+      "chi_tiet": "Liquidation 300 triệu (200 triệu long); sáng sớm một phát 100 triệu long; volume delta chỉ ~100.000; vùng 79.000 còn dày (long FOMO đêm qua đặt SL 79.000)",
+      "ket_qua": "Long FOMO hơi ác; phe xanh còn nên ngắn hạn còn đấm thêm một phát; thanh lý hai biên nhiễu, không phải lý do đổi cấu trúc",
+      "gio": null,
+      "trich": "Liquidation: 300 triệu, trong đó thanh lý 200 triệu lệnh long. ... Các anh em màu xanh bên này vẫn còn, nên trong ngắn hạn khả năng còn đấm một phát nữa. ... Thanh lý quét hai đầu chứ không dồn quá nhiều, nên lượng này không phải lý do chính để thay đổi cấu trúc thị trường. ... Vùng 79.00[?] vẫn còn khá dày, tạo ra từ đêm qua: long team long FOMO từ đêm qua, SL 79.000."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "Fear and Greed 51",
+      "ket_qua": "Chưa sợ, vẫn còn FOMO",
+      "gio": null,
+      "trich": "Fear and Greed vẫn 51, chưa sợ. Hôm qua nó kéo tin tức lên, khả năng vẫn FOMO."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "Biểu đồ Global long/short 68-54",
+      "ket_qua": "Chưa back test, không đưa vào hệ thống",
+      "gio": null,
+      "trich": "Biểu đồ Global long/short, hiện 68 – 54: mình chưa check sâu, chưa back test, không đưa vào hệ thống."
+    },
+    {
+      "hanh_dong": "ve",
+      "cong_cu": "khac",
+      "chi_tiet": "Mô hình Diamond phân phối đỉnh khung tuần",
+      "ket_qua": "H4 đóng thế này là thoát khỏi vùng phân phối theo cá mập; có thể đi tới 75-76",
+      "gio": null,
+      "trich": "Đóng cây H4 thế này thì còn thoát trên khung tuần mô hình Diamond phân phối đỉnh của chúng ta; thoát ở vùng phân phối đó là thoát theo cá mập luôn đấy. Cá bơi ngược dòng nước thì một là cá mạnh, hai là sắp đi đúng 75 luôn. Thôi 76 cũng được rồi anh em ơi."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "Tâm lý đám đông tin uptrend, quen ăn nhịp long",
+      "ket_qua": "Bias khiến không thấy cấu trúc thị trường thay đổi",
+      "gio": null,
+      "trich": "Giai đoạn này rất nhiều người đã quen với câu chuyện ăn ở những nhịp bay, những nhịp long, và đang tin rằng xu hướng thị trường là uptrend. Đại đa số đám đông ngoài kia đang tin là uptrend nên vẫn rất thích cứ bay bay bay."
+    }
+  ],
+  "vung_nguoi_do": [
+    {
+      "loai": "dich",
+      "tu": 77000,
+      "den": 78000,
+      "gio": null,
+      "trich": "Thế thì cái vùng giá 77.00[?] cho đến 78.00[?], đó là một trong những vùng rất dễ quét về, anh em nên thận trọng."
+    },
+    {
+      "loai": "dich",
+      "tu": 77000,
+      "den": 78000,
+      "gio": null,
+      "trich": "Có thêm một đường nữa ở 77.00[?], nên plan của anh em mình là target về 78.00[?] cho đến 77.00[?]; sau đó xem thị trường phản ứng thế nào rồi tính."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 77000,
+      "den": 78000,
+      "gio": null,
+      "trich": "Trước mắt nó bị cản ở 81, 82. Vùng hỗ trợ kế tiếp là 78.000, 78.00[?], cho đến 77.00[?] hoặc 600 giá ở vùng đó."
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 80500,
+      "den": 80500,
+      "gio": null,
+      "trich": "Cùng lắm đoạn này nó kéo lên không quá được 80.500. Đóng ở đây thì coi như là xấu lắm."
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 80000,
+      "den": 80500,
+      "gio": null,
+      "trich": "Còn không thì ở đây phải có nhịp hồi, kéo lên 80.00[?] cho đến 80.500 thì may ra mới gãy tiếp."
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 81000,
+      "den": 82000,
+      "gio": null,
+      "trich": "D1 lại có một cây nến xanh, nhưng như mình đã nói, vùng 81 và 82 là vùng khó nhai."
+    },
+    {
+      "loai": "dich",
+      "tu": 75000,
+      "den": 75000,
+      "gio": null,
+      "trich": "Còn nếu về đến đó mà có khoảng hai cây nến H4 thủng dưới 77.000 này, tức dưới đường MA này, thì xin thưa anh em, tiếp tục chiến đấu về đến 75 hoặc thậm chí sâu hơn. Nhưng cái đó còn hơi xa xôi"
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 86000,
+      "den": 86000,
+      "gio": null,
+      "trich": "Có thể nó chỉ lên và dừng lại ở 86.000 rồi lại quay về, đó là kịch bản khi nó quay vào trong đường MA này."
+    },
+    {
+      "loai": "sl",
+      "tu": 82500,
+      "den": 83000,
+      "gio": null,
+      "trich": "Ví dụ bình thường đặt SL 82.500 thì hôm qua có thể kéo lên SL 83 sau tin rồi mới đi ngủ, kiểu như vậy thì phải điều chỉnh về volume."
+    }
+  ],
+  "view_trung_han": [
+    {
+      "khung": "D1",
+      "huong": "GIAM",
+      "dich": [
+        77000,
+        78000
+      ],
+      "han": "Trước mắt; sau đó xem phản ứng. Kịch bản về 7x rồi bật 9x vẫn có nhưng xác suất không cao",
+      "mat_view_khi": "Không nêu mốc rõ (chỉ nói bị cản 81-82)",
+      "gio": null,
+      "trich": "Trước mắt nó bị cản ở 81, 82. Vùng hỗ trợ kế tiếp là 78.000, 78.00[?], cho đến 77.00[?] hoặc 600 giá ở vùng đó. Xu hướng thị trường gần như không thay đổi quá nhiều. ... Xác suất mà về 7x rồi bật lên 9x thì tất nhiên vẫn có, nhưng mình thấy nó khó lắm, cá nhân mình đánh giá xác suất này không cao nhá."
+    },
+    {
+      "khung": "W1",
+      "huong": "GIAM",
+      "dich": null,
+      "han": null,
+      "mat_view_khi": null,
+      "gio": null,
+      "trich": "Đóng cây H4 thế này thì còn thoát trên khung tuần mô hình Diamond phân phối đỉnh của chúng ta; thoát ở vùng phân phối đó là thoát theo cá mập luôn đấy."
+    },
+    {
+      "khung": "M1",
+      "huong": "GIAM",
+      "dich": null,
+      "han": "Downtrend kéo dài tới ~tháng 6/2027 (Q2/2027), xấu nhất hết 2027; DCA theo plan đến giữa 2027",
+      "mat_view_khi": null,
+      "gio": null,
+      "trich": "vô tình đồng bộ với plan của mình: downtrend sẽ kéo dài, xấu nhất đến hết 2027, còn không thì đến khoảng tháng 6 năm 2027, tức quý 2 năm 2027. Như các lần trước mình nói, mình DCA theo plan đến khoảng giữa năm 2027, chứ không phải hiện tại là hết downtrend rồi."
+    }
+  ],
+  "vung_tranh": [
+    {
+      "tu": 79000,
+      "den": 79000,
+      "vi_sao": "Vùng đáy cũ, chưa phá ra khỏi đáy thấp, chưa tạo đáy thấp hơn -> khó chơi",
+      "gio": null,
+      "trich": "Vùng 79 bắt đầu cũng là vùng khó chơi, vì đây là vùng đáy cũ, chưa phá ra khỏi đáy thấp, chưa tạo được đáy thấp hơn."
+    },
+    {
+      "tu": null,
+      "den": null,
+      "vi_sao": "Không vào entry mới ở vị trí hiện tại, kể cả khi gãy; chờ hồi",
+      "gio": null,
+      "trich": "Cộng với đó, cho dù có gãy thì ở vị trí hiện tại chúng ta cũng không vào được entry mới."
+    },
+    {
+      "tu": null,
+      "den": null,
+      "vi_sao": "Không long sau cây H4 bán uy lực (phải có cây xanh); không cản tàu",
+      "gio": null,
+      "trich": "Cây H4 uy lực thế này mà còn long thì: ít nhất phải có cây xanh mới long được chứ. ... Hỏi: Có nên cản tàu không? Mình thì không cản."
+    },
+    {
+      "tu": null,
+      "den": null,
+      "vi_sao": "Không FOMO; giữ vị thế chờ thêm thời gian hoặc chờ hồi",
+      "gio": null,
+      "trich": "Cho nên ở vị thế này anh em không cần quá FOMO: một là giữ vị thế nhưng chờ thêm thời gian, hai là chờ nó hồi lên một xíu."
+    }
+  ],
+  "giu_dong": [
+    {
+      "lenh": "Lệnh sell đang có",
+      "quyet_dinh": "chot_mot_phan",
+      "khi_nao": "Vùng này TP được; chờ vòng lên tìm entry mới ngon hơn; không lên thì ăn nốt phần còn lại",
+      "gio": null,
+      "trich": "Vùng này về cơ bản anh em có lệnh sell thì TP được. Chờ nó có vòng lên thì tìm entry mới ngon hơn; còn không lên thì ăn nốt phần còn lại. Miễn sao cái view nó đúng là chúng ta dễ chịu rồi."
+    },
+    {
+      "lenh": "Vị thế scalping hiện tại",
+      "quyet_dinh": "giu",
+      "khi_nao": "Giữ vị thế nhưng chờ thêm thời gian (sideway tới ~11:30) hoặc chờ hồi lên",
+      "gio": null,
+      "trich": "Cho nên ở vị thế này anh em không cần quá FOMO: một là giữ vị thế nhưng chờ thêm thời gian, hai là chờ nó hồi lên một xíu. Đó là ngắn hạn scalping."
+    },
+    {
+      "lenh": "Lệnh đánh tin bị quét SL entry 81.500 sau khi đã TP (người xem)",
+      "quyet_dinh": "dong",
+      "khi_nao": "Đánh tin không kéo SL về entry; nới SL (82.500 -> 83) và điều chỉnh volume, hoặc tắt hết đi ngủ",
+      "gio": null,
+      "trich": "Hôm qua mình bảo đánh tin mà kéo SL về entry thì gần như là nó sẽ quét. ... Ví dụ bình thường đặt SL 82.500 thì hôm qua có thể kéo lên SL 83 sau tin rồi mới đi ngủ, kiểu như vậy thì phải điều chỉnh về volume. Còn không thì tắt hết đi ngủ cho ngon."
+    }
+  ],
+  "tin_tuc": [
+    {
+      "su_kien": "FOMC lãi suất tháng 10 (kết quả + họp báo)",
+      "thoi_diem": "Đêm qua (1:00, họp báo 1:30)",
+      "nguon": "lich_kinh_te",
+      "so_lieu": "Giữ nguyên 3.75-4%, dự báo bằng thực tế",
+      "anh_huong_view": "Không bất ngờ, lúc ra tin giá chỉ vài trăm; họp báo kéo nến xanh test 81.700 rồi gãy -> trap; xu hướng không đổi",
+      "gio": null,
+      "trich": "Đêm qua không có gì bất ngờ: lãi suất giữ nguyên, không tăng cũng không giảm, duy trì ở mức 3.75 đến 4%, dự báo bằng thực tế. Thị trường không bất ngờ nên lúc ra tin giá không biến động gì, chỉ vài trăm giá."
+    },
+    {
+      "su_kien": "Fed giảm số cuộc họp công bố lãi suất",
+      "thoi_diem": "Từ mùa thu 2027; năm 2028 ấn định 6 cuộc",
+      "nguon": "khac",
+      "so_lieu": "Khoảng 8 cuộc họp/năm, bớt 2 lần công bố lãi suất; 2028 sáu cuộc",
+      "anh_huong_view": "Cột mốc thời gian tác động cấu trúc thị trường, đồng bộ plan: downtrend kéo dài tới ~Q2/2027, xấu nhất hết 2027; DCA đến giữa 2027",
+      "gio": null,
+      "trich": "Fed công bố dự kiến mùa tới còn khoảng tám cuộc họp trên một năm, tức là bớt đi hai lần họp công bố lãi suất. ... Nếu mùa thu đúng là rơi vào tầm tháng 7, 8, 9 mới bắt đầu thay đổi, thì đó cũng là một cột mốc thời gian tác động lên cấu trúc thị trường, và vô tình đồng bộ với plan của mình: downtrend sẽ kéo dài, xấu nhất đến hết 2027, còn không thì đến khoảng tháng 6 năm 2027"
+    },
+    {
+      "su_kien": "Fed: mục tiêu lạm phát 2% dựa chủ yếu vào PCE",
+      "thoi_diem": "Phát biểu đêm qua",
+      "nguon": "khac",
+      "so_lieu": "Mục tiêu 2% không đổi; giá dầu lên không tác động nhiều đến lạm phát",
+      "anh_huong_view": "Giải thích việc giữ nguyên lãi suất giai đoạn này",
+      "gio": null,
+      "trich": "Thêm: Fed đánh giá mọi thứ vẫn đang kiểm soát, mục tiêu lạm phát 2% không thay đổi, và 2% này sẽ được tính chủ yếu dựa trên PCE chứ không phụ thuộc hoàn toàn vào CPI như trước ... Giá dầu lên thì Fed bảo giữ nguyên lãi suất cũng hợp lý"
+    },
+    {
+      "su_kien": "Xác suất Fed tăng lãi suất tháng 12",
+      "thoi_diem": "Ngay sau tin; kỳ công bố 10/12",
+      "nguon": null,
+      "so_lieu": "Tăng lên 80%",
+      "anh_huong_view": "Nếu duy trì đến 10/12 thì gần như chắc tăng -> tháng 12 là nhịp xấu, tâm lý e dè; còn phụ thuộc PCE, CPI",
+      "gio": null,
+      "trich": "ngay sau khi Fed công bố giữ nguyên lãi suất tháng 10, thì dự đoán tăng lãi suất ở kỳ công bố tháng 12 tăng lên tận 80%. Nếu tỉ lệ này duy trì đến ngày 10 tháng 12 thì gần như chắc chắn tháng 12 sẽ tăng lãi suất. Đây là điểm thị trường đang sợ ... Nếu không có thay đổi gì thì 80% là tăng lãi suất tháng 12, tức tháng 12 sẽ là một nhịp xấu."
+    },
+    {
+      "su_kien": "GDP và PCE lõi",
+      "thoi_diem": "Tối nay",
+      "nguon": "lich_kinh_te",
+      "so_lieu": "PCE lõi dự kiến 0.3, kỳ trước 0.2",
+      "anh_huong_view": "Bằng dự kiến: pump/dump kill hai đầu ngắn hạn rồi trả về xu hướng chính; GDP tốt + PCE xấu thì cân bằng; đóng nến đỏ thì tiếp tục giảm",
+      "gio": null,
+      "trich": "Tối nay có tin GDP và PCE lõi, dự kiến 0.3 so với kỳ trước 0.2. Nếu ra bằng dự kiến thì thị trường không thay đổi quá nhiều, chỉ có những nhịp pump và dump kill hai đầu ngắn hạn, sau đó trả về xu hướng chính dựa trên chart giá. ... ví dụ đóng nến đỏ ở đây thì tiếp tục xu hướng giảm thế thôi."
+    }
+  ],
+  "trich_them": [
+    {
+      "gio": null,
+      "cau": "Xác suất mà về 7x rồi bật lên 9x thì tất nhiên vẫn có, nhưng mình thấy nó khó lắm, cá nhân mình đánh giá xác suất này không cao nhá."
+    },
+    {
+      "gio": null,
+      "cau": "Cùng lắm đoạn này nó kéo lên không quá được 80.500. Đóng ở đây thì coi như là xấu lắm."
+    },
+    {
+      "gio": null,
+      "cau": "Đối với nến H4, nếu nó đóng ở đây thì đúng rồi. Sau tin thì về bản chất thị trường hôm qua nó quét là do có tin, nó hợp lý hóa đường giá thôi, chứ xu hướng thị trường mình vẫn không thay đổi."
+    },
+    {
+      "gio": null,
+      "cau": "Còn không thì ở đây phải có nhịp hồi, kéo lên 80.00[?] cho đến 80.500 thì may ra mới gãy tiếp. Còn từ đây đòi gãy luôn về 79 hay 78 là gần như khó lắm."
+    },
+    {
+      "gio": null,
+      "cau": "Vùng này về cơ bản anh em có lệnh sell thì TP được. Chờ nó có vòng lên thì tìm entry mới ngon hơn; còn không lên thì ăn nốt phần còn lại. Miễn sao cái view nó đúng là chúng ta dễ chịu rồi."
+    },
+    {
+      "gio": null,
+      "cau": "Có thêm một đường nữa ở 77.00[?], nên plan của anh em mình là target về 78.00[?] cho đến 77.00[?]; sau đó xem thị trường phản ứng thế nào rồi tính. Còn nếu về đến đó mà có khoảng hai cây nến H4 thủng dưới 77.000 này... thì xin thưa anh em, tiếp tục chiến đấu về đến 75 hoặc thậm chí sâu hơn."
+    },
+    {
+      "gio": null,
+      "cau": "Đóng cây H4 thế này thì còn thoát trên khung tuần mô hình Diamond phân phối đỉnh của chúng ta... Cá bơi ngược dòng nước thì một là cá mạnh, hai là sắp đi đúng 75 luôn. Thôi 76 cũng được rồi anh em ơi."
+    },
+    {
+      "gio": null,
+      "cau": "Cây H4 uy lực thế này mà còn long thì: ít nhất phải có cây xanh mới long được chứ. RSI lên 50 H4 rồi quay về thôi."
+    },
+    {
+      "gio": null,
+      "cau": "Plan thì có thay đổi gì đâu."
+    }
+  ],
+  "kho": "File không có mốc giờ. Không có mốc vô hiệu view rõ ràng (chỉ nói kháng cự 81-82 'khó nhai', hồi 'không quá được 80.500'); mốc 2 nến H4 dưới 77.000 là điều kiện đi tiếp về 75, không phải vô hiệu. Lệnh sell không nêu giá vào; khuyên TP vùng này, giữ phần còn lại, chờ hồi lên 80-80.5k tìm entry mới. Câu '75... 76 cũng được' mang tính nói vui theo mô hình Diamond khung tuần; đích plan vẫn 78-77k."
+}

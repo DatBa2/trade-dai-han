@@ -1,0 +1,46 @@
+{
+  "buoi": "2026-08-12_1003_EaWaSL7aWT4",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/lam_sach/2026-08-12_1003_EaWaSL7aWT4.md",
+  "gia_btc_luc_noi": 63000,
+  "dau_buoi": {
+    "thien_huong_h4": "GIAM",
+    "gio": null,
+    "trich": "Giá đang bị chặn. Hôm nay mình nghĩ xu hướng chính vẫn chủ đạo short. Thị trường rất xấu rồi, đã bắt đầu tạo đỉnh thấp dần trên khung ngày; giờ chờ phá đáy nữa là ok, phá qua 62.000 nữa là coi như cắm đầu luôn."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "GIAM",
+    "do_chac": "cao",
+    "gio": null,
+    "trich": "Hỏi: Bitcoin sập vùng nào, SL để đâu? — Mình đang chờ 64 đến 64.300 [?] (nguyên văn \"64003\"). SL thì cứ theo đóng nến H1, cao thì tính sau, đòn bẩy thấp thấp thôi. ... Thị trường vẫn đang trụ được đáy như thế này nên có lẽ chưa sell được; vào thì cắm xuống."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {"huong": "TANG", "dich": [64000, 64400]},
+  "duong_di": [
+    {"huong": "TANG", "dich": [64000, 64400]},
+    {"huong": "GIAM", "dich": 62000},
+    {"huong": "GIAM", "dich": [53000, 55000]}
+  ],
+  "dich_chinh": [53000, 55000],
+  "han_gio": 470,
+  "vo_hieu": null,
+  "lenh": [
+    {"chieu": "SHORT", "vao": null, "tp": [], "sl": null, "trang_thai": "da_dong"},
+    {"chieu": "SHORT", "vao": [64000, 64400], "tp": [62000, 54000], "sl": null, "trang_thai": "de_xuat_moi"}
+  ],
+  "hanh_dong": "dung_ngoai_cho_entry",
+  "khung_lon": {"D1": "GIAM", "W1": null},
+  "pha_vo_gia": "Ngắn hạn thị trường 'vẫn muốn quét stop loss của các anh em đang short FOMO' lên vùng liquid 64.000-64.400 rồi mới gãy; quét thanh lý hai đầu. CPI ra đúng dự kiến thì có thể tăng nhẹ trong phiên Mỹ rồi gãy — 'có thể nó chỉ tăng ngắn hạn chứ không phải lực tốt về tin'.",
+  "trich_them": [
+    {"gio": null, "cau": "Lúc thấy cây nến H4 ở đây thì bắt buộc phải out các vị thế short và chờ quan sát. Lý do hôm qua mình cho anh em out lệnh này dù đang âm khoảng 200 giá là vì xuất hiện cây nến H4 như vậy, cộng với vào phiên Mỹ."},
+    {"gio": null, "cau": "Hiện tại lực hồi đã bị chặn trên H1 ngay vùng 63.000 nên chúng ta đang cân nhắc đánh tiếp theo chiều đi xuống ... Scalp ngắn mình kỳ vọng nó quét lên khoảng 64, tức Fibo 0.618 ... Nhịp này có lẽ chúng ta sẽ chờ ở 64."},
+    {"gio": null, "cau": "Xu hướng thị trường bây giờ rất xấu, gãy hết rồi ... Công việc còn lại của thị trường là phá đáy khỏi 62.000. Gãy 62.000 là coi như nhịp phục hồi vừa rồi kết thúc."},
+    {"gio": null, "cau": "Kỳ vọng đẹp nhất là nó quét lên 66 rồi rụng về, nhưng với lực bây giờ chưa có cơ sở để view xa như vậy. Nếu nó thủng vùng 62 này thì mình nghĩ nhịp kế tiếp sẽ về khoảng 55 đến 53; lấy trung bình giá là 54."},
+    {"gio": null, "cau": "Thủng tiếp 62.000 thì tỉ lệ rất cao, trên 80%, nó sẽ về khoảng 55 đến 53. Đó là các cột mốc target trong tháng 8 này. Mình đoán khoảng cuối tháng 8 hoặc đầu tháng 9 chúng ta sẽ thấy đáy"},
+    {"gio": null, "cau": "Còn nếu nó muốn trụ thì bắt buộc phải trụ khỏi 63.000, đừng thủng 63 thì mới có cửa lên lại 66.500 [?] ... Nhưng theo cách thị trường đang thể hiện thì xác suất này hơi khó, mình thấy tối đa khoảng 50%."},
+    {"gio": null, "cau": "Bây giờ rõ ràng có vùng kháng cự ngay 64, ở cụm MA: ba đường MA chất lại đây, nên 64 sẽ là một cản lớn. Vùng này đi long thì mình thấy gần như không có cơ sở."},
+    {"gio": null, "cau": "Giống như mình bảo chúng ta có thể chờ lên 64.000 rồi vào vị thế bán xuống, chứ không có nghĩa là anh em hãy long lên 64.000."},
+    {"gio": null, "cau": "Hỏi: Hôm nay vào lệnh big short về 50 được không? — Được."}
+  ],
+  "kho": "Transcript không có mốc giờ; nhiều số trong bản sạch có dấu [?] (64.300/64.400, 66.500). Không nêu mốc vô hiệu cho view giảm (SL short chỉ 'theo đóng nến H1', khung nhỏ). han_gio=470 suy từ 'các cột mốc target trong tháng 8 này' (tới 31/8). Câu kết 'có lẽ chưa sell được' chỉ là chưa vào giá market, không phải đổi view."
+}

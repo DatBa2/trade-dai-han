@@ -1,0 +1,113 @@
+{
+  "buoi": "2026-07-24_7D1Ve5hs4bU",
+  "ngay": "2026-07-24",
+  "gio_vn": "10:01",
+  "gia_btc_luc_noi": 65461,
+  "nhan_dinh": [
+    {
+      "khung": "H4",
+      "huong": "TANG",
+      "do_chac": "thap",
+      "dich": [66000, 68000],
+      "han": "66K trong 1–2 ngày; 68K trước FED 30/07",
+      "han_gio": 144,
+      "vo_hieu_khi": "H4 đóng dưới 64.000 (thủng đáy đôi 64.65K + EMA89/EMA200 H4 64.29–64.50K)",
+      "kich_ban_phu": "cuối tuần đi ngang 64.6–66K, chỉ quét 68K sau khi qua cuối tuần",
+      "duong_di": [
+        {"huong": "TANG", "dich": 66000},
+        {"huong": "GIAM", "dich": 65300},
+        {"huong": "TANG", "dich": 68000}
+      ],
+      "doi_y": null,
+      "ly_do": [
+        "nhịp dump về 64–65K người đó chờ hôm qua đã xong (đáy 64.65K), kill long xong rồi rút chân",
+        "giá đóng lại trên EMA34 H4 (65.30K), EMA89 (64.50K), EMA200 (64.29K) — chưa gãy cấu trúc, mốc gãy 64.000 chưa chạm",
+        "cặp nến H4 xanh đảo chiều ở hỗ trợ: 64.84 → 65.10 → 65.46K, cây 07:00 rút chân 0,52% đóng sát đỉnh",
+        "biên 64–68K tới FED 30/07 người đó nêu vẫn còn hiệu lực, vừa chạm biên dưới",
+        "độ chắc thấp: thứ Sáu khó đánh, đỉnh H4 thấp dần, D1 đỏ hai ngày, dầu +6% và Nasdaq -2% hôm qua"
+      ],
+      "trich": null
+    },
+    {
+      "khung": "D1",
+      "huong": "TANG",
+      "do_chac": "thap",
+      "dich": 67400,
+      "han": "tới FED 30/07",
+      "han_gio": 144,
+      "vo_hieu_khi": "nến D1 đóng dưới 63.400 (thủng dải EMA34 D1)",
+      "kich_ban_phu": "D1 đóng xanh trên 67–68K mới mở lại đích 70–72K",
+      "duong_di": null,
+      "doi_y": null,
+      "ly_do": [
+        "D1 vẫn trên EMA34 D1 (64.39K), râu dưới 23/07 chỉ chạm mép trên dải EMA34 D1",
+        "EMA89 D1 67.37K chưa được test",
+        "hai nến D1 đỏ chỉ là chỉnh trong biên, nến hôm nay đang xanh"
+      ],
+      "trich": null
+    },
+    {
+      "khung": "W1",
+      "huong": "GIAM",
+      "do_chac": "vua",
+      "dich": null,
+      "han": "chu kỳ downtrend",
+      "han_gio": null,
+      "vo_hieu_khi": "nến tuần đóng trên 72.000 (phá trendline giảm khung tuần)",
+      "kich_ban_phu": "hồi tới 68–72K (EMA200 tuần / Fibo) rồi gãy; vùng gom chính 50K → 30K",
+      "duong_di": null,
+      "doi_y": null,
+      "ly_do": [
+        "giá dưới EMA200 tuần 68.13K, EMA34 tuần cắt xuống EMA89",
+        "nến tuần này râu trên 2,3% — bị bán ở 67K",
+        "nhịp hồi trong chu kỳ downtrend, DCA bán 66–72K"
+      ],
+      "trich": null
+    }
+  ],
+  "vung_gia": {
+    "khang_cu": [65800, 66000, 66400, 66955, 67400, 68000],
+    "ho_tro": [65000, 64750, 64650, 64500, 64000, 63000]
+  },
+  "lenh": [
+    {
+      "chieu": "LONG",
+      "loai": "limit",
+      "vao": 65050,
+      "tp": [65950, 67800],
+      "sl": 64300,
+      "trang_thai": "dang_giu"
+    }
+  ],
+  "hanh_dong": "giu_lenh",
+  "giu_view": true,
+  "ly_do_doi_view": "Giữ view H4 tăng + biên 64–68K tới FED của buổi 23/07: nhịp H1 về 64–65K người đó chờ đã tới (đáy 64.65K) — đúng kịch bản 'về dưới 65 rồi hồi lên', không phải mốc sai; chưa H4 nào đóng dưới 64.000. Lệnh buy 65K đã khớp, giữ lệnh, không đổi hướng.",
+  "rau": {
+    "tren": "65.583K — H4 19:00 23/07; trên nữa 65.818K (H4 11:00 23/07) và đỉnh nhịp 66.955K",
+    "duoi": "64.647K — H4 23:00 23/07; 64.759K — râu rút chân 0,52% của H4 07:00 24/07 (đáy đôi)",
+    "test_lai": "Râu trên 65.8K CÓ — trùng Fibo 0.5 nhịp giảm 66.955→64.647K (65.80K) + đỉnh H4 23/07, ngay trên là kháng cự D1 66K + Fibo 0.618 66.07K. Râu dưới 64.65–64.76K KHÔNG — vừa quét xong cụm thanh lý 64.2–64.9K + test EMA89 H4 kèm rút chân, đáy đôi đã làm việc; quay lại nữa là thủng. Đỉnh 66.955K CÓ ở chặng cuối — râu sát 67K chưa test, đích quét 68K"
+  },
+  "vung_on": [
+    {
+      "loai": "LONG",
+      "khoang": [64500, 64900],
+      "ly_do": [
+        "EMA89 H4 64.50K + EMA200 H4 64.29K ngay dưới",
+        "đáy đôi râu 64.65K / 64.76K vừa rút chân",
+        "Fibo 0.618–0.786 nhịp tăng H4 63.76→66.955K = 64.98–64.45K",
+        "cụm thanh lý / heatmap 64.2–64.9K người đó nêu (21/07)"
+      ]
+    },
+    {
+      "loai": "SHORT",
+      "khoang": [67300, 68200],
+      "ly_do": [
+        "đỉnh D1 67.3K + EMA89 D1 67.37K",
+        "EMA200 tuần 68.13K + EMA610 H4 68.09K",
+        "đích quét 68K của người đó = hết biên trên, vùng DCA bán"
+      ]
+    }
+  ],
+  "pha_vo_gia": "Thủng 65K là GIẢ: hai cây H4 đóng dưới 65K (64.96 / 64.84) nhưng không giữ được — G4 (quét đúng cụm thanh lý long 64.2–64.9K rồi rút chân) + G9 (cây phá mở 19h phiên Mỹ) + backtest thất bại, hai cây sau đóng lại trên 65K và trên MA34 H4 → kill long xong, view tăng giữ nguyên",
+  "loi_binh": "Hôm nay thứ Sáu anh em, hôm qua mình nói nó phải dump về 65, 64 để kill long — nó về đúng 64.6 rồi rút chân lên lại. H4 vẫn nằm trên MA, chưa đóng dưới 64 thì cấu trúc tăng vẫn còn, lệnh buy 65 thì cứ giữ, SL dưới 64.3, TP non 65.9 trước cản 66. Thứ Sáu khó đánh, cuối tuần chạy chung một nhịp, biên 64 đến 68 cho tới khi FED ra lãi suất ngày 30. Sợ thì đừng có chơi mà chơi thì đừng có sợ."
+}

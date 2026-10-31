@@ -1,0 +1,182 @@
+{
+ "buoi": "2026-10-15_1005_5iN8iTFsmlY",
+ "ngay": "2026-10-15",
+ "gio_vn": "10:05",
+ "gia_btc_luc_noi": 81000,
+ "nhan_dinh": [
+  {
+   "khung": "H4",
+   "huong": "GIAM",
+   "do_chac": "vua",
+   "dich": [
+    76000,
+    77000
+   ],
+   "han": null,
+   "han_gio": null,
+   "vo_hieu_khi": null,
+   "vo_hieu_cau_truc": null,
+   "kich_ban_phu": null,
+   "duong_di": [
+    {
+     "huong": "GIAM",
+     "dich": [
+      79700,
+      80000
+     ]
+    },
+    {
+     "huong": "GIAM",
+     "dich": [
+      76000,
+      77000
+     ]
+    }
+   ],
+   "doi_y": null,
+   "ly_do": [],
+   "trich": "Bây giờ chúng ta đã có cây H4 đóng. H4 đóng cửa ở đây thì coi như là gãy, tiếp tục gãy, phá đáy. Chân bên này là 81.000 mà bây giờ đóng dưới 81 rồi... Nhịp này khả năng về 80.000.",
+   "nhan_v1": "GIAM"
+  },
+  {
+   "khung": "D1",
+   "huong": "GIAM",
+   "do_chac": "cao",
+   "dich": [
+    76000,
+    77000
+   ],
+   "han": null,
+   "han_gio": null,
+   "vo_hieu_khi": null,
+   "kich_ban_phu": "mục tiêu 90 càng xa; nếu về 79-80 mà bật nhanh thì ok, nằm im thì xấu",
+   "ly_do": [
+    "nến D1 đỏ phá đáy, lower low, confirm tiếp tục xu hướng điều chỉnh giảm",
+    "thủng MA34 khung ngày, điểm kế là MA89",
+    "BTC.D và USDT.D tăng",
+    "tối đa chỉ ăn tới 76-77, đừng tham"
+   ],
+   "trich": "Confirm tiếp tục xu hướng giảm ở khung ngày.",
+   "doi_y": null,
+   "duong_di": null
+  },
+  {
+   "khung": "M5",
+   "huong": "TANG",
+   "do_chac": "thap",
+   "dich": 81000,
+   "han": "từ giờ đến hết live",
+   "han_gio": 3,
+   "vo_hieu_khi": "M5 đóng đỏ thì về dưới 80.000",
+   "kich_ban_phu": "kiểu gì cũng có nhịp về test 80.000 rồi bật lên lòng vòng; cuối buổi M5 xấu coi như không lên nổi",
+   "ly_do": [
+    "giá hồi trên Fibo, kỳ vọng nhịp hồi ngắn về 81 nhưng thiếu volume",
+    "vùng sát hỗ trợ nên có nhịp bật ngắn"
+   ],
+   "trich": "Chỉ có điều trong 5 phút, từ giờ đến hết cái live của mình, có thể nó sẽ về test khoảng 80.000 rồi lại bật lên.",
+   "doi_y": null,
+   "duong_di": null
+  }
+ ],
+ "vung_gia": {
+  "khang_cu": [
+   81000,
+   82000,
+   84000
+  ],
+  "ho_tro": [
+   79000,
+   80000,
+   76000,
+   77000
+  ]
+ },
+ "lenh": [
+  {
+   "chieu": "SHORT",
+   "vao": 81000,
+   "tp": [],
+   "sl": null,
+   "trang_thai": "de_xuat_moi"
+  }
+ ],
+ "nhin_lai_truoc": "Hôm qua H4 lưỡng lự, tạm khả quan rồi sideway chờ tin; tin CPI ra thì phá hỗ trợ 81.000. Nhắc anh em không FOMO ở 86-87 nên tiết kiệm 6-7.000 giá. May không bị lụm trong đống long đêm qua.",
+ "cong_cu": [
+  "D1",
+  "H4",
+  "H1",
+  "M5",
+  "MA34",
+  "MA89",
+  "MA200",
+  "trendline",
+  "Fibo 0.5",
+  "Fibo 0.618",
+  "heatmap thanh lý",
+  "Fear and Greed",
+  "BTC.D",
+  "USDT.D",
+  "Investing xác suất lãi suất"
+ ],
+ "tin_tuc": [
+  {
+   "tin": "CPI Mỹ: core 0.3 vs dự kiến 0.2, năm 2.6 vs 2.5, CPI năm 3.7 vs 3.6",
+   "danh_gia": "bốn chỉ số đều xấu, tốt cho đô; thị trường lợi dụng để đạp, tin chỉ hợp thức hoá đường giá"
+  },
+  {
+   "tin": "PPI tối nay 19:30; Fed phát biểu thứ sáu 10:00",
+   "danh_gia": "core PPI xấu thì thị trường xấu tiếp; xác suất Fed giữ nguyên tháng 10 ~72%, tháng 12 mới tăng"
+  }
+ ],
+ "thoi_quen": [
+  "không bắt long khi chưa có tín hiệu nến khung nhỏ ở vùng hỗ trợ",
+  "sale chỉ ăn tối đa tới 76-77, không tham",
+  "chờ nến H4 đóng mới kết luận",
+  "chỉ tập trung BTC, không FOMO altcoin",
+  "tin ra thị trường phòng thủ, sau tin thường sideway"
+ ],
+ "cau_cua_mieng": [
+  "Cái quan trọng nhất là tâm lý của chúng ta bị ảnh hưởng bởi vị thế và góc nhìn, còn tin chỉ là thời điểm để hợp thức hóa đường giá chạy thôi.",
+  "Đánh ngược thị trường không đánh được đâu, đánh thuận chứ đánh ngược không nổi đâu.",
+  "Khi nào chả có mấy con em này."
+ ],
+ "altcoin": [
+  {
+   "coin": "BTC.D",
+   "huong": "TANG",
+   "ghi": "tiếp tục kéo lên, không có lý do mua altcoin"
+  },
+  {
+   "coin": "USDT.D",
+   "huong": "TANG",
+   "ghi": "đã phá lên, dễ lên tiếp, phù hợp BTC về 80"
+  },
+  {
+   "coin": "ETH",
+   "huong": "PHAN_VAN",
+   "ghi": "về hỗ trợ cứng + MA, hạn chế sale; test cùng lắm vùng 22xx rồi bật"
+  },
+  {
+   "coin": "NEAR",
+   "huong": "GIAM",
+   "ghi": "fake out, có thể gãy về 3.4-3.5; TP 4.5-4.6"
+  },
+  {
+   "coin": "OKB",
+   "huong": "GIAM",
+   "ghi": "sắp sập tiếp, có thể dưới 90"
+  }
+ ],
+ "ghi_chu": "Số 8100/81.008/81.005 đọc là ~81.000. Vùng 80.006/80.007 giữ ngữ cảnh ~80.000; 79.007 hiểu ~79.000. Hai vùng quan sát: 80-79 và 77-76. Vàng 40x-41x hỗ trợ cứng, gãy 4000 mới nguy hiểm.",
+ "hanh_dong": "dung_ngoai_cho_entry",
+ "chang_ke_tiep": {
+  "huong": "GIAM",
+  "dich": 80000
+ },
+ "khung_lon_v2": {
+  "D1": "GIAM",
+  "W1": "PHAN_VAN"
+ },
+ "pha_vo_gia": null,
+ "nguon_nhan": "dap_an_v2 (Opus 5.5 rút mù 31/10)"
+}

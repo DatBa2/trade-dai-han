@@ -1,0 +1,451 @@
+{
+  "buoi": "2026-09-30_1003_3qAxAK71YAs",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/lam_sach/2026-09-30_1003_3qAxAK71YAs.md",
+  "gia_btc_luc_noi": 83000,
+  "dau_buoi": {
+    "thien_huong_h4": "TANG",
+    "gio": null,
+    "trich": "Cho nên mình vẫn nghĩ để lên cho chắc thì khả năng vẫn phải có một pha quét về đâu đó khoảng 82.000 [8200 trong phụ đề]. ... Nhưng theo cá nhân mình, nếu market muốn đẩy lên thì nó sẽ không bao giờ về 80; nó chỉ về loanh quanh 82, căng nữa thì đẩy một cái râu nến đâu đó khoảng 81.00 [?] thôi, rồi bật lên luôn 90."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "TANG",
+    "do_chac": "thap",
+    "gio": null,
+    "trich": "Xem Bitcoin H4 đóng thế nào: vẫn là một cây nến đỏ, đóng dưới MA cộng với trendline. ... Hôm nay khả năng sideway chờ tin. Tin PCE tối nay 7:30 sẽ quyết định market, anh em lưu ý tin đó. ... Còn Bitcoin thì bám theo plan ở đầu livestream mình nói khá kỹ để theo dõi thị trường nhá."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {
+    "huong": "GIAM",
+    "dich": [
+      81500,
+      82500
+    ]
+  },
+  "duong_di": [
+    {
+      "huong": "GIAM",
+      "dich": [
+        81500,
+        82500
+      ]
+    },
+    {
+      "huong": "TANG",
+      "dich": [
+        90000,
+        92000
+      ]
+    }
+  ],
+  "dich_chinh": [
+    90000,
+    92000
+  ],
+  "han_gio": null,
+  "vo_hieu": {
+    "gia": 82000,
+    "khung": "H4",
+    "so_nen": 1,
+    "chieu": "dong_duoi",
+    "cau": "Còn nếu giá đóng cửa dưới 82.000 thì gần như 80 không có ý nghĩa. Cái này cực kỳ quan trọng."
+  },
+  "lenh": [
+    {
+      "chieu": "LONG",
+      "vao": [
+        81500,
+        82500
+      ],
+      "tp": [
+        90000,
+        92000
+      ],
+      "sl": 80500,
+      "trang_thai": "de_xuat_moi"
+    },
+    {
+      "chieu": "LONG",
+      "vao": 85000,
+      "tp": [
+        92000
+      ],
+      "sl": null,
+      "trang_thai": "de_xuat_moi"
+    }
+  ],
+  "hanh_dong": "dung_ngoai_cho_entry",
+  "khung_lon": {
+    "D1": null,
+    "W1": "TANG"
+  },
+  "pha_vo_gia": "Kỳ vọng một pha quét về ~82 (căng nhất là râu ~81) để 'không cho nhiều người lên tàu' rồi bật lên 90; vùng 80 là vùng tâm lý đám đông chờ entry nên nếu market muốn lên sẽ không về 80. Đêm qua giá quét lên 84 lấy stop loss rồi giảm lại.",
+  "trich_them": [
+    {
+      "gio": null,
+      "cau": "Chúng ta đang ở vùng hỗ trợ quan trọng là 82 đến 83.000, và thị trường phản ứng xác nhận quan điểm này rất rõ. Không thể nào vùng 82–83 bị phá vỡ trong một pha đạp ngắn hạn."
+    },
+    {
+      "gio": null,
+      "cau": "Thành thử nếu đánh nhịp xu hướng tăng tiếp thì hiện tại mình vẫn chờ vùng từ khoảng 82.500 [?] đến 81.500. Đây là vùng chủ lực nếu muốn đánh lên."
+    },
+    {
+      "gio": null,
+      "cau": "Nếu nó quay về dưới 80 thì mình nghĩ chỉ là giai đoạn chuyển tiếp giữa cấu trúc sóng tăng và cấu trúc sóng giảm, rồi dần dần phá ra khỏi vùng 76 và đi xuống những vùng thấp hơn, 60 – 65."
+    },
+    {
+      "gio": null,
+      "cau": "H4 vẫn đang bị từ chối và tạo cấu trúc sóng giảm. Nhưng vùng 82 này nếu anh em để ý thì thấy đang có sự nỗ lực rất lớn để giữ giá không bị thủng 82; chắc chắn có lực mua ở đây"
+    },
+    {
+      "gio": null,
+      "cau": "Để confirm nhịp sóng tăng tiếp thì phải trên 84 cho đến 85; lúc đó nó confirm để đi tiếp. Nếu không bắt được ở các vùng dưới hoặc nó không về thì mình sẽ chờ đánh lại trên 85. Thực tế đánh một nhịp từ 85 đến 92 là cũng khá thơm rồi ... Thành ra chúng ta có một vùng gần như là bất động từ 83.000 đến 85.000."
+    },
+    {
+      "gio": null,
+      "cau": "Zone nào có khả năng buy cho nhịp đánh lên thì lúc nãy mình nói rồi; SL đâu đó dưới entry 1500 giá, tức khoảng dưới 81.000 cho đến 80.500. Nếu giá về đến đó và đóng nến H1 trong vùng đó thì không nên giữ vị thế buy nữa."
+    },
+    {
+      "gio": null,
+      "cau": "Các bạn nhìn đáy nó vẫn giữ được cao dần: từ 82.000, đến 82.500 [?], rồi 83.000 [?]. Nó giữ từ từ nhưng chưa biết có giữ được không. Chờ nó phá đầu nào chúng ta tính theo đầu đó."
+    },
+    {
+      "gio": null,
+      "cau": "Còn nếu ra 0.2 thì khả năng tạo đáy quanh vùng hiện tại hoặc 82.500 [?], và sau đó, lợi dụng qua ngày mai đến thứ sáu, thị trường sẽ kéo lên lại những vùng confirm tăng."
+    }
+  ],
+  "kho": "Transcript không có mốc giờ. Ranh giới TANG/PHAN_VAN: người nói có câu 'chờ nó phá đầu nào tính theo đầu đó', 'sideway chờ tin PCE tối nay sẽ quyết định', H4 vẫn cấu trúc giảm và đóng đỏ dưới MA/trendline cuối buổi; nhưng kế hoạch giao dịch BTC chỉ có phía LONG (mua 82.5–81.5, SL dưới 81–80.5 theo H1; hoặc mua trên 85 đánh lên 92), khẳng định 82–83 là hỗ trợ tuần khó phá → ghi TANG độ chắc thấp, chặng kế tiếp là quét xuống ~82. Đích 90–92 suy từ 'bật lên luôn 90' và 'đánh một nhịp từ 85 đến 92'. Bối cảnh vĩ mô người nói vẫn coi là down trend dài hạn.",
+  "nhin_lai_view_truoc": {
+    "view_truoc": "GIAM",
+    "giu_hay_doi": "giu",
+    "vi_sao": "Giữ quan điểm từ đầu tuần: 82-83 là hỗ trợ cứng khung tuần, đã 3 ngày cứ xuống là bật lên (không thể phá trong một pha đạp ngắn hạn); vẫn chờ một pha quét ~82 rồi mới lên — nhất quán với ý 'quét 82' hôm qua",
+    "gio": null,
+    "trich": "Cái vùng giá hiện tại mình không cần nói nhiều nữa vì đã nói rất nhiều lần từ đầu tuần: chúng ta đang ở vùng hỗ trợ quan trọng là 82 đến 83.000, và thị trường phản ứng xác nhận quan điểm này rất rõ. Không thể nào vùng 82–83 bị phá vỡ trong một pha đạp ngắn hạn. Hôm thứ hai nhiều bạn bảo ngủ dậy chắc ngày mai về 80, mình nói là rất khó, không thể qua một đêm mà vùng 82 bị phá vỡ; đến bây giờ là ngày thứ ba rồi (hôm nay thứ tư), vùng 83 và 82 vẫn đỡ giá, cứ xuống thì nó bật lên"
+  },
+  "trendline": [
+    {
+      "khung": "H4",
+      "loai": "ho_tro_tang",
+      "noi_tu": "Trendline trên H4 mà nến H4 cuối buổi đóng dưới (không nêu điểm neo; trước đó ông chỉ ra đáy cao dần 82.000 → 82.500 → 83.000)",
+      "diem_neo": [],
+      "gia_duong_luc_noi": null,
+      "trang_thai": "vua_pha",
+      "dieu_kien_pha": "nến H4 đóng dưới MA và trendline",
+      "ket_luan_huong": null,
+      "gio": null,
+      "trich": "Xem Bitcoin H4 đóng thế nào: vẫn là một cây nến đỏ, đóng dưới MA cộng với trendline. Về bản chất đoạn này thị trường chạy theo Bitcoin. Bitcoin đi tam giác rồi"
+    }
+  ],
+  "nen_volume": [
+    {
+      "khung": "H4",
+      "nen": "H4 bị từ chối, tạo cấu trúc sóng giảm; đêm qua đến sáng liên tục bị bán về dưới MA34 H4; nhưng có nỗ lực rất lớn giữ 82",
+      "volume": null,
+      "ket_luan": "để lên chắc vẫn cần một pha quét ~82; giữ đủ lâu thì phe bán cạn, phe mua lấy lại lợi thế",
+      "gio": null,
+      "trich": "H4 vẫn đang bị từ chối và tạo cấu trúc sóng giảm. Nhưng vùng 82 này nếu anh em để ý thì thấy đang có sự nỗ lực rất lớn để giữ giá không bị thủng 82; chắc chắn có lực mua ở đây"
+    },
+    {
+      "khung": "H4",
+      "nen": "đáy cao dần 82.000 → 82.500 → 83.000",
+      "volume": null,
+      "ket_luan": "giữ từ từ nhưng chưa biết có giữ được; chờ phá đầu nào theo đầu đó",
+      "gio": null,
+      "trich": "Các bạn nhìn đáy nó vẫn giữ được cao dần: từ 82.000, đến 82.500 [?], rồi 83.000 [?]. Nó giữ từ từ nhưng chưa biết có giữ được không."
+    },
+    {
+      "khung": "H1",
+      "nen": "nến H1 đóng trong vùng 81.000-80.500",
+      "volume": null,
+      "ket_luan": "không giữ lệnh buy nữa, cắt",
+      "gio": null,
+      "trich": "SL đâu đó dưới entry 1500 giá, tức khoảng dưới 81.000 cho đến 80.500. Nếu giá về đến đó và đóng nến H1 trong vùng đó thì không nên giữ vị thế buy nữa."
+    },
+    {
+      "khung": null,
+      "nen": "giá vẫn cố trụ quanh 82",
+      "volume": "volume lực bán vẫn rất cao",
+      "ket_luan": "thận trọng với long",
+      "gio": null,
+      "trich": "Xem nến đóng cửa. Đoạn này vẫn cố trụ nhưng volume lực bán vẫn rất cao nhá."
+    },
+    {
+      "khung": "H4",
+      "nen": "giá dằng co, chui về dưới MA34; trước đó đã kẹp MA rồi chạy",
+      "volume": null,
+      "ket_luan": "setup kẹp MA lúc này không chơi nữa",
+      "gio": null,
+      "trich": "Giá đang dằn co ở đoạn này nhưng chui về lại dưới MA34 rồi. Thế kẹp MA đoạn này mình không chơi nữa, vì trước đó nó đã chạy rồi, nó đã kẹp MA rồi, không ăn thua."
+    },
+    {
+      "khung": "H4",
+      "nen": "cây H4 đỏ đóng dưới MA + trendline",
+      "volume": null,
+      "ket_luan": "hôm nay khả năng sideway chờ tin PCE",
+      "gio": null,
+      "trich": "Xem Bitcoin H4 đóng thế nào: vẫn là một cây nến đỏ, đóng dưới MA cộng với trendline. Về bản chất đoạn này thị trường chạy theo Bitcoin. Bitcoin đi tam giác rồi, ETH cũng vậy, những con khác cũng vậy là chuyện bình thường. Hôm nay khả năng sideway chờ tin"
+    }
+  ],
+  "cach_lam": [
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "Bảng Max Pain Coinglass đầu buổi (BTC, ETH, SOL, altcoin)",
+      "ket_qua": "BTC short max pain 84.600, long max pain 82.100; khối lượng 50 triệu / 44 triệu → biên hợp lý",
+      "gio": null,
+      "trich": "Bitcoin 50 triệu với 44 triệu. Trong hai cái này, hai cái biên Bitcoin mình thấy hợp lý đó"
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "dinh_day_cu",
+      "chi_tiet": "Hỗ trợ cứng khung tuần 82-83; vùng base tái tích lũy 76-80",
+      "ket_qua": "đóng dưới 82 thì 80 vô nghĩa, 76-80 chỉ là base tạm, rồi 60-65",
+      "gio": null,
+      "trich": "Đặc biệt khi đã thủng 82.000 thì 80 hay 79 chỉ mang ý nghĩa là vùng base tạm thời, vì trước đó nó đã tái tích lũy"
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "ema",
+      "chi_tiet": "MA34 H4",
+      "ket_qua": "giá quay về dưới MA34 H4",
+      "gio": null,
+      "trich": "Đêm hôm qua cho đến sáng nay liên tục bị bán xuống, quay về dưới đường MA34 trên khung H4."
+    },
+    {
+      "hanh_dong": "ke",
+      "cong_cu": "trendline",
+      "chi_tiet": "Trendline H4",
+      "ket_qua": "nến H4 đỏ đóng dưới trendline + MA",
+      "gio": null,
+      "trich": "vẫn là một cây nến đỏ, đóng dưới MA cộng với trendline."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "heatmap",
+      "chi_tiet": "Heatmap tổng",
+      "ket_qua": "218 triệu (long 120, short 98); dưới ~82.000/81.000; trên nhiều liquid nhưng chưa chắc hit",
+      "gio": null,
+      "trich": "Heatmap: tổng 218 triệu, trong đó long 120 và short 98; dưới này vẫn là 82.000 [?]."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "Fear & Greed; BTC.D, USDT.D",
+      "ket_qua": "F&G 71 (về ~40 mới long an toàn); BTC.D và USDT.D đều kéo lên → không long altcoin",
+      "gio": null,
+      "trich": "Fear & Greed vẫn là 71, vẫn rất xanh. Mình nghĩ chỉ số này về đâu đó khoảng 40 thì mới ổn để long an toàn"
+    }
+  ],
+  "vung_nguoi_do": [
+    {
+      "loai": "khang_cu",
+      "tu": 84600,
+      "den": 84600,
+      "gio": null,
+      "trich": "Short Max Pain của Bitcoin là 84.600 [?]."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 82100,
+      "den": 82100,
+      "gio": null,
+      "trich": "Long Max Pain là 82.100."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 82000,
+      "den": 83000,
+      "gio": null,
+      "trich": "chúng ta đang ở vùng hỗ trợ quan trọng là 82 đến 83.000"
+    },
+    {
+      "loai": "dich",
+      "tu": 82000,
+      "den": 82000,
+      "gio": null,
+      "trich": "khả năng vẫn phải có một pha quét về đâu đó khoảng 82.000 [8200 trong phụ đề]."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 81000,
+      "den": 81000,
+      "gio": null,
+      "trich": "căng nữa thì đẩy một cái râu nến đâu đó khoảng 81.00 [?] thôi, rồi bật lên luôn 90."
+    },
+    {
+      "loai": "dich",
+      "tu": 90000,
+      "den": 90000,
+      "gio": null,
+      "trich": "rồi bật lên luôn 90."
+    },
+    {
+      "loai": "vo_hieu",
+      "tu": 82000,
+      "den": 82000,
+      "gio": null,
+      "trich": "Còn nếu giá đóng cửa dưới 82.000 thì gần như 80 không có ý nghĩa."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 76000,
+      "den": 80000,
+      "gio": null,
+      "trich": "giá sẽ đi sideway, nhìn có vẻ tái tích lũy tiếp ở quanh 76, 79, 80. Nhưng mình không đánh giá vùng này đỡ được nhịp tăng."
+    },
+    {
+      "loai": "dich",
+      "tu": 60000,
+      "den": 65000,
+      "gio": null,
+      "trich": "rồi dần dần phá ra khỏi vùng 76 và đi xuống những vùng thấp hơn, 60 – 65."
+    },
+    {
+      "loai": "vao",
+      "tu": 81500,
+      "den": 82500,
+      "gio": null,
+      "trich": "nếu đánh nhịp xu hướng tăng tiếp thì hiện tại mình vẫn chờ vùng từ khoảng 82.500 [?] đến 81.500. Đây là vùng chủ lực nếu muốn đánh lên."
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 84000,
+      "den": 85000,
+      "gio": null,
+      "trich": "Để confirm nhịp sóng tăng tiếp thì phải trên 84 cho đến 85; lúc đó nó confirm để đi tiếp."
+    },
+    {
+      "loai": "vao",
+      "tu": 85000,
+      "den": 85000,
+      "gio": null,
+      "trich": "Nếu không bắt được ở các vùng dưới hoặc nó không về thì mình sẽ chờ đánh lại trên 85."
+    },
+    {
+      "loai": "tp",
+      "tu": 92000,
+      "den": 92000,
+      "gio": null,
+      "trich": "Thực tế đánh một nhịp từ 85 đến 92 là cũng khá thơm rồi"
+    },
+    {
+      "loai": "sl",
+      "tu": 80500,
+      "den": 81000,
+      "gio": null,
+      "trich": "SL đâu đó dưới entry 1500 giá, tức khoảng dưới 81.000 cho đến 80.500."
+    },
+    {
+      "loai": "sl",
+      "tu": 80500,
+      "den": 81500,
+      "gio": null,
+      "trich": "Long ở quanh 82 thì lúc nãy mình nói: SL trong vùng khoảng 81.500 cho đến 80.500 tùy theo nến H1 đóng cửa."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 82500,
+      "den": 82500,
+      "gio": null,
+      "trich": "Còn nếu ra 0.2 thì khả năng tạo đáy quanh vùng hiện tại hoặc 82.500 [?]"
+    }
+  ],
+  "view_trung_han": [
+    {
+      "khung": "W1",
+      "huong": "TANG",
+      "dich": 90000,
+      "han": null,
+      "mat_view_khi": "giá đóng cửa dưới 82.000 → 80 không còn ý nghĩa; thủng 80 là chuyển tiếp sang cấu trúc giảm, phá 76 về 60-65",
+      "gio": null,
+      "trich": "Khung tuần thì vẫn đẹp và chúng ta đang ở cái cản này. Cái vùng giá hiện tại mình không cần nói nhiều nữa vì đã nói rất nhiều lần từ đầu tuần: chúng ta đang ở vùng hỗ trợ quan trọng là 82 đến 83.000, và thị trường phản ứng xác nhận quan điểm này rất rõ. Không thể nào vùng 82–83 bị phá vỡ trong một pha đạp ngắn hạn. Hôm thứ hai nhiều bạn bảo ngủ dậy chắc ngày mai về 80, mình nói là rất khó, không thể qua một đêm mà vùng 82 bị phá vỡ; đến bây giờ là ngày thứ ba rồi (hôm nay thứ tư), vùng 83 và 82 vẫn đỡ giá, cứ xuống thì nó bật lên. Bởi vì đây là vùng hỗ trợ cứng trên khung tuần, chứ không phải trên những khung nhỏ. Nó trụ là vì thế"
+    },
+    {
+      "khung": "M1",
+      "huong": "GIAM",
+      "dich": null,
+      "han": "down trend có thể tới giữa năm 202x [?]; lãi suất tăng làm trung/dài hạn nguy hiểm",
+      "mat_view_khi": null,
+      "gio": null,
+      "trich": "Bitcoin còn khả năng về 4x0 [?], sắp hết năm down trend rồi [?]. Về hay không thì mình không biết, nhưng khả năng thì mình nghĩ là vẫn còn. Về hay không là việc của thị trường chứ đâu phải việc của anh em mình. Nó về thì đón, không về thì thôi, rất đơn giản đúng không? Biết khi nào hết down trend? Theo plan của mình thì có thể đến giữa năm 202x [?] nó mới hết. Cho nên vội gì?"
+    }
+  ],
+  "vung_tranh": [
+    {
+      "tu": 83000,
+      "den": 85000,
+      "vi_sao": "Vùng gần như bất động: không buy FOMO, không sale đuổi; chờ về 81.5-82.5 hoặc vượt 85 mới đánh",
+      "gio": null,
+      "trich": "Thực tế đánh một nhịp từ 85 đến 92 là cũng khá thơm rồi, cho nên không cần vào một sự rủi ro ở quanh vùng 83–84. Thành ra chúng ta có một vùng gần như là bất động từ 83.000 đến 85.000."
+    },
+    {
+      "tu": null,
+      "den": 80000,
+      "vi_sao": "Khi thủng về dưới 80 (chờ 79 hoặc thấp hơn để long) thì không còn ngon ăn",
+      "gio": null,
+      "trich": "Còn khi nó thủng về dưới 80, chờ 79 hay những vùng dưới này thì mình nghĩ không còn ngon ăn nữa."
+    },
+    {
+      "tu": null,
+      "den": null,
+      "vi_sao": "Không chơi setup kẹp MA H4 lúc này (đã chạy rồi)",
+      "gio": null,
+      "trich": "Thế kẹp MA đoạn này mình không chơi nữa, vì trước đó nó đã chạy rồi, nó đã kẹp MA rồi, không ăn thua."
+    }
+  ],
+  "giu_dong": [
+    {
+      "lenh": "long quanh 81.500-82.500",
+      "quyet_dinh": "dong",
+      "khi_nao": "nếu nến H1 đóng trong vùng 81.500/81.000-80.500 thì cắt (âm ~1000 giá là rẻ), chờ vòng lên lại trên 82 thì vào lại",
+      "gio": null,
+      "trich": "Có thể nó về đây chúng ta cắt, sau đó chờ nó vòng lên lại trên 82 thì vào lại cho chắc kèo. Bởi vì khi nó về đây chưa biết nó sẽ đi đâu, và xác suất nó rơi tiếp 80, rồi 79, 76, 75; thủng 75 lại về tiếp 72, thủng 72 về 69, thủng 69 về 64. Những lần về tiếp dưới này sẽ rất dễ xảy ra nếu vùng này không giữ được. Cho nên khi nó đã quay về lại trong vùng này thì phương án an toàn là rời tàu. Một lỗi rất hay mắc phải là tiếc tiền nên không dám stop loss, cả spot cũng vậy"
+    },
+    {
+      "lenh": "không lệnh khi giá quét 84 đêm qua",
+      "quyet_dinh": "giu",
+      "khi_nao": "thị trường dằng co thì ở ngoài hoặc chờ xác nhận, không buy FOMO, không sale đuổi",
+      "gio": null,
+      "trich": "Đêm hôm qua nó lên đến 84, mình biết là có khả năng nó hồi lên đoạn này nhưng cũng không làm gì hết: không buy FOMO, không sale đuổi khi nó quét stop loss của hôm qua."
+    }
+  ],
+  "tin_tuc": [
+    {
+      "su_kien": "Core PCE",
+      "thoi_diem": "7:30 tối nay",
+      "nguon": "lich_kinh_te",
+      "so_lieu": "dự kiến 0.3, trước 0.2",
+      "anh_huong_view": ">=0.3 xấu cho BTC/vàng; đúng 0.3 thì 70% xấu; >=0.4 'say goodbye'; 0.2 → tạo đáy quanh hiện tại/82.500 rồi kéo lên tới thứ sáu; PCE tối nay quyết định market, hôm nay sideway chờ tin",
+      "gio": null,
+      "trich": "Tối nay dự kiến 0.3, trước đó 0.2. Nếu thực tế ra 0.3 hoặc cao hơn thì xấu: xấu cho thị trường đầu tư, cho Bitcoin, cho vàng. Ra dưới 0.3 mới là tốt, vì dưới 0.3 giúp Fed đỡ áp lực tăng lãi suất ở tháng 10"
+    },
+    {
+      "su_kien": "GDP; NFP",
+      "thoi_diem": "GDP sau PCE; NFP thứ sáu",
+      "nguon": "lich_kinh_te",
+      "so_lieu": null,
+      "anh_huong_view": "chủ yếu là PCE; NFP thứ sáu không cấp thiết",
+      "gio": null,
+      "trich": "Tối nay quan sát chỉ số PCE; sau đó có tin GDP nhưng chủ yếu là PCE. Thứ sáu có tin non-farm, không phải không quan trọng, mà đến thứ sáu mới tin nên không cấp thiết lắm."
+    },
+    {
+      "su_kien": "Tăng lãi suất (Fed)",
+      "thoi_diem": "đợt hiện tại / tháng 10",
+      "nguon": null,
+      "so_lieu": null,
+      "anh_huong_view": "ngắn hạn chỉ phản ứng 1-2 ngày quanh tin; trung/dài hạn nhịp tăng của BTC, vàng luôn gặp nguy hiểm; giá vẫn tăng ngắn hạn vì tay to còn lãi nhiều hơn lãi bank",
+      "gio": null,
+      "trich": "Lãi suất tăng thì thị trường chưa có tốt, nghĩa là: trong dài hạn và trung hạn, các nhịp tăng của tài sản đầu tư đầu cơ như Bitcoin hay vàng luôn gặp nguy hiểm. Đó là tác động về lâu về dài. Trong ngắn hạn nó chỉ phản ứng với tin"
+    },
+    {
+      "su_kien": "Dầu gãy sáng nay (có thể tin ngừng chiến)",
+      "thoi_diem": "sáng nay",
+      "nguon": null,
+      "so_lieu": null,
+      "anh_huong_view": "dầu gãy thì vàng còn lực tăng",
+      "gio": null,
+      "trich": "Dầu sáng nay mới gãy; hôm qua dầu chưa gãy, hôm nay mới gãy, mà dầu gãy cho nên vàng nó sẽ còn tăng đấy."
+    }
+  ],
+  "nghi_van_nhan_v2": null
+}

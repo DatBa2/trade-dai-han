@@ -1,0 +1,346 @@
+{
+  "buoi": "2026-04-27_9oEDyu-IfMM",
+  "ngay": "2026-04-27",
+  "gia_btc_luc_noi": 77000,
+  "moc": [
+    {
+      "gia": 79000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "GIAM",
+      "khung": "W1",
+      "can_cu": [
+        "Fibo 0.5 khung tuần (cản rất cứng)"
+      ],
+      "moc_gio": "00:17:47",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "dừng ngay ở vùng Fibo 0.5 ở vùng 79.000"
+    },
+    {
+      "gia": 83000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "W1",
+      "can_cu": [
+        "chỉ lên được 83 nếu vượt Fibo 0.5 tuần"
+      ],
+      "moc_gio": "00:19:29",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Nếu nó vượt qua được đây thì may ra mới lên được 83"
+    },
+    {
+      "gia": 70000,
+      "gia_tren": 72000,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "W1",
+      "can_cu": [
+        "nếu nến tuần đỏ (bị từ chối ở Fibo 0.5 tuần)"
+      ],
+      "moc_gio": "00:19:29",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Quay đầu về đâu thì tệ lắm cũng phải về 70 72"
+    },
+    {
+      "gia": 89000,
+      "gia_tren": 90000,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "W1",
+      "can_cu": [
+        "nếu lên được thì đánh theo sóng từ 90 lên"
+      ],
+      "moc_gio": "00:21:06",
+      "tai_san": "BTC",
+      "chac": false,
+      "trich": "Nếu nó lên được 8990 thì quá tốt"
+    },
+    {
+      "gia": 75000,
+      "gia_tren": 76000,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [
+        "nến ngày xấu, bị bán liên tục ở Fibo 79"
+      ],
+      "moc_gio": "00:21:38",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "khả năng điều chỉnh về dưới này là cao, 76 75 gì đó"
+    },
+    {
+      "gia": 79000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [
+        "Fibo (nỗ lực 3 ngày không qua)"
+      ],
+      "moc_gio": "00:22:11",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "vùng 79 này chúng ta thấy nỗ lực 3 ngày nhưng không thành công"
+    },
+    {
+      "gia": 80000,
+      "gia_tren": null,
+      "vai_tro": "tp",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "lệnh long buổi sáng"
+      ],
+      "moc_gio": "00:22:43",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Mình chờ TP ở 80.000, thực tế nó lên đến khoảng 79.000 năm thôi"
+    },
+    {
+      "gia": 83000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "đo dữ liệu, tối đa"
+      ],
+      "moc_gio": "00:22:43",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "mình đo dữ liệu thấy có khả năng lên được 83.00 là tối đa"
+    },
+    {
+      "gia": 73000,
+      "gia_tren": 74000,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "MA200 H4 (hỗ trợ cực cứng)"
+      ],
+      "moc_gio": "00:24:20",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "tệ lắm cũng sẽ về MA200 ở loanh quanh 73 74"
+    },
+    {
+      "gia": 72000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "Fibo sâu hơn"
+      ],
+      "moc_gio": "00:24:20",
+      "tai_san": "BTC",
+      "chac": false,
+      "trich": "nó sẽ về Fibo sâu hơn, Fibo chắc 72"
+    },
+    {
+      "gia": 74000,
+      "gia_tren": null,
+      "vai_tro": "entry",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "MA200 H4"
+      ],
+      "moc_gio": "00:25:23",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Loanh quanh vùng 74 MA200 thì mới chắc kèo tí"
+    },
+    {
+      "gia": 76000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "M5",
+      "can_cu": [
+        "vùng đường MA",
+        "gap nhỏ 76.000",
+        "cụm thanh lý 76"
+      ],
+      "moc_gio": "00:26:01",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Nó về 76.000 nếu scalping... anh em đang short thì nên chốt lãi ở quanh vùng này"
+    },
+    {
+      "gia": 76300,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "H1",
+      "can_cu": [
+        "đường MA (hỗ trợ), H1/M30 đóng xuyên thì xấu"
+      ],
+      "moc_gio": "00:31:57",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "chờ về 76.003 xem ra ở đường MA này"
+    },
+    {
+      "gia": 76000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "gap nhỏ 76.000 (khả năng lấp cao)",
+        "cụm thanh lý"
+      ],
+      "moc_gio": "00:28:42",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Bây giờ chúng ta có gap 76, khả năng nó về lấp gap này là cao"
+    },
+    {
+      "gia": 82000,
+      "gia_tren": 83000,
+      "vai_tro": "entry",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [
+        "short khi lên lấp gap 80 + mô hình phân phối H4"
+      ],
+      "moc_gio": "00:26:32",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Mình chờ phải lên 82 83 mình mới short"
+    },
+    {
+      "gia": 80000,
+      "gia_tren": 81000,
+      "vai_tro": "entry",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "gap 80.000 (lấp hai lần) + mô hình phân phối H4"
+      ],
+      "moc_gio": "00:34:02",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Lên 80 81 mà có phân phối mô hình H4 như này là bắt đầu mình short được"
+    },
+    {
+      "gia": 83500,
+      "gia_tren": null,
+      "vai_tro": "entry",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [
+        "short dài"
+      ],
+      "moc_gio": "00:38:24",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "lên 83k5 thì short dài ok hợp lý"
+    },
+    {
+      "gia": 77000,
+      "gia_tren": null,
+      "vai_tro": "vo_hieu",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "H4 đóng trên 77.700 thì còn hope long"
+      ],
+      "moc_gio": "00:46:49",
+      "tai_san": "BTC",
+      "chac": false,
+      "trich": "Nếu H4 đóng được trên 77 7700"
+    },
+    {
+      "gia": 77500,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "quyền chọn options mở nhiều"
+      ],
+      "moc_gio": "00:52:38",
+      "tai_san": "BTC",
+      "chac": false,
+      "trich": "Vùng 775 option được mở ra khá là nhiều"
+    },
+    {
+      "gia": 76000,
+      "gia_tren": null,
+      "vai_tro": "entry",
+      "huong": "TANG",
+      "khung": "M30",
+      "can_cu": [
+        "cụm thanh lý + đường MA M30"
+      ],
+      "moc_gio": "00:53:13",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Nếu muốn long ở 76 các bạn phải nhìn nến 30 phút xem cách phản ứng với đường MA này"
+    },
+    {
+      "gia": 77400,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "GIAM",
+      "khung": "M5",
+      "can_cu": [
+        "Fibo hồi (short M5)"
+      ],
+      "moc_gio": "00:59:16",
+      "tai_san": "BTC",
+      "chac": false,
+      "trich": "Fibo hồi thì lên đến 774"
+    },
+    {
+      "gia": 54000,
+      "gia_tren": null,
+      "vai_tro": "tp",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [
+        "short swing"
+      ],
+      "moc_gio": "01:05:40",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Short swing Bitcoin entry. TP có thể bao nhiêu? Mình nghĩ là 54.000"
+    },
+    {
+      "gia": 70500,
+      "gia_tren": null,
+      "vai_tro": "tp",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [
+        "short swing"
+      ],
+      "moc_gio": "01:05:40",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "TP 70k5"
+    },
+    {
+      "gia": 74000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "MA200 H4"
+      ],
+      "moc_gio": "01:07:20",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Nếu sâu hơn nữa thì MA200 ở 74.000"
+    }
+  ]
+}

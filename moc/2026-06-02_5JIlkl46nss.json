@@ -1,0 +1,239 @@
+{
+  "buoi": "2026-06-02_5JIlkl46nss",
+  "ngay": "2026-06-02",
+  "gia_btc_luc_noi": 71000,
+  "moc": [
+    {
+      "gia": 70500,
+      "gia_tren": null,
+      "vai_tro": "entry",
+      "huong": "TANG",
+      "khung": "M5",
+      "can_cu": [
+        "Fibo backtest M5 (không nói mức)"
+      ],
+      "moc_gio": "00:12:41",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "mình đoán sẽ có một nhịp backtest về lại Fibo. Sẽ có một nhịp về khoảng vùng 70.500 rồi mới hồi lên"
+    },
+    {
+      "gia": 69900,
+      "gia_tren": null,
+      "vai_tro": "sl",
+      "huong": "TANG",
+      "khung": "M5",
+      "can_cu": [
+        "dưới râu nến"
+      ],
+      "moc_gio": "00:13:13",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "SL dưới cái râu này khoảng 69.900 và kéo lên"
+    },
+    {
+      "gia": 75000,
+      "gia_tren": null,
+      "vai_tro": "nhac_lai",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [],
+      "moc_gio": "00:13:45",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Hồi đoạn này theo lực ngày hôm qua mình kỳ vọng lên được 75"
+    },
+    {
+      "gia": 72500,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "vùng cản lớn"
+      ],
+      "moc_gio": "00:13:45",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "trước mắt chúng ta sẽ phải thấy nó lên 72.500 trước. Xem phản ứng của giá ở 72.500... Vùng này sẽ là một vùng cản rất lớn"
+    },
+    {
+      "gia": 78100,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": null,
+      "khung": "D1",
+      "can_cu": [
+        "gap CME"
+      ],
+      "moc_gio": "00:15:23",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Gap thì điểm lại những gap chúng ta đang có. Gap 78k1"
+    },
+    {
+      "gia": 73000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": null,
+      "khung": "H1",
+      "can_cu": [
+        "gap CME nhỏ hôm qua"
+      ],
+      "moc_gio": "00:15:23",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Gap nhỏ hôm qua 73"
+    },
+    {
+      "gia": 75000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": null,
+      "khung": "D1",
+      "can_cu": [
+        "gap CME"
+      ],
+      "moc_gio": "00:15:23",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Gap 75 này vẫn có... Gap trên thì chúng ta có 75, 78, 83 và 90"
+    },
+    {
+      "gia": 83000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": null,
+      "khung": "D1",
+      "can_cu": [
+        "gap CME"
+      ],
+      "moc_gio": "00:16:01",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Gap trên thì chúng ta có 75, 78, 83 và 90"
+    },
+    {
+      "gia": 90000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": null,
+      "khung": "D1",
+      "can_cu": [
+        "gap CME"
+      ],
+      "moc_gio": "00:16:01",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Gap trên thì chúng ta có 75, 78, 83 và 90"
+    },
+    {
+      "gia": 71000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": null,
+      "khung": "D1",
+      "can_cu": [
+        "gap CME"
+      ],
+      "moc_gio": "00:15:23",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Góc dưới là có 71, 69, 70 với lại 67"
+    },
+    {
+      "gia": 69000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": null,
+      "khung": "D1",
+      "can_cu": [
+        "gap CME"
+      ],
+      "moc_gio": "00:15:23",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Góc dưới là có 71, 69, 70 với lại 67"
+    },
+    {
+      "gia": 70000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": null,
+      "khung": "D1",
+      "can_cu": [
+        "gap CME"
+      ],
+      "moc_gio": "00:16:01",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "70 với 67"
+    },
+    {
+      "gia": 67000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": null,
+      "khung": "D1",
+      "can_cu": [
+        "gap CME"
+      ],
+      "moc_gio": "00:16:01",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "70 với 67"
+    },
+    {
+      "gia": 72300,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": null,
+      "khung": "H1",
+      "can_cu": [
+        "cụm thanh lý phía trên"
+      ],
+      "moc_gio": "00:18:47",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Bây giờ chỉ còn những vùng trên như 72.300 thôi"
+    },
+    {
+      "gia": 72000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [],
+      "moc_gio": "00:30:51",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Bitcoin trước mắt mình nghĩ chắc hồi lên khoảng 72"
+    },
+    {
+      "gia": 68000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [
+        "gap CME 68-70"
+      ],
+      "moc_gio": "00:44:01",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Về 68 là chuyện đơn giản... 68 như thế này nó có gap nữa. Gap 70 này"
+    },
+    {
+      "gia": 66000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [],
+      "moc_gio": "00:44:01",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "70 này không có cái gì gọi là cứng hết. 66 này mới cứng"
+    }
+  ]
+}

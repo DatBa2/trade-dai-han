@@ -1,0 +1,49 @@
+{
+  "buoi": "2026-07-24_7D1Ve5hs4bU",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/zip_clean/2026-07-24_7D1Ve5hs4bU.txt",
+  "gia_btc_luc_noi": 65400,
+  "dau_buoi": {
+    "thien_huong_h4": "TANG",
+    "gio": "[00:22:27]",
+    "trich": "mặc dù chúng ta có một cái cây nến ngày rất là xấu nhưng mà theo cá nhân mình đánh giá vẫn là một cái nhịp điều chỉnh trong một cái xu hướng tăng mà thôi."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "TANG",
+    "do_chac": "vua",
+    "gio": "[00:59:59]",
+    "trich": "H4 này đóng rồi. H4 này đóng như này rất đẹp rồi. [01:00:32] View vùng các thứ cũng chừng đó thôi. Cùng lắm an toàn. Anh em cứ chờ thằng BTC này về đâu đó là 64.000 ... [01:02:47] Cố gắng giữ những view này, cố gắng bám thị trường. Những view này có thể áp dụng từ giờ đến khi mình livestream lại đầu tuần sau."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {"huong": "TANG", "dich": 68000},
+  "duong_di": [
+    {"huong": "TANG", "dich": 68000},
+    {"huong": "TANG", "dich": 72000}
+  ],
+  "dich_chinh": 68000,
+  "han_gio": 144,
+  "vo_hieu": {
+    "gia": 63000,
+    "khung": "H4",
+    "so_nen": 1,
+    "chieu": "dong_duoi",
+    "cau": "Tầm này mà muốn kết thúc cái xu hướng dài, cái nhịp phục hồi này thì mình nghĩ là giá nó cũng sẽ phải về dưới cái vùng đâu đó 63 hoặc 62 64 gì đó. Tệ cũng phải 62 nghìn mấy thì mới gọi là kết thúc được cái xu hướng phục hồi này."
+  },
+  "lenh": [
+    {"chieu": "LONG", "vao": null, "tp": [68000], "sl": null, "trang_thai": "dang_giu"},
+    {"chieu": "LONG", "vao": 64000, "tp": [65000], "sl": null, "trang_thai": "de_xuat_moi"}
+  ],
+  "hanh_dong": "giu_lenh",
+  "khung_lon": {"D1": "TANG", "W1": null},
+  "pha_vo_gia": "Cây D1 xấu dạng hai đỉnh 'rất là nhiều ông đi vào short ... nhìn thì thơm cho nên cái nào mà nhìn có vẻ thơm thì cũng phải nghi ngờ' (bẫy short); 68.000 là vùng stop loss short swing rất lớn. Lệnh long buổi sáng bị quét SL rồi giá đi lên lại. Cuối buổi lưu ý 'Có đôi khi nó quét lên đây sau đó nó gãy xuống'.",
+  "trich_them": [
+    {"gio": "[00:25:10]", "cau": "68.000 này thì mình nghĩ là nó sẽ là một cái target để cho giá đoạn này nó đi lên. Ngay ở cái vùng này thì nếu mà đánh long thì cái target của mình sẽ là quanh cái vùng [00:25:43] 68 này trước. Khi mà nó đóng H4 mà vượt qua được 68.000 và qua được cái đường màu xanh này thì gần như cái xác suất đâu đó phải trên 70% nó sẽ kéo lên 72."},
+    {"gio": "[00:27:20]", "cau": "Đó là đối với H4 và cái view này mình nghĩ là cái view này chúng ta sẽ [00:27:51] dùng đến ngày 30 tháng 7."},
+    {"gio": "[00:28:25]", "cau": "Mình đoán là từ giờ đến đó giá nó sẽ lên 72. Có thể nó gãy về 64 63 gì mình không biết nhưng mình đoán từ giờ đến đó nó sẽ kéo lên 72 rồi sau đó mới rớt. Sau tin lãi suất của FED thì lúc đó thị trường nó sẽ hết động lực để nó tăng."},
+    {"gio": "[00:31:35]", "cau": "Nhịp lúc nãy là cái nhịp breakout và về retest rất là đẹp. Bây giờ chúng ta có vị thế ở dưới này. Chúng ta cứ cầm long giữ lên trên này tính sau. Con kia quét stop loss và bây giờ nó đi lên lại entry thì chấp nhận thôi."},
+    {"gio": "[00:32:06]", "cau": "Thì tức là xu hướng hiện tại vẫn ưu tiên là xu hướng đi lên. Các cái nhịp đi xuống như thế này đều là những cái nhịp điều chỉnh."},
+    {"gio": "[00:34:53]", "cau": "64.000 là một cái vùng rất là dễ về. Trong cái view của mình thì mình cũng có cái góc độ là chờ nó về đến 64.000. ... [00:35:58] Nhưng mà xác suất nó khớp được hay không thì mình đánh giá là 50/50."},
+    {"gio": "[00:58:50]", "cau": "Nhưng ví dụ khoảng 4 5 hôm nữa mà thấy nó vẫn cứ mãi ở đây, nó có rướn những cái râu lên đây sau đó vẫn bị bán xuống, rướn lên 68 vẫn bị bán xuống thì sau đó chúng ta sẽ biết khả năng là nó nỗ lực nhưng chịu rồi."}
+  ],
+  "kho": "Đích 68 là target chắc; 72 có điều kiện (H4 đóng trên 68) và là 'đoán mò' tới ngày FED 30/7, sau FED đoán rớt. Lệnh long đang giữ không nêu giá vào. Câu cuối 'buy thì chốt lãi ở quanh vùng 6500' — đọc là 65.000 nhưng không chắc. W1 không phân tích trực tiếp (chỉ nói Total1 'vẫn cần thêm một cú nữa'). Giá lúc nói lấy từ ví dụ 'giá market đang là 65.392'."
+}

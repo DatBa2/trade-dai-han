@@ -1,0 +1,415 @@
+{
+  "buoi": "2026-09-25_1014_Wf7PeLs6l94",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/lam_sach/2026-09-25_1014_Wf7PeLs6l94.md",
+  "gia_btc_luc_noi": 84500,
+  "dau_buoi": {
+    "thien_huong_h4": "GIAM",
+    "gio": null,
+    "trich": "H4 đóng cấu trúc vẫn giữ nhịp sóng tăng, đỉnh đáy vẫn cao và giữ được trên đường. Nếu bây giờ đánh sale xuống thì ngược xu hướng H4; còn bay lên thì mình thấy vẫn hơi rủi ro đối với khung ngày và tin tức. Tốt nhất mình chờ một nhịp nó lên test lại Fibo 50 trong đoạn hồi này. ... Khả năng đoạn này dễ đi dụ sale, sau đó quét lên lại 85.300 [?] thì mới đẹp"
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "GIAM",
+    "do_chac": "thap",
+    "gio": null,
+    "trich": "Lần này mình rất muốn đánh xuống rồi nhưng thôi kiên nhẫn chờ nó lên 85 rồi tính."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {
+    "huong": "TANG",
+    "dich": [
+      85000,
+      85300
+    ]
+  },
+  "duong_di": [
+    {
+      "huong": "TANG",
+      "dich": [
+        85000,
+        85300
+      ]
+    },
+    {
+      "huong": "GIAM",
+      "dich": [
+        82000,
+        82500
+      ]
+    }
+  ],
+  "dich_chinh": [
+    82000,
+    82500
+  ],
+  "han_gio": 96,
+  "vo_hieu": {
+    "gia": 86000,
+    "khung": "H4",
+    "so_nen": 1,
+    "chieu": "dong_tren",
+    "cau": "Kháng cự ngắn hạn: từ 85 đến 86. Lên đó sẽ gặp áp lực có khả năng bị bán xuống; nếu vượt qua được kháng cự thì có xác suất đi lên."
+  },
+  "lenh": [
+    {
+      "chieu": "SHORT",
+      "vao": [
+        85000,
+        85300
+      ],
+      "tp": [
+        83000,
+        82000
+      ],
+      "sl": null,
+      "trang_thai": "de_xuat_moi"
+    },
+    {
+      "chieu": "SHORT",
+      "vao": null,
+      "tp": [
+        83300
+      ],
+      "sl": null,
+      "trang_thai": "da_dong"
+    }
+  ],
+  "hanh_dong": "dung_ngoai_cho_entry",
+  "khung_lon": {
+    "D1": "GIAM",
+    "W1": "GIAM"
+  },
+  "pha_vo_gia": "Cây nến ngày rút chân 'rất dễ trap' nếu đọc là bullish; khung nhỏ 'dễ đi dụ sale' trước khi quét lên 85.300; vùng hiện tại 'đang dụ 80% ông nghĩ nhịp này 90 chắc kèo'.",
+  "trich_them": [
+    {
+      "gio": null,
+      "cau": "Hôm qua chúng ta ăn một nhịp, dự đoán đúng giảm về đâu đó khoảng 83 và chốt ở 83.300 gì đó [?]. Mình chờ nó về TP V2 đến 82.000 nhưng không thành, hôm nay chờ tiếp."
+    },
+    {
+      "gio": null,
+      "cau": "Mình nghĩ thị trường vẫn nên quét một cái râu đâu đó về 82.300, 82.400 gì đó là đẹp. Quét về râu dưới thì chúng ta dễ chơi hơn; còn nó cứ đứng lưng chừng như thế này thì hơi rén."
+    },
+    {
+      "gio": null,
+      "cau": "Hỗ trợ: nếu tụt xuống dưới 84 thì mình nghĩ sẽ về test đâu đó khoảng 82.500 [?] cho đến 82.000, đẹp nhất là về test vùng từ 82 đến 83. Về đây có khả năng được đỡ và đi lên lại; còn nếu thủng hỗ trợ thì có khả năng bị bán xuống tiếp, về dưới vùng 80."
+    },
+    {
+      "gio": null,
+      "cau": "Ví dụ hiện tại nếu giá lên 85.300 [?] rồi quét một phát, anh em mình vào đây (sale) là quá hợp lý, vì nó chỉ không lên mà cắm đầu xuống thôi."
+    },
+    {
+      "gio": null,
+      "cau": "Để quay lại chiến trường với mục tiêu đi lên 90 thì đầu tiên phải qua được 86, phá được 87, rồi tiếp tục chinh phục 90."
+    },
+    {
+      "gio": null,
+      "cau": "Chưa chọn lane được, cứ ngồi chờ thêm xem team bên kia đi lane nào, chọn tướng nào rồi mình chọn tướng phù hợp để đánh sau."
+    },
+    {
+      "gio": null,
+      "cau": "Mình chỉ biết bây giờ vẫn down trend. Quan điểm của mình bây giờ vẫn trong down trend."
+    },
+    {
+      "gio": null,
+      "cau": "Còn lại Bitcoin thì cứ bám theo view lúc đầu livestream, chúng ta follow theo đó. View này khả năng anh em dùng được đến cuối tuần, đến thứ hai chúng ta gặp lại mình sẽ phân tích lại thị trường."
+    }
+  ],
+  "kho": "Transcript không có mốc giờ. Người nói thừa nhận H4 vẫn giữ cấu trúc tăng (bán là ngược H4) và 'chưa chọn lane được', nhưng nghiêng rõ ý muốn short ở 85–85.3 và kỳ vọng quét râu về 82.3–82.4 → GIAM độ chắc thấp. Giá lúc nói không nêu thẳng, ước ~84.5k (đêm qua quét lên 84–85, 'đứng lưng chừng'). W1 GIAM theo câu 'vẫn down trend' (xu hướng lớn), không phải phân tích nến tuần. han_gio 96 = view dùng đến thứ hai.",
+  "nhin_lai_view_truoc": {
+    "view_truoc": "GIAM",
+    "giu_hay_doi": "giu",
+    "vi_sao": "Hôm qua dự đoán đúng giảm về ~83 và đã chốt 83.3k; TP2 82k chưa tới nên chờ tiếp. Tối qua giá quét lên 84-85 nhưng nến ngày rút chân bị coi là dễ trap; H4 còn cấu trúc tăng nên chưa sale ngay mà chờ hồi lên Fibo 50 (~85.3k) để short.",
+    "gio": null,
+    "trich": "Hôm qua chúng ta ăn một nhịp, dự đoán đúng giảm về đâu đó khoảng 83 và chốt ở 83.300 gì đó [?]. Mình chờ nó về TP V2 đến 82.000 nhưng không thành, hôm nay chờ tiếp."
+  },
+  "trendline": [],
+  "nen_volume": [
+    {
+      "khung": "D1",
+      "nen": "Cây nến ngày rút chân (lực mua nhìn có vẻ tốt)",
+      "volume": null,
+      "ket_luan": "Đọc là bullish thì rủi ro rất cao — loại nến này rất dễ trap.",
+      "gio": null,
+      "trich": "Bây giờ ở đây có một cây nến ngày; nếu anh em nhìn là nến rút chân, lực mua tốt để bullish đi lên thì mình nghĩ rủi ro rất cao. Thông thường những cây nến như thế này không biểu hiện được nhiều mà đa phần rất dễ trap"
+    },
+    {
+      "khung": "H4",
+      "nen": "H4 đóng vẫn giữ cấu trúc sóng tăng, đỉnh-đáy cao, giữ trên đường",
+      "volume": null,
+      "ket_luan": "Sale lúc này là ngược H4; chờ hồi test Fibo 50 / quét 85.3k rồi đóng vài cây H4 mới short.",
+      "gio": null,
+      "trich": "H4 đóng cấu trúc vẫn giữ nhịp sóng tăng, đỉnh đáy vẫn cao và giữ được trên đường. Nếu bây giờ đánh sale xuống thì ngược xu hướng H4"
+    },
+    {
+      "khung": "H1",
+      "nen": "H1 vừa đóng một cây đỏ rất xấu, đâm xuyên hai đường MA, cùng hai đỉnh",
+      "volume": null,
+      "ket_luan": "Cản ở vùng này không nhỏ; không có vai đầu vai ngược, chỉ là pullback lấy thanh khoản.",
+      "gio": null,
+      "trich": "H1 vừa đóng một cây đỏ rất xấu, đâm xuyên xuống hai đường MA cộng hai đỉnh tạo ở vùng này, nên cản ở đoạn này cũng không nhỏ."
+    },
+    {
+      "khung": null,
+      "nen": "Nhịp hồi từ 83 lên nhanh",
+      "volume": "Vốn ngắn hạn + đòn bẩy lớn đi lấy thanh khoản; volume hiện rất ít; đám thanh khoản đòn bẩy lớn biên hẹp mới mở",
+      "ket_luan": "Quét xong hồi lẹ rồi nhả lực; có thể quét 85-85.6k; FOMO rủi ro.",
+      "gio": null,
+      "trich": "Vốn đắp vào đây là vốn ngắn hạn cộng đòn bẩy lớn để đi lấy thanh khoản, nên quét xong nó hồi rất lẹ, cộng với vào phiên Mỹ nữa. Sau đó nó nhả lực về lại cho thị trường."
+    },
+    {
+      "khung": "H4",
+      "nen": "H4 đóng nhưng không rõ ràng",
+      "volume": null,
+      "ket_luan": "Rất muốn short nhưng kiên nhẫn chờ lên 85.",
+      "gio": null,
+      "trich": "Hỏi: H4 đóng nhưng không rõ ràng lắm. Lần này mình rất muốn đánh xuống rồi nhưng thôi kiên nhẫn chờ nó lên 85 rồi tính."
+    }
+  ],
+  "cach_lam": [
+    {
+      "hanh_dong": "do",
+      "cong_cu": "fibo_thoai_lui",
+      "chi_tiet": "Fibo 50 của đoạn hồi",
+      "ket_qua": "Chờ test ~85.300 để short",
+      "gio": null,
+      "trich": "Tốt nhất mình chờ một nhịp nó lên test lại Fibo 50 trong đoạn hồi này... sau đó quét lên lại 85.300 [?] thì mới đẹp"
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "dinh_day_cu",
+      "chi_tiet": "Hai vùng cần nhớ đến hết tuần",
+      "ket_qua": "Kháng cự ngắn hạn 85-86; hỗ trợ 82-83 (dưới 84 về test 82-82.5); thủng → dưới 80; lên 90 cần qua 86, phá 87",
+      "gio": null,
+      "trich": "Kháng cự ngắn hạn: từ 85 đến 86... Hỗ trợ: nếu tụt xuống dưới 84 thì mình nghĩ sẽ về test đâu đó khoảng 82.500 [?] cho đến 82.000, đẹp nhất là về test vùng từ 82 đến 83."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "ema",
+      "chi_tiet": "MA hỗ trợ nhịp từ 83; MA89",
+      "ket_qua": "Có thể quét râu 81.5k; buồn thì về MA89 (chưa cần view)",
+      "gio": null,
+      "trich": "Kéo dần dần thì chắc cũng quét râu về được 81.500 [?]. Nếu buồn buồn nó quét về MA89 nhưng đó là nói thêm, hiện tại chưa cần view đến đây."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "Option đáo hạn (Deribit), max pain trên Coinglass",
+      "ket_qua": "Max pain 7x (~73k-78k), notional 15,1 tỷ đô; chỉ là cảnh báo rủi ro thanh khoản",
+      "gio": null,
+      "trich": "Max pain không có vùng giá chính xác: mình đọc thông tin thì thấy khoảng 73.000 (ước tính, không chính xác), trên trang thì thể hiện loanh quanh 78.000. Nói chung max pain đang là 7x. National value 15,1 tỷ đô"
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "Dòng tiền ETF",
+      "ket_qua": "5 phiên gom 2,65 tỷ; lực gom sắp yếu dần",
+      "gio": null,
+      "trich": "Tổng năm phiên vừa rồi là 2,65 tỷ đô, khối lượng cực kỳ lớn. Nhưng đã gom nhiều như vậy, cộng với giá bay như vậy, thì khả năng giai đoạn tới dòng tiền ETF sẽ giảm"
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "heatmap",
+      "chi_tiet": "Coinglass liquidation + bản đồ thanh khoản",
+      "ket_qua": "Thanh lý ~300-350/ngày; đội đòn bẩy lớn vào lại; có thể quét 85k-85.6k",
+      "gio": null,
+      "trich": "Trong đám thanh lý vàng nhiều như vậy, các bạn để ý nó sẽ được mở ra trong ngắn hạn. Ví dụ nó có thể quét lên 85k hoặc 85k6."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "BTC.D, USDT.D, Total 2/3",
+      "ket_qua": "USDT.D xu hướng tăng confirm, vượt 6.5 là khoai; Total 2/3 xấu hơn Total 1",
+      "gio": null,
+      "trich": "USDT.D... xu hướng tăng của nó đang được confirm khá rõ... Đoạn này may ra chạy được mô hình cờ rồi giảm tiếp thì anh em sẽ có 90.000; còn nếu nó vượt lên trên mức 6.5 thì bắt đầu là khoai."
+    }
+  ],
+  "vung_nguoi_do": [
+    {
+      "loai": "tp",
+      "tu": 83300,
+      "den": 83300,
+      "gio": null,
+      "trich": "dự đoán đúng giảm về đâu đó khoảng 83 và chốt ở 83.300 gì đó [?]."
+    },
+    {
+      "loai": "tp",
+      "tu": 82000,
+      "den": 82000,
+      "gio": null,
+      "trich": "Mình chờ nó về TP V2 đến 82.000 nhưng không thành, hôm nay chờ tiếp."
+    },
+    {
+      "loai": "vao",
+      "tu": 85300,
+      "den": 85300,
+      "gio": null,
+      "trich": "Ví dụ hiện tại nếu giá lên 85.300 [?] rồi quét một phát, anh em mình vào đây (sale) là quá hợp lý"
+    },
+    {
+      "loai": "dich",
+      "tu": 82300,
+      "den": 82400,
+      "gio": null,
+      "trich": "Mình nghĩ thị trường vẫn nên quét một cái râu đâu đó về 82.300, 82.400 gì đó là đẹp."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 82000,
+      "den": 83000,
+      "gio": null,
+      "trich": "Tuy vậy mọi người vẫn nhớ vùng hỗ trợ của chúng ta vẫn là 83 đến 82. Hôm qua nó về 83 này là bật lên."
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 85000,
+      "den": 86000,
+      "gio": null,
+      "trich": "Kháng cự ngắn hạn: từ 85 đến 86. Lên đó sẽ gặp áp lực có khả năng bị bán xuống"
+    },
+    {
+      "loai": "vo_hieu",
+      "tu": 86000,
+      "den": 86000,
+      "gio": null,
+      "trich": "nếu vượt qua được kháng cự thì có xác suất đi lên... đầu tiên phải qua được 86, phá được 87, rồi tiếp tục chinh phục 90."
+    },
+    {
+      "loai": "dich",
+      "tu": 90000,
+      "den": 90000,
+      "gio": null,
+      "trich": "Để quay lại chiến trường với mục tiêu đi lên 90 thì đầu tiên phải qua được 86, phá được 87, rồi tiếp tục chinh phục 90."
+    },
+    {
+      "loai": "dich",
+      "tu": 82000,
+      "den": 82500,
+      "gio": null,
+      "trich": "nếu tụt xuống dưới 84 thì mình nghĩ sẽ về test đâu đó khoảng 82.500 [?] cho đến 82.000"
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 80000,
+      "den": 80000,
+      "gio": null,
+      "trich": "còn nếu thủng hỗ trợ thì có khả năng bị bán xuống tiếp, về dưới vùng 80."
+    },
+    {
+      "loai": "dich",
+      "tu": 81500,
+      "den": 81500,
+      "gio": null,
+      "trich": "Kéo dần dần thì chắc cũng quét râu về được 81.500 [?]."
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 85000,
+      "den": 85600,
+      "gio": null,
+      "trich": "Ví dụ nó có thể quét lên 85k hoặc 85k6."
+    }
+  ],
+  "view_trung_han": [
+    {
+      "khung": "D1",
+      "huong": "GIAM",
+      "dich": [
+        82000,
+        83000
+      ],
+      "han": "hôm nay đến hết tuần (view dùng đến thứ hai)",
+      "mat_view_khi": "Vượt kháng cự 85-86 thì có xác suất đi lên; qua 86, phá 87 → 90",
+      "gio": null,
+      "trich": "Tóm lại view trong ngày hôm nay và cho đến hết tuần, anh em chỉ cần nhớ hai vùng"
+    },
+    {
+      "khung": "W1",
+      "huong": "GIAM",
+      "dich": null,
+      "han": null,
+      "mat_view_khi": null,
+      "gio": null,
+      "trich": "Mình chỉ biết bây giờ vẫn down trend. Quan điểm của mình bây giờ vẫn trong down trend. Anh em nào bảo up trend thì mình cũng muốn tin lắm nhưng chưa thấy đủ sự thuyết phục."
+    }
+  ],
+  "vung_tranh": [
+    {
+      "tu": 84000,
+      "den": 85000,
+      "vi_sao": "Đứng lưng chừng: sale là ngược H4, bay thì rủi ro với khung ngày và tin; đứng ngoài 12 tiếng chưa có vị thế",
+      "gio": null,
+      "trich": "Còn vùng này mình thấy hơi rủi ro, nên cá nhân mình đứng ngoài quan sát. Đó là lý do từ đêm qua đến giờ 12 tiếng mình chưa có vị thế nào."
+    }
+  ],
+  "giu_dong": [
+    {
+      "lenh": "SHORT hôm qua",
+      "quyet_dinh": "dong",
+      "khi_nao": "Chốt ở ~83.3k (TP1); TP2 82k không tới; từ đêm qua không còn vị thế",
+      "gio": null,
+      "trich": "Hôm qua chúng ta ăn một nhịp, dự đoán đúng giảm về đâu đó khoảng 83 và chốt ở 83.300 gì đó [?]."
+    },
+    {
+      "lenh": "SHORT mới",
+      "quyet_dinh": "giu",
+      "khi_nao": "Chưa vào; kiên nhẫn chờ lên 85-85.3k quét rồi mới đánh xuống",
+      "gio": null,
+      "trich": "Lần này mình rất muốn đánh xuống rồi nhưng thôi kiên nhẫn chờ nó lên 85 rồi tính."
+    },
+    {
+      "lenh": "Vị thế long/spot",
+      "quyet_dinh": "dong",
+      "khi_nao": "Giá xa MA hay quay về test; nếu trôi về dưới 80 thì khả năng phải out cao",
+      "gio": null,
+      "trich": "Về bản chất mình vẫn quan điểm cũ thôi: cái nào xa MA thì vẫn muốn quay về test. Test ở đây mà trôi về lại trong khung dưới 80 thì khả năng phải out cao."
+    }
+  ],
+  "tin_tuc": [
+    {
+      "su_kien": "Sàn Bitget bị hack",
+      "thoi_diem": "sáng nay",
+      "nguon": "bao",
+      "so_lieu": "325-351,6 triệu đô; quỹ bảo hiểm >464 triệu",
+      "anh_huong_view": "Không quá căng nhưng nhạy cảm — 'đặc sản' mùa down trend; cần thận trọng, có kế hoạch phòng thủ",
+      "gio": null,
+      "trich": "Sáng nay có tin sàn Bitget bị hack khoảng 325 triệu đô (sau nói 351,6 triệu đô)... Tuy nhiên xét về mặt tin tức thì chuyện bị hack ở thời điểm này khá nhạy cảm, anh em cần thận trọng"
+    },
+    {
+      "su_kien": "Đáo hạn option (Deribit) + hợp đồng quý",
+      "thoi_diem": "25/9 và 26/9",
+      "nguon": "khac",
+      "so_lieu": "Max pain ~73k-78k (7x); notional 15,1 tỷ đô",
+      "anh_huong_view": "Thanh khoản bị ảnh hưởng, có thể quét hai đầu, không loại trừ nhịp bán tiếp; chỉ là cảnh báo rủi ro, không phải tín hiệu",
+      "gio": null,
+      "trich": "Những ý này ảnh hưởng thanh khoản, nên trong ngày hôm nay thị trường sẽ có biến động nhất định, có khả năng quét hai đầu, và không loại trừ xác suất có những nhịp bán xuống tiếp, mặc dù giá đóng trên H4 vẫn rất đẹp."
+    },
+    {
+      "su_kien": "Dòng tiền ETF",
+      "thoi_diem": "5 phiên gần nhất",
+      "nguon": "khac",
+      "so_lieu": "Hai ngày trước >1 tỷ, hôm qua 300-350 triệu, tổng 5 phiên 2,65 tỷ",
+      "anh_huong_view": "Lực gom ETF sắp yếu dần (không phải rút ra)",
+      "gio": null,
+      "trich": "Hai ngày trước ETF gom khoảng hơn 1 tỷ đô. Ngày hôm qua thị trường điều chỉnh nhưng ETF vẫn dương, gom khoảng 300-350 triệu... Tổng năm phiên vừa rồi là 2,65 tỷ đô"
+    },
+    {
+      "su_kien": "Fear & Greed + thanh lý",
+      "thoi_diem": "hôm nay",
+      "nguon": "khac",
+      "so_lieu": "F&G 71; thanh lý ~300-350/ngày",
+      "anh_huong_view": "Vẫn hưng phấn; quét hai đầu",
+      "gio": null,
+      "trich": "Chỉ số Fear & Greed vẫn hưng phấn, 71 điểm... Coinglass liquidation: thanh lý khoảng 300, ngày nào cũng khoảng 300-350"
+    },
+    {
+      "su_kien": "Mỹ hội nghị, gặp Tập Cận Bình; chính sách dầu",
+      "thoi_diem": "đêm qua",
+      "nguon": "bao",
+      "so_lieu": null,
+      "anh_huong_view": "Dầu US yếu; dầu tăng thì vàng giảm; Mỹ ép nguồn cung dầu",
+      "gio": null,
+      "trich": "Dầu US yếu hơn, khả năng do Mỹ đang tổ chức hội nghị, cộng với gặp chủ tịch Tập Cận Bình."
+    }
+  ],
+  "nghi_van_nhan_v2": null
+}

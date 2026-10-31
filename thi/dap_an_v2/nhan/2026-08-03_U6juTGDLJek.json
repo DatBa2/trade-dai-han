@@ -1,0 +1,44 @@
+{
+  "buoi": "2026-08-03_U6juTGDLJek",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/zip_clean/2026-08-03_U6juTGDLJek.txt",
+  "gia_btc_luc_noi": 63000,
+  "dau_buoi": {
+    "thien_huong_h4": "GIAM",
+    "gio": "[00:23:04]",
+    "trich": "Khung ngày giá nó vẫn tiếp tục tạo một xu hướng đi xuống, đáy sau thấp hơn đáy trước và phá vỡ những vùng hỗ trợ ... Thế thì chúng ta không có lý do gì để view lên đoạn này hết, cho dù nó lên cũng chủ yếu để tìm điểm để đánh xuống thôi."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "GIAM",
+    "do_chac": "cao",
+    "gio": "[01:00:45]",
+    "trich": "H4 đóng như vậy rồi thì plan vẫn giữ nguyên thôi. Các bạn đóng cây H4 này quá tươi. Đóng cây này nằm ở ngay dưới đường MA này. Bây giờ đối với các anh em nào không có lệnh thì có thể chờ hồi lên vùng 63.000 này. Tối thiểu là các bạn sẽ phải chờ 63.100 đến 63.000."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {"huong": "GIAM", "dich": [60000, 60700]},
+  "duong_di": [
+    {"huong": "GIAM", "dich": [60000, 60700]}
+  ],
+  "dich_chinh": [60000, 60700],
+  "han_gio": null,
+  "vo_hieu": null,
+  "lenh": [
+    {"chieu": "SHORT", "vao": null, "tp": [60000], "sl": null, "trang_thai": "dang_giu"},
+    {"chieu": "SHORT", "vao": [63000, 63100], "tp": [60000], "sl": null, "trang_thai": "de_xuat_moi"}
+  ],
+  "hanh_dong": "giu_lenh",
+  "khung_lon": {"D1": "GIAM", "W1": "GIAM"},
+  "pha_vo_gia": "Cảnh báo thứ Hai hay 'kéo bố láo để trap'; nếu quét lên ~64.000 lấy liquid trước khi gãy thì đừng hoang mang (vẫn là nhịp hồi rồi rớt tiếp).",
+  "trich_them": [
+    {"gio": "[00:22:32]", "cau": "Đóng cây nến tuần nhấn chìm luôn cả hai tuần ba tuần nỗ lực tăng trước đó ... Cho nên đây là lý do vì sao hôm qua mình cho anh em sell. Hôm qua mình đã dự đoán được cây nến tuần này khả năng là đỏ rồi."},
+    {"gio": "[00:23:36]", "cau": "Đối với xu hướng của thị trường trong trước mắt là trong tuần này mình thấy rất xấu thì chúng ta tạm thời bỏ qua những view đánh lên, tập trung vào những view đánh xuống là thuận xu hướng thị trường thôi."},
+    {"gio": "[00:25:16]", "cau": "Và nhịp này thì hiện tại xu hướng này chúng ta không thể nào đánh long được, cho dù anh em có view cỡ nào đi nữa thì mình cũng không thấy bất kỳ dấu hiệu nào để chúng ta đánh long."},
+    {"gio": "[00:25:47]", "cau": "Nhịp này thì trước mắt là mình view giá nó có khả năng về test lại vùng 60.000 này."},
+    {"gio": "[00:26:48]", "cau": "ở đây mà nó đừng thủng đoạn này và nó đi lên tiếp thì khả năng lên được 64.000 thì cũng coi như là nhịp hồi Fibo nhưng rồi sau đó cũng rớt tiếp ... Còn đoạn này mà thủng một phát thì mình nghĩ là 62.000 này không có bất kỳ lý do gì giữ được. Và tiếp theo sẽ là 60.000 rất dễ"},
+    {"gio": "[00:28:56]", "cau": "Thủng 63 này, đóng 30 phút hoặc H1 mà thủng 63 này là mình nghĩ chắc đi luôn."},
+    {"gio": "[00:36:11]", "cau": "Ở đây nếu nhịp tiếp theo nó quét lên thì mình nghĩ nó sẽ quét lên được khoảng 64.000 ... Nói trước để lỡ nó lên đó anh em đừng hoang mang."},
+    {"gio": "[00:57:49]", "cau": "Thủng 63 thì tốt rồi. H1 đóng như này thì đúng plan, anh em mình cứ giữ thôi. Chờ thôi. Thủng hết mấy vùng hỗ trợ rồi còn đâu nữa."},
+    {"gio": "[01:11:20]", "cau": "Hiện tại mình đang chờ đáy đến của điểm này trong nhịp giảm lần này là 60.000 hoặc 60.600, 60.700 gì đó, nói chung là dưới 61."}
+  ],
+  "kho": "Không nêu mốc vô hiệu rõ (64.000 vẫn coi là nhịp hồi rồi rớt). Lệnh sell đang giữ 'hôm qua mình cho anh em sell' không nói giá vào nên vao=null. Phần lớn buổi là bài giảng tâm lý/khung tuần 2022, ít số liệu H4."
+}

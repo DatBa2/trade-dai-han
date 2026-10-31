@@ -1,0 +1,436 @@
+{
+  "buoi": "2026-05-07_FlYmDPPMwhY",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/zip_clean/2026-05-07_FlYmDPPMwhY.txt",
+  "gia_btc_luc_noi": 80500,
+  "dau_buoi": {
+    "thien_huong_h4": "GIAM",
+    "gio": "[00:21:21]",
+    "trich": "Thị trường như này mình đang khá vui vì nó đang điều chỉnh. Có những lý do: thứ nhất là nó lên được vùng trên 82 chạm đường MA200. Anh em xem livestream của mình không phải bữa đầu tiên thì các bạn biết view của mình là chạm đường MA200 này. Đồng thời khóa lại gap đêm hôm qua. Gap vùng này vẫn còn thiếu 1000 giá nữa. Tuy nhiên target đầu tiên là lên được đường MA200 này coi như đẹp rồi. Hoàn tất TP, hoàn tất target"
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "GIAM",
+    "do_chac": "vua",
+    "gio": "[01:07:22]",
+    "trich": "Nhìn thằng H4 thế anh em hiểu rồi, gì nữa mà cần phải phân tích cho lắm chuyện. Tệ tệ cũng 80.000, tệ cũng phải TP1 của chúng ta. 80 TP1. Thị trường vẫn chạy đúng cái view thì chúng ta cứ vậy mà làm."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {
+    "huong": "GIAM",
+    "dich": 80000
+  },
+  "duong_di": [
+    {
+      "huong": "GIAM",
+      "dich": 80000
+    },
+    {
+      "huong": "GIAM",
+      "dich": [
+        78000,
+        79000
+      ]
+    },
+    {
+      "huong": "GIAM",
+      "dich": [
+        73000,
+        74000
+      ]
+    }
+  ],
+  "dich_chinh": [
+    78000,
+    79000
+  ],
+  "han_gio": null,
+  "vo_hieu": {
+    "gia": 82000,
+    "khung": "D1",
+    "so_nen": 1,
+    "chieu": "dong_tren",
+    "cau": "[00:44:28] nếu các bạn thấy có một cây nến ngày mà nó đóng lên trên được khỏi MA200 này, tức là nến D1 đóng qua khỏi MA200 thì khả năng là chúng ta sẽ phải bỏ tất cả các lệnh short, cực kỳ nguy hiểm bởi vì nó có thể kéo lên 91."
+  },
+  "lenh": [
+    {
+      "chieu": "short",
+      "vao": 81000,
+      "tp": [
+        80000,
+        79000
+      ],
+      "sl": 82000,
+      "trang_thai": "dang_giu"
+    }
+  ],
+  "hanh_dong": "giu_lenh",
+  "khung_lon": {
+    "D1": "Chạm MA200 D1 (~82k) + gần lấp gap CME 83.300 → coi như hoàn tất 95% target nhịp 65-68 → 80; nến đỏ D1 cạnh MA chỉ là đảo chiều điều chỉnh, mất xu hướng tăng phải phá đáy; còn khả năng lên tối đa 91 nếu D1 đóng trên MA200; gap dưới 78, 70, 67-68",
+    "W1": null
+  },
+  "pha_vo_gia": null,
+  "nhin_lai_view_truoc": {
+    "view_truoc": "GIAM",
+    "giu_hay_doi": "giu",
+    "vi_sao": "Giá chạm MA200 D1 + khóa gap → hoàn tất target; H4 có dấu hiệu điều chỉnh đẹp; cấu trúc thị trường không thay đổi nên giữ quan điểm hôm qua, chờ vùng 78-79",
+    "gio": "[00:26:13]",
+    "trich": "Thậm chí H4 hiện tại mình thấy có dấu hiệu điều chỉnh đẹp và vẫn giữ nguyên quan điểm như ngày hôm qua vì cấu trúc thị trường không thay đổi, chúng ta tiếp tục quan sát và chờ điểm tiềm năng ở vùng 78 đến 79."
+  },
+  "trendline": [
+    {
+      "khung": "D1",
+      "loai": "kenh",
+      "noi_tu": "Kênh giá trên D1, không nêu điểm neo; dùng để minh họa đường đi có thể về 71-73 rồi kéo lên 91",
+      "diem_neo": [],
+      "gia_duong_luc_noi": null,
+      "trang_thai": "dang_giu",
+      "dieu_kien_pha": null,
+      "ket_luan_huong": null,
+      "gio": "[00:44:28]",
+      "trich": "Mất xu hướng tăng thì sẽ phải phá đáy. Phá đáy thì mới gọi thực sự là mất xu hướng tăng. Hoàn toàn nó có thể đi mô hình này. Kênh giá nữa này. Những kênh giá này đúng là sợ. Về đây đúng 71 luôn. 71 72 73 gì đó. Kéo lên lại thêm phát nữa. Ở đây 91 đẹp đó."
+    }
+  ],
+  "trich_them": [
+    {
+      "gio": "[00:22:29]",
+      "cau": "Thứ nhất là nó xong những điều kiện cần để giá có thể đi xuống. Mặc dù vẫn có khả năng thêm một nhịp lên tối đa là 91. Nhưng ở nhịp sau đó mình không kỳ vọng quá, cũng không đặt vị thế lớn vào chặng đường từ đây lên 91. Nếu xảy ra thì cũng lướt cho vui. Nhịp chính của mình là từ vùng dưới này 65 67 68 đi lên đến 80"
+    },
+    {
+      "gio": "[00:22:59]",
+      "cau": "Từ giờ chỉ chờ nó sập sâu đâu đó cuối năm rồi vào những vị thế khác."
+    },
+    {
+      "gio": "[00:25:42]",
+      "cau": "Vùng 83 là cản quan trọng, Fibo 0.618 theo Fibo thoái lui trên khung D1 lẫn H4. Thứ hai, hiện tại vùng này thiếu 1000 giá nữa để đủ tròn gap CME 83.300. Cộng với đó có thể nó lên test đỉnh. Đây cũng là vùng Fibo mở rộng 100%, vùng 1.0. Rất nhiều lý do hội tụ thì vùng này cũng thỏa mãn rồi. Cùng lắm nó lên test đỉnh thêm một phát nữa lên vùng 83300 thôi"
+    },
+    {
+      "gio": "[00:27:19]",
+      "cau": "Còn nếu thủng 78 thì mình nghĩ e là không ổn, khả năng về lại vùng 74 73 như lúc nãy mình nói rất cao."
+    },
+    {
+      "gio": "[00:28:23]",
+      "cau": "Tất nhiên xu hướng hiện tại vẫn là xu hướng tăng. Để an toàn thì các bạn vẫn phải chờ đợi vị thế long ở những vùng hỗ trợ."
+    },
+    {
+      "gio": "[00:34:37]",
+      "cau": "Tiếp tục có một vùng ở 80 là TP1 của chúng ta. 80k là đẹp. Trên này vẫn có một vùng ở 81k8."
+    },
+    {
+      "gio": "[00:38:51]",
+      "cau": "Vùng này mình nghĩ anh em cứ tìm short scalp, mặc dù biết nó ngược nhưng dễ đạt được target hơn là đi long cố chấp ở đoạn này. Không nên long trong ngày hôm nay nữa."
+    }
+  ],
+  "kho": "Ông nói xu hướng H4 'vẫn là tăng' về cấu trúc nhưng kịch bản đang chạy là điều chỉnh về 80 → 78-79 (có thể 73-74), không nói rõ đích tăng sau đó (91 chỉ là 'có thể', không kỳ vọng) nên ghi GIAM. Giá lúc nói ~80-81k là ước lượng. Kênh giá D1 không có điểm neo.",
+  "nen_volume": [
+    {
+      "khung": "D1",
+      "nen": "cây nến đỏ ở MA200 tạo cặp nến đảo chiều",
+      "volume": null,
+      "ket_luan": "chỉ là đảo chiều điều chỉnh, chưa mất xu hướng tăng (mất xu hướng phải phá đáy)",
+      "gio": "[00:43:53]",
+      "trich": "Nó là cặp nến đảo chiều nhưng đảo chiều ở đây mới chỉ dừng ở góc độ đảo chiều điều chỉnh thôi chứ không phải đảo chiều mất xu hướng tăng. Mất xu hướng tăng thì sẽ phải phá đáy."
+    },
+    {
+      "khung": "D1",
+      "nen": "nến ngày đóng vượt lên trên MA200 / bất kỳ cây nến xanh nào ở đây",
+      "volume": null,
+      "ket_luan": "nếu xảy ra phải bỏ hết short, có thể lên 91",
+      "gio": "[00:44:28]",
+      "trich": "nếu các bạn thấy có một cây nến ngày mà nó đóng lên trên được khỏi MA200 này, tức là nến D1 đóng qua khỏi MA200 thì khả năng là chúng ta sẽ phải bỏ tất cả các lệnh short"
+    },
+    {
+      "khung": "M5",
+      "nen": "rớt từ từ, phá qua đường MA xanh nhỏ, cấu trúc chuyển giảm",
+      "volume": null,
+      "ket_luan": "không có lý do để long, nhịp hồi chỉ là hồi quang phản chiếu",
+      "gio": "[00:30:04]",
+      "trich": "Rớt từ từ đi xuống. Trong khung 5 phút này nó đã phá qua đường MA màu xanh nhỏ ở đây và cấu trúc hiện tại đã hoàn toàn di chuyển về xu hướng giảm trong khung nhỏ, thì lúc này không có lý do gì để long."
+    },
+    {
+      "khung": "H1",
+      "nen": "đi sideway, chưa thấy điểm long",
+      "volume": null,
+      "ket_luan": "sideway là dẫn dụ tham lam, chờ 79",
+      "gio": "[00:29:33]",
+      "trich": "Xem H1 này. Trong những khung nhỏ mình chưa thấy điểm để long lên lại, chưa thấy điều gì đẹp để lên thuyền ở đoạn này. Đoạn này cứ đi sideway thì mình nghĩ nó đang dẫn dụ các bạn tham lam nhảy vào"
+    },
+    {
+      "khung": "H4",
+      "nen": "cây H4 sắp đóng (không mô tả chi tiết, ngụ ý nến giảm)",
+      "volume": null,
+      "ket_luan": "tệ cũng về TP1 80.000, thị trường chạy đúng view",
+      "gio": "[01:06:49]",
+      "trich": "Cái H1 này chuẩn bị đóng cây H4 này. Thấy cây H4 không? Nhìn cái thằng H4 thế thì hiểu là gì nữa đúng không?"
+    }
+  ],
+  "cach_lam": [
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "ema",
+      "chi_tiet": "MA200 khung D1",
+      "ket_qua": "giá lên trên 82 chạm MA200 → hoàn tất target",
+      "gio": "[00:21:21]",
+      "trich": "thứ nhất là nó lên được vùng trên 82 chạm đường MA200. Anh em xem livestream của mình không phải bữa đầu tiên thì các bạn biết view của mình là chạm đường MA200 này."
+    },
+    {
+      "hanh_dong": "do",
+      "cong_cu": "fibo_mo_rong",
+      "chi_tiet": "Fibo mở rộng nhịp tăng",
+      "ket_qua": "chạm Fibo 1.0 (100%) → hoàn tất TP",
+      "gio": "[00:24:06]",
+      "trich": "Hiện tại nó chạm Fibo 1 rồi. Có hai trường hợp: có thể lên nhưng cũng có thể không. Vùng Fibo 1 này coi như đã hoàn tất TP."
+    },
+    {
+      "hanh_dong": "do",
+      "cong_cu": "fibo_thoai_lui",
+      "chi_tiet": "Fibo thoái lui trên D1 lẫn H4",
+      "ket_qua": "0.618 = 83k (cản quan trọng)",
+      "gio": "[00:25:42]",
+      "trich": "Vùng 83 là cản quan trọng, Fibo 0.618 theo Fibo thoái lui trên khung D1 lẫn H4."
+    },
+    {
+      "hanh_dong": "do",
+      "cong_cu": "fibo_thoai_lui",
+      "chi_tiet": "Vùng 0.5 cho nhịp test lại trước khi lên cao hơn",
+      "ket_qua": "74-73 (trùng Fibo)",
+      "gio": "[00:24:36]",
+      "trich": "Thông thường để lên ở vùng trên cao thì thị trường vẫn xảy ra thêm nhịp về test lại vùng 0.5 rồi mới đi lên. Nhưng ở đây khó thực hiện vì tính thời gian, thời điểm để thị trường về đây rồi đi lên quá lâu. Tháng năm này có thêm một tháng tăng nữa thì may ra thị trường mới đi được nhịp này. Nhịp này có xảy ra hay không là chuyện tương lai, chúng ta quan sát phản ứng giá ở vùng 74 73"
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "Gap CME: gap đêm qua còn thiếu ~1000 giá (83.300); gap nhỏ 78 (M15/M30); gap 70, 67-68",
+      "ket_qua": "83.300 phía trên; 78, 70, 67-68 phía dưới",
+      "gio": "[00:27:49]",
+      "trich": "Nhắc lại chúng ta vẫn có gap ở 70.000 và gap ở 67.000, 67 68. Nhưng đừng nghĩ gap sinh ra thì chắc chắn một hai nhịp nào đó nó sẽ lấp."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "hyblock",
+      "chi_tiet": "Hyblock: hai block liquid, phe long chờ thanh lý",
+      "ket_qua": "long vẫn rất dày (~500) → không long, tìm short scalp",
+      "gio": "[00:37:27]",
+      "trich": "Xem lại hai block liquid này. Các bạn thấy không? Vẫn rất dày thì chúng ta không việc gì lao vào tụi này hết. Số lượng như 500."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "heatmap",
+      "chi_tiet": "Heatmap thanh khoản",
+      "ket_qua": "vùng 80 (TP1), vùng 81k8 phía trên (mới tạo, mỏng)",
+      "gio": "[00:34:37]",
+      "trich": "Heatmap hình như quét xong rồi. Tiếp tục có một vùng ở 80 là TP1 của chúng ta. 80k là đẹp. Trên này vẫn có một vùng ở 81k8."
+    },
+    {
+      "hanh_dong": "ve",
+      "cong_cu": "trendline",
+      "chi_tiet": "Kênh giá trên D1 minh họa đường đi",
+      "ket_qua": "có thể về 71-73 rồi kéo lên 91",
+      "gio": "[00:44:28]",
+      "trich": "Kênh giá nữa này. Những kênh giá này đúng là sợ. Về đây đúng 71 luôn. 71 72 73 gì đó. Kéo lên lại thêm phát nữa. Ở đây 91 đẹp đó."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "ema",
+      "chi_tiet": "USDT.D H4 phải test MA",
+      "ket_qua": "USDT.D còn lên → chưa thấy cửa phục hồi",
+      "gio": "[00:31:11]",
+      "trich": "USDT.D H4 này đang lên nữa. Ít nhất nó cũng phải test MA, lúc đó mới tính câu chuyện thị trường phục hồi"
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "Fear & Greed",
+      "ket_qua": "47, sắp sang xanh → bớt FOMO",
+      "gio": "[00:34:03]",
+      "trich": "Tâm lý FOMO thì vẫn đang rất hào hứng ở con số 47, khá là vàng và sắp chuyển sang màu xanh."
+    }
+  ],
+  "vung_nguoi_do": [
+    {
+      "loai": "khang_cu",
+      "tu": 82000,
+      "den": 82000,
+      "gio": "[00:21:21]",
+      "trich": "nó lên được vùng trên 82 chạm đường MA200."
+    },
+    {
+      "loai": "dich",
+      "tu": 91000,
+      "den": 91000,
+      "gio": "[00:22:29]",
+      "trich": "Mặc dù vẫn có khả năng thêm một nhịp lên tối đa là 91."
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 83000,
+      "den": 83000,
+      "gio": "[00:25:42]",
+      "trich": "Vùng 83 là cản quan trọng, Fibo 0.618 theo Fibo thoái lui trên khung D1 lẫn H4."
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 83300,
+      "den": 83300,
+      "gio": "[00:25:42]",
+      "trich": "hiện tại vùng này thiếu 1000 giá nữa để đủ tròn gap CME 83.300."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 78000,
+      "den": 79000,
+      "gio": "[00:26:45]",
+      "trich": "chúng ta tiếp tục quan sát và chờ điểm tiềm năng ở vùng 78 đến 79. Đây là vùng đầu tiên chúng ta có thể xem xét các vị thế."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 73000,
+      "den": 74000,
+      "gio": "[00:27:19]",
+      "trich": "Còn nếu thủng 78 thì mình nghĩ e là không ổn, khả năng về lại vùng 74 73 như lúc nãy mình nói rất cao."
+    },
+    {
+      "loai": "dich",
+      "tu": 65000,
+      "den": 65000,
+      "gio": "[00:27:49]",
+      "trich": "Khi nó về 73 74 này thì bắt đầu các gap ngoi lên. Lúc này view về 65 để lấp gap dưới 68."
+    },
+    {
+      "loai": "tp",
+      "tu": 80000,
+      "den": 80000,
+      "gio": "[00:34:37]",
+      "trich": "Tiếp tục có một vùng ở 80 là TP1 của chúng ta. 80k là đẹp."
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 81800,
+      "den": 81800,
+      "gio": "[00:34:37]",
+      "trich": "Trên này vẫn có một vùng ở 81k8."
+    },
+    {
+      "loai": "sl",
+      "tu": 82000,
+      "den": 82000,
+      "gio": "[00:35:14]",
+      "trich": "SL 82k cơ mà. 82k về lại entry hả?"
+    },
+    {
+      "loai": "vo_hieu",
+      "tu": 82000,
+      "den": 82000,
+      "gio": "[00:44:28]",
+      "trich": "nến D1 đóng qua khỏi MA200 thì khả năng là chúng ta sẽ phải bỏ tất cả các lệnh short"
+    },
+    {
+      "loai": "dich",
+      "tu": 71000,
+      "den": 73000,
+      "gio": "[00:44:28]",
+      "trich": "Về đây đúng 71 luôn. 71 72 73 gì đó."
+    }
+  ],
+  "view_trung_han": [
+    {
+      "khung": "M1",
+      "huong": "GIAM",
+      "dich": null,
+      "han": "cuối năm",
+      "mat_view_khi": null,
+      "gio": "[00:22:59]",
+      "trich": "Với cộng đồng thì coi như chúng ta đã hoàn tất target lớn của 6 tháng đầu năm. Từ giờ đến tháng sáu mình nghĩ không còn gì để ra vào nhiều. Từ giờ chỉ chờ nó sập sâu đâu đó cuối năm rồi vào những vị thế khác."
+    },
+    {
+      "khung": "D1",
+      "huong": "GIAM",
+      "dich": [
+        78000,
+        79000
+      ],
+      "han": null,
+      "mat_view_khi": "nến D1 đóng trên MA200 (~82k) → bỏ short, có thể lên 91; mất xu hướng tăng thật sự phải phá đáy",
+      "gio": "[00:44:28]",
+      "trich": "Nó là cặp nến đảo chiều nhưng đảo chiều ở đây mới chỉ dừng ở góc độ đảo chiều điều chỉnh thôi chứ không phải đảo chiều mất xu hướng tăng. Mất xu hướng tăng thì sẽ phải phá đáy. Phá đáy thì mới gọi thực sự là mất xu hướng tăng. Hoàn toàn nó có thể đi mô hình này. Kênh giá nữa này. Những kênh giá này đúng là sợ. Về đây đúng 71 luôn. 71 72 73 gì đó. Kéo lên lại thêm phát nữa. Ở đây 91 đẹp đó. Cho nên vùng này để chúng ta giao dịch thì rất nguy hiểm. Có một lưu ý nữa là đoạn này nếu các bạn thấy có một cây nến ngày mà nó đóng lên trên được khỏi MA200 này, tức là nến D1 đóng qua khỏi MA200 thì khả năng là chúng ta sẽ phải bỏ tất cả các lệnh short"
+    }
+  ],
+  "vung_tranh": [
+    {
+      "tu": null,
+      "den": null,
+      "vi_sao": "Không long trong ngày ở vùng giá hiện tại: Hyblock long chờ thanh lý rất dày, khung nhỏ đã chuyển cấu trúc giảm; chờ 79-78",
+      "gio": "[00:38:51]",
+      "trich": "Không nên long trong ngày hôm nay nữa. Mình thấy rất rủi ro."
+    },
+    {
+      "tu": 82000,
+      "den": null,
+      "vi_sao": "Nếu nến D1 đóng trên MA200 (~82k) thì đừng short nữa, ở ngoài hoặc tìm long",
+      "gio": "[00:45:02]",
+      "trich": "Thấy nó đóng vượt qua khỏi MA200 này thì tạm thời ở ngoài hoặc tìm điểm long nếu những dữ liệu ví dụ như liquid các thứ cho phép. Còn không thì phải ở ngoài, đừng có short cho chắc."
+    }
+  ],
+  "giu_dong": [
+    {
+      "lenh": "short BTC từ hôm qua (~81k, SL 82k)",
+      "quyet_dinh": "giu",
+      "khi_nao": "chưa cần kéo SL về entry (mới lãi ~1000 giá); TP1 80k; bỏ short nếu nến D1 đóng trên MA200",
+      "gio": "[00:35:14]",
+      "trich": "SL 82k cơ mà. 82k về lại entry hả? Thế về lại entry thì cũng quét qua đó thế thôi, chưa cần phải kéo, mới đang được khoảng nghìn giá thôi."
+    },
+    {
+      "lenh": "spot (nhịp 65-68 → 80)",
+      "quyet_dinh": "dong",
+      "khi_nao": "đã chạm target MA200/82 → xử lý xong hết hàng",
+      "gio": "[00:23:32]",
+      "trich": "Hàng họ cũng xử lý xong hết rồi, bây giờ ngồi rung đùi thôi, không có áp lực gì."
+    }
+  ],
+  "tin_tuc": [
+    {
+      "su_kien": "Chứng khoán toàn cầu (Nasdaq, S&P500, Nikkei…) ở vùng giá cao",
+      "thoi_diem": "hiện tại",
+      "nguon": "khac",
+      "so_lieu": "chứng khoán phục hồi ~25% từ tháng 3, crypto cũng ~25%",
+      "anh_huong_view": "dấu hiệu bớt hưng phấn/FOMO; khi Nasdaq/S&P500 gãy thì crypto chắc chắn bị ảnh hưởng tiêu cực",
+      "gio": "[00:13:24]",
+      "trich": "Nasdaq thì cực kỳ căng rồi, rất cao rồi. Đây là một dấu hiệu để chúng ta bớt hưng phấn và FOMO. Thị trường crypto của chúng ta bị ảnh hưởng rất nhiều bởi thị trường chứng khoán, đặc biệt các chỉ số như Nasdaq hay SP500. Khi các chỉ số này gãy thì thị trường chúng ta chắc chắn bị ảnh hưởng tiêu cực."
+    },
+    {
+      "su_kien": "Tin tối thứ sáu (NFP)",
+      "thoi_diem": "tối mai, tối thứ sáu",
+      "nguon": "lich_kinh_te",
+      "so_lieu": null,
+      "anh_huong_view": "không nói (chỉ báo lịch)",
+      "gio": "[00:35:45]",
+      "trich": "Hôm nay không có tin, ngày mai chúng ta mới có tin. Tối mai, tối thứ sáu chúng ta sẽ có tin."
+    },
+    {
+      "su_kien": "Chủ tịch FED mới",
+      "thoi_diem": "thứ hai tuần sau",
+      "nguon": "lich_kinh_te",
+      "so_lieu": "bầu chọn dự đoán là sẽ qua",
+      "anh_huong_view": "không nói",
+      "gio": "[00:36:18]",
+      "trich": "Thứ hai là buổi của FED mới, chủ tịch mới. Bầu chọn dự đoán là sẽ qua."
+    },
+    {
+      "su_kien": "CPI",
+      "thoi_diem": "thứ ba tuần sau",
+      "nguon": "lich_kinh_te",
+      "so_lieu": null,
+      "anh_huong_view": "không nói (tuần sau nhiều tin quan trọng)",
+      "gio": "[00:36:18]",
+      "trich": "Đến thứ ba sẽ có CPI lạm phát. Thứ tư là PPI. Thứ năm là kho."
+    },
+    {
+      "su_kien": "PPI",
+      "thoi_diem": "thứ tư tuần sau",
+      "nguon": "lich_kinh_te",
+      "so_lieu": null,
+      "anh_huong_view": "không nói",
+      "gio": "[00:36:18]",
+      "trich": "Thứ tư là PPI."
+    }
+  ]
+}

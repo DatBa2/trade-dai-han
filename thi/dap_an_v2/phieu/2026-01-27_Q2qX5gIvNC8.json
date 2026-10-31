@@ -1,0 +1,62 @@
+{
+  "buoi": "2026-01-27_Q2qX5gIvNC8",
+  "ngay": "2026-01-27",
+  "gio_vn": "10:00",
+  "gia_btc_luc_noi": 88000,
+  "nhan_dinh": [
+    {
+      "khung": "H4",
+      "huong": "TANG",
+      "do_chac": "thap",
+      "dich": [89000, 91000],
+      "han": "trước tin lãi suất ngày 29 (hôm nay, ngày mai)",
+      "han_gio": 48,
+      "vo_hieu_khi": "H4 phải ngồi trên 90.200, thậm chí trên 90.700 mới thoát cản MA; quét về 87-88 (vùng liquid) thì quay lại hai đầu",
+      "kich_ban_phu": "vẫn có thể quét về 87-88.000 lấy liquid trước (quét hai đầu); thị trường nhập nhằng đến ngày ra tin; trước tin chạy hướng nào thì sau tin vài ngày ngược lại",
+      "ly_do": [
+        "đang trên đường lên lấp gap 89 và 91 (còn nhiều động lực), M5 dốc lên, Fibo mở rộng cho 89-91",
+        "H4 đóng xanh lực mua khá tốt, chưa thấy lý do short",
+        "hôm qua lên đúng Fibo 0.618 87.000 rồi đi lên; short block ~200.000 BTC còn dày"
+      ],
+      "trich": "Hiện tại nó vẫn có khả năng chạy tiếp theo đường Fibo mở rộng thì sẽ lên đến khoảng 89. Nó có thể lên đến 89.000 hoặc thậm chí là 91.000. Cho nên hãy khoan short đã.",
+      "doi_y": "đầu buổi nói 50/50 lưỡng lự, chỉ quan sát; cuối buổi sau H4 đóng xanh nghiêng 'long dò, chưa short được, nó tăng tiếp rồi'",
+      "duong_di": null
+    },
+    {
+      "khung": "D1",
+      "huong": "GIAM",
+      "do_chac": "cao",
+      "dich": null,
+      "han": "từ giờ đến giữa/hết năm 2026",
+      "han_gio": null,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": "sau tin lãi suất (giữ nguyên) giá có thể giảm nếu trước đó tăng; nến ngày xanh hôm qua có thể là cặp đảo chiều lên tận 98 nếu short lơ ngơ",
+      "ly_do": ["xu hướng thị trường là giảm, short là thuận xu hướng, long là ngược xu hướng", "D1 test MA34 là cản", "cần tín hiệu mới short, không short khi nến xanh hôm trước"],
+      "trich": "Xu hướng của Bitcoin từ giờ đến giữa năm 2026 theo cá nhân mình đánh giá là giảm.",
+      "doi_y": null,
+      "duong_di": null
+    }
+  ],
+  "vung_gia": {"khang_cu": [89000, 91000], "ho_tro": [86000, 88000]},
+  "lenh": [
+    {"chieu": "LONG", "loai": "dò nhỏ", "vao": null, "tp": null, "sl": 88000,
+     "trang_thai": "de_xuat_moi", "trich": "Nếu mình đánh dò đoạn này mình sẽ đánh long, nhưng long nhỏ thôi bởi vì H4 nằm ngay cái cản này."}
+  ],
+  "nhin_lai_truoc": "Hôm qua bị ăn stop loss một phát thị trường (lệnh long SL 87.500 quét); lệnh short hôm qua đánh nhịp khung nhỏ nhưng muộn. Từ vốn 6 tỏi sau 4 ngày còn 4 tỏi (khi đánh vàng bạc rủi ro cao).",
+  "cong_cu": ["D1", "H4", "M30", "M5", "MA34/89/200", "Fibo 0.5/0.618", "Fibo mở rộng", "gap CME 89/91", "heatmap liquidation", "RSI", "nến ngày"],
+  "tin_tuc": [{"tin": "Tin lãi suất FED ngày 29", "danh_gia": "nghĩ giữ nguyên lãi suất; trước tin nhập nhằng, sau tin giá có thể đi ngược hướng trước tin"}],
+  "thoi_quen": [
+    "đánh dò vốn nhỏ để cảm nhận thị trường khi xu hướng chưa rõ, không phải lệnh nào cũng cho nhóm vào",
+    "đánh hai chiều linh hoạt khi nhập nhằng",
+    "nến ngày xanh hôm trước thì hôm sau cẩn thận khi đi ngược",
+    "có lãi nhớ chốt, lãi không chốt thị trường húp giúp",
+    "tìm 'mục đích' của thị trường trước khi đánh"
+  ],
+  "cau_cua_mieng": ["Lãi không chốt thì thằng khác nó chốt giúp.", "Không phải cứ thấy giảm long còn thấy tăng thì short đâu.", "Chúng ta cần chất lượng, không cần phải đông."],
+  "altcoin": [
+    {"coin": "altcoin chung", "huong": "GIAM", "ghi": "xấu, H4 dưới MA, chỉ chơi OPEN/RIVER xổ số funding -0.8"},
+    {"coin": "vàng/bạc", "huong": null, "ghi": "bạc kéo 117 rồi dội 102; không ai nhận định được, đừng short"},
+    {"coin": "ETH", "huong": null, "ghi": "không có đường sóng riêng, quanh 2.63x"}
+  ],
+  "ghi_chu": "Giờ không ghi, buổi bắt đầu mốc 15:23 trong file (tiêu đề '88k'). Giá ~88.000 từ tiêu đề và 'ngồi trên 90K2' H4. 'Hai block liquid ~200.000 BTC short' là delta."
+}

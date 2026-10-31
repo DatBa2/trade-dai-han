@@ -1,0 +1,80 @@
+{
+  "buoi": "2026-03-13_gRyoN4cBXZA",
+  "ngay": "2026-03-13",
+  "gio_vn": "10:00",
+  "gia_btc_luc_noi": 72300,
+  "nhan_dinh": [
+    {
+      "khung": "M5",
+      "huong": "GIAM",
+      "do_chac": "vua",
+      "dich": [70100, 71100],
+      "han": "trong phiên tối, scalping; đêm thứ sáu có thể đâm sâu",
+      "han_gio": 24,
+      "vo_hieu_khi": "M5 đóng xanh vượt 72.600, SL ~72.900",
+      "kich_ban_phu": "hồi lên 72.000-73.200 rồi mới giảm tiếp (đừng FOMO short); M5 đóng dưới MA200 thì tụt về 71.000 rất nhanh",
+      "ly_do": [
+        "volume H1 bán lớn, hai đáy M5 chỉ lên test đỉnh 73.400 rồi sell",
+        "BTC hồi kỹ thuật đã hết xăng, giá thủng MA200 M5",
+        "sóng hai chiều: kéo lên nhanh rồi đạp từ từ; tối thứ sáu nên kill nhiều"
+      ],
+      "trich": "Về cơ bản thì đoạn này vẫn tìm short là ok rồi. ... Sóng này về đến bao nhiêu? Mình chắc sẽ dừng ở khoảng 71 hoặc 70k rồi chờ tiếp.",
+      "doi_y": null,
+      "duong_di": [
+        {"huong": "TANG", "dich": 72200},
+        {"huong": "GIAM", "dich": [70100, 71100]}
+      ]
+    },
+    {
+      "khung": "H4",
+      "huong": "TANG",
+      "do_chac": "thap",
+      "dich": [75000, 80000],
+      "han": "chốt ở 75, 78, 80; cuối tuần khó đoán",
+      "han_gio": null,
+      "vo_hieu_khi": "xuống dưới 65.000 mới hết trend tăng (thủng 68-69 coi như gần hết)",
+      "kich_ban_phu": "cuối tuần sideway, đầu tuần sau mới tăng lại; long ở 70-71 mới dám",
+      "ly_do": [
+        "sóng thị trường vẫn tăng, giá nằm trên MA, nhịp giảm chỉ là điều chỉnh ngắn hạn",
+        "mình đang đánh ngược sóng nên chỉ scalp"
+      ],
+      "trich": "Sóng của thị trường bây giờ là sóng tăng này. Giá nằm trên MA rất là đẹp này. Thì cho dù nó điều chỉnh hay nó sập đi nữa thì cũng chỉ là điều chỉnh ngắn hạn thôi.",
+      "doi_y": "đầu buổi nói hồi kỹ thuật hết xăng và khuyên đừng long; giữa buổi nói sóng chính giai đoạn này vẫn là sóng giảm; sau đó nhấn sóng thị trường là tăng, giảm chỉ là điều chỉnh",
+      "duong_di": null
+    }
+  ],
+  "vung_gia": {"khang_cu": [72600, 73400], "ho_tro": [70100, 71100]},
+  "lenh": [
+    {"chieu": "SHORT", "loai": "scalping BTC vol nhỏ", "vao": [72200, 72600], "tp": [71100, 70350], "sl": 72900,
+     "trang_thai": "da_khop",
+     "trich": "TP1 là 71k1, TP2 là 70k3. ... SL thì đâu đó khoảng 72K9"},
+    {"chieu": "SHORT", "loai": "vàng/bạc dò 0.01 lot", "vao": null, "tp": null, "sl": null,
+     "trang_thai": "da_khop",
+     "trich": "Bạc gãy cho mình phô, mình dò một phát đã. Mình 0.01 lot đây."},
+    {"chieu": "LONG", "loai": "đang giữ (đầu tháng)", "vao": 64500, "tp": [75000, 78000, 80000], "sl": null,
+     "trang_thai": "dang_giu",
+     "trich": "Mình có lệnh long ở 645, giữ lên 80. ... lên khoảng 75 nên chốt, và 78, 80."}
+  ],
+  "nhin_lai_truoc": "Sáng báo chờ về 69 mà giá không về, lòng vòng 71 rồi vút lên; nhiều kèo (NEAR, PP, LINK) ăn tới TP.",
+  "cong_cu": ["M5", "H1", "H4", "MA200 M5", "Fibo mở rộng", "volume profile", "heatmap liquidation", "Coinglass", "gap 80.000"],
+  "tin_tuc": [],
+  "thoi_quen": [
+    "scalping: vào khi ngồi trước chart, hết cầm chart thì chốt; ngủ là cắt",
+    "vàng bạc dầu: hết live clear lệnh, không giữ qua tuần",
+    "kéo SL về entry khi xác suất quay lại entry thấp hoặc buồn ngủ",
+    "chia vol 2 điểm (entry và điểm SL) để tránh quét SL rồi chạy",
+    "ăn 1000 giá là happy, chốt đủ thì đi ngủ",
+    "càng ít kỳ vọng càng tốt"
+  ],
+  "cau_cua_mieng": [
+    "Ngủ là cắt, ngủ là chốt.",
+    "Ăn thì cứ nuốt đi, cứ ngậm trong mồm rồi nó bắt lại phun ra."
+  ],
+  "altcoin": [
+    {"coin": "ETH", "huong": "TANG", "ghi": "sóng hồi lên khoảng 2004; entry an toàn dưới 2020/1990; TP1 2001; chốt bớt"},
+    {"coin": "SOL", "huong": "TANG", "ghi": "lên khoảng 100 thì chốt"},
+    {"coin": "HYPE", "huong": "GIAM", "ghi": "short ở 36 SL 43 TP 34-35"},
+    {"coin": "altcoin chung", "huong": "TANG", "ghi": "chạy cùng sóng với BTC; NEAR chạm TP MA200"}
+  ],
+  "ghi_chu": "Live tối thứ sáu (~23:15 theo 'Thấm thoát đã 11:15'); gio_vn để 10:00 theo hướng dẫn. Giá 72300 ước theo vùng 72k2-72k6 (SL 72k9), sau giảm về 71.1k. Buổi này cùng ngày với IbTz3V-KlKs (live sáng)."
+}

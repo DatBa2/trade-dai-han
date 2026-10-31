@@ -1,0 +1,138 @@
+{
+  "buoi": "2026-08-19_1001_kfBEaOyHLkc",
+  "ngay": "2026-08-19",
+  "gio_vn": "10:01",
+  "gia_btc_luc_noi": null,
+  "nhan_dinh": [
+    {
+      "khung": "H4",
+      "huong": "GIAM",
+      "do_chac": "thap",
+      "dich": 63000,
+      "han": "trong ngày",
+      "han_gio": 24,
+      "vo_hieu_khi": "H4 phá lên trên cản 65.000-65.500 thì chuyển sang long, đánh từ trên 65.000 lên khoảng 70.500",
+      "kich_ban_phu": "H4 phá cản 65.000/65.500 thì đánh lên 70.500; nếu không, ngồi ngoài",
+      "ly_do": [
+        "giá đang nằm ở cản H4 quanh 65.000 và vùng dễ bị thanh lý long (long dồn rất nhiều)",
+        "RSI H4 phân kỳ sau đỉnh 65.000",
+        "pha lên 65.000 chủ yếu để kill stop loss hai đầu",
+        "vùng hẹp biên dần; sóng giảm chỉ xác nhận khi H4 đóng dưới cụm MA khoảng 63.000"
+      ],
+      "trich": "Nếu mà chọn phe thì mình vẫn chọn phe sót hơn là phe long. Mặc dù cấu trúc của nó thì vẫn giữ được cái xu hướng phục hồi.",
+      "doi_y": null,
+      "duong_di": null
+    },
+    {
+      "khung": "D1",
+      "huong": "GIAM",
+      "do_chac": "vua",
+      "dich": null,
+      "han": "kéo dài đến khoảng quý hai năm sau nếu hồi thêm 10.000 giá",
+      "han_gio": null,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": "hồi tối đa lên 70-73.000 (trap) rồi sập về 4x-5x; tháng 9 đi ngang vùng 5x, tháng 10 xấu, giữa/cuối tháng 10 mới có nhịp phục hồi thực sự",
+      "ly_do": [
+        "không có uptrend ở vùng giá này, tăng chỉ là nhịp ngắn hạn tối đa khoảng 10.000 giá",
+        "kỳ vọng giảm sớm: xả quanh CPI tháng 9, kỳ vọng giảm khoảng 70% (khoảng 37.000)",
+        "kế hoạch giảm có từ vùng 100.000"
+      ],
+      "trich": "Cho dù mọi người có kỳ vọng cỡ nào đi nữa thì mình nghĩ không có uptrend ở ngay cái vùng giá này đâu.",
+      "doi_y": null,
+      "duong_di": [
+        {
+          "huong": "TANG",
+          "dich": 73000
+        },
+        {
+          "huong": "GIAM",
+          "dich": 50000
+        }
+      ]
+    }
+  ],
+  "vung_gia": {
+    "khang_cu": [
+      65000,
+      65500
+    ],
+    "ho_tro": [
+      63000,
+      64000
+    ]
+  },
+  "lenh": [
+    {
+      "chieu": "SHORT",
+      "loai": "market",
+      "vao": 64500,
+      "tp": [
+        63000
+      ],
+      "sl": 65100,
+      "trang_thai": "dang_giu",
+      "trich": "Lệnh sót ... 64.5 ... 65K1 SL thì cứ TP của mình đang dự kiến khoảng tầm 63."
+    }
+  ],
+  "nhin_lai_truoc": null,
+  "cong_cu": [
+    "H4",
+    "M5",
+    "MA cụm H4",
+    "RSI phân kỳ",
+    "liquidation",
+    "BTC.D",
+    "USDT.D",
+    "Fear and Greed",
+    "Fibo M5"
+  ],
+  "tin_tuc": [
+    {
+      "tin": "FOMC meeting minutes rạng sáng mai",
+      "danh_gia": "xấu hay tốt không quan tâm, chỉ hợp lý hóa đường giá; nhìn đường giá"
+    },
+    {
+      "tin": "PCE, GDP cuối tháng; CPI đầu tháng 9; lãi suất cuối tháng 9",
+      "danh_gia": "kỳ vọng tích lũy rồi xả quanh CPI; ra lãi suất tháng 9 thì pump rồi đi ngang vùng 5x"
+    },
+    {
+      "tin": "Thanh lý 23,4 triệu đô trên Dex (Hyper Liquid)",
+      "danh_gia": "pha lên 65.000 là để quét thanh lý hai đầu"
+    }
+  ],
+  "thoi_quen": [
+    "không bắt sớm, chờ phá cấu trúc hướng nào thì theo hướng đó",
+    "không vào khi entry xấu hoặc ngay cản",
+    "out entry xấu, giữ entry đẹp",
+    "không bao giờ bán hết hoặc mua hết (cơ cấu 90/10 downtrend, 15/85 uptrend)",
+    "DCA nhỏ hàng ngày, mua khoảng 2 giờ chiều",
+    "đánh chậm và giảm volume khi đang thắng chuỗi"
+  ],
+  "cau_cua_mieng": [
+    "Thị trường chỉ chừng đó chuyện thôi, có gì đâu nữa.",
+    "1000 giá là cũng thuộc loại to rồi đó."
+  ],
+  "altcoin": [
+    {
+      "coin": "SOL",
+      "huong": "TANG",
+      "ghi": "đã break, chờ test lại 76.1-76.5 để long, SL dưới 75.2, nhưng phải nhìn Bitcoin"
+    },
+    {
+      "coin": "ETH",
+      "huong": "TANG",
+      "ghi": "đã break, chờ bắt 1905-1890; ngại Bitcoin gãy nên chỉ đánh một hướng BTC"
+    },
+    {
+      "coin": "HYPE",
+      "huong": "GIAM",
+      "ghi": "không qua được 60 thì rụng tiếp, sale quanh giá hiện tại SL trên 60"
+    },
+    {
+      "coin": "BTC.D",
+      "huong": "PHAN_VAN",
+      "ghi": "chưa cụ thể, altcoin chưa hồi lên; USDT.D đi ngang chờ breakout cùng BTC"
+    }
+  ],
+  "ghi_chu": "Giá BTC hiện tại không nói số rõ (quanh 64.5-65K suy từ ngữ cảnh). Lệnh short 64.5/SL 65.1/TP 63 lấy từ đoạn đầu buổi đáp comment, có thể là lệnh của người xem được xác nhận giữ; để dang_giu. Mốc 70.500 nếu phá cản là bản sạch có [?]."
+}

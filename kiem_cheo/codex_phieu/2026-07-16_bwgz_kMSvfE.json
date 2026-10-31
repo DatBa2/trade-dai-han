@@ -1,0 +1,39 @@
+{
+  "buoi": "2026-07-16_bwgz_kMSvfE",
+  "gia_btc_luc_noi": 65000,
+  "dau_buoi": {
+    "huong_h4": "TANG",
+    "trich": "[00:14:48] xu hướng của H4 này hiện tại tiếp tục giữ được ở trên MA này. Cứ như thế thì khả năng rất cao theo thời gian nó sẽ lên test lại vùng trên này."
+  },
+  "cuoi_buoi": {
+    "huong_h4": "TANG",
+    "trich": "[01:00:58] Mình vẫn đánh short scalping. SL300 giá, volume nhỏ, ngược xu hướng. [01:04:18] Còn lại view vùng hay mọi thứ vẫn giữ nguyên và áp dụng view này các bạn có thể đánh đến thứ hai tuần sau."
+  },
+  "doi_y_giua_buoi": false,
+  "huong_lon": {
+    "D1": "TANG",
+    "W1": null,
+    "chu_ky": "GIAM"
+  },
+  "hanh_dong": "vao_short",
+  "duong_di": [
+    {
+      "huong": "GIAM",
+      "dich": 63000,
+      "khung": "H4"
+    },
+    {
+      "huong": "TANG",
+      "dich": 67000,
+      "khung": "H4"
+    }
+  ],
+  "dich_chinh": 67000,
+  "moc_sai": {
+    "gia": 61600,
+    "dieu_kien": "Thủng 61.600/dưới râu nến là mất xu hướng tăng; SL phải dưới mức này ([00:15:50], [00:21:10])."
+  },
+  "pha_vo_gia": null,
+  "do_chac": "cao",
+  "ghi_chu": "Đã đọc hết transcript. Giá 65.000 chỉ xấp xỉ từ tiêu đề, không phải tick chính xác. H4 nghiêng tăng tới 67.000 dù hiện tại short nhỏ scalping ngược hướng ([00:22:14], [01:00:58]); chưa có long, chờ 63.000–64.000. Chặng điều chỉnh có thể chỉ tới 64.200/64.000 ([01:03:13]); 63.000 là vùng tối ưu, không chắc chạm. 72.000 chỉ là mức tối đa khó đạt, không là đích chính. Downtrend chu kỳ không phủ định sóng hồi D1/H4. Fake out trong buổi nói về vàng, không gán sang BTC."
+}

@@ -1,0 +1,137 @@
+{
+ "buoi": "2026-07-22_3gr71JlVqR8",
+ "ngay": "2026-07-22",
+ "gio_vn": "10:00",
+ "gia_btc_luc_noi": 66200,
+ "nhan_dinh": [
+  {
+   "khung": "H4",
+   "huong": "TANG",
+   "do_chac": "cao",
+   "dich": [
+    67000,
+    68000
+   ],
+   "han": null,
+   "han_gio": null,
+   "vo_hieu_khi": "nến H4 đóng dưới 64.000",
+   "vo_hieu_cau_truc": {
+    "gia": 64000,
+    "khung": "H4",
+    "so_nen": 1,
+    "chieu": "dong_duoi",
+    "cau": "Nếu H4 tiếp theo đóng dưới 65K5, xu hướng tiếp theo sẽ về đâu? ... nếu H4 đóng dưới thì mình nghĩ cũng không có vấn đề gì. ... Khi nào nó đóng dưới đáy 64 kia, đóng dưới 64 thì thị trường mới có xác suất gãy. Còn trong vùng này nó vẫn là vùng hồi, vùng điều chỉnh."
+   },
+   "kich_ban_phu": null,
+   "duong_di": [
+    {
+     "huong": "GIAM",
+     "dich": 65000
+    },
+    {
+     "huong": "TANG",
+     "dich": [
+      67000,
+      68000
+     ]
+    }
+   ],
+   "doi_y": null,
+   "ly_do": [],
+   "trich": "Anh em nhìn cây H4 này của Market này. Cây này thì không nên long FOMO đâu. Cây này nguy hiểm. Cây H4 này xấu. Chắc là về test MA. 65 hợp lý. ... [00:59:31] Liquid nằm ở 65 cũng một đống, đúng rồi, vùng đó nó hội tụ nhiều, mình nghĩ hợp lý rồi.",
+   "nhan_v1": "TANG"
+  },
+  {
+   "khung": "D1",
+   "huong": "TANG",
+   "do_chac": "vua",
+   "dich": 72000,
+   "han": "từ giờ đến cuối tuần hoặc qua tuần sau",
+   "han_gio": 168,
+   "vo_hieu_khi": "nến ngày đóng không xanh trên 66.000 thì điều kiện break chưa đủ",
+   "kich_ban_phu": "chỉ sell khi lên Fibo 72.000 có tín hiệu đảo chiều",
+   "ly_do": [
+    "nến ngày xanh béo",
+    "đóng sáng nay trên 66.000, back test",
+    "nếu nến ngày mai xanh đóng cao hơn thì không loại trừ vút 72.000"
+   ],
+   "trich": "Không loại trừ khả năng nó vút lên đến tận 72.000. Đó là rủi ro mình cảnh báo cho các bạn.",
+   "doi_y": null,
+   "duong_di": null
+  }
+ ],
+ "vung_gia": {
+  "khang_cu": [
+   66000,
+   68000
+  ],
+  "ho_tro": [
+   64000,
+   65000
+  ]
+ },
+ "lenh": [
+  {
+   "chieu": "LONG",
+   "vao": 65000,
+   "tp": [
+    67000,
+    68000
+   ],
+   "sl": null,
+   "trang_thai": "de_xuat_moi"
+  }
+ ],
+ "nhin_lai_truoc": "Vùng target 66-67 đã báo trước đã đạt; thiếu entry nên không vào. Cắm lệnh bạc hôm qua về 58.2 nhiều người không khớp; vàng đã bảo đừng short.",
+ "cong_cu": [
+  "nến D1",
+  "H4 MA600",
+  "Fibo",
+  "Liquidation 65.000",
+  "Fear & Greed 23",
+  "BTC.D/USDT.D",
+  "vàng/dầu",
+  "chu kỳ Dow"
+ ],
+ "tin_tuc": [],
+ "thoi_quen": [
+  "kháng cự thì chốt lãi, không đảo short",
+  "không short ngược xu hướng, chờ nến ngày đỏ rồi short sau",
+  "đặt báo thông báo giá rồi rời chart",
+  "phân bổ 10% stable, 20% alt (tối đa 3 đồng), 70% BTC/ETH chia đôi",
+  "dùng từ buy thay long"
+ ],
+ "cau_cua_mieng": [
+  "Thị trường không mất đi cơ hội đâu các bạn yên tâm. Chỉ có chúng ta mất kiên nhẫn rồi chúng ta mất tiền thôi.",
+  "Điều chắc chắn nhất là không có gì chắc chắn."
+ ],
+ "altcoin": [
+  {
+   "coin": "ETH",
+   "huong": "TANG",
+   "ghi": "khả năng cao không giảm sâu, chờ 1880-1900, lên MA200 rồi trên 2000"
+  },
+  {
+   "coin": "SOL",
+   "huong": "TANG",
+   "ghi": "breakout đẹp nhưng chờ vùng 75-77, thủng 74 thoát"
+  },
+  {
+   "coin": "altcoin chung",
+   "huong": "GIAM",
+   "ghi": "DOM đi lên nên alt yếu: AVAX break fail, SUI, LINK xấu, BNB xấu; LINK có thể lên trên 9 đô nhưng chờ MA200"
+  }
+ ],
+ "ghi_chu": "gio_vn ước lượng. Vàng: không short, chờ về 4080-4090 mới đẹp. Phần còn lại nói về VN-Index/chứng khoán, bỏ qua.",
+ "hanh_dong": "dung_ngoai_cho_entry",
+ "chang_ke_tiep": {
+  "huong": "GIAM",
+  "dich": 65000
+ },
+ "khung_lon_v2": {
+  "D1": "TANG",
+  "W1": "GIAM"
+ },
+ "pha_vo_gia": "Giá có thể 'rướn lên khoảng 67 hoặc 68 để quét stop loss những lệnh short'; ngược lại 65.000 là vùng thanh khoản 'đang muốn về để kill long FOMO'. Cũng cảnh báo nhịp kéo FOMO tiếp 'rồi sẽ cho anh em rụng luôn'.",
+ "nguon_nhan": "dap_an_v2 (Opus 5.5 rút mù 31/10)"
+}

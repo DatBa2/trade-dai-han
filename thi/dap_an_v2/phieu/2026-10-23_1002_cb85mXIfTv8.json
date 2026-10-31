@@ -1,0 +1,164 @@
+{
+ "buoi": "2026-10-23_1002_cb85mXIfTv8",
+ "ngay": "2026-10-23",
+ "gio_vn": "10:02",
+ "gia_btc_luc_noi": 81000,
+ "nhan_dinh": [
+  {
+   "khung": "H4",
+   "huong": "GIAM",
+   "do_chac": "vua",
+   "dich": [
+    77000,
+    78000
+   ],
+   "han": null,
+   "han_gio": null,
+   "vo_hieu_khi": "nến D1 đóng trên 82.000",
+   "vo_hieu_cau_truc": {
+    "gia": 82000,
+    "khung": "D1",
+    "so_nen": 1,
+    "chieu": "dong_tren",
+    "cau": "Trừ khi ngày mai nó đóng nến ngày lên trên lại đường 82 thì lúc đó chúng ta khó chịu, khó chơi. Còn nếu cứ giữ dưới vùng 82 này thì ok, dễ hơn, thuận hơn."
+   },
+   "kich_ban_phu": null,
+   "duong_di": [
+    {
+     "huong": "TANG",
+     "dich": [
+      82000,
+      82500
+     ]
+    },
+    {
+     "huong": "GIAM",
+     "dich": [
+      77000,
+      78000
+     ]
+    }
+   ],
+   "doi_y": null,
+   "ly_do": [],
+   "trich": "Rất nhiều dữ liệu cho chúng ta thấy vùng 77 đến 78 hoàn toàn là vùng có khả năng xảy ra, khả thi. Đây là một tín hiệu mà anh em đang muốn buy nên thận trọng, lưu ý.",
+   "nhan_v1": "TANG"
+  },
+  {
+   "khung": "D1",
+   "huong": "GIAM",
+   "do_chac": "thap",
+   "dich": [
+    77000,
+    78000
+   ],
+   "han": null,
+   "han_gio": null,
+   "vo_hieu_khi": "ngày mai đóng nến ngày lên trên lại 82.000",
+   "kich_ban_phu": "mô hình cờ đi tiếp lên 90 (50/50, không dám buy); chưa gãy hỗ trợ 81.000 nên nói vào xu hướng giảm hay chỉ điều chỉnh là hơi quá sớm; cuối ngày nói hai đỉnh dụ dỗ, có thể sideway rồi đi lên tiếp phải quét 83.000",
+   "ly_do": [
+    "nến ngày rất xấu đóng bán",
+    "đỉnh đáy thấp dần nhưng hiện chỉ là điều chỉnh khung ngày"
+   ],
+   "trich": "nhận định xu hướng ngày đi vào xu hướng giảm hay chỉ điều chỉnh thì vẫn hơi quá sớm.",
+   "doi_y": null,
+   "duong_di": null
+  }
+ ],
+ "vung_gia": {
+  "khang_cu": [
+   82000,
+   83000
+  ],
+  "ho_tro": [
+   77000,
+   78000
+  ]
+ },
+ "lenh": [],
+ "nhin_lai_truoc": "Khi giá lên 84 đã nhận định xác suất cực kỳ cao là nhịp phá cao fake out; hiện đúng khi giá về 81-82. Không vào ở 81.000 vì sợ fake out, cho dù lên 90 cũng không tiếc.",
+ "cong_cu": [
+  "D1",
+  "H4",
+  "M5",
+  "MA34",
+  "MA H4 200",
+  "Fibo mở rộng",
+  "Fibo 0.618",
+  "RSI (yếu dần)",
+  "BTC.D",
+  "USDT.D",
+  "Fear and Greed",
+  "thanh lý 82.000-82.500",
+  "đếm 5 sóng"
+ ],
+ "tin_tuc": [
+  {
+   "tin": "Bầu cử giữa kỳ Mỹ 3/11, giá dầu bị đẩy, Hormuz căng thẳng",
+   "danh_gia": "dầu bị đẩy để làm xấu chứng khoán/vàng/BTC trước bầu cử; sau bầu cử dầu điều chỉnh hoặc các tài sản kia thả ra rồi rơi"
+  },
+  {
+   "tin": "Hôm nay không có tin quan trọng lắm",
+   "danh_gia": "thứ Sáu thận trọng, biên độ kill căng vào phiên Mỹ"
+  }
+ ],
+ "thoi_quen": [
+  "không vào vị thế khi chưa đủ cơ sở dù có thể lỡ nhịp tăng",
+  "chờ team short bị thanh lý rồi mới xem",
+  "hạn chế đuổi khi phe đỏ lệch nhiều",
+  "SL buy vùng 80.000",
+  "cảnh báo thứ Sáu và cuối tuần dễ bị ru ngủ",
+  "fake out phải chờ confirm"
+ ],
+ "cau_cua_mieng": [
+  "Làm gì có gì chắc chắn, chỉ có tiền của chúng ta mất là chắc chắn thôi.",
+  "Bề ngoài thể hiện rất mạnh nhưng bên trong yếu."
+ ],
+ "altcoin": [
+  {
+   "coin": "BTC.D",
+   "huong": "TANG",
+   "ghi": "vẫn trong vùng đi lên, có thể test lại ~62%; trong ngày BTC hồi thì alt có thể hồi ~10%"
+  },
+  {
+   "coin": "USDT.D",
+   "huong": "PHAN_VAN",
+   "ghi": "không lên được nhiều, khoảng 7.4 rồi gãy, cuối năm sau bầu cử"
+  },
+  {
+   "coin": "ETH",
+   "huong": "GIAM",
+   "ghi": "cố trụ ~2000, giữ khó nếu BTC tiếp tục bị bán"
+  },
+  {
+   "coin": "Vàng",
+   "huong": "PHAN_VAN",
+   "ghi": "sideway, dễ hồi, sale ở đây nguy hiểm; đến cuối năm âm lịch tạo đáy rồi lên"
+  },
+  {
+   "coin": "Dầu",
+   "huong": "TANG",
+   "ghi": "kỳ vọng phá đỉnh 120, mục tiêu 140"
+  },
+  {
+   "coin": "NEAR",
+   "huong": "PHAN_VAN",
+   "ghi": "vẫn trụ, đi tái phân phối"
+  }
+ ],
+ "ghi_chu": "Giữa buổi (sau sự cố) có câu 'hai đỉnh này hơi bị dụ dỗ, nó vẫn không gãy nhiều được, sideway rồi đi lên tiếp' — lệch với H4 giảm nên hạ do_chac H4 xuống vừa, D1 thấp. Số 77-78/82.000 rõ trong bản sạch. Không có lệnh.",
+ "hanh_dong": "dung_ngoai_cho_entry",
+ "chang_ke_tiep": {
+  "huong": "TANG",
+  "dich": [
+   82000,
+   82500
+  ]
+ },
+ "khung_lon_v2": {
+  "D1": "GIAM",
+  "W1": null
+ },
+ "pha_vo_gia": "Nhịp hồi lên 84 hôm trước: 'xác suất cực kỳ cao đây là một nhịp phá cao đi lên (fake)... Bây giờ nó trap lại thì những người bị mắc kẹt ở trên này gần như vào thế rồi.'",
+ "nguon_nhan": "dap_an_v2 (Opus 5.5 rút mù 31/10)"
+}

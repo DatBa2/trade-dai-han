@@ -1,0 +1,320 @@
+{
+  "buoi": "2026-04-01_Be-e74Mwx0U",
+  "ngay": "2026-04-01",
+  "gia_btc_luc_noi": 68000,
+  "moc": [
+    {
+      "gia": 69000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý phe short mở sáng nay (liquid)"
+      ],
+      "moc_gio": "00:05:28",
+      "chac": true,
+      "trich": "Có vẻ muốn lên 69... Đây 69.000. Một đám short hiện tại đang mở ra và sẽ bị lụm ở 69.000"
+    },
+    {
+      "gia": 66000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "vùng hỗ trợ",
+        "lệnh long hôm qua 66.000 (entry 1)"
+      ],
+      "moc_gio": "00:13:09",
+      "chac": true,
+      "trich": "Short ở điểm 66 ngày hôm qua... đây là hỗ trợ. Nguyên tắc là không short ở hỗ trợ"
+    },
+    {
+      "gia": 66000,
+      "gia_tren": null,
+      "vai_tro": "nhac_lai",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "lệnh gồng 66.000 hôm qua"
+      ],
+      "moc_gio": "00:16:27",
+      "chac": true,
+      "trich": "sáng nay chúng ta đã TP được lệnh gồng 66.000 ngày hôm qua"
+    },
+    {
+      "gia": 66000,
+      "gia_tren": null,
+      "vai_tro": "day_cu",
+      "huong": null,
+      "khung": "MN",
+      "can_cu": [
+        "nến tháng 3 mở cửa 66.000"
+      ],
+      "moc_gio": "00:24:30",
+      "chac": true,
+      "trich": "Giá mở cửa ở 66.000, giá đóng cửa nến tháng ở 68.000, có râu trên khoảng 1000 giá"
+    },
+    {
+      "gia": 68000,
+      "gia_tren": null,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": "MN",
+      "can_cu": [
+        "giá đóng nến tháng 3",
+        "dưới MA34 tháng"
+      ],
+      "moc_gio": "00:24:30",
+      "chac": true,
+      "trich": "giá đóng cửa nến tháng ở 68.000... vẫn nằm dưới đường MA34 trên khung nến tháng là xấu"
+    },
+    {
+      "gia": 75000,
+      "gia_tren": null,
+      "vai_tro": "dinh_cu",
+      "huong": null,
+      "khung": "MN",
+      "can_cu": [
+        "râu trên nến tháng 3"
+      ],
+      "moc_gio": "00:24:30",
+      "chac": true,
+      "trich": "Trong cả quá trình giá đã nỗ lực lên đến 75.000 nhưng cuối cùng vẫn bị đạp xuống"
+    },
+    {
+      "gia": 83000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "MN",
+      "can_cu": [
+        "Fibo 0.5 khung tháng (dưới 0.5, so cũ 2021-22)"
+      ],
+      "moc_gio": "00:27:36",
+      "chac": false,
+      "trich": "giữ trên được thằng này thì có hồi lên được 83"
+    },
+    {
+      "gia": 81000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "quét SL và lấp gap CME ở trên"
+      ],
+      "moc_gio": "00:28:40",
+      "chac": true,
+      "trich": "kỳ vọng nhịp đẩy lên khoảng 81 chủ yếu để quét stop loss và lấp gap ở trên"
+    },
+    {
+      "gia": 54000,
+      "gia_tren": 56000,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "sau nhịp quét 81K"
+      ],
+      "moc_gio": "00:28:40",
+      "chac": true,
+      "trich": "rụng xuống, về tệ cũng phải là 54 56"
+    },
+    {
+      "gia": 40000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "MN",
+      "can_cu": [],
+      "moc_gio": "00:28:40",
+      "chac": true,
+      "trich": "cá nhân mình nghĩ sẽ sâu hơn, khoảng 40, test râu ở khoảng 30 20"
+    },
+    {
+      "gia": 20000,
+      "gia_tren": 30000,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "MN",
+      "can_cu": [],
+      "moc_gio": "00:28:40",
+      "chac": false,
+      "trich": "test râu ở khoảng 30 20 thì đẹp"
+    },
+    {
+      "gia": 65000,
+      "gia_tren": 66000,
+      "vai_tro": "vo_hieu",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "Fibo 0.618 khung ngày (backtest 0.618 rồi đi lên, công thức Fibo Eric)",
+        "nến ngày thủng"
+      ],
+      "moc_gio": "00:31:02",
+      "chac": true,
+      "trich": "Mình chỉ short khi nến ngày nó thủng cái 65 66 này"
+    },
+    {
+      "gia": 81000,
+      "gia_tren": 91000,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "Fibo mở rộng khung ngày (đo hôm qua)"
+      ],
+      "moc_gio": "00:31:35",
+      "chac": true,
+      "trich": "nếu bây giờ anh em muốn swing thì cứ chia giải ra. 91 81"
+    },
+    {
+      "gia": 69000,
+      "gia_tren": null,
+      "vai_tro": "entry",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [
+        "backtest mô hình cờ giảm"
+      ],
+      "moc_gio": "00:32:08",
+      "chac": true,
+      "trich": "đánh theo mô hình này thì short ở vùng khoảng 69. Và SL đâu đó khoảng 72.000"
+    },
+    {
+      "gia": 72000,
+      "gia_tren": null,
+      "vai_tro": "sl",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [
+        "trên mô hình cờ giảm"
+      ],
+      "moc_gio": "00:32:08",
+      "chac": true,
+      "trich": "SL đâu đó khoảng 72.000"
+    },
+    {
+      "gia": 91000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "Fibo (hồi lên 91)"
+      ],
+      "moc_gio": "00:33:12",
+      "chac": true,
+      "trich": "nó có khả năng hồi theo Fibo này lên đến tận 91"
+    },
+    {
+      "gia": 65000,
+      "gia_tren": null,
+      "vai_tro": "day_cu",
+      "huong": "TANG",
+      "khung": "H1",
+      "can_cu": [
+        "đáy H1 (không phải 66.000)"
+      ],
+      "moc_gio": "00:38:03",
+      "chac": true,
+      "trich": "66.000 không phải là một đáy. Mà đáy đoạn này sẽ là 65.000"
+    },
+    {
+      "gia": 66000,
+      "gia_tren": 67000,
+      "vai_tro": "entry",
+      "huong": "TANG",
+      "khung": "H1",
+      "can_cu": [
+        "kéo về hồi H1"
+      ],
+      "moc_gio": "00:38:03",
+      "chac": true,
+      "trich": "kéo về đâu đó khoảng độ 66.000 67.000 rồi sau đó lại đi lên"
+    },
+    {
+      "gia": 66000,
+      "gia_tren": 66500,
+      "vai_tro": "entry",
+      "huong": "TANG",
+      "khung": "M30",
+      "can_cu": [
+        "Fibo 0.618/0.5 nhịp ngắn",
+        "cụm thanh lý 66-66.5K (heatmap)",
+        "gần SL"
+      ],
+      "moc_gio": "00:39:10",
+      "chac": true,
+      "trich": "Đẹp nhất là ở đoạn này, chờ test 68... quanh khoảng 66.000 66.500"
+    },
+    {
+      "gia": 68000,
+      "gia_tren": 69000,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý (heatmap)"
+      ],
+      "moc_gio": "00:40:14",
+      "chac": true,
+      "trich": "6800 hoặc 69 cũng có mà về đến tận 6600 anh em. 6500 vẫn có"
+    },
+    {
+      "gia": 66300,
+      "gia_tren": 66000,
+      "vai_tro": "entry",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "lúc ai cũng sợ"
+      ],
+      "moc_gio": "00:41:19",
+      "chac": false,
+      "trich": "khoảng chiều nó có những nhịp về 66.300, 66.000 lúc đó có thể thử vào long"
+    },
+    {
+      "gia": 64000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "W1",
+      "can_cu": [
+        "xu hướng dài"
+      ],
+      "moc_gio": "00:42:27",
+      "chac": true,
+      "trich": "Xu hướng dài này thì nó sẽ về 64 nhưng cái đoạn này sẽ còn lâu"
+    },
+    {
+      "gia": 76000,
+      "gia_tren": null,
+      "vai_tro": "khac",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "quét lên trên 71-72 hoặc 76 rồi mới về 64"
+      ],
+      "moc_gio": "00:42:27",
+      "chac": true,
+      "trich": "quét lên trên khỏi 71 72 hoặc quét lên trên 76 thì sẽ về 64"
+    },
+    {
+      "gia": 58000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "kịch bản của người xem (mình coi là thuyết âm mưu)"
+      ],
+      "moc_gio": "00:49:31",
+      "chac": false,
+      "trich": "quét về 58 dưới này để tạo một đáy sâu hơn... chưa đủ cơ sở"
+    }
+  ]
+}

@@ -1,0 +1,307 @@
+{
+  "buoi": "2026-10-07_1004_Rl-3RfG8EiY",
+  "ngay": "2026-10-07",
+  "gia_btc_luc_noi": 84000,
+  "moc": [
+    {
+      "gia": 87000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [
+        "hai đỉnh khung ngày",
+        "bị chặn ở vùng 87"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Hai đỉnh nhá. Khung ngày... vẫn bị chặn ở vùng 87"
+    },
+    {
+      "gia": 84000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "MA89 H4",
+        "H4 đóng trên 84 để giữ MA89"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "anh em thấy có đường MA89 ở vùng 84.000... mục tiêu kéo giá đóng cửa trên đường MA này"
+    },
+    {
+      "gia": 84050,
+      "gia_tren": 84300,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": "H4",
+      "can_cu": [
+        "dự đoán vùng đóng nến H4, MA89 H4"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "dự đoán nó sẽ đóng H4 ở vùng giá cao hơn 84.050 và thấp hơn 84.300"
+    },
+    {
+      "gia": 83000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "hỗ trợ khung ngày",
+        "MA khung ngày"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Hỗ trợ của khung ngày là vùng 83. MA khung ngày là 81... lấy giá tròn 82"
+    },
+    {
+      "gia": 82000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "MA khung ngày ~81-82 (số MA không nói rõ)"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": false,
+      "trich": "Hỗ trợ khung ngày là 82, ít nhất là 83.000"
+    },
+    {
+      "gia": 76000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [
+        "MA89 D1",
+        "vùng hỗ trợ cung cầu",
+        "đáy cũ nhịp đâm sâu 76K"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Đẹp nhất là nó về lại khoảng 76.000: MA89 trên khung ngày là vùng hỗ trợ cứng; đồng thời cũng là vùng hỗ trợ cung cầu"
+    },
+    {
+      "gia": 76000,
+      "gia_tren": null,
+      "vai_tro": "day_cu",
+      "huong": null,
+      "khung": "M30",
+      "can_cu": [
+        "MA600 M30 chỉ một lần giá đâm sâu thủng"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Một lần duy nhất nó đâm sâu về được là 76.000, sau đó đi lên tiếp 8x nghìn"
+    },
+    {
+      "gia": 84000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "GIAM",
+      "khung": "M30",
+      "can_cu": [
+        "MA600 khung 30 phút (hỗ trợ cũ thành kháng cự)",
+        "MA34 M5"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": false,
+      "trich": "Cho đến ngày hôm nay mới thấy lại đường MA này bị thủng... có xác suất đóng vai trò kháng cự; hồi lên đây cũng trùng với đường MA34 trên khung 5 phút"
+    },
+    {
+      "gia": 84000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "GIAM",
+      "khung": "M5",
+      "can_cu": [
+        "TP lúc nãy nằm ngay vùng này",
+        "volume profile có lực mua đứng lại"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": false,
+      "trich": "Vùng cản là 84.00... cái TP lúc nãy mình cho cũng nằm ngay vùng này"
+    },
+    {
+      "gia": 80000,
+      "gia_tren": 82000,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "Fibo gãy tất cả",
+        "trendline H4 đã thủng"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Bây giờ 80 đến 82.000 vẫn là vùng đẹp, Fibo gãy tất cả"
+    },
+    {
+      "gia": 85000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "volume profile có lực bán",
+        "MA hỗ trợ đã gãy"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": false,
+      "trich": "Lên trên 85.00 thì có lực bán, là vùng có volume giao dịch mạnh"
+    },
+    {
+      "gia": 82000,
+      "gia_tren": null,
+      "vai_tro": "sl",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "SL phe bắt đáy",
+        "cụm thanh lý / heatmap"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": false,
+      "trich": "những người vừa nhảy vào bắt đáy sẽ đặt SL 82.00"
+    },
+    {
+      "gia": 87000,
+      "gia_tren": null,
+      "vai_tro": "khac",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "Liquid short 87, không đánh giá cao"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "vùng Liquid short ở 87.000, mình không đánh giá cao"
+    },
+    {
+      "gia": 86600,
+      "gia_tren": null,
+      "vai_tro": "dinh_cu",
+      "huong": "TANG",
+      "khung": "H1",
+      "can_cu": [
+        "râu quét tối qua"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": false,
+      "trich": "nó vẫn cố quét tận 86.600"
+    },
+    {
+      "gia": 86000,
+      "gia_tren": null,
+      "vai_tro": "tp",
+      "huong": "TANG",
+      "khung": "H1",
+      "can_cu": [
+        "scalping tối qua"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "chốt ở 8600 luôn"
+    },
+    {
+      "gia": 60000,
+      "gia_tren": null,
+      "vai_tro": "day_cu",
+      "huong": null,
+      "khung": "H4",
+      "can_cu": [
+        "đáy sóng tăng H4"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "toàn bộ nhịp sóng tăng từ 60 cho đến 87.000 vừa rồi"
+    },
+    {
+      "gia": 70000,
+      "gia_tren": 79999,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": false,
+      "trich": "Tuần này chưa có 7x đâu... chặng đường từ đây về đầu bảy còn xa lắm"
+    },
+    {
+      "gia": 40000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "View của mình vẫn thế: 40.000 thì bây giờ hơi xa nên tạm cất"
+    },
+    {
+      "gia": 50000,
+      "gia_tren": 59999,
+      "vai_tro": "entry",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "gom mạnh tay từ 5x, mạnh nhất đầu 4x"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Kế hoạch của mình là 5x thì mua lại... 59, 57 là cũng ngon rồi"
+    },
+    {
+      "gia": 57000,
+      "gia_tren": null,
+      "vai_tro": "entry",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý / liquid ~3-3,6 triệu quanh 57.000"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "vẫn follow một vùng liquid ở trên 57 này: khoảng 3 triệu, 3,6 triệu quanh 57.000"
+    },
+    {
+      "gia": 55000,
+      "gia_tren": 57000,
+      "vai_tro": "entry",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý 57K"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "giả sử về đến 57-55 thì mình vẫn gom đều... nếu nó về lại đây thì gom mạnh hơn, khoảng 30%"
+    }
+  ]
+}

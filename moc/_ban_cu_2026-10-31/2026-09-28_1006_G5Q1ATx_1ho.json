@@ -1,0 +1,250 @@
+{
+  "buoi": "2026-09-28_1006_G5Q1ATx_1ho",
+  "ngay": "2026-09-28",
+  "gia_btc_luc_noi": 84000,
+  "moc": [
+    {
+      "gia": 83700,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "M5",
+      "can_cu": [
+        "đường MA trên khung 5 phút"
+      ],
+      "moc_gio": null,
+      "chac": false,
+      "trich": "khả năng trong ngắn hạn có pha phục hồi lên đâu đó khoảng 83.700 [83.007] đến đường MA này trên 5 phút"
+    },
+    {
+      "gia": 83000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "M5",
+      "can_cu": [
+        "hồi M5",
+        "volume bán áp đảo"
+      ],
+      "moc_gio": null,
+      "chac": false,
+      "trich": "hoàn toàn có thể M5 hồi lên khoảng 83.000 [8300, ?] rồi lại điều chỉnh tiếp"
+    },
+    {
+      "gia": 75000,
+      "gia_tren": null,
+      "vai_tro": "dinh_cu",
+      "huong": null,
+      "khung": "W1",
+      "can_cu": [
+        "cản đè 4 tuần liên tục, áp lực đến tận 75.000"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "nó đã mất 1, 2, 3, 4 tuần bị cản này đè liên tục, áp lực giá đến tận 75.000 mà không gãy"
+    },
+    {
+      "gia": 87000,
+      "gia_tren": null,
+      "vai_tro": "dinh_cu",
+      "huong": null,
+      "khung": "W1",
+      "can_cu": [
+        "quét thanh khoản tuần vừa rồi"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "tuần vừa rồi nó quét lên đến 87. Khi nó đến vùng 87 thì thanh khoản bên này đã được lấp gần như sạch"
+    },
+    {
+      "gia": 82000,
+      "gia_tren": 83000,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "W1",
+      "can_cu": [
+        "cản cũ chuyển thành hỗ trợ khung tuần",
+        "breakout nến tuần, mô hình 2 đáy"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "Hiện tại vùng này sẽ trở thành vùng hỗ trợ cứng... tuần này thấy đây là hỗ trợ khung tuần... vùng của nó từ 83 đến 82"
+    },
+    {
+      "gia": 82000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "W1",
+      "can_cu": [
+        "hỗ trợ khung tuần, mạnh hơn 83"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "Vùng 82 là vùng hỗ trợ cực kỳ mạnh cho nhịp này"
+    },
+    {
+      "gia": 82000,
+      "gia_tren": 82400,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [
+        "Fibo (bị từ chối lần 2)",
+        "hai đỉnh",
+        "đi ngang bị từ chối",
+        "thanh lý dày"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "nó sẽ đạp về tối thiểu là 82; 82 cho đến 82.400 gì đó thì mới may ra có phe mua nhảy vào lại"
+    },
+    {
+      "gia": 82400,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "Fibo",
+        "MA200 H1 thủng",
+        "hỗ trợ 82.xxx"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "Mình đoán khả năng sẽ có một pha test đâu đó khoảng 82.400 thì mới an tâm được"
+    },
+    {
+      "gia": 85000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "phe bán chiếm từ vùng căn cứ 85",
+        "cụm thanh lý / heatmap dày"
+      ],
+      "moc_gio": null,
+      "chac": false,
+      "trich": "phe bán... chiếm từ vùng căn cứ 85, sau đó chiếm về 84.00, rồi 84.300, rồi 84.400"
+    },
+    {
+      "gia": 80000,
+      "gia_tren": 81000,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "Fibo mở rộng"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "Fibo mở rộng... còn nếu Fibo thì phải về hẳn 81, 80"
+    },
+    {
+      "gia": 85000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý / heatmap rất dày",
+        "vùng dụ buy"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "Hit map trên này có một vùng 85 rất dày. Vùng này mình nghĩ là dụ buy rồi"
+    },
+    {
+      "gia": 82000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý / heatmap dày"
+      ],
+      "moc_gio": null,
+      "chac": false,
+      "trich": "Dưới này có vùng khoảng 82.00 [?] thanh lý dày"
+    },
+    {
+      "gia": 87000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý / heatmap (bản đồ khác)"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "vẫn còn vùng 85.000, thậm chí vùng 87.000"
+    },
+    {
+      "gia": 80000,
+      "gia_tren": 82000,
+      "vai_tro": "ho_tro",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý / heatmap (bản đồ khác)"
+      ],
+      "moc_gio": null,
+      "chac": false,
+      "trich": "dưới này có vùng khoảng 82.000 [?] cho đến 80.000, 81.000"
+    },
+    {
+      "gia": 82600,
+      "gia_tren": null,
+      "vai_tro": "tp",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "sát vùng hỗ trợ 82"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "TP1 ở 82.600; các TP dưới thì kéo dần, càng sát 82 càng nên chốt"
+    },
+    {
+      "gia": 80000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [
+        "RSI về 34-35 hoặc sát 30"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "nếu về sát dưới này thì giá chắc về đâu đó khoảng 80 là ngon"
+    },
+    {
+      "gia": 74000,
+      "gia_tren": null,
+      "vai_tro": "dinh_cu",
+      "huong": null,
+      "khung": null,
+      "can_cu": [
+        "đợt 74 (người xem nhắc)"
+      ],
+      "moc_gio": null,
+      "chac": false,
+      "trich": "Ông đừng chấp niệm vào đợt 74 nữa (người nói bác so sánh)"
+    },
+    {
+      "gia": 84800,
+      "gia_tren": null,
+      "vai_tro": "entry",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "entry người xem"
+      ],
+      "moc_gio": null,
+      "chac": false,
+      "trich": "Em có entry 84k8, gồng sale tiếp được không? — Thoải mái. Về thằng này 82.400 gì đó tính"
+    }
+  ]
+}

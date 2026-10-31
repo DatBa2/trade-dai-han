@@ -1,0 +1,53 @@
+{
+  "buoi": "2026-07-14_gpyn9kVPpn4",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/zip_clean/2026-07-14_gpyn9kVPpn4.txt",
+  "gia_btc_luc_noi": 62000,
+  "dau_buoi": {
+    "thien_huong_h4": "GIAM",
+    "gio": "[00:15:16]",
+    "trich": "chung là xu hướng thị trường hiện tại vẫn bán rất mạnh. Cho nên ở đây chúng ta không nên long, sẽ rất nguy hiểm. Và hoàn toàn có khả năng là gãy khỏi đoạn này thì đi về 5958 test... Đó là kịch bản xấu mà rất có khả năng dễ xảy ra thì anh em cần phải lưu ý."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "GIAM",
+    "do_chac": "vua",
+    "gio": "[00:52:33]",
+    "trich": "Bitcoin tiếp tục có một cây nến H4 đóng xanh nữa, rất đẹp. Nhịp này rất dễ hồi lên 63.000... Lên đến vùng 63 này vẫn bị cản... Mình nghĩ nó sẽ lên đây để lấy vùng này anh em. 63.000 này rất dễ quét. Chờ lên đó tìm điểm short thôi, hoặc DCA chia nhỏ volume ra từ giờ lên đến 63 thôi."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {"huong": "TANG", "dich": 63000},
+  "duong_di": [
+    {"huong": "TANG", "dich": 63000},
+    {"huong": "GIAM", "dich": 61000},
+    {"huong": "GIAM", "dich": [59000, 60000]}
+  ],
+  "dich_chinh": [59000, 60000],
+  "han_gio": null,
+  "vo_hieu": {
+    "gia": 64000,
+    "khung": "H4",
+    "so_nen": 1,
+    "chieu": "dong_tren",
+    "cau": "Râu trap long hôm thứ hai: cây này 64. Lên được đây thì không phải là lên test hay quét nữa, lên được đây thì lại là ngon quá rồi, lên được đây thì phục hồi rồi."
+  },
+  "lenh": [
+    {"chieu": "SHORT", "vao": [62000, 63000], "tp": [61000, 60000, 59000], "sl": 64000, "trang_thai": "de_xuat_moi"},
+    {"chieu": "SHORT", "vao": 63000, "tp": [62000], "sl": null, "trang_thai": "da_dong"}
+  ],
+  "hanh_dong": "vao_short",
+  "khung_lon": {"D1": "GIAM", "W1": null},
+  "pha_vo_gia": "[00:29:22] 'Râu trap long hôm thứ hai' lên 64; [00:53:05] '63.000 này rất dễ quét' (lên quét rồi rớt); [01:04:55] sau tin CPI 'quét hai đầu', 'lên quét 63 rớt xuống thì đẹp'.",
+  "trich_them": [
+    {"gio": "[00:06:29]", "cau": "Mình nghĩ nếu đoạn này anh em muốn short thì sẽ phải chia nhỏ volume ra từ đây lên đến 63.000. Khớp được chừng nào đó thì khớp."},
+    {"gio": "[00:13:10]", "cau": "Có một cây nến ngày rất xấu. Thế thì đối với cây nến ngày này chúng ta trước mắt là không biết làm gì thì cũng đừng long."},
+    {"gio": "[00:13:41]", "cau": "Vùng 6100 này rất nhạy cảm... khi nó vẫn giữ được vùng hỗ trợ này và nếu nó bật lên theo H4 thì thị trường vẫn giữ được cấu trúc sóng tăng."},
+    {"gio": "[00:14:12]", "cau": "Còn khi vùng 61.000 này mà nó bị đóng H4 thủng xuống dưới này thì xác suất rất cao nó về test lại vùng 59, cực kỳ cao. Bởi vì đây hai đỉnh này nếu nó thủng khỏi vùng hỗ trợ neckline ở đây thì nó sẽ down xuống."},
+    {"gio": "[00:15:46]", "cau": "Kịch bản đẹp nhất để phục hồi là khung ngày này nó về đến 60.000, sau đó trụ ở đây và sau đó bật lên thì chúng ta sẽ có một mô hình vai đầu vai ngược... Nhưng xác suất để xảy ra thì theo thị trường hiện tại chúng ta đánh giá là khó. Xác suất xảy ra thấp."},
+    {"gio": "[00:20:34]", "cau": "Vùng này gọi là đánh scalping thì mình sẽ chia volume từ giá hiện tại lên đến vùng 63. Stop loss đâu đó chắc phải trên 64, trên 64 hoặc là 63.000 tùy theo nến... TP thì có một số vùng, thứ nhất là 61.000... Sâu hơn thì khoảng là 60.000. Sâu hơn nữa thì là 59."},
+    {"gio": "[00:23:15]", "cau": "Có thể hồi lên 63 rồi mới giảm tiếp. Mình thấy cũng đúng... Phương án của mình là mình sẽ phân bổ vốn ra từ đây lên 63."},
+    {"gio": "[00:29:59]", "cau": "Đoạn này mà phục hồi mình nghĩ khoảng 6300 là cao. 6300 cũng phù hợp với vùng liquid ở đây. 64 thì hơi khó."},
+    {"gio": "[00:31:07]", "cau": "Nhịp này Bitcoin sẽ về đâu nếu là tin tốt? Nếu tốt thực sự thì nó sẽ đóng kéo lên trên khỏi đường MA này. Hai cụm MA này tức là đóng lên trên khoảng 63000."},
+    {"gio": "[00:18:25]", "cau": "Như hôm qua anh em có thể thấy là lệnh short ở 63.000 khớp TP ở 62.000 là chốt vậy thôi."}
+  ],
+  "kho": "Đích 59–60 chỉ chắc khi H4 đóng dưới 61.000 (người đó nói xác suất 'cực kỳ cao' nếu thủng); TP chia 61 → 60 → 59. Vô hiệu: SL 'trên 64 hoặc 63.000 tùy nến', và nếu CPI tốt thật thì đóng trên ~63.000 (cụm MA) — lấy 64 vì người đó nói 'lên được đây thì phục hồi rồi'. Cuối buổi H4 xanh, người đó chờ hồi 63 để short."
+}

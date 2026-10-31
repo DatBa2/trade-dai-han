@@ -1,0 +1,49 @@
+{
+  "buoi": "2026-10-01_1005_56fLd04MSps",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/lam_sach/2026-10-01_1005_56fLd04MSps.md",
+  "gia_btc_luc_noi": 83500,
+  "dau_buoi": {
+    "thien_huong_h4": "GIAM",
+    "gio": null,
+    "trich": "Nhìn cái màu này của BTC khá hấp dẫn, nhìn rất là muốn sale nhá. Đoạn này nếu gãy chắc cũng lại về MA200. Về được đấy thì ngon."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "GIAM",
+    "do_chac": "vua",
+    "gio": null,
+    "trich": "Sau pha đêm qua, việc bị từ chối liên tục ở vùng 84 mang ý nghĩa lớn hơn việc liên tục được hỗ trợ ở vùng 83. ... Thành thử xác suất nó kéo về vùng 82 mình vẫn thấy khả thi. ... Mình nghĩ vẫn phải là 82 hoặc quanh 82 mà đỡ được thì sau đó nó mới an toàn hơn; còn cứ 83 này mà kéo lên nhìn không chắc chắn tí nào."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {"huong": "TANG", "dich": [84000, 84500]},
+  "duong_di": [
+    {"huong": "TANG", "dich": [84000, 84500]},
+    {"huong": "GIAM", "dich": 82000}
+  ],
+  "dich_chinh": 82000,
+  "han_gio": null,
+  "vo_hieu": {
+    "gia": 85000,
+    "khung": "H4",
+    "so_nen": 1,
+    "chieu": "dong_tren",
+    "cau": "Phe mua sẽ lấy lại lợi thế khi nến H4 đóng và duy trì tốt trên vùng 84 để tiến lên 85; phải đóng trên 85 thì thị trường mới bắt đầu bullish, xu hướng tăng được củng cố và kéo lên tiếp 88 hay 90."
+  },
+  "lenh": [
+    {"chieu": "SHORT", "vao": [83500, 84500], "tp": [82000], "sl": 85000, "trang_thai": "de_xuat_moi"},
+    {"chieu": "LONG", "vao": 81500, "tp": [], "sl": null, "trang_thai": "de_xuat_moi"}
+  ],
+  "hanh_dong": "dung_ngoai_cho_entry",
+  "khung_lon": {"D1": null, "W1": "TANG"},
+  "pha_vo_gia": "Đêm qua sau tin PCE giá quét lên 85.600 rồi đảo ngược: người nói gọi là quét stop loss, 'gần như đây là nhịp fake out' ở vùng cản 84–85 (H4 không đóng qua được); H1 có 'cặp fake out'. Nhiều người bị kẹt long 84–85.",
+  "trich_them": [
+    {"gio": null, "cau": "Cộng với các biểu đồ khung tuần hoặc khung tháng chưa có bất kỳ tín hiệu xấu nào. Cho nên chúng ta vẫn có plan dự phòng giá nó sẽ kéo lên 90. Điều này sẽ thất bại khi khung tuần hoặc khung ngày bắt đầu có tín hiệu xấu"},
+    {"gio": null, "cau": "Về bản chất kỹ thuật thì chủ yếu nó quét stop loss. Vùng 84 đến 85 là một vùng cản rất lớn của market bây giờ, và gần như đây là nhịp fake out."},
+    {"gio": null, "cau": "Với áp lực bán mạnh như thế này, 84.000 không giữ được thì rất có khả năng nó tìm về vùng hỗ trợ mạnh kế tiếp là 81.000 [?] đến 82.000 [?]"},
+    {"gio": null, "cau": "Chờ thủng bắt tín hiệu sớm, thủng đoạn khoảng 83.000 [?] mà tuột một phát thì mình nghĩ chắc về đến 83, nhưng 83 đoạn này chắc không giữ được, khả năng tuột rất nhanh về khoảng 82.000 ... Những điểm cao này là gợi ý để anh em TP nếu có bán xuống, chứ không phải entry để đánh lên. Nếu đánh lên thì nên chọn entry sâu hơn, ví dụ mình nghĩ khoảng 81 nghìn mấy; vùng dưới nên chờ quanh 81.500 xem sao."},
+    {"gio": null, "cau": "Hiện tại thị trường rõ ràng là cấu trúc điều chỉnh, nhưng trong ngắn hạn nó đang sideway, đi ngang. Anh em nào an toàn, chắc kèo thì như mình chờ nó test Fibo lại ở trên xem có không, vùng 84 này, vùng râu này. ... Nếu không muốn lỡ tàu thì chia nhỏ ra, giải bốn năm lệnh từ đây lên, SL trên Fibo này, trên 85 là thoát."},
+    {"gio": null, "cau": "Phương án của mình là chờ nó test lại ở vùng khoảng 84.500 [?] (gốc \"84.005 8400200\") gì đó."},
+    {"gio": null, "cau": "Tối nay mình dự kiến cũng khá kinh hoàng, mình đoán và có cảm nhận như vậy. Cho nên mọi người đừng long FOMO."}
+  ],
+  "kho": "Transcript không có mốc giờ. H4 nghiêng xuống về 82 khá rõ (cản 84–85 vừa fake out, USDT.D muốn lên, F&G cao), nhưng khung tháng/tuần vẫn đẹp, plan lớn vẫn có kịch bản lên 90 nếu đóng trên 85. Câu 'Phương án của mình là chờ test lại 84.500 [?]' nằm lẫn trong đoạn vàng nhưng số là giá BTC → hiểu là chờ hồi 84–84.5 để short. Đích 82 (có thể sâu 81–81.5 là vùng mua). Lệnh short là gợi ý cho người xem (giải lệnh từ giá hiện tại lên ~84, SL trên 85), không xác nhận người nói đã vào. Phụ đề có chỗ nói 'hôm nay thứ sáu' mâu thuẫn ngày (01/10 là thứ năm, non-farm 'ngày mai')."
+}

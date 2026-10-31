@@ -1,0 +1,52 @@
+{
+  "buoi": "2026-09-04_1014_eujLmRVw88k",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/lam_sach/2026-09-04_1014_eujLmRVw88k.md",
+  "gia_btc_luc_noi": 80700,
+  "dau_buoi": {
+    "thien_huong_h4": "GIAM",
+    "gio": null,
+    "trich": "Thứ hai, mình không long ở vùng này, tuyệt đối. Cá nhân mình nghĩ nếu muốn long thì phải chờ một pha gãy về đâu đó quanh 70 đến 72 thì mới là điểm long đẹp. Và để hợp lý hóa đường giá thì câu chuyện nó pump lên đây để đi xuống cũng hợp lý: phải về giữa vùng này, sau đó đi lên mới đẹp."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "GIAM",
+    "do_chac": "thap",
+    "gio": null,
+    "trich": "Mình nghĩ khả năng là hồi thì có. Nhắc lại những vị thế các bạn đánh sót đều là ngược xu hướng cho nên cần phải thận trọng. Còn không thì thị trường như hiện tại nên ở ngoài để quan sát, chờ khi nào nó bắt đầu đi vào những nhịp sóng cụ thể hơn thì đánh tiếp sẽ dễ hơn."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {"huong": "TANG", "dich": [81000, 81600]},
+  "duong_di": [
+    {"huong": "TANG", "dich": [81000, 81600]},
+    {"huong": "GIAM", "dich": [70000, 72000]}
+  ],
+  "dich_chinh": [70000, 72000],
+  "han_gio": null,
+  "vo_hieu": {
+    "gia": 83000,
+    "khung": "H4",
+    "so_nen": 1,
+    "chieu": "dong_tren",
+    "cau": "Vùng này cắt toàn bộ phải cắt ở trên 83. Tức là nếu H4 đóng trên 83 là bắt buộc các bạn phải cắt, không giữ quá 83 được. 83 là điểm cuối có thể trụ được đối với lệnh sót rồi nhá, điểm cuối rồi."
+  },
+  "lenh": [
+    {"chieu": "SHORT", "vao": [81000, 81600], "tp": [], "sl": 83000, "trang_thai": "dang_giu"},
+    {"chieu": "SHORT", "vao": [81000, 81600], "tp": [], "sl": 83000, "trang_thai": "de_xuat_moi"},
+    {"chieu": "LONG", "vao": [70000, 72000], "tp": [90000], "sl": null, "trang_thai": "de_xuat_moi"},
+    {"chieu": "LONG", "vao": 83000, "tp": [92000], "sl": null, "trang_thai": "de_xuat_moi"}
+  ],
+  "hanh_dong": "giu_lenh",
+  "khung_lon": {"D1": "PHAN_VAN", "W1": "GIAM"},
+  "pha_vo_gia": "Gọi vùng hiện tại (~80–81, dưới cản 83) là dễ thành trap long: 'Long ở đây nhìn cứ hơi trap trap thế nào ấy'; 'vùng này nhiều người view long quá, nên nó dễ trở thành một trap view, trở thành một trap long... đóng cây H4 này có thể là break cản, break cản và đi xuống... Gọi là fake out cũng được'.",
+  "trich_them": [
+    {"gio": null, "cau": "Mình phải nói luôn là view này là theo góc độ cá nhân, theo cảm nhận cộng với kinh nghiệm cá nhân; xét về cơ sở thì tạm thời ít cơ sở để confirm view này. Vì thế mình không long Bitcoin ở vùng này, vì mình thấy quá nguy hiểm, quá rủi ro..."},
+    {"gio": null, "cau": "Xét mô hình cờ ở đây trên H4 thì nó sẽ lên đây. Vùng này mình cũng đã view trước cho anh em: khi vượt qua được 83 này thì nó có khả năng lên được vùng 92, 93."},
+    {"gio": null, "cau": "Nếu cây nến tuần này màu xanh và đóng qua được 83, chắc là đóng qua được 82.000 [?] (\"8200\") thì mình sẽ đến nhịp từ 83 lên đến 92. Khả năng đó sẽ là nhịp long ok đối với góc nhìn cá nhân mình. Còn ở vùng giá 80, 81 này thì mình sẽ không long."},
+    {"gio": null, "cau": "Còn để long lên thì hiện tại mình thấy không nên vì nguy hiểm; mình vẫn có cảm giác là có thể xảy ra những nhịp gãy về đâu đó khoảng tầm 72, 70 hoặc thậm chí sâu hơn. Đó là góc nhìn của mình đối với Bitcoin."},
+    {"gio": null, "cau": "Hiện tại mình đang sale một lệnh ở khoảng 81.600 [?] (\"81.00\"), vẫn chưa chốt. Lúc nãy định cân nhắc chốt ở khoảng 80.600 (\"80.006\") được khoảng 500 giá, nhưng nghĩ đi nghĩ lại thì thấy còn ít quá, chưa muốn chốt. Có thể nhịp này nó lên lại Fibo, lên lại 81.600 [?] chăng."},
+    {"gio": null, "cau": "Tóm lại Bitcoin trong ngày hôm nay mình sẽ không long. Còn các vị thế sale: thứ nhất chờ xem phản ứng ở vùng giá hiện tại thế nào thì mình xử lý lệnh đang có. Thứ hai, nếu có những nhịp hồi lên khoảng 81.600 [?] hoặc 81.000 thì cân nhắc, mình sẽ quan sát phản ứng và hình thái nến ở đó..."},
+    {"gio": null, "cau": "RSI giảm, volume giảm, nến tăng: combo sập. Trong người ông đang có lệnh sót thì ông cứ nhìn ra như thế. Chắc còn một tí nữa thì nó sẽ chạm đường MA dưới này."},
+    {"gio": null, "cau": "Khung ngày đã có một cây nến xanh đóng lên khá ổn, nhưng xét ở RSI thì nó vẫn là phân kỳ khung ngày."}
+  ],
+  "kho": "File không có mốc giờ. Cấu trúc H4 đang tăng (cờ H4, qua 83 thì lên 92–93) và người đó thừa nhận short là ngược xu hướng, 'ít cơ sở'; nhưng họ nghiêng giảm theo cảm nhận (không long, giữ lệnh sale, kỳ vọng gãy về 70–72) nên ghi GIAM độ chắc thấp. Giá vào lệnh sale đang giữ không chắc (phụ đề '81.00', chốt 80.6 'được khoảng 500 giá' gợi ý ~81.1) nên ghi khoảng 81.0–81.6. SL 83 lấy từ câu trả lời cho lệnh short 81K4 của khán giả."
+}

@@ -1,0 +1,75 @@
+{
+  "buoi": "2026-03-09_-jRLufOuVEE",
+  "ngay": "2026-03-09",
+  "gio_vn": "10:00",
+  "gia_btc_luc_noi": 66800,
+  "nhan_dinh": [
+    {
+      "khung": "H4",
+      "huong": "TANG",
+      "do_chac": "thap",
+      "dich": [68000, 70000],
+      "han": "trong ngày; hôm nay có sóng tăng thì chốt, đừng tham",
+      "han_gio": 24,
+      "vo_hieu_khi": "thủng 64.000-65.000 thì không còn đáy cao",
+      "kich_ban_phu": "đâm về 64.000-64.600 quét SL rồi mới lên (bắt ở đó đẹp nhất, SL ~62.800); vượt 68.000 thì đánh đuổi lên 70.000/74.000-75.000 (Fibo mở rộng 1.618 = 75.000); nên thoát khi lên 74-75",
+      "ly_do": [
+        "đáy khung ngày liên tục cao dần, không có lý do short ở vùng giá thấp",
+        "cây H1 đỏ sáng nay giống fake out, volume đầy rồi đi ngược lên",
+        "heatmap: nhiều lệnh short phía trên, hôm nay (thứ hai) chưa nên short",
+        "H4 đóng cặp xanh thì chỉ có long; nhưng entry giá hiện tại xấu, SL xa, RR không xứng"
+      ],
+      "trich": "nếu mà một trong hai hướng ở thời điểm bây giờ mình vẫn chọn là hướng long thôi. Nhưng mà để mà có kèo bây giờ gần như là khó không thể lên được kèo nữa rồi.",
+      "doi_y": "giữa buổi nhận xét H4 khá xấu, đã gãy xu hướng hồi ngắn hạn, thận trọng; cuối buổi nghiêng long khi H4 đóng xanh",
+      "duong_di": [
+        {"huong": "GIAM", "dich": 64600},
+        {"huong": "TANG", "dich": 68000}
+      ]
+    },
+    {
+      "khung": "D1",
+      "huong": "PHAN_VAN",
+      "do_chac": "vua",
+      "dich": [64500, 75000],
+      "han": null,
+      "han_gio": null,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": "nếu hồi tốt thì chạy kênh song song lên 1.618 ở 75.000; có thể gãy về 64.500 rồi phục hồi",
+      "ly_do": [
+        "chỉ là hồi kỹ thuật chứ không phải uptrend, vẫn nằm dưới MA",
+        "nhưng đáy chưa bị phá nên chưa sell; nến tuần coi là nến trap, short quá sớm"
+      ],
+      "trich": "Đây chỉ còn chẳng qua là hồi kỹ thuật thôi. ... tạm thời là không sell khi cái xu hướng nó chưa được hiển thị.",
+      "doi_y": null,
+      "duong_di": null
+    }
+  ],
+  "vung_gia": {"khang_cu": [68000, 70000], "ho_tro": [64000, 66000]},
+  "lenh": [
+    {"chieu": "LONG", "loai": "limit", "vao": [64000, 64600], "tp": [70000, 74000], "sl": 62800,
+     "trang_thai": "de_xuat_moi",
+     "trich": "Nếu mà an toàn thì anh em có thể chờ một cái nhịp bắn ở dưới này khoảng độ 64.600 64.000 gì đó."},
+    {"chieu": "LONG", "loai": "scalping khi qua 68.000", "vao": 68000, "tp": [70000, 74000], "sl": 67000,
+     "trang_thai": "de_xuat_moi",
+     "trich": "FOMO thì nên đánh khi mà giá qua khỏi 68.000 thì lúc đó chúng ta hẵng đánh một cái nhịp đánh đuổi lên trên"}
+  ],
+  "nhin_lai_truoc": "Kèo long ngắn và các kèo ETH (TP 1918, 1958) ăn tốt; kèo dầu x2 từ 59 chốt phần nhiều ở 104-105.",
+  "cong_cu": ["H1", "H4", "D1", "W1", "MA34/MA89", "Fibo mở rộng 1.618", "trendline", "liquidation heatmap", "gap CME", "BTC.D", "Fear & Greed"],
+  "tin_tuc": [{"tin": "Giá dầu vọt 115-120 sau tin chiến tranh Mỹ-Iran", "danh_gia": "dầu lên thì lạm phát và đô la lên; vàng bạc hồi là hồi quang phản chiếu; coin vào downtrend sớm nên ít bị ảnh hưởng"}],
+  "thoi_quen": [
+    "trong downtrend, ăn ngắn nhiều lần (1000-2000 giá) thay vì gồng",
+    "kéo entry xuống để SL gần và RR đẹp thay vì đánh giá hiện tại",
+    "thứ hai tăng thì những ngày sau dễ gãy",
+    "chốt lệnh scalping ở 68.000, không gồng"
+  ],
+  "cau_cua_mieng": [
+    "FOMO thì cứ làm tí cà phê rồi ngồi chờ thôi.",
+    "Anh em thích xổ số thì kèo chỉ có long thôi, thích thì cứ phang vào nhưng lỗ đừng kêu."
+  ],
+  "altcoin": [
+    {"coin": "ETH", "huong": "TANG", "ghi": "khỏe hơn BTC, break thì lên 2001; nếu BTC về 40.000 thì ETH fake out về ~800"},
+    {"coin": "altcoin chung", "huong": "TANG", "ghi": "DOM gãy, altcoin có thể phục hồi, nhưng chỉ nên đánh BTC và ETH"},
+    {"coin": "VANG", "huong": "GIAM", "ghi": "nguy hiểm mua giá này, có thể về 4000 hoặc 3000; hiện khó đánh nên ngồi ngoài"}
+  ],
+  "ghi_chu": "Phần dầu, VN-Index, vĩ mô bỏ qua. Giá BTC lấy theo 'hồi nhẹ lên 67' và 'qua khỏi 66' trong buổi."
+}

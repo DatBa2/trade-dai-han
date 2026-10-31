@@ -1,0 +1,45 @@
+{
+  "buoi": "2026-10-23_1002_cb85mXIfTv8",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/lam_sach/2026-10-23_1002_cb85mXIfTv8.md",
+  "gia_btc_luc_noi": 81000,
+  "dau_buoi": {
+    "thien_huong_h4": "GIAM",
+    "gio": null,
+    "trich": "Nó đi như vậy là đi fake out rồi, đi như trên này là fake out và đã break rồi. Đoạn này mình nghĩ là nó sẽ sập về test lại vùng bảy mấy thôi, sớm thôi."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "GIAM",
+    "do_chac": "vua",
+    "gio": null,
+    "trich": "Rất nhiều dữ liệu cho chúng ta thấy vùng 77 đến 78 hoàn toàn là vùng có khả năng xảy ra, khả thi. Đây là một tín hiệu mà anh em đang muốn buy nên thận trọng, lưu ý."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {"huong": "TANG", "dich": [82000, 82500]},
+  "duong_di": [
+    {"huong": "TANG", "dich": [82000, 82500]},
+    {"huong": "GIAM", "dich": [77000, 78000]}
+  ],
+  "dich_chinh": [77000, 78000],
+  "han_gio": null,
+  "vo_hieu": {
+    "gia": 82000,
+    "khung": "D1",
+    "so_nen": 1,
+    "chieu": "dong_tren",
+    "cau": "Trừ khi ngày mai nó đóng nến ngày lên trên lại đường 82 thì lúc đó chúng ta khó chịu, khó chơi. Còn nếu cứ giữ dưới vùng 82 này thì ok, dễ hơn, thuận hơn."
+  },
+  "lenh": [],
+  "hanh_dong": "dung_ngoai_cho_entry",
+  "khung_lon": {"D1": "GIAM", "W1": null},
+  "pha_vo_gia": "Nhịp hồi lên 84 hôm trước: 'xác suất cực kỳ cao đây là một nhịp phá cao đi lên (fake)... Bây giờ nó trap lại thì những người bị mắc kẹt ở trên này gần như vào thế rồi.'",
+  "trich_them": [
+    {"gio": null, "cau": "Đoạn này mình nghĩ sẽ phải chờ team này bị thanh lý. M5 thì có thể bị kill nhỏ ở đoạn này, nhưng đi như vậy chắc điều chỉnh khoảng 200 giá nữa rồi lại vòng lên, vòng lên rồi mới vòng xuống lại được. Chắc đến chiều tối nay thì may ra mới điều chỉnh xuống tiếp."},
+    {"gio": null, "cau": "MA34 ở đây sẽ trở thành vùng kháng cự, và giá hiện tại 82.000 cũng là một vùng kháng cự luôn. Cho nên xác suất nó điều chỉnh test về lại vùng 78 là có và rất lớn, anh em thận trọng."},
+    {"gio": null, "cau": "Thực tế cái này 50/50. Khi nào xu hướng chạy xong thì mới confirm được... Nó có thể gãy về 77, 78 nên chúng ta không vào vị thế ở vùng này."},
+    {"gio": null, "cau": "Trong nhịp bây giờ chúng ta đang ở đoạn back test đi lên, mình vẫn kỳ vọng nó sẽ test thêm một phát nữa ở đâu đó cao trên này 82.000 mấy cho nó đẹp... Cho nên để an toàn mình chờ đám short này bị thanh lý hết rồi xem thế nào."},
+    {"gio": null, "cau": "Hai đỉnh này hơi bị dụ dỗ đấy. Mình nghĩ nó vẫn không gãy nhiều được; đoạn này chắc nó lại sideway, vùng này lại đi lên tiếp. Đi lên tiếp phát nữa phải quét được vùng 83.000 [?] may ra, cứ ở trên 82.000 thì may ra, còn tầm này thấy không hợp lý."},
+    {"gio": null, "cau": "View vùng thì cứ bám mà follow. Đoạn này vẫn phải chờ thôi, kiên nhẫn vào."}
+  ],
+  "kho": "File không có mốc giờ. Người nói tự nhận mô hình cờ/điều chỉnh là '50/50' nhưng cá nhân nghiêng phá cao giả và đích 77-78k; câu cuối buổi 'hai đỉnh... vẫn không gãy nhiều được, lại đi lên tiếp' chỉ là nhịp hồi ngắn lên quét 82-83k (khớp chặng kế tiếp), không phải đổi view chính. Không đặt lệnh, chỉ khuyên không buy và chờ."
+}

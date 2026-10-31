@@ -1,0 +1,423 @@
+{
+  "buoi": "2026-09-29_1002_3inGNRqb-UM",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/lam_sach/2026-09-29_1002_3inGNRqb-UM.md",
+  "gia_btc_luc_noi": 82800,
+  "dau_buoi": {
+    "thien_huong_h4": "GIAM",
+    "gio": null,
+    "trich": "Thị trường như này long hiện tại mình chưa thấy cửa, bởi vì Bitcoin khả năng vẫn còn điều chỉnh nữa."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "GIAM",
+    "do_chac": "thap",
+    "gio": null,
+    "trich": "Bitcoin chuẩn bị đóng nến; đóng ngay vùng lưng chừng này hơi đau đầu. ... Nó sẽ hồi lên quét khoảng 83.300 [83.003 trong phụ đề] đến 83.00 [?]. Chốt nến ở đây thì tạm thời không có gì thay đổi lắm. Mình nghĩ nhịp này chắc vẫn phải về test lại vùng 800 đến 800 [?] này thôi."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {
+    "huong": "TANG",
+    "dich": [
+      83000,
+      83300
+    ]
+  },
+  "duong_di": [
+    {
+      "huong": "TANG",
+      "dich": [
+        83000,
+        83300
+      ]
+    },
+    {
+      "huong": "GIAM",
+      "dich": [
+        82000,
+        82400
+      ]
+    }
+  ],
+  "dich_chinh": [
+    82000,
+    82400
+  ],
+  "han_gio": null,
+  "vo_hieu": {
+    "gia": 85000,
+    "khung": "H4",
+    "so_nen": 1,
+    "chieu": "dong_tren",
+    "cau": "Muốn biết tiếp theo nó về dưới 80 hay lên lại trên 85 thì quan sát thật kỹ, quyết định sẽ được đưa ra trong vùng 81 đến 83. Nó phá đầu nào thì thị trường tiếp theo chạy theo đầu đó."
+  },
+  "lenh": [],
+  "hanh_dong": "dung_ngoai_cho_entry",
+  "khung_lon": {
+    "D1": "GIAM",
+    "W1": null
+  },
+  "pha_vo_gia": "Hai đáy H1: 'hai đáy này mà các bạn đánh thì tỉ lệ bị stop loss rất cao, vì mình nghĩ nó vẫn rất muốn quét ... về test lại vùng đâu đó khoảng 82.400 thì mới đẹp. Chắc phải fake out đoạn này một tí.' (Kèm bài học fake out biên sideway lấy ví dụ LINK.)",
+  "trich_them": [
+    {
+      "gio": null,
+      "cau": "Hỗ trợ khung tuần của chúng ta hiện tại là vùng này 82.000. Đường màu vàng mình vẽ là line hỗ trợ trendline, và zone hỗ trợ của nó là vùng loanh quanh hiện tại: 83, 82, 81."
+    },
+    {
+      "gio": null,
+      "cau": "Nếu sau đó đóng vài cây nến và giữ được trên 82 thì vùng này giúp giá đỡ để đẩy lên con sóng tiếp theo khoảng 90.000. Nhưng đó là điều kiện, nếu. Còn nếu thủng 82, về 81 thì sẽ trôi về dưới 80 rất nhanh; còn từ 80 đến 75 thì nó đứng ở đó."
+    },
+    {
+      "gio": null,
+      "cau": "H4 đang có xu hướng điều chỉnh: đỉnh đáy thấp dần. Tuy nhiên vùng 83 đang bắt đầu cố trụ; 82–83 như nói là hỗ trợ nên nó đang cố trụ."
+    },
+    {
+      "gio": null,
+      "cau": "H1 vẫn đang cố giữ giá. Đường MA này, nhưng volume bán trong này đang rất dày, giá nằm dưới MA200 của H1 rồi, nên xác suất quét về dưới này, 82.000, cực kỳ cao. Nhưng mình vẫn nhắc anh em đây là vùng hỗ trợ: dù biết xác suất quét về dưới rất cao, những lệnh sale bắt buộc phải đặt stop loss"
+    },
+    {
+      "gio": null,
+      "cau": "Hiện tại mình không trade để ăn nhịp quá lớn khi đánh xuống: nó ngược xu hướng và gặp rất nhiều hỗ trợ."
+    },
+    {
+      "gio": null,
+      "cau": "Thực tế nó ngược lại; nhưng vì quan điểm của mình là thị trường Bitcoin vẫn còn xấu nên mình không buy, không chờ nhịp fake out giảm để buy lên."
+    },
+    {
+      "gio": null,
+      "cau": "H4 Bitcoin vẫn thể hiện khả năng tiếp tục tăng, trừ khi thủng 82 thì mới bắt đầu xấu."
+    },
+    {
+      "gio": null,
+      "cau": "Hỏi: Bao giờ về 7x, ETH phải 2000? — Mình nghĩ cũng sớm thôi, trong tháng 10 gì đó, hoặc tệ thì trong năm nay. [?]"
+    },
+    {
+      "gio": null,
+      "cau": "Hỏi: Đang sale giá 84k5, có nên SL entry không? — 84k5 thì mình nghĩ SL entry cũng được, an toàn."
+    },
+    {
+      "gio": null,
+      "cau": "Cho nên hôm nay cứ nhìn Bitcoin mà đánh. Vùng này còn lằng nhằng lắm, còn vòng vèo lên nhiều lắm nhá."
+    }
+  ],
+  "kho": "Transcript không có mốc giờ. Nghiêng xuống ngắn hạn rõ (H1 dưới MA200, 'xác suất quét về dưới 82.000 cực kỳ cao', 'Bitcoin vẫn còn xấu nên không buy') nhưng giá đang ở hỗ trợ tuần/H4 82–83, người nói cấm sale ở hỗ trợ, nói quyết định lớn (dưới 80 → 78–79 hay trên 85 → 90) nằm ở vùng 81–83 và có câu mâu thuẫn 'H4 Bitcoin vẫn thể hiện khả năng tiếp tục tăng, trừ khi thủng 82' → GIAM độ chắc thấp, đích chính chỉ là quét 82–82.4. Giá lúc nói không rõ ('82.0089 [?]'); suy ~82.8k vì còn muốn 'về test 82.400' và chờ H4 'đóng giữ trên 83'. Câu cuối có số lỗi ('vùng 800 đến 800 [?]'). vo_hieu 85 lấy từ ngưỡng 'lên lại trên 85', không phải câu tuyên bố sai view.",
+  "nhin_lai_view_truoc": {
+    "view_truoc": "GIAM",
+    "giu_hay_doi": "giu",
+    "vi_sao": "Pha lên hôm qua chỉ là điều chỉnh kỹ thuật, xu hướng giữ; đêm qua râu kéo lên ~84 chỉ để lấy thêm thanh khoản, cấu trúc BTC vẫn không đẹp → chưa thấy cửa long, còn điều chỉnh",
+    "gio": null,
+    "trich": "Mặc dù sau đó phiên đêm Bitcoin có một cái râu kéo lên độ 84 để lấy thêm thanh khoản, nhưng cấu trúc của Bitcoin hiện tại vẫn không đẹp."
+  },
+  "trendline": [
+    {
+      "khung": "W1",
+      "loai": "ho_tro_tang",
+      "noi_tu": "Đường màu vàng ông vẽ trên khung tuần: line hỗ trợ trendline, zone hỗ trợ 83-82-81 (không nêu điểm neo)",
+      "diem_neo": [],
+      "gia_duong_luc_noi": 82000,
+      "trang_thai": "dang_giu",
+      "dieu_kien_pha": "thủng 82, về 81 → trôi về dưới 80 rất nhanh (78-79); giữ trên 82 vài cây nến → sóng tiếp lên ~90.000",
+      "ket_luan_huong": null,
+      "gio": null,
+      "trich": "Hỗ trợ khung tuần của chúng ta hiện tại là vùng này 82.000. Đường màu vàng mình vẽ là line hỗ trợ trendline, và zone hỗ trợ của nó là vùng loanh quanh hiện tại: 83, 82, 81."
+    }
+  ],
+  "nen_volume": [
+    {
+      "khung": "H4",
+      "nen": "đỉnh đáy thấp dần nhưng 83 đang cố trụ; nếu H4 đóng giữ trên 83.000",
+      "volume": null,
+      "ket_luan": "lực mua giữ giá, bị kẹp trong biên tuần này; chờ MA thu hẹp + cấu trúc đẹp (hai đáy / vai đầu vai quét 82 rồi back test 82.500) mới setup đánh lên",
+      "gio": null,
+      "trich": "Nếu H4 tí nữa đóng giữ được trên 83.000 nghĩa là lực mua đang giữ giá và nó sẽ bị kẹp dần trong biên này, trong tuần này. Chúng ta để ý khi hai đường MA thu hẹp về nhau và bắt đầu có cấu trúc đẹp, ví dụ hai đáy, hoặc vai đầu vai"
+    },
+    {
+      "khung": "H1",
+      "nen": "giá nằm dưới MA200 H1, đang cố giữ",
+      "volume": "volume bán rất dày",
+      "ket_luan": "xác suất quét về 82.000 cực kỳ cao (nhưng đây là hỗ trợ, sale phải có SL)",
+      "gio": null,
+      "trich": "H1 vẫn đang cố giữ giá. Đường MA này, nhưng volume bán trong này đang rất dày, giá nằm dưới MA200 của H1 rồi, nên xác suất quét về dưới này, 82.000, cực kỳ cao."
+    },
+    {
+      "khung": "H1/M5",
+      "nen": "H1 cố giữ hai đáy; M5 cố kéo lên",
+      "volume": "M5 volume vẫn yếu",
+      "ket_luan": "chỉ kéo ~83.000 rồi lại rơi",
+      "gio": null,
+      "trich": "H1 đang cố giữ hai đáy; M5 đang cố kéo lên nhưng volume vẫn yếu, nên nhịp này khả năng chỉ kéo đâu đó khoảng 83.000 [?] rồi lại rơi xuống."
+    },
+    {
+      "khung": "H1",
+      "nen": "hai đáy H1 nếu cây nến này đóng xanh",
+      "volume": null,
+      "ket_luan": "đánh hai đáy này tỉ lệ SL rất cao vì còn muốn quét 82.400 (fake out)",
+      "gio": null,
+      "trich": "Có thể coi là hai đáy nếu cây nến này đóng màu xanh. Nhưng hai đáy này mà các bạn đánh thì tỉ lệ bị stop loss rất cao, vì mình nghĩ nó vẫn rất muốn quét."
+    },
+    {
+      "khung": null,
+      "nen": "nến chuẩn bị đóng ở vùng lưng chừng, có rút râu khá nét",
+      "volume": null,
+      "ket_luan": "dễ hồi lên quét 83.000-83.300 rồi đi xuống tiếp",
+      "gio": null,
+      "trich": "Bitcoin chuẩn bị đóng nến; đóng ngay vùng lưng chừng này hơi đau đầu. Kéo rút được cái râu này cũng khá nét, nhưng đóng ở đây lại dễ hồi lên rồi đi xuống nữa."
+    }
+  ],
+  "cach_lam": [
+    {
+      "hanh_dong": "ve",
+      "cong_cu": "trendline",
+      "chi_tiet": "Vẽ line hỗ trợ trendline màu vàng trên khung tuần",
+      "ket_qua": "hỗ trợ tuần 82.000, zone 81-83",
+      "gio": null,
+      "trich": "Đường màu vàng mình vẽ là line hỗ trợ trendline, và zone hỗ trợ của nó là vùng loanh quanh hiện tại: 83, 82, 81."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "dinh_day_cu",
+      "chi_tiet": "Vùng base tích lũy ~1 tháng ở 75-80",
+      "ket_qua": "thủng 80 thì đứng lại 78-79, khó về nhanh 75-69",
+      "gio": null,
+      "trich": "Nó về đến đó sẽ đứng lại vì đó là vùng hỗ trợ, đã tái tích lũy một khoảng thời gian rất dài (khoảng 1 tháng nằm ở vùng 75 đến 80) nên không dễ gãy qua khỏi đoạn này."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "ema",
+      "chi_tiet": "MA200 H1; hai đường MA H4 thu hẹp",
+      "ket_qua": "giá dưới MA200 H1 → quét 82; chờ MA H4 thu hẹp + cấu trúc đẹp mới long",
+      "gio": null,
+      "trich": "giá nằm dưới MA200 của H1 rồi, nên xác suất quét về dưới này, 82.000, cực kỳ cao."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "heatmap",
+      "chi_tiet": "Heatmap/liquid hai đầu",
+      "ket_qua": "dưới 82.000 / 81.500; trên vùng liquid mới 85; khối lượng ~80.000 quá ít",
+      "gio": null,
+      "trich": "Ngược lại bên này vẫn có những vùng liquid mới ở 85, và ở dưới là 82 hoặc 81.500."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "USDT.D, BTC.D; Fear & Greed",
+      "ket_qua": "USDT.D dễ test 6.6-6.7, BTC.D muốn lên → không FOMO altcoin; F&G 73, người mới bắt đầu FOMO",
+      "gio": null,
+      "trich": "USDT.D hoàn toàn dễ lên test lại vùng 6.6 hoặc 6.7; kết hợp với BTC.D cũng đang muốn lên (tạo đáy cao dần, phá đỉnh trước đó)."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "Quy tắc biên sideway: chờ fake out (giả phá vỡ) rồi mới vào theo chiều ngược lại",
+      "ket_qua": "chưa fake out thì ngồi im",
+      "gio": null,
+      "trich": "Khi thị trường chui vào một cái hộp, một cái biên ngang như thế này, thì kiểu gì anh em cũng phải chờ fake out. Fake out đầu nào thì chưa biết, nhưng kiểu gì cũng phải chờ. Nếu nó có fake out rồi tính, còn không thì ngồi im cho chắc. Nếu nó muốn giảm thì sẽ có một cú lên để fake rồi mới xuống; nếu muốn tăng thì sẽ có một cú giảm để fake rồi mới tăng"
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "Coinglass Bitcoin Return theo quý / nến 3M TradingView",
+      "ket_qua": "xem nến quý xanh/đỏ",
+      "gio": null,
+      "trich": "Một là vào Coinglass, chọn mục data, xem Bitcoin Return; trong đó có theo quý. Ví dụ quý 3 của chúng ta là tăng 41% [?]. 2025 tăng 6% (lỡ nói 0.6). 2021 thì quý 3 tăng 25% và quý 4 tăng 5%. 2020 thì quý 3 tăng 17% và quý 4 tăng 168% (uptrend). Hai là xem nến 3M trên TradingView, tức nến 3 tháng"
+    }
+  ],
+  "vung_nguoi_do": [
+    {
+      "loai": "ho_tro",
+      "tu": 82000,
+      "den": 82000,
+      "gio": null,
+      "trich": "Hỗ trợ khung tuần của chúng ta hiện tại là vùng này 82.000."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 81000,
+      "den": 83000,
+      "gio": null,
+      "trich": "zone hỗ trợ của nó là vùng loanh quanh hiện tại: 83, 82, 81."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 78000,
+      "den": 79000,
+      "gio": null,
+      "trich": "Còn khi nó trôi về dưới 80, tức 78–79, thì nó quay về một vùng base."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 75000,
+      "den": 80000,
+      "gio": null,
+      "trich": "đã tái tích lũy một khoảng thời gian rất dài (khoảng 1 tháng nằm ở vùng 75 đến 80)"
+    },
+    {
+      "loai": "dich",
+      "tu": 90000,
+      "den": 90000,
+      "gio": null,
+      "trich": "Nếu sau đó đóng vài cây nến và giữ được trên 82 thì vùng này giúp giá đỡ để đẩy lên con sóng tiếp theo khoảng 90.000."
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 85000,
+      "den": 85000,
+      "gio": null,
+      "trich": "Muốn biết tiếp theo nó về dưới 80 hay lên lại trên 85 thì quan sát thật kỹ"
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 82500,
+      "den": 82500,
+      "gio": null,
+      "trich": "đầu quét về 82.000, sau đó lên và back test lại 82.500 [?] chẳng hạn"
+    },
+    {
+      "loai": "dich",
+      "tu": 82000,
+      "den": 82000,
+      "gio": null,
+      "trich": "nên xác suất quét về dưới này, 82.000, cực kỳ cao."
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 83000,
+      "den": 83000,
+      "gio": null,
+      "trich": "nhịp này khả năng chỉ kéo đâu đó khoảng 83.000 [?] rồi lại rơi xuống."
+    },
+    {
+      "loai": "vao",
+      "tu": 84500,
+      "den": 84500,
+      "gio": null,
+      "trich": "Hỏi: Đang sale giá 84k5, có nên SL entry không?"
+    },
+    {
+      "loai": "dich",
+      "tu": 82400,
+      "den": 82400,
+      "gio": null,
+      "trich": "bên này nó vẫn muốn về test lại vùng đâu đó khoảng 82.400 thì mới đẹp. Chắc phải fake out đoạn này một tí."
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 83000,
+      "den": 83300,
+      "gio": null,
+      "trich": "Nó sẽ hồi lên quét khoảng 83.300 [83.003 trong phụ đề] đến 83.00 [?]."
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 84000,
+      "den": 84000,
+      "gio": null,
+      "trich": "phiên đêm Bitcoin có một cái râu kéo lên độ 84 để lấy thêm thanh khoản"
+    }
+  ],
+  "view_trung_han": [
+    {
+      "khung": "W1",
+      "huong": "TANG",
+      "dich": 90000,
+      "han": null,
+      "mat_view_khi": "thủng 82, về 81 → trôi về dưới 80 (78-79) rồi sideway tích lũy mới quyết định xu hướng",
+      "gio": null,
+      "trich": "Nếu sau đó đóng vài cây nến và giữ được trên 82 thì vùng này giúp giá đỡ để đẩy lên con sóng tiếp theo khoảng 90.000. Nhưng đó là điều kiện, nếu. Còn nếu thủng 82, về 81 thì sẽ trôi về dưới 80 rất nhanh; còn từ 80 đến 75 thì nó đứng ở đó."
+    },
+    {
+      "khung": "M1",
+      "huong": "GIAM",
+      "dich": [
+        70000,
+        79999
+      ],
+      "han": "tháng 10, tệ thì trong năm nay",
+      "mat_view_khi": null,
+      "gio": null,
+      "trich": "Hỏi: Bao giờ về 7x, ETH phải 2000? Mình nghĩ cũng sớm thôi, trong tháng 10 gì đó, hoặc tệ thì trong năm nay. [?]"
+    }
+  ],
+  "vung_tranh": [
+    {
+      "tu": 82000,
+      "den": 83000,
+      "vi_sao": "Không sale ở hỗ trợ (82-83 là hỗ trợ tuần/H4); nếu sale thì là vùng rủi ro cao, bắt buộc SL",
+      "gio": null,
+      "trich": "Nguyên tắc là không sale ở hỗ trợ; nếu sale ở hỗ trợ thì phải đánh giá đây là vùng rủi ro cao, phải SL."
+    },
+    {
+      "tu": null,
+      "den": null,
+      "vi_sao": "Chưa long: BTC còn điều chỉnh; hai đáy H1 hiện tại dễ bị quét SL (còn muốn fake out về 82.400)",
+      "gio": null,
+      "trich": "Thị trường như này long hiện tại mình chưa thấy cửa, bởi vì Bitcoin khả năng vẫn còn điều chỉnh nữa."
+    },
+    {
+      "tu": 75000,
+      "den": 80000,
+      "vi_sao": "Nếu thủng 80 đừng kỳ vọng short dài về 75-69 nhanh: vùng base 1 tháng, sóng liên tục được đỡ",
+      "gio": null,
+      "trich": "Anh em nhớ: khi nó về dưới 80 thì đừng kỳ vọng trong thời gian ngắn mà bảo chắc nó về 75, 74, 72, 71, 69 — rất khó."
+    },
+    {
+      "tu": null,
+      "den": null,
+      "vi_sao": "Hôm nay và mai là cuối tháng, sau giai đoạn FOMO mạnh → dễ bị lấy lại tiền, thận trọng",
+      "gio": null,
+      "trich": "ngày mai là ngày cuối tháng, nên hôm nay và ngày mai thị trường sẽ khá khốc liệt. Mọi người nên thận trọng khi đánh những ngày này."
+    }
+  ],
+  "giu_dong": [
+    {
+      "lenh": "short (sale) 84.500 của người xem",
+      "quyet_dinh": "giu",
+      "khi_nao": "kéo SL về entry cho an toàn",
+      "gio": null,
+      "trich": "84k5 thì mình nghĩ SL entry cũng được, an toàn."
+    },
+    {
+      "lenh": "lệnh sale ở vùng hỗ trợ",
+      "quyet_dinh": "dong",
+      "khi_nao": "bắt buộc đặt SL; dính SL thì quên lệnh đó, chờ setup mới (phòng phe mua vút lên 85.000)",
+      "gio": null,
+      "trich": "Dính SL rồi thì coi như quên lệnh đó đi, chờ reset, chờ setup khác vào vị thế mới thì không sao."
+    },
+    {
+      "lenh": "spot BTC qua bot DCA hàng ngày",
+      "quyet_dinh": "giu",
+      "khi_nao": "duy trì bot DCA, không mua thêm chủ động bằng tay ở vùng giá này; futures không quá 10% tổng vốn",
+      "gio": null,
+      "trich": "Spot ở vùng giá này mình chỉ duy trì con bot DCA hàng ngày thôi, mình không vào thêm vị thế kiểu mua chủ động bằng tay; bot DCA vẫn chạy mấy tháng nay."
+    }
+  ],
+  "tin_tuc": [
+    {
+      "su_kien": "PCE",
+      "thoi_diem": "7:30 tối mai (thứ tư)",
+      "nguon": "lich_kinh_te",
+      "so_lieu": "trước 0.2, dự kiến 0.3",
+      "anh_huong_view": "nếu ra 0.3 là xấu",
+      "gio": null,
+      "trich": "Tối mai, thứ tư, 7:30 có tin PC [PCE?]. PC là chỉ số cực kỳ quan trọng ở giai đoạn này, mọi người nên follow. Trước đó là 0.2, dự kiến 0.3. Nếu ra 0.3 thì sẽ là xấu."
+    },
+    {
+      "su_kien": "NFP; cuối tháng - đầu tháng",
+      "thoi_diem": "thứ sáu; hôm nay và mai cuối tháng",
+      "nguon": "lich_kinh_te",
+      "so_lieu": null,
+      "anh_huong_view": "hôm nay và mai thị trường khốc liệt, dễ lấy lại tiền người FOMO",
+      "gio": null,
+      "trich": "Sau đó thứ sáu có non-farm, và đầu tháng; ngày mai là ngày cuối tháng, nên hôm nay và ngày mai thị trường sẽ khá khốc liệt."
+    },
+    {
+      "su_kien": "Tâm lý đám đông: người mới inbox hỏi mua, nhiều người coi 60k là đáy",
+      "thoi_diem": "hiện tại",
+      "nguon": "khac",
+      "so_lieu": "Fear & Greed 73 (hôm qua 74, sáu tuần trước 78)",
+      "anh_huong_view": "tín hiệu nên thận trọng, sớm muộn sẽ có kết quả",
+      "gio": null,
+      "trich": "Quá nhiều ông xác định 60.000 giai đoạn vừa rồi là đáy và bây giờ chuẩn bị đi vào; đặc biệt khi altcoin cứ x2 như thế thì các ông ngoài kia xác định altcoin uptrend, sợ lỡ tàu hết. Đó cũng là một dạng tín hiệu nên thận trọng"
+    }
+  ],
+  "nghi_van_nhan_v2": null
+}

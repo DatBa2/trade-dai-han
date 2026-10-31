@@ -1,0 +1,132 @@
+[
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[0].trich",
+  "trich": "Hiện tại nó vẫn có khả năng chạy tiếp theo đường Fibo mở rộng thì sẽ lên đến khoảng 89. Nó có thể lên đến 89.000 hoặc thậm chí là 91.000. Cho nên hãy khoan short đã.",
+  "giay": 1273,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Q2qX5gIvNC8&t=1273s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[1].trich",
+  "trich": "Xu hướng của Bitcoin từ giờ đến giữa năm 2026 theo cá nhân mình đánh giá là giảm.",
+  "giay": 1414,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Q2qX5gIvNC8&t=1414s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "lenh[0].trich",
+  "trich": "Nếu mình đánh dò đoạn này mình sẽ đánh long, nhưng long nhỏ thôi bởi vì H4 nằm ngay cái cản này.",
+  "giay": 1661,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Q2qX5gIvNC8&t=1661s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[0].trich",
+  "trich": "đúng ngay vùng Fibo 618 là 87.000 và đi lên",
+  "giay": 1269,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Q2qX5gIvNC8&t=1269s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[1].trich",
+  "trich": "theo đường Fibo mở rộng thì sẽ lên đến khoảng 89. Nó có thể lên đến 89.000 hoặc thậm chí là 91.000",
+  "giay": 1276,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Q2qX5gIvNC8&t=1276s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[2].trich",
+  "trich": "có khả năng đây là một cặp đảo chiều. Có khả năng nó sẽ lên tận 98 thì chúng ta mà short lơ ngơ là chết ngay",
+  "giay": 1445,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Q2qX5gIvNC8&t=1445s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[3].trich",
+  "trich": "về đây đi lên test, SL của mình là 88.000, sau đó là giảm xuống luôn",
+  "giay": 1674,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Q2qX5gIvNC8&t=1674s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[4].trich",
+  "trich": "Liquid trên này vẫn có một đống ở 89, nhưng rất nhiều liquid ở 87",
+  "giay": 1967,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Q2qX5gIvNC8&t=1967s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[5].trich",
+  "trich": "những vùng liquid này cũng như bên kia khoảng 87, 86 gì đó",
+  "giay": 2163,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Q2qX5gIvNC8&t=2163s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[6].trich",
+  "trich": "Dưới này có một vùng ở 88 đến 87 trùng với vùng liquid này thì khả năng nó quét về dưới này cũng cao",
+  "giay": 2180,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Q2qX5gIvNC8&t=2180s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[7].trich",
+  "trich": "Nếu H4 ngồi trên 90K2, thậm chí phải trên hẳn 90K7 (điều kiện để long altcoin)",
+  "giay": 3844,
+  "do_giong": 0.688,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Q2qX5gIvNC8&t=3844s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[8].trich",
+  "trich": "Còn tối ưu thì 40.000",
+  "giay": 3186,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Q2qX5gIvNC8&t=3186s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[9].trich",
+  "trich": "Giá rẻ thì 20.000 đối với mình là quá rẻ",
+  "giay": 3181,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Q2qX5gIvNC8&t=3181s",
+  "anh": []
+ }
+]

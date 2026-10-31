@@ -1,0 +1,39 @@
+{
+  "buoi": "2026-09-28_1006_G5Q1ATx_1ho",
+  "gia_btc_luc_noi": null,
+  "dau_buoi": {
+    "huong_h4": "GIAM",
+    "trich": "§ D1, H4, H1: Hiện tại phe bán đã chiếm được ưu thế ở đoạn này, nó sẽ đạp về tối thiểu là 82; 82 cho đến 82.400 gì đó thì mới may ra có phe mua nhảy vào lại."
+  },
+  "cuoi_buoi": {
+    "huong_h4": "GIAM",
+    "trich": "§ Chốt buổi: H4 đóng rồi anh em: H4 đóng ở đây thì biết phải làm gì rồi, cần gì phân tích nữa. ... Những cây ngắn hạn cũng sẽ có những nhịp hồi là chuyện bình thường."
+  },
+  "doi_y_giua_buoi": false,
+  "huong_lon": {
+    "D1": "GIAM",
+    "W1": "TANG",
+    "chu_ky": "GIAM"
+  },
+  "hanh_dong": "giu_lenh",
+  "duong_di": [
+    {
+      "huong": "TANG",
+      "dich": null,
+      "khung": "M5"
+    },
+    {
+      "huong": "GIAM",
+      "dich": 82400,
+      "khung": "H4"
+    }
+  ],
+  "dich_chinh": 82400,
+  "moc_sai": {
+    "gia": null,
+    "dieu_kien": "H1 kéo lại trên MA200 sẽ trái nhịp giảm đang xác nhận; không nêu giá MA200 hay mức SL cụ thể. Vùng 82.000 là hỗ trợ/đích, không phải mốc sai của short."
+  },
+  "pha_vo_gia": null,
+  "do_chac": "cao",
+  "ghi_chu": "Đã đọc hết transcript. Không có giá hiện tại duy nhất nên null. W1 breakout đẹp/hỗ trợ 82.000, H4/D1 điều chỉnh; chờ phản ứng tại 82.xxx, không tự mua chỉ vì chạm hỗ trợ. M5 có thể hồi 83.700 đầu buổi, cuối nói 83.000; để đích hồi null vì số không đồng nhất. H4 đích 82.400, TP1 short 82.600, càng sát 82.000 càng nên chốt. Hành động giu_lenh là khuyên người đang short 84.800 giữ tới 82.400; không khẳng định đã mở lệnh cá nhân. Phần cuối cấm sale mấy con altcoin, không phải đảo hướng BTC. Heatmap 85.000 được nghi là dụ buy, chưa phải một cú phá cản giả cụ thể."
+}

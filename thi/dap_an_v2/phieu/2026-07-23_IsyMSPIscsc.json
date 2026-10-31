@@ -1,0 +1,153 @@
+{
+ "buoi": "2026-07-23_IsyMSPIscsc",
+ "ngay": "2026-07-23",
+ "gio_vn": "10:00",
+ "gia_btc_luc_noi": 65300,
+ "nhan_dinh": [
+  {
+   "khung": "H4",
+   "huong": "TANG",
+   "do_chac": "thap",
+   "dich": [
+    66000,
+    68000
+   ],
+   "han": null,
+   "han_gio": null,
+   "vo_hieu_khi": "nến H4 đóng dưới 64.000",
+   "vo_hieu_cau_truc": {
+    "gia": 64000,
+    "khung": "H4",
+    "so_nen": 1,
+    "chieu": "dong_duoi",
+    "cau": "Còn nếu giá thủng để xác nhận mất xu hướng của đoạn này thì mình nghĩ sẽ phải xuống dưới 64, dưới 64 hoặc 63.000 này thì mới gãy xu hướng tăng được. Còn lại về bản chất những nhịp này mình thấy vẫn đang điều chỉnh thôi."
+   },
+   "kich_ban_phu": null,
+   "duong_di": [
+    {
+     "huong": "GIAM",
+     "dich": 65000
+    },
+    {
+     "huong": "TANG",
+     "dich": [
+      66000,
+      68000
+     ]
+    }
+   ],
+   "doi_y": null,
+   "ly_do": [],
+   "trich": "Nhân tiện cây H4 nóng như này thì long gì được. Như này thì chờ nó dump phát xuống như thế này, còn không thì nó phải hồi được cây như này, kéo được cây H4 xanh lại như [01:00:13] vậy thì may ra. ... [01:10:17] H4 này thì tạm thời đừng long.",
+   "nhan_v1": "TANG"
+  },
+  {
+   "khung": "H1",
+   "huong": "GIAM",
+   "do_chac": "vua",
+   "dich": [
+    64000,
+    65000
+   ],
+   "han": "trong ngày",
+   "han_gio": 24,
+   "vo_hieu_khi": null,
+   "kich_ban_phu": "dump nhẹ khoảng 500 giá từ 65.500 để kill long rồi mới hồi",
+   "ly_do": [
+    "H1 bị từ chối ở trendline, đóng H1 xấu",
+    "long đang chen rất nhiều chưa bị quét",
+    "65.000 là Fibo 0.5 và vùng liquidation"
+   ],
+   "trich": "Mình vẫn đang kỳ vọng nó phải 65. 6500 hoặc là 6400. Cái vùng này rất là dễ về.",
+   "doi_y": null,
+   "duong_di": null
+  }
+ ],
+ "vung_gia": {
+  "khang_cu": [
+   66000,
+   68000
+  ],
+  "ho_tro": [
+   63000,
+   65000
+  ]
+ },
+ "lenh": [
+  {
+   "chieu": "LONG",
+   "vao": 65000,
+   "tp": [],
+   "sl": null,
+   "trang_thai": "de_xuat_moi"
+  },
+  {
+   "chieu": "SHORT",
+   "vao": 66000,
+   "tp": [
+    65000,
+    65500
+   ],
+   "sl": null,
+   "trang_thai": "de_xuat_moi"
+  }
+ ],
+ "nhin_lai_truoc": "Hôm qua chờ về 65.000 để buy lướt lên 66.000 nhưng giá không về; nến ngày hôm qua đóng đỏ nên điều kiện đủ để break 66.000 chưa có.",
+ "cong_cu": [
+  "nến D1",
+  "H4 MA",
+  "H1 trendline",
+  "Fibo 0.5",
+  "Liquidation 65.000",
+  "Fear & Greed 31",
+  "BTC.D",
+  "vàng/bạc Fibo 0.618"
+ ],
+ "tin_tuc": [
+  {
+   "tin": "Tuần này không có tin; FED lãi suất 30/7",
+   "danh_gia": "phân tích tin lại vào 29/7"
+  }
+ ],
+ "thoi_quen": [
+  "không trả lời câu hỏi của người đã kẹt lệnh",
+  "sợ đừng chơi, đã chơi đừng sợ; vào vì gì thì ra vì đó",
+  "scalp phải đúng thị trường và thời điểm, downtrend chạy theo H1/H4",
+  "gom spot: DCA 14h mỗi ngày + chờ 3 cú flush (10k/7k/3k)",
+  "chỉ tập trung vài tài sản, không phân mảnh"
+ ],
+ "cau_cua_mieng": [
+  "Sợ thì đừng có chơi mà chơi thì đừng có sợ.",
+  "Plan hôm nay và cả tuần đó là giá nó đi đâu chúng ta đi đó.",
+  "Tích tiểu thành đại, kiến tha lâu đầy tổ."
+ ],
+ "altcoin": [
+  {
+   "coin": "altcoin chung",
+   "huong": "GIAM",
+   "ghi": "DOM breakout đi lên, USDT.D bật lên nên tạm đừng đụng alt nhiều; alt xấu hơn"
+  },
+  {
+   "coin": "HYPE",
+   "huong": "GIAM",
+   "ghi": "short 60.7 về 57-58 thì kéo SL entry/TP1, đã vào Fibo 0.5-0.618"
+  },
+  {
+   "coin": "XRP",
+   "huong": "GIAM",
+   "ghi": "mua HODL vùng 0.9 đến 0.6, khó về 0.5"
+  }
+ ],
+ "ghi_chu": "gio_vn ước lượng. Vàng: đừng sell, chờ về 4060-4040 mua; bạc chờ 57-55. Quan điểm dài hạn: gom BTC 50 đến 30, DCA bán danh mục 66-72.",
+ "hanh_dong": "dung_ngoai_cho_entry",
+ "chang_ke_tiep": {
+  "huong": "GIAM",
+  "dich": 65000
+ },
+ "khung_lon_v2": {
+  "D1": "TANG",
+  "W1": "GIAM"
+ },
+ "pha_vo_gia": "Muốn chờ giá 'kill stop loss của các ông long hỗ trợ' (về ~65.000, 'vẫn còn quá nhiều' long chưa bị kill) rồi mới vào; phía trên nói giá có thể rướn quét 68 bằng râu rồi mới gãy sâu. Mốc 65.500 thủng sáng nay là 'cột mốc phá vỡ ra khỏi nhịp hồi ngày hôm qua'.",
+ "nguon_nhan": "dap_an_v2 (Opus 5.5 rút mù 31/10)"
+}

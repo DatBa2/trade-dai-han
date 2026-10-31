@@ -1,0 +1,51 @@
+{
+  "buoi": "2026-07-07_uvBnzq6-k-M",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/zip_clean/2026-07-07_uvBnzq6-k-M.txt",
+  "gia_btc_luc_noi": 63300,
+  "dau_buoi": {
+    "thien_huong_h4": "GIAM",
+    "gio": "[00:24:05]",
+    "trich": "Cho nên dựa trên nhiều dữ liệu thì chúng ta lại thấy là nghiêng tỉ lệ lớn hơn một xíu về việc chúng ta vào short thì nó sẽ hợp lý hơn. Cho nên đó là lý do mình lựa chọn là phải short thế thôi. Nhưng vẫn là câu chuyện H4 này đang cố giữ cho nên lỡ mà tí nữa nó vòng lên và bị dính stop loss của cái lệnh short thì mình vẫn vui vẻ thôi."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "GIAM",
+    "do_chac": "vua",
+    "gio": "[00:55:48]",
+    "trich": "H4 nó đóng ở đó thì không có gì thay đổi. Anh em nhìn nến đóng H4 này chơi bời gì nữa. Nếu H4 này mà đi long thì vô lý. Nhưng thằng MA này nó đang trụ, nó đang giữ ở đây."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {"huong": "GIAM", "dich": 62000},
+  "duong_di": [
+    {"huong": "GIAM", "dich": [61000, 62000]}
+  ],
+  "dich_chinh": [61000, 62000],
+  "han_gio": null,
+  "vo_hieu": {
+    "gia": 64000,
+    "khung": "H4",
+    "so_nen": 1,
+    "chieu": "dong_tren",
+    "cau": "SL short của mình là ở 64.00. 6400 tức là trên khỏi 64 này thôi... Mà lên lại thì khả năng là nó tiếp tục cái xu hướng tăng ở trên H4 và đi lên những vùng cao hơn ví dụ như là 67 hoặc 68 cho nên mình không có short nữa."
+  },
+  "lenh": [
+    {"chieu": "SHORT", "vao": 63500, "tp": [62000], "sl": 64000, "trang_thai": "dang_giu"}
+  ],
+  "hanh_dong": "giu_lenh",
+  "khung_lon": {"D1": "GIAM", "W1": null},
+  "pha_vo_gia": "[00:23:02] râu đêm qua lên 64.000 'chủ yếu của nó là kill các lệnh long'; nến xanh ngày thứ hai 'hay lừa'; [00:38:02] 'Dụ short mình không nghĩ, mình nghĩ dụ long đúng hơn.'",
+  "trich_them": [
+    {"gio": "[00:20:53]", "cau": "Đây là cái xu hướng chính ở trên khung ngày sẽ là xu hướng giảm nhưng ngược lại cái xu hướng của H4 này là xu hướng tăng... Khi một khi cái thị trường nó rơi vào cái trạng thái là hai cái xu hướng ở trên khung ngày và khung H4 nó ngược với nhau thì sẽ là một thời điểm cực kỳ khó chơi."},
+    {"gio": "[00:21:24]", "cau": "Trừ khi ngày hôm nay nó đóng trả về một cây đỏ và ngày mai chúng ta thấy giá nó giao dịch ở dưới 62.000 thì lúc đó mới tự tin mà short thì dễ."},
+    {"gio": "[00:22:30]", "cau": "Nếu nó về được thì chúng ta sẽ chốt được quanh 62.000."},
+    {"gio": "[00:23:02]", "cau": "kỳ vọng là cái nhịp này nó gãy khỏi cái trendline này thì chắc là nó sẽ đi xuống dưới này và nó sẽ dừng lại ở quanh cái vùng 62 hoặc 61.000 gì đó."},
+    {"gio": "[00:24:38]", "cau": "Đánh đoạn short đoạn này nó không tự tin giống như giai đoạn trước."},
+    {"gio": "[00:26:47]", "cau": "Mình nghiêng vào short nhiều hơn. Chưa bao giờ mình tin tưởng vào cái cây nến xanh của ngày thứ hai hết."},
+    {"gio": "[00:35:54]", "cau": "Nếu đóng H4 ở đây thì cửa lên 65 cũng khó... Mình nghĩ nếu nó đóng H4 ở dưới cụm MA này là xong, giảm tiếp, là confirm đi tiếp. Khả năng là 57."},
+    {"gio": "[00:37:01]", "cau": "Ví dụ từ khoảng 61.000 cho đến 62.000, thủng ở dưới khoảng cụm 61.000 này là mình nghĩ ok, bắt đầu gãy được."},
+    {"gio": "[00:38:02]", "cau": "Nến H4 đóng như này thì hy vọng gì nữa. H4 như này thì chắc chắn chúng ta đi đúng hướng rồi, cho dù không đúng hướng giá không gãy đi nữa thì cũng không thể long được."},
+    {"gio": "[00:42:07]", "cau": "Short scalp, mình short ở nãy rồi. Bây giờ đang ngồi chờ thôi. Lúc nãy cũng được 63k3, được 200."},
+    {"gio": "[00:56:19]", "cau": "5 phút có thể hồi lên lại khoảng 63.400. Nếu anh em nào FOMO short thì có thể chờ nó hồi lên 5 phút rồi tìm entry vào sau."}
+  ],
+  "kho": "Đầu buổi người đó tự nói short 'không tự tin', D1 giảm nhưng H4 vẫn cấu trúc tăng (MA cross); sau nến H4 11:00 đỏ thì tự tin hơn. Đích gần 62 (61–62), 57 chỉ là đích có điều kiện khi H4 đóng dưới cụm MA 61–62k nên không đưa vào dich_chinh. Giá vào short 63.500 suy từ '63k3, được 200'."
+}

@@ -1,0 +1,391 @@
+{
+  "buoi": "2026-08-27_1006_ZJ5BVqdLJeE",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/lam_sach/2026-08-27_1006_ZJ5BVqdLJeE.md",
+  "gia_btc_luc_noi": 78900,
+  "dau_buoi": {
+    "thien_huong_h4": "TANG",
+    "gio": null,
+    "trich": "Cái hiện tại ở đây là nó được thằng H1 đẹp, mình đang bay lên theo cái nhịp phá vỡ thằng H1 này. Tuy nhiên vẫn quan sát cái thằng 5 phút: trong 5 phút thì đang khá là xấu. ... Nếu nó đỡ đỡ thì mình sẽ cố gắng cầm thêm qua cây H1 với cây H4 này xem sao"
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "TANG",
+    "do_chac": "vua",
+    "gio": null,
+    "trich": "Cây M5 này mà đóng xanh là coi như có tia hy vọng, bởi vì bắt đầu kéo được cái đáy cao. Phá lên được khỏi cái thằng 7800 [?] này nữa là ok. Phá được 789 [?] sau đó chờ phá tiếp 79.50 nữa là ok. Nhìn nó sáng cửa hơn một tí so với tụi altcoin."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {
+    "huong": "TANG",
+    "dich": 79400
+  },
+  "duong_di": [
+    {
+      "huong": "TANG",
+      "dich": 79400
+    },
+    {
+      "huong": "TANG",
+      "dich": 80000
+    }
+  ],
+  "dich_chinh": 80000,
+  "han_gio": null,
+  "vo_hieu": {
+    "gia": 78500,
+    "khung": "H4",
+    "so_nen": 1,
+    "chieu": "dong_duoi",
+    "cau": "Cho nên khi nó có mùi gãy khỏi cái thằng 78.5 [?] này, chúng ta chạy luôn, bởi vì thủng cái thằng này nó về luôn tận 78 cơ mà. 78 cho đến 77 này."
+  },
+  "lenh": [
+    {
+      "chieu": "LONG",
+      "vao": null,
+      "tp": [
+        79000,
+        80000
+      ],
+      "sl": 78500,
+      "trang_thai": "dang_giu"
+    }
+  ],
+  "hanh_dong": "giu_lenh",
+  "khung_lon": {
+    "D1": "PHAN_VAN",
+    "W1": null
+  },
+  "pha_vo_gia": null,
+  "trich_them": [
+    {
+      "gio": null,
+      "cau": "H1 thì một mô hình rất quen thuộc ... Xu hướng này cá nhân mình đánh giá khá ngon, khá tốt. Cho nên vùng này mình rõ ràng không có sell, mình đang buy chạy cái mô hình này. Đang gặp cản cho nên nó sẽ chững ở đây. Nhưng nếu phá qua được đoạn này thì lên lại 80.00 [?], anh em biết TP ở đâu rồi."
+    },
+    {
+      "gio": null,
+      "cau": "nếu có cây H1 vượt qua được cái thằng 79.00 [?], 79.50 [?] (cho là 79.00 thì cho nó tròn), H1 vượt qua được vùng này thì giá sẽ lên test được cái vùng ở trên. Trong trường hợp xấu thì nó sẽ bị cản ở Fibo và đi xuống."
+    },
+    {
+      "gio": null,
+      "cau": "muốn lên 80 thì cần phải phá qua 79; muốn phá qua được 79 thì cần phải giữ được cái vùng 78.500 này. Muốn lên 83 thì phải phá qua được 80. Muốn lên 93 thì phải phá qua được 83."
+    },
+    {
+      "gio": null,
+      "cau": "Mình nghĩ đoạn này kiểu gì từ giờ đến trưa chắc là sẽ có một pha quét lên 79k4 thì ngon đấy. Nếu mà rụng thì rụng ở đây, 79k4."
+    },
+    {
+      "gio": null,
+      "cau": "Nếu chúng ta thấy được cây nến ngày đóng qua được cái vùng 82 đến 83 thì ok, đó là điều kiện tiên quyết để giá lên test đến cái vùng cản tiếp theo là cản 93.000."
+    },
+    {
+      "gio": null,
+      "cau": "Nhịp này mình nghĩ là khó mà sập về 70 lắm. Cùng lắm nó sẽ còn vòng vèo ở đây thêm một thời gian nữa. Nó đi thế này, mình nghĩ để về 70 thì chắc chắn là phải qua tháng 9 rồi."
+    },
+    {
+      "gio": null,
+      "cau": "Lúc sáng thấy nó phóng lên được một phát trong cây M5 ... Nhưng không được thì có vẻ đoạn này chuẩn bị té thôi. Lực yếu thế nhỉ."
+    }
+  ],
+  "kho": "Transcript không có mốc giờ. Người nói đang giữ long theo mô hình H1 (TP1 79k, TP 80k), nhưng nhiều 'nếu' và khung nhỏ M5 xấu; D1 vẫn dưới MA, cản 79k. Ghi TANG độ chắc vừa, đích 80k. vo_hieu 78.5k không nói khung nến (mặc định H4); thủng thì về 78–77k. Số '79.4' trong câu 'rớt xuống 79.4' có thể là lỗi phụ đề, không dùng.",
+  "nhin_lai_view_truoc": {
+    "view_truoc": "TANG",
+    "giu_hay_doi": "giu",
+    "vi_sao": "Sau tin PCE (xấu nhưng bằng dự kiến) giá vẫn loanh quanh dưới MA ngày ~79k, góc nhìn như đầu tuần: phải đóng ngày qua 82-83k mới lên 93k; H1 tạo mô hình bóp về 2 đường MA rồi break lên → đang buy theo mô hình, đích 80k.",
+    "gio": null,
+    "trich": "Phân tích lại Bitcoin: sau hôm qua có tin nhưng tạm thời giá vẫn loanh quanh cái vùng này, vẫn ở dưới cái đường MA này của khung ngày. Về góc nhìn, biên độ, xu hướng thì mình thấy vẫn giống như hôm đầu tuần."
+  },
+  "trendline": [
+    {
+      "khung": "H1",
+      "loai": "khang_cu_giam",
+      "noi_tu": "trendline viewer hỏi (khung không nói rõ); ông nói chưa thấy break, cái đang chạy là phá vỡ mô hình H1",
+      "diem_neo": [
+        {
+          "ngay": null,
+          "gia": null
+        }
+      ],
+      "gia_duong_luc_noi": null,
+      "trang_thai": "chua_pha",
+      "dieu_kien_pha": null,
+      "ket_luan_huong": null,
+      "gio": null,
+      "trich": "Hỏi: Bitcoin chuẩn bị bay chưa? Thấy break trendline. — Đối với trendline thì mình lại chưa thấy break nhá. Cái hiện tại ở đây là nó được thằng H1 đẹp, mình đang bay lên theo cái nhịp phá vỡ thằng H1 này."
+    }
+  ],
+  "nen_volume": [
+    {
+      "khung": "M5",
+      "nen": "M5 chưa vượt đỉnh trước, mất dần đà tăng; cây M5 phóng lên rồi không đi tiếp",
+      "volume": "lực yếu",
+      "ket_luan": "thủng đáy 78k thì ngừng long, chờ tiếp",
+      "gio": null,
+      "trich": "trong 5 phút thì đang khá là xấu. Nhìn xu hướng 5 phút này, đoạn này nó chưa vượt qua được cái đỉnh trước đó, mất dần cái đà tăng. Cái vùng đáy 78.00 [?] này mà thủng thì khả năng là sẽ ngừng bay... Lực yếu thế nhỉ."
+    },
+    {
+      "khung": "D1",
+      "nen": "nến ngày vẫn dưới MA; cần đóng qua 82-83k; nến xanh đóng trên MA610 thì đừng sell",
+      "volume": null,
+      "ket_luan": "đóng qua 82-83k mới test 93k; đóng trên MA thì gỡ sell",
+      "gio": null,
+      "trich": "khi anh em thấy khung nến ngày bắt đầu đóng qua khỏi cái đường MA610 này ở trên khung ngày thì sau đó tuyệt đối các bạn đừng sell nữa nhá... thấy nến xanh đóng trên cái đường này là tốt nhất, đừng sell nữa."
+    },
+    {
+      "khung": "H1",
+      "nen": "giá kẹp giữa hai đường MA H1, bóp về rồi break lên",
+      "volume": null,
+      "ket_luan": "giữ xu hướng, đang buy theo mô hình; H1 vượt 79-79.5k thì test vùng trên",
+      "gio": null,
+      "trich": "H1 thì một mô hình rất quen thuộc: trong một nhịp sóng, sau đó giá điều chỉnh và kẹp giữa hai cái đường H1 này, rồi nó bóp hai đường này về và break lên lại, tiếp tục giữ được xu hướng."
+    },
+    {
+      "khung": "H1",
+      "nen": "cần cây H1 vượt 79-79.5k",
+      "volume": null,
+      "ket_luan": "vượt thì lên test vùng trên; xấu thì bị cản Fibo rồi xuống",
+      "gio": null,
+      "trich": "nếu có cây H1 vượt qua được cái thằng 79.00 [?], 79.50 [?]... H1 vượt qua được vùng này thì giá sẽ lên test được cái vùng ở trên. Trong trường hợp xấu thì nó sẽ bị cản ở Fibo và đi xuống."
+    },
+    {
+      "khung": "M5",
+      "nen": "cây M5 đóng xanh, kéo được đáy cao",
+      "volume": null,
+      "ket_luan": "có tia hy vọng; phá 78.9k rồi 79.5k là ok",
+      "gio": null,
+      "trich": "Cây M5 này mà đóng xanh là coi như có tia hy vọng, bởi vì bắt đầu kéo được cái đáy cao. Phá lên được khỏi cái thằng 7800 [?] này nữa là ok. Phá được 789 [?] sau đó chờ phá tiếp 79.50 nữa là ok."
+    }
+  ],
+  "cach_lam": [
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "ema",
+      "chi_tiet": "MA khung ngày (MA610) ~79k; MA34 H4 = 77.1k (trung bình mua 136 tiếng); 2 đường MA H1",
+      "ket_qua": "giá xa MA thì bị kéo về test; 79k là cản ngay dưới MA ngày",
+      "gio": null,
+      "trich": "Ví dụ đường MA34 này có nghĩa là trung bình mua của 34 cây nến H4 gần nhất. 34 nhân 4 là 136, tức là cách đây 136 tiếng thì cái trung bình mua của những người đó là 77.100. Giá nó đang cố kéo về."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "dinh_day_cu",
+      "chi_tiet": "cấu trúc giảm trước đó (đỉnh, đáy thấp dần), nay đáy cao dần; đỉnh 79k cần vượt",
+      "ket_qua": "vượt 79k thì phá cấu trúc giảm, tạo xu hướng mới",
+      "gio": null,
+      "trich": "Xu hướng giảm trước đó là đỉnh này, đáy này, đỉnh này, đáy này. Hiện tại nó đã bắt đầu tạo ra những đáy cao dần. Nhưng cái đỉnh căng nhất là cái thằng 79 này cần phải vượt qua."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "trendline",
+      "chi_tiet": "nguyên tắc: nối 2 điểm là có trendline; trendline mạnh là được kiểm nhiều lần; phải xác định xu hướng và độ quan trọng",
+      "ket_qua": "không phải cứ trendline M15 break là vào",
+      "gio": null,
+      "trich": "Trendline nó chỉ là một cái đường thẳng, chúng ta chỉ cần nối hai điểm là gõ được một cái trendline... Một trendline mạnh là một trendline được kiểm nhiều lần."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "heatmap",
+      "chi_tiet": "liquidation",
+      "ket_qua": "thanh lý ~200 triệu, long/short cân; trên 79.4k, 79.7k, 79.9k; dưới 78k, 77k",
+      "gio": null,
+      "trich": "Chắc là trên cái vùng 79k5 này hiện tại liquid rất nhiều. Xem thử: thanh lý 200 triệu thôi. Hai team long với team short này bằng nhau. Có 79k4, 79k7, 79k9. Dưới này thì 78, 77."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "BTC.D, USDT.D (Fibo 0.5, có thể vai đầu vai ngược), vote người xem",
+      "ket_qua": "BTC.D tăng → altcoin xấu; USDT.D H4 đóng xanh tối nay là mệt; vote 36% lên 80k, 34% về 76k, 30% sideway",
+      "gio": null,
+      "trich": "Được cái thằng USDT.D này có điều chỉnh xuống, nhưng nếu nó trụ ở đoạn Fibo này và tạo một cái vai đầu vai ngược là xong luôn. Đang ngập Fibo 0.5 này. Chờ cây H4 hai cây nữa."
+    }
+  ],
+  "vung_nguoi_do": [
+    {
+      "loai": "ho_tro",
+      "tu": 78000,
+      "den": 78000,
+      "gio": null,
+      "trich": "Cái vùng đáy 78.00 [?] này mà thủng thì khả năng là sẽ ngừng bay"
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 82000,
+      "den": 83000,
+      "gio": null,
+      "trich": "Nếu chúng ta thấy được cây nến ngày đóng qua được cái vùng 82 đến 83 thì ok"
+    },
+    {
+      "loai": "dich",
+      "tu": 93000,
+      "den": 93000,
+      "gio": null,
+      "trich": "đó là điều kiện tiên quyết để giá lên test đến cái vùng cản tiếp theo là cản 93.000."
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 79000,
+      "den": 79000,
+      "gio": null,
+      "trich": "ở đây chúng ta đang có một cái cản 79.000 ngay dưới cái đường này."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 77100,
+      "den": 77100,
+      "gio": null,
+      "trich": "cách đây 136 tiếng thì cái trung bình mua của những người đó là 77.100."
+    },
+    {
+      "loai": "tp",
+      "tu": 80000,
+      "den": 80000,
+      "gio": null,
+      "trich": "Nhưng nếu phá qua được đoạn này thì lên lại 80.00 [?], anh em biết TP ở đâu rồi."
+    },
+    {
+      "loai": "tp",
+      "tu": 79000,
+      "den": 79500,
+      "gio": null,
+      "trich": "khi giá break lên và chạm đến cái vùng 79.00 [?] này, một là các bạn TP1 ở đây, hai là các bạn kéo SL về entry."
+    },
+    {
+      "loai": "dich",
+      "tu": 79400,
+      "den": 79400,
+      "gio": null,
+      "trich": "từ giờ đến trưa chắc là sẽ có một pha quét lên 79k4 thì ngon đấy. Nếu mà rụng thì rụng ở đây, 79k4."
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 79400,
+      "den": 79900,
+      "gio": null,
+      "trich": "Có 79k4, 79k7, 79k9."
+    },
+    {
+      "loai": "vo_hieu",
+      "tu": 78500,
+      "den": 78500,
+      "gio": null,
+      "trich": "khi nó có mùi gãy khỏi cái thằng 78.5 [?] này, chúng ta chạy luôn"
+    },
+    {
+      "loai": "dich",
+      "tu": 77000,
+      "den": 78000,
+      "gio": null,
+      "trich": "bởi vì thủng cái thằng này nó về luôn tận 78 cơ mà. 78 cho đến 77 này."
+    },
+    {
+      "loai": "dich",
+      "tu": 120000,
+      "den": 120000,
+      "gio": null,
+      "trich": "Qua được 93 phải đến con boss cuối 120? — Đúng. Nhưng con đó mình nghĩ nó chưa xuất hiện trong giai đoạn này đâu."
+    }
+  ],
+  "view_trung_han": [
+    {
+      "khung": "D1",
+      "huong": "TANG",
+      "dich": 93000,
+      "han": null,
+      "mat_view_khi": "chưa đóng ngày qua 82-83k thì chưa lên được; thủng 78.5k thì về 77-78k",
+      "gio": null,
+      "trich": "muốn lên 80 thì cần phải phá qua 79; muốn phá qua được 79 thì cần phải giữ được cái vùng 78.500 này. Muốn lên 83 thì phải phá qua được 80. Muốn lên 93 thì phải phá qua được 83."
+    },
+    {
+      "khung": "D1",
+      "huong": "GIAM",
+      "dich": 70000,
+      "han": "phải qua tháng 9",
+      "mat_view_khi": null,
+      "gio": null,
+      "trich": "Nhịp này mình nghĩ là khó mà sập về 70 lắm. Cùng lắm nó sẽ còn vòng vèo ở đây thêm một thời gian nữa. Nó đi thế này, mình nghĩ để về 70 thì chắc chắn là phải qua tháng 9 rồi."
+    },
+    {
+      "khung": "W1",
+      "huong": "TANG",
+      "dich": 120000,
+      "han": "năm sau",
+      "mat_view_khi": null,
+      "gio": null,
+      "trich": "Qua được 93 phải đến con boss cuối 120? — Đúng. Nhưng con đó mình nghĩ nó chưa xuất hiện trong giai đoạn này đâu. Boss hoàng kim đó chắc phải để dành đến năm sau."
+    }
+  ],
+  "vung_tranh": [
+    {
+      "tu": 79000,
+      "den": null,
+      "vi_sao": "khi nến ngày đóng qua đường MA ngày (~79k) thì tuyệt đối đừng sell; đang gồng sell thì gỡ",
+      "gio": null,
+      "trich": "khi anh em thấy khung nến ngày bắt đầu đóng qua khỏi cái đường MA610 này ở trên khung ngày thì sau đó tuyệt đối các bạn đừng sell nữa nhá. Cho dù như thế nào đi nữa, muốn sell thì phải chờ nến quay về lại dưới cái đường này thì tính tiếp."
+    },
+    {
+      "tu": null,
+      "den": null,
+      "vi_sao": "đừng cứ thấy trendline M15 break là nhảy vào",
+      "gio": null,
+      "trich": "Chứ chỉ cứ mỗi trendline break là nhảy vào đánh thì không phải lúc nào cũng đúng. Đánh như vậy tiền đâu mà chịu cho nổi, tốn tiền lắm."
+    },
+    {
+      "tu": null,
+      "den": null,
+      "vi_sao": "quanh Jackson Hole tối thứ sáu: nằm im núp, không đấm cùng 'đại ca'",
+      "gio": null,
+      "trich": "Chúng ta là những con cá lòng tong thôi, chúng ta cứ nằm im núp đi cho các đại ca đấm nhau tơi tả rồi chúng ta hãy tham gia vào, anh em mình không đủ sức đâu nhá."
+    }
+  ],
+  "giu_dong": [
+    {
+      "lenh": "long theo mô hình H1 (TP 80k)",
+      "quyet_dinh": "giu",
+      "khi_nao": "chạm 79k thì TP1 hoặc kéo SL về entry; phá lên thì TP; nằm giữa thì chờ; có mùi gãy 78.5k thì chạy luôn; nếu đỡ thì cầm qua cây H1 và H4",
+      "gio": null,
+      "trich": "nếu các bạn buy ở đây, khi giá break lên và chạm đến cái vùng 79.00 [?] này, một là các bạn TP1 ở đây, hai là các bạn kéo SL về entry... Còn nếu nó phá lên trên này thì chúng ta TP. Còn nó nằm ở đây thì vẫn cứ ngồi chờ, quan sát thôi... khi nó có mùi gãy khỏi cái thằng 78.5 [?] này, chúng ta chạy luôn."
+    },
+    {
+      "lenh": "lệnh sell đang gồng",
+      "quyet_dinh": "dong",
+      "khi_nao": "nến ngày xanh đóng trên MA ngày thì gỡ, chờ gãy xuống rồi sell lại",
+      "gio": null,
+      "trich": "Hoặc đang gồng sell cũng gỡ, chờ nó gãy xuống thì sell lại cho an toàn."
+    },
+    {
+      "lenh": "vị thế quanh Jackson Hole",
+      "quyet_dinh": "dong",
+      "khi_nao": "tối thứ sáu 9h thị trường rất biến động → nằm im, giảm tốc độ cuối tháng",
+      "gio": null,
+      "trich": "9:00 tối ngày mai khả năng là thị trường sẽ rất biến động... Ngày mai thứ sáu, giai đoạn này cũng chuẩn bị kết thúc đến tháng rồi, thành ra anh em cũng bắt đầu giảm tốc độ dần là vừa."
+    }
+  ],
+  "tin_tuc": [
+    {
+      "su_kien": "PCE Mỹ",
+      "thoi_diem": "26/8",
+      "nguon": "lich_kinh_te",
+      "so_lieu": "cao hơn tháng trước, bằng dự kiến",
+      "anh_huong_view": "không bất ngờ; chỉ số không tốt không có nghĩa thị trường sập; không quan trọng, chỉ cần né giờ tin",
+      "gio": null,
+      "trich": "Chỉ số lạm phát PCE của ngày hôm qua rõ ràng là chỉ số không tốt, không đẹp bởi vì nó cao hơn so với tháng trước, nhưng được một cái là nó bằng so với dự kiến cho nên thị trường cũng không bị bất ngờ lắm... Chúng ta chỉ cần nhìn qua và né cái giờ tin này là ok."
+    },
+    {
+      "su_kien": "Jackson Hole – chủ tịch Fed",
+      "thoi_diem": "9h tối thứ sáu 28/8",
+      "nguon": "lich_kinh_te",
+      "so_lieu": null,
+      "anh_huong_view": "thị trường sẽ rất biến động; nằm im núp",
+      "gio": null,
+      "trich": "Tối ngày mai, thứ sáu, mọi người nhớ giúp mình: chúng ta sẽ có một sự kiện quan trọng, đó là chủ tịch Fed ở Jackson Hole. 9:00 tối ngày mai khả năng là thị trường sẽ rất biến động."
+    },
+    {
+      "su_kien": "thanh lý 24h",
+      "thoi_diem": "27/8",
+      "nguon": "khac",
+      "so_lieu": "~200 triệu, long/short cân",
+      "anh_huong_view": "chỉ nêu",
+      "gio": null,
+      "trich": "Xem thử: thanh lý 200 triệu thôi. Hai team long với team short này bằng nhau."
+    }
+  ],
+  "nghi_van_nhan_v2": null
+}

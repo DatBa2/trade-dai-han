@@ -1,0 +1,82 @@
+{
+ "buoi": "2026-07-31_SlGyokVNofU",
+ "ngay": "2026-07-31",
+ "gio_vn": "11:00",
+ "gia_btc_luc_noi": 64371,
+ "nhan_dinh": [
+  {
+   "khung": "H4",
+   "huong": "PHAN_VAN",
+   "do_chac": "vua",
+   "dich": null,
+   "han": "chờ nến tháng 7 đóng (07:00 01/08) và 1-2 cây H4 đầu tháng 8",
+   "han_gio": 24,
+   "vo_hieu_khi": "chờ xác nhận: H4 đóng lại trên 64.800 (lấy lại biên trên sideway cũ, giữ cụm EMA) thì mới tính tiếp lên; H4 đóng dưới 64.000 (thủng cụm EMA34/89/200 H4 + dải EMA34 H4) thì tính về đáy biên. Kẹp 64.0-64.8 không tham gia",
+   "kich_ban_phu": "sideway bóp cuối tháng quét hai đầu: vừa quét đầu trên 65.4, đầu dưới 63.0-63.2 (cụm thanh lý) chưa bị lấy",
+   "duong_di": null,
+   "doi_y": "chiều-tối 30/07 đã có 4 cây H4 đóng trên 64.5 (đúng điều kiện đi 66), nhưng cây H4 07h 31/07 quét 65.42 rồi đóng thụt về 64.37 → break lên không giữ được, quay lại biên",
+   "ly_do": [
+    "giá đóng 64.37 nằm đúng giữa cụm EMA34/89/200 H4 chụm 64.31-64.41 (0.15%) = công tắc, EMA còn đi ngang",
+    "cây H4 07h râu trên 0.99%: quét cụm short Hyblock 65-65.4 rồi bị đạp, mất lại mốc 64.5 → break lên chưa thành",
+    "biên sideway mở rộng 63.26-65.42, đỉnh không vượt 65.75, đáy không thủng 63; đóng nến tháng hôm nay, thị trường bóp biên kill cả hai phe",
+    "thứ Sáu cực kỳ khó, F&G 25 sợ hãi cực độ nhưng D1 30/07 đóng xanh trên EMA34 D1 → hai phía lý do ngang nhau"
+   ],
+   "trich": null
+  },
+  {
+   "khung": "D1",
+   "huong": "PHAN_VAN",
+   "do_chac": "thap",
+   "dich": null,
+   "han": "1-2 nến ngày đầu tháng 8",
+   "han_gio": 48,
+   "vo_hieu_khi": "chờ xác nhận: D1 đóng trên 65.200 (vượt hẳn dải EMA34 D1) mới quay lại plan hồi 66-67; D1 đóng dưới 63.200 (thủng đáy biên) mới về 62-62.5",
+   "kich_ban_phu": "nến D1 hôm nay đang đỏ sau cây xanh 30/07, chưa phá được gì",
+   "duong_di": null,
+   "doi_y": null,
+   "ly_do": [
+    "D1 30/07 đóng xanh +1.25% vượt EMA34 close D1 nhưng D1 31/07 đang trả lại",
+    "giá kẹp trong dải EMA34 D1 63.45-65.16, dưới EMA89 D1 66.9",
+    "D1 thứ Hai nhấn chìm vẫn chưa bị lấy lại (đỉnh 65.75)"
+   ],
+   "trich": null
+  },
+  {
+   "khung": "W1",
+   "huong": "GIAM",
+   "do_chac": "cao",
+   "dich": [40000, 50000],
+   "han": "chu kỳ downtrend tới 2027",
+   "han_gio": null,
+   "vo_hieu_khi": "nến tuần đóng trên trendline giảm khung tuần / dải EMA34 W1 ~72K",
+   "kich_ban_phu": "tháng 7 đóng xanh ~+9-10% nhưng nằm gọn trong thân đỏ -20% tháng 6 → chỉ là nhịp hồi; hồi tối đa 70-72",
+   "duong_di": null,
+   "doi_y": null,
+   "ly_do": [
+    "giá dưới EMA34/89 tuần, EMA34 tuần đã cắt xuống EMA89 tuần",
+    "tuần này vẫn đỏ -1.6%",
+    "chu kỳ 4 năm: downtrend từ đỉnh 126K mới đi khoảng một nửa"
+   ],
+   "trich": null
+  }
+ ],
+ "vung_gia": {
+  "khang_cu": [64800, 65420, 65750, 66000],
+  "ho_tro": [64000, 63260, 63000, 62500]
+ },
+ "lenh": [],
+ "hanh_dong": "dung_ngoai_vi_lap_lung",
+ "giu_view": true,
+ "ly_do_doi_view": "Giữ view PHÂN VÂN/sideway từ 30/07: điều kiện 2 H4 đóng trên 64.5 có bật nhưng giá không tới 66, quét 65.42 rồi cây H4 07h đóng thụt về 64.37 → quay lại biên, nên chưa đổi. Hôm nay đóng nến tháng (d) → đầu tháng 8 view lại khung lớn.",
+ "rau": {
+  "tren": "65.424 (H4 mở 07:00 31/07, râu trên 0.99%, quét cụm short 65-65.4)",
+  "duoi": "64.180 (cùng cây H4 07:00 31/07); đáy biên gần nhất 63.262 (H4 03:00 30/07)",
+  "test_lai": "Râu trên 65.42: KHÔNG trong 1-2 ngày — cụm short 65-65.4 vừa bị thanh lý sạch, hết nhiên liệu (5.3). Râu/đáy dưới 63.26: CÓ — đáy biên sideway, cụm thanh lý 63-63.1 chưa bị quét, trùng Fibo 0.5 D1 nhịp 59.6→66.96 (63.27) + cạnh dưới dải EMA34 D1 63.45 (R2+R3)."
+ },
+ "vung_on": [
+  {"loai": "SHORT", "khoang": [65100, 65800], "ly_do": ["râu quét 65.42 + đỉnh H4 65.75/65.8 chưa vượt", "cạnh trên dải EMA34 D1 65.16", "Fibo 0.786 nhịp giảm 65.75→62.74 (65.11)", "vùng short 65-65.4 người đó nêu từ live FED"]},
+  {"loai": "LONG", "khoang": [62900, 63400], "ly_do": ["đáy biên H4 63.262", "Fibo 0.5 D1 nhịp 59.6→66.96 (63.27) + cạnh dưới dải EMA34 D1 63.45", "cụm thanh lý 63-63.1 người đó nêu", "đáy 63K hai lần giữ (24/07, 28/07)"]}
+ ],
+ "pha_vo_gia": "Cú vượt 64.5 lên 65.42 thành phá vỡ giả: quét đúng cụm short 65-65.4 rồi rút (G4), cây H4 07h râu trên 1% đóng lại dưới 64.5 (G1), sideway bóp cuối tháng ai cũng chờ break (G7). Không đổi view vì cú này.",
+ "loi_binh": "Hôm qua mình nói hai cây H4 đóng trên 64.5 thì sẵn sàng 66, nó có đóng thật, nhưng sáng nay quét lên 65.4 kill short xong lại đạp về 64.3 rồi anh em. Giá giờ nằm đúng giữa cụm MA H4, long không được short không xong thì làm gì? Xem livestream. H4 đóng lại trên 64.8 thì tính lên, đóng thủng 64 thì về đáy biên 63, còn giờ 50-50 là mình không tham gia. Hôm nay đóng nến tháng, thứ Sáu khó chơi, đầu tháng mình view lại."
+}

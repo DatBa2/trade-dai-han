@@ -1,0 +1,270 @@
+{
+  "buoi": "2026-09-29_1002_3inGNRqb-UM",
+  "ngay": "2026-09-29",
+  "gia_btc_luc_noi": 82500,
+  "moc": [
+    {
+      "gia": 84000,
+      "gia_tren": null,
+      "vai_tro": "dinh_cu",
+      "huong": null,
+      "khung": null,
+      "can_cu": [
+        "râu đêm qua lấy thanh khoản"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "phiên đêm Bitcoin có một cái râu kéo lên độ 84 để lấy thêm thanh khoản"
+    },
+    {
+      "gia": 82000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "W1",
+      "can_cu": [
+        "trendline hỗ trợ khung tuần (đường vàng)",
+        "hỗ trợ cứng H4"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "Hỗ trợ khung tuần của chúng ta hiện tại là vùng này 82.000. Đường màu vàng mình vẽ là line hỗ trợ trendline"
+    },
+    {
+      "gia": 81000,
+      "gia_tren": 83000,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "zone hỗ trợ cứng H4, chủ lực quanh đầu 82",
+        "trendline hỗ trợ khung tuần"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "zone hỗ trợ của nó là vùng loanh quanh hiện tại: 83, 82, 81... vùng hỗ trợ cứng H4"
+    },
+    {
+      "gia": 78000,
+      "gia_tren": 79000,
+      "vai_tro": "ho_tro",
+      "huong": "GIAM",
+      "khung": "W1",
+      "can_cu": [
+        "vùng base tái tích lũy 75-80 khoảng 1 tháng"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "khi nó trôi về dưới 80, tức 78–79, thì nó quay về một vùng base"
+    },
+    {
+      "gia": 80000,
+      "gia_tren": null,
+      "vai_tro": "vo_hieu",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "thủng 80 đứng lại vùng base 78-79"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "nếu rơi từ đây thủng 80 thì nó sẽ đứng lại ở vùng 78–79, không trôi nữa"
+    },
+    {
+      "gia": 75000,
+      "gia_tren": 80000,
+      "vai_tro": "ho_tro",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [
+        "vùng tái tích lũy khoảng 1 tháng"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "đã tái tích lũy một khoảng thời gian rất dài (khoảng 1 tháng nằm ở vùng 75 đến 80) nên không dễ gãy qua khỏi đoạn này"
+    },
+    {
+      "gia": 69000,
+      "gia_tren": 75000,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "người nói: rất khó về nhanh"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "đừng kỳ vọng trong thời gian ngắn mà bảo chắc nó về 75, 74, 72, 71, 69 — rất khó"
+    },
+    {
+      "gia": 90000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "giữ trên 82"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "Nếu sau đó đóng vài cây nến và giữ được trên 82 thì vùng này giúp giá đỡ để đẩy lên con sóng tiếp theo khoảng 90.000"
+    },
+    {
+      "gia": 82000,
+      "gia_tren": null,
+      "vai_tro": "vo_hieu",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "thủng 82 về 81 trôi dưới 80"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "Còn nếu thủng 82, về 81 thì sẽ trôi về dưới 80 rất nhanh"
+    },
+    {
+      "gia": 85000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "lên lại trên 85"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "Muốn biết tiếp theo nó về dưới 80 hay lên lại trên 85"
+    },
+    {
+      "gia": 83000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "H4 đóng giữ trên 83.000"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "Nếu H4 tí nữa đóng giữ được trên 83.000 nghĩa là lực mua đang giữ giá"
+    },
+    {
+      "gia": 82500,
+      "gia_tren": null,
+      "vai_tro": "khac",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "vai đầu vai: đầu quét 82.000, back test 82.500"
+      ],
+      "moc_gio": null,
+      "chac": false,
+      "trich": "đầu quét về 82.000, sau đó lên và back test lại 82.500 [?] chẳng hạn"
+    },
+    {
+      "gia": 83000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "M5",
+      "can_cu": [
+        "MA M5"
+      ],
+      "moc_gio": null,
+      "chac": false,
+      "trich": "M5 đang cố kéo lên nhưng volume vẫn yếu, nên nhịp này khả năng chỉ kéo đâu đó khoảng 83.000 [?] rồi lại rơi xuống"
+    },
+    {
+      "gia": 82000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "H1",
+      "can_cu": [
+        "giá dưới MA200 H1",
+        "cụm thanh lý / heatmap 82.000"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "giá nằm dưới MA200 của H1 rồi, nên xác suất quét về dưới này, 82.000, cực kỳ cao"
+    },
+    {
+      "gia": 85000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý / heatmap mới mở"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "bên này vẫn có những vùng liquid mới ở 85, và ở dưới là 82 hoặc 81.500"
+    },
+    {
+      "gia": 81500,
+      "gia_tren": 82000,
+      "vai_tro": "ho_tro",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý / heatmap"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "ở dưới là 82 hoặc 81.500"
+    },
+    {
+      "gia": 82400,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "H1",
+      "can_cu": [
+        "fake out hai đáy H1"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "nó vẫn muốn về test lại vùng đâu đó khoảng 82.400 thì mới đẹp"
+    },
+    {
+      "gia": 83300,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "M5",
+      "can_cu": [
+        "hồi quét sau đóng nến"
+      ],
+      "moc_gio": null,
+      "chac": false,
+      "trich": "Nó sẽ hồi lên quét khoảng 83.300 [83.003 trong phụ đề] đến 83.00 [?]"
+    },
+    {
+      "gia": 80000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "test lại vùng 80"
+      ],
+      "moc_gio": null,
+      "chac": false,
+      "trich": "chắc vẫn phải về test lại vùng 800 đến 800 [?] này thôi"
+    },
+    {
+      "gia": 60000,
+      "gia_tren": null,
+      "vai_tro": "day_cu",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "đáy 60.000 mà đám đông xác định"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "Quá nhiều ông xác định 60.000 giai đoạn vừa rồi là đáy"
+    }
+  ]
+}

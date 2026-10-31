@@ -1,0 +1,138 @@
+{
+ "buoi": "2026-07-24_7D1Ve5hs4bU",
+ "ngay": "2026-07-24",
+ "gio_vn": "10:00",
+ "gia_btc_luc_noi": 65400,
+ "nhan_dinh": [
+  {
+   "khung": "H4",
+   "huong": "TANG",
+   "do_chac": "vua",
+   "dich": 68000,
+   "han": null,
+   "han_gio": 144,
+   "vo_hieu_khi": "nến H4 đóng dưới 63.000",
+   "vo_hieu_cau_truc": {
+    "gia": 63000,
+    "khung": "H4",
+    "so_nen": 1,
+    "chieu": "dong_duoi",
+    "cau": "Tầm này mà muốn kết thúc cái xu hướng dài, cái nhịp phục hồi này thì mình nghĩ là giá nó cũng sẽ phải về dưới cái vùng đâu đó 63 hoặc 62 64 gì đó. Tệ cũng phải 62 nghìn mấy thì mới gọi là kết thúc được cái xu hướng phục hồi này."
+   },
+   "kich_ban_phu": null,
+   "duong_di": [
+    {
+     "huong": "TANG",
+     "dich": 68000
+    },
+    {
+     "huong": "TANG",
+     "dich": 72000
+    }
+   ],
+   "doi_y": null,
+   "ly_do": [],
+   "trich": "H4 này đóng rồi. H4 này đóng như này rất đẹp rồi. [01:00:32] View vùng các thứ cũng chừng đó thôi. Cùng lắm an toàn. Anh em cứ chờ thằng BTC này về đâu đó là 64.000 ... [01:02:47] Cố gắng giữ những view này, cố gắng bám thị trường. Những view này có thể áp dụng từ giờ đến khi mình livestream lại đầu tuần sau.",
+   "nhan_v1": "TANG"
+  },
+  {
+   "khung": "D1",
+   "huong": "TANG",
+   "do_chac": "vua",
+   "dich": 72000,
+   "han": "tuần này đến FED",
+   "han_gio": 168,
+   "vo_hieu_khi": "nến ngày bị bán mãi dưới 68 sau vài hôm cố rướn thì xem lại",
+   "kich_ban_phu": "nếu D1 đóng xanh trên 67.000 thì đừng sell nữa, vút lên vùng trống thanh khoản",
+   "ly_do": [
+    "xu hướng ngày vẫn phục hồi đi lên",
+    "chứng khoán Mỹ sắp thủng EMA là rủi ro kéo crypto"
+   ],
+   "trich": "Đóng nến D1 xanh qua 6700 thì thôi đừng có sell nữa.",
+   "doi_y": null,
+   "duong_di": null
+  }
+ ],
+ "vung_gia": {
+  "khang_cu": [
+   66000,
+   68000
+  ],
+  "ho_tro": [
+   63000,
+   64000
+  ]
+ },
+ "lenh": [
+  {
+   "chieu": "LONG",
+   "vao": null,
+   "tp": [
+    68000
+   ],
+   "sl": null,
+   "trang_thai": "dang_giu"
+  },
+  {
+   "chieu": "LONG",
+   "vao": 64000,
+   "tp": [
+    65000
+   ],
+   "sl": null,
+   "trang_thai": "de_xuat_moi"
+  }
+ ],
+ "nhin_lai_truoc": "Hôm qua ăn được vài nhịp sell; lệnh NEAR bị quét SL rồi đi lên lại, bỏ không long lại.",
+ "cong_cu": [
+  "Dow lý thuyết sóng thứ cấp",
+  "MA xanh H4 ~68.000",
+  "Liquid 64.000/68.000",
+  "Fear & Greed 28",
+  "BTC.D",
+  "USDT.D",
+  "Total vốn hóa",
+  "ETH/BTC"
+ ],
+ "tin_tuc": [
+  {
+   "tin": "FED họp lãi suất đêm 29 rạng sáng 30/7",
+   "danh_gia": "khả năng giữ nguyên; xác suất tăng lãi suất 0,25 dưới 20%; dầu tăng gây lo lạm phát"
+  }
+ ],
+ "thoi_quen": [
+  "sau khi ăn sell hôm qua thì reset, phân tích lại khách quan",
+  "bị quét SL thì chấp nhận không cố chấp",
+  "đánh long ngắn rời tàu khi đủ",
+  "isolate: đòn bẩy = 60 / %SL, tối đa x20 BTC, SL tối đa ~1000 giá",
+  "khó thì đánh chậm lại"
+ ],
+ "cau_cua_mieng": [
+  "Cái nào mà nhìn có vẻ thơm thì cũng phải nghi ngờ.",
+  "Cái gì khó chúng ta bỏ qua thôi, có gì đâu."
+ ],
+ "altcoin": [
+  {
+   "coin": "ETH",
+   "huong": "TANG",
+   "ghi": "chờ về 1800-1810 (nếu thủng 1800 bỏ), TP 1923-1925; BTC lên 70 thì ETH 2080-2100"
+  },
+  {
+   "coin": "altcoin chung",
+   "huong": "GIAM",
+   "ghi": "DOM, USDT.D đi lên, alt xấu; SOL nhập nhằng không đụng; vàng không sell chờ fake out 4300"
+  }
+ ],
+ "ghi_chu": "gio_vn ước lượng. Giá lúc nói lấy từ ví dụ 'giá market đang là 65.392'. '6700' hiểu 67.000, '6400' hiểu 64.000.",
+ "hanh_dong": "giu_lenh",
+ "chang_ke_tiep": {
+  "huong": "TANG",
+  "dich": 68000
+ },
+ "khung_lon_v2": {
+  "D1": "TANG",
+  "W1": null
+ },
+ "pha_vo_gia": "Cây D1 xấu dạng hai đỉnh 'rất là nhiều ông đi vào short ... nhìn thì thơm cho nên cái nào mà nhìn có vẻ thơm thì cũng phải nghi ngờ' (bẫy short); 68.000 là vùng stop loss short swing rất lớn. Lệnh long buổi sáng bị quét SL rồi giá đi lên lại. Cuối buổi lưu ý 'Có đôi khi nó quét lên đây sau đó nó gãy xuống'.",
+ "nguon_nhan": "dap_an_v2 (Opus 5.5 rút mù 31/10)"
+}

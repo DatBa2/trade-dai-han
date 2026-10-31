@@ -1,0 +1,203 @@
+{
+  "buoi": "2026-01-08_jX-0Hgy1S0E",
+  "ngay": "2026-01-08",
+  "gia_btc_luc_noi": 91000,
+  "moc": [
+    {
+      "gia": 90000,
+      "gia_tren": 91000,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "gap 1 (91.000-90.000) chưa lấp xong"
+      ],
+      "moc_gio": "00:15:53",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Gửi lại cái gap này cho mọi người xem. Lúc đó đang ở 91.00, gap 91 và 90.00. Gap 2 là 88."
+    },
+    {
+      "gia": 88000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "gap 2 (88K)",
+        "Fibo 0.5 ở 87.000 (nói không đánh giá cao)"
+      ],
+      "moc_gio": "00:20:00",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Fibo thì có thằng 87.000 này vẫn là Fibo 0.5. Nếu nó về đến gap 2, gap 88 thì nó sẽ về đến Fibo này. Chủ yếu là cái gap mới quan trọng."
+    },
+    {
+      "gia": 87000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "Fibo 0.5 (không nêu kéo từ đâu tới đâu)"
+      ],
+      "moc_gio": "00:20:00",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "thằng 87.000 này vẫn là Fibo 0.5."
+    },
+    {
+      "gia": 96000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "MA89 D1 cần test",
+        "bản chất nhịp hồi cần chạm MA89 hoặc MA200"
+      ],
+      "moc_gio": "00:17:24",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "nó có thể sẽ còn một nhịp lên được khoảng 96 nữa. Tức là test đường MA89 này."
+    },
+    {
+      "gia": 96000,
+      "gia_tren": 100000,
+      "vai_tro": "entry",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [
+        "MA89 D1 / kháng cự sau khi lên 96"
+      ],
+      "moc_gio": "00:18:57",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Nhịp thứ hai là ăn được nhịp short từ khoảng 96, 100 cho đến về đến dưới đáy này."
+    },
+    {
+      "gia": 91000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "MA34 H4 trở thành cản"
+      ],
+      "moc_gio": "00:22:09",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "phải chờ có một cây H4 đóng màu xanh lên trên khỏi MA34 tức là trên vùng giá 91.000 thì lúc đó chúng ta hẵng nghĩ đến câu chuyện long đuổi"
+    },
+    {
+      "gia": 91000,
+      "gia_tren": null,
+      "vai_tro": "entry",
+      "huong": "GIAM",
+      "khung": "M5",
+      "can_cu": [
+        "MA34 H4 làm cản"
+      ],
+      "moc_gio": "00:24:14",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "nó có lên lại khoảng 91.000... mình có short một cái entry 91.00, 9100 gì đó"
+    },
+    {
+      "gia": 87000,
+      "gia_tren": 95000,
+      "vai_tro": "khac",
+      "huong": "GIAM",
+      "khung": "W1",
+      "can_cu": [
+        "vị trí trong hành trình giảm"
+      ],
+      "moc_gio": "00:39:44",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Chúng ta mới đang ở những vùng trên này thôi, 90 95.000, 87.000, 60.000, 50.000 còn chưa thấy."
+    },
+    {
+      "gia": 50000,
+      "gia_tren": 60000,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "W1",
+      "can_cu": [],
+      "moc_gio": "00:39:44",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "60.000, 50.000 còn chưa thấy. Dưới nữa mới là 40.000, 30.000, rồi 20.000"
+    },
+    {
+      "gia": 20000,
+      "gia_tren": 40000,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "W1",
+      "can_cu": [],
+      "moc_gio": "00:39:44",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Dưới nữa mới là 40.000, 30.000, rồi 20.000, nó còn nằm sâu dưới."
+    },
+    {
+      "gia": 90000,
+      "gia_tren": null,
+      "vai_tro": "tp",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý / heatmap (liquid)",
+        "gap 1"
+      ],
+      "moc_gio": "00:56:09",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "À quên check liquid rồi. Hôm qua ăn được nhiều liquid. 90.000... chốt TP 90.000. Ăn ngắn thôi."
+    },
+    {
+      "gia": 90000,
+      "gia_tren": null,
+      "vai_tro": "entry",
+      "huong": "TANG",
+      "khung": "M30",
+      "can_cu": [
+        "gap 1",
+        "hợp lưu MA89 H1 / MA200 khung 30 phút (vùng long)"
+      ],
+      "moc_gio": "01:01:33",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Có hai vùng lấp gap, chờ vùng đầu tiên quanh 90.000... nếu nến đẹp thì mới chơi, còn không thì chờ về khoảng vùng 88."
+    },
+    {
+      "gia": 88000,
+      "gia_tren": null,
+      "vai_tro": "entry",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "gap 2"
+      ],
+      "moc_gio": "01:01:33",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "còn không thì chờ về khoảng vùng 88."
+    },
+    {
+      "gia": 91000,
+      "gia_tren": null,
+      "vai_tro": "tp",
+      "huong": "TANG",
+      "khung": "M30",
+      "can_cu": [
+        "MA89 H1 + MA200 M30 (vùng vào long ngắn)"
+      ],
+      "moc_gio": "01:02:47",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Trở về đây thì hợp lưu MA, vừa MA89 vừa đường MA200 ở trên khung 30 phút... Ăn ngắn khoảng 91, tức khoảng 1000 giá là chốt long"
+    }
+  ]
+}

@@ -1,0 +1,277 @@
+{
+  "buoi": "2026-09-18_1003_YPMgjMxL2io",
+  "ngay": "2026-09-18",
+  "gia_btc_luc_noi": 77300,
+  "moc": [
+    {
+      "gia": 77000,
+      "gia_tren": 78000,
+      "vai_tro": "khang_cu",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [
+        "vùng sideway cũ bị xuyên thủng thành kháng cự",
+        "Fibo (không nói kéo từ đâu)",
+        "MA D1"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "Vùng 77.000 đến 78 là vùng kháng cự... trước đó là một vùng sideway đi ngang, nó đã xuyên thủng vùng này"
+    },
+    {
+      "gia": 78000,
+      "gia_tren": 79000,
+      "vai_tro": "vo_hieu",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [
+        "đóng trên Fibo/ trên 78"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "Khi nào nó đi qua được 78, 79 thì may ra mới ổn một tí."
+    },
+    {
+      "gia": 79000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "H4 đóng trên MA vùng 77-78"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "Nếu H4 vượt qua được đoạn này và đóng lên, thì chúng ta có cơ hội thấy giá kéo lên trên 79"
+    },
+    {
+      "gia": 81000,
+      "gia_tren": 82000,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "đỉnh cũ"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "trên 79 thì lúc đó mới tính đến chuyện test lại các vùng đỉnh như 81, 82 hay 90"
+    },
+    {
+      "gia": 82000,
+      "gia_tren": 83000,
+      "vai_tro": "khang_cu",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "khung ngày... phải vượt qua khỏi vùng 82 83 này thì sẽ kéo lên tiếp là 92"
+    },
+    {
+      "gia": 92000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "vượt 82-83"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "vượt qua khỏi vùng 82 83 này thì sẽ kéo lên tiếp là 92"
+    },
+    {
+      "gia": 76000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "MA200 H4",
+        "MA D1 (hỗ trợ)"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "H4 ở đây cũng là vùng hỗ trợ MA200... quay về lại vùng 76 hoặc 75 thì chúng ta tiếp tục follow vùng 72 hay 71"
+    },
+    {
+      "gia": 71000,
+      "gia_tren": 73000,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [
+        "vùng hôm trước đã nêu"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "khoảng 73.000 cho đến 71.000 / follow vùng 72 hay 71"
+    },
+    {
+      "gia": 60000,
+      "gia_tren": 62000,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [
+        "thủng 72-71"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "nếu thủng 72 71 thì chúng ta quay về lại vùng 60 hoặc 62"
+    },
+    {
+      "gia": 78000,
+      "gia_tren": null,
+      "vai_tro": "vo_hieu",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "Fibo (đóng trên Fibo)"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "Trường hợp 1: nó đóng trên Fibo, tức là trên khỏi 78.000... giữ được trên 78 thì qua tuần sau xác suất đi lên là có"
+    },
+    {
+      "gia": 77000,
+      "gia_tren": null,
+      "vai_tro": "vo_hieu",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "Trường hợp 2: ... tiếp tục giao dịch ở vùng dưới 77.000 thì xu hướng giảm vẫn còn"
+    },
+    {
+      "gia": 77700,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "M5",
+      "can_cu": [
+        "cụm thanh lý / heatmap (Hyblock)",
+        "Fibo 0.618 phía sau"
+      ],
+      "moc_gio": null,
+      "chac": false,
+      "trich": "khả năng tí nữa nó sẽ quét lên 77.700... rồi sau đó mới tính vùng Fibo 0.618"
+    },
+    {
+      "gia": 75000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý / heatmap"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "dưới này vẫn có một vùng thanh lý ở 75.000... mình nghĩ trong ngày hôm nay nó sẽ lụm luôn cả hai đầu"
+    },
+    {
+      "gia": 76000,
+      "gia_tren": null,
+      "vai_tro": "entry",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "(người xem) Short 76 — người nói: hạn chế short ở 76, phải chờ vùng trên"
+    },
+    {
+      "gia": 77000,
+      "gia_tren": null,
+      "vai_tro": "vo_hieu",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "râu 77.00 và Fibo, H4 đóng xanh trên 77"
+      ],
+      "moc_gio": null,
+      "chac": false,
+      "trich": "Nếu cây H4 này đóng trên 77.00 thì các bạn nên xử lý vị thế đó (short)"
+    },
+    {
+      "gia": 78000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "GIAM",
+      "khung": "M5",
+      "can_cu": [
+        "râu nến"
+      ],
+      "moc_gio": null,
+      "chac": false,
+      "trich": "Cái râu này là 77.00, trên này thì chắc khoảng 78.00"
+    },
+    {
+      "gia": 76700,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "M5",
+      "can_cu": [],
+      "moc_gio": null,
+      "chac": false,
+      "trich": "Chắc tí nữa nó điều chỉnh về khoảng 76.700"
+    },
+    {
+      "gia": 77000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "M5",
+      "can_cu": [
+        "chân sóng cây volume trước đó",
+        "cụm thanh lý lấy liquid"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "5 phút này có thể nó điều chỉnh về lại chân sóng của cây volume trước đó, khoảng 77.000... Bởi vì nó lên lấy liquid là vùng này"
+    },
+    {
+      "gia": 72000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "đáy cũ"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "Nếu về 70 thì khả năng là về đáy cũ, nhưng nếu nó về khoảng 72 mà trụ được thì mới tạo ổn"
+    },
+    {
+      "gia": 125000,
+      "gia_tren": 126000,
+      "vai_tro": "dinh_cu",
+      "huong": "GIAM",
+      "khung": "W1",
+      "can_cu": [
+        "đỉnh tháng 10/2025 (lệnh short giữ từ 125.000)"
+      ],
+      "moc_gio": null,
+      "chac": false,
+      "trich": "Lệnh short từ 126.000, à 125.000 chứ... thị trường lập đỉnh là tháng 10"
+    },
+    {
+      "gia": 75000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý / heatmap"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "Tối nay mình đoán chắc nó sẽ về lụm vùng ở 75 này nhá."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "buoi": "2026-10-20_1017_zzhCJ1Bb_vg",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/lam_sach/2026-10-20_1017_zzhCJ1Bb_vg.md",
+  "gia_btc_luc_noi": 82000,
+  "dau_buoi": {
+    "thien_huong_h4": "GIAM",
+    "gio": null,
+    "trich": "Đoạn này mình thấy xác suất để nó đi xuống sẽ cao hơn xác suất đi lên theo quan điểm cá nhân của mình. Tất nhiên để xác nhận thì các bạn sẽ phải chờ nến đóng cửa break ra khỏi cái biên đi ngang này, cái biên tam giác này nhá."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "GIAM",
+    "do_chac": "thap",
+    "gio": null,
+    "trich": "Đóng trên 82 chắc là phi lên 83k2 lụm liquid. Khả năng đó vẫn cao đấy. Chắc phải lên húp một phát nữa rồi mới gãy xuống lại."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {"huong": "TANG", "dich": [83000, 83200]},
+  "duong_di": [
+    {"huong": "TANG", "dich": [83000, 83200]},
+    {"huong": "GIAM", "dich": [80000, 80700]}
+  ],
+  "dich_chinh": [80000, 80700],
+  "han_gio": null,
+  "vo_hieu": {
+    "gia": 83000,
+    "khung": "H4",
+    "so_nen": 2,
+    "chieu": "dong_tren",
+    "cau": "Như hôm qua mình nói, đối với nhịp breakout đẹp nhất thì phải có hai cây nến H4 vượt qua thì mới an toàn được... Cụ thể đoạn này nó chạm trendline và chạm Fibo ở vùng 83, hôm qua gãy về 82 và 81 trong phiên nhỏ của ngày hôm qua."
+  },
+  "lenh": [],
+  "hanh_dong": "dung_ngoai_cho_entry",
+  "khung_lon": {"D1": null, "W1": null},
+  "pha_vo_gia": "Dự giá lên quét thanh khoản ~83.000–83.200 ('lên húp một phát nữa rồi mới gãy xuống lại'); hôm trước lên 83 chạm trendline + Fibo bị phản vì không có hai cây H4 vượt qua.",
+  "trich_them": [
+    {"gio": null, "cau": "Trong ngắn hạn, H4 thì giá vẫn bị fail, tức là bị đè MA... Hiện tại ở đây là bắt đầu càng ngày lực bán sẽ càng áp đảo."},
+    {"gio": null, "cau": "Tất cả đều thể hiện một con sóng điều chỉnh, một con sóng xuống nhá, và rất là ít lực tăng. Xu hướng chính của nó vẫn là đang đi hẹp dần trong biên tam giác."},
+    {"gio": null, "cau": "Hiện tại nó vẫn đang đi dần về một cấu trúc giảm."},
+    {"gio": null, "cau": "Đơn giản thôi: nếu thằng BTC này phá qua được trendline 15 phút thì nó sẽ chạy tiếp mô hình cờ, nó sẽ lên lại 83. Còn nếu nó fail mô hình này thì có thể là nó sẽ về tiếp tục test lại vùng 80, và đáy 80.700 (gốc \"80.000 7\")."},
+    {"gio": null, "cau": "Đang gặp cản Fibo luôn ngắn hạn nhá, 15 phút đang gặp cản Fibo luôn đấy. Mình thì đoán sẽ không lên được và sẽ đi xuống. Mình đoán như thế, xét về ngắn hạn nhá."},
+    {"gio": null, "cau": "Nếu như này chắc lại không sale được nữa rồi. Đến đây mà đóng H4 xanh thì lại quá đẹp, chắc là khả năng sẽ lên được. Đoạn này thì anh em không sale nhá... View nhịp này có thể kỳ vọng lên 83.000 mấy."},
+    {"gio": null, "cau": "Lực này thì mình nghĩ cũng có, nhưng mà lực này chủ yếu chắc lên quét thêm khoảng 83.000 thôi... Đừng có quay về lại trong cái biên này là được. Còn quay về lại trong này thì đói. Quay về lại dưới 81.000 là đói. Còn cứ giữ được ở đây thì nó từ từ sẽ đi lên 83."},
+    {"gio": null, "cau": "Nến như thế này thì tạm thời khoan sale đã... Có lẽ đẹp nhất là phải chờ nó quét qua khỏi đoạn 83.000 và xem xét ở trên đó thế nào. Qua khỏi đoạn này rồi tính nhá."},
+    {"gio": null, "cau": "Nó đi sideway thôi, nó đi ngang thôi."}
+  ],
+  "kho": "File không có mốc giờ. Khó: nghiêng xuống ở đầu buổi ('xác suất đi xuống cao hơn', 'đoán sẽ không lên được'), giữa buổi lật ngắn hạn sang 'không sale, lên 83k2 lụm liquid', và chỉ một câu cho biết sau đó 'mới gãy xuống lại'; câu chốt cuối 'chờ quét qua 83.000... rồi tính' gần với lấp lửng. Gán GIAM độ chắc thấp với chặng kế tiếp TANG 83.000–83.200; đích giảm 80.000–80.700 lấy từ kịch bản fail mô hình cờ (không được nhắc lại sau khi lật). Mốc vô hiệu lấy từ điều kiện 'hai cây H4 vượt qua' vùng 83 (nhắc lại từ hôm trước). Giá lúc nói ước ~82.000 (tiêu đề ghi 81.000)."
+}

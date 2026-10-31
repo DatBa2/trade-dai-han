@@ -1,0 +1,44 @@
+{
+  "buoi": "2026-07-31_SlGyokVNofU",
+  "gia_btc_luc_noi": 64000,
+  "dau_buoi": {
+    "huong_h4": "GIAM",
+    "trich": "[00:10:33] Còn bằng 0 thì vẫn phải view nó đi xuống ở các vùng dưới này bởi vì H4 vẫn thể hiện là xu hướng giảm. Đáy sau thấp hơn đáy trước và đỉnh sau thấp hơn đỉnh trước."
+  },
+  "cuoi_buoi": {
+    "huong_h4": "GIAM",
+    "trich": "[00:54:51] Bitcoin còn cửa nào hay động lực nào để lên? Muốn lên thì cứ phải qua khỏi 65.000 đó. 6500. Cản trend là H4. [01:01:39] mình sẽ chờ vùng 64.00, 6400 đó cho anh em ở trong nhóm chờ."
+  },
+  "doi_y_giua_buoi": false,
+  "huong_lon": {
+    "D1": "TANG",
+    "W1": null,
+    "chu_ky": "GIAM"
+  },
+  "hanh_dong": "dung_ngoai_cho_entry",
+  "duong_di": [
+    {
+      "huong": "TANG",
+      "dich": 64400,
+      "khung": "H1"
+    },
+    {
+      "huong": "GIAM",
+      "dich": 62500,
+      "khung": "H4"
+    },
+    {
+      "huong": "GIAM",
+      "dich": 60000,
+      "khung": "H4"
+    }
+  ],
+  "dich_chinh": 60000,
+  "moc_sai": {
+    "gia": 65000,
+    "dieu_kien": "Phá cản trendline 65.000; H4 đóng vượt cản và D1 xác nhận mới có sóng tăng tiếp ([00:10:02–00:11:03])."
+  },
+  "pha_vo_gia": null,
+  "do_chac": "thap",
+  "ghi_chu": "Đã đọc hết transcript. Giá quanh 64.000 suy từ diễn biến, chỉ là xấp xỉ. Đầu buổi mở bằng nhập nhằng, nhưng phần H4 cụ thể vẫn nghiêng giảm nên không gán PHAN_VAN chỉ vì đứng ngoài. Khó nhất là [00:57:51] nói BTC không gãy nữa, ba/bốn cây H4 confirm; chưa nêu đích H4 tăng mới, cuối vẫn chờ vùng 64.400, nên giữ GIAM với độ chắc thấp và ghi nhận dừng giảm/ngắn hạn hồi. Đích giảm đầu nêu 62.500 và 60.000; có chỗ làm tròn thành 62.000. Đích 64.400 chuẩn hóa từ 6400, có chỗ chỉ nói 64.000. Không đủ chứng cứ kết luận đảo hướng H4 sau 11 giờ. [00:14:17] mô tả tăng kill short rồi gãy; không gọi rõ fake out/trap BTC, nên pha_vo_gia=null."
+}

@@ -1,0 +1,302 @@
+[
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[0].trich",
+  "trich": "Về cơ bản thì đoạn này vẫn tìm short là ok rồi. ... Sóng này về đến bao nhiêu? Mình chắc sẽ dừng ở khoảng 71 hoặc 70k rồi chờ tiếp.",
+  "giay": 1531,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=gRyoN4cBXZA&t=1531s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[1].trich",
+  "trich": "Sóng của thị trường bây giờ là sóng tăng này. Giá nằm trên MA rất là đẹp này. Thì cho dù nó điều chỉnh hay nó sập đi nữa thì cũng chỉ là điều chỉnh ngắn hạn thôi.",
+  "giay": 3027,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=gRyoN4cBXZA&t=3027s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "lenh[0].trich",
+  "trich": "TP1 là 71k1, TP2 là 70k3. ... SL thì đâu đó khoảng 72K9",
+  "giay": 4614,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=gRyoN4cBXZA&t=4614s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "lenh[1].trich",
+  "trich": "Bạc gãy cho mình phô, mình dò một phát đã. Mình 0.01 lot đây.",
+  "giay": 1618,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=gRyoN4cBXZA&t=1618s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "lenh[2].trich",
+  "trich": "Mình có lệnh long ở 645, giữ lên 80. ... lên khoảng 75 nên chốt, và 78, 80.",
+  "giay": 3847,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=gRyoN4cBXZA&t=3847s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[0].trich",
+  "trich": "H1 volume chà bá thế này mà không đi sell, không short thì bây giờ về 70k7 với lại 69k6 anh em",
+  "giay": 1699,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=gRyoN4cBXZA&t=1699s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[1].trich",
+  "trich": "Vol ở market với lại vol lên trên khoảng tầm 73k2 nó hơi xa",
+  "giay": 1731,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=gRyoN4cBXZA&t=1731s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[2].trich",
+  "trich": "vào ở vùng 72k3 khi nó có confirm",
+  "giay": 1779,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=gRyoN4cBXZA&t=1779s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[3].trich",
+  "trich": "Hai đáy lên test đỉnh lại 73k4 lên đó là sell được chứ tầm này không dám long",
+  "giay": 2010,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=gRyoN4cBXZA&t=2010s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[4].trich",
+  "trich": "H1 như này thì tệ cũng về lại cái vùng 71 70 này mới dám long được",
+  "giay": 2024,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=gRyoN4cBXZA&t=2024s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[5].trich",
+  "trich": "Bitcoin entry long mình nghĩ là chắc phải chờ 69000 mấy đó. 6900600 đó",
+  "giay": 2217,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=gRyoN4cBXZA&t=2217s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[6].trich",
+  "trich": "Bitcoin nó rơi vào tầm khoảng 71.000 cho đến 70.000 (tương ứng ETH 2001-2070)",
+  "giay": 2301,
+  "do_giong": 0.706,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=gRyoN4cBXZA&t=2301s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[7].trich",
+  "trich": "nhồi thêm volume ở đoạn khoảng 7300 ... Gần EMA 200 này hơi rủi ro",
+  "giay": 2519,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=gRyoN4cBXZA&t=2519s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[8].trich",
+  "trich": "nếu cái thằng này mà nó thủng MA200 đóng M5 ở dưới MA200 thì nó tụt về dưới này luôn ... TP ngay cái đáy này. 71 71060. TP1 ở đó",
+  "giay": 2575,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=gRyoN4cBXZA&t=2575s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[9].trich",
+  "trich": "SL thì đâu đó khoảng 72K9 này ... nếu nó đóng nến xanh lên trên khỏi vùng 72k6 này thì thoát được",
+  "giay": 2709,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=gRyoN4cBXZA&t=2709s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[10].trich",
+  "trich": "nếu nó đóng nến xanh lên trên khỏi vùng 72k6 này thì thoát được",
+  "giay": 2714,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=gRyoN4cBXZA&t=2714s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[11].trich",
+  "trich": "Cuối tuần thì chủ yếu liên quan đến gap thôi. Chúng ta vẫn còn gap ở trên cao này. Gap Bitcoin 80",
+  "giay": 2859,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=gRyoN4cBXZA&t=2859s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[12].trich",
+  "trich": "chờ tí nó hồi lên khoảng 7200 để vào. TP thì ... quanh vùng 71k1 cho đến 70k",
+  "giay": 3239,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=gRyoN4cBXZA&t=3239s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[13].trich",
+  "trich": "Target 70 tròn này, 70k1, trùng với hai mốc của chúng ta là 71k1 và 70k1",
+  "giay": 3457,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=gRyoN4cBXZA&t=3457s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[14].trich",
+  "trich": "Target 70 tròn này, 70k1 ... TP2 70k350 (70 350)",
+  "giay": 3457,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=gRyoN4cBXZA&t=3457s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[15].trich",
+  "trich": "70k350, 70 350 là TP2. Nếu các bạn muốn gồng dài thì TP1 là 71k1, TP2 là 70k3",
+  "giay": 4605,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=gRyoN4cBXZA&t=4605s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[16].trich",
+  "trich": "Trên Liquid có một vùng 70k7 này. 70k7 với lại 69k. Nếu 69k này thì sâu quá",
+  "giay": 3491,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=gRyoN4cBXZA&t=3491s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[17].trich",
+  "trich": "Mình có lệnh long ở 645, giữ lên 80 ... lên khoảng 75 nên chốt, và 78, 80",
+  "giay": 3847,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=gRyoN4cBXZA&t=3847s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[18].trich",
+  "trich": "lên khoảng 75 nên chốt, và 78, 80. Đó là những mốc nên chốt",
+  "giay": 3859,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=gRyoN4cBXZA&t=3859s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[19].trich",
+  "trich": "Nó sẽ phải đi xuống dưới 65.000 thì mới hết được trend tăng",
+  "giay": 3879,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=gRyoN4cBXZA&t=3879s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[20].trich",
+  "trich": "khi nó thủng khỏi đoạn 68 69 này thì cũng coi như gần hết rồi",
+  "giay": 3890,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=gRyoN4cBXZA&t=3890s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[21].trich",
+  "trich": "chúng ta thấy indicator này cho biết vùng 70k3 này là vùng hỗ trợ cứng. Bởi vì ở đây lực mua tốt",
+  "giay": 4065,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=gRyoN4cBXZA&t=4065s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[22].trich",
+  "trich": "Coinglass là 70k3 70k7. 70k7 với lại 69k. Nhưng chúng ta cứ ăn theo những vùng này thôi, an toàn hơn Coinglass",
+  "giay": 4723,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=gRyoN4cBXZA&t=4723s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[23].trich",
+  "trich": "giá này chắc lại về đúng MA200 này luôn. Khả năng 70k5 này là cao",
+  "giay": 4756,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=gRyoN4cBXZA&t=4756s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[24].trich",
+  "trich": "Biết lên bao nhiêu để rải bot, mình phải tầm 80.000 thì mới bắt đầu",
+  "giay": 4479,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=gRyoN4cBXZA&t=4479s",
+  "anh": []
+ }
+]

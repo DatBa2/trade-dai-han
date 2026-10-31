@@ -1,0 +1,216 @@
+{
+  "buoi": "2026-06-10_38z3ITqKMkM",
+  "ngay": "2026-06-10",
+  "gia_btc_luc_noi": 61000,
+  "moc": [
+    {
+      "gia": 58000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [
+        "râu nến (đáy cũ) 58.000",
+        "hai đáy D1"
+      ],
+      "moc_gio": "00:01:02",
+      "chac": true,
+      "trich": "Khả năng rất cao về quét chứa râu 58"
+    },
+    {
+      "gia": 59000,
+      "gia_tren": 60000,
+      "vai_tro": "day_cu",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [
+        "vùng đáy khung ngày (không phải một điểm)"
+      ],
+      "moc_gio": "00:17:17",
+      "chac": true,
+      "trich": "Đáy anh em xác định là vùng 60.000 cho đến 58.000, 59.000"
+    },
+    {
+      "gia": 63000,
+      "gia_tren": null,
+      "vai_tro": "nhac_lai",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "đỉnh hồi H4",
+        "Fibo"
+      ],
+      "moc_gio": "00:19:00",
+      "chac": true,
+      "trich": "mình cho anh em short ngay vùng đỉnh này, 63.00... lên quét ở Fibo là rụng xuống"
+    },
+    {
+      "gia": 60900,
+      "gia_tren": null,
+      "vai_tro": "nhac_lai",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "TP sâu nhất hôm qua"
+      ],
+      "moc_gio": "00:19:00",
+      "chac": true,
+      "trich": "TP sâu nhất là 60.900"
+    },
+    {
+      "gia": 61650,
+      "gia_tren": null,
+      "vai_tro": "vo_hieu",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "Fibo 0.5 H4 (nhịp tăng gần nhất)"
+      ],
+      "moc_gio": "00:20:35",
+      "chac": true,
+      "trich": "Nếu H4 đóng cửa dưới đường Fibo 0.5 H4, 61.600 thì gần như sập, tuyệt đối đừng long"
+    },
+    {
+      "gia": 60300,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "Fibo 0.618 H4",
+        "râu nến đáy"
+      ],
+      "moc_gio": "00:23:52",
+      "chac": true,
+      "trich": "Fibo đây. 0.618, này là 0.5... cũng phải về test lại vùng 60 này. 60.300"
+    },
+    {
+      "gia": 59000,
+      "gia_tren": 60000,
+      "vai_tro": "entry",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "hai đáy",
+        "hỗ trợ + tín hiệu đảo chiều H4/H1"
+      ],
+      "moc_gio": "00:27:04",
+      "chac": true,
+      "trich": "test lại vùng hỗ trợ từ 60 cho đến 59 mà có tín hiệu đảo chiều thì mới long, đánh theo hai đáy"
+    },
+    {
+      "gia": 62300,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "TANG",
+      "khung": "M30",
+      "can_cu": [
+        "đỉnh mới cao hơn, break trendline giảm M30"
+      ],
+      "moc_gio": "00:33:35",
+      "chac": true,
+      "trich": "30 phút đi lên trên 62.300 tạo đỉnh cao hơn thì có thể tìm điểm long"
+    },
+    {
+      "gia": 58700,
+      "gia_tren": 60000,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "vùng hai đáy"
+      ],
+      "moc_gio": "00:32:58",
+      "chac": true,
+      "trich": "vùng xem xét hai đáy là từ 59 hoặc thậm chí 58.000 58.700 cho đến 60"
+    },
+    {
+      "gia": 62000,
+      "gia_tren": null,
+      "vai_tro": "sl",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "điểm break lên"
+      ],
+      "moc_gio": "00:34:07",
+      "chac": true,
+      "trich": "SL đâu đó quanh 62 (short với entry xấu)"
+    },
+    {
+      "gia": 69000,
+      "gia_tren": 70000,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "Fibo 70 khung ngày (nếu hai đáy)"
+      ],
+      "moc_gio": "00:35:12",
+      "chac": true,
+      "trich": "Fibo là 70 thì nó lên 70... Nó lên 69 là chuyện quá đơn giản"
+    },
+    {
+      "gia": 49000,
+      "gia_tren": 53000,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "W1",
+      "can_cu": [
+        "gap CME 49-53",
+        "vùng long swing"
+      ],
+      "moc_gio": "00:36:52",
+      "chac": true,
+      "trich": "long swing từ vùng 53 cho đến 49 gap"
+    },
+    {
+      "gia": 60000,
+      "gia_tren": null,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý / heatmap (SL phe long ở 60.000-60.300)"
+      ],
+      "moc_gio": "00:40:08",
+      "chac": true,
+      "trich": "hàng loạt đặt stop loss ở 60.000 60.300 là mời market maker về húp"
+    },
+    {
+      "gia": 53000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": "00:57:45",
+      "chac": false,
+      "trich": "vẫn có thể về luôn 53 trong nhịp này"
+    },
+    {
+      "gia": 61700,
+      "gia_tren": null,
+      "vai_tro": "entry",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": "00:58:53",
+      "chac": true,
+      "trich": "mình có entry short ở trên vùng 61.7 rồi"
+    },
+    {
+      "gia": 62000,
+      "gia_tren": null,
+      "vai_tro": "nhac_lai",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "lệnh nhồi short tối qua"
+      ],
+      "moc_gio": "00:19:33",
+      "chac": true,
+      "trich": "tối cho anh em một lệnh short nữa ở vùng 62. Sáng nay chốt ở 60.850"
+    }
+  ]
+}

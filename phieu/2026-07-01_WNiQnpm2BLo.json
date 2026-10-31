@@ -1,0 +1,191 @@
+{
+  "buoi": "2026-07-01_WNiQnpm2BLo",
+  "ngay": "2026-07-01",
+  "gio_vn": "10:00",
+  "gia_btc_luc_noi": 58300,
+  "nhan_dinh": [
+    {
+      "khung": "H4",
+      "huong": "GIAM",
+      "do_chac": "vua",
+      "dich": [
+        51000,
+        54000
+      ],
+      "han": "chưa nói; hôm nay chờ hồi rồi mới short; cuối tuần hồi 1000-2000 giá, tuần sau gãy tiếp",
+      "han_gio": 168,
+      "vo_hieu_khi": "H4 đóng trên 61.000 thì có hy vọng hồi 64-66 (xác suất khó)",
+      "kich_ban_phu": "nếu H4 lên trên 61 thì tiến 64, 66; có thể còn một nhịp đấm về 57.000 trước khi phục hồi",
+      "ly_do": [
+        "nến tháng 6 đỏ nhất từ đầu năm, phá đáy, khung tháng chưa có nhịp phục hồi liền",
+        "vùng 59-61 phe mua mất, nay thành kháng cự của phe bán; muốn qua phải phá 61.000, xác suất cực khó",
+        "mọi nhịp hiện tại là hồi quang phản chiếu để lấy SL phe short; nhịp sáng nay (quét từ 57 lên 59) là fake out",
+        "MA89 tháng ~52.000 và hỗ trợ khung tháng 58, test 52-53 không khó"
+      ],
+      "trich": "để qua được khỏi xu hướng giảm này thì giá phải phá được khỏi 61.000 kia. Nhưng xác suất này ... cực kỳ khó. ... vùng mình đang ngắm là khoảng từ 54 cho đến 52 51.",
+      "doi_y": null,
+      "duong_di": [
+        {
+          "huong": "TANG",
+          "dich": [
+            59000,
+            60400
+          ]
+        },
+        {
+          "huong": "GIAM",
+          "dich": [
+            51000,
+            54000
+          ]
+        }
+      ]
+    },
+    {
+      "khung": "W1",
+      "huong": "GIAM",
+      "do_chac": "vua",
+      "dich": null,
+      "han": "sau nến tháng như vậy thường dập dìu 2-8 tháng mới phục hồi",
+      "han_gio": null,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": "hỗ trợ 30 là vùng cuối; tệ 4x gần hơn; không có cơ sở bắt đáy all in lúc này | đích dài hạn: 30.000-45.000",
+      "ly_do": [
+        "lịch sử các nến tháng tương tự chưa bao giờ quay đầu bay ngay tháng sau",
+        "giá tiệm cận MA89 tháng 52.000"
+      ],
+      "trich": "Chưa bao giờ nó kết thúc một nhịp điều chỉnh như này mà nó có thể break, quay đầu đi lên được, cực kỳ khó. Bởi vì đây là khung tháng.",
+      "doi_y": null,
+      "duong_di": null
+    },
+    {
+      "khung": "H1",
+      "huong": "TANG",
+      "do_chac": "thap",
+      "dich": [
+        59000,
+        60000
+      ],
+      "han": "trong ngày",
+      "han_gio": 24,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": "hồi tối đa 60.000-60.400 rồi short; nếu hồi quá 61 thì tính tiếp",
+      "ly_do": [
+        "hai đáy 30 phút rất khả thi",
+        "BTC phá cản, tệ lắm lên Fibo 59.000",
+        "quét SL phe short dưới đáy"
+      ],
+      "trich": "Ở đây hai đáy rất khả thi, rất đẹp. 30 phút lên được 5900 này.",
+      "doi_y": null,
+      "duong_di": null
+    }
+  ],
+  "vung_gia": {
+    "khang_cu": [
+      60000,
+      61000
+    ],
+    "ho_tro": [
+      57000,
+      58000
+    ]
+  },
+  "lenh": [
+    {
+      "chieu": "SHORT",
+      "loai": "chờ hồi (limit)",
+      "vao": [
+        60000,
+        60400
+      ],
+      "tp": [
+        54000
+      ],
+      "sl": 61100,
+      "trang_thai": "de_xuat_moi",
+      "trich": "nếu short thì mình sẽ chờ lại ở vùng 60.000 604 ... phải phòng thủ được stop loss trên 61 thì mới chơi."
+    },
+    {
+      "chieu": "LONG",
+      "loai": "scalping sóng hồi (nhỏ)",
+      "vao": null,
+      "tp": [
+        60000
+      ],
+      "sl": null,
+      "trang_thai": "de_xuat_moi",
+      "trich": "Tối đa của nhịp này chốt 60.000 là phải chốt hết. ... đi vốn nho nhỏ thôi. Thủng quá dưới này thì cắt long."
+    },
+    {
+      "chieu": "LONG",
+      "loai": "scalping đã khớp",
+      "vao": null,
+      "tp": [
+        59000
+      ],
+      "sl": null,
+      "trang_thai": "da_chot",
+      "trich": "Scalping M5 thì cũng có cà phê rồi. Gỡ lại được một tí. Đến 5900 này thì chắc là cũng được rồi."
+    }
+  ],
+  "nhin_lai_truoc": "Hôm qua ăn TP nhiều nên sáng nay ăn SL thường thôi; tháng 6 plan bám sát (chốt spot ở 80-120, cảnh báo World Cup coin nát, nến tháng đỏ nhất); WLD short 0.61 chốt 0.41-0.42 đúng.",
+  "cong_cu": [
+    "khung tháng/MA89",
+    "D1",
+    "H4",
+    "H1 MA34/89/200",
+    "M5/M30",
+    "hai đáy",
+    "Fear and Greed",
+    "liquidation",
+    "USDT.D",
+    "DOM",
+    "lịch tin"
+  ],
+  "tin_tuc": [
+    {
+      "tin": "Tối nay 20:00 Chủ tịch FED mới phát biểu; mai non-farm; 30/7 công bố lãi suất",
+      "danh_gia": "nên tắt chart giờ phát biểu; đừng kỳ vọng giảm lãi suất, không tăng là mừng"
+    }
+  ],
+  "thoi_quen": [
+    "ngược xu hướng thì vốn nhỏ, ăn sóng hồi, SL ngắn chấp nhận bị quét",
+    "không short dưới đáy, chờ hồi lên quét SL rồi short",
+    "tháng mới reset tài khoản chốt lãi",
+    "ngày có tin lớn tắt chart",
+    "chốt dần, không bắt đáy all in ở khung tháng"
+  ],
+  "cau_cua_mieng": [
+    "Trade mà không có SL thì sao gọi là trade được?",
+    "Phe mua mất đồn này thì họ dịch chuyển về đồn kế tiếp.",
+    "Altcoin chỉ có đường một chiều thôi, không có con đường nào khác."
+  ],
+  "altcoin": [
+    {
+      "coin": "altcoin chung",
+      "huong": "GIAM",
+      "ghi": "bỏ qua, chỉ có một con đường; tập trung BTC, cùng lắm ETH; dành thời gian lọc danh sách dự án"
+    },
+    {
+      "coin": "SOL",
+      "huong": "TANG",
+      "ghi": "break cản, tiến 77-79 như đã nói"
+    },
+    {
+      "coin": "LAB",
+      "huong": "GIAM",
+      "ghi": "muốn gãy nhưng funding -0.4%/giờ, short khó ăn"
+    },
+    {
+      "coin": "WLD",
+      "huong": "GIAM",
+      "ghi": "đã gãy về 0.4; mình chốt short 0.41-0.42"
+    },
+    {
+      "coin": "vàng",
+      "huong": "GIAM",
+      "ghi": "vẫn short, chờ hồi lên; SL trên MA200 4012, biên độ quét ác"
+    }
+  ],
+  "ghi_chu": "gio_vn mặc định. Nhận định khung 30 phút gộp vào H1 theo luật. Giá ~58.300 đầu buổi, 59.000 cuối buổi. '5700 700' hiểu 57.000-57.700."
+}

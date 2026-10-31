@@ -1,0 +1,383 @@
+[
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[0].trich",
+  "trich": "Tốt nhất là chờ điều chỉnh và long. ... mình nghĩ là nó sẽ tiếp tục cái đà tăng này.",
+  "giay": 2306,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=TXnTpUkc78s&t=2306s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[1].trich",
+  "trich": "Mọi người đừng có cố big short ở cái đoạn này, chết đó.",
+  "giay": 1612,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=TXnTpUkc78s&t=1612s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "lenh[0].trich",
+  "trich": "Mình limit một cái lệnh short ở trên này nhưng mà vẫn thiếu 200 giá, cứ để đấy xem thử",
+  "giay": 2187,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=TXnTpUkc78s&t=2187s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "lenh[1].trich",
+  "trich": "Không có long limit 69k nhé. Cái vùng 69k3 và 68k là các bạn nên chờ nến chứ không có nên limit.",
+  "giay": 2411,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=TXnTpUkc78s&t=2411s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[0].trich",
+  "trich": "Từ 67k3, mình nghĩ ở vùng này anh em chốt một phần",
+  "giay": 1272,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=TXnTpUkc78s&t=1272s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[1].trich",
+  "trich": "còn lại gồng lên độ 75 trở lên, 75 80 gì đó",
+  "giay": 1289,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=TXnTpUkc78s&t=1289s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[2].trich",
+  "trich": "Nếu mà anh em long ở 69 thì TP ... chia ra chốt dần từ giờ đến 71 là hết sức",
+  "giay": 1619,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=TXnTpUkc78s&t=1619s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[3].trich",
+  "trich": "nếu mà đợt này test thì sẽ test MA200 tức là trên 80.000 88.000. Lúc sáng mình đo Fibo cũng thấy ở 88.000",
+  "giay": 1761,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=TXnTpUkc78s&t=1761s",
+  "anh": [
+   {
+    "file": "so_tay/khung/TXnTpUkc78s_002956.jpg",
+    "giay": 1796,
+    "lech": 35
+   },
+   {
+    "file": "so_tay/khung/TXnTpUkc78s_003040.jpg",
+    "giay": 1840,
+    "lech": 79
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[4].trich",
+  "trich": "Nhịp đầu tiên là nó sẽ lên 79.700. Nhịp thứ hai nó lên đến được 88.000 ... Cái TP1 nó trùng với MA89",
+  "giay": 1859,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=TXnTpUkc78s&t=1859s",
+  "anh": [
+   {
+    "file": "so_tay/khung/TXnTpUkc78s_003040.jpg",
+    "giay": 1840,
+    "lech": -19
+   },
+   {
+    "file": "so_tay/khung/TXnTpUkc78s_002956.jpg",
+    "giay": 1796,
+    "lech": -63
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[5].trich",
+  "trich": "cây nến ngày hôm qua nó giúp cho giá kéo lên và đóng nến lên lại trên cái vùng Fibo 0.5 tức có nghĩa là vẫn giữ được cái xu hướng tăng",
+  "giay": 1839,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=TXnTpUkc78s&t=1839s",
+  "anh": [
+   {
+    "file": "so_tay/khung/TXnTpUkc78s_003040.jpg",
+    "giay": 1840,
+    "lech": 1
+   },
+   {
+    "file": "so_tay/khung/TXnTpUkc78s_002956.jpg",
+    "giay": 1796,
+    "lech": -43
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[6].trich",
+  "trich": "đây là vùng đầu tiên là 70.000 nó lên sau đó nó gãy xuống. Vùng thứ hai là 75.000",
+  "giay": 1895,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=TXnTpUkc78s&t=1895s",
+  "anh": [
+   {
+    "file": "so_tay/khung/TXnTpUkc78s_003040.jpg",
+    "giay": 1840,
+    "lech": -55
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[7].trich",
+  "trich": "Đây là cái Fibo mình đã đo lên đến 75.000. Nó lên đến 75 và 82",
+  "giay": 1919,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=TXnTpUkc78s&t=1919s",
+  "anh": [
+   {
+    "file": "so_tay/khung/TXnTpUkc78s_003040.jpg",
+    "giay": 1840,
+    "lech": -79
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[8].trich",
+  "trich": "Còn nếu chúng ta lấy cái điểm sau này ... 77 và 84",
+  "giay": 1924,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=TXnTpUkc78s&t=1924s",
+  "anh": [
+   {
+    "file": "so_tay/khung/TXnTpUkc78s_003040.jpg",
+    "giay": 1840,
+    "lech": -84
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[9].trich",
+  "trich": "những cái vùng tiếp theo nếu giá nó vượt qua là từ khoảng 75 cho đến khoảng 78 và vùng cao hơn nữa là khoảng 84 cho đến khoảng 88",
+  "giay": 1970,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=TXnTpUkc78s&t=1970s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[10].trich",
+  "trich": "vùng cao hơn nữa là khoảng 84 cho đến khoảng 88",
+  "giay": 1978,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=TXnTpUkc78s&t=1978s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[11].trich",
+  "trich": "trade khung ngày vào entry ở giá bây giờ stop loss nó sẽ phải nằm ở 64, cao quá",
+  "giay": 2004,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=TXnTpUkc78s&t=2004s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[12].trich",
+  "trich": "giá mà nó vượt qua được 71 là điểm đầu tiên, thứ hai nữa là vượt qua được 74 thì gần như là cái chuyện nó lên đến 77 78 rất là dễ",
+  "giay": 2041,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=TXnTpUkc78s&t=2041s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[13].trich",
+  "trich": "vượt qua được 74 thì gần như là cái chuyện nó lên đến 77 78 rất là dễ",
+  "giay": 2045,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=TXnTpUkc78s&t=2045s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[14].trich",
+  "trich": "nó lên đến 77 78 rất là dễ",
+  "giay": 2048,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=TXnTpUkc78s&t=2048s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[15].trich",
+  "trich": "giá nó đang bị cản ở đường MA200 này. Đây cũng là Fibo. Mình nghĩ Fibo 0.618",
+  "giay": 2084,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=TXnTpUkc78s&t=2084s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[16].trich",
+  "trich": "nó có thể điều chỉnh về 69.000 hoặc là 68.000 ... chúng ta mới có thể là cân nhắc thấy nó đứng lại ở đây thì bắt đầu là có thể vào lệnh",
+  "giay": 2171,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=TXnTpUkc78s&t=2171s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[17].trich",
+  "trich": "Mình limit một cái lệnh short ở trên này nhưng mà vẫn thiếu 200 giá",
+  "giay": 2187,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=TXnTpUkc78s&t=2187s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[18].trich",
+  "trich": "Chừng đó nó vẫn cho kết quả là 69k3 ... nếu mà anh em có short ở 70.000 thì về sau 69k3 chúng ta nên chốt",
+  "giay": 2223,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=TXnTpUkc78s&t=2223s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[19].trich",
+  "trich": "chờ long thì phải chờ ở cái vùng từ 69k cho đến 68k",
+  "giay": 2260,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=TXnTpUkc78s&t=2260s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[20].trich",
+  "trich": "stop loss khi nến H4 hoặc là nến H1 thủng khỏi 68.000",
+  "giay": 2419,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=TXnTpUkc78s&t=2419s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[21].trich",
+  "trich": "hiện tại chúng ta vẫn còn cái gap ở 80.000 thôi. Gap nhỏ ở dưới 67 68 đã lấp rồi",
+  "giay": 2401,
+  "do_giong": 0.619,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=TXnTpUkc78s&t=2401s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[22].trich",
+  "trich": "dưới này có một vùng ở 68.00 ... có khả năng là từ giờ đến trưa nó về nó lụm tụi này",
+  "giay": 2663,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=TXnTpUkc78s&t=2663s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[23].trich",
+  "trich": "nó hay điều chỉnh về đến tận Fibo này. Ví dụ zone của nó là ở 68 cho đến 67k4",
+  "giay": 2888,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=TXnTpUkc78s&t=2888s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[24].trich",
+  "trich": "liquid nó nằm ở 68.000 ... lúc nãy mình đo cái Fibo này. Nó có thể về đến tận 68.000",
+  "giay": 3398,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=TXnTpUkc78s&t=3398s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[25].trich",
+  "trich": "Về dưới này MA89 6800",
+  "giay": 3462,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=TXnTpUkc78s&t=3462s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[26].trich",
+  "trich": "Nếu mà các bạn long ở đây thì đặt SL hẳn ở dưới 66.000 ... Khi nào nến nó đóng thủng 66.000 này té thôi",
+  "giay": 4557,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=TXnTpUkc78s&t=4557s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[27].trich",
+  "trich": "nến H4 nó chỉ cần đóng dưới cái đường MA này, chúng ta té 67 gì đó chúng ta té được rồi",
+  "giay": 4577,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=TXnTpUkc78s&t=4577s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[28].trich",
+  "trich": "68.000 này quá là dễ bị lụm. Chờ nó húp tụi này thì chúng ta có thể là chơi sau",
+  "giay": 4802,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=TXnTpUkc78s&t=4802s",
+  "anh": []
+ }
+]

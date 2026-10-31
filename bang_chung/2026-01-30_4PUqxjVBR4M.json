@@ -1,0 +1,236 @@
+[
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[0].trich",
+  "trich": "Thị trường hôm nay thì khoan đừng có long. Đừng có long sớm quá, đừng có FOMO long làm cái gì. Cứ chờ hồi lên rồi short xuống. Chờ hồi lên short xuống. Hồi càng cao thì càng đẹp.",
+  "giay": 3063,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=4PUqxjVBR4M&t=3063s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[1].trich",
+  "trich": "Khi nó về sau 2 thì các bạn sẽ thấy con số mình đưa ra là BTC 40 với 20.000 sẽ gần hơn một tí, thực tế hơn.",
+  "giay": 1050,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=4PUqxjVBR4M&t=1050s",
+  "anh": [
+   {
+    "file": "so_tay/khung/4PUqxjVBR4M_001630.jpg",
+    "giay": 990,
+    "lech": -60
+   }
+  ]
+ },
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[2].trich",
+  "trich": "Nhịp này long được nhưng bỏ qua mất rồi... Test đáy ra cây nến thứ hai là long ở ngay điểm 8100 này thì ngon.",
+  "giay": 1196,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=4PUqxjVBR4M&t=1196s",
+  "anh": [
+   {
+    "file": "so_tay/khung/4PUqxjVBR4M_002100.jpg",
+    "giay": 1260,
+    "lech": 64
+   }
+  ]
+ },
+ {
+  "nguon": "phieu",
+  "truong": "lenh[0].trich",
+  "trich": "Để short đẹp nhất thì mình nghĩ quanh vùng 84 đến 85, chờ lên đó nếu có thì chúng ta short được.",
+  "giay": 1123,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=4PUqxjVBR4M&t=1123s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "lenh[1].trich",
+  "trich": "Giữ lệnh short 90.000 dài hạn nhưng cũng nên ăn bớt vì nó vẫn còn một gap ở 93.000.",
+  "giay": 348,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=4PUqxjVBR4M&t=348s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[0].trich",
+  "trich": "Thủng 87k5 short, đúng rồi. Hôm qua mình bảo có hai vùng 87.000 và 88.000. Muốn short thì nó gãy vùng này là short, còn muốn long thì nó phải vượt qua",
+  "giay": 274,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=4PUqxjVBR4M&t=274s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[1].trich",
+  "trich": "nó vẫn còn một gap ở 93.000... nếu ở đây nó còn lên lấp gap 93 thì có cơ hội short swing",
+  "giay": 354,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=4PUqxjVBR4M&t=354s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[2].trich",
+  "trich": "Giữ lệnh short 90.000 dài hạn nhưng cũng nên ăn bớt",
+  "giay": 348,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=4PUqxjVBR4M&t=348s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[3].trich",
+  "trich": "Nhịp này nó đang về hỗ trợ test lại râu 80. Như mình nói trước đó, đây test MA34",
+  "giay": 977,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=4PUqxjVBR4M&t=977s",
+  "anh": [
+   {
+    "file": "so_tay/khung/4PUqxjVBR4M_001630.jpg",
+    "giay": 990,
+    "lech": 13
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[4].trich",
+  "trich": "TP của Flag mình ghi ở đây: 62.000, chờ xem thử nó có về hay không trên khung ngày",
+  "giay": 1012,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=4PUqxjVBR4M&t=1012s",
+  "anh": [
+   {
+    "file": "so_tay/khung/4PUqxjVBR4M_001630.jpg",
+    "giay": 990,
+    "lech": -22
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[5].trich",
+  "trich": "Đích đến tạm thời của nhịp này khoảng 60, nói chung là 6x. Còn chính xác nếu chạy đúng mô hình cờ này sẽ là 62",
+  "giay": 1038,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=4PUqxjVBR4M&t=1038s",
+  "anh": [
+   {
+    "file": "so_tay/khung/4PUqxjVBR4M_001630.jpg",
+    "giay": 990,
+    "lech": -48
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[6].trich",
+  "trich": "Khi nó về sau 62 thì con số mình đưa ra là BTC 40 với 20.000 sẽ gần hơn một tí, thực tế hơn",
+  "giay": 1050,
+  "do_giong": 0.96,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=4PUqxjVBR4M&t=1050s",
+  "anh": [
+   {
+    "file": "so_tay/khung/4PUqxjVBR4M_001630.jpg",
+    "giay": 990,
+    "lech": -60
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[7].trich",
+  "trich": "BTC vẫn còn gap 93 và gap 20",
+  "giay": 1359,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=4PUqxjVBR4M&t=1359s",
+  "anh": [
+   {
+    "file": "so_tay/khung/4PUqxjVBR4M_002330.jpg",
+    "giay": 1410,
+    "lech": 51
+   },
+   {
+    "file": "so_tay/khung/4PUqxjVBR4M_002140.jpg",
+    "giay": 1300,
+    "lech": -59
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[8].trich",
+  "trich": "Để short đẹp nhất quanh vùng 84 đến 85... MA200 ở 5 phút và MA34 ở 30 phút. Vùng 8400 này",
+  "giay": 1123,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=4PUqxjVBR4M&t=1123s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[9].trich",
+  "trich": "ra thêm cây nến thứ hai này là long ở ngay điểm 8100 này thì ngon",
+  "giay": 1212,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=4PUqxjVBR4M&t=1212s",
+  "anh": [
+   {
+    "file": "so_tay/khung/4PUqxjVBR4M_002100.jpg",
+    "giay": 1260,
+    "lech": 48
+   },
+   {
+    "file": "so_tay/khung/4PUqxjVBR4M_002140.jpg",
+    "giay": 1300,
+    "lech": 88
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[10].trich",
+  "trich": "nếu nó cứ giữ trên MA 5 phút này thì cứ giữ, lên khoảng 84 chốt",
+  "giay": 1400,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=4PUqxjVBR4M&t=1400s",
+  "anh": [
+   {
+    "file": "so_tay/khung/4PUqxjVBR4M_002330.jpg",
+    "giay": 1410,
+    "lech": 10
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[11].trich",
+  "trich": "Ông nào entry khoảng 82.000 thì nên ăn ở 83.000 TP1",
+  "giay": 1612,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=4PUqxjVBR4M&t=1612s",
+  "anh": []
+ }
+]

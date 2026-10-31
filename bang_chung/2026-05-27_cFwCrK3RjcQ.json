@@ -1,0 +1,298 @@
+[
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[0].trich",
+  "trich": "Thủng tiếp khoảng 75.000 thì chắc là phá đáy đi về dưới này luôn. 71, 72 rất dễ về.",
+  "giay": 1210,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=cFwCrK3RjcQ&t=1210s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[1].trich",
+  "trich": "Nếu nó xuyên qua khỏi vùng này thì khả năng rất cao ít nhất nó về 71.000.",
+  "giay": 976,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=cFwCrK3RjcQ&t=976s",
+  "anh": [
+   {
+    "file": "so_tay/khung/cFwCrK3RjcQ_001530.jpg",
+    "giay": 930,
+    "lech": -46
+   }
+  ]
+ },
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[2].trich",
+  "trich": "Đối với khung tuần vẫn thấy lực bán đang rất áp đảo.",
+  "giay": 880,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=cFwCrK3RjcQ&t=880s",
+  "anh": [
+   {
+    "file": "so_tay/khung/cFwCrK3RjcQ_001530.jpg",
+    "giay": 930,
+    "lech": 50
+   }
+  ]
+ },
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[3].trich",
+  "trich": "H1 thì đang lững khững. Đoạn này thị trường khả năng đang đi ngang.",
+  "giay": 1224,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=cFwCrK3RjcQ&t=1224s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[0].trich",
+  "trich": "Chủ yếu có một pha giảm về 74 hôm trước còn lại nó vẫn đi trong vùng này",
+  "giay": 306,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=cFwCrK3RjcQ&t=306s",
+  "anh": [
+   {
+    "file": "so_tay/khung/cFwCrK3RjcQ_000630.jpg",
+    "giay": 390,
+    "lech": 84
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[1].trich",
+  "trich": "Nó chỉ dao động quanh vùng từ 78 cho đến 74, 75 cứ lòng vòng trong vùng này",
+  "giay": 550,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=cFwCrK3RjcQ&t=550s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[2].trich",
+  "trich": "Rộng hơn thì là từ 70 đến 80.",
+  "giay": 557,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=cFwCrK3RjcQ&t=557s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[3].trich",
+  "trich": "Đến khi lực bán về đâu đó khoảng 72, 73 thì chúng ta sẽ phải quan sát nhịp này",
+  "giay": 884,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=cFwCrK3RjcQ&t=884s",
+  "anh": [
+   {
+    "file": "so_tay/khung/cFwCrK3RjcQ_001530.jpg",
+    "giay": 930,
+    "lech": 46
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[4].trich",
+  "trich": "Nó đang nằm ở neckline này, nằm ở vùng hỗ trợ này. Nếu nó đâm xuyên thủng ở vùng 75 thì rất dễ nó gãy về dưới",
+  "giay": 931,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=cFwCrK3RjcQ&t=931s",
+  "anh": [
+   {
+    "file": "so_tay/khung/cFwCrK3RjcQ_001530.jpg",
+    "giay": 930,
+    "lech": -1
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[5].trich",
+  "trich": "70, 71 thì vừa khéo ở vùng 0.5 Fibo",
+  "giay": 960,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=cFwCrK3RjcQ&t=960s",
+  "anh": [
+   {
+    "file": "so_tay/khung/cFwCrK3RjcQ_001530.jpg",
+    "giay": 930,
+    "lech": -30
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[6].trich",
+  "trich": "ít nhất nó về 71.000... Dưới này cũng là một vùng hỗ trợ nữa, trendline này",
+  "giay": 980,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=cFwCrK3RjcQ&t=980s",
+  "anh": [
+   {
+    "file": "so_tay/khung/cFwCrK3RjcQ_001530.jpg",
+    "giay": 930,
+    "lech": -50
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[7].trich",
+  "trich": "Nến ngày mà đóng dưới 70 thì gần như sẽ mất luôn xu hướng tăng của giai đoạn này",
+  "giay": 998,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=cFwCrK3RjcQ&t=998s",
+  "anh": [
+   {
+    "file": "so_tay/khung/cFwCrK3RjcQ_001530.jpg",
+    "giay": 930,
+    "lech": -68
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[8].trich",
+  "trich": "muốn long bắt buộc phải chờ giá đóng H4 ở trên 78 thì mới dám long",
+  "giay": 1130,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=cFwCrK3RjcQ&t=1130s",
+  "anh": [
+   {
+    "file": "so_tay/khung/cFwCrK3RjcQ_001830.jpg",
+    "giay": 1110,
+    "lech": -20
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[9].trich",
+  "trich": "giá vẫn đang nằm dưới Fibo 0.5 này. Thủng tiếp khoảng 75.000 thì chắc là phá đáy",
+  "giay": 1206,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=cFwCrK3RjcQ&t=1206s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[10].trich",
+  "trich": "71, 72 cực kỳ dễ về",
+  "giay": 1220,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=cFwCrK3RjcQ&t=1220s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[11].trich",
+  "trich": "Gap trên nằm ở 78 vẫn còn",
+  "giay": 1373,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=cFwCrK3RjcQ&t=1373s",
+  "anh": [
+   {
+    "file": "so_tay/khung/cFwCrK3RjcQ_002230.jpg",
+    "giay": 1350,
+    "lech": -23
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[12].trich",
+  "trich": "83 thì còn",
+  "giay": null,
+  "do_giong": 0.0,
+  "nguon_gio": "khong_tim_thay",
+  "url": null,
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[13].trich",
+  "trich": "90 vẫn còn",
+  "giay": null,
+  "do_giong": 0.0,
+  "nguon_gio": "khong_tim_thay",
+  "url": null,
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[14].trich",
+  "trich": "Gap dưới là 70 vẫn còn",
+  "giay": 1378,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=cFwCrK3RjcQ&t=1378s",
+  "anh": [
+   {
+    "file": "so_tay/khung/cFwCrK3RjcQ_002230.jpg",
+    "giay": 1350,
+    "lech": -28
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[15].trich",
+  "trich": "67 vẫn còn",
+  "giay": null,
+  "do_giong": 0.0,
+  "nguon_gio": "khong_tim_thay",
+  "url": null,
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[16].trich",
+  "trich": "Nếu tầm này mà nó quét tiếp long thì khả năng nó về đến 75.000",
+  "giay": 1483,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=cFwCrK3RjcQ&t=1483s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[17].trich",
+  "trich": "Trong tháng 6, BTC về 60 là bao nhiêu phần trăm và lên 9x là bao nhiêu phần trăm, mình nghĩ là 50-50",
+  "giay": 1623,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=cFwCrK3RjcQ&t=1623s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[18].trich",
+  "trich": "BTC về 60 là bao nhiêu phần trăm và lên 9x là bao nhiêu phần trăm, mình nghĩ là 50-50",
+  "giay": 1625,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=cFwCrK3RjcQ&t=1625s",
+  "anh": []
+ }
+]

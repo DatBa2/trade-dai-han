@@ -1,0 +1,44 @@
+{
+  "buoi": "2026-07-27_YMlDceykaTw",
+  "gia_btc_luc_noi": 65000,
+  "dau_buoi": {
+    "huong_h4": "TANG",
+    "trich": "[00:16:06] Ít nhất trong H4 nhịp này thì nó sẽ quét lên đến vùng 6700 này ... Kiểu gì nó cũng sẽ lên đây. Bây giờ vấn đề chúng ta là chọn entry ở đâu để chơi thôi."
+  },
+  "cuoi_buoi": {
+    "huong_h4": "TANG",
+    "trich": "[01:05:01] H4 đóng ở đây thì vẫn thế thôi. H4 đóng một cái râu như này thì cũng không nên vội. Vẫn là kiên trì chờ view 648 64 gì đó thôi."
+  },
+  "doi_y_giua_buoi": false,
+  "huong_lon": {
+    "D1": "TANG",
+    "W1": "GIAM",
+    "chu_ky": "GIAM"
+  },
+  "hanh_dong": "dung_ngoai_cho_entry",
+  "duong_di": [
+    {
+      "huong": "GIAM",
+      "dich": null,
+      "khung": "H1"
+    },
+    {
+      "huong": "TANG",
+      "dich": 67000,
+      "khung": "H4"
+    },
+    {
+      "huong": "TANG",
+      "dich": null,
+      "khung": "D1"
+    }
+  ],
+  "dich_chinh": null,
+  "moc_sai": {
+    "gia": null,
+    "dieu_kien": null
+  },
+  "pha_vo_gia": null,
+  "do_chac": "cao",
+  "ghi_chu": "Đã đọc hết transcript, kể cả phần giữa phải đọc bù do đầu ra công cụ cắt. Giá 65.000 xấp xỉ từ tiêu đề. Chờ điều chỉnh entry vùng khoảng 64.600–64.800 theo [00:21:51], nhưng nhiều câu phụ đề chỉ còn 64.00 nên để đích chặng đầu null. H4 đích trước mắt 67.000; đường hồi D1 sau đó là vùng 70.000–72.000 ([00:14:00–00:15:34]), để đích cuối null vì là vùng, không chọn tùy ý. W1/chu kỳ vẫn downtrend dù D1/H4 hồi tăng. H4 đóng trên 67.000 là cảnh báo thoát SHORT, không phải mốc sai của hướng tăng. Các đoạn fake out về vàng/kịch bản chung không xác nhận phá vỡ giả BTC cụ thể."
+}

@@ -1,0 +1,169 @@
+{
+  "buoi": "2026-08-25_1003_nSxBbLai2mE",
+  "ngay": "2026-08-25",
+  "gio_vn": "10:03",
+  "gia_btc_luc_noi": null,
+  "nhan_dinh": [
+    {
+      "khung": "H4",
+      "huong": "GIAM",
+      "do_chac": "thap",
+      "dich": [
+        79000,
+        80000
+      ],
+      "han": "trong ngày",
+      "han_gio": 24,
+      "vo_hieu_khi": "lên quét 83.000 kill SL các lệnh sell cũng là bình thường; muốn tăng bền vững phải có pha back test bên dưới và trụ tốt",
+      "kich_ban_phu": "còn có thể rướn lên 82-83 quét thanh khoản stop loss trên cao; nếu rụng một phát thì về 76.000 chứ không dừng quanh 77; về nguyên tắc không biết thời điểm",
+      "ly_do": [
+        "H4 tăng rất xa khỏi MA, hút về như lò xo",
+        "phân kỳ RSI và volume trên H4 nhìn bằng mắt thường",
+        "vùng 82-83 'không có tính bền vững nào', có thể chỉ là lấy nốt thanh khoản stop loss",
+        "đang giữ short nhẹ, kỳ vọng về 80, 79",
+        "nhưng 'không có entry cho bất kỳ động thái nào', short là ngược xu hướng nên vốn nhỏ"
+      ],
+      "trich": "Mình đang kỳ vọng nó về dưới này luôn, về 80, 79 gì đó. ... Nó mà dump một phát thì cũng phải về 79 là ít.",
+      "doi_y": null,
+      "duong_di": [
+        {
+          "huong": "TANG",
+          "dich": 83000
+        },
+        {
+          "huong": "GIAM",
+          "dich": 79000
+        }
+      ]
+    },
+    {
+      "khung": "D1",
+      "huong": "GIAM",
+      "do_chac": "thap",
+      "dich": null,
+      "han": null,
+      "han_gio": null,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": "nếu thị trường tăng trong nghi ngờ thì cũng phải chịu; xác suất đi vào uptrend 5%",
+      "ly_do": [
+        "nhịp lên 71 [?] là fake out hợp lý sau khi gãy, từ đây nó mới đi xuống dễ",
+        "không đánh giá đây là nhịp tiếp tục con sóng tăng bền vững",
+        "ngày gặp đường MA"
+      ],
+      "trich": "Mình không đánh giá nhịp này là nhịp tiếp tục con sóng để tăng bền vững.",
+      "doi_y": null,
+      "duong_di": null
+    },
+    {
+      "khung": "W1",
+      "huong": "GIAM",
+      "do_chac": "vua",
+      "dich": [
+        40000,
+        50000
+      ],
+      "han": "đáy khả năng tháng 11 (tháng 9 khó)",
+      "han_gio": null,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": "có thể không về đáy 30/20 mà chỉ test lại 65-67 rồi lòng vòng; sau khi giá vượt 83 thì phải xét lại",
+      "ly_do": [
+        "đây mới là nhịp hồi chứ chưa phải nhịp tăng, giữ xác suất 5% cho sideway 59-65 rồi uptrend mới",
+        "uptrend thật phải tạo đỉnh mới, rất khó",
+        "nến tuần đóng khét nhưng đang gặp cản",
+        "cấu trúc khung tuần bị phá là tín hiệu tốt nhưng chưa confirm"
+      ],
+      "trich": "quan điểm của mình vẫn là thị trường không thể nào đi vào uptrend. ... Thị trường chỉ đang trả lời cho anh em đây là một nhịp hồi thôi.",
+      "doi_y": null,
+      "duong_di": null
+    }
+  ],
+  "vung_gia": {
+    "khang_cu": [
+      82000,
+      83000
+    ],
+    "ho_tro": [
+      76000,
+      79000
+    ]
+  },
+  "lenh": [
+    {
+      "chieu": "SHORT",
+      "loai": "market",
+      "vao": null,
+      "tp": null,
+      "sl": null,
+      "trang_thai": "dang_giu",
+      "trich": "Ai mà nãy có short thì kéo SL về entry và gồng thôi. Gồng về khoảng 79 đầu ... Hiện tại chúng ta đang lãi khoảng 500 giá. (short nhẹ vốn nhỏ để test trên M5)"
+    }
+  ],
+  "nhin_lai_truoc": "Hôm qua không livestream. Plan sáng qua: gãy dưới 77 thì đánh về 75; nhưng giá về 77 rồi fail 30 phút và break lại lên 78 nên không đến được chiều short, đi theo chiều tăng. Hai plan hôm qua không follow quá, không bám nhịp pump.",
+  "cong_cu": [
+    "H4",
+    "H1",
+    "M5",
+    "RSI",
+    "volume",
+    "MA200 H1/M30",
+    "MA34 H4",
+    "khoảng cách giá-MA",
+    "gap CME",
+    "trendline",
+    "liquidation heatmap",
+    "chỉ số Fear & Greed",
+    "BTC.D",
+    "USDT.D"
+  ],
+  "tin_tuc": [
+    {
+      "tin": "Jackson Hole, phát biểu chủ tịch Fed mới tối thứ sáu 21:00",
+      "danh_gia": "cực kỳ quan trọng, thị trường biến động kinh khủng; hội nghị chủ yếu truyền thông ra bên ngoài"
+    },
+    {
+      "tin": "PCE tối mai",
+      "danh_gia": "đoán yes/no không có cơ sở"
+    },
+    {
+      "tin": "Fed tăng lãi suất kỳ tới (giả sử)",
+      "danh_gia": "nếu xảy ra thì cả thị trường tạo đáy"
+    }
+  ],
+  "thoi_quen": [
+    "cảnh báo FOMO khi chỉ số hưng phấn cao (73-74)",
+    "đánh ngược xu hướng thì vốn nhỏ",
+    "không đoán đỉnh đáy, chỉ có plan hành động",
+    "DCA nhỏ hàng ngày 100-200 đô, mua mạnh dưới 50",
+    "kéo SL về entry khi có lãi",
+    "không limit chờ đỉnh/đáy",
+    "không phòng hộ kiểu 2 lệnh đơn giản, phòng hộ phải có giới hạn"
+  ],
+  "cau_cua_mieng": [
+    "Nhận định không quan trọng bằng kế hoạch hành động.",
+    "Đừng để số tiền kiếm được những ngày vừa rồi mất đi trong vòng một cây nến.",
+    "Thị trường cho cái gì thì chúng ta vui cái đó."
+  ],
+  "altcoin": [
+    {
+      "coin": "altcoin chung",
+      "huong": "GIAM",
+      "ghi": "đuối dần, BTC.D lên cao còn lên nữa; nhiều con đẹp cùng lúc là dấu hiệu chuẩn bị dump; nếu FOMO chọn một con có sóng tăng H4"
+    },
+    {
+      "coin": "LINK",
+      "huong": "GIAM",
+      "ghi": "căng quá, lên 50% rồi, chốt ít cũng được"
+    },
+    {
+      "coin": "ETH",
+      "huong": "PHAN_VAN",
+      "ghi": "gặp cản nhỏ, chờ break rồi back vài chục giá mới đánh"
+    },
+    {
+      "coin": "USDT.D",
+      "huong": "TANG",
+      "ghi": "điều chỉnh xong vùng này, sắp đến vùng giật lên"
+    }
+  ],
+  "ghi_chu": "Giá BTC lúc nói không nêu số rõ (vừa break 80.000, chưa tới 83.000). Entry short chỉ nói 'lãi 500 giá, gồng về 79.9/79.5'. Buổi nghiêng GIAM yếu ở H4 vì chính người nói bảo không có entry; trọng tâm là quan điểm tuần GIAM. 'Lên 71 [?]' trong khung ngày chưa rõ, không dùng làm số."
+}

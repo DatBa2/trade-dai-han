@@ -1,0 +1,124 @@
+{
+  "buoi": "2026-02-04_c6WnN4Q9EXo",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/zip_clean/2026-02-04_c6WnN4Q9EXo.txt",
+  "gia_btc_luc_noi": 76700,
+  "dau_buoi": {
+    "thien_huong_h4": "GIAM",
+    "gio": "[00:03:32]",
+    "trich": "Xu hướng lớn mình nói đi nói lại là nó sẽ gãy. Target của chúng ta là 62. Còn những nhịp này chẳng qua là ăn nhịp hồi, hồi quang phản chiếu ăn rất nhỏ thôi"
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "GIAM",
+    "do_chac": "cao",
+    "gio": "[00:47:00]",
+    "trich": "Nhớ view thị trường ngày hôm nay ở đoạn đầu, cứ thế mà làm. Thị trường đang khá khó vì đoạn này nếu short thuận xu hướng thì xa không có entry, sợ bị quét, mà đánh long thì cứ sập liên tục bị stop loss. Cho nên đoạn này khá khó đánh. Thả nó hồi lên thì dễ đánh."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {"huong": "TANG", "dich": [80000, 83000]},
+  "duong_di": [
+    {"huong": "TANG", "dich": [80000, 83000]},
+    {"huong": "GIAM", "dich": [62000, 65000]}
+  ],
+  "dich_chinh": [62000, 65000],
+  "han_gio": null,
+  "vo_hieu": null,
+  "lenh": [
+    {"chieu": "SHORT", "vao": [79000, 81000], "tp": 62000, "sl": null, "trang_thai": "de_xuat_moi"},
+    {"chieu": "LONG", "vao": [73000, 74000], "tp": [78800, 81000], "sl": null, "trang_thai": "de_xuat_moi"}
+  ],
+  "hanh_dong": "dung_ngoai_cho_entry",
+  "khung_lon": {
+    "D1": "Khung ngày vẫn còn target về 62-65; D1 và H4 đang xa MA nên tỉ lệ hồi cực cao; nến ngày hôm trước đỏ (lý thuyết không đánh ngược nến ngày) nhưng thực tế short ở đây không ổn.",
+    "W1": null
+  },
+  "pha_vo_gia": "Cây nến bán H4 volume vượt trội đêm qua (quét xuống 73 rồi kéo lên nhanh, H1 có cặp đảo chiều ở đáy) được đánh giá là fake out: quét stop loss của phe long hai đáy (SL dưới 74) và dụ short đuổi 73-74 — đám short này sẽ bị thanh lý rồi mới gãy.",
+  "nhin_lai_view_truoc": {
+    "view_truoc": "GIAM",
+    "giu_hay_doi": "giu",
+    "vi_sao": "Quan điểm vẫn thế: xu hướng lớn gãy, target 62; nhịp sập đêm qua chỉ là fake out quét long hai đáy, hôm qua đã dặn chỉ long khi H1 đóng qua 79.000 nên ai cháy là do ngược xu hướng, không SL. Vẫn chờ hồi lên 79-81 (80-83, căng 84-85) để short.",
+    "gio": "[00:05:07]",
+    "trich": "Bởi vì xu hướng mình nói rồi. Hôm qua rõ ràng mình nói với anh em để confirm long mà ăn lên được nhịp trên này thì đúng ra phải chờ nến H1 đóng qua khỏi vùng 78000 7900 này. Còn lệnh mình cho anh em đánh chỉ là đánh dò trong khu nhỏ đó."
+  },
+  "trendline": [
+    {
+      "khung": null,
+      "loai": "khac",
+      "noi_tu": "Mô hình Diamond (không nói khung, không nêu điểm neo; ngữ cảnh đang nói về BTC)",
+      "diem_neo": [],
+      "gia_duong_luc_noi": null,
+      "trang_thai": "chua_pha",
+      "dieu_kien_pha": null,
+      "ket_luan_huong": "GIAM",
+      "gio": "[00:46:25]",
+      "trich": "Cái mô hình Diamond này kiểu gì cũng rớt thôi các bạn ơi, rồi về dưới này đơn giản."
+    }
+  ],
+  "nen_volume": [
+    {"khung": "D1", "nen": "Nến ngày hôm trước màu đỏ", "volume": null, "ket_luan": "Lý thuyết: không đánh ngược nến ngày hôm trước (không long); nhưng thực tế đoạn này short hoàn toàn không ổn", "gio": "[00:06:47]", "trich": "Đầu tiên khi xét theo góc độ kỹ thuật thì cây nến ngày màu gì thì ngày hôm nay chúng ta không nên đánh ngược cây nến ngày hôm trước. ... À quên, đoạn này short thì hoàn toàn không ổn."},
+    {"khung": "H1", "nen": "H1 đang test MA34", "volume": null, "ket_luan": "Có thể test MA89 lên 78-79, không short được", "gio": "[00:07:49]", "trich": "Ví dụ H1 đang test MA34 này. Nhịp này hoàn toàn có thể test MA89 lên đến 78 79 cho nên không thể short được."},
+    {"khung": "H4", "nen": "Cây nến bán H4 lớn; trước đó một cây bán, sau đó test lại râu rồi đi lên; đỉnh thấp đáy thấp", "volume": "Volume vượt trội", "ket_luan": "Về lý thuyết là nến bán, xu hướng giảm H4 rõ; nhưng theo kinh nghiệm là nhịp fake out", "gio": "[00:08:22]", "trich": "Thứ hai nữa khi chúng ta nhìn H4 thì nhìn volume này. Ở đây có một cây nến bán H4 với volume vượt trội. Trước đó cũng là một cây nến bán volume và sau đó nó test lại râu rồi nó đi lên. Đối với cây nến này thì nó mang ý nghĩa là một cây nến bán."},
+    {"khung": "H1", "nen": "Cặp nến đảo chiều ở vùng đáy 73 — quét xuống và lên lại rất nhanh", "volume": null, "ket_luan": "Fake out, quét stop loss; short đuổi 73-74 sẽ bị thanh lý, khả năng vẫn hồi", "gio": "[00:08:56]", "trich": "bởi vì mọi người nhìn H1 không, nó có một cặp đảo chiều ngay ở vùng đáy này. Tức là vùng 73 này nó quét xuống và đi lên lại rất nhanh. Cho nên vùng này mình đánh giá đây là một nhịp fake out."},
+    {"khung": "H1", "nen": "Cây H1 volume lớn", "volume": "Volume lớn nhưng lực xả cũng lớn như lực mua", "ket_luan": "Không nghiêng hẳn bên nào", "gio": "[00:20:04]", "trich": "Bitcoin có cây H1 volume lớn. Lớn thì cũng lớn như nhau. Lực xả cũng lớn như lực mua."},
+    {"khung": "H4", "nen": "Giá về test tận râu H4; H4 đóng thấp hơn râu", "volume": null, "ket_luan": "Không long ở râu, tìm điều kiện stop loss; đóng dưới râu thì không long nữa", "gio": "[00:22:46]", "trich": "Hiện tại mình nghĩ là khi nó về test tận râu H4 này thì các bạn phải tìm điều kiện để stop loss thôi chứ không long ở đây. Bởi vì nếu nó về đến đây thì gần như nó sẽ đứng ở đây và nó sẽ xả tiếp thì không long nữa. Và đóng cây H4 thấp hơn cái râu này thì không long nữa."}
+  ],
+  "cach_lam": [
+    {"hanh_dong": "quan_sat", "cong_cu": "ema", "chi_tiet": "MA34/MA89 khung H1; khoảng cách giá với MA trên H4, D1", "ket_qua": "H1 có thể lên MA89 78-79; H4/D1 xa MA → tỉ lệ hồi cực cao", "gio": "[00:07:49]", "trich": "Nhịp này hoàn toàn có thể test MA89 lên đến 78 79 cho nên không thể short được. ... Còn nếu chúng ta nhìn vào H4, D1 là đang sai MA thì chứng tỏ khả năng có nhịp hồi rất cao."},
+    {"hanh_dong": "quan_sat", "cong_cu": "volume", "chi_tiet": "Volume cây nến bán H4 so với các cây trước", "ket_qua": "Volume vượt trội nhưng nhận định là fake out", "gio": "[00:08:22]", "trich": "Ở đây có một cây nến bán H4 với volume vượt trội."},
+    {"hanh_dong": "do", "cong_cu": "fibo_thoai_lui", "chi_tiet": "Fibo nhịp hồi hiện tại", "ket_qua": "Đã vượt 0.5, đang ở cản 0.618 — bình thường sẽ short nhưng hôm nay không", "gio": "[00:11:03]", "trich": "Ví dụ như đây nó vượt qua Fibo 0.5 này đang cặp cản Fibo 0.618 này. Bình thường ở đây mình sẽ short tiếp. Nhưng lệnh này nếu short vào bây giờ mình nghĩ khả năng bị quét stop loss cực kỳ cao"},
+    {"hanh_dong": "do", "cong_cu": "fibo_thoai_lui", "chi_tiet": "Kéo Fibo cho nhịp hồi lớn hơn (không nói rõ loại Fibo)", "ket_qua": "Lên tới 85, trùng lấp gap", "gio": "[00:12:09]", "trich": "Ví dụ ở đây nó sẽ chạy Fibo để mình xem thử. Fibo nó sẽ kéo lên 85 này. Đẹp nhất nó lên đến 85 này là vừa lấp hết gap ở bên này."},
+    {"hanh_dong": "quan_sat", "cong_cu": "khac", "chi_tiet": "Gap CME (chart CME lệch giá với chart đang trade ~190 giá)", "ket_qua": "Gap 81-84 của hôm qua còn", "gio": "[00:12:09]", "trich": "Chúng ta vẫn còn gap của ngày hôm qua. Gap 84 81 này. Biết đâu nó sẽ kéo lên đến tận 85 thì chuyện bình thường."},
+    {"hanh_dong": "quan_sat", "cong_cu": "heatmap", "chi_tiet": "Bản đồ liquid", "ket_qua": "76.560 đã quét; còn ít ở 77.000; nhóm nhỏ 74.000 — không quan trọng", "gio": "[00:14:48]", "trich": "Hôm qua chúng ta có một vùng ở 76.56 nhưng nó quét qua luôn. Bây giờ chỉ còn một ít ở 77.000 thôi. Một nhóm nhỏ ở 74.000 thì nhóm này thực sự không đáng kể lắm."},
+    {"hanh_dong": "quan_sat", "cong_cu": "hyblock", "chi_tiet": "Khối lượng short đang mở (Hyblock)", "ket_qua": "1 triệu → 800 → còn ~500; khi bị thanh lý hết mới ok short lại", "gio": "[00:16:56]", "trich": "Hôm trước là 1 triệu, sau đó nó về còn khoảng 800, thì bây giờ mặc dù giá không lên nhiều nhưng lượng short đã bị thanh lý, bây giờ còn khoảng tầm 500 thôi, không phải quá nhiều. Khi nào tụi này bị thanh lý hết thì khả năng là ok để short lại."},
+    {"hanh_dong": "quan_sat", "cong_cu": "khac", "chi_tiet": "Fear & Greed", "ket_qua": "14", "gio": "[00:14:48]", "trich": "Fear & Greed chắc khoảng 14, đúng luôn 14."},
+    {"hanh_dong": "ke", "cong_cu": "khac", "chi_tiet": "Chốt từng phần theo các vùng cản: Fibo (TP1), 78.8, H4 79.2, 81", "ket_qua": "TP 78.800 / 79.200 / 81.000", "gio": "[00:41:58]", "trich": "rồi lên vùng khoảng 78, 79 chốt tiếp. 78c8 chốt tiếp. Rồi lên H4 79k2 chốt tiếp. Rồi lên 81 chốt tiếp."}
+  ],
+  "vung_nguoi_do": [
+    {"loai": "dich", "tu": 62000, "den": 62000, "gio": "[00:03:32]", "trich": "Target của chúng ta là 62."},
+    {"loai": "vao", "tu": 79000, "den": 79000, "gio": "[00:07:18]", "trich": "Chờ H4 tối thiểu là lên lại được vùng 79 hoặc 81 gì đó. 79 hoặc 81 thì mới chơi được."},
+    {"loai": "vao", "tu": 81000, "den": 81000, "gio": "[00:07:18]", "trich": "79 hoặc 81 thì mới chơi được."},
+    {"loai": "dich", "tu": 62000, "den": 65000, "gio": "[00:07:18]", "trich": "Khung ngày thì vẫn còn target về 62 65."},
+    {"loai": "khang_cu", "tu": 78000, "den": 79000, "gio": "[00:07:49]", "trich": "Nhịp này hoàn toàn có thể test MA89 lên đến 78 79 cho nên không thể short được."},
+    {"loai": "ho_tro", "tu": 73000, "den": 73000, "gio": "[00:08:56]", "trich": "Tức là vùng 73 này nó quét xuống và đi lên lại rất nhanh."},
+    {"loai": "vao", "tu": 79000, "den": 80000, "gio": "[00:12:09]", "trich": "Còn để short thì đoạn này mình nghĩ vẫn phải hồi lên 79 hoặc 80 hoặc thậm chí 84 là căng."},
+    {"loai": "vao", "tu": 84000, "den": 84000, "gio": "[00:12:09]", "trich": "hoặc thậm chí 84 là căng. Lên đó mới là những vùng đẹp để chúng ta short."},
+    {"loai": "dich", "tu": 85000, "den": 85000, "gio": "[00:12:09]", "trich": "Fibo nó sẽ kéo lên 85 này. Đẹp nhất nó lên đến 85 này là vừa lấp hết gap ở bên này."},
+    {"loai": "khang_cu", "tu": 81000, "den": 84000, "gio": "[00:12:09]", "trich": "Chúng ta vẫn còn gap của ngày hôm qua. Gap 84 81 này."},
+    {"loai": "sl", "tu": 74000, "den": 74000, "gio": "[00:13:12]", "trich": "bởi vì stop loss chắc chắn nằm ở dưới vùng 74 này nên nó quét râu hết stop loss."},
+    {"loai": "khang_cu", "tu": 77000, "den": 77000, "gio": "[00:14:48]", "trich": "Bây giờ chỉ còn một ít ở 77.000 thôi."},
+    {"loai": "ho_tro", "tu": 74000, "den": 74000, "gio": "[00:14:48]", "trich": "Một nhóm nhỏ ở 74.000 thì nhóm này thực sự không đáng kể lắm."},
+    {"loai": "dich", "tu": 80000, "den": 83000, "gio": "[00:18:03]", "trich": "Hồi đến thì mình nói khoảng tầm 80, mình nghĩ chắc khoảng từ 80 cho đến 83"},
+    {"loai": "vao", "tu": 73000, "den": 74000, "gio": "[00:28:26]", "trich": "Anh em thích thì cứ chia nhỏ vốn ra 10 phần hoặc 5 phần, long dần, đòn bẩy X5 X10 gì đấy, từ đây về 74, 73 thôi."},
+    {"loai": "tp", "tu": 78800, "den": 78800, "gio": "[00:41:58]", "trich": "rồi lên vùng khoảng 78, 79 chốt tiếp. 78c8 chốt tiếp."},
+    {"loai": "tp", "tu": 79200, "den": 79200, "gio": "[00:41:58]", "trich": "Rồi lên H4 79k2 chốt tiếp."},
+    {"loai": "tp", "tu": 81000, "den": 81000, "gio": "[00:41:58]", "trich": "Rồi lên 81 chốt tiếp."}
+  ],
+  "view_trung_han": [
+    {"khung": "D1", "huong": "GIAM", "dich": [62000, 65000], "han": null, "mat_view_khi": null, "gio": "[00:07:18]", "trich": "Khung ngày thì vẫn còn target về 62 65. Cùng lắm đoạn này hồi quang phản chiếu lên tí đây rồi lại rớt về dưới này."},
+    {"khung": "M1", "huong": "GIAM", "dich": null, "han": "mới đầu downtrend; chia nhỏ mua trong vòng 1 năm, cuối năm mua nhiều", "mat_view_khi": null, "gio": "[00:21:09]", "trich": "Mua thì anh em xác định là chia nhỏ ra và mua trong vòng 1 năm nữa. Cuối năm mua nhiều. Bây giờ mới đầu down trend mà đã đòi đi mua rồi, cuối năm lấy tiền ra mà chơi."}
+  ],
+  "vung_tranh": [
+    {"tu": null, "den": null, "vi_sao": "Không short FOMO ở vùng hiện tại: H1 có thể lên MA89 78-79, không biết điểm quay đầu, dễ bị quét SL", "gio": "[00:07:49]", "trich": "Không thể short FOMO ở vùng này được. Đánh thuận sóng thì thuận đi nữa nhưng không thể short FOMO."},
+    {"tu": 73000, "den": 74000, "vi_sao": "Short đuổi vào 73-74 (sau cây fake out) gần như chắc chắn bị thanh lý", "gio": "[00:09:29]", "trich": "Chắc chắn đám short vào từ vùng 74 cho đến 73 này chắc chắn sẽ bị thanh lý. Mình đoán là như vậy."},
+    {"tu": null, "den": null, "vi_sao": "Không long khi giá về test tận râu H4 (đứng ở đó sẽ xả tiếp); H4 đóng dưới râu thì không long nữa", "gio": "[00:23:17]", "trich": "để stop loss thôi chứ không long ở đây. Bởi vì nếu nó về đến đây thì gần như nó sẽ đứng ở đây và nó sẽ xả tiếp thì không long nữa. Và đóng cây H4 thấp hơn cái râu này thì không long nữa."}
+  ],
+  "giu_dong": [
+    {"lenh": "Long đêm qua không cài SL", "quyet_dinh": "dong", "khi_nao": "Không SL thì cháy; phải có SL (SL 50%), đòn bẩy x10 trở xuống", "gio": "[00:18:03]", "trich": "Lúc tối không SL thì khét chắc chắn rồi."},
+    {"lenh": "Lệnh chờ short 80 chưa khớp (người xem)", "quyet_dinh": "giu", "khi_nao": "Khi khớp có thể bị quét stop loss rồi mới xuống", "gio": "[00:18:03]", "trich": "Short 80 không khớp thì mình nghĩ chắc đến khi nó khớp, short 80 của bạn có thể nó quét stop loss rồi nó mới xuống."},
+    {"lenh": "Lệnh về entry xa sáng nay", "quyet_dinh": "dong", "khi_nao": "MA hồi quá nhanh thì chốt", "gio": "[00:18:03]", "trich": "Sáng nay về entry xa, MA hồi quá nhanh thì chốt thôi."},
+    {"lenh": "Long 75.300 (người xem)", "quyet_dinh": "giu", "khi_nao": "Giữ tới 81 tùy sức chịu", "gio": "[00:36:14]", "trich": "Đang long 75k3, giữ tới 81 thì giữ hay không còn tùy sức bạn."},
+    {"lenh": "Long 73.500 (người xem hỏi gồng tới liquid 85k)", "quyet_dinh": "dong", "khi_nao": "Không có công thức gồng lãi; thấy đủ (vd lãi 50% vốn) thì chốt", "gio": "[00:40:08]", "trich": "Đến điểm nào các bạn cảm thấy đủ thì nên chốt. Ví dụ vốn 1000 đô lãi 500 đô các bạn thấy happy thì cứ chốt."},
+    {"lenh": "Long 73.400 (người xem)", "quyet_dinh": "chot_mot_phan", "khi_nao": "Chốt từng phần ở các cản: Fibo TP1, 78.8, H4 79.2, 81", "gio": "[00:41:27]", "trich": "Thực tế TP thì thứ nhất phải xác định những vùng cản, hiện tại cũng là một cái cản rồi. Ví dụ ở đây là Fibo, có thể là TP1 chốt bớt rồi lên vùng khoảng 78, 79 chốt tiếp."}
+  ],
+  "tin_tuc": [
+    {"su_kien": "ADP / Non-farm", "thoi_diem": "tối nay 8:15", "nguon": "lich_kinh_te", "so_lieu": null, "anh_huong_view": "Hôm nào cũng có tin; tránh khung giờ tin là ổn", "gio": "[00:15:20]", "trich": "Tin tức thì hôm nào cũng có tin. Tối nay khả năng là vàng nó sẽ tăng hoặc đi sideway cho đến tối nay nó sập tiếp. Nó sẽ kill đằng dưới tiếp. ADP non farm tối nay 8:15, làm gì? Tránh khung tin này ra là ok."}
+  ],
+  "trich_them": [
+    {"gio": "[00:09:59]", "cau": "Thanh lý xong rồi nó mới gãy. Cho nên khả năng của đoạn này mình nghĩ nó vẫn hồi. Mình đánh giá theo cảm nhận cá nhân thôi."},
+    {"gio": "[00:11:35]", "cau": "Quan điểm của mình ngày hôm nay vẫn giữ nguyên hai cách đánh. Một là anh em đánh long cũng được. ... các bạn phải xác định cho mình là chúng ta đang đánh ngược xu hướng. ... Kiểm soát và luôn có stop loss và đặc biệt là không đánh cross."},
+    {"gio": "[00:12:41]", "cau": "Nhắc lại là cây H4 này theo cá nhân mình đánh giá đây là một cây fake out tức là một cây đánh lừa."},
+    {"gio": "[00:13:12]", "cau": "Hoặc là ngồi chờ hoặc là chấp nhận đánh long mặc dù ngược xu hướng, rủi ro nhưng nó lại có khả năng ăn sóng hồi."},
+    {"gio": "[00:28:26]", "cau": "Tầm này mình nghĩ vẫn cứ tìm điểm mà long."}
+  ],
+  "kho": "Mẫu 'hồi rồi giảm' rõ: chặng hồi 80-83 (có thể 79-81, căng 84-85 lấp gap 81-84), đích chính 62-65. Người đó vừa bảo an toàn thì ngồi ngoài chờ short, vừa cho long ngược trend nhỏ từ hiện tại về 74-73 — ghi hanh_dong dung_ngoai_cho_entry theo view chính. Mô hình Diamond không rõ khung/có chắc là BTC không (ngữ cảnh BTC). '73c5' hiểu 73.500, '78c8' 78.800."
+}

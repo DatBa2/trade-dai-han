@@ -1,0 +1,184 @@
+{
+ "buoi": "2026-09-30_1003_3qAxAK71YAs",
+ "ngay": "2026-09-30",
+ "gio_vn": "10:03",
+ "gia_btc_luc_noi": 83000,
+ "nhan_dinh": [
+  {
+   "khung": "H4",
+   "huong": "TANG",
+   "do_chac": "thap",
+   "dich": [
+    90000,
+    92000
+   ],
+   "han": null,
+   "han_gio": null,
+   "vo_hieu_khi": "nến H4 đóng dưới 82.000",
+   "vo_hieu_cau_truc": {
+    "gia": 82000,
+    "khung": "H4",
+    "so_nen": 1,
+    "chieu": "dong_duoi",
+    "cau": "Còn nếu giá đóng cửa dưới 82.000 thì gần như 80 không có ý nghĩa. Cái này cực kỳ quan trọng."
+   },
+   "kich_ban_phu": null,
+   "duong_di": [
+    {
+     "huong": "GIAM",
+     "dich": [
+      81500,
+      82500
+     ]
+    },
+    {
+     "huong": "TANG",
+     "dich": [
+      90000,
+      92000
+     ]
+    }
+   ],
+   "doi_y": null,
+   "ly_do": [],
+   "trich": "Xem Bitcoin H4 đóng thế nào: vẫn là một cây nến đỏ, đóng dưới MA cộng với trendline. ... Hôm nay khả năng sideway chờ tin. Tin PCE tối nay 7:30 sẽ quyết định market, anh em lưu ý tin đó. ... Còn Bitcoin thì bám theo plan ở đầu livestream mình nói khá kỹ để theo dõi thị trường nhá.",
+   "nhan_v1": "PHAN_VAN"
+  },
+  {
+   "khung": "W1",
+   "huong": "TANG",
+   "do_chac": "vua",
+   "dich": [
+    90000,
+    92000
+   ],
+   "han": null,
+   "han_gio": null,
+   "vo_hieu_khi": "đóng cửa dưới 82.000",
+   "kich_ban_phu": null,
+   "ly_do": [
+    "khung tuần vẫn đẹp",
+    "82-83 là hỗ trợ cứng khung tuần, cả tuần xuống là bật"
+   ],
+   "trich": "Khung tuần thì vẫn đẹp và chúng ta đang ở cái cản này. ... Bởi vì đây là vùng hỗ trợ cứng trên khung tuần",
+   "doi_y": null,
+   "duong_di": null
+  }
+ ],
+ "vung_gia": {
+  "khang_cu": [
+   84000,
+   85000
+  ],
+  "ho_tro": [
+   81500,
+   83000
+  ]
+ },
+ "lenh": [
+  {
+   "chieu": "LONG",
+   "vao": [
+    81500,
+    82500
+   ],
+   "tp": [
+    90000,
+    92000
+   ],
+   "sl": 80500,
+   "trang_thai": "de_xuat_moi"
+  },
+  {
+   "chieu": "LONG",
+   "vao": 85000,
+   "tp": [
+    92000
+   ],
+   "sl": null,
+   "trang_thai": "de_xuat_moi"
+  }
+ ],
+ "nhin_lai_truoc": "Thứ hai nhiều bạn bảo ngủ dậy về 80, mình nói rất khó: đến thứ tư 82-83 vẫn đỡ giá, đúng. Đêm qua lên 84 mình không buy FOMO, không sale đuổi.",
+ "cong_cu": [
+  "H4",
+  "H1",
+  "D1",
+  "W1",
+  "MA34 H4",
+  "trendline",
+  "Fibo 0.5",
+  "Fibo 0.618",
+  "Max Pain Coinglass",
+  "heatmap liquidation",
+  "BTC.D",
+  "USDT.D",
+  "Fear and Greed",
+  "gap vàng"
+ ],
+ "tin_tuc": [
+  {
+   "tin": "Core PCE tối nay 7:30 (dự kiến 0.3, trước 0.2)",
+   "danh_gia": "0.3 trở lên xấu, đúng 0.3 khoảng 70% xấu; 0.4+ goodbye; 0.2 thì tạo đáy quanh 82.500 rồi kéo lên các vùng confirm tăng"
+  },
+  {
+   "tin": "Non-farm thứ sáu",
+   "danh_gia": "không cấp thiết bằng PCE"
+  }
+ ],
+ "thoi_quen": [
+  "không buy FOMO, không sale đuổi khi quét SL; đứng ngoài hoặc chờ xác nhận",
+  "SL theo nến H1 đóng cửa, cắt sớm 1000 giá để vào lại chắc kèo",
+  "tiếc tiền không dám SL là lỗi hay mắc",
+  "đánh vàng nhanh, đánh chạy",
+  "bật khung tuần lên trước khi FOMO altcoin",
+  "không phím coin, spot cũng phải có SL"
+ ],
+ "cau_cua_mieng": [
+  "Nó về thì đón, không về thì thôi, rất đơn giản đúng không?",
+  "Mình mà biết bao nhiêu ngày nữa thì quá bá luôn",
+  "Mình không có phím"
+ ],
+ "altcoin": [
+  {
+   "coin": "BTC.D",
+   "huong": "TANG",
+   "ghi": "cùng USDT.D kéo lên, không có lý do long altcoin, mình không đánh altcoin"
+  },
+  {
+   "coin": "ETH",
+   "huong": "GIAM",
+   "ghi": "tam giác, nến H4 xanh trả về dễ fake out; thủng hỗ trợ thì về 46xx"
+  },
+  {
+   "coin": "NEAR",
+   "huong": "GIAM",
+   "ghi": "muốn short, chờ fake out lên trên 5.2"
+  },
+  {
+   "coin": "WLD",
+   "huong": "PHAN_VAN",
+   "ghi": "tam giác hẹp dần, chờ phá đầu nào"
+  },
+  {
+   "coin": "vàng",
+   "huong": "TANG",
+   "ghi": "hồi yếu, có gap nên chưa sale, lấp gap xong mới tính"
+  }
+ ],
+ "ghi_chu": "Buổi lưỡng lự: H4 cấu trúc giảm nhưng hỗ trợ tuần cứng, người nói chọn chờ 2 đầu nên PHAN_VAN. Các số 82.500/81.000 có [?] suy theo ngữ cảnh; Max Pain short 84.600 [?], long 82.100.",
+ "hanh_dong": "dung_ngoai_cho_entry",
+ "chang_ke_tiep": {
+  "huong": "GIAM",
+  "dich": [
+   81500,
+   82500
+  ]
+ },
+ "khung_lon_v2": {
+  "D1": null,
+  "W1": "TANG"
+ },
+ "pha_vo_gia": "Kỳ vọng một pha quét về ~82 (căng nhất là râu ~81) để 'không cho nhiều người lên tàu' rồi bật lên 90; vùng 80 là vùng tâm lý đám đông chờ entry nên nếu market muốn lên sẽ không về 80. Đêm qua giá quét lên 84 lấy stop loss rồi giảm lại.",
+ "nguon_nhan": "dap_an_v2 (Opus 5.5 rút mù 31/10)"
+}

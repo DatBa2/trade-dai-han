@@ -1,0 +1,69 @@
+{
+  "buoi": "2026-06-26_UzjWDBAiahs",
+  "ngay": "2026-06-26",
+  "gio_vn": "10:00",
+  "gia_btc_luc_noi": 59000,
+  "nhan_dinh": [
+    {
+      "khung": "H4",
+      "huong": "GIAM",
+      "do_chac": "vua",
+      "dich": [57000, 58000],
+      "han": "hôm nay thứ sáu đến cuối tuần: loanh quanh biên 57.000-60.000, sập tiếp qua tuần sau",
+      "han_gio": 72,
+      "vo_hieu_khi": "30 phút phá lên trên 60.000 mới ăn hồi 61-62; ngoài ra không nói điểm cắt",
+      "kich_ban_phu": "hồi lên 60.000-60.300 (có thể râu 60.900-61.000) quét SL rồi short lại; cần thêm 1-2 cây H4 full bán nữa mới hồi ổn; nếu hồi qua 62 thì vẫn short tiếp",
+      "ly_do": [
+        "nến ngày đóng 59.000 phá mất đáy hai đáy hôm qua, lower low xác nhận xu hướng giảm",
+        "giảm trên tất cả các khung, MA thấp dần, hồi không quá Fibo của cây bán trước",
+        "Fibo đo 57.600-57.000 (cờ cho 57.3-57.6); RSI hỗ trợ nên khó sập sâu ngay, hồi nhẹ rồi sập tiếp",
+        "Fear and Greed vẫn 13: nhiều người còn bắt đáy nên chưa hồi thật",
+        "vùng 60.000 hỗ trợ cũ đã phá, nay là kháng cự"
+      ],
+      "trich": "mình nghĩ nó về 57 mấy đó 57x rồi sau đó nó hồi lên lại khoảng 59 rồi sau đó nó lại đi tiếp. ... xu hướng hiện tại là xu hướng giảm trên tất cả các khung.",
+      "doi_y": null,
+      "duong_di": [
+        {"huong": "TANG", "dich": [59500, 60300]},
+        {"huong": "GIAM", "dich": [57000, 58000]}
+      ]
+    },
+    {
+      "khung": "W1",
+      "huong": "GIAM",
+      "do_chac": "vua",
+      "dich": [53000, 54000],
+      "han": "theo khung lớn; qua tuần sau sập tiếp",
+      "han_gio": null,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": "vùng hỗ trợ lớn 50-69 trước; dài hạn 23-30.000 (hỗ trợ mùa trước, Fibo mở rộng) là vùng vào hàng mạnh, dưới 40.000 bắt đầu mua",
+      "ly_do": ["theo khung lớn 53-54 không khó", "view 40.000 và 20.000 đã đưa từ lâu, chốt spot ở trên, chờ mua lại"],
+      "trich": "tệ tệ mình thấy cũng về 57, còn nếu đúng theo khung lớn thì chắc đâu đó 53 54, 54 đâu có khó lắm.",
+      "doi_y": null,
+      "duong_di": null
+    }
+  ],
+  "vung_gia": {"khang_cu": [60000, 62000], "ho_tro": [57000, 58000]},
+  "lenh": [
+    {"chieu": "SHORT", "loai": "đang giữ TP2", "vao": null, "tp": [57000], "sl": null,
+     "trang_thai": "dang_giu",
+     "trich": "TP2 mình vẫn đang ngồi chờ TP2. ... đêm ngày hôm qua TP2 ở 57.000, mình vẫn đang giữ"},
+    {"chieu": "SHORT", "loai": "TP1 đã chốt (đêm qua)", "vao": null, "tp": [58000], "sl": null,
+     "trang_thai": "da_chot",
+     "trich": "Hôm qua chốt 58k ngon thế. 58k là ngon rồi. 58k chốt ở ngay đáy"},
+    {"chieu": "SHORT", "loai": "chờ hồi", "vao": [60000, 62000], "tp": null, "sl": null,
+     "trang_thai": "de_xuat_moi",
+     "trich": "Lên 62 được thì tốt, lên 62 được thì short. Chẳng ngại gì, lên được thì short tiếp."}
+  ],
+  "nhin_lai_truoc": "Hôm qua cho TP1 58.000 chốt đúng đáy (về 58.3), giữ TP2 57.000; lệnh sáng nay lãi 1000-1500 giá rồi hồi về gần entry, không chốt hết; nhận định hôm qua 'hai đáy chưa có confirm, không long' đúng; nhận định 65 hôm qua 'y chang'.",
+  "cong_cu": ["D1 đáy thấp", "H4", "H1", "M5", "Fibo", "cờ", "RSI", "Fear and Greed", "liquidation heatmap", "funding", "DOM", "USDT.D", "đối chiếu chu kỳ mùa trước", "vàng/dầu đi trước"],
+  "tin_tuc": [{"tin": "GDP 2.1%, PCE 0.3 tối qua", "danh_gia": "chỉ phục vụ pump dump ngắn hạn, dụ long rồi phiên Mỹ dump"}],
+  "thoi_quen": ["đưa ra kế hoạch chứ không đoán mò đáy; mua chia mỗi 5000 giá", "chốt lúc hưng phấn nhất, cash out chờ dump rồi vào lại", "SL có nguyên tắc, cắt xong nến đảo thì vào lệnh mới", "hai đáy chỉ là điều kiện cần, chưa confirm thì không long", "theo dõi vàng/dầu để đoán BTC", "không nhồi short ở vùng đáy, đứng ngoài chờ hồi"],
+  "cau_cua_mieng": ["Bắt đáy cũng là một dạng FOMO.", "Muốn gồng lãi được thì phải gồng lỗ được.", "Hô anh em mua Altcoin tầm này không khác gì là một tội ác.", "Cứ để cho nó chạy chán. Nó cứ giết hết các ông nhảy ra nhảy vào ngoài kia."],
+  "altcoin": [
+    {"coin": "altcoin chung", "huong": "GIAM", "ghi": "DOM xuống nên altcoin trụ, nhưng USDT.D chạm trendline, phá thì BTC 52; không mua altcoin"},
+    {"coin": "ETH", "huong": "GIAM", "ghi": "short 1k7-1k8; dump 1400 chốt được; mua vùng 1000-1400, trung bình mình khoảng 1200"},
+    {"coin": "vàng", "huong": "GIAM", "ghi": "về đầu 38; vàng gãy thì BTC gãy theo; dài hạn 32-35"},
+    {"coin": "SOL", "huong": "GIAM", "ghi": "sập sâu hơn rồi mùa sau kéo mạnh hơn LINK"}
+  ],
+  "ghi_chu": "gio_vn mặc định. Đầu buổi giá ~58.300-59.000; giữa buổi hồi tới ~59.700. '124.700' trong câu người xem là entry cũ. 'PCI' hiểu PCE. Dự báo biên cuối tuần: 57.000-60.000 (râu tối đa 61.000)."
+}

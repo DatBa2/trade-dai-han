@@ -1,0 +1,103 @@
+{
+  "buoi": "2026-04-01_Be-e74Mwx0U",
+  "ngay": "2026-04-01",
+  "gio_vn": "10:00",
+  "gia_btc_luc_noi": 68000,
+  "nhan_dinh": [
+    {
+      "khung": "H4",
+      "huong": "TANG",
+      "do_chac": "vua",
+      "dich": [69000, 71000],
+      "han": "ngắn hạn; đi ngang chờ tin; cả tháng 4 nghiêng tăng",
+      "han_gio": null,
+      "vo_hieu_khi": "nến ngày thủng 65.000-66.000 thì mới short",
+      "kich_ban_phu": "trong ngày chờ nhịp kill về 66.000-66.500 (chiều có thể về 66.300) mới long; có thể lên test MA200 rồi khựng; mô hình cờ giảm backtest: nếu short thì ở ~69.000 SL ~72.000; kịch bản quét về 58.000 chỉ là thuyết âm mưu dự phòng",
+      "ly_do": [
+        "nến ngày xanh giữ trên Fibo 0.5, đã test 0.618 rồi đi lên (công thức Fibo Eric), backtest đúng điểm là đẹp để bứt phá",
+        "H1 đỉnh đáy cao dần, đáy thật là 65.000",
+        "đám short mở ở sáng nay sẽ bị lụm ở 69.000 (liquid dày); sợ trap short",
+        "tháng 4 nghiêng tăng: lấp gap/quét thanh khoản, tạo FOMO trước World Cup tháng 6; lịch sử T1-T2 đỏ thì T4 có khả năng xanh",
+        "volume mua bên này cực kỳ tốt"
+      ],
+      "trich": "Cá nhân mình nếu anh em hỏi theo góc độ cá nhân thì mình nghiêng hơn vào kịch bản tăng. Mình vẫn nghĩ tháng tư là một tháng thị trường có những sự tăng trưởng.",
+      "doi_y": null,
+      "duong_di": [
+        {"huong": "GIAM", "dich": 66500},
+        {"huong": "TANG", "dich": 69000}
+      ]
+    },
+    {
+      "khung": "D1",
+      "huong": "TANG",
+      "do_chac": "vua",
+      "dich": [81000, 91000],
+      "han": "tháng 4",
+      "han_gio": null,
+      "vo_hieu_khi": "nến ngày thủng 65.000-66.000",
+      "kich_ban_phu": "swing thì chia vùng 81-91 nghìn; nhịp đẩy lên 81.000 chủ yếu quét SL, lấp gap rồi rụng nhanh",
+      "ly_do": ["giữ trên Fibo 0.5/0.618 khung ngày", "nếu short thì ngược xu hướng khung ngày"],
+      "trich": "Nếu bây giờ anh em muốn swing thì cứ chia giải ra. 91 81 vậy thôi. Cho nên mình không short ở đoạn này.",
+      "doi_y": null,
+      "duong_di": null
+    },
+    {
+      "khung": "chung",
+      "huong": "GIAM",
+      "do_chac": "vua",
+      "dich": [54000, 56000],
+      "han": "sau nhịp hồi tháng 4; cuối tháng có thể sập; cá nhân nghĩ sâu hơn 40.000, râu 30-20.000",
+      "han_gio": null,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": "xu hướng dài về 64.000 nhưng còn lâu, phải quét lên trên 71-72 hoặc 76 trước",
+      "ly_do": [
+        "nến tháng 3 xanh nhưng là nến bán, râu trên, dưới MA34 tháng, xấu cho trung dài hạn",
+        "tháng nằm dưới Fibo 0.5, khó phá lên 90"
+      ],
+      "trich": "Nến tháng này vẫn cực kỳ xấu. ... nhịp đẩy lên đó sẽ cực kỳ nhanh và sau đó nhanh chóng rụng xuống, về tệ cũng phải là 54 56 gì đó.",
+      "doi_y": null,
+      "duong_di": [
+        {"huong": "TANG", "dich": 81000},
+        {"huong": "GIAM", "dich": 55000}
+      ]
+    }
+  ],
+  "vung_gia": {"khang_cu": [69000, 72000], "ho_tro": [65000, 66500]},
+  "lenh": [
+    {"chieu": "LONG", "loai": "chờ entry", "vao": [66000, 66500], "tp": [68000], "sl": null,
+     "trang_thai": "de_xuat_moi",
+     "trich": "Đẹp nhất ở đoạn này là chờ test 68 của cái này. Tức là quanh khoảng 66.000 66.500 gì đó."},
+    {"chieu": "LONG", "loai": "đã chốt", "vao": 66400, "tp": [67600, 68000], "sl": null,
+     "trang_thai": "da_chot",
+     "trich": "Hôm qua long 66.4 chốt 67.6. ... Hôm qua hai lần SL 50 TP 68, húp luôn hai lệnh ngon."},
+    {"chieu": "SHORT", "loai": "scalping nhỏ", "vao": null, "tp": null, "sl": null,
+     "trang_thai": "da_chot",
+     "trich": "Lệnh cũng nhỏ. Được khoảng 15% nếu tính cả đòn bẩy. Cho nên cứ out rồi tìm entry khác."}
+  ],
+  "nhin_lai_truoc": "Hôm qua long 66.4 chốt 67.6-68.000 đúng; short hôm qua tại hỗ trợ 66.000 là lỗi cơ bản (không short ở hỗ trợ); quản lý: thoát hòa vị thế xấu ở trên, giữ vị thế đẹp ở 66.000 gồng qua đêm.",
+  "cong_cu": ["tháng", "D1", "H4", "H1", "M30", "M5", "MA89", "MA200", "Fibo 0.5", "Fibo 0.618", "Fibo mở rộng", "mô hình cờ", "heatmap liquid", "Fear and Greed", "thống kê return quý/tháng"],
+  "tin_tuc": [
+    {"tin": "Đầu tháng reset, nhiều tin; phiên Mỹ", "danh_gia": "né phiên Mỹ là ok, không cần quan tâm quá"}
+  ],
+  "thoi_quen": [
+    "không short ở hỗ trợ, không long ở kháng cự; chờ breakout rồi backtest",
+    "quản lý rủi ro hơn lợi nhuận: thoát hòa vị thế xấu, giữ vị thế đẹp",
+    "biên độ ~1000 giá thì chốt, gần 11h không phải giờ đẹp để gồng",
+    "tháng 4 hạn chế short, ưu tiên long; short thì vốn nhỏ",
+    "xác định một xu hướng chơi, không đảo long/short theo giá",
+    "chuẩn bị đa kịch bản"
+  ],
+  "cau_cua_mieng": [
+    "Mọi thứ muốn nhanh là phải từ từ.",
+    "Không ai sai một lần mà nghèo đi cả.",
+    "Nhìn chiều nào, cái đầu của mọi người đang muốn thị trường chạy theo chiều nào thì tự khắc sẽ nhìn ra chiều đó."
+  ],
+  "altcoin": [
+    {"coin": "ETH", "huong": "TANG", "ghi": "đẹp tương tự BTC, cốc tay cầm, qua 2003 lên 2008"},
+    {"coin": "SOL/BNB", "huong": "TANG", "ghi": "mô hình đẹp, chọn coin top có thanh khoản"},
+    {"coin": "WLD/XRP/SUI/LINK", "huong": "GIAM", "ghi": "xấu, không chơi"},
+    {"coin": "VÀNG", "huong": "TANG", "ghi": "đừng sell, có thể lên 4400-4500 theo Fibo/MA200; ngắn hạn điều chỉnh khung nhỏ, giảm trước BTC thì BTC khó lên hẳn"},
+    {"coin": "DẦU", "huong": "TANG", "ghi": "điều chỉnh rồi lên, không thể sập"}
+  ],
+  "ghi_chu": "Giá lúc nói ~68.000 (nói 'bây giờ nó đang 68'). Nhiều vị thế nhắc là của hôm qua. Thông số 'chờ test 68 của cái này' hiểu là Fibo 0.68 -> khoảng 66.000-66.500."
+}

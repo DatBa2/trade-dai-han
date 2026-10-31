@@ -1,0 +1,192 @@
+{
+ "buoi": "2026-09-17_1002_1cUPKUmEnr4",
+ "ngay": "2026-09-17",
+ "gio_vn": "10:02",
+ "gia_btc_luc_noi": 76500,
+ "nhan_dinh": [
+  {
+   "khung": "H4",
+   "huong": "GIAM",
+   "do_chac": "vua",
+   "dich": [
+    72000,
+    73000
+   ],
+   "han": null,
+   "han_gio": 96,
+   "vo_hieu_khi": "nến H4 đóng trên 78.000",
+   "vo_hieu_cau_truc": {
+    "gia": 78000,
+    "khung": "H4",
+    "so_nen": 1,
+    "chieu": "dong_tren",
+    "cau": "Khi nào nó qua lại được thằng 78, hoặc ít nhất kéo qua lại được cụm MA, 78.000 thì may ra, nhưng điều này rất khó."
+   },
+   "kich_ban_phu": null,
+   "duong_di": [
+    {
+     "huong": "TANG",
+     "dich": [
+      77000,
+      78000
+     ]
+    },
+    {
+     "huong": "GIAM",
+     "dich": [
+      72000,
+      73000
+     ]
+    }
+   ],
+   "doi_y": null,
+   "ly_do": [],
+   "trich": "Góc nhìn cá nhân của mình: trong ngắn hạn, từ giờ đến tối thị trường có thể vẫn còn những nhịp phục hồi. Sau phiên Mỹ thì tính sau, nhưng khả năng trong phiên Mỹ sẽ có pha kill short trước, kill long sau, nghĩa là lên rồi sau đó xuống. Đây là kịch bản mình nghĩ khá sát trong phiên Mỹ.",
+   "nhan_v1": "GIAM"
+  },
+  {
+   "khung": "D1",
+   "huong": "GIAM",
+   "do_chac": "thap",
+   "dich": [
+    72000,
+    72000
+   ],
+   "han": "từ giờ đến đầu tuần sau",
+   "han_gio": 168,
+   "vo_hieu_khi": "kéo qua 78.000 / cụm MA",
+   "kich_ban_phu": "giá dừng ở MA34 D1 gặp hỗ trợ bật lên; nếu D1 thủng 76.000 thì 72.000, thủng 71.000 thì về 68 hoặc 62-63; từ giờ đến cuối tuần căng lắm đầu tuần sau loanh quanh 73",
+   "ly_do": [
+    "bức tường 76.000 là hỗ trợ, xe đâm tường dội ngược chưa phải đảo chiều",
+    "chưa view lên, chưa thấy dấu hiệu đảo chiều"
+   ],
+   "trich": "Nếu bị từ chối ở vùng quanh 78 này và tiếp tục đi xuống, đặc biệt xác nhận tín hiệu là khi D1 thủng 76.000, thì cột mốc tiếp theo có thể chờ là quanh 72.000.",
+   "doi_y": null,
+   "duong_di": null
+  },
+  {
+   "khung": "M15",
+   "huong": "GIAM",
+   "do_chac": "vua",
+   "dich": null,
+   "han": "từ giờ đến tối / trong phiên Mỹ",
+   "han_gio": 12,
+   "vo_hieu_khi": null,
+   "kich_ban_phu": "trong phiên Mỹ kill short trước, kill long sau: lên rồi sau đó xuống; nếu căng quét SL short trên 78.000",
+   "ly_do": [
+    "heatmap thanh lý khối lượng short còn dương, nhịp này cố rướn kill short",
+    "hồi lên Fibo 77.2-77.x, vùng đó cũng là kháng cự MA",
+    "hồi là hồi chứ không phải tăng"
+   ],
+   "trich": "Đây là kịch bản mình nghĩ khá sát trong phiên Mỹ: kill short trước, kill long sau, nghĩa là lên rồi sau đó xuống.",
+   "doi_y": null,
+   "duong_di": [
+    {
+     "huong": "TANG",
+     "dich": 77500
+    },
+    {
+     "huong": "GIAM",
+     "dich": null
+    }
+   ]
+  }
+ ],
+ "vung_gia": {
+  "khang_cu": [
+   77000,
+   78000
+  ],
+  "ho_tro": [
+   75000,
+   76000
+  ]
+ },
+ "lenh": [
+  {
+   "chieu": "SHORT",
+   "vao": [
+    77000,
+    78000
+   ],
+   "tp": [
+    72000
+   ],
+   "sl": null,
+   "trang_thai": "de_xuat_moi"
+  }
+ ],
+ "nhin_lai_truoc": "Đêm qua scalp: TP1 vùng 75k đã tới, TP2 ~74.600 không tới. Kịch bản tin: quét 75, phục hồi, kill short/FOMO, rồi ngày mai mới sốt - vẫn hợp lý. Lệnh limit chờ đánh tin đêm qua đã hủy hết khi reset nến D1. Với người hỏi limit long 75 khớp: có thể chốt ở 76-77.",
+ "cong_cu": [
+  "MA34 D1",
+  "H4",
+  "H1",
+  "Fibo",
+  "trendline",
+  "cụm MA H4",
+  "heatmap thanh lý",
+  "BTC.D",
+  "USDT.D",
+  "Fear and Greed",
+  "volume"
+ ],
+ "tin_tuc": [
+  {
+   "tin": "Fed tăng lãi suất 0.25% (lên 3.75-4%), nói cuối năm còn ít nhất một lần tăng, khả năng tháng 10",
+   "danh_gia": "rất cứng rắn, outplay thị trường; thị trường phản ứng nhẹ nhõm vì 0.25 như dự kiến, sau đó sẽ 'sốt', con đường đến Q1 sẽ chông gai"
+  },
+  {
+   "tin": "BoJ có thể tăng lãi ngày mai",
+   "danh_gia": "không nghĩ ảnh hưởng nhiều"
+  }
+ ],
+ "thoi_quen": [
+  "đưa nhiều kịch bản để có plan dự phòng, không đoán",
+  "tuyệt đối không đi ngược xu hướng; counter trend phải có tín hiệu rõ (nến H4 đảo chiều, phân kỳ)",
+  "huỷ lệnh limit chờ tin sau khi reset nến D1",
+  "short ở dưới thì TP1 hoặc kéo SL về entry",
+  "không đoán, bám plan; luyện tâm lý để không phá kế hoạch"
+ ],
+ "cau_cua_mieng": [
+  "Đừng thấy hoa nở mà ngỡ xuân về",
+  "Mình mà đoán được thì mình không ngồi ở đây nữa đâu",
+  "Hồi là hồi chứ không phải tăng nhá"
+ ],
+ "altcoin": [
+  {
+   "coin": "BTC.D",
+   "huong": "GIAM",
+   "ghi": "điều chỉnh ngắn hạn H4 nên altcoin bay 5-10% sáng nay"
+  },
+  {
+   "coin": "USDT.D",
+   "huong": "TANG",
+   "ghi": "xu hướng tăng vẫn giữ cứng, nguy hiểm như Bitcoin"
+  },
+  {
+   "coin": "ETH",
+   "huong": "GIAM",
+   "ghi": "đẹp ở hỗ trợ D1/MA D1 nhưng chưa chắc, góc nhìn vẫn xấu; BTC về 73/68 thì ETH khoảng 2k (số mơ hồ)"
+  },
+  {
+   "coin": "Vàng",
+   "huong": "TANG",
+   "ghi": "ngắn hạn kéo lên kill quanh 4400 rồi gãy; trung hạn đáy rồi đi lên (không tính vào BTC)"
+  }
+ ],
+ "ghi_chu": "Không nêu giá BTC lúc nói. Các số 77.00[?] là biên 77.000-78.000. Ông nhấn kịch bản chỉ là một trong nhiều khả năng; H4 GIAM là nghiêng chính (đỉnh đáy thấp dần, hồi 77-78 thì bán), ngắn hạn có nhịp hồi lên 77-78.",
+ "hanh_dong": "dung_ngoai_cho_entry",
+ "chang_ke_tiep": {
+  "huong": "TANG",
+  "dich": [
+   77000,
+   78000
+  ]
+ },
+ "khung_lon_v2": {
+  "D1": "PHAN_VAN",
+  "W1": null
+ },
+ "pha_vo_gia": "Nhịp hồi sau tin Fed được gọi là kéo lên để kill short rồi mới xuống: 'quét 75, phục hồi theo thị trường, kéo lên tranh thủ kill short, kill cái đám FOMO đêm qua, rồi ngày mai mới sốt'; 'nhịp này vẫn cố rướn lên để kill short, đâu đó vùng 77.000'; 'Nếu thị trường căng thì nó có thể quét stop loss của short ở trên 78.000'.",
+ "nguon_nhan": "dap_an_v2 (Opus 5.5 rút mù 31/10)"
+}

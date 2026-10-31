@@ -1,0 +1,351 @@
+{
+  "buoi": "2026-04-08_l8hl1XtxPr4",
+  "ngay": "2026-04-08",
+  "gia_btc_luc_noi": 71000,
+  "moc": [
+    {
+      "gia": 68000,
+      "gia_tren": null,
+      "vai_tro": "nhac_lai",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": "00:01:45",
+      "chac": true,
+      "trich": "Ăn húp ngập mồm luôn, bắt ở 68"
+    },
+    {
+      "gia": 71000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "M5",
+      "can_cu": [
+        "Fibo 0.5"
+      ],
+      "moc_gio": "00:03:27",
+      "chac": true,
+      "trich": "dễ đi lên test lại khoảng Fibo 0.5... về lại khoảng 71.000"
+    },
+    {
+      "gia": 74000,
+      "gia_tren": null,
+      "vai_tro": "khac",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý"
+      ],
+      "moc_gio": "00:04:02",
+      "chac": false,
+      "trich": "Bắt đầu thanh lý 74"
+    },
+    {
+      "gia": 78000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": "00:04:31",
+      "chac": true,
+      "trich": "chia từ đây về đến 78 là đẹp"
+    },
+    {
+      "gia": 64000,
+      "gia_tren": null,
+      "vai_tro": "khac",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý"
+      ],
+      "moc_gio": "00:04:31",
+      "chac": true,
+      "trich": "Thanh lý phải 64 thì mới chắc kèo"
+    },
+    {
+      "gia": 75000,
+      "gia_tren": null,
+      "vai_tro": "tp",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": "00:06:12",
+      "chac": true,
+      "trich": "gồng lên khoảng độ 75.000 thôi"
+    },
+    {
+      "gia": 72000,
+      "gia_tren": null,
+      "vai_tro": "tp",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "đường MA H4 (không nói số)"
+      ],
+      "moc_gio": "00:07:18",
+      "chac": true,
+      "trich": "Long ở 68.000 chốt ở 72.000... nên chốt ở đường MA H4"
+    },
+    {
+      "gia": 91000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "Fibo kiểu FOMO"
+      ],
+      "moc_gio": "00:07:49",
+      "chac": false,
+      "trich": "FOMO nó lên 91 cơ"
+    },
+    {
+      "gia": 80000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "mô hình cốc tay cầm / 2 đáy",
+        "nền giá gần 3 tháng"
+      ],
+      "moc_gio": "00:14:19",
+      "chac": true,
+      "trich": "vùng 80 đối với nhịp này mà không lên được 80 thì mình cảm giác là nó phí"
+    },
+    {
+      "gia": 81000,
+      "gia_tren": 91000,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "Fibo mở rộng (không nói rõ mức)"
+      ],
+      "moc_gio": "00:15:26",
+      "chac": false,
+      "trich": "nếu đo Fibo này mình đo luôn cho anh em 81 91"
+    },
+    {
+      "gia": 71000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "vùng cản; đóng nến ngày trên 71"
+      ],
+      "moc_gio": "00:16:28",
+      "chac": true,
+      "trich": "đã phá qua vùng 71 và đóng nến ngày ở trên"
+    },
+    {
+      "gia": 74000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "vùng cản tiếp theo"
+      ],
+      "moc_gio": "00:16:28",
+      "chac": true,
+      "trich": "Vùng 74.000 là một vùng cản tiếp theo"
+    },
+    {
+      "gia": 68000,
+      "gia_tren": 70000,
+      "vai_tro": "khang_cu",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "vùng cản lần đầu lên gặp"
+      ],
+      "moc_gio": "00:17:31",
+      "chac": true,
+      "trich": "Cản 68 69 70, nó lên đến đây nó rụng xuống"
+    },
+    {
+      "gia": 67000,
+      "gia_tren": null,
+      "vai_tro": "nhac_lai",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "gap CME 67.000"
+      ],
+      "moc_gio": "00:17:31",
+      "chac": true,
+      "trich": "kỳ vọng là nó sẽ về đến 67.000... chỉ về đến 67.000"
+    },
+    {
+      "gia": 74000,
+      "gia_tren": 75000,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "MA H4 (không nói số) hội tụ với 74"
+      ],
+      "moc_gio": "00:18:06",
+      "chac": true,
+      "trich": "H4 đây 74.000 75.000 có một MA... gặp nhau ở trong vùng này 74 đến 75"
+    },
+    {
+      "gia": 72600,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "Fibo mở rộng 1.618"
+      ],
+      "moc_gio": "00:18:42",
+      "chac": true,
+      "trich": "Fibo 1.618 đúng ngay 72.600 rớt"
+    },
+    {
+      "gia": 69000,
+      "gia_tren": 70000,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "M5",
+      "can_cu": [
+        "Fibo mở rộng ngược, sóng điều chỉnh 71K→72K→69K"
+      ],
+      "moc_gio": "00:18:42",
+      "chac": true,
+      "trich": "trưa nó về 69.900 ... vùng 70, 69.007"
+    },
+    {
+      "gia": 69000,
+      "gia_tren": null,
+      "vai_tro": "tp",
+      "huong": "GIAM",
+      "khung": "M5",
+      "can_cu": [
+        "Fibo mở rộng sóng 71.000→72.000 giảm xuống",
+        "gap CME 69.000"
+      ],
+      "moc_gio": "00:21:00",
+      "chac": true,
+      "trich": "Fibo mở rộng về được khoảng tầm 69.000"
+    },
+    {
+      "gia": 71000,
+      "gia_tren": null,
+      "vai_tro": "sl",
+      "huong": "TANG",
+      "khung": "M5",
+      "can_cu": [],
+      "moc_gio": "00:25:14",
+      "chac": true,
+      "trich": "Long scalping SL thì chắc dưới 71 này là thoát long"
+    },
+    {
+      "gia": 69000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "gap CME 6900"
+      ],
+      "moc_gio": "00:25:47",
+      "chac": true,
+      "trich": "6900 lấp gap là hợp lý"
+    },
+    {
+      "gia": 72000,
+      "gia_tren": null,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý stop loss (Hyblock/Coinglass)"
+      ],
+      "moc_gio": "00:26:54",
+      "chac": true,
+      "trich": "có 69.000 và 69.200. Trên này vẫn còn ở 72.000"
+    },
+    {
+      "gia": 60000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "kịch bản sau CPI"
+      ],
+      "moc_gio": "00:29:12",
+      "chac": false,
+      "trich": "Bitcoin cắm về 60, 57, 54, 50"
+    },
+    {
+      "gia": 80000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": "00:28:38",
+      "chac": true,
+      "trich": "rất kỳ vọng thị trường đẩy luôn 80 trong nhịp này"
+    },
+    {
+      "gia": 64000,
+      "gia_tren": 65000,
+      "vai_tro": "khac",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý / heatmap (SL long 64)"
+      ],
+      "moc_gio": "00:38:07",
+      "chac": true,
+      "trich": "Dưới này vẫn có một vùng ở 64 65 nữa"
+    },
+    {
+      "gia": 67000,
+      "gia_tren": null,
+      "vai_tro": "vo_hieu",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "gap CME 67.000",
+        "đỉnh đáy cao dần"
+      ],
+      "moc_gio": "00:49:05",
+      "chac": true,
+      "trich": "đóng dưới 67.000 này là xấu"
+    },
+    {
+      "gia": 68000,
+      "gia_tren": null,
+      "vai_tro": "vo_hieu",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "xu hướng H4 đỉnh đáy cao dần"
+      ],
+      "moc_gio": "00:49:05",
+      "chac": true,
+      "trich": "Đóng dưới 68 là xấu, gãy mất xu hướng"
+    },
+    {
+      "gia": 69000,
+      "gia_tren": 69700,
+      "vai_tro": "entry",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "gap CME"
+      ],
+      "moc_gio": "00:50:12",
+      "chac": true,
+      "trich": "phải chờ về khoảng 69.000 đến 69.700"
+    }
+  ]
+}

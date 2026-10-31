@@ -1,0 +1,203 @@
+{
+ "buoi": "2026-09-18_1003_YPMgjMxL2io",
+ "ngay": "2026-09-18",
+ "gio_vn": "10:03",
+ "gia_btc_luc_noi": 77500,
+ "nhan_dinh": [
+  {
+   "khung": "H4",
+   "huong": "PHAN_VAN",
+   "do_chac": "thap",
+   "dich": null,
+   "han": null,
+   "han_gio": null,
+   "vo_hieu_khi": "nến H4 đóng trên 78.000",
+   "vo_hieu_cau_truc": {
+    "gia": 78000,
+    "khung": "H4",
+    "so_nen": 1,
+    "chieu": "dong_tren",
+    "cau": "Nếu H4 vượt qua được đoạn này và đóng lên, thì chúng ta có cơ hội thấy giá kéo lên trên 79; và trên 79 thì lúc đó mới tính đến chuyện test lại các vùng đỉnh như 81, 82 hay 90, nó phải vượt qua từng mốc."
+   },
+   "kich_ban_phu": null,
+   "duong_di": [
+    {
+     "huong": "TANG",
+     "dich": 77700
+    },
+    {
+     "huong": "GIAM",
+     "dich": 75000
+    }
+   ],
+   "doi_y": "Đầu buổi coi 77–78 là kháng cự, cấu trúc H4 vẫn sóng điều chỉnh (nghiêng giảm); sau khi nến H4 đóng mạnh lên trên 77 thì bảo 'phải nhảy tàu sale', không giữ vị thế bán, chỉ còn chờ xác nhận trên 78 (lên) hay dưới 77 (xuống) và đoán giá quét thanh khoản hai đầu 77.7 / 75.",
+   "ly_do": [],
+   "trich": "Có thể tí nữa nó sẽ điều chỉnh trong ngắn hạn, Bitcoin đấy. Nhưng vì cây H4 này nên tạm thời không nên cầm các vị thế ngược xu hướng nhá. H4 đóng thế này thì chắc phải nhảy tàu sale thôi. ... Tối nay mình đoán chắc nó sẽ về lụm vùng ở 75 này nhá. ... Hai đầu như này là khả năng nó húp hai đầu luôn.",
+   "nhan_v1": "GIAM"
+  },
+  {
+   "khung": "D1",
+   "huong": "GIAM",
+   "do_chac": "thap",
+   "dich": [
+    71000,
+    73000
+   ],
+   "han": "những ngày kế tiếp",
+   "han_gio": 72,
+   "vo_hieu_khi": "đóng/giữ trên 78.000-79.000; vượt 82-83 thì lên 92",
+   "kich_ban_phu": "đóng trên 78.000 qua cuối tuần thì tuần sau xác suất tăng; vượt 82-83 lên 92",
+   "ly_do": [
+    "nến ngày phục hồi lên MA nhưng chỉ là gặp hỗ trợ bật, chưa thể hiện gì khác",
+    "77-78 vẫn là kháng cự, đừng thấy hoa nở mà ngỡ xuân về",
+    "nếu thủng 72-71 thì về 60-62"
+   ],
+   "trich": "Nếu những ngày kế tiếp nó lên test ở đây rồi vẫn không thành công và tiếp tục giao dịch ở vùng dưới 77.000 thì xu hướng giảm vẫn còn... khoảng 73.000 cho đến 71.000.",
+   "doi_y": null,
+   "duong_di": null
+  },
+  {
+   "khung": "M5",
+   "huong": "GIAM",
+   "do_chac": "vua",
+   "dich": 77000,
+   "han": "từ giờ đến trưa",
+   "han_gio": 4,
+   "vo_hieu_khi": null,
+   "kich_ban_phu": "rồi mới gãy điều chỉnh xuống; 5 phút có thể điều chỉnh về chân cây volume 77.000",
+   "ly_do": [
+    "khối lượng vừa quét sạch, nhú xanh",
+    "rướn lên vừa khớp Fibo 0.618 và quét vùng thanh lý 77.7"
+   ],
+   "trich": "Mình nghĩ từ giờ đến trưa sẽ có những cú rướn lên đâu đó khoảng 77.00 [?], vừa khớp Fibo lẫn quét hết vùng này luôn rồi nó mới có khả năng gãy điều chỉnh xuống.",
+   "doi_y": null,
+   "duong_di": [
+    {
+     "huong": "TANG",
+     "dich": 77700
+    },
+    {
+     "huong": "GIAM",
+     "dich": 77000
+    }
+   ]
+  }
+ ],
+ "vung_gia": {
+  "khang_cu": [
+   77000,
+   78000
+  ],
+  "ho_tro": [
+   75000,
+   76000
+  ]
+ },
+ "lenh": [
+  {
+   "chieu": "LONG",
+   "vao": 78000,
+   "tp": [
+    82000,
+    90000
+   ],
+   "sl": null,
+   "trang_thai": "de_xuat_moi"
+  },
+  {
+   "chieu": "SHORT",
+   "vao": 77000,
+   "tp": [
+    73000,
+    71000
+   ],
+   "sl": null,
+   "trang_thai": "de_xuat_moi"
+  },
+  {
+   "chieu": "LONG",
+   "vao": 77000,
+   "tp": [
+    77700
+   ],
+   "sl": null,
+   "trang_thai": "de_xuat_moi"
+  }
+ ],
+ "nhin_lai_truoc": "Hôm qua đã nói hạn chế short 76, phải chờ vùng cao hơn vì dễ bị quét lên; nhịp tăng hiện tại không ngoài dự đoán.",
+ "cong_cu": [
+  "H4",
+  "D1",
+  "MA200 H4",
+  "Fibo 0.5",
+  "Fibo 0.618",
+  "biểu đồ thanh lý",
+  "BTC.D",
+  "USDT.D",
+  "DXY",
+  "Fear and Greed",
+  "volume"
+ ],
+ "tin_tuc": [
+  {
+   "tin": "Fed lãi suất",
+   "danh_gia": "gây biến động mạnh nhưng biên độ 1000 giá là bình thường; thị trường quên tin xấu sau 1-2 nến"
+  },
+  {
+   "tin": "SEC cho token hóa cổ phiếu 1:1",
+   "danh_gia": "tích cực nhưng từ cho phép đến có dòng vốn mất thời gian; tin ra để kéo tâm lý, phục hồi chứ không có nghĩa là tăng"
+  },
+  {
+   "tin": "Clarity Act bị từ chối",
+   "danh_gia": "sau đó có tin tích cực kéo lại, không ngẫu nhiên"
+  }
+ ],
+ "thoi_quen": [
+  "chờ H4 đóng mới quyết",
+  "ở vùng 77-78 không quyết vội, chờ trên 78 hoặc dưới 77",
+  "scalping BTC SL tối thiểu khoảng 1000 giá",
+  "kéo SL về entry khi lệnh đã lãi",
+  "DCA nhỏ giọt để triệt tiêu tâm lý",
+  "không short cản tàu, không FOMO long altcoin bay",
+  "thứ sáu tối thị trường hay đảo chiều, thận trọng"
+ ],
+ "cau_cua_mieng": [
+  "đừng thấy hoa nở mà ngỡ xuân về",
+  "Có tiền thì nhớ chốt, có lãi nhớ cắt",
+  "tâm lý thì không bao giờ thay đổi"
+ ],
+ "altcoin": [
+  {
+   "coin": "BTC.D",
+   "huong": "GIAM",
+   "ghi": "gãy trendline H4 và D1 nên altcoin hồi; khi BTC.D hồi lên altcoin dễ cắm"
+  },
+  {
+   "coin": "USDT.D",
+   "huong": "TANG",
+   "ghi": "chưa phá xu hướng tăng, xác suất giảm của BTC vẫn còn"
+  },
+  {
+   "coin": "ETH",
+   "huong": "GIAM",
+   "ghi": "khó về đáy mùa trước, căng lắm kéo về khoảng 1100-1300 (số mơ hồ)"
+  },
+  {
+   "coin": "AVAX",
+   "huong": "TANG",
+   "ghi": "chốt TP1 ở 7.9, TP2 test 8 hoặc 8.2, SL về entry"
+  }
+ ],
+ "ghi_chu": "Số 77.00[?]/77.7 mơ hồ trong bản gốc (77.00x). Không có lệnh BTC mới; nhắc lệnh short dài hạn từ 125.000. Hướng H4/D1 độ chắc thấp vì ông nhấn 'không nên đoán', chờ 77/78.",
+ "hanh_dong": "dung_ngoai_vi_lap_lung",
+ "chang_ke_tiep": {
+  "huong": "TANG",
+  "dich": 77700
+ },
+ "khung_lon_v2": {
+  "D1": "PHAN_VAN",
+  "W1": null
+ },
+ "pha_vo_gia": "Không gọi tên phá vỡ giả cho BTC (câu 'Nhịp này coi như cũng fake out rồi' là nói ETH). Với BTC chỉ dự báo quét thanh khoản hai đầu: rướn lên ~77.700 'lên lấy liquid' rồi tối/đêm 'về lụm vùng ở 75'; 'Tối nay thứ sáu coi chừng: đi kiếm cả ngày, tối nay nó thu phí lại đấy'.",
+ "nguon_nhan": "dap_an_v2 (Opus 5.5 rút mù 31/10)"
+}

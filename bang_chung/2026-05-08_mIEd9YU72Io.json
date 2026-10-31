@@ -1,0 +1,202 @@
+[
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[0].trich",
+  "trich": "Thị trường vẫn đang điều chỉnh và trước mắt dữ liệu cho thấy khả năng điều chỉnh này vẫn còn cho nên không có long.",
+  "giay": 350,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=mIEd9YU72Io&t=350s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[1].trich",
+  "trich": "Khung ngày mình nói xấu mặc dù xu hướng ở khung ngày vẫn là xu hướng tăng... việc nó gãy sập luôn ở đây thì mình nghĩ chưa hẳn đâu.",
+  "giay": 1300,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=mIEd9YU72Io&t=1300s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[2].trich",
+  "trich": "Từ giờ đến tí nữa nó sẽ kéo lên khoảng 80.000 rồi lại gãy về khoảng 79.000.",
+  "giay": 1996,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=mIEd9YU72Io&t=1996s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "lenh[0].trich",
+  "trich": "Short 79k8 này thì lãi rồi... Cứ short về đâu đó khoảng 79 hoặc 78k8 thì tối đa về cái vùng đó chúng ta chốt được.",
+  "giay": 392,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=mIEd9YU72Io&t=392s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "lenh[1].trich",
+  "trich": "Bot short phải khớp vùng trên nhiều thì mới lãi nhiều. ROI ở đây là 11%.",
+  "giay": 287,
+  "do_giong": 0.75,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=mIEd9YU72Io&t=287s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "lenh[2].trich",
+  "trich": "Vùng quan sát phản ứng của nến 30 phút hoặc H1; data thanh lý quét hết hoặc chuyển đỏ thì dò từng bước.",
+  "giay": null,
+  "do_giong": 0.522,
+  "nguon_gio": "khong_tim_thay",
+  "url": null,
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[0].trich",
+  "trich": "Short 79k8 này thì lãi rồi, 79k7 79k8",
+  "giay": 392,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=mIEd9YU72Io&t=392s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[1].trich",
+  "trich": "Cứ short về đâu đó khoảng 79 hoặc 78k8 thì tối đa về cái vùng đó chúng ta chốt được",
+  "giay": 399,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=mIEd9YU72Io&t=399s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[2].trich",
+  "trich": "vùng trên này là vùng hợp lưu rất nhiều cản, vừa MA200 ở trên khung ngày, vừa Fibo thoái lui 0.618, vừa là cái gap này",
+  "giay": 1148,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=mIEd9YU72Io&t=1148s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[3].trich",
+  "trich": "cái gap 83 này nó vẫn còn 1000 giá nữa mới lấp",
+  "giay": 1323,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=mIEd9YU72Io&t=1323s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[4].trich",
+  "trich": "Lên đây mà thấy không ổn thì sẽ chừa gap 90 lại cho mùa sau, cho năm 2028",
+  "giay": 1893,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=mIEd9YU72Io&t=1893s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[5].trich",
+  "trich": "H4 đóng cửa trên vùng 80.00 cho đến 80.005, tức là trên MA34 thì mới có cửa để lên 90, hay có cửa để lên 83",
+  "giay": 1543,
+  "do_giong": 0.964,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=mIEd9YU72Io&t=1543s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[6].trich",
+  "trich": "78 cho đến 79. Đây là vùng vừa là Fibo ... vừa là MA vừa là Fibo thoái lui. Cộng với đó là dữ liệu Liquid",
+  "giay": 1630,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=mIEd9YU72Io&t=1630s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[7].trich",
+  "trich": "nếu H4 đóng thủng vùng 78 thì mình đánh giá khoảng 65% là không ổn rồi",
+  "giay": 1766,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=mIEd9YU72Io&t=1766s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[8].trich",
+  "trich": "thực sự confirm thì phải gãy khỏi khung ngày, gãy khỏi vùng 74.000 này",
+  "giay": 1776,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=mIEd9YU72Io&t=1776s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[9].trich",
+  "trich": "đi xuống khoảng 70.000. Nó phải về quanh 70 71 gì đó mới tính tiếp được",
+  "giay": 1791,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=mIEd9YU72Io&t=1791s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[10].trich",
+  "trich": "gap chúng ta vẫn còn một gap nhỏ ở 78.000 ... về trạm Fibo 0.618 là ở quanh 78.000, sau đó rút lên thì cũng vừa lấp gap nhỏ này",
+  "giay": 1866,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=mIEd9YU72Io&t=1866s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[11].trich",
+  "trich": "ở vùng sáu mấy này, 62, 65, khả năng nó lên trên này là có ... stop loss của chúng ta cũng ngắn",
+  "giay": 1050,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=mIEd9YU72Io&t=1050s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[12].trich",
+  "trich": "gap 78, gap 70, gap 67, gap 90, gap 22 nữa",
+  "giay": 2029,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=mIEd9YU72Io&t=2029s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[13].trich",
+  "trich": "mình nghĩ tháng 8 Bitcoin sẽ có giá dưới 50.000. Mình có linh cảm như vậy",
+  "giay": 3016,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=mIEd9YU72Io&t=3016s",
+  "anh": []
+ }
+]

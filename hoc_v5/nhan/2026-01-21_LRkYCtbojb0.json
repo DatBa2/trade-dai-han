@@ -1,0 +1,544 @@
+{
+  "buoi": "2026-01-21_LRkYCtbojb0",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/zip_clean/2026-01-21_LRkYCtbojb0.txt",
+  "gia_btc_luc_noi": 88400,
+  "dau_buoi": {
+    "thien_huong_h4": "GIAM",
+    "gio": "[00:11:14]",
+    "trich": "Bây giờ chúng ta sẽ view vùng gì tầm này? Tầm này nhìn dễ quá, gãy xu hướng. Bây giờ gần như nó confirm cho câu chuyện này."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "GIAM",
+    "do_chac": "vua",
+    "gio": "[00:58:31]",
+    "trich": "Hôm nay đừng short FOMO quá mà coi chừng short đáy. Hôm nay khả năng cũng dễ hồi. Hồi nhẹ lên khoảng vài nghìn giá nhưng hồi lên rất nhanh."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {
+    "huong": "TANG",
+    "dich": [
+      91000,
+      92000
+    ]
+  },
+  "duong_di": [
+    {
+      "huong": "TANG",
+      "dich": [
+        91000,
+        92000
+      ]
+    },
+    {
+      "huong": "GIAM",
+      "dich": 80000
+    }
+  ],
+  "dich_chinh": 80000,
+  "han_gio": null,
+  "vo_hieu": null,
+  "lenh": [
+    {
+      "chieu": "SHORT",
+      "vao": null,
+      "tp": 88100,
+      "sl": null,
+      "trang_thai": "da_dong"
+    },
+    {
+      "chieu": "LONG",
+      "vao": [
+        88000,
+        88800
+      ],
+      "tp": [
+        91000,
+        93000
+      ],
+      "sl": 86000,
+      "trang_thai": "de_xuat_moi"
+    },
+    {
+      "chieu": "SHORT",
+      "vao": [
+        91000,
+        92000
+      ],
+      "tp": null,
+      "sl": null,
+      "trang_thai": "de_xuat_moi"
+    }
+  ],
+  "hanh_dong": "dung_ngoai_cho_entry",
+  "khung_lon": {
+    "D1": "Nến ngày full lực bán, volume lớn, đóng ~89 dưới 90 → thủng trendline mô hình cờ giảm, 'thủng tất cả hỗ trợ', ~80% confirm mô hình cờ → mục tiêu 63k. Nếu hôm nay D1 đóng xanh (93-94) thì phải quan sát thêm 1 ngày vì có thể là fake breakout.",
+    "W1": "Mô hình vai đầu vai khung tuần đang hình thành (vai phải là nhịp hồi lên 97-98); về dưới đường cổ thì biên giảm bằng biên từ trend lên đầu → ~55k. Tuần này đóng nến tuần đỏ thì khả năng đi xuống cao; lên lại 100k chỉ 10-15%."
+  },
+  "pha_vo_gia": "Nếu nến D1 hôm nay đóng xanh trở lại (93-94) thì có thể là fake breakout (giả vờ gãy): giá có thể lên tận 100k để hợp lý hóa đường giá/test MA và quét stop loss short rồi mới sập (xác suất 10-15%). Tối nay có thể lợi dụng tin Trump phát biểu đẩy lên quét stop loss rồi đấm về.",
+  "nhin_lai_view_truoc": {
+    "view_truoc": "GIAM",
+    "giu_hay_doi": "giu",
+    "vi_sao": "Chạm đích: gap 88 đã lấp, short TP 88.1k; nến D1 đóng ~89 dưới 90 đúng điều kiện hôm qua nói → thủng trendline mô hình cờ, xu hướng giảm được confirm. Nhưng động lực giảm ngắn hạn gần hết và đám đông đổ xô short nên hôm nay đổi chiến thuật: đánh linh hoạt hai đầu, chờ hồi 91-92 mới short lại.",
+    "gio": "[00:17:43]",
+    "trich": "Hôm qua mình nói vùng 90, hôm qua có nói với anh em một yếu tố nếu cây nến ngày mà đóng dưới vùng 90 thì gần như là confirm và hiện tại nó thủng luôn trendline đóng về 89 chứ không phải 90 nữa. Anh em thấy rất là xấu đối với nến ngày như thế này."
+  },
+  "trendline": [
+    {
+      "khung": "D1",
+      "loai": "kenh",
+      "noi_tu": "Trendline cạnh dưới mô hình cờ giảm khung ngày (vẽ lại 'cờ nó phải vẽ như này mới đúng'); vùng hỗ trợ cũ quanh 90k. Không nói điểm neo cụ thể.",
+      "diem_neo": [],
+      "gia_duong_luc_noi": null,
+      "trang_thai": "vua_pha",
+      "dieu_kien_pha": "Nến D1 đóng dưới 90 (đã xảy ra: đóng ~89, volume lớn); nếu hôm nay D1 đóng xanh lại 93-94 thì quan sát thêm vì có thể fake breakout",
+      "ket_luan_huong": "GIAM",
+      "gio": "[00:17:43]",
+      "trich": "Khung ngày nếu nó chạy theo mô hình cờ này thì phê luôn. Cờ nó phải vẽ như này mới đúng. Hiện tại nó đã break out rồi, đã break ra khỏi trendline này rồi. Anh em nhìn cây nến ngày như thế này mà đòi đi long thì chắc cũng nát người. Nhìn volume này, volume lớn chứ đâu phải ít. Và đóng một cây full lực bán như thế này. Thủng tất cả hỗ trợ rồi. Hôm qua mình nói vùng 90, hôm qua có nói với anh em một yếu tố nếu cây nến ngày mà đóng dưới vùng 90 thì gần như là confirm và hiện tại nó thủng luôn trendline đóng về 89 chứ không phải 90 nữa."
+    },
+    {
+      "khung": "W1",
+      "loai": "khac",
+      "noi_tu": "Đường cổ mô hình vai đầu vai khung tuần (vai phải = nhịp hồi 97-98k gần đây; đầu lệch, không cần ở trung tâm). Không nói giá đường cổ; người nói ví dụ khi giá về ~80k trong 1-2 tuần thì ai cũng thấy mô hình này.",
+      "diem_neo": [],
+      "gia_duong_luc_noi": null,
+      "trang_thai": "chua_pha",
+      "dieu_kien_pha": "Giá về dưới đường cổ / nến tuần này đóng đỏ thì khả năng đi xuống cao",
+      "ket_luan_huong": "GIAM",
+      "gio": "[00:13:30]",
+      "trich": "Khi các bạn nhìn vào mô hình khung tuần này, đến khi nó về dưới này thì các bạn sẽ nhìn thấy mô hình vai đầu vai trên khung tuần. Khi nó confirm vai đầu vai này. Mình phải dùng mô hình vai đầu vai thì nó mới đúng. Head and shoulders này. Hiện tại nếu sau này nó chạy xuống đây nó sẽ confirm mô hình vai đầu vai. Và gãy xuống thì biên lợi nhuận của một nhịp vai đầu vai cũng bằng với biên của trend này lên đầu."
+    }
+  ],
+  "nen_volume": [
+    {
+      "khung": "H1",
+      "nen": "Hai cây H1 sáng nay (sau khi quét đáy gap 88)",
+      "volume": null,
+      "ket_luan": "Bắt kịp thì long ăn thêm ~600 giá",
+      "gio": "[00:02:28]",
+      "trich": "Nếu lúc sáng bắt kịp cây H1 này thì vào được. Hai cây H1 này vào bắt long ăn được thêm khoảng tầm 600 giá."
+    },
+    {
+      "khung": "D1",
+      "nen": "Nến ngày đỏ full lực bán, thủng tất cả hỗ trợ, đóng ~89",
+      "volume": "Volume lớn chứ không ít",
+      "ket_luan": "Xu hướng bắt đầu có khả năng đảo chiều giảm; đòi long là 'nát người'",
+      "gio": "[00:17:43]",
+      "trich": "Anh em nhìn cây nến ngày như thế này mà đòi đi long thì chắc cũng nát người. Nhìn volume này, volume lớn chứ đâu phải ít. Và đóng một cây full lực bán như thế này. Thủng tất cả hỗ trợ rồi."
+    },
+    {
+      "khung": "D1",
+      "nen": "Nếu nến ngày hôm nay đóng xanh ở 93-94",
+      "volume": null,
+      "ket_luan": "Quan sát thêm một ngày + hình thái nến; có thể fake breakout",
+      "gio": "[00:18:50]",
+      "trich": "Nếu cây nến ngày hôm nay đóng cây màu xanh và mình cũng nghĩ khả năng nó đóng cây màu xanh thật. Nó đóng ở 94 hay 93. Nếu cây này màu xanh thì chúng ta sẽ quan sát tiếp thêm một ngày nữa."
+    },
+    {
+      "khung": "W1",
+      "nen": "Nến tuần này đóng đỏ (fail ở vai phải)",
+      "volume": null,
+      "ket_luan": "Khả năng đi xuống cao",
+      "gio": "[00:15:07]",
+      "trich": "Nhưng trong trường hợp nó fail, ví dụ tuần này nó đóng cây nến tuần ở đây màu đỏ thì khả năng nó đi xuống là cao."
+    },
+    {
+      "khung": "H4",
+      "nen": "H4 đóng xanh",
+      "volume": null,
+      "ket_luan": "Có sóng hồi nhẹ, không short ở đây",
+      "gio": "[00:23:14]",
+      "trich": "Nếu cây H4 này đóng màu xanh thì khả năng có sóng hồi nhẹ ở đoạn này. Hiện tại vẫn đang hồi tốt cho nên không việc gì chúng ta đi short ở đây hết."
+    },
+    {
+      "khung": "H4",
+      "nen": "H4 đóng xanh tạo cặp đảo chiều",
+      "volume": null,
+      "ket_luan": "Thường điều chỉnh một pha về Fibo rồi mới lên; lên chạm ~89k rồi về 88-88.8 tìm nến đảo chiều để long",
+      "gio": "[00:48:00]",
+      "trich": "Cây H4 này đóng màu xanh rồi anh em ơi. Cây này đóng là một cặp đảo chiều rồi. Cặp này thông thường khả năng nó sẽ điều chỉnh một pha về Fibo rồi mới lên."
+    },
+    {
+      "khung": "H1",
+      "nen": "Nến 30 phút đóng qua 90",
+      "volume": null,
+      "ket_luan": "Đi mô hình V, lên luôn không quay về test",
+      "gio": "[00:50:13]",
+      "trich": "Trong trường hợp nó đóng cây 30 phút qua khỏi vùng 90 này, thì khả năng nó đi lên luôn, không quay về test. Và lúc này nó sẽ đi mô hình V."
+    }
+  ],
+  "cach_lam": [
+    {
+      "hanh_dong": "ke",
+      "cong_cu": "khac",
+      "chi_tiet": "Gap CME 88 ở 88.002 → đặt TP 88.000-88.100 để giá quét qua vài trăm giá; gap 89 đã lấp; gap 93 còn",
+      "ket_qua": "Gap 88 lấp, còn gap nhỏ 93 phía trên",
+      "gio": "[00:27:03]",
+      "trich": "Lý do hôm qua cho anh em TP1 ở 88, TP2 ở 8800. Bởi vì mình xem cái gap này nằm ở 88.002. Thì đặt 8800 bởi vì khi nó quét qua khoảng vài trăm giá, xem thử có ăn được không. Bây giờ chúng ta có một cái gap nhỏ đây. Gap hiện tại gap 89 này lấp luôn rồi. Còn gap tiếp theo nằm ở 93 này"
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "heatmap",
+      "chi_tiet": "Liquidation map: xem lệnh mở lúc nào",
+      "ket_qua": "Liquid 86.3k (long mới mở ở 87k), nhiều liquid 92k mở từ trưa qua",
+      "gio": "[00:07:21]",
+      "trich": "Khả năng về tiếp vùng 86.300 quét thanh khoản. Có thanh khoản này nhưng tụi lệnh long này mới mở lúc nó về 87.000, chứ 86.000 chưa thấy đâu. Bây giờ liquid khá là nhiều ở trên 892 này. Tụi 92 này là tụi được mở sớm, mở từ trưa ngày hôm qua lúc ở 91"
+    },
+    {
+      "hanh_dong": "ve",
+      "cong_cu": "trendline",
+      "chi_tiet": "Vẽ lại mô hình cờ giảm khung ngày",
+      "ket_qua": "Đã break khỏi trendline; nếu chạy hết mô hình → 63k",
+      "gio": "[00:12:55]",
+      "trich": "Nếu nó đi theo mô hình cờ này mà hiện tại nó đang khoảng tầm độ 80% là confirm chạy tiếp mô hình cờ đó. Mặc dù mình không muốn đưa đến những thứ xấu cho mọi người nhưng thị trường có cái gì chúng ta phải nhìn nhận khách quan như vậy. Trong trường hợp nếu nó đi mô hình này thì 63."
+    },
+    {
+      "hanh_dong": "do",
+      "cong_cu": "khac",
+      "chi_tiet": "Vẽ vai đầu vai khung tuần, đo biên = khoảng từ trend lên đầu",
+      "ket_qua": "Mục tiêu ~55k",
+      "gio": "[00:14:03]",
+      "trich": "Và gãy xuống thì biên lợi nhuận của một nhịp vai đầu vai cũng bằng với biên của trend này lên đầu. Lên quanh khoảng độ tầm này hoặc tầm này. Cũng khá khớp với nhau."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "ema",
+      "chi_tiet": "MA34 30 phút đã test 1-2 nhịp; MA89 30 phút ~90-91; H4 sắp cross MA34/89 ~91-92; MA89/MA200 30 phút ~91-92",
+      "ket_qua": "Hồi lên 91-92 rồi mới sập; short lại phải chờ quét lên MA89 + nến đẹp",
+      "gio": "[00:24:19]",
+      "trich": "Anh em thấy cross MA chuẩn bị xuất hiện, giao cắt MA34 và 89. Nhưng nó có thể kéo lên gần khu vực giao cắt này 9192 rồi mới sập tiếp. Hơn nữa bên này chúng ta có một vùng liquid ở 91, 93, 92 cũng hợp lý. 30 phút cũng chưa hề test MA89 hoặc MA200 cũng là 9192."
+    },
+    {
+      "hanh_dong": "do",
+      "cong_cu": "fibo_thoai_lui",
+      "chi_tiet": "Sau khi giá lên chạm ~89k rồi giảm, kéo Fibo 50/618 của nhịp lên",
+      "ket_qua": "Vùng chờ long 88.0-88.8k, tìm nến đảo chiều",
+      "gio": "[00:48:34]",
+      "trich": "Ví dụ nó lên đây sẽ đảo chiều nhẹ xuống, chúng ta canh theo Fibo khoảng Fibo 50 hoặc Fibo 618. Ví dụ tí nữa nó lên đến 89.007 sau đó giảm xuống thì các bạn chờ quanh vùng từ 88.008 cho đến 88.000."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "Fear & Greed: mua 1x-2x, bán 4x-7x, tuân thủ theo chỉ số chứ không theo thời gian",
+      "ket_qua": "Không dùng để lướt",
+      "gio": "[00:29:20]",
+      "trich": "Chỉ số này không phải là chỉ báo dùng để đánh lướt hay đánh spot, nó chỉ là tâm lý thị trường và nguyên tắc chúng ta mua và bán theo nó. Là theo chỉ số chứ không theo thời gian."
+    }
+  ],
+  "vung_nguoi_do": [
+    {
+      "loai": "dich",
+      "tu": 93000,
+      "den": 93000,
+      "gio": "[00:01:23]",
+      "trich": "Đang có một cái gap trên, nhịp này chắc đang đi lên để lấp gap. Trên này chúng ta vẫn có một cái gap nhỏ ở 93."
+    },
+    {
+      "loai": "tp",
+      "tu": 88100,
+      "den": 88100,
+      "gio": "[00:01:54]",
+      "trich": "Cái lệnh short đêm qua TP ở 88.100"
+    },
+    {
+      "loai": "tp",
+      "tu": 92000,
+      "den": 92000,
+      "gio": "[00:03:37]",
+      "trich": "TP1 ở giá hiện tại. TP2 mà bạn gồng lên luôn, lấp gap ở trên kia 92 luôn. 90 làm gì."
+    },
+    {
+      "loai": "tp",
+      "tu": 89000,
+      "den": 90000,
+      "gio": "[00:04:14]",
+      "trich": "Cho TP1 ở 90, 89.00, lại TP2 là 88.00"
+    },
+    {
+      "loai": "dich",
+      "tu": 86300,
+      "den": 86300,
+      "gio": "[00:07:21]",
+      "trich": "Khả năng về tiếp vùng 86.300 quét thanh khoản."
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 92000,
+      "den": 92000,
+      "gio": "[00:07:21]",
+      "trich": "Tụi 92 này là tụi được mở sớm, mở từ trưa ngày hôm qua lúc ở 91"
+    },
+    {
+      "loai": "dich",
+      "tu": 63000,
+      "den": 63000,
+      "gio": "[00:12:55]",
+      "trich": "Trong trường hợp nếu nó đi mô hình này thì 63."
+    },
+    {
+      "loai": "dich",
+      "tu": 80000,
+      "den": 80000,
+      "gio": "[00:15:38]",
+      "trich": "Ví dụ khoảng độ một hai tuần nữa nó về 80.000."
+    },
+    {
+      "loai": "dich",
+      "tu": 55000,
+      "den": 55000,
+      "gio": "[00:16:11]",
+      "trich": "Khi giả sử nó về đây thì 1000 thằng có đến 100 thằng nhìn vai đầu vai và nó sẽ cho anh em về là 55.000."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 90000,
+      "den": 90000,
+      "gio": "[00:17:43]",
+      "trich": "nếu cây nến ngày mà đóng dưới vùng 90 thì gần như là confirm"
+    },
+    {
+      "loai": "dich",
+      "tu": 93000,
+      "den": 93000,
+      "gio": "[00:18:18]",
+      "trich": "Bây giờ những nhịp này có thể nó lên lại khoảng đâu đó 93 là chuyện bình thường nhưng xu hướng không thay đổi."
+    },
+    {
+      "loai": "dich",
+      "tu": 100000,
+      "den": 100000,
+      "gio": "[00:21:32]",
+      "trich": "Và trường hợp nó lên 100.000, cá nhân mình đánh giá bây giờ nó rơi vào khoảng 10 đến 12 15% thôi."
+    },
+    {
+      "loai": "vao",
+      "tu": 90000,
+      "den": 91000,
+      "gio": "[00:23:47]",
+      "trich": "Nếu muốn short lại thì sẽ phải chờ nó quét lên lại MA89. Ở đây là khoảng 91 hoặc 90 91 gì đó. Và có nến đẹp thì mới short được"
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 91000,
+      "den": 92000,
+      "gio": "[00:24:19]",
+      "trich": "Nhưng nó có thể kéo lên gần khu vực giao cắt này 9192 rồi mới sập tiếp."
+    },
+    {
+      "loai": "dich",
+      "tu": 91000,
+      "den": 92000,
+      "gio": "[00:27:35]",
+      "trich": "Mình nghĩ khả năng thị trường sẽ có nhịp hồi đến đâu đó khoảng từ 91 đến 92 rất là cao."
+    },
+    {
+      "loai": "dich",
+      "tu": 89000,
+      "den": 89000,
+      "gio": "[00:48:00]",
+      "trich": "Nhịp này khả năng nó lên chạm cái 8900 này."
+    },
+    {
+      "loai": "vao",
+      "tu": 88000,
+      "den": 88800,
+      "gio": "[00:48:34]",
+      "trich": "thì các bạn chờ quanh vùng từ 88.008 cho đến 88.000. Ở quanh vùng này chờ vào trong vùng này, bắt đầu tìm nến đảo chiều"
+    },
+    {
+      "loai": "sl",
+      "tu": 86000,
+      "den": 86000,
+      "gio": "[00:49:08]",
+      "trich": "Ví dụ chúng ta long ở đây thì stop loss kéo xa xa dưới này tí, ví dụ 8600, thấp hơn đáy này khoảng 1000 1200 giá."
+    },
+    {
+      "loai": "sl",
+      "tu": 88000,
+      "den": 88000,
+      "gio": "[00:49:08]",
+      "trich": "Hoặc nếu đánh M5 thì phải chấp nhận hai stop loss. Một là ở đây 8800 còn chờ nó quét về 87 này bắt lại thêm lệnh khác."
+    },
+    {
+      "loai": "vao",
+      "tu": 88600,
+      "den": 88600,
+      "gio": "[00:49:38]",
+      "trich": "Nếu nó lên được 8900 sau đó điều chỉnh về khoảng 88.600 thì TP sẽ rơi vào khoảng 92, 9192."
+    },
+    {
+      "loai": "tp",
+      "tu": 91000,
+      "den": 91000,
+      "gio": "[00:49:38]",
+      "trich": "Tất nhiên ở vùng 9100 các bạn TP1, TP2 ở 9200 300."
+    },
+    {
+      "loai": "tp",
+      "tu": 92000,
+      "den": 93000,
+      "gio": "[00:49:38]",
+      "trich": "TP2 ở 9200 300."
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 90000,
+      "den": 90000,
+      "gio": "[00:50:13]",
+      "trich": "Trong trường hợp nó đóng cây 30 phút qua khỏi vùng 90 này, thì khả năng nó đi lên luôn, không quay về test."
+    }
+  ],
+  "view_trung_han": [
+    {
+      "khung": "D1",
+      "huong": "GIAM",
+      "dich": 63000,
+      "han": null,
+      "mat_view_khi": "Không nêu điều kiện sai; nếu nến D1 đóng xanh trở lại 93-94 thì quan sát thêm 1 ngày vì có thể fake breakout (kể cả lên 100k cũng chỉ là quét SL rồi sập)",
+      "gio": "[00:12:55]",
+      "trich": "Nếu nó đi theo mô hình cờ này mà hiện tại nó đang khoảng tầm độ 80% là confirm chạy tiếp mô hình cờ đó. Mặc dù mình không muốn đưa đến những thứ xấu cho mọi người nhưng thị trường có cái gì chúng ta phải nhìn nhận khách quan như vậy. Trong trường hợp nếu nó đi mô hình này thì 63."
+    },
+    {
+      "khung": "W1",
+      "huong": "GIAM",
+      "dich": 55000,
+      "han": "ví dụ 1-2 tuần nữa về 80k (đường cổ)",
+      "mat_view_khi": null,
+      "gio": "[00:15:38]",
+      "trich": "Ví dụ khoảng độ một hai tuần nữa nó về 80.000. Mình thưa với anh em là lúc này cái view vai đầu vai của bạn, bạn lên trên thị trường cả nghìn thằng đều view được câu chuyện vai đầu vai đấy. Khi giả sử nó về đây thì 1000 thằng có đến 100 thằng nhìn vai đầu vai và nó sẽ cho anh em về là 55.000."
+    },
+    {
+      "khung": "M1",
+      "huong": "GIAM",
+      "dich": null,
+      "han": "năm 2026 là chu kỳ giảm; ~11 tháng nữa view lại; tích súng đạn chờ ~1 năm tới cuối năm",
+      "mat_view_khi": null,
+      "gio": "[00:20:29]",
+      "trich": "bởi vì bây giờ chúng ta đã bắt đầu qua năm 2026 rồi. 2026 đi một chu kỳ giảm. Sau này đến thời điểm này của sang năm tức là khoảng 11 tháng nữa nếu anh em mình còn livestream với nhau thì anh em có thể view lại"
+    }
+  ],
+  "vung_tranh": [
+    {
+      "tu": 88000,
+      "den": 88000,
+      "vi_sao": "Gap 88 đã lấp, giá xa MA → không FOMO short/short đuổi ở đây, rất dễ hồi (short đáy)",
+      "gio": "[00:01:23]",
+      "trich": "Cho nên tầm này mà ông nào đi FOMO short, gap dưới này lấp rồi. Tầm này mà đi FOMO short thì coi chừng."
+    },
+    {
+      "tu": null,
+      "den": 91000,
+      "vi_sao": "Tỉ lệ hồi lên 91-92 rất cao; chưa tới 91-92 thì đừng short sớm",
+      "gio": "[00:27:35]",
+      "trich": "Từ 91 đến 92 quanh vùng đó thì anh em đừng có short sớm."
+    },
+    {
+      "tu": null,
+      "den": null,
+      "vi_sao": "Không ăn/gồng nhịp long lớn từ đây lên 100k (chỉ 10-15%), có thì chỉ lướt rất ngắn",
+      "gio": "[00:20:59]",
+      "trich": "Không nên ăn nhịp long từ đây lên trên này. Nếu có thì đánh lướt rất ngắn."
+    }
+  ],
+  "giu_dong": [
+    {
+      "lenh": "Short BTC đêm qua (người nói)",
+      "quyet_dinh": "dong",
+      "khi_nao": "TP1 89-90k; TP2 88.0-88.1k (ngay trên gap 88.002, cho giá quét qua vài trăm giá)",
+      "gio": "[00:04:14]",
+      "trich": "Set TP2 ở 88.100 là sáng nay ngủ dậy thấy giá 8800 là mình biết khả năng là bay rồi. Cho TP1 ở 90, 89.00, lại TP2 là 88.00"
+    },
+    {
+      "lenh": "Long BTC 88.3k (người xem)",
+      "quyet_dinh": "chot_mot_phan",
+      "khi_nao": "TP1 ngay giá hiện tại; TP2 gồng tới lấp gap ~92k",
+      "gio": "[00:03:37]",
+      "trich": "Đang có lệnh long 88k3 TP1 ở 90 có hợp lý không? TP1 ở giá hiện tại. TP2 mà bạn gồng lên luôn, lấp gap ở trên kia 92 luôn."
+    },
+    {
+      "lenh": "Lệnh có lãi nói chung",
+      "quyet_dinh": "chot_mot_phan",
+      "khi_nao": "TP1 phải ăn để có lãi, TP2 thả",
+      "gio": "[00:04:14]",
+      "trich": "TP1 là phải ăn cho nó có tí lãi. Rồi sau đó TP2 thả giống như hôm qua."
+    },
+    {
+      "lenh": "Vị thế spot/lướt đang giữ",
+      "quyet_dinh": "dong",
+      "khi_nao": "Tận dụng các nhịp hồi tăng để xử lý ngay; phải có kế hoạch thoát trước",
+      "gio": "[00:20:29]",
+      "trich": "đối với các vị thế spot hoặc lướt gì đó mọi người hãy tận dụng những nhịp tăng này và có thì lo xử lý liền."
+    },
+    {
+      "lenh": "Long BTC setup pullback 88-88.8k",
+      "quyet_dinh": "giu",
+      "khi_nao": "SL xa dưới đáy ~86k (thấp hơn đáy 1000-1200 giá); hoặc M5 chấp nhận 2 SL (88k và bắt lại ở 87k); TP1 91k, TP2 92-93k",
+      "gio": "[00:49:08]",
+      "trich": "Ví dụ chúng ta long ở đây thì stop loss kéo xa xa dưới này tí, ví dụ 8600, thấp hơn đáy này khoảng 1000 1200 giá. Kéo TP ở trên này."
+    },
+    {
+      "lenh": "Tài khoản/spot đang âm",
+      "quyet_dinh": "dong",
+      "khi_nao": "Xét theo % tài khoản chứ không theo số tiền: âm 10% nên cắt, âm 50% cắt được, âm 80-90% thì cắt không còn ý nghĩa",
+      "gio": "[00:54:30]",
+      "trich": "Ví dụ âm 50% tài khoản thì cắt được, âm 10% tài khoản thì nên cắt. Còn âm đến 80 90% tài khoản thì đôi khi chả còn ý nghĩa. Số tiền không quan trọng, quan trọng là phần trăm."
+    },
+    {
+      "lenh": "Spot BTC giữ như tài sản",
+      "quyet_dinh": "giu",
+      "khi_nao": "Coi như tài sản (như bất động sản, vàng) thì giữ một ít, không quan tâm giá",
+      "gio": "[00:54:30]",
+      "trich": "Spot BTC out hết hay giữ thì tùy. Nếu các bạn coi nó là một tài sản giống như bất động sản hay vàng thì nên giữ một ít, không quan tâm về giá."
+    },
+    {
+      "lenh": "Long BTC 91k (người xem, đang kẹt)",
+      "quyet_dinh": "dong",
+      "khi_nao": "Hy vọng về bờ tối nay hoặc rạng sáng mai thì thoát",
+      "gio": "[00:59:03]",
+      "trich": "Long 91 hy vọng sẽ có về bờ thôi chứ không cao lắm. Hy vọng tối nay. Còn tối ngày hôm nay nó không lên được thì hơi khó, rạng sáng ngày mai."
+    }
+  ],
+  "tin_tuc": [
+    {
+      "su_kien": "Trump phát biểu (Greenland)",
+      "thoi_diem": "8:30 tối nay",
+      "nguon": "lich_kinh_te",
+      "so_lieu": null,
+      "anh_huong_view": "Trước tin chưa chạy; có thể lợi dụng tin đẩy lên quét stop loss rồi đấm về; cẩn thận, clear lệnh trước 8h; nếu Trump nói Mỹ gom thêm BTC thì có thể lên 100k ngay trong đêm",
+      "gio": "[00:07:52]",
+      "trich": "Bây giờ cần phải có một cái tin, một cái động lực nào đó. Hôm nay hình như có tin phát biểu, 8:30 tối này thì khả năng từ giờ đến tối nó chưa chạy liền đâu. Nếu muốn đẩy nó sẽ phải chờ tin đó. Nó lợi dụng tin này để đẩy lên quét stop loss sau đó mới đấm về."
+    },
+    {
+      "su_kien": "Trump phát biểu",
+      "thoi_diem": "tối nay khoảng 8 giờ",
+      "nguon": "khac",
+      "so_lieu": null,
+      "anh_huong_view": "Cẩn thận, clear lệnh rồi ngồi xem",
+      "gio": "[00:30:59]",
+      "trich": "Tối nay có đại ca Greenland, President phát biểu. Idol sẽ lên khuấy đảo thị trường. Cho nên là cẩn thận. Tối nay giống như anh em đặt lịch xem đá banh vậy, đến khoảng 8 giờ cơm nước xong xuôi thì clear hết rồi, lúc đó ngồi nhìn cụ lên cụ múa."
+    }
+  ],
+  "trich_them": [
+    {
+      "gio": "[00:08:33]",
+      "cau": "Hôm nay về cơ bản mình cũng không short mạnh đâu. Chúng ta sẽ phải nhìn thị trường. Bởi vì bây giờ những động lực mà giá đi xuống thì gần như cũng hết rồi."
+    },
+    {
+      "gio": "[00:09:41]",
+      "cau": "Cho nên ngày hôm nay anh em mình sẽ phải đổi chiến lược. Hôm nay chúng ta không bó nữa. Hôm nay quay trở lại câu chuyện đánh linh hoạt hai đầu. Gió chiều nào xoay chiều đó miễn sao có tiền thôi."
+    },
+    {
+      "gio": "[00:10:41]",
+      "cau": "Ví dụ mình nhìn thị trường với 87 thì mình ăn ở 88. Có thể thị trường lên đến 98 hoặc 100 thì chúng ta ăn ở 96 thôi."
+    },
+    {
+      "gio": "[00:19:58]",
+      "cau": "Cho nên quan điểm của mình là mình không ăn nhịp từ đây lên đây quá vội và không bắt kèo lớn vào đây bởi vì xu hướng mình nghĩ vẫn giảm."
+    },
+    {
+      "gio": "[00:23:47]",
+      "cau": "chứ tầm này không nên short ở giá hiện tại, rất dễ hồi."
+    }
+  ],
+  "kho": "Giá ~88.4k. Kịch bản H4: hồi 91-92 (rất cao) rồi sập tiếp; đích chính chọn 80k vì người nói lấy ví dụ '1-2 tuần nữa về 80k' (đường cổ vai đầu vai), D1 mục tiêu mô hình cờ 63k, W1 55k. Không có vô hiệu thật sự (D1 xanh trở lại chỉ là 'quan sát thêm', có thể fake breakout). Số '89.007' và '88.008' hiểu theo quy ước = 89.700 / 88.800 (vùng long 88.0-88.8k). Đổi chiến thuật trong ngày (đánh hai đầu) nhưng không đổi view."
+}

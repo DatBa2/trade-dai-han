@@ -1,0 +1,278 @@
+[
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[0].trich",
+  "trich": "Đoạn này mình nghĩ nếu nó đóng qua được đường MA34 này thì xác suất nó lên đầu tiên là 68 sau đó là 71 cực kỳ cao.",
+  "giay": 2285,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=bz8_iuwosGs&t=2285s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[1].trich",
+  "trich": "Theo cảm nhận cá nhân của mình là nhịp tháng tư này nó sẽ tăng. ... Nó sẽ phải hit được vùng 80 thì lúc đó mình mới tính đến chuyện swing short về 50, 40.",
+  "giay": 2401,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=bz8_iuwosGs&t=2401s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[2].trich",
+  "trich": "Chúng ta sẽ thấy xu hướng dài hạn vẫn là xu hướng đang đi xuống.",
+  "giay": 1746,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=bz8_iuwosGs&t=1746s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "lenh[0].trich",
+  "trich": "Vào trước một volume sau đó nếu nó về 66.000, 6700 thì chúng ta có thể vào tiếp một volume nhỏ nữa. Và cả hai volume này đều phải nhỏ hơn thông thường.",
+  "giay": 2789,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=bz8_iuwosGs&t=2789s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "lenh[1].trich",
+  "trich": "Chúng ta đã có một cái nhịp ăn lúc sáng rồi. ... lên đến 68.000 cũng được khoảng 1100 giá.",
+  "giay": 205,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=bz8_iuwosGs&t=205s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[0].trich",
+  "trich": "chờ nó test về đâu đó khoảng độ 67.000",
+  "giay": 232,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=bz8_iuwosGs&t=232s",
+  "anh": [
+   {
+    "file": "so_tay/khung/bz8_iuwosGs_000518.jpg",
+    "giay": 318,
+    "lech": 86
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[1].trich",
+  "trich": "kẹt long 69.000 có thể thoát ở vùng 68.5 gì đó",
+  "giay": 447,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=bz8_iuwosGs&t=447s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[2].trich",
+  "trich": "giá nó vẫn đang giữ ở vùng 66 này, 65 này",
+  "giay": 1708,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=bz8_iuwosGs&t=1708s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[3].trich",
+  "trich": "vùng 66 này, 65 này... nếu phá qua hỗ trợ này chúng ta đánh xuống",
+  "giay": 1730,
+  "do_giong": 0.9,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=bz8_iuwosGs&t=1730s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[4].trich",
+  "trich": "từ điểm 90.000 về vùng 61.000... có vùng hỗ trợ nhẹ quanh khoảng 77 đến 80",
+  "giay": 1785,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=bz8_iuwosGs&t=1785s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[5].trich",
+  "trich": "qua được vùng 80 thì lên lại được vùng 86, 85",
+  "giay": 1799,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=bz8_iuwosGs&t=1799s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[6].trich",
+  "trich": "chờ nó về quanh lại vùng này 66.000, 6600",
+  "giay": 2041,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=bz8_iuwosGs&t=2041s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[7].trich",
+  "trich": "Đo thử Fibo... Fibo mở rộng này. Target 71.000",
+  "giay": 2167,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=bz8_iuwosGs&t=2167s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[8].trich",
+  "trich": "H4 này mà đóng qua khỏi thằng 6700 này đồng nghĩa với đóng lên trên MA34",
+  "giay": 2228,
+  "do_giong": 0.938,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=bz8_iuwosGs&t=2228s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[9].trich",
+  "trich": "đóng qua được đường MA34 này thì xác suất nó lên đầu tiên là 68 sau đó là 71",
+  "giay": 2286,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=bz8_iuwosGs&t=2286s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[10].trich",
+  "trich": "lên đầu tiên là 68 sau đó là 71 cực kỳ cao",
+  "giay": 2289,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=bz8_iuwosGs&t=2289s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[11].trich",
+  "trich": "Trừ khi nến tháng này nó kéo lên trên 76",
+  "giay": 2322,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=bz8_iuwosGs&t=2322s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[12].trich",
+  "trich": "vẫn còn gap ở 80, gap hấp dẫn ở 80",
+  "giay": 2380,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=bz8_iuwosGs&t=2380s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[13].trich",
+  "trich": "Nó sẽ phải hit được vùng 80 thì mình mới tính swing short về 50, 40",
+  "giay": 2430,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=bz8_iuwosGs&t=2430s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[14].trich",
+  "trich": "nó có thể quét về 67.100 sau đó lại vòng lên quét 6800",
+  "giay": 2499,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=bz8_iuwosGs&t=2499s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[15].trich",
+  "trich": "chốt ở quanh vùng khoảng 68.000, xem liquid ở bên này",
+  "giay": 2582,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=bz8_iuwosGs&t=2582s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[16].trich",
+  "trich": "long ở đây và DCA ở vùng 6700",
+  "giay": 2616,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=bz8_iuwosGs&t=2616s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[17].trich",
+  "trich": "SL sâu khoảng 65, 6600",
+  "giay": 2623,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=bz8_iuwosGs&t=2623s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[18].trich",
+  "trich": "nếu nó về 66.000, 6700 vào tiếp volume nhỏ nữa",
+  "giay": 2791,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=bz8_iuwosGs&t=2791s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[19].trich",
+  "trich": "nó sẽ quét lên đến khoảng 68.000",
+  "giay": 3802,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=bz8_iuwosGs&t=3802s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[20].trich",
+  "trich": "nếu đẹp cho anh em short xuống quanh vùng 68",
+  "giay": 3441,
+  "do_giong": 0.9,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=bz8_iuwosGs&t=3441s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[21].trich",
+  "trich": "canh long Bitcoin 6667 (người xem hỏi)",
+  "giay": 3530,
+  "do_giong": 0.714,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=bz8_iuwosGs&t=3530s",
+  "anh": []
+ }
+]

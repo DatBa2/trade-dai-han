@@ -1,0 +1,39 @@
+{
+  "buoi": "2026-07-09_Fmb8AziZ6f4",
+  "gia_btc_luc_noi": 62000,
+  "dau_buoi": {
+    "huong_h4": "GIAM",
+    "trich": "[00:14:37] Nhịp này xu hướng vẫn tiếp tục là xu hướng bán, không có gì mới."
+  },
+  "cuoi_buoi": {
+    "huong_h4": "GIAM",
+    "trich": "[01:10:11–01:10:45] H4 này đóng đỏ dưới MA này thì vẫn là bị bán xuống. Xu hướng không có gì thay đổi, vẫn bị đạp, vẫn bị bán."
+  },
+  "doi_y_giua_buoi": false,
+  "huong_lon": {
+    "D1": "GIAM",
+    "W1": null,
+    "chu_ky": "GIAM"
+  },
+  "hanh_dong": "vao_short",
+  "duong_di": [
+    {
+      "huong": "GIAM",
+      "dich": 61000,
+      "khung": "H4"
+    },
+    {
+      "huong": "GIAM",
+      "dich": 60500,
+      "khung": "H4"
+    }
+  ],
+  "dich_chinh": 60500,
+  "moc_sai": {
+    "gia": null,
+    "dieu_kien": null
+  },
+  "pha_vo_gia": "[00:36:06–00:37:09] Cảnh báo trap short: sau khi test MA200 rồi giảm, vẫn có thể hồi test vùng trên trước khi giảm tiếp; chưa xác nhận một cú trap cụ thể trong buổi.",
+  "do_chac": "cao",
+  "ghi_chu": "Đã đọc hết transcript. Giá hiện tại quanh 62.000 [00:35:01–00:35:34]. Short scalping thuận H4, TP1 61.000, TP2 60.500; tới 60.500 chốt hết và chờ. Chỉ nếu thủng 59.000 mới đánh chặng khác về 54.000–53.000/50.000, không ghép kịch bản điều kiện ấy vào đường chính. Không có mốc vô hiệu chung rõ; SL64.100 là của câu hỏi người xem, không tự nhận làm mốc sai của người nói. W1 chỉ tả nến xanh, không có hướng tương lai rõ."
+}

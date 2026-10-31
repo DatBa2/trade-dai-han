@@ -1,0 +1,68 @@
+{
+  "buoi": "2026-07-30_qBG2h5D9CrE",
+  "ngay": "2026-07-30",
+  "gio_vn": "10:00",
+  "gia_btc_luc_noi": 64000,
+  "nhan_dinh": [
+    {
+      "khung": "H4",
+      "huong": "PHAN_VAN",
+      "do_chac": "vua",
+      "dich": [63000, 65000],
+      "han": "vài ngày, đến đóng nến tháng (ngày 31)",
+      "han_gio": 72,
+      "vo_hieu_khi": "H4 đóng trên 64.500 (hai cây liên tiếp xác nhận) thì sẵn sàng đi lên target 1 khoảng 66.000",
+      "kich_ban_phu": "nếu phá xuống thì hỗ trợ 62.000 và 60.000; có thể quét lên 65.000 (cần đóng nến mới có nghĩa) hoặc quét 62.300 trước, chưa biết đầu nào",
+      "ly_do": [
+        "nến ngày bị chặn ở MA34, 64.500 chưa vượt thì xu hướng vẫn điều chỉnh",
+        "đỉnh không phá được, đáy 63.000 cũng không phá, bị kẹp biên sideway, cuối tháng thị trường bóp dần",
+        "nến H4 tăng sáng nay chỉ là volume phiên Mỹ sau tin, không phải giá trị nội tại",
+        "D1 H4 vẫn xấu nhưng đi trong biên nên long hay short đều dễ bị kill"
+      ],
+      "trich": "Khi thị trường bóp dần và đi ngang hẹp như vậy thì cách tốt nhất là chờ nó phá ra rồi chơi. Nó phá hướng nào chúng ta đi hướng đó.",
+      "doi_y": null,
+      "duong_di": null
+    },
+    {
+      "khung": "H1",
+      "huong": "PHAN_VAN",
+      "do_chac": "vua",
+      "dich": null,
+      "han": "chờ break H1",
+      "han_gio": null,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": "break hướng nào đi theo hướng đó",
+      "ly_do": ["đang sideway giữa 63.000 và 64.500, chờ tin GDP/PCE 7:30 tối có thể làm break"],
+      "trich": "Đối với H1 mình thấy các bạn nên chờ break H1 sau đó sẽ dễ chơi. Break hướng nào cũng được, hướng nào chúng ta đi theo hướng đó.",
+      "doi_y": null,
+      "duong_di": null
+    }
+  ],
+  "vung_gia": {"khang_cu": [64500, 65000], "ho_tro": [62000, 63000]},
+  "lenh": [
+    {"chieu": "SHORT", "loai": "đang giữ", "vao": 64600, "tp": null, "sl": null,
+     "trang_thai": "dang_giu",
+     "trich": "Hôm qua bắt short 64k6, hiện tại đối với entry đó mình nghĩ cứ stop loss entry hoặc chỗ TP1."}
+  ],
+  "nhin_lai_truoc": "Tin Fed không tăng lãi, thị trường chạy từ 63 lên 64 trong biên rất nhỏ, là tự nhiên không phải lái; short 64.600 hôm qua giờ hòa vốn.",
+  "cong_cu": ["H4", "H1", "MA34 D1", "Fibo", "USDT.D", "gap H1", "Fear and Greed", "liquidation heatmap"],
+  "tin_tuc": [
+    {"tin": "Fed giữ lãi suất 3.5-3.75, 3/12 phiếu muốn tăng 0,25; chủ tịch Kevin Warsh cứng rắn, kéo lạm phát về 2%, sẵn sàng tăng lãi suất", "danh_gia": "ngắn hạn hưng phấn nhẹ vì rủi ro tưởng tượng của đám đông không đến, nhưng nguy hiểm thật vẫn còn"},
+    {"tin": "GDP/PCE tối nay 7:30", "danh_gia": "dễ bị lơ là, có thể đấm; kỳ vọng làm break khỏi sideway"}
+  ],
+  "thoi_quen": [
+    "sideway thì chờ break rồi đi theo, không chọn phe trước thị trường",
+    "đánh tin phải nới biên độ ít nhất 2000 giá",
+    "chia nhỏ vốn gom spot theo thời gian (365 ngày)",
+    "linh hoạt, cố chấp là chết"
+  ],
+  "cau_cua_mieng": [
+    "Cố chấp là chết, càng cố chấp càng chết.",
+    "Không có sóng là không lướt được."
+  ],
+  "altcoin": [
+    {"coin": "ETH", "huong": "PHAN_VAN", "ghi": "H4 nhập nhằng, lực bán bị cản ở hai vùng Fibo, đáy kéo lên; thủng thì quét về thấp; D1 đã break trendline và đang test, không nên tự tin vào ngay"},
+    {"coin": "USDT.D", "huong": "TANG", "ghi": "đi ngang bóp dần, có thể chạy trước BTC khoảng 15 phút"}
+  ],
+  "ghi_chu": "gio_vn mặc định 10:00. Phần vàng, bạc, dầu, chứng khoán, PI bỏ qua. Cuối buổi vẫn bám view chờ bứt phá khỏi sideway."
+}

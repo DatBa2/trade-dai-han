@@ -1,0 +1,52 @@
+{
+  "buoi": "2026-08-04_K6QkKY6Og7o",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/zip_clean/2026-08-04_K6QkKY6Og7o.txt",
+  "gia_btc_luc_noi": 63000,
+  "dau_buoi": {
+    "thien_huong_h4": "GIAM",
+    "gio": "[00:05:41]",
+    "trich": "Long 3k1 short 64k5 hả? Nói chung đoạn này thì mình vẫn ưu tiên short hơn, ưu tiên bán xuống hơn là đánh lên."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "GIAM",
+    "do_chac": "vua",
+    "gio": "[01:04:23]",
+    "trich": "Giá và xu hướng tầm này chưa có gì thay đổi nhiều. Về bản chất đoạn này mình nghĩ xác suất nó quét lên vùng 64.000 cũng sẽ rất cao."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {"huong": "TANG", "dich": [64000, 64500]},
+  "duong_di": [
+    {"huong": "TANG", "dich": [64000, 64500]},
+    {"huong": "GIAM", "dich": 60500}
+  ],
+  "dich_chinh": 60500,
+  "han_gio": null,
+  "vo_hieu": {
+    "gia": 65000,
+    "khung": "H4",
+    "so_nen": 1,
+    "chieu": "dong_tren",
+    "cau": "SL khi khoảng H1 đóng quá 65.00 là ok. Bởi vì khi nó đóng qua được trendline trên này thì H1 sau đó chúng ta sẽ phải chờ. Nếu H4 nó cũng đóng tiếp và vượt qua được trendline này thì sẽ rất rủi ro và chúng ta không nên sell nữa ... Cho nên chúng ta sẽ dừng view đánh xuống tại vùng 65.00."
+  },
+  "lenh": [
+    {"chieu": "SHORT", "vao": [63200, 63800], "tp": [60500], "sl": 65000, "trang_thai": "dang_giu"},
+    {"chieu": "SHORT", "vao": [63000, 64500], "tp": [60500], "sl": 65000, "trang_thai": "de_xuat_moi"}
+  ],
+  "hanh_dong": "giu_lenh",
+  "khung_lon": {"D1": "PHAN_VAN", "W1": null},
+  "pha_vo_gia": "Nhịp hồi lên 64.000-64.500 là để quét stop loss của lệnh short (nếu short quá đông) rồi rụng tiếp về 60.500.",
+  "trich_them": [
+    {"gio": "[00:08:00]", "cau": "Đoạn này H4 nó vẫn đang kéo lên. Cho nên vẫn chưa quá tự tin vào câu chuyện short hay sell ở vùng này."},
+    {"gio": "[00:11:50]", "cau": "Hôm qua ăn short từ 638 và 632 ngon ... Nhịp này hiện tại nó vẫn đang đi theo view đó. Cho nên hôm nay về bản chất mình vẫn giữ nguyên view đó."},
+    {"gio": "[00:16:10]", "cau": "Thế nhưng vì sao đoạn này mình lại không cho long? Là bởi vì xu hướng đoạn này đang rất xấu. Và Fibo mở rộng cũng là 1.618 ... Tức là ở đây target của mình đang nhắm đến là 60.000 năm."},
+    {"gio": "[00:16:41]", "cau": "Cùng lắm nhịp này nó sẽ test đâu đó khoảng 64.000 ... Nếu số lượng lệnh short hiện tại quá nhiều nó cần phải đi lên để quét stop loss ở trên đó. Còn nếu không thuần Fibo thì nó sẽ dừng lại ở 64 và rụng tiếp về 60.000 năm. Đó là view cá nhân của mình."},
+    {"gio": "[00:17:14]", "cau": "mình vẫn không đánh theo xu hướng phục hồi mà mình chỉ thuận xu hướng đi xuống. Cho nên cứ lên trên này thì mình sẽ tìm các vị thế để đánh xuống. Ví dụ hiện tại anh em nào không có vị thế hoặc đã bị SL entry mà mình nghĩ là chưa SL entry. SL entry là khoảng 64"},
+    {"gio": "[00:17:47]", "cau": "thì một là anh em an toàn thì có thể gỡ SL entry đó, vẫn được kéo SL lên đâu đó khoảng trên 65. Còn hai là ở vùng này anh em có thể đi DCA các vị thế lên đến vùng 6400."},
+    {"gio": "[00:19:51]", "cau": "Ví dụ 2.618 là 57.000, 3.618 là 53.000. Không có bất kỳ xác suất loại trừ nào là nó không về được các vùng ở dưới này cả."},
+    {"gio": "[00:20:21]", "cau": "D1 thì thực tế đoạn này mình không quan tâm lắm. Nó vẫn đang chủ ở Fibo 0.5 nhưng ở vùng này như lúc nãy mình nói chưa đủ cơ sở để mình đánh lên trên những vùng cao. Trừ khi nó break được khoảng 65.00"},
+    {"gio": "[00:23:40]", "cau": "View về 40 thì mình vẫn còn giữ."},
+    {"gio": "[00:27:30]", "cau": "Vùng 64.000 này các bạn vừa khớp với liquid bên này thì có lẽ là nó sẽ có những pha quét lên tận 64.000 năm thì các bạn cũng nên chuẩn bị cho những kịch bản đó."}
+  ],
+  "kho": "Vừa giữ view giảm về 60.500 vừa nói xác suất quét lên 64.000-64.500 'rất cao' trước; số trong phụ đề lộn xộn ('64.007, 6400600', '64.00 7') nên chặng hồi ghi [64000, 64500]. Giá vào lệnh short hôm qua lấy từ '638 và 632'. SL nói theo H1 đóng trên 65k, còn bỏ view là H4 vượt trendline ~65k."
+}

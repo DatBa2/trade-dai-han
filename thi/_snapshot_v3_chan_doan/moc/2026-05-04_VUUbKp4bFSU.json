@@ -1,0 +1,314 @@
+{
+  "buoi": "2026-05-04_VUUbKp4bFSU",
+  "ngay": "2026-05-04",
+  "gia_btc_luc_noi": 80000,
+  "moc": [
+    {
+      "gia": 80000,
+      "gia_tren": 81000,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "gap CME 80-81 (lấp gap)",
+        "mục tiêu xác định từ tháng 2-3"
+      ],
+      "moc_gio": "00:02:11",
+      "chac": true,
+      "trich": "chờ xong nhịp lấp gap ở 80 81 là coi như chúng ta sẽ hoàn tất"
+    },
+    {
+      "gia": 79000,
+      "gia_tren": null,
+      "vai_tro": "nhac_lai",
+      "huong": "TANG",
+      "khung": "H1",
+      "can_cu": [
+        "TP lệnh sáng nay"
+      ],
+      "moc_gio": "00:07:19",
+      "chac": true,
+      "trich": "chúng ta TP ở 79.000, nó lên đến 79.400, sau đó chúng ta TP ở 79.300"
+    },
+    {
+      "gia": 75000,
+      "gia_tren": null,
+      "vai_tro": "nhac_lai",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "support sau khi break trendline H4"
+      ],
+      "moc_gio": "00:18:43",
+      "chac": true,
+      "trich": "support của nó là 75.000"
+    },
+    {
+      "gia": 79600,
+      "gia_tren": null,
+      "vai_tro": "nhac_lai",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "TP1 post thứ bảy"
+      ],
+      "moc_gio": "00:18:43",
+      "chac": true,
+      "trich": "TP1 là 79.600 và vùng thứ hai là 81.700"
+    },
+    {
+      "gia": 81700,
+      "gia_tren": null,
+      "vai_tro": "nhac_lai",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "TP2 post thứ bảy",
+        "gap"
+      ],
+      "moc_gio": "00:18:43",
+      "chac": true,
+      "trich": "vùng thứ hai là 81.700"
+    },
+    {
+      "gia": 81000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "TANG",
+      "khung": "W1",
+      "can_cu": [
+        "cản khung tuần"
+      ],
+      "moc_gio": "00:19:44",
+      "chac": true,
+      "trich": "chúng ta sẽ có hai cản là cản 81 và cản 83"
+    },
+    {
+      "gia": 83000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "TANG",
+      "khung": "W1",
+      "can_cu": [
+        "cản khung tuần",
+        "qua 83, 84 mới tiến 93"
+      ],
+      "moc_gio": "00:19:44",
+      "chac": true,
+      "trich": "vùng cản ở khung tuần là ở 83.000"
+    },
+    {
+      "gia": 93000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "W1",
+      "can_cu": [
+        "chỉ khi qua 83-84",
+        "gap 93"
+      ],
+      "moc_gio": "00:20:18",
+      "chac": true,
+      "trich": "qua được khỏi vùng 83, 84 này thì may ra mới tiến đến khu vực 93"
+    },
+    {
+      "gia": 81000,
+      "gia_tren": 82000,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "EMA200 D1",
+        "cản D1",
+        "trendline"
+      ],
+      "moc_gio": "00:24:27",
+      "chac": true,
+      "trich": "chạm một phát lên 81 82 bởi vì EMA200"
+    },
+    {
+      "gia": 79000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "M5",
+      "can_cu": [
+        "điều chỉnh M5"
+      ],
+      "moc_gio": "00:28:38",
+      "chac": true,
+      "trich": "M5 này khả năng điều chỉnh về đâu đó khoảng 79.000 năm"
+    },
+    {
+      "gia": 81200,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "gap CME 81.200 (chưa lấp, lấp hai lần",
+        "hiện mới tới 80.600)"
+      ],
+      "moc_gio": "00:29:38",
+      "chac": true,
+      "trich": "gap là 81.000 2. Hiện tại thì nó mới đang dừng ở 80.000 6"
+    },
+    {
+      "gia": 78400,
+      "gia_tren": 78900,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "M30",
+      "can_cu": [
+        "gap nhỏ M30 sáng nay (chỉ về 78.600)"
+      ],
+      "moc_gio": "00:30:41",
+      "chac": true,
+      "trich": "gap đúng của nó là ở vùng 78.900 cho đến 78.400"
+    },
+    {
+      "gia": 80500,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý / heatmap (khả năng quét cao)"
+      ],
+      "moc_gio": "00:34:51",
+      "chac": true,
+      "trich": "Dưới là 78.800. Mà trên là 80.500... khả năng nó quét 80.500 là cao"
+    },
+    {
+      "gia": 78800,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý / heatmap"
+      ],
+      "moc_gio": "00:34:51",
+      "chac": true,
+      "trich": "Dưới là 78.800"
+    },
+    {
+      "gia": 70000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý / heatmap (sâu xa)"
+      ],
+      "moc_gio": "00:35:29",
+      "chac": true,
+      "trich": "Dưới thấp nữa thì có 70"
+    },
+    {
+      "gia": 50000,
+      "gia_tren": null,
+      "vai_tro": "entry",
+      "huong": "TANG",
+      "khung": "W1",
+      "can_cu": [
+        "mua dài hạn: dưới 50.000 thì bắt đầu"
+      ],
+      "moc_gio": "00:45:22",
+      "chac": true,
+      "trich": "cứ dưới 50.000 thì có lẽ là bắt đầu"
+    },
+    {
+      "gia": 79500,
+      "gia_tren": 79600,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "M15",
+      "can_cu": [
+        "râu nến M15"
+      ],
+      "moc_gio": "00:46:25",
+      "chac": true,
+      "trich": "chờ nó về đến cái râu này. 79.500 hoặc 79.600"
+    },
+    {
+      "gia": 81000,
+      "gia_tren": 85000,
+      "vai_tro": "entry",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [
+        "vùng kích hoạt short (bot short)",
+        "gap"
+      ],
+      "moc_gio": "00:48:36",
+      "chac": true,
+      "trich": "vùng bắt đầu kích hoạt chắc phải trên 81. 81 cho đến khoảng 85"
+    },
+    {
+      "gia": 90000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "gap 89-90 (chưa lấp)"
+      ],
+      "moc_gio": "00:49:06",
+      "chac": true,
+      "trich": "vẫn có một gap ở 93 nữa, 90 nữa"
+    },
+    {
+      "gia": 92000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "gap nhỏ 92"
+      ],
+      "moc_gio": "00:49:39",
+      "chac": true,
+      "trich": "Vẫn có một gap nhỏ 92"
+    },
+    {
+      "gia": 78000,
+      "gia_tren": null,
+      "vai_tro": "sl",
+      "huong": "TANG",
+      "khung": "M5",
+      "can_cu": [
+        "SL dưới 78 nếu limit 78-79"
+      ],
+      "moc_gio": "00:50:39",
+      "chac": true,
+      "trich": "SL ở dưới vùng 78 này thì mới limit được"
+    },
+    {
+      "gia": 52000,
+      "gia_tren": null,
+      "vai_tro": "entry",
+      "huong": "TANG",
+      "khung": "W1",
+      "can_cu": [
+        "mua hold dài hạn"
+      ],
+      "moc_gio": "01:03:49",
+      "chac": true,
+      "trich": "Chờ Bitcoin dưới 52.000 rồi tính"
+    },
+    {
+      "gia": 95000,
+      "gia_tren": 97000,
+      "vai_tro": "sl",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "SL cho short"
+      ],
+      "moc_gio": "01:02:35",
+      "chac": false,
+      "trich": "Chịu được rủi ro, chịu được SL 95, 97.000 thì cứ vào"
+    }
+  ]
+}

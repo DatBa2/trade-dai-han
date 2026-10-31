@@ -1,0 +1,185 @@
+{
+ "buoi": "2026-08-20_1003_eBveasTOjTs",
+ "ngay": "2026-08-20",
+ "gio_vn": "10:03",
+ "gia_btc_luc_noi": 69500,
+ "nhan_dinh": [
+  {
+   "khung": "H4",
+   "huong": "TANG",
+   "do_chac": "thap",
+   "dich": [
+    71000,
+    73000
+   ],
+   "han": null,
+   "han_gio": null,
+   "vo_hieu_khi": null,
+   "vo_hieu_cau_truc": null,
+   "kich_ban_phu": null,
+   "duong_di": [
+    {
+     "huong": "GIAM",
+     "dich": 68000
+    },
+    {
+     "huong": "TANG",
+     "dich": [
+      71000,
+      73000
+     ]
+    }
+   ],
+   "doi_y": null,
+   "ly_do": [],
+   "trich": "H4 đóng cũng không có ý nghĩa lắm. Khả năng là hồi ở đây rồi anh em; hồi đây lại không ăn được pha short rồi. Chờ về 68 nghìn mấy mà có vẻ trụ lại ở đây thôi.",
+   "nhan_v1": "PHAN_VAN"
+  },
+  {
+   "khung": "D1",
+   "huong": "GIAM",
+   "do_chac": "vua",
+   "dich": null,
+   "han": null,
+   "han_gio": null,
+   "vo_hieu_khi": null,
+   "kich_ban_phu": "hồi lên 73.000 vẫn chưa gọi xác nhận break trendline, có thể fake out; trừ khi mùa này chơi giống 2021-22 (gãy 50% rồi lên tạo đỉnh mới)",
+   "ly_do": [
+    "đây chỉ là sóng hồi trong chu kỳ downtrend",
+    "đảo chiều thành uptrend ngay vùng này khó, quá nhiều điều kiện, còn quá xa",
+    "trendline nên nhìn khung tuần; Fear and Greed 62 quá FOMO nên không nhảy vào mua vùng cao"
+   ],
+   "trich": "Còn vùng này đảo chiều thành uptrend luôn thì mình nghĩ khó lắm, quá nhiều điều kiện, hiện tại còn quá xa những điều kiện đó.",
+   "doi_y": null,
+   "duong_di": null
+  },
+  {
+   "khung": "M15",
+   "huong": "GIAM",
+   "do_chac": "thap",
+   "dich": 68000,
+   "han": "ngắn hạn",
+   "han_gio": 6,
+   "vo_hieu_khi": null,
+   "kich_ban_phu": "có lực thì bay lại; lên test thêm rồi mới xuống",
+   "ly_do": [
+    "hơi xấu xấu, vùng trên khả năng điều chỉnh rất cao",
+    "mua lúc này quá liều, không có cơ sở vì lực mua đang quá căng"
+   ],
+   "trich": "Mình đoán chắc nó về khoảng 68, về test lại vùng này thì có vẻ ok.",
+   "doi_y": null,
+   "duong_di": null
+  }
+ ],
+ "vung_gia": {
+  "khang_cu": [
+   71000,
+   73000
+  ],
+  "ho_tro": [
+   66000,
+   68000
+  ]
+ },
+ "lenh": [
+  {
+   "chieu": "SHORT",
+   "vao": null,
+   "tp": [
+    68000
+   ],
+   "sl": null,
+   "trang_thai": "dang_giu"
+  },
+  {
+   "chieu": "SHORT",
+   "vao": [
+    70000,
+    74000
+   ],
+   "tp": [],
+   "sl": null,
+   "trang_thai": "de_xuat_moi"
+  },
+  {
+   "chieu": "LONG",
+   "vao": 68000,
+   "tp": [],
+   "sl": null,
+   "trang_thai": "de_xuat_moi"
+  }
+ ],
+ "nhin_lai_truoc": "Đêm qua pump 64.000 lên 70.000 ngoài tầm theo, SL lệnh BTC hơn 1000 giá nhưng ăn ETH khoảng 8R; plan trước (breakout trendline thì chạy như ngựa, pump lên khoảng 70 và có thể quét 72.000) được xem là hợp lý, chỉ nhanh quá.",
+ "cong_cu": [
+  "H4",
+  "H1",
+  "M5",
+  "RSI",
+  "MA200",
+  "Fibo 0.5",
+  "Fibo mở rộng",
+  "mô hình cờ",
+  "trendline khung tuần",
+  "trống thanh khoản (imbalance)",
+  "BTC.D",
+  "Fear and Greed",
+  "liquidation map",
+  "khối chênh lệch long/short"
+ ],
+ "tin_tuc": [
+  {
+   "tin": "Thanh lý short kỷ lục đêm qua (~2,99 tỷ, nguồn Thuận Capital chưa check)",
+   "danh_gia": "short bị quét nên pump nhanh; nhưng muốn short ăn lại thì phải chịu đựng, thị trường nhây vài ngày"
+  }
+ ],
+ "thoi_quen": [
+  "đánh isolate, cho phép không SL khi rủi ro tối đa được kiểm soát (1/10 vốn)",
+  "tách tài khoản khi short/long lớn",
+  "không FOMO mua đuổi khi RSI căng, chờ RSI cắm xuống",
+  "dò từng nhịp khung nhỏ, volume nhỏ",
+  "DCA tự động hàng ngày, chưa mua vốn lớn khi chưa tới vùng mục tiêu",
+  "khi hàng lỗ về bờ phải out ngay"
+ ],
+ "cau_cua_mieng": [
+  "Càng sợ ở đây thì càng ăn được, càng tham thì càng không ăn được.",
+  "Không ai happy trong downtrend.",
+  "Cầm lòng không được thì cầm tiền, cầm tiền không được thì cầm hàng, cầm hàng không được thì cầm email."
+ ],
+ "altcoin": [
+  {
+   "coin": "chung",
+   "huong": "TANG",
+   "ghi": "con nào cũng bay, nhưng khung lớn đa số lên gặp cản"
+  },
+  {
+   "coin": "BTC.D",
+   "huong": "TANG",
+   "ghi": "hồi nhẹ sau khi gãy; không khuyến khích FOMO long"
+  },
+  {
+   "coin": "SUI",
+   "huong": "TANG",
+   "ghi": "đánh lên có điều kiện: break trendline mới đánh, target 88-89, SL dưới râu"
+  },
+  {
+   "coin": "ETH",
+   "huong": "PHAN_VAN",
+   "ghi": "không có cơ sở giảm sâu; ai gồng short 2002 thì market cắt hoặc chờ phá"
+  }
+ ],
+ "ghi_chu": "Buổi đầu hôm sau cú pump, phần lớn nói về quản lý vốn. Giá hiện tại không nói số rõ (khoảng 69-70K suy từ ngữ cảnh, không ghi). Dòng 'khoảng 73 ... lệch giá biên độ 500' và '70.00 [?]' mơ hồ.",
+ "hanh_dong": "dung_ngoai_cho_entry",
+ "chang_ke_tiep": {
+  "huong": "TANG",
+  "dich": [
+   71000,
+   73000
+  ]
+ },
+ "khung_lon_v2": {
+  "D1": "PHAN_VAN",
+  "W1": "GIAM"
+ },
+ "pha_vo_gia": "Trendline D1: dù lên tận 73 vẫn chưa xác nhận break, có thể fake out lên đó rồi đi xuống; trendline tin ở khung tuần. Pha pump 64→70k là cú quét short lớn nhất lịch sử.",
+ "nguon_nhan": "dap_an_v2 (Opus 5.5 rút mù 31/10)"
+}

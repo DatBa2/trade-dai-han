@@ -1,0 +1,75 @@
+{
+  "buoi": "2026-01-30_4PUqxjVBR4M",
+  "ngay": "2026-01-30",
+  "gio_vn": "10:00",
+  "gia_btc_luc_noi": 82500,
+  "nhan_dinh": [
+    {
+      "khung": "H4",
+      "huong": "GIAM",
+      "do_chac": "cao",
+      "dich": [60000, 62000],
+      "han": "đích tạm thời của nhịp này; trước mắt sẽ còn giảm",
+      "han_gio": null,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": "hồi 84-85 (MA34 M30, MA200 M5) rồi mới short; cũng có thể short swing nếu còn lên lấp gap 93.000; tối thiểu nhiều nhịp hồi nhỏ lẻ",
+      "ly_do": [
+        "đã vào downtrend, thủng 87.500 là đi luôn, lực bán khủng khiếp",
+        "nến tuần trước và nến ngày hôm qua đỏ, D1 là cây nến bán xấu, H4 còn tệ hơn",
+        "H4 xanh hôm nay chỉ bằng khoảng 1/5 volume bán, là cú trap",
+        "mô hình cờ khung ngày TP 62.000",
+        "dump mà đô không tăng thì lực dump chưa kết thúc"
+      ],
+      "trich": "Thị trường hôm nay thì khoan đừng có long. Đừng có long sớm quá, đừng có FOMO long làm cái gì. Cứ chờ hồi lên rồi short xuống. Chờ hồi lên short xuống. Hồi càng cao thì càng đẹp.",
+      "doi_y": null,
+      "duong_di": [
+        {"huong": "TANG", "dich": [84000, 85000]},
+        {"huong": "GIAM", "dich": 62000}
+      ]
+    },
+    {
+      "khung": "chung",
+      "huong": "GIAM",
+      "do_chac": "vua",
+      "dich": [20000, 40000],
+      "han": "sau 62.000 thì 40.000 và 20.000 thực tế hơn; không bốc về 20.000 luôn mà phải từ từ rũ bỏ",
+      "han_gio": null,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": "BTC 60.000 thì ETH khoảng 2000",
+      "ly_do": ["xu hướng downtrend, vẫn còn gap 93.000 và 20.000", "USDT.D tăng, Fear and Greed 16"],
+      "trich": "Khi nó về sau 2 thì các bạn sẽ thấy con số mình đưa ra là BTC 40 với 20.000 sẽ gần hơn một tí, thực tế hơn.",
+      "doi_y": null,
+      "duong_di": null
+    },
+    {
+      "khung": "M5",
+      "huong": "TANG",
+      "do_chac": "thap",
+      "dich": [83000, 84000],
+      "han": "trong ngày",
+      "han_gio": 24,
+      "vo_hieu_khi": "M5 đóng nến đỏ dưới MA thì thoát long",
+      "kich_ban_phu": "hồi lên 84 không chắc hồi được, mình không đánh long",
+      "ly_do": ["dưới 82-81 không có gì cả (chống thanh khoản), hồi dễ", "volume hồi H1/H2 yếu"],
+      "trich": "Nhịp này long được nhưng bỏ qua mất rồi... Test đáy ra cây nến thứ hai là long ở ngay điểm 8100 này thì ngon.",
+      "doi_y": null,
+      "duong_di": null
+    }
+  ],
+  "vung_gia": {"khang_cu": [84000, 85000], "ho_tro": [81000, 80000]},
+  "lenh": [
+    {"chieu": "SHORT", "loai": "limit chờ hồi", "vao": [84000, 85000], "tp": null, "sl": null,
+     "trang_thai": "de_xuat_moi",
+     "trich": "Để short đẹp nhất thì mình nghĩ quanh vùng 84 đến 85, chờ lên đó nếu có thì chúng ta short được."},
+    {"chieu": "SHORT", "loai": "đang giữ", "vao": 90000, "tp": null, "sl": null,
+     "trang_thai": "dang_giu",
+     "trich": "Giữ lệnh short 90.000 dài hạn nhưng cũng nên ăn bớt vì nó vẫn còn một gap ở 93.000."}
+  ],
+  "nhin_lai_truoc": "Hôm qua đã dặn 2 vùng 87.000-88.000: gãy thì short, vượt thì mới long; thủng 87.500 là đi luôn, đúng. Hôm qua ngồi ngoài là thành công. Cảnh báo downtrend từ cuối tháng 12; plan 62.000 đang chạy đúng.",
+  "cong_cu": ["H4", "volume", "MA34/89/200", "Fibo 618", "mô hình cờ ngày", "gap CME 93.000 và 20.000", "lý thuyết chống thanh khoản", "RSI khi dump", "Fear and Greed", "USDT.D"],
+  "tin_tuc": [{"tin": "PPI hôm nay", "danh_gia": "tin quan trọng nên cẩn thận"}],
+  "thoi_quen": ["không đoán, chỉ đưa tình huống và điều kiện hành động", "ngồi ngoài chờ phe thắng rồi theo", "kéo SL về entry sớm khi có lãi", "quản lý vốn: reset vốn, không nhồi lên đánh to", "tối thứ sáu clear hết lệnh vàng bạc"],
+  "cau_cua_mieng": ["Bitcoin là trap boy thật.", "Hơn nhau là hơn nhau ở cái sự chờ đợi.", "Đừng tham gia làm chiến sĩ."],
+  "altcoin": [{"coin": "vàng/bạc", "huong": "GIAM", "ghi": "vàng đấm từ 5500 về 5000; đừng bắt đáy, chờ phe thắng, hạn chế đánh cuối tuần"}, {"coin": "WLD", "huong": null, "ghi": "short vùng thấp quá nên không dám"}],
+  "ghi_chu": "Giá BTC suy từ các mốc 81.000-84.000 trong buổi (sáng nay đáy quanh 80.000). '87k5' = 87.500."
+}

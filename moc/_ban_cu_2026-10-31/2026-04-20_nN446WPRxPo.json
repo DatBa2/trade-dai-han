@@ -1,0 +1,234 @@
+{
+  "buoi": "2026-04-20_nN446WPRxPo",
+  "ngay": "2026-04-20",
+  "gia_btc_luc_noi": 74000,
+  "moc": [
+    {
+      "gia": 78000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "target đầu tiên đã hoàn thành (thứ Sáu lên 78)"
+      ],
+      "moc_gio": "00:12:26",
+      "chac": true,
+      "trich": "thứ sáu nó đã lên đến 78 là coi như hoàn thành được target đầu tiên rồi"
+    },
+    {
+      "gia": 74900,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "MA34 H4 (đã thủng)"
+      ],
+      "moc_gio": "00:14:36",
+      "chac": true,
+      "trich": "không qua được 74.900 đâu... Qua khỏi thằng MA này mới ngon"
+    },
+    {
+      "gia": 73000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "hỗ trợ cứng (vùng break ra rồi retest)"
+      ],
+      "moc_gio": "00:14:36",
+      "chac": true,
+      "trich": "chiều nay phải về test lại 73.000 mới ok được"
+    },
+    {
+      "gia": 72000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "W1",
+      "can_cu": [
+        "cản khung tuần 72 đã được phá qua",
+        "nến tuần đóng qua"
+      ],
+      "moc_gio": "00:19:53",
+      "chac": true,
+      "trich": "Cản khung tuần là 72 đã được phá qua"
+    },
+    {
+      "gia": 80000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "W1",
+      "can_cu": [
+        "Fibo (cản thứ hai theo Fibo)",
+        "hai đáy khung tuần",
+        "lấp lại ~80"
+      ],
+      "moc_gio": "00:19:21",
+      "chac": true,
+      "trich": "cản đầu tiên là 78, thứ hai nữa là 80 theo Fibo"
+    },
+    {
+      "gia": 83000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "W1",
+      "can_cu": [
+        "cản thứ ba",
+        "có gap lâu ở 83"
+      ],
+      "moc_gio": "00:19:21",
+      "chac": true,
+      "trich": "Thứ ba là 83 và cao nhất của nhịp này là 90"
+    },
+    {
+      "gia": 90000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "W1",
+      "can_cu": [
+        "cao nhất của nhịp này"
+      ],
+      "moc_gio": "00:19:21",
+      "chac": true,
+      "trich": "cao nhất của nhịp này là 90. 90 thì có vẻ hơi khó"
+    },
+    {
+      "gia": 80000,
+      "gia_tren": 83000,
+      "vai_tro": "khang_cu",
+      "huong": "GIAM",
+      "khung": "W1",
+      "can_cu": [
+        "vùng tối thiểu để cân nhắc short swing"
+      ],
+      "moc_gio": "00:20:23",
+      "chac": true,
+      "trich": "vùng tối thiểu maybe là khoảng 80 đến 83 mới nghĩ đến chuyển short"
+    },
+    {
+      "gia": 68000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "H1",
+      "can_cu": [
+        "Fibo 0.5 H1 (nhịp điều chỉnh)"
+      ],
+      "moc_gio": "00:24:39",
+      "chac": true,
+      "trich": "Đang nằm ở Fibo 50 và đi lên. Vùng này về thì về lại 68"
+    },
+    {
+      "gia": 73000,
+      "gia_tren": null,
+      "vai_tro": "vo_hieu",
+      "huong": "TANG",
+      "khung": "H1",
+      "can_cu": [
+        "hỗ trợ giữa",
+        "thủng 73 thì chạy"
+      ],
+      "moc_gio": "00:24:39",
+      "chac": true,
+      "trich": "nếu thủng khỏi 73 là anh em chạy, đừng cố chấp"
+    },
+    {
+      "gia": 70000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "H1",
+      "can_cu": [
+        "hỗ trợ tiếp theo khi thủng 73"
+      ],
+      "moc_gio": "00:24:39",
+      "chac": true,
+      "trich": "Nếu thủng 73 thì trở về 70 mới gặp hỗ trợ tiếp theo"
+    },
+    {
+      "gia": 74000,
+      "gia_tren": 77000,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "gap CME sáng nay 74-77 (gap rất to)"
+      ],
+      "moc_gio": "00:25:45",
+      "chac": true,
+      "trich": "Gap sáng ngày hôm nay chúng ta đang có là gap 74-77"
+    },
+    {
+      "gia": 78000,
+      "gia_tren": 80000,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "gap CME cũ gần 80 / 78"
+      ],
+      "moc_gio": "00:25:45",
+      "chac": false,
+      "trich": "hôm trước nó lên gần đến gap 80, 78"
+    },
+    {
+      "gia": 67000,
+      "gia_tren": 70000,
+      "vai_tro": "khac",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "gap CME nhỏ ở 70 và 67"
+      ],
+      "moc_gio": "00:28:12",
+      "chac": true,
+      "trich": "gap ở 70 với lại 67 này"
+    },
+    {
+      "gia": 75000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý / heatmap"
+      ],
+      "moc_gio": "00:33:09",
+      "chac": true,
+      "trich": "Liquid vẫn có ở 75, các vùng cao hơn 75 và 74.000"
+    },
+    {
+      "gia": 74000,
+      "gia_tren": null,
+      "vai_tro": "tp",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý / heatmap",
+        "lệnh scalping"
+      ],
+      "moc_gio": "00:33:09",
+      "chac": true,
+      "trich": "Lệnh scalping có lẽ chúng ta sẽ TP nếu đạt được ở khoảng 74.000"
+    },
+    {
+      "gia": 73000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "thủng 73 thì khả năng gãy"
+      ],
+      "moc_gio": "00:33:09",
+      "chac": true,
+      "trich": "Hỗ trợ ở 73 này. Nếu nó thủng ở 73 thì khả năng là sẽ gãy"
+    }
+  ]
+}

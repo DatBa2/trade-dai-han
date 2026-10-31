@@ -1,0 +1,18 @@
+{
+  "buoi": "2026-07-30_qBG2h5D9CrE",
+  "ngay": "2026-07-30",
+  "gia_btc_luc_noi": 64000,
+  "moc": [
+    {"gia": 64500, "gia_tren": null, "vai_tro": "khang_cu", "huong": "GIAM", "khung": "H4", "can_cu": ["nến ngày bị chặn ở MA34 D1", "đỉnh của biên sideway"], "moc_gio": "00:18:46", "tai_san": "BTC", "chac": true, "trich": "nến ngày này vẫn bị chặn lại ở đường MA34. nếu vùng 64.500 chưa thực sự được khuất phục thì mọi thứ chưa thay đổi nhiều về xu hướng hiện tại"},
+    {"gia": 64500, "gia_tren": null, "vai_tro": "vo_hieu", "huong": "GIAM", "khung": "H4", "can_cu": ["2 cây nến H4 đóng trên 64.500 = điều kiện phá vỡ"], "moc_gio": "00:22:38", "tai_san": "BTC", "chac": true, "trich": "chúng ta phải thấy một cây H4 đóng trên 64.500. Đó là điều kiện phá vỡ. hai cây nến phá qua 64.500 là coi như điều kiện hoàn tất"},
+    {"gia": 66000, "gia_tren": null, "vai_tro": "dich", "huong": "TANG", "khung": "H4", "can_cu": [], "moc_gio": "00:22:38", "tai_san": "BTC", "chac": true, "trich": "Nếu nó phá qua được 64.500 này target sẽ đâu đó khoảng 66.000 là target 1."},
+    {"gia": 63000, "gia_tren": null, "vai_tro": "day_cu", "huong": null, "khung": "H4", "can_cu": ["đáy ngắn hạn tạm thời cao lên", "đáy biên sideway"], "moc_gio": "00:19:53", "tai_san": "BTC", "chac": true, "trich": "sau khi tạo đáy ngắn hạn ở vùng 63.000 này thì bây giờ nó đang bị kẹp trong một biên đi sideway."},
+    {"gia": 62000, "gia_tren": null, "vai_tro": "ho_tro", "huong": "GIAM", "khung": "D1", "can_cu": ["vùng hỗ trợ như các lần trước"], "moc_gio": "00:22:06", "tai_san": "BTC", "chac": true, "trich": "nếu các bạn sell thì vẫn quan điểm như các lần trước: 62.000 và 60.000 sẽ là hai vùng hỗ trợ."},
+    {"gia": 60000, "gia_tren": null, "vai_tro": "ho_tro", "huong": "GIAM", "khung": "D1", "can_cu": ["vùng hỗ trợ như các lần trước", "số tròn"], "moc_gio": "00:22:06", "tai_san": "BTC", "chac": true, "trich": "62.000 và 60.000 sẽ là hai vùng hỗ trợ."},
+    {"gia": 63000, "gia_tren": 65000, "vai_tro": "khac", "huong": null, "khung": null, "can_cu": ["cụm thanh lý / liquid hai đầu 63.000 và 64.000-65.000"], "moc_gio": "00:26:23", "tai_san": "BTC", "chac": true, "trich": "Vẫn là hai đầu thôi. 63.000 và 64.000, 65.000. Hai đầu chưa biết quét đầu nào."},
+    {"gia": 65000, "gia_tren": null, "vai_tro": "dich", "huong": "TANG", "khung": "H1", "can_cu": ["Hyblock nhóm đỏ phe short ~100.000", "quét thanh lý short"], "moc_gio": "00:27:59", "tai_san": "BTC", "chac": true, "trich": "Trong trường hợp nó muốn quét thì khả năng là sẽ quét lên đến 65. Nhưng với điều kiện sẽ phải đóng nến."},
+    {"gia": 63500, "gia_tren": null, "vai_tro": "ho_tro", "huong": "TANG", "khung": null, "can_cu": [], "moc_gio": "00:36:15", "tai_san": "BTC", "chac": false, "trich": "Thủng bao nhiêu sẽ đi về xuống giảm? 63k5 đóng nến."},
+    {"gia": 64000, "gia_tren": null, "vai_tro": "khang_cu", "huong": "GIAM", "khung": null, "can_cu": [], "moc_gio": "00:52:53", "tai_san": "BTC", "chac": true, "trich": "Có thêm quả thấy cản lớn 64 không qua nổi."},
+    {"gia": 63100, "gia_tren": null, "vai_tro": "dich", "huong": "GIAM", "khung": null, "can_cu": ["cụm thanh khoản / thanh lý"], "moc_gio": "00:54:59", "tai_san": "BTC", "chac": false, "trich": "Thanh khoản 63K1 thì khoảng nghìn giá nữa, xa lắm rồi."}
+  ]
+}

@@ -1,0 +1,471 @@
+{
+  "buoi": "2026-10-29_0033_4Hg5YedKaAg",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/lam_sach/2026-10-29_0033_4Hg5YedKaAg.md",
+  "gia_btc_luc_noi": 81000,
+  "dau_buoi": {
+    "thien_huong_h4": "GIAM",
+    "gio": null,
+    "trich": "Nhưng về cấu trúc sóng như thế này, chúng ta biết lực bán ở đây là lực chủ đạo. Nó lên đây chủ yếu là lấy thanh khoản cộng với quét lại vùng này và Fibo 0.5 của nhịp giảm. Tí nữa có thể có nhịp lên 82, đừng bất ngờ với nhịp lên đó. Nhưng ở đây lực bán vẫn rất khỏe: khung ngày bị chặn ngay đường MA, chặn ngay đường này thì vẫn có khả năng rơi về dưới."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "GIAM",
+    "do_chac": "vua",
+    "gio": null,
+    "trich": "Fibo này chặn, có thể có một nhịp test nữa lên vùng 80.00[?]/81.00[?], nhưng cũng không giải quyết được vấn đề gì. Nó phải thực sự vượt qua được vùng cản lúc nãy bị bán thì may ra kéo lên tiếp, còn không thì rất khó. Cho nên mình vẫn giữ quan điểm là xu hướng giảm, mình không đánh ngược xu hướng ở đoạn này nữa."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {
+    "huong": "GIAM",
+    "dich": [
+      77000,
+      78000
+    ]
+  },
+  "duong_di": [
+    {
+      "huong": "GIAM",
+      "dich": [
+        77000,
+        78000
+      ]
+    }
+  ],
+  "dich_chinh": [
+    77000,
+    78000
+  ],
+  "han_gio": null,
+  "vo_hieu": null,
+  "lenh": [
+    {
+      "chieu": "SHORT",
+      "vao": null,
+      "tp": [],
+      "sl": null,
+      "trang_thai": "dang_giu"
+    }
+  ],
+  "hanh_dong": "giu_lenh",
+  "khung_lon": {
+    "D1": "GIAM",
+    "W1": null
+  },
+  "pha_vo_gia": "Nhịp hồi trước/sau tin lên 81-82 chỉ là lấy thanh khoản + test Fibo 0.5: 'Bình thường hai đáy chạy vào breakout thì phải lên được trên đỉnh... nhưng vừa fake out vừa gặp cản là nó test đúng Fibo rồi rớt' (so với nhịp lên 84.000 trước đó).",
+  "nhin_lai_view_truoc": {
+    "view_truoc": "GIAM (sáng nay: sideway trong xu hướng giảm; không tăng lãi suất thì có nhịp tăng nhỏ, quét lên để đi xuống)",
+    "giu_hay_doi": "giu",
+    "vi_sao": "Tin ra giữ nguyên lãi suất đúng dự báo; giá đứng im rồi gãy 'như dự đoán'; như đã giải thích sáng nay, giữ nguyên lần này thì gần như chắc cuối năm tăng nên thị trường sợ, không có lực tăng.",
+    "gio": null,
+    "trich": "Mình đã nói trước: không tăng lãi suất thì ngắn hạn chắc chắn sẽ có một nhịp tăng nhỏ. ... Ra tin: giữ nguyên lãi suất, giá đứng im rồi gãy. Đi như thế này thì khả năng đêm nay gãy tiếp, như dự đoán, không có gì bất ngờ. ... Như sáng mình đã giải thích: vì đợt này giữ nguyên lãi suất nên gần như chắc chắn cuối năm sẽ tăng lãi suất, nên anh em đang sợ nhịp cuối năm."
+  },
+  "trendline": [],
+  "nen_volume": [
+    {
+      "khung": "H4",
+      "nen": "Cây H4 (trước tin) là một cây nến bán rất đẹp, đang nằm ở Fibo/hỗ trợ",
+      "volume": null,
+      "ket_luan": "Nếu không có tin thì sau cây H4 này đánh xuống thoải mái; có tin nên cái đẹp của biểu đồ có thể bị phá",
+      "gio": null,
+      "trich": "Còn cây H4 này vẫn là một cây nến rất đẹp: nếu không có tin thì sau cây H4 này chúng ta đánh xuống thoải mái."
+    },
+    {
+      "khung": "D1",
+      "nen": "Khung ngày bị chặn ngay đường MA",
+      "volume": "Lực bán vẫn rất khỏe, là lực chủ đạo",
+      "ket_luan": "Vẫn có khả năng rơi về dưới; nhịp lên chỉ lấy thanh khoản + quét Fibo 0.5",
+      "gio": null,
+      "trich": "Nhưng về cấu trúc sóng như thế này, chúng ta biết lực bán ở đây là lực chủ đạo. ... Nhưng ở đây lực bán vẫn rất khỏe: khung ngày bị chặn ngay đường MA, chặn ngay đường này thì vẫn có khả năng rơi về dưới."
+    },
+    {
+      "khung": "M15",
+      "nen": "Chart 15 phút chạy hai đáy; nến 15 phút vừa đóng cho tín hiệu khá đẹp",
+      "volume": null,
+      "ket_luan": "Không có tin thì 80% lên test lại 81.000 (cũng là vùng Fibo)",
+      "gio": null,
+      "trich": "Chart 15 phút: Bitcoin chạy hai đáy. Thông thường mô hình này sẽ lên test lại vùng 81.000; nếu không có tin về mặt kỹ thuật thì 80% là nó sẽ test, vì ở đây còn là vùng Fibo nên xác suất lên test cực kỳ cao."
+    },
+    {
+      "khung": "M5",
+      "nen": "Nếu lên 81 rồi khoảng hai cây nến 5 phút đóng dưới đoạn này",
+      "volume": null,
+      "ket_luan": "Coi chừng chỉ phục hồi được tới Fibo rồi rớt",
+      "gio": null,
+      "trich": "Nếu đoạn này lên 81 mà không lên được nữa, khoảng hai cây nến 5 phút đóng dưới đoạn này thì coi chừng nó chỉ phục hồi được tới Fibo thôi."
+    },
+    {
+      "khung": "H4",
+      "nen": "Sau tin đóng một cây H4 rất xấu; lên mà không quá 50% cây nến này là oẳng, nến tiếp theo không quá Fibo là toang",
+      "volume": null,
+      "ket_luan": "Nhịp bay chiều nay chỉ là kỹ thuật, không phải bay trước tin",
+      "gio": null,
+      "trich": "Nhịp bay lúc chiều về bản chất là đi kỹ thuật thôi, không phải bay trước tin. ... Nhưng ở đây nó đóng một cây H4 rất xấu. Lên mà không quá được 50% của cây nến này là coi như oẳng; cây nến tiếp theo không quá được Fibo của nó là coi như toang."
+    },
+    {
+      "khung": "M5",
+      "nen": "Râu nến khung nhỏ kéo ra vùng xa nhất 81.000",
+      "volume": "Xem lực ở volume 5 phút tại vùng Fibo",
+      "ket_luan": "Đóng được nến 5 phút qua vùng này thì có khả năng lên; 5 phút không qua nổi thì 15, 30 phút khó lên",
+      "gio": null,
+      "trich": "Hoặc kéo vào khung nhỏ: râu nến kéo ra vùng xa nhất rồi, 81.000. Anh em quan sát phản ứng ở vùng Fibo, xem lực ở volume 5 phút: đóng được nến 5 phút qua vùng này thì có khả năng lên được; 5 phút còn không qua nổi thì 15, 30 phút khó để lên."
+    },
+    {
+      "khung": "H4",
+      "nen": "Nến H4 đóng đỏ (cây sau 3:00 sáng là cây confirm)",
+      "volume": null,
+      "ket_luan": "Đóng đỏ thì rất dễ sáng mai thấy 78, trừ khi bài phát biểu quá đẹp",
+      "gio": null,
+      "trich": "Đóng nến đỏ thì rất dễ sáng mai anh em thấy 78.00[?], trừ khi bài phát biểu quá đẹp. Nhưng đừng FOMO quá, đánh tin khá nguy hiểm. Cây nến để confirm xu hướng chắc chắn phải là cây sau 3:00 sáng, cây H4 đẹp nhất"
+    },
+    {
+      "khung": "H4",
+      "nen": "H4 test MA rồi quay về dưới MA34; cây H4 lúc 3 giờ nếu đóng ở vùng giá này là không vượt 1/2 cây nến bán trước",
+      "volume": null,
+      "ket_luan": "Giữ quan điểm xu hướng giảm, không đánh ngược",
+      "gio": null,
+      "trich": "Nếu cây H4 tiếp theo lúc 3 giờ đóng ở vùng giá này thì chứng tỏ không vượt qua được 1/2 cây nến bán trước đó. ... Cho nên mình vẫn giữ quan điểm là xu hướng giảm, mình không đánh ngược xu hướng ở đoạn này nữa. H4 test MA rồi quay về dưới MA34 và đứng ở đây; nhìn nến cũng gửi thông điệp rõ."
+    }
+  ],
+  "cach_lam": [
+    {
+      "hanh_dong": "do",
+      "cong_cu": "fibo_thoai_lui",
+      "chi_tiet": "Fibo 0.5 của nhịp giảm",
+      "ket_qua": "Giá lên chủ yếu để lấy thanh khoản + quét Fibo 0.5; có thể lên 82 nhưng lực bán vẫn khỏe",
+      "gio": null,
+      "trich": "Nó lên đây chủ yếu là lấy thanh khoản cộng với quét lại vùng này và Fibo 0.5 của nhịp giảm. Tí nữa có thể có nhịp lên 82, đừng bất ngờ với nhịp lên đó."
+    },
+    {
+      "hanh_dong": "do",
+      "cong_cu": "fibo_thoai_lui",
+      "chi_tiet": "Hai đáy M15 bị chặn ở Fibo: có thể kéo lên 81 hoặc Fibo 0.618, thường dừng ở 0.5 rồi rớt; so với nhịp lên 84.000 trước đó trên H4",
+      "ket_qua": "Hai đáy bình thường phải breakout qua đỉnh (trên 86) nhưng vừa fake out vừa gặp cản thì test đúng Fibo rồi rớt; hay gặp ở scalping hơn khung lớn",
+      "gio": null,
+      "trich": "Hai đáy này còn thêm một trường hợp nữa là nó bị chặn ở Fibo, các bạn để ý. Nó có thể kéo lên 81 hoặc Fibo 0.618, thông thường dừng ở Fibo 0.5 rồi rớt. ... Giống nhịp đợt trước của H4, nhịp lên 84.000: nó lên đúng vùng Fibo này rồi rớt. Bình thường hai đáy chạy vào breakout thì phải lên được trên đỉnh, trên 86; nhưng vừa fake out vừa gặp cản là nó test đúng Fibo rồi rớt."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "ema",
+      "chi_tiet": "D1 bị chặn ngay MA; H4 test MA rồi quay về dưới MA34",
+      "ket_qua": "Lực bán khỏe, có khả năng rơi về dưới",
+      "gio": null,
+      "trich": "khung ngày bị chặn ngay đường MA, chặn ngay đường này thì vẫn có khả năng rơi về dưới. ... H4 test MA rồi quay về dưới MA34 và đứng ở đây; nhìn nến cũng gửi thông điệp rõ."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "nen",
+      "chi_tiet": "Quy tắc 50% thân nến bán H4: lên không quá 50% là oẳng; nến sau không quá Fibo là toang",
+      "ket_qua": "Đánh giá cây H4 sau tin rất xấu",
+      "gio": null,
+      "trich": "Lên mà không quá được 50% của cây nến này là coi như oẳng; cây nến tiếp theo không quá được Fibo của nó là coi như toang."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "volume",
+      "chi_tiet": "Volume 5 phút tại vùng Fibo",
+      "ket_qua": "5 phút không qua nổi thì 15/30 phút khó lên",
+      "gio": null,
+      "trich": "xem lực ở volume 5 phút: đóng được nến 5 phút qua vùng này thì có khả năng lên được; 5 phút còn không qua nổi thì 15, 30 phút khó để lên."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "Vàng đứng im khi BTC nhấp lên trước tin; vàng luôn chạy trước Bitcoin",
+      "ket_qua": "Nếu tin đẹp thì vàng đã chạy trước -> BTC nhấp lên chỉ do kỹ thuật; vẫn có thể đạp",
+      "gio": null,
+      "trich": "Vàng: Bitcoin thì nhấp nhấp lên nhưng vàng đứng im. Nếu tin đẹp thì vàng đã phóc lên trước rồi. Có khi nào đạp luôn không? Có chứ, tin mà. ... Vàng chạy trước cả Bitcoin, vàng lúc nào cũng chạy trước Bitcoin."
+    },
+    {
+      "hanh_dong": "ve",
+      "cong_cu": "khac",
+      "chi_tiet": "Kịch bản vai đầu vai khung ngày: về test 77-78, sideway rồi hồi lên ~83 (Fibo 0.5 của tổng thể nhịp), rồi đi xuống",
+      "ket_qua": "Đi tiếp thì tuột về sáu mấy nghìn; nhịp này qua tháng 12 mới xong",
+      "gio": null,
+      "trich": "Thực tế đoạn này mình nghĩ nó điều chỉnh về vùng 78 rồi sideway, bật lên test lại vùng đó, 83; rồi lại đi xuống thì lúc này có một mô hình vai đầu vai trên khung ngày. Nếu đi như vậy thì thỏa các điều kiện: thứ nhất về test đúng vùng cần test là 77.78[?]; sau đó phục hồi lên vùng 784 [?], là Fibo 0.5 của tổng thể nhịp này; sau đó đi tiếp và tạo thành vai đầu vai. Đi tiếp thì nó tuột về khoảng sáu mấy nghìn"
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "FVG / OB",
+      "ket_qua": "Ít dùng, ít xem",
+      "gio": null,
+      "trich": "FVG 30 phút thì mình ít đánh theo bên đấy, mình ít xem OB, FVG các kiểu."
+    }
+  ],
+  "vung_nguoi_do": [
+    {
+      "loai": "khang_cu",
+      "tu": 82000,
+      "den": 82000,
+      "gio": null,
+      "trich": "Tí nữa có thể có nhịp lên 82, đừng bất ngờ với nhịp lên đó. Nhưng ở đây lực bán vẫn rất khỏe"
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 81000,
+      "den": 81000,
+      "gio": null,
+      "trich": "Thông thường mô hình này sẽ lên test lại vùng 81.000; nếu không có tin về mặt kỹ thuật thì 80% là nó sẽ test, vì ở đây còn là vùng Fibo"
+    },
+    {
+      "loai": "vao",
+      "tu": 82000,
+      "den": 82000,
+      "gio": null,
+      "trich": "Hỏi: Limit 82K5? 82K5 mình thấy cũng hơi xa. Quanh 82 thì cũng được. Về bản chất ưu tiên sự an toàn, nếu không khớp thì thôi cũng không có vấn đề gì."
+    },
+    {
+      "loai": "sl",
+      "tu": 82500,
+      "den": 83000,
+      "gio": null,
+      "trich": "Ví dụ SL trên 82.500 hoặc 83 chẳng hạn: đến tin phải nới vùng SL ra một tí, ví dụ đặt SL trên 83, lỡ nó lên trên này thì có biên độ để tránh những cú quét."
+    },
+    {
+      "loai": "vao",
+      "tu": null,
+      "den": null,
+      "gio": null,
+      "trich": "Ví dụ lúc sáng mình cho một vùng từ 80.00[?] đến 81.00[?]; mình khớp được tất cả các entry ở đây, chốt bớt rồi, chưa khớp đến 80.000. (số phụ đề không chắc)"
+    },
+    {
+      "loai": "dich",
+      "tu": 78000,
+      "den": 78000,
+      "gio": null,
+      "trich": "Đóng nến đỏ thì rất dễ sáng mai anh em thấy 78.00[?], trừ khi bài phát biểu quá đẹp."
+    },
+    {
+      "loai": "dich",
+      "tu": 77000,
+      "den": 78000,
+      "gio": null,
+      "trich": "Thực tế đoạn này mình nghĩ nó điều chỉnh về vùng 78 rồi sideway ... thứ nhất về test đúng vùng cần test là 77.78[?]"
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 83000,
+      "den": 83000,
+      "gio": null,
+      "trich": "bật lên test lại vùng đó, 83; rồi lại đi xuống thì lúc này có một mô hình vai đầu vai trên khung ngày."
+    },
+    {
+      "loai": "dich",
+      "tu": 60000,
+      "den": 69000,
+      "gio": null,
+      "trich": "Đi tiếp thì nó tuột về khoảng sáu mấy nghìn, lúc đó thị trường mới tính tiếp là tạo đáy ở 60 hay đáy thấp hơn."
+    },
+    {
+      "loai": "dich",
+      "tu": 82500,
+      "den": 82500,
+      "gio": null,
+      "trich": "Nếu forecast của PCE ra khoảng 0.4–0.5 một phát thì coi như Bitcoin mất luôn đà tăng nhịp này. Còn nếu ra 0.2 thì chắc ngày mai nó kéo lên khoảng 82.500."
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 85000,
+      "den": 85000,
+      "gio": null,
+      "trich": "Glassnode cảnh báo hồi phục lên 85.000 có thể kích hoạt bán ra từ nhà đầu tư muốn bán hòa vốn. Tức là nếu giá tăng thì có xác suất gặp lực bán đó."
+    }
+  ],
+  "view_trung_han": [
+    {
+      "khung": "D1",
+      "huong": "GIAM",
+      "dich": [
+        60000,
+        69000
+      ],
+      "han": "Qua tháng 12 mới xong (đường đi: 77-78 -> sideway, hồi ~83 -> vai đầu vai D1 -> sáu mấy nghìn)",
+      "mat_view_khi": null,
+      "gio": null,
+      "trich": "Đi tiếp thì nó tuột về khoảng sáu mấy nghìn, lúc đó thị trường mới tính tiếp là tạo đáy ở 60 hay đáy thấp hơn. Nhưng trước mắt, nhịp này đi chắc phải qua tháng 12 mới xong. Nếu chạy được plan như này thì quá đẹp."
+    }
+  ],
+  "vung_tranh": [
+    {
+      "tu": null,
+      "den": null,
+      "vi_sao": "Không long trước tin Fed: trận này nguy hiểm",
+      "gio": null,
+      "trich": "Mình nghĩ không nên long đâu. Trận này sao mà đi long được, trận này nguy hiểm lắm anh em. Đừng có thông minh quá, nó không tốt đâu."
+    },
+    {
+      "tu": null,
+      "den": null,
+      "vi_sao": "Không đánh lên ở vùng hiện tại (Fibo/kháng cự ~81); muốn đánh xuống thì chờ test lên rồi tính, không cần limit",
+      "gio": null,
+      "trich": "Vùng này mình không đánh lên. Nếu chờ nó lên test ở trên rồi đánh xuống tiếp thì ok, nhưng trên này cũng khá xa; chúng ta không cần limit, chờ theo tin xem thế nào rồi tính."
+    },
+    {
+      "tu": null,
+      "den": null,
+      "vi_sao": "Đánh tin không kéo SL về entry (gần như chắc bị quét, tốn phí)",
+      "gio": null,
+      "trich": "Đối với đánh tin, mình không kéo SL về entry, vì kéo SL entry gần như chắc chắn nó quét entry. ... Đặt SL entry thì chắc chắn bị quét, đừng đặt cho tốn phí."
+    },
+    {
+      "tu": null,
+      "den": null,
+      "vi_sao": "Đừng FOMO đánh tin, khá nguy hiểm; không có kèo trên livestream",
+      "gio": null,
+      "trich": "Nhưng đừng FOMO quá, đánh tin khá nguy hiểm."
+    }
+  ],
+  "giu_dong": [
+    {
+      "lenh": "Lệnh đang lãi ~1K giá (trước tin)",
+      "quyet_dinh": "chot_mot_phan",
+      "khi_nao": "Giá hồi lên vùng Fibo trước tin, dễ hai đáy hồi lên -> xử lý bớt lệnh",
+      "gio": null,
+      "trich": "Bitcoin có vẻ đang muốn hồi lên trước tin nhá. Cái màu này dễ đi hai đáy hồi lên, chắc anh em sẽ phải té. Vùng này đang là Fibo nữa, nên mình cho anh em xử lý bớt lệnh. Anh em đang lãi khoảng 1K giá thì chắc chốt lãi bớt đi."
+    },
+    {
+      "lenh": "Vị thế entry không tốt (15 phút trước tin)",
+      "quyet_dinh": "dong",
+      "khi_nao": "Trước tin quan trọng: thoát vị thế entry xấu, chỉ giữ vị thế entry tốt",
+      "gio": null,
+      "trich": "Cách xử lý: những vị thế có entry không tốt thì thoát, giữ lại những vị thế có entry tốt thôi; lệnh có vị thế tốt ưu tiên hơn nhá."
+    },
+    {
+      "lenh": "Lệnh đánh tin",
+      "quyet_dinh": "giu",
+      "khi_nao": "Không kéo SL về entry; hoặc xác định ăn, hoặc giữ volume nhỏ với SL nới xa (trên 82.500/83); không thì ra tin ngồi ngoài",
+      "gio": null,
+      "trich": "Cho nên một là xác định ăn, hai là giữ một volume nhỏ đủ an toàn. Ví dụ SL trên 82.500 hoặc 83 chẳng hạn ... Còn không thì xác định ăn là ăn luôn, và khi ra tin thì ngồi ở ngoài."
+    },
+    {
+      "lenh": "Lệnh short của ông (vùng cho lúc sáng 80.00[?]-81.00[?])",
+      "quyet_dinh": "chot_mot_phan",
+      "khi_nao": "Đã khớp và chốt bớt",
+      "gio": null,
+      "trich": "Ví dụ lúc sáng mình cho một vùng từ 80.00[?] đến 81.00[?]; mình khớp được tất cả các entry ở đây, chốt bớt rồi, chưa khớp đến 80.000."
+    },
+    {
+      "lenh": "Vị thế (short) trên 81 của người xem, sau tin",
+      "quyet_dinh": "giu",
+      "khi_nao": "Sau khi ra tin, có thể kéo SL về entry",
+      "gio": null,
+      "trich": "Bây giờ anh em có vị thế ở trên 81 thì có thể SL entry."
+    },
+    {
+      "lenh": "Long mô hình giá đáy H1 80K, TP 81 đã chạm (người xem)",
+      "quyet_dinh": "dong",
+      "khi_nao": "Chạm TP 81 thì chốt; có lãi là được",
+      "gio": null,
+      "trich": "Mình chốt thôi; ngồi chơi tiếp cũng hợp lý. Nói chung có lãi là được nhá. Tin này tâm lý mềm nên không giật."
+    }
+  ],
+  "tin_tuc": [
+    {
+      "su_kien": "FOMC lãi suất tháng 10",
+      "thoi_diem": "Đêm nay (~1:00 sáng)",
+      "nguon": "bao",
+      "so_lieu": "Dự báo giữ nguyên 3.75-4% (Investing, ~90% dự đoán); kết quả: giữ nguyên",
+      "anh_huong_view": "Tin đẹp nhưng không có lực tăng: giá đứng im rồi gãy; thị trường sợ cuối năm tăng; khả năng đêm nay gãy tiếp như dự đoán",
+      "gio": null,
+      "trich": "Fed được dự báo giữ nguyên lãi suất ở 3.75 đến 4%. ... Investing dự đoán rất chính xác; gần như đại đa số market dự đoán như nhau. ... Ra tin: giữ nguyên lãi suất, giá đứng im rồi gãy. Đi như thế này thì khả năng đêm nay gãy tiếp, như dự đoán, không có gì bất ngờ. ... Giữ nguyên lãi suất tính ra là một tin rất đẹp, nhưng lực tăng không có."
+    },
+    {
+      "su_kien": "Dự báo ngôn từ FOMC diều hâu",
+      "thoi_diem": "Trước tin",
+      "nguon": "bao",
+      "so_lieu": "Thị trường theo dõi khả năng 2-3 quan chức ủng hộ tăng; Goldman Sachs [?] dự báo FOMC có thể sửa ngôn từ về việc quay lại mục tiêu lạm phát 2% sớm hơn",
+      "anh_huong_view": "Tín hiệu nhiều diều hâu",
+      "gio": null,
+      "trich": "Thị trường theo dõi tín hiệu diều hâu và khả năng hai đến ba quan chức ủng hộ tăng lãi suất. Goldman Sachs [?] dự báo FOMC có thể sửa ngôn từ về việc quay lại mục tiêu lạm phát 2% sớm hơn, nghĩa là nhiều diều hâu."
+    },
+    {
+      "su_kien": "Glassnode: holder dài hạn mua ở 85-118k",
+      "thoi_diem": "Trước tin",
+      "nguon": "khac",
+      "so_lieu": "LTH nắm ~4 triệu BTC mua trong vùng 85-118k, hơn một nửa mua trên giá hiện tại (~80k)",
+      "anh_huong_view": "Hồi lên 85.000 có thể kích hoạt bán hòa vốn -> nếu tăng có xác suất gặp lực bán",
+      "gio": null,
+      "trich": "Theo Glassnode, holder dài hạn nắm khoảng 4 triệu Bitcoin được mua trong vùng 85 đến 118.000, với Bitcoin giao dịch quanh 80.000. Hơn một nửa số Bitcoin của nhóm này được mua trên giá hiện tại, và Glassnode cảnh báo hồi phục lên 85.000 có thể kích hoạt bán ra từ nhà đầu tư muốn bán hòa vốn."
+    },
+    {
+      "su_kien": "Phát biểu chủ tịch Fed",
+      "thoi_diem": "1:30 sáng (có hôm tới 2:15)",
+      "nguon": "lich_kinh_te",
+      "so_lieu": null,
+      "anh_huong_view": "Không mang lại nhiều giá trị vì chủ tịch mới không báo tin sớm; sáng mai xem diều hâu hay bồ câu",
+      "gio": null,
+      "trich": "Bây giờ nó chờ bài phát biểu của chủ tịch Fed. Nhưng với phong cách chủ tịch đợt này, không báo tin sớm cho anh em, nên mình nghĩ bài phát biểu cũng không mang lại nhiều giá trị."
+    },
+    {
+      "su_kien": "GDP và PCE",
+      "thoi_diem": "Ngày mai",
+      "nguon": "lich_kinh_te",
+      "so_lieu": "Kịch bản PCE 0.4-0.5 hoặc 0.2",
+      "anh_huong_view": "PCE 0.4-0.5 -> BTC mất đà tăng nhịp này; PCE 0.2 -> có thể kéo lên ~82.500",
+      "gio": null,
+      "trich": "Ngày mai có tin GDP và PCE. Nếu forecast của PCE ra khoảng 0.4–0.5 một phát thì coi như Bitcoin mất luôn đà tăng nhịp này. Còn nếu ra 0.2 thì chắc ngày mai nó kéo lên khoảng 82.500. Còn đêm nay có vẻ không có gì hấp dẫn."
+    },
+    {
+      "su_kien": "Trader định giá Fed tăng lãi suất tháng 12",
+      "thoi_diem": "Sau tin",
+      "nguon": "bao",
+      "so_lieu": "90% (sau đó nhắc 80%)",
+      "anh_huong_view": "Thị trường giảm vì sợ tháng 12 tăng lãi suất; không có công thức cố định lãi suất - giá (tháng 9 tăng lãi suất mà thị trường bay)",
+      "gio": null,
+      "trich": "Tin liên tục: giới trader vẫn định giá 90% Fed tăng lãi suất vào tháng 12. Giống dự đoán, thị trường bắt đầu đưa góc nhìn qua tháng 12. Bây giờ nó giảm là vì điều này. ... Giai đoạn tháng 9, lãi suất tăng thì thị trường bay; tháng 10 lãi suất giữ nguyên không tăng thì thị trường lại không bay."
+    },
+    {
+      "su_kien": "Một thống đốc (bà Cook) bỏ phiếu ủng hộ tăng 25 điểm",
+      "thoi_diem": "Sau tin",
+      "nguon": "bao",
+      "so_lieu": "Lần đầu bỏ phiếu chống quyết định lãi suất kể từ khi vào Fed năm 2022",
+      "anh_huong_view": "Chỉ là lý do để hợp lý hóa",
+      "gio": null,
+      "trich": "Tin từ nhóm: một thống đốc bất ngờ bỏ phiếu ủng hộ tăng lãi suất 25 điểm, bất đồng với quyết định giữ nguyên. ... Nói chung bắt đầu có những lý do để hợp lý hóa thôi."
+    },
+    {
+      "su_kien": "Fitch cảnh báo rủi ro tín dụng toàn cầu tới 2027",
+      "thoi_diem": "Sau tin",
+      "nguon": "bao",
+      "so_lieu": "Dự báo lãi suất Fed 4.25, duy trì đến hết 2027; 80% Fed tăng tháng 12",
+      "anh_huong_view": "Nếu 2027 Fed duy trì lãi suất cao thì 2027 'rất ngon, đúng theo view'; thị trường cứ đi tìm lý do",
+      "gio": null,
+      "trich": "Fitch cảnh báo rủi ro tín dụng toàn cầu đang xấu đi hướng tới năm 2027 ... Dự báo lãi suất của Fed đặt 4.25 và duy trì đến hết năm 2027. Nếu năm 2027 Fed duy trì lãi suất cao thì chúng ta sẽ có một năm 2027 rất ngon, đúng theo view. 80% là Fed tăng lãi suất vào tháng 12 rồi. Chưa hết tháng 10 đã lo tháng 12: thị trường cứ đi tìm lý do thôi."
+    }
+  ],
+  "trich_them": [
+    {
+      "gio": null,
+      "cau": "Mình nghĩ không nên long đâu. Trận này sao mà đi long được, trận này nguy hiểm lắm anh em."
+    },
+    {
+      "gio": null,
+      "cau": "Ra tin: giữ nguyên lãi suất, giá đứng im rồi gãy. Đi như thế này thì khả năng đêm nay gãy tiếp, như dự đoán, không có gì bất ngờ."
+    },
+    {
+      "gio": null,
+      "cau": "Ngày mai có tin GDP và PCE. Nếu forecast của PCE ra khoảng 0.4–0.5 một phát thì coi như Bitcoin mất luôn đà tăng nhịp này. Còn nếu ra 0.2 thì chắc ngày mai nó kéo lên khoảng 82.500."
+    },
+    {
+      "gio": null,
+      "cau": "Đóng nến đỏ thì rất dễ sáng mai anh em thấy 78.00[?], trừ khi bài phát biểu quá đẹp."
+    },
+    {
+      "gio": null,
+      "cau": "Bây giờ anh em có vị thế ở trên 81 thì có thể SL entry. Ví dụ lúc sáng mình cho một vùng từ 80.00[?] đến 81.00[?]; mình khớp được tất cả các entry ở đây, chốt bớt rồi, chưa khớp đến 80.000."
+    },
+    {
+      "gio": null,
+      "cau": "Thực tế đoạn này mình nghĩ nó điều chỉnh về vùng 78 rồi sideway, bật lên test lại vùng đó, 83; rồi lại đi xuống thì lúc này có một mô hình vai đầu vai trên khung ngày... Đi tiếp thì nó tuột về khoảng sáu mấy nghìn... Nhưng trước mắt, nhịp này đi chắc phải qua tháng 12 mới xong."
+    },
+    {
+      "gio": null,
+      "cau": "Nếu cây H4 tiếp theo lúc 3 giờ đóng ở vùng giá này thì chứng tỏ không vượt qua được 1/2 cây nến bán trước đó."
+    },
+    {
+      "gio": null,
+      "cau": "> Hỏi: Ngày mai khả năng lên hay xuống? — Ngày mai mới biết được."
+    }
+  ],
+  "kho": "File không có mốc giờ; buổi live đêm tin Fed. Lệnh của người nói là short khớp 'một vùng từ 80.00[?] đến 81.00[?]' (số phụ đề không chắc), đã chốt bớt, khuyên SL entry — vao/tp/sl để null. Đích H4 gần là 77-78k ('sáng mai thấy 78' nếu nến đỏ); kịch bản dài hơn là vai đầu vai D1: 78 → hồi 83 → về 6x (qua tháng 12), không đưa vào duong_di H4. Không có mốc vô hiệu bằng số: chỉ nói phải vượt 1/2 cây H4 bán/vùng cản Fibo ~81. Có điều kiện tin PCE 0.2 → lên 82.500."
+}

@@ -1,0 +1,472 @@
+[
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[0].trich",
+  "trich": "Không thể nào tránh khỏi vùng 58 hay 55. Và sâu hơn nữa sẽ là 52 không thể nào tránh được.",
+  "giay": 899,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=WZ8PpZ9VA4Q&t=899s",
+  "anh": [
+   {
+    "file": "so_tay/khung/WZ8PpZ9VA4Q_001330.jpg",
+    "giay": 810,
+    "lech": -89
+   }
+  ]
+ },
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[1].trich",
+  "trich": "Hôm nay mình sẽ bỏ tay ra khỏi nút short. Chắc chắn như vậy, không short trong ngày hôm nay.",
+  "giay": 1325,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=WZ8PpZ9VA4Q&t=1325s",
+  "anh": [
+   {
+    "file": "so_tay/khung/WZ8PpZ9VA4Q_002230.jpg",
+    "giay": 1350,
+    "lech": 25
+   }
+  ]
+ },
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[2].trich",
+  "trich": "Cùng lắm về đây 61.000-61.700 lại đi lên tiếp, phá tiếp đỉnh... hoặc đi lên đây 65-67.000 là hợp lý.",
+  "giay": 1678,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=WZ8PpZ9VA4Q&t=1678s",
+  "anh": [
+   {
+    "file": "so_tay/khung/WZ8PpZ9VA4Q_002730.jpg",
+    "giay": 1650,
+    "lech": -28
+   }
+  ]
+ },
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[3].trich",
+  "trich": "Hôm hôm nay chúng ta cứ chờ quanh vùng từ 62.000 cho đến 61.000, chờ vùng đó.",
+  "giay": 4216,
+  "do_giong": 0.947,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=WZ8PpZ9VA4Q&t=4216s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "lenh[0].trich",
+  "trich": "Short từ 63k2, SL 63k5 lúc nãy, lệnh này chính xác.",
+  "giay": 4234,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=WZ8PpZ9VA4Q&t=4234s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "lenh[1].trich",
+  "trich": "Muốn long thì mình nghĩ bắt buộc phải chờ ở 62 cho đến 61, vùng đó thôi.",
+  "giay": 3281,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=WZ8PpZ9VA4Q&t=3281s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[0].trich",
+  "trich": "Rõ ràng đây là đáy 52. 52 rõ ràng là một vùng hỗ trợ cứng",
+  "giay": 826,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=WZ8PpZ9VA4Q&t=826s",
+  "anh": [
+   {
+    "file": "so_tay/khung/WZ8PpZ9VA4Q_001330.jpg",
+    "giay": 810,
+    "lech": -16
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[1].trich",
+  "trich": "hồi căng mình nghĩ 67 69 là hết sức",
+  "giay": 851,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=WZ8PpZ9VA4Q&t=851s",
+  "anh": [
+   {
+    "file": "so_tay/khung/WZ8PpZ9VA4Q_001330.jpg",
+    "giay": 810,
+    "lech": -41
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[2].trich",
+  "trich": "thủng khỏi Fibo 0.5 và đang test Fibo 0.618... Không thể nào tránh khỏi vùng 58 hay 55",
+  "giay": 890,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=WZ8PpZ9VA4Q&t=890s",
+  "anh": [
+   {
+    "file": "so_tay/khung/WZ8PpZ9VA4Q_001330.jpg",
+    "giay": 810,
+    "lech": -80
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[3].trich",
+  "trich": "Ở đây chúng ta có Fibo 0.786 là ở 40.000",
+  "giay": 973,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=WZ8PpZ9VA4Q&t=973s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[4].trich",
+  "trich": "Nếu như ngày xưa thì nó sẽ về loanh quanh khoảng 33 32.000",
+  "giay": 977,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=WZ8PpZ9VA4Q&t=977s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[5].trich",
+  "trich": "kỳ vọng trung bình giá Bitcoin mình mua được khoảng từ 30 cho đến 35.000",
+  "giay": 984,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=WZ8PpZ9VA4Q&t=984s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[6].trich",
+  "trich": "mùa sau chốt lãi khoảng tầm 120",
+  "giay": 1009,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=WZ8PpZ9VA4Q&t=1009s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[7].trich",
+  "trich": "giá sẽ lòng vòng trong biên từ 50 cho đến 70",
+  "giay": 1045,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=WZ8PpZ9VA4Q&t=1045s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[8].trich",
+  "trich": "Cùng lắm nó hồi lên Fibo là 71. Chúng ta ghi lại vùng 71 này là vùng Fibo 0.5",
+  "giay": 1149,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=WZ8PpZ9VA4Q&t=1149s",
+  "anh": [
+   {
+    "file": "so_tay/khung/WZ8PpZ9VA4Q_001930.jpg",
+    "giay": 1170,
+    "lech": 21
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[9].trich",
+  "trich": "Test hai lần rồi có thể test ở vùng 60 61 này là chuyện bình thường",
+  "giay": 1301,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=WZ8PpZ9VA4Q&t=1301s",
+  "anh": [
+   {
+    "file": "so_tay/khung/WZ8PpZ9VA4Q_002230.jpg",
+    "giay": 1350,
+    "lech": 49
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[10].trich",
+  "trich": "Lần này hoàn toàn có thể nó lên test MA89, đâu đó khoảng 67.000",
+  "giay": 1378,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=WZ8PpZ9VA4Q&t=1378s",
+  "anh": [
+   {
+    "file": "so_tay/khung/WZ8PpZ9VA4Q_002230.jpg",
+    "giay": 1350,
+    "lech": -28
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[11].trich",
+  "trich": "cây này giúp anh em mình khớp được entry là 61.000 đêm ngày hôm qua. Fibo 618 hay 0.5",
+  "giay": 1415,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=WZ8PpZ9VA4Q&t=1415s",
+  "anh": [
+   {
+    "file": "so_tay/khung/WZ8PpZ9VA4Q_002230.jpg",
+    "giay": 1350,
+    "lech": -65
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[12].trich",
+  "trich": "chạm Fibo 618 rút xuống... SL khi nến đóng trên 63.000 khỏi Fibo này",
+  "giay": 1593,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=WZ8PpZ9VA4Q&t=1593s",
+  "anh": [
+   {
+    "file": "so_tay/khung/WZ8PpZ9VA4Q_002730.jpg",
+    "giay": 1650,
+    "lech": 57
+   },
+   {
+    "file": "so_tay/khung/WZ8PpZ9VA4Q_002530.jpg",
+    "giay": 1530,
+    "lech": -63
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[13].trich",
+  "trich": "đôi khi nó bay test lại râu 64.000 này",
+  "giay": 1642,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=WZ8PpZ9VA4Q&t=1642s",
+  "anh": [
+   {
+    "file": "so_tay/khung/WZ8PpZ9VA4Q_002730.jpg",
+    "giay": 1650,
+    "lech": 8
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[14].trich",
+  "trich": "Cùng lắm về đây 61.000-61.700 lại đi lên tiếp",
+  "giay": 1678,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=WZ8PpZ9VA4Q&t=1678s",
+  "anh": [
+   {
+    "file": "so_tay/khung/WZ8PpZ9VA4Q_002730.jpg",
+    "giay": 1650,
+    "lech": -28
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[15].trich",
+  "trich": "đi lên đây 65-67.000 là hợp lý",
+  "giay": 1688,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=WZ8PpZ9VA4Q&t=1688s",
+  "anh": [
+   {
+    "file": "so_tay/khung/WZ8PpZ9VA4Q_002730.jpg",
+    "giay": 1650,
+    "lech": -38
+   },
+   {
+    "file": "so_tay/khung/WZ8PpZ9VA4Q_002930.jpg",
+    "giay": 1770,
+    "lech": 82
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[16].trich",
+  "trich": "Gap nhỏ xíu 62.000... nó test về 61.000 thì cũng hợp lý",
+  "giay": 1806,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=WZ8PpZ9VA4Q&t=1806s",
+  "anh": [
+   {
+    "file": "so_tay/khung/WZ8PpZ9VA4Q_002930.jpg",
+    "giay": 1770,
+    "lech": -36
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[17].trich",
+  "trich": "Gap dưới bây giờ chỉ còn là 20.000 thôi",
+  "giay": 1773,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=WZ8PpZ9VA4Q&t=1773s",
+  "anh": [
+   {
+    "file": "so_tay/khung/WZ8PpZ9VA4Q_002930.jpg",
+    "giay": 1770,
+    "lech": -3
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[18].trich",
+  "trich": "Thanh lý chúng ta có là 62.000 61.000. Trong ngắn hạn khả năng nó về đến đó",
+  "giay": 2123,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=WZ8PpZ9VA4Q&t=2123s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[19].trich",
+  "trich": "Không thấy cửa lên được 72",
+  "giay": 2142,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=WZ8PpZ9VA4Q&t=2142s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[20].trich",
+  "trich": "nếu mà rớt thì có thể rớt về 52 53. Sâu hơn nữa sẽ về 40... 30... 20",
+  "giay": 2372,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=WZ8PpZ9VA4Q&t=2372s",
+  "anh": [
+   {
+    "file": "so_tay/khung/WZ8PpZ9VA4Q_004030.jpg",
+    "giay": 2430,
+    "lech": 58
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[21].trich",
+  "trich": "Cao hơn 67 sẽ là 70, 69",
+  "giay": 2368,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=WZ8PpZ9VA4Q&t=2368s",
+  "anh": [
+   {
+    "file": "so_tay/khung/WZ8PpZ9VA4Q_004030.jpg",
+    "giay": 2430,
+    "lech": 62
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[22].trich",
+  "trich": "hỗ trợ của nó sẽ là ở vùng 60.000. Nếu thủng 60.000 thì sẽ đi về 55, 53",
+  "giay": 3194,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=WZ8PpZ9VA4Q&t=3194s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[23].trich",
+  "trich": "Bitcoin đang chờ về 50.000",
+  "giay": 3180,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=WZ8PpZ9VA4Q&t=3180s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[24].trich",
+  "trich": "chỉ cần băng qua khỏi 62.700 này thì sẽ rụng về vùng 61.000 hoặc 62.000",
+  "giay": 3974,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=WZ8PpZ9VA4Q&t=3974s",
+  "anh": [
+   {
+    "file": "so_tay/khung/WZ8PpZ9VA4Q_010730.jpg",
+    "giay": 4050,
+    "lech": 76
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[25].trich",
+  "trich": "kéo TP1 ở 62.000, TP2 ở 62.000... entry ở 62.300",
+  "giay": 4022,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=WZ8PpZ9VA4Q&t=4022s",
+  "anh": [
+   {
+    "file": "so_tay/khung/WZ8PpZ9VA4Q_010730.jpg",
+    "giay": 4050,
+    "lech": 28
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[26].trich",
+  "trich": "Short từ 63k2, SL 63k5 lúc nãy, lệnh này chính xác (short ngay Fibo 0.5)",
+  "giay": 4234,
+  "do_giong": 0.75,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=WZ8PpZ9VA4Q&t=4234s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[27].trich",
+  "trich": "Chờ nó về lại vùng 62, 61.000 rồi chơi (long)",
+  "giay": 3337,
+  "do_giong": 0.909,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=WZ8PpZ9VA4Q&t=3337s",
+  "anh": []
+ }
+]

@@ -1,0 +1,206 @@
+{
+  "buoi": "2026-01-16_SllvhCOjrkE",
+  "ngay": "2026-01-16",
+  "gia_btc_luc_noi": 95500,
+  "moc": [
+    {
+      "gia": 97000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "Fibo 1.618 (khung H4)"
+      ],
+      "moc_gio": "00:03:34",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Chắc chắn cái vùng 97 này là Fibo 1618 rồi"
+    },
+    {
+      "gia": 93000,
+      "gia_tren": 94000,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [],
+      "moc_gio": "00:03:34",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Tệ cũng phải về 94 hoặc 93"
+    },
+    {
+      "gia": 96000,
+      "gia_tren": 98000,
+      "vai_tro": "nhac_lai",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "vùng target đầu tiên của nhịp tăng từ 90 lên 97"
+      ],
+      "moc_gio": "00:05:13",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Từ 96 cho đến 98.000 là vùng TP1 cho nhịp tăng lần này"
+    },
+    {
+      "gia": 96000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "GIAM",
+      "khung": "H1",
+      "can_cu": [],
+      "moc_gio": "00:10:23",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Cùng lắm thì nó sẽ bứt tiếp lên khoảng 96.000"
+    },
+    {
+      "gia": 93000,
+      "gia_tren": 94000,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [],
+      "moc_gio": "00:10:59",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Chúng ta sẽ xét vùng khả quan là ở 94 cho đến 93"
+    },
+    {
+      "gia": 94000,
+      "gia_tren": 95000,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": null,
+      "can_cu": [
+        "gap 94-95 đã lấp"
+      ],
+      "moc_gio": "00:11:33",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "gap 94 95 này thì đã được lấp"
+    },
+    {
+      "gia": 95000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "M30",
+      "can_cu": [
+        "gap nhỏ khung 30 phút"
+      ],
+      "moc_gio": "00:12:04",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Khúc nho nhỏ này khoảng 95.000 gì đó... nhấp lên khoảng 95.000 mấy rồi sau đó mới điều chỉnh xuống"
+    },
+    {
+      "gia": 88000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "gap 88 chưa lấp"
+      ],
+      "moc_gio": "00:12:37",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Gap đầu tiên là gap thấp dưới này, 88. Gap này là chưa lấp"
+    },
+    {
+      "gia": 20000,
+      "gia_tren": null,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": null,
+      "can_cu": [
+        "gap 20.000 chưa lấp"
+      ],
+      "moc_gio": "00:12:37",
+      "tai_san": "BTC",
+      "chac": false,
+      "trich": "Gap này với lại gap 20.000"
+    },
+    {
+      "gia": 97000,
+      "gia_tren": null,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý / heatmap"
+      ],
+      "moc_gio": "00:15:53",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Heatmap hả? Có Liquid 97. Cao phết"
+    },
+    {
+      "gia": 98000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý / heatmap"
+      ],
+      "moc_gio": "00:16:28",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "nó có thể lên đến 98"
+    },
+    {
+      "gia": 94000,
+      "gia_tren": null,
+      "vai_tro": "tp",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": "00:17:02",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "mình nghĩ anh em chốt ở quanh vùng 94, 9400 gì đó"
+    },
+    {
+      "gia": 92000,
+      "gia_tren": 93000,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": "00:20:18",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "nó xả một phát về 92 các thứ sau đó nhấp lên... ăn từ khoảng 92 lên đến 93"
+    },
+    {
+      "gia": 99000,
+      "gia_tren": 100000,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "MA200",
+        "MA34 W1 là cản thực sự"
+      ],
+      "moc_gio": "00:32:10",
+      "tai_san": "BTC",
+      "chac": false,
+      "trich": "Nếu nó lên MA200 này thì mình vẫn hy vọng còn một nhịp cuối lên được khoảng 100, 99.000"
+    },
+    {
+      "gia": 96000,
+      "gia_tren": null,
+      "vai_tro": "sl",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": "00:54:24",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Ví dụ nó lên khoảng 96 thấy không được thì có thể out"
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "buoi": "2026-06-01_cgTktZyPPt4",
+  "ngay": "2026-06-01",
+  "gia_btc_luc_noi": 73500,
+  "moc": [
+    {
+      "gia": 73000,
+      "gia_tren": 74000,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": "M30",
+      "can_cu": [
+        "biên đi ngang cuối tuần"
+      ],
+      "moc_gio": "00:02:29",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Nó vẫn đi lòng vòng trong vùng từ 7400 về đến khoảng 73.00 sâu nhất"
+    },
+    {
+      "gia": 83000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "GIAM",
+      "khung": "MN",
+      "can_cu": [
+        "Fibo (nến tháng 5 có râu quét lên Fibo 83.000)"
+      ],
+      "moc_gio": "00:16:47",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Cây nến tháng năm đóng cực kỳ chuẩn khi có râu nến quét lên đến vùng Fibo 83.000"
+    },
+    {
+      "gia": 50000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "MN",
+      "can_cu": [
+        "mục tiêu gom hàng spot dài hạn",
+        "số tròn"
+      ],
+      "moc_gio": "00:17:52",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Mong rằng thị trường tiếp tục những nhịp gãy, nhịp giảm về dưới 50.000 để chúng ta hoàn tất mục tiêu gom hàng Bitcoin"
+    },
+    {
+      "gia": 84000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "TANG",
+      "khung": "W1",
+      "can_cu": [],
+      "moc_gio": "00:18:58",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Thực tế mình nhìn cửa lên 84 này vẫn có cửa nhưng có lên được hay không thì thuộc về thị trường"
+    },
+    {
+      "gia": 71000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "W1",
+      "can_cu": [
+        "Fibo (khung tuần, không nói điểm kéo)",
+        "cross MA34/MA89 tuần backtest",
+        "2 đáy tuần"
+      ],
+      "moc_gio": "00:20:01",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Fibo này, nhịp này hoàn toàn có thể đấm về 71. Mình đang nói trên khung tuần"
+    },
+    {
+      "gia": 75000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [
+        "điểm cross MA34/MA89 D1",
+        "Fibo 0.5-0.618",
+        "neckline vai đầu vai D1",
+        "gap CME nhỏ H1 ở 75.000",
+        "cụm thanh lý phe short"
+      ],
+      "moc_gio": "00:21:41",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "hồi lên để test lại điểm cross của hai đường MA vàng và xanh... Fibo đâu đó khoảng 75.00, hợp lệ ở Fibo 0.5 đến 618... neckline... một gap nhỏ ở vùng 75.000"
+    },
+    {
+      "gia": 73000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": null,
+      "khung": "M30",
+      "can_cu": [
+        "Fibo 0.618 và 0.5 thoái lui biên cuối tuần"
+      ],
+      "moc_gio": "00:23:54",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Nhịp lúc sáng 9:00 sáng nay nó về test đúng vùng 73.00, sau đó kéo lên cũng đúng ngay vùng Fibo 0.618 và Fibo 0.5"
+    },
+    {
+      "gia": 75000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "M30",
+      "can_cu": [
+        "Fibo mở rộng M30 (đáy, đỉnh, điểm thoái lui)"
+      ],
+      "moc_gio": "00:24:25",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Nhịp hồi này dùng Fibo mở rộng xem dẫn đến đâu... Có hai vùng: một là 75.00, hai là 76.00"
+    },
+    {
+      "gia": 76000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "M30",
+      "can_cu": [
+        "Fibo mở rộng M30",
+        "cụm thanh lý 76.000",
+        "quét stop loss short"
+      ],
+      "moc_gio": "00:24:58",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Căng nhất nó quét râu nến chạm vùng 7600 để quét stop loss tất cả những lệnh short ở đây... Có một vùng ở 76.000"
+    },
+    {
+      "gia": 72600,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "MA200 H4"
+      ],
+      "moc_gio": "00:28:38",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "đường MA200 này nó sẽ kéo về đâu đó khoảng quanh vùng 72.600"
+    },
+    {
+      "gia": 76000,
+      "gia_tren": null,
+      "vai_tro": "entry",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "chờ nến H4 test MA200 đóng nến bán"
+      ],
+      "moc_gio": "00:29:12",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "chúng ta có thể vào luôn được ở entry 76... ăn được từ 76 về đến 73"
+    },
+    {
+      "gia": 73000,
+      "gia_tren": null,
+      "vai_tro": "tp",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [],
+      "moc_gio": "00:29:12",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "chúng ta ăn được từ 76 về đến 73 này cũng ngon mà nó an toàn"
+    },
+    {
+      "gia": 79000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [
+        "gap CME cao"
+      ],
+      "moc_gio": "00:29:46",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "trên này chúng ta vẫn còn những vùng gap cao. Ví dụ vùng 79 này... nó quét lên 79"
+    },
+    {
+      "gia": 40000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "MN",
+      "can_cu": [
+        "mục tiêu gom spot"
+      ],
+      "moc_gio": "00:45:57",
+      "tai_san": "BTC",
+      "chac": false,
+      "trich": "Mua chia ra cho đến lúc mà Bitcoin nó về 40.000 là được"
+    }
+  ]
+}

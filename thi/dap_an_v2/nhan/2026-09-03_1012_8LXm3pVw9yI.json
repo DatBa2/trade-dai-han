@@ -1,0 +1,52 @@
+{
+  "buoi": "2026-09-03_1012_8LXm3pVw9yI",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/lam_sach/2026-09-03_1012_8LXm3pVw9yI.md",
+  "gia_btc_luc_noi": 77500,
+  "dau_buoi": {
+    "thien_huong_h4": "GIAM",
+    "gio": null,
+    "trich": "Cấu trúc H4 hiện tại vẫn là cấu trúc sóng giảm: đỉnh đáy cứ kéo thấp dần. Chưa biết nó test về đâu, mình kỳ vọng nó sẽ test đâu đó khoảng 75, nhưng vẫn là xu hướng xấu, xu hướng đi xuống, nên chưa đủ lý do để long ở đoạn này."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "GIAM",
+    "do_chac": "vua",
+    "gio": null,
+    "trich": "Hôm qua mình cho anh em sale ở vùng 77 đến 78; lệnh đó mình vẫn còn giữ, chờ nó về. Chắc là giảm TP xuống khoảng quanh 76 đến 76.000 [?] (\"76.00\"), TP1 thôi. Hôm qua định chờ về 75 mà lực này có vẻ hơi khó về 75. ... Làm gì làm, anh em phải nhớ là downtrend, được chưa?"
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {"huong": "TANG", "dich": 78000},
+  "duong_di": [
+    {"huong": "TANG", "dich": 78000},
+    {"huong": "GIAM", "dich": [75000, 76000]}
+  ],
+  "dich_chinh": [75000, 76000],
+  "han_gio": null,
+  "vo_hieu": {
+    "gia": 79000,
+    "khung": "H4",
+    "so_nen": 1,
+    "chieu": "dong_tren",
+    "cau": "Muốn long thì phải chờ nó break được xu hướng, break những trendline này thì may ra mới long; hoặc ít nhất là phải qua khỏi 79.000, qua khỏi 78.800 [?] (\"78.008\"), tức là đóng nến trên 79.000 để phá vỡ cấu trúc xu hướng giảm trước đó thì lúc đó mới nghĩ đến chuyện long."
+  },
+  "lenh": [
+    {"chieu": "SHORT", "vao": [77000, 78000], "tp": [76000], "sl": null, "trang_thai": "dang_giu"},
+    {"chieu": "SHORT", "vao": 77000, "tp": [76000], "sl": null, "trang_thai": "de_xuat_moi"},
+    {"chieu": "LONG", "vao": [72000, 73000], "tp": [76000], "sl": 72000, "trang_thai": "de_xuat_moi"}
+  ],
+  "hanh_dong": "giu_lenh",
+  "khung_lon": {"D1": "GIAM", "W1": "GIAM"},
+  "pha_vo_gia": "Trả lời câu hỏi 'fake out break lên 81 rồi về 60': 'Nếu fake out cao lên 81 thì mình nghĩ về 50 chứ về 60 thì hơi ít' (giả định, không phải kịch bản chính trong ngày).",
+  "trich_them": [
+    {"gio": null, "cau": "Đoạn này nó sẽ chạy khá là khó chịu, vẫn trong biên 77 đến 78 thôi. Thực tế vùng này mình kỳ vọng là nó sẽ về test cái râu nến ở đoạn này rồi mới lên test Fibo, sau đó lại gãy."},
+    {"gio": null, "cau": "Lý do hiện tại mình vẫn chưa long: giá nằm dưới MA khung tuần, vẫn rất là xấu. Mình chưa thấy lý do gì để cứ phải mạo hiểm long khi khung tuần đóng một cây nến đảo chiều như thế này."},
+    {"gio": null, "cau": "Với nến ngày, giá vẫn chưa qua được đường MA ở đây và liên tục bị chặn. Tầm này giá sẽ chạy trong biên từ 79 về đến 76. ... Trên D1 hoàn toàn có khả năng nó cần về test lại ở đoạn MA khung ngày, MA khung ngày nằm ở vùng giá đâu đó 73, loanh quanh vùng 73, 74."},
+    {"gio": null, "cau": "Nếu long thì mình chờ đánh từ 72 lên 76, ăn chừng đó thôi. Trừ khi giá đóng cửa trên 79.000 thì sẽ đánh tiếp từ 79 lên đến khoảng 90, lúc đó tùy; hoặc 79 lên đến 82, rồi từ 82 nếu phá qua được 83 sẽ đánh tiếp từ 83 lên đến 90."},
+    {"gio": null, "cau": "Còn nếu nó thủng khỏi 72 thì cắt nhá, không giữ, bởi vì đó là nhịp chúng ta chỉ đánh lướt thôi, đánh ngắn chứ không phải một entry để hold dài."},
+    {"gio": null, "cau": "Coinglass và Hyblock: bên liquidation hitmap thì còn mỗi vùng ở 78.000 [?] (\"78.00\") nữa, có khả năng trong nhịp từ giờ đến trưa nó quét lên 7800 rồi đến chiều tối nó quét đến đám dưới này. Thận trọng 76, mình nghĩ vẫn có xác suất nhá."},
+    {"gio": null, "cau": "Bitcoin vẫn gặp cản ở H4 này thì long sao được. Cứ gặp cản lại đây thì long làm gì?"},
+    {"gio": null, "cau": "Tầm này nếu anh em muốn đánh lại con Bitcoin này, đánh sale lại, thì mình nghĩ chờ nó thủng lại dưới 77, đuổi từ 77 về khoảng độ 76.000, ăn được khoảng 1000 giá; 800 đến 1000 giá là ok."},
+    {"gio": null, "cau": "Còn đi như thế này thì long cũng không được mà sale cũng không. H4 thì khả năng vẫn đóng loanh quanh chỗ này, vẫn dưới đường MA này thôi."}
+  ],
+  "kho": "File không có mốc giờ. Hướng H4 giảm rõ và đang giữ lệnh sale 77–78, nhưng đích dao động (TP1 76, kỳ vọng 75, Fibo/MA ngày 72–74); chặng quét lên 78 trước chỉ là 'có khả năng'. Cuối buổi nói 'long cũng không được mà sale cũng không' và vào lệnh mới ở giá hiện tại 'hơi xấu' nên độ chắc chỉ vừa."
+}

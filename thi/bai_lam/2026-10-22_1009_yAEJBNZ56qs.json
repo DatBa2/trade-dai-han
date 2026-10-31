@@ -1,0 +1,103 @@
+{
+ "buoi": "2026-10-22_1009_yAEJBNZ56qs",
+ "ngay": "2026-10-22",
+ "gio_vn": "10:09",
+ "gia_btc_luc_noi": 82929,
+ "nhan_dinh": [
+  {
+   "khung": "H4",
+   "huong": "TANG",
+   "do_chac": "vua",
+   "dich": [84800, 86500],
+   "han": "2–3 ngày, tới hết thứ Bảy 24/10",
+   "han_gio": 72,
+   "vo_hieu_khi": "Nến H4 đóng dưới 82.000 (thủng EMA200 H4 82.13 + Fibo 0.786 nhịp 81.2 → 84.9) — đóng dưới 81.000 là mất hẳn view break",
+   "kich_ban_phu": "Nhịp backtest có thể quét thêm xuống 82.6 (Fibo 0.618) trước khi bật; nếu nến ngày hôm nay đóng đỏ dưới 83 thì còn đi ngang 82.5–84.5 thêm 1–2 ngày",
+   "duong_di": [{"huong": "GIAM", "dich": 82650}, {"huong": "TANG", "dich": 84800}, {"huong": "TANG", "dich": 86500}],
+   "doi_y": null,
+   "ly_do": [
+    "ĐỔI view vì (a): mốc sai buổi 20/10 'H4 đóng trên 82 và giữ, break biên tam giác lên' đã kích hoạt; thêm 2 cây H4 đóng trên 84 (84.54 / 84.49) — đúng điều kiện 'hai cây H4 đóng trên mới an toàn'",
+    "Cấu trúc H4 đổi: đáy cao dần 79.78 → 80.68 → 81.2, đỉnh mới 84.9 vượt cả ba đỉnh 84.15–84.36 → tầm này không short nữa",
+    "Cây đỏ sáng nay là nhịp backtest: rơi đúng vào cụm EMA89 H4 82.73 + dải EMA34 H4 82.24–83.10 + Fibo 0.5–0.618 nhịp 81.2 → 84.9 (83.05/82.61) + đỉnh cũ 83.2–83.4 đổi vai",
+    "Giá vẫn nằm trên EMA34 và EMA89 H4, EMA34 H4 đã dốc lên → không short ở hỗ trợ",
+    "D1 hôm qua đóng xanh 84.1 trên mốc 84 → hôm nay không đánh ngược"
+   ],
+   "trich": null
+  },
+  {
+   "khung": "D1",
+   "huong": "TANG",
+   "do_chac": "vua",
+   "dich": [86500, 87200],
+   "han": "3–7 ngày (trước họp Fed 29/10)",
+   "han_gio": 168,
+   "vo_hieu_khi": "Nến D1 đóng dưới 81.900 (quay lại dưới EMA34 D1 + vào lại vùng sideway cũ)",
+   "kich_ban_phu": "Gặp hai đỉnh D1 86.7–87.4 có thể khựng lại, đi tiếp 90 cần nến ngày đóng trên 87",
+   "duong_di": null,
+   "doi_y": null,
+   "ly_do": [
+    "ĐỔI view vì (a): mốc sai D1 buổi 16/10 'kéo lên trên 84.000 là kết thúc nhịp giảm' — D1 21/10 đóng 84.098",
+    "Hai ngày xanh liên tiếp (+1.32%, +1.29%) sau chuỗi đáy 79.8–80.7 giữ được",
+    "Giá trên EMA34 D1 82.1, mô hình hai đỉnh D1 xem như bị huỷ khi đã lấy lại neckline 84",
+    "Đích = vùng hai đỉnh 86.7–87.4 + Fibo 0.786 sóng ngày 85.7"
+   ],
+   "trich": null
+  },
+  {
+   "khung": "W1",
+   "huong": "TANG",
+   "do_chac": "vua",
+   "dich": [90000, 93000],
+   "han": "2–4 tuần",
+   "han_gio": 504,
+   "vo_hieu_khi": "Nến tuần đóng dưới 80.000",
+   "kich_ban_phu": "90–93 vẫn chỉ là hồi tối đa trong downtrend lớn",
+   "duong_di": null,
+   "doi_y": null,
+   "ly_do": [
+    "Giữ view: nến tuần trước giữ 80 và 82, tuần này đang xanh +1%",
+    "Giá trên dải EMA34 tuần và EMA89 tuần 79.5"
+   ],
+   "trich": null
+  }
+ ],
+ "vung_gia": {
+  "khang_cu": [84000, 84900, 86700, 87400],
+  "ho_tro": [83100, 82600, 82100, 81200]
+ },
+ "lenh": [
+  {"chieu": "LONG", "loai": "limit", "vao": 82700, "tp": [84550, 86300], "sl": 81850, "trang_thai": "de_xuat_moi"}
+ ],
+ "hanh_dong": "dung_ngoai_cho_entry",
+ "giu_view": false,
+ "ly_do_doi_view": "(a) Nến đóng qua mốc sai đã báo: H4 view GIẢM 20/10 sai khi 'H4 đóng trên 82 và break biên tam giác lên' — đã có 2 cây H4 đóng trên 84; D1 view GIẢM sai khi 'kéo lên trên 84' — D1 21/10 đóng 84.098. Chuyển sang TĂNG, cây đỏ sáng nay coi là backtest.",
+ "rau": {
+  "tren": "84.900 (H4 mở 23:00 21/10) và 84.831 (H4 mở 19:00 21/10) — đỉnh mới vượt ba đỉnh cũ 84.15–84.36",
+  "duoi": "82.683 (H4 mở 07:00 22/10) — râu của cây backtest, chạm EMA89 H4 / Fibo 0.618; dưới nữa là 81.200 (20/10)",
+  "test_lai": "Râu trên 84.9: CÓ — sau backtest giá sẽ quay lên test lại đỉnh, cụm thanh lý short trên 85 vừa mở + Fibo 0.618 sóng ngày 84.4 trùng ngay đó. Râu dưới 82.68: KHÔNG (tối đa quét thêm vài trăm giá tới 82.6) — vừa chạm vùng hội tụ EMA89 + Fibo 0.618 + đỉnh cũ đổi vai, có lực đỡ. Râu 81.2: KHÔNG — đã test và rút chân, có EMA200 H4 chắn giữa."
+ },
+ "vung_on": [
+  {
+   "loai": "LONG",
+   "khoang": [82500, 83100],
+   "ly_do": [
+    "EMA89 H4 82.73 + dải EMA34 H4 82.24–83.10",
+    "Fibo 0.5–0.618 nhịp H4 81.2 → 84.9 (83.05 / 82.61)",
+    "Đỉnh cũ 83.17 / 83.44 vừa bị phá → đổi vai thành hỗ trợ",
+    "Mép trên dải EMA34 D1 83.12"
+   ]
+  },
+  {
+   "loai": "SHORT",
+   "khoang": [86500, 87400],
+   "ly_do": [
+    "Hai đỉnh D1 86.7 / 87.2 / 87.4",
+    "Vùng base sideway cũ 87–90 (nêu 06/10)",
+    "Tường thanh lý short 87",
+    "Chỉ là vùng chốt lời long, không short ngược khi D1 còn xanh"
+   ]
+  }
+ ],
+ "pha_vo_gia": "Cú vượt 84 là THẬT: 2 cây H4 liên tiếp đóng trên (84.54, 84.49), D1 đóng 84.1. Cú đạp sáng nay về 82.9 mới chỉ 1 cây H4 (G2), xảy ra khung 9–10h sáng hay loạn, và rơi đúng vào vùng hỗ trợ hội tụ → coi là backtest, chưa phải phá xuống.",
+ "loi_binh": "Hai cây H4 đóng trên 84 rồi anh em, nến ngày hôm qua cũng đóng trên 84, cái mốc mình nói 'qua 84 là kết thúc nhịp giảm' đã xảy ra, nên view sale hôm trước bỏ. Cây đỏ sáng nay nhìn thì sợ nhưng nó về đúng MA89 H4 với Fibo 0.618, chỗ đỉnh 83 cũ, break lên rồi về backtest lại là chuyện bình thường. Không short ở hỗ trợ, chờ 82.6–83 có nến rút chân thì long, SL dưới 82, TP non 84.5 rồi 86.3. H4 đóng dưới 82 thì mình sai, cắt, chuyện bình thường."
+}

@@ -1,0 +1,194 @@
+{
+ "buoi": "2026-07-01_WNiQnpm2BLo",
+ "ngay": "2026-07-01",
+ "gio_vn": "10:00",
+ "gia_btc_luc_noi": 58000,
+ "nhan_dinh": [
+  {
+   "khung": "H4",
+   "huong": "GIAM",
+   "do_chac": "vua",
+   "dich": [
+    51000,
+    54000
+   ],
+   "han": null,
+   "han_gio": null,
+   "vo_hieu_khi": "nến H4 đóng trên 61.000",
+   "vo_hieu_cau_truc": {
+    "gia": 61000,
+    "khung": "H4",
+    "so_nen": 1,
+    "chieu": "dong_tren",
+    "cau": "Cho nên để qua được khỏi xu hướng giảm này thì giá phải phá được khỏi 61.000 kia."
+   },
+   "kich_ban_phu": null,
+   "duong_di": [
+    {
+     "huong": "TANG",
+     "dich": [
+      59000,
+      60400
+     ]
+    },
+    {
+     "huong": "GIAM",
+     "dich": [
+      51000,
+      54000
+     ]
+    }
+   ],
+   "doi_y": null,
+   "ly_do": [],
+   "trich": "Plan trong ngày hôm nay thì thận trọng bởi vì vùng dưới này mình nghĩ không phải là vùng quá ngon để nhồi volume short hay long ở đoạn dưới này. Nếu không có một pha hồi lên để quét stop loss phe short trước thì chúng ta cũng không nên mạnh quá.",
+   "nhan_v1": "GIAM"
+  },
+  {
+   "khung": "W1",
+   "huong": "GIAM",
+   "do_chac": "vua",
+   "dich": null,
+   "han": "sau nến tháng như vậy thường dập dìu 2-8 tháng mới phục hồi",
+   "han_gio": null,
+   "vo_hieu_khi": null,
+   "kich_ban_phu": "hỗ trợ 30 là vùng cuối; tệ 4x gần hơn; không có cơ sở bắt đáy all in lúc này | đích dài hạn: 30.000-45.000",
+   "ly_do": [
+    "lịch sử các nến tháng tương tự chưa bao giờ quay đầu bay ngay tháng sau",
+    "giá tiệm cận MA89 tháng 52.000"
+   ],
+   "trich": "Chưa bao giờ nó kết thúc một nhịp điều chỉnh như này mà nó có thể break, quay đầu đi lên được, cực kỳ khó. Bởi vì đây là khung tháng.",
+   "doi_y": null,
+   "duong_di": null
+  },
+  {
+   "khung": "H1",
+   "huong": "TANG",
+   "do_chac": "thap",
+   "dich": [
+    59000,
+    60000
+   ],
+   "han": "trong ngày",
+   "han_gio": 24,
+   "vo_hieu_khi": null,
+   "kich_ban_phu": "hồi tối đa 60.000-60.400 rồi short; nếu hồi quá 61 thì tính tiếp",
+   "ly_do": [
+    "hai đáy 30 phút rất khả thi",
+    "BTC phá cản, tệ lắm lên Fibo 59.000",
+    "quét SL phe short dưới đáy"
+   ],
+   "trich": "Ở đây hai đáy rất khả thi, rất đẹp. 30 phút lên được 5900 này.",
+   "doi_y": null,
+   "duong_di": null
+  }
+ ],
+ "vung_gia": {
+  "khang_cu": [
+   60000,
+   61000
+  ],
+  "ho_tro": [
+   57000,
+   58000
+  ]
+ },
+ "lenh": [
+  {
+   "chieu": "SHORT",
+   "vao": [
+    60000,
+    60400
+   ],
+   "tp": [
+    54000,
+    51000
+   ],
+   "sl": 61000,
+   "trang_thai": "de_xuat_moi"
+  },
+  {
+   "chieu": "LONG",
+   "vao": 57000,
+   "tp": [
+    60000
+   ],
+   "sl": null,
+   "trang_thai": "de_xuat_moi"
+  }
+ ],
+ "nhin_lai_truoc": "Hôm qua ăn TP nhiều nên sáng nay ăn SL thường thôi; tháng 6 plan bám sát (chốt spot ở 80-120, cảnh báo World Cup coin nát, nến tháng đỏ nhất); WLD short 0.61 chốt 0.41-0.42 đúng.",
+ "cong_cu": [
+  "khung tháng/MA89",
+  "D1",
+  "H4",
+  "H1 MA34/89/200",
+  "M5/M30",
+  "hai đáy",
+  "Fear and Greed",
+  "liquidation",
+  "USDT.D",
+  "DOM",
+  "lịch tin"
+ ],
+ "tin_tuc": [
+  {
+   "tin": "Tối nay 20:00 Chủ tịch FED mới phát biểu; mai non-farm; 30/7 công bố lãi suất",
+   "danh_gia": "nên tắt chart giờ phát biểu; đừng kỳ vọng giảm lãi suất, không tăng là mừng"
+  }
+ ],
+ "thoi_quen": [
+  "ngược xu hướng thì vốn nhỏ, ăn sóng hồi, SL ngắn chấp nhận bị quét",
+  "không short dưới đáy, chờ hồi lên quét SL rồi short",
+  "tháng mới reset tài khoản chốt lãi",
+  "ngày có tin lớn tắt chart",
+  "chốt dần, không bắt đáy all in ở khung tháng"
+ ],
+ "cau_cua_mieng": [
+  "Trade mà không có SL thì sao gọi là trade được?",
+  "Phe mua mất đồn này thì họ dịch chuyển về đồn kế tiếp.",
+  "Altcoin chỉ có đường một chiều thôi, không có con đường nào khác."
+ ],
+ "altcoin": [
+  {
+   "coin": "altcoin chung",
+   "huong": "GIAM",
+   "ghi": "bỏ qua, chỉ có một con đường; tập trung BTC, cùng lắm ETH; dành thời gian lọc danh sách dự án"
+  },
+  {
+   "coin": "SOL",
+   "huong": "TANG",
+   "ghi": "break cản, tiến 77-79 như đã nói"
+  },
+  {
+   "coin": "LAB",
+   "huong": "GIAM",
+   "ghi": "muốn gãy nhưng funding -0.4%/giờ, short khó ăn"
+  },
+  {
+   "coin": "WLD",
+   "huong": "GIAM",
+   "ghi": "đã gãy về 0.4; mình chốt short 0.41-0.42"
+  },
+  {
+   "coin": "vàng",
+   "huong": "GIAM",
+   "ghi": "vẫn short, chờ hồi lên; SL trên MA200 4012, biên độ quét ác"
+  }
+ ],
+ "ghi_chu": "gio_vn mặc định. Nhận định khung 30 phút gộp vào H1 theo luật. Giá ~58.300 đầu buổi, 59.000 cuối buổi. '5700 700' hiểu 57.000-57.700.",
+ "hanh_dong": "dung_ngoai_cho_entry",
+ "chang_ke_tiep": {
+  "huong": "TANG",
+  "dich": [
+   59000,
+   60400
+  ]
+ },
+ "khung_lon_v2": {
+  "D1": "GIAM",
+  "W1": null
+ },
+ "pha_vo_gia": "[00:21:36] cây volume 5 phút break xuống ~5700 rồi rút lên: 'nhịp quét stop loss của phe long trước khi tăng cũng như là một nhịp fake out giả vờ breakout ở đây để đi xuống'; nhịp hồi lên 60–60.4 được gọi là lên quét stop loss phe short FOMO.",
+ "nguon_nhan": "dap_an_v2 (Opus 5.5 rút mù 31/10)"
+}

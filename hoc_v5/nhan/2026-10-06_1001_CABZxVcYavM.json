@@ -1,0 +1,436 @@
+{
+  "buoi": "2026-10-06_1001_CABZxVcYavM",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/lam_sach/2026-10-06_1001_CABZxVcYavM.md",
+  "gia_btc_luc_noi": 86000,
+  "dau_buoi": {
+    "thien_huong_h4": "PHAN_VAN",
+    "gio": null,
+    "trich": "Nó là 50/50 nhá. Nó đi lên luôn cũng bình thường, mà gãy về điều chỉnh cũng bình thường."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "PHAN_VAN",
+    "do_chac": "thap",
+    "gio": null,
+    "trich": "Tổng quát Bitcoin chỉ có thế: sideway, ta quan sát nó phá 85 hay phá lên khỏi 87."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {
+    "huong": "GIAM",
+    "dich": 85000
+  },
+  "duong_di": null,
+  "dich_chinh": null,
+  "han_gio": null,
+  "vo_hieu": null,
+  "lenh": [],
+  "hanh_dong": "dung_ngoai_vi_lap_lung",
+  "khung_lon": {
+    "D1": "PHAN_VAN",
+    "W1": null
+  },
+  "pha_vo_gia": null,
+  "trich_them": [
+    {
+      "gio": null,
+      "cau": "Nhìn ba cây nến này thì Long bắt đầu bị áp lực, đây là một trong những tín hiệu cảnh báo rủi ro đầu tiên."
+    },
+    {
+      "gio": null,
+      "cau": "Đáy cao dần nhưng đỉnh trên đi bằng. Theo kinh nghiệm trade của mình, mô hình cờ này hay đi lên."
+    },
+    {
+      "gio": null,
+      "cau": "Anh em muốn thấy thị trường điều chỉnh sâu thì phải đóng cửa H4 dưới 85.000 thì mới bắt đầu có tín hiệu rủi ro, lúc đó may ra mới chọn phe bán để follow. Còn hiện tại không nên chọn phe bán, chưa đủ dữ liệu."
+    },
+    {
+      "gio": null,
+      "cau": "Thủng 85 thì nó không sập một phát đâu... có thể như vậy, về vùng khoảng 83-84 rồi vòng vèo ở trong đoạn này. Còn quan điểm như lần trước mình nói: nó thủng được 82 thì nó về tiếp khoảng quanh 81, bắt đầu là vùng xem xét entry đẹp."
+    },
+    {
+      "gio": null,
+      "cau": "Xu hướng ở H4 này sẽ chiếm vai trò view chủ đạo của thị trường trong tuần này. Mọi người cứ follow kỹ: nó đi hướng nào ta theo hướng đó, không cần vào sớm quá."
+    },
+    {
+      "gio": null,
+      "cau": "Cho nên khi thấy nó break qua 85.009 [?] hoặc 86.000 thì tốt nhất bỏ hy vọng nó về dưới này; khả năng nó tiếp tục test lại 87 rất cao."
+    },
+    {
+      "gio": null,
+      "cau": "Mình nghĩ đoạn này nó sẽ rơi về 85, kéo lên 87 rồi lại kéo xuống; cứ vòng vèo trong biên này chứ không thoát ra nhanh chóng. Thị trường rất khó chơi, đoạn này rất khó đánh."
+    },
+    {
+      "gio": null,
+      "cau": "Khung ngày, nếu view rộng ra thì giá ở vùng này đang bắt đầu gặp cản dần. Trong nỗ lực nó vẫn đi lên, nhưng càng lên cao càng yếu vì bên này là vùng cản rất lớn, rất cứng ở vùng 87 đến 90."
+    },
+    {
+      "gio": null,
+      "cau": "Thị trường bây giờ đứng mất rồi, có gì đâu mà chơi nữa; giờ anh em mình nghỉ ngơi thôi."
+    }
+  ],
+  "kho": "File không có mốc giờ. Buổi sideway thật sự: tín hiệu hai phía cân nhau (đỉnh thấp dần = cảnh báo giảm; đáy cao dần + 'mô hình cờ hay đi lên'), người nói nói rõ 50/50, chờ phá 85 (đóng H4 dưới 85) hay vượt 87 — nên gán PHAN_VAN. Chặng kế tiếp 'rơi về 85, kéo lên 87 rồi lại kéo xuống' chỉ là dao động trong biên. Không có câu vô hiệu một chiều vì không có view chính.",
+  "nhin_lai_view_truoc": {
+    "view_truoc": "GIAM có điều kiện: thủng 82 thì về quanh 81 (vùng xem xét entry đẹp); hỗ trợ 85 đã nói những ngày trước",
+    "giu_hay_doi": "giu",
+    "vi_sao": "Vẫn nhắc lại quan điểm cũ 'thủng 82 thì về 81' và hỗ trợ 85, nhưng hôm nay nói rõ chưa đủ dữ liệu để chọn phe bán: H4 đỉnh thấp dần (cảnh báo) nhưng đáy vẫn cao dần, phải đóng H4 dưới 85 mới có tín hiệu rủi ro -> view cũ giữ ở dạng kịch bản, thực tế đứng ngoài chờ phá biên 85-87.",
+    "gio": "[00:18:13]",
+    "trich": "Còn nếu cái cái tầm này như lần trước mình nói vẫn quan điểm là nó thủng được 82 thì nó về tiếp cái vùng khoảng quanh 81 này là bắt đầu là cái vùng xem xét cái entry nó đẹp."
+  },
+  "trendline": [
+    {
+      "khung": "H4",
+      "loai": "ho_tro_tang",
+      "noi_tu": "Trendline hỗ trợ nối các đáy cao dần trên H4 (mô hình cờ: đáy cao dần, đỉnh đi bằng); không nêu giá điểm neo",
+      "diem_neo": [
+        {
+          "ngay": null,
+          "gia": null
+        }
+      ],
+      "gia_duong_luc_noi": null,
+      "trang_thai": "dang_giu",
+      "dieu_kien_pha": "Trendline hỗ trợ phải thủng; cụ thể muốn thấy điều chỉnh sâu thì phải đóng cửa H4 dưới 85.000",
+      "ket_luan_huong": "Còn giữ: mô hình cờ đáy cao này theo kinh nghiệm hay đi lên (break lên). Thủng 85 thì về test Fibo/hỗ trợ 83-84 rồi vòng vèo, chưa sập ngay",
+      "gio": "[00:17:09]",
+      "trich": "Đấy nếu nó tiếp tục lên test đây và tạo tiếp những cái đáy này thì nó sẽ break lên và đi lên. Được chưa? Và cái điều kiện để nó gãy là gì? Thì bây giờ cái vùng cái trend line hỗ trợ này nó phải thủng thì nó mới gãy được."
+    },
+    {
+      "khung": "H1",
+      "loai": "khang_cu_giam",
+      "noi_tu": "Đường xu hướng giảm ngắn hạn trên H1/30 phút (đỉnh giảm dần, phá đáy giảm dần); không nêu giá điểm neo",
+      "diem_neo": [
+        {
+          "ngay": null,
+          "gia": null
+        }
+      ],
+      "gia_duong_luc_noi": null,
+      "trang_thai": "chua_pha",
+      "dieu_kien_pha": "Break qua 85.900 (phụ đề '85.009') hoặc 86.000",
+      "ket_luan_huong": "Phá lên thì mô hình cờ tiếp diễn, khả năng rất cao test lại 87 (scalp, dừng ở 87); nếu xấu thì phá đáy, phá 85.000",
+      "gio": "[00:21:39]",
+      "trich": "nhưng mà ngược lại nó vẫn có khả năng xảy ra cái mô hình đi lên mô hình cờ tiếp diễn đấy nếu mà nó break qua được cái trend này. Cho nên là khi mà thấy nó break qua được khỏi cái thằng là 85.009 hoặc 86.000 là thôi tốt nhất bỏ cái hy vọng là nó sẽ về dưới này đi thì kiểu gì khả năng nó sẽ tiếp tục test lại 87 này rất là cao."
+    }
+  ],
+  "nen_volume": [
+    {
+      "khung": "D1",
+      "nen": "Giá vẫn nỗ lực đi lên nhưng càng lên càng yếu khi vào vùng cản 87-90 (vùng base sideway cũ)",
+      "volume": null,
+      "ket_luan": "Bị kháng cự ở đây là đương nhiên; khung ngày không cần phân tích sâu, chuyển xuống khung nhỏ tìm tín hiệu đảo chiều",
+      "gio": "[00:13:54]",
+      "trich": "Trong nỗ lực nó vẫn đi lên, nhưng càng lên cao càng yếu vì bên này là vùng cản rất lớn, rất cứng ở vùng 87 đến 90."
+    },
+    {
+      "khung": "H4",
+      "nen": "Đỉnh thấp dần từ CN đến thứ ba: 87.000 từ chối, 87.000 từ chối, 86.700 (phụ đề '86.007') từ chối, 86.000 từ chối",
+      "volume": "vùng trên bị bán giật (không nêu số volume)",
+      "ket_luan": "Long bắt đầu bị áp lực - tín hiệu cảnh báo rủi ro đầu tiên",
+      "gio": "[00:15:23]",
+      "trich": "Thứ sáu quét cao nhất là 87.00 rồi từ chối; test lại 87.00 từ chối; test tiếp 86.007 từ chối; test tiếp 86.00 vẫn từ chối. Vùng trên này đang bị bán giật. ... nhìn ba cây nến này thì Long bắt đầu bị áp lực, đây là một trong những tín hiệu cảnh báo rủi ro đầu tiên."
+    },
+    {
+      "khung": "H4",
+      "nen": "Đáy liên tục được kéo lên, đáy cao dần",
+      "volume": "lực mua dài vẫn cứng; lực bán mới áp đảo một xíu ở khung ngắn",
+      "ket_luan": "Ngắn hạn phe bán chưa chắc đạp được; nếu duy trì 1-2 hôm thì xác suất bị phá xuống cao",
+      "gio": "[00:15:55]",
+      "trich": "Ngược lại, dưới cái đáy này nó liên tục được kéo lên, vẫn tạo đáy cao dần, chứng tỏ lực mua ở dưới vẫn cứng lắm. Đó là lực mua dài; còn lực bán mới bắt đầu áp đảo một xíu ở khung ngắn thôi."
+    },
+    {
+      "khung": "H1",
+      "nen": "H1/30 phút phá đáy, giảm dần",
+      "volume": null,
+      "ket_luan": "Tín hiệu rủi ro hình thành ở khung nhỏ trước; nhưng vẫn có thể là cờ tiếp diễn nếu break trend",
+      "gio": "[00:21:16]",
+      "trich": "H1 bắt đầu có những dấu hiệu như mình nói: thị trường hình thành dần tín hiệu rủi ro ở các khung nhỏ trước. Ở H1 hoặc 30 phút nó phá đáy, giảm dần."
+    },
+    {
+      "khung": "M5",
+      "nen": "Biên độ quét 1.000-2.000 giá (84-86); rạng sáng có 1 cây M5 đấm từ 86 về thẳng 85",
+      "volume": null,
+      "ket_luan": "Khung nhỏ quét rất khó chịu, sideway khó đánh",
+      "gio": "[00:22:43]",
+      "trich": "Khung 5 phút chạy rất khó chịu, biên độ quét cực kỳ lớn: khoảng 1-2000 giá, từ 84 đến 86. Như lúc rạng sáng đêm qua có một cây nến đấm từ 86.00 về thẳng 85, 1000 giá trong một cây M5."
+    }
+  ],
+  "cach_lam": [
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "dinh_day_cu",
+      "chi_tiet": "Khung ngày: vùng base sideway cũ 87-90 (trước khi break chạy mô hình cờ khung ngày về 6x) nay là vùng cản",
+      "ket_qua": "Lên đây bị kháng cự là đương nhiên",
+      "gio": "[00:14:15]",
+      "trich": "Trước đó nó là vùng base sideway, sau đó break rồi chạy mô hình cờ trên khung ngày; khung ngày này chạy rất khốc liệt và rất chính xác, nó kéo về 6x ngày xưa. Bây giờ vùng này là vùng cản"
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "dinh_day_cu",
+      "chi_tiet": "Đếm các đỉnh H4 bị từ chối: 87 / 87 / 86.7 / 86",
+      "ket_qua": "Đỉnh thấp dần = cảnh báo rủi ro đầu tiên, nhưng đáy vẫn cao dần",
+      "gio": "[00:15:09]",
+      "trich": "Điều anh em nên quan tâm là trong ngắn hạn từ ngày mùng 4 (chủ nhật) đến thứ hai và hôm nay thứ ba, những cái đỉnh bắt đầu thấp dần."
+    },
+    {
+      "hanh_dong": "ke",
+      "cong_cu": "trendline",
+      "chi_tiet": "Trendline hỗ trợ đáy cao dần H4 + đỉnh đi bằng = mô hình cờ",
+      "ket_qua": "Theo kinh nghiệm mô hình này hay đi lên; gãy khi thủng trendline / đóng H4 dưới 85",
+      "gio": "[00:16:38]",
+      "trich": "Đáy cao dần nhưng đỉnh trên đi bằng. Theo kinh nghiệm trade của mình, mô hình cờ này hay đi lên."
+    },
+    {
+      "hanh_dong": "do",
+      "cong_cu": "fibo_thoai_lui",
+      "chi_tiet": "Nếu thủng 85: về test Fibo và các vùng hỗ trợ như đợt trước (đợt trước về đúng Fibo rồi dội lên)",
+      "ket_qua": "Vùng 83-84 rồi vòng vèo",
+      "gio": "[00:17:55]",
+      "trich": "Ít nhất nó sẽ về test Fibo và các vùng hỗ trợ. Như đợt trước nó về đúng vùng Fibo rồi dội ngược lên; bây giờ có thể như vậy, về vùng khoảng 83-84 rồi vòng vèo ở trong đoạn này."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "ema",
+      "chi_tiet": "MA200 khung H4 đã test; MA khung ngày nằm xa giá",
+      "ket_qua": "Điều chỉnh về MA ngày rồi đi lên tiếp là hợp lý, không bất thường",
+      "gio": "[00:20:37]",
+      "trich": "MA200 ở khung H4 cũng đã test rồi. Khung ngày thì MA đang nằm xa vùng giá, nên điều chỉnh về lại MA này cũng hợp lý, không có gì bất thường"
+    },
+    {
+      "hanh_dong": "ke",
+      "cong_cu": "trendline",
+      "chi_tiet": "Trend giảm ngắn hạn H1/30 phút",
+      "ket_qua": "Break 85.9/86 -> test 87; xấu thì phá 85",
+      "gio": "[00:21:39]",
+      "trich": "Nhưng ngược lại vẫn có khả năng mô hình cờ tiếp diễn đi lên nếu nó break qua trendline này."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "BTC.D đi lên, USDT.D đáy cao dần đi hẹp giống BTC",
+      "ket_qua": "Chỉ số này đi lên thì không nên rủi ro, không nên buy",
+      "gio": "[00:23:31]",
+      "trich": "BTC.D vẫn tiếp tục xu hướng đi lên. USDT.D cũng tương tự, tạo những vùng đáy cao dần đi hẹp giống Bitcoin; nó break lên một phát thì cũng mệt."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "Chỉ số tâm lý (Fear & Greed) 73, màu xanh",
+      "ket_qua": "Xanh quá thì dễ bể đầu, an toàn là bạn; check trước khi mua spot",
+      "gio": "[00:24:26]",
+      "trich": "Chỉ số tâm lý hôm nay vẫn giữ 73 và vẫn là màu xanh lá. Nguyên tắc của mình không đổi: chỉ số này xanh quá thì dễ bể đầu"
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "heatmap",
+      "chi_tiet": "Thanh lý 100 triệu đô, hai biên bị khử như nhau; tường ngắn, có tường short 87 nhưng không chắc; nhịp quét dưới chưa kill xong",
+      "ket_qua": "Ngắn hạn còn điều chỉnh để kill tiếp: rơi về 85, kéo lên 87 rồi lại kéo xuống; liquid hai biên không nhiều ý nghĩa",
+      "gio": "[00:24:59]",
+      "trich": "Cây nến hôm qua quét ở vùng dưới nhưng vẫn chưa kill xong; hiện trong này vẫn màu xanh, nên khả năng ngắn hạn thị trường còn điều chỉnh nữa để kill tiếp. ... Mình nghĩ đoạn này nó sẽ rơi về 85, kéo lên 87 rồi lại kéo xuống"
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "heatmap",
+      "chi_tiet": "Liquid khung lớn: vùng thanh lý lớn quanh 61.000 (phụ đề '1 triệu bit' [?]); tường chỉ hút giá khi đã có cấu trúc giảm sâu (vd về 76-77 đứng mãi không lên)",
+      "ket_qua": "Chỉ tham khảo; không dùng tường khung lớn để vào lệnh market đặt cược",
+      "gio": "[00:26:57]",
+      "trich": "Khung lớn thì anh em luôn giữ cảnh giác: vẫn còn vùng thanh lý khoảng 1 triệu BTC quanh 61.000. Khung lớn mà liquid như này thì bây giờ chưa kích hoạt, chưa có hiệu quả."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "Vị thế đám đông: nhiều người short, đặt SL ở vùng cản 87.000 hay 92.000",
+      "ket_qua": "Toàn team muốn ăn big shot",
+      "gio": "[00:26:30]",
+      "trich": "Về trung hạn, ở giá hiện tại rất nhiều người short và đặt stop loss ở các vùng cản phía trên như 8700 hay 92: toàn team muốn ăn big shot."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "Tỉ trọng BTC/altcoin 59,5%, BTC.D tiếp tục kéo lên",
+      "ket_qua": "Dòng tiền vẫn quay về Bitcoin",
+      "gio": "[00:59:39]",
+      "trich": "Mình chỉ follow tỉ trọng giữa Bitcoin và altcoin: tỉ trọng Bitcoin hiện đang 59,5%, còn lại là altcoin. Xu hướng BTC.D vẫn tiếp tục kéo lên chứng tỏ dòng tiền vẫn tiếp tục quay về Bitcoin."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "nen",
+      "chi_tiet": "Đồng ý ý kiến người xem: muốn short an toàn phải đợi cây H4 3:00 sáng (phiên Mỹ) có lực xả (không rõ riêng BTC, nói sau phần altcoin)",
+      "ket_qua": "Cây 3 giờ là cây chủ lực phiên Mỹ",
+      "gio": "[01:02:18]",
+      "trich": "Muốn short an toàn thì phải đợi phiên Mỹ: cây H4 lúc 3:00 sáng có lực xả thì mới short an toàn. Cây 3 giờ là cây chủ lực của phiên Mỹ."
+    }
+  ],
+  "vung_nguoi_do": [
+    {
+      "loai": "dich",
+      "tu": 81000,
+      "den": 81000,
+      "gio": "[00:13:15]",
+      "trich": "Cho nên một là nó về 81 và đi lên tiếp 90; hai là nó cắm về 6x luôn."
+    },
+    {
+      "loai": "dich",
+      "tu": 90000,
+      "den": 90000,
+      "gio": "[00:13:15]",
+      "trich": "Cho nên một là nó về 81 và đi lên tiếp 90; hai là nó cắm về 6x luôn."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 76000,
+      "den": 77000,
+      "gio": "[00:13:29]",
+      "trich": "Còn ví dụ bây giờ nó về khoảng 77-76 thì vùng đó mới là vùng vào hàng rất nhiều."
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 87000,
+      "den": 90000,
+      "gio": "[00:14:10]",
+      "trich": "càng lên cao càng yếu vì bên này là vùng cản rất lớn, rất cứng ở vùng 87 đến 90."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 85000,
+      "den": 85000,
+      "gio": "[00:17:19]",
+      "trich": "hiện tại là khoảng 85.000. Anh em muốn thấy thị trường điều chỉnh sâu thì phải đóng cửa H4 dưới 85.000 thì mới bắt đầu có tín hiệu rủi ro"
+    },
+    {
+      "loai": "dich",
+      "tu": 83000,
+      "den": 84000,
+      "gio": "[00:18:09]",
+      "trich": "bây giờ có thể như vậy, về vùng khoảng 83-84 rồi vòng vèo ở trong đoạn này."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 82000,
+      "den": 82000,
+      "gio": "[00:18:18]",
+      "trich": "nó thủng được 82 thì nó về tiếp khoảng quanh 81"
+    },
+    {
+      "loai": "vao",
+      "tu": 81000,
+      "den": 81000,
+      "gio": "[00:18:23]",
+      "trich": "nó thủng được 82 thì nó về tiếp khoảng quanh 81, bắt đầu là vùng xem xét entry đẹp."
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 85900,
+      "den": 86000,
+      "gio": "[00:21:50]",
+      "trich": "khi thấy nó break qua 85.009 hoặc 86.000 thì tốt nhất bỏ hy vọng nó về dưới này; khả năng nó tiếp tục test lại 87 rất cao."
+    },
+    {
+      "loai": "dich",
+      "tu": 87000,
+      "den": 87000,
+      "gio": "[00:21:59]",
+      "trich": "Đó là trong ngắn hạn scalping: nó vượt qua đây thì sẽ test lại vùng 87, nên dừng ở 87 thôi."
+    },
+    {
+      "loai": "dich",
+      "tu": 85000,
+      "den": 85000,
+      "gio": "[00:25:52]",
+      "trich": "Mình nghĩ đoạn này nó sẽ rơi về 85, kéo lên 87 rồi lại kéo xuống"
+    }
+  ],
+  "view_trung_han": [
+    {
+      "khung": "D1",
+      "huong": "PHAN_VAN",
+      "dich": null,
+      "han": "tuần này (chờ FOMC); H4 chiếm view chủ đạo",
+      "mat_view_khi": null,
+      "gio": "[00:13:02]",
+      "trich": "Không có tín hiệu nào chắc chắn điều đó sẽ xảy ra. Nó là 50/50 nhá. Nó đi lên luôn cũng bình thường, mà gãy về điều chỉnh cũng bình thường. Anh em cũng hiểu toàn bộ thị trường sẽ chờ vùng 7x, luôn là như thế. Cho nên một là nó về 81 và đi lên tiếp 90; hai là nó cắm về 6x luôn."
+    }
+  ],
+  "vung_tranh": [
+    {
+      "tu": 85000,
+      "den": 87000,
+      "vi_sao": "Sideway hẹp dần, quét hai đầu; chỉ quan sát phá 85 hay phá lên khỏi 87",
+      "gio": "[00:23:13]",
+      "trich": "Tổng quát Bitcoin chỉ có thế: sideway, ta quan sát nó phá 85 hay phá lên khỏi 87."
+    },
+    {
+      "tu": null,
+      "den": null,
+      "vi_sao": "Chưa đủ dữ liệu để chọn phe bán; chỉ khi đóng H4 dưới 85 mới follow phe bán",
+      "gio": "[00:17:44]",
+      "trich": "Còn hiện tại không nên chọn phe bán, chưa đủ dữ liệu."
+    },
+    {
+      "tu": null,
+      "den": null,
+      "vi_sao": "Không mơ big shot / short đỉnh ăn mấy chục nghìn giá; giai đoạn này đánh nhỏ, ngược xu hướng chỉ đánh ngắn",
+      "gio": "[00:18:44]",
+      "trich": "Anh em hạn chế mơ tưởng big shot, một phát ăn ngay, hay sell ở trên đỉnh rồi ăn mấy chục nghìn giá như giai đoạn mình short ở một trăm hai mấy nghìn. ... Giai đoạn này nên đánh nhỏ"
+    },
+    {
+      "tu": null,
+      "den": null,
+      "vi_sao": "Không vào sớm; H4 đi hướng nào theo hướng đó",
+      "gio": "[00:19:31]",
+      "trich": "Mọi người cứ follow kỹ: nó đi hướng nào ta theo hướng đó, không cần vào sớm quá."
+    },
+    {
+      "tu": null,
+      "den": null,
+      "vi_sao": "Không dùng tường thanh lý khung lớn để vào lệnh giá market đặt cược giá về đó - xác suất thắng cực thấp",
+      "gio": "[00:27:58]",
+      "trich": "Những tường ở khung lớn, nếu anh em dùng để vào lệnh ở giá market và đặt cược về đây thì xác suất chiến thắng cực kỳ thấp, không nên."
+    },
+    {
+      "tu": null,
+      "den": null,
+      "vi_sao": "BTC.D/USDT.D đi lên và chỉ số tâm lý xanh quá -> không nên buy/mua spot",
+      "gio": "[00:23:42]",
+      "trich": "Vẫn giống những ngày trước: chỉ số này có xu hướng đi lên thì chúng ta không nên rủi ro, không nên buy."
+    }
+  ],
+  "giu_dong": [],
+  "tin_tuc": [
+    {
+      "su_kien": "Họp FOMC của các thành viên hội đồng (meeting)",
+      "thoi_diem": "thứ tư; tin tối mai (7/10) lúc 8:00",
+      "nguon": "lich_kinh_te",
+      "so_lieu": null,
+      "anh_huong_view": "Tuần gần như không có tin nên thị trường chờ cái này để hợp lý hóa đường giá; giá đi hẹp chờ tin FOMC",
+      "gio": "[00:31:05]",
+      "trich": "Tuần này vào thứ tư chỉ có họp FOMC của các thành viên hội đồng, chỉ là một buổi meeting nữa; đại đa số tuần này không có tin gì nên thị trường chắc chờ cái này để làm hợp lý hóa đường giá."
+    },
+    {
+      "su_kien": "Hỏi: đi hẹp dần chờ FOMC quyết định xu hướng?",
+      "thoi_diem": "tuần này",
+      "nguon": "khac",
+      "so_lieu": null,
+      "anh_huong_view": "Đồng ý: khả năng tuần này giá chờ tin FOMC",
+      "gio": "[00:35:02]",
+      "trich": "Khả năng tuần này là vậy đó, nó chờ tin FOMC."
+    },
+    {
+      "su_kien": "CPI, PPI",
+      "thoi_diem": "tuần sau",
+      "nguon": "lich_kinh_te",
+      "so_lieu": null,
+      "anh_huong_view": null,
+      "gio": "[00:31:23]",
+      "trich": "Sang tuần sau mới tiếp tục CPI, PPI, rồi chờ đến cuối tháng để có lãi suất"
+    },
+    {
+      "su_kien": "Quyết định lãi suất cuối tháng",
+      "thoi_diem": "28/10",
+      "nguon": "lich_kinh_te",
+      "so_lieu": null,
+      "anh_huong_view": "Ông nghĩ khả năng không tăng lãi, nhưng không tăng lãi mới nguy hiểm vì thị trường hay chơi bài đảo ngược (tin tốt ra lại cắm đầu); tới đó mới tính",
+      "gio": "[00:31:34]",
+      "trich": "Mình nghĩ cuối tháng này khả năng là sẽ không tăng lãi. Nhưng không tăng lãi mới là cái nguy hiểm: thị trường lại chơi bài đảo ngược thì anh em lên bờ xuống ruộng luôn."
+    }
+  ]
+}

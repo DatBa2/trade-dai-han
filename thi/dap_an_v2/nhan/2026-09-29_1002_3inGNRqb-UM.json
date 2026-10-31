@@ -1,0 +1,49 @@
+{
+  "buoi": "2026-09-29_1002_3inGNRqb-UM",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/lam_sach/2026-09-29_1002_3inGNRqb-UM.md",
+  "gia_btc_luc_noi": 82800,
+  "dau_buoi": {
+    "thien_huong_h4": "GIAM",
+    "gio": null,
+    "trich": "Thị trường như này long hiện tại mình chưa thấy cửa, bởi vì Bitcoin khả năng vẫn còn điều chỉnh nữa."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "GIAM",
+    "do_chac": "thap",
+    "gio": null,
+    "trich": "Bitcoin chuẩn bị đóng nến; đóng ngay vùng lưng chừng này hơi đau đầu. ... Nó sẽ hồi lên quét khoảng 83.300 [83.003 trong phụ đề] đến 83.00 [?]. Chốt nến ở đây thì tạm thời không có gì thay đổi lắm. Mình nghĩ nhịp này chắc vẫn phải về test lại vùng 800 đến 800 [?] này thôi."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {"huong": "TANG", "dich": [83000, 83300]},
+  "duong_di": [
+    {"huong": "TANG", "dich": [83000, 83300]},
+    {"huong": "GIAM", "dich": [82000, 82400]}
+  ],
+  "dich_chinh": [82000, 82400],
+  "han_gio": null,
+  "vo_hieu": {
+    "gia": 85000,
+    "khung": "H4",
+    "so_nen": 1,
+    "chieu": "dong_tren",
+    "cau": "Muốn biết tiếp theo nó về dưới 80 hay lên lại trên 85 thì quan sát thật kỹ, quyết định sẽ được đưa ra trong vùng 81 đến 83. Nó phá đầu nào thì thị trường tiếp theo chạy theo đầu đó."
+  },
+  "lenh": [],
+  "hanh_dong": "dung_ngoai_cho_entry",
+  "khung_lon": {"D1": "GIAM", "W1": null},
+  "pha_vo_gia": "Hai đáy H1: 'hai đáy này mà các bạn đánh thì tỉ lệ bị stop loss rất cao, vì mình nghĩ nó vẫn rất muốn quét ... về test lại vùng đâu đó khoảng 82.400 thì mới đẹp. Chắc phải fake out đoạn này một tí.' (Kèm bài học fake out biên sideway lấy ví dụ LINK.)",
+  "trich_them": [
+    {"gio": null, "cau": "Hỗ trợ khung tuần của chúng ta hiện tại là vùng này 82.000. Đường màu vàng mình vẽ là line hỗ trợ trendline, và zone hỗ trợ của nó là vùng loanh quanh hiện tại: 83, 82, 81."},
+    {"gio": null, "cau": "Nếu sau đó đóng vài cây nến và giữ được trên 82 thì vùng này giúp giá đỡ để đẩy lên con sóng tiếp theo khoảng 90.000. Nhưng đó là điều kiện, nếu. Còn nếu thủng 82, về 81 thì sẽ trôi về dưới 80 rất nhanh; còn từ 80 đến 75 thì nó đứng ở đó."},
+    {"gio": null, "cau": "H4 đang có xu hướng điều chỉnh: đỉnh đáy thấp dần. Tuy nhiên vùng 83 đang bắt đầu cố trụ; 82–83 như nói là hỗ trợ nên nó đang cố trụ."},
+    {"gio": null, "cau": "H1 vẫn đang cố giữ giá. Đường MA này, nhưng volume bán trong này đang rất dày, giá nằm dưới MA200 của H1 rồi, nên xác suất quét về dưới này, 82.000, cực kỳ cao. Nhưng mình vẫn nhắc anh em đây là vùng hỗ trợ: dù biết xác suất quét về dưới rất cao, những lệnh sale bắt buộc phải đặt stop loss"},
+    {"gio": null, "cau": "Hiện tại mình không trade để ăn nhịp quá lớn khi đánh xuống: nó ngược xu hướng và gặp rất nhiều hỗ trợ."},
+    {"gio": null, "cau": "Thực tế nó ngược lại; nhưng vì quan điểm của mình là thị trường Bitcoin vẫn còn xấu nên mình không buy, không chờ nhịp fake out giảm để buy lên."},
+    {"gio": null, "cau": "H4 Bitcoin vẫn thể hiện khả năng tiếp tục tăng, trừ khi thủng 82 thì mới bắt đầu xấu."},
+    {"gio": null, "cau": "Hỏi: Bao giờ về 7x, ETH phải 2000? — Mình nghĩ cũng sớm thôi, trong tháng 10 gì đó, hoặc tệ thì trong năm nay. [?]"},
+    {"gio": null, "cau": "Hỏi: Đang sale giá 84k5, có nên SL entry không? — 84k5 thì mình nghĩ SL entry cũng được, an toàn."},
+    {"gio": null, "cau": "Cho nên hôm nay cứ nhìn Bitcoin mà đánh. Vùng này còn lằng nhằng lắm, còn vòng vèo lên nhiều lắm nhá."}
+  ],
+  "kho": "Transcript không có mốc giờ. Nghiêng xuống ngắn hạn rõ (H1 dưới MA200, 'xác suất quét về dưới 82.000 cực kỳ cao', 'Bitcoin vẫn còn xấu nên không buy') nhưng giá đang ở hỗ trợ tuần/H4 82–83, người nói cấm sale ở hỗ trợ, nói quyết định lớn (dưới 80 → 78–79 hay trên 85 → 90) nằm ở vùng 81–83 và có câu mâu thuẫn 'H4 Bitcoin vẫn thể hiện khả năng tiếp tục tăng, trừ khi thủng 82' → GIAM độ chắc thấp, đích chính chỉ là quét 82–82.4. Giá lúc nói không rõ ('82.0089 [?]'); suy ~82.8k vì còn muốn 'về test 82.400' và chờ H4 'đóng giữ trên 83'. Câu cuối có số lỗi ('vùng 800 đến 800 [?]'). vo_hieu 85 lấy từ ngưỡng 'lên lại trên 85', không phải câu tuyên bố sai view."
+}

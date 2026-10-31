@@ -1,0 +1,328 @@
+{
+  "buoi": "2026-08-27_1006_ZJ5BVqdLJeE",
+  "ngay": "2026-08-27",
+  "gia_btc_luc_noi": 78800,
+  "moc": [
+    {
+      "gia": 78000,
+      "gia_tren": null,
+      "vai_tro": "vo_hieu",
+      "huong": "TANG",
+      "khung": "M5",
+      "can_cu": [
+        "đáy M5"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": false,
+      "trich": "Cái vùng đáy 78.00 [?] này mà thủng thì khả năng là sẽ ngừng bay"
+    },
+    {
+      "gia": 70000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "nói qua tháng 9 mới về"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "để về 70 thì chắc chắn là phải qua tháng 9 rồi"
+    },
+    {
+      "gia": 82000,
+      "gia_tren": 83000,
+      "vai_tro": "vo_hieu",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [
+        "nến ngày đóng qua",
+        "MA khung ngày"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "cây nến ngày đóng qua được cái vùng 82 đến 83 thì ok, điều kiện để lên cản 93.000"
+    },
+    {
+      "gia": 93000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "TANG",
+      "khung": "W1",
+      "can_cu": [
+        "cản khung lớn",
+        "cản tuần (boss cuối)"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "cản tiếp theo là cản 93.000"
+    },
+    {
+      "gia": 79000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "MA610 D1 (nói MA610)",
+        "đỉnh gần nhất cấu trúc giảm"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "cản 79.000 ngay dưới cái đường này... đường MA610 ở trên khung ngày"
+    },
+    {
+      "gia": 77100,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "MA34 H4 (trung bình 34 nến H4, 136 tiếng)"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "MA34... cách đây 136 tiếng thì trung bình mua là 77.100"
+    },
+    {
+      "gia": 80000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "H1",
+      "can_cu": [
+        "mô hình bóp MA34/MA89 H1",
+        "vượt cản 79"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": false,
+      "trich": "nếu phá qua được đoạn này thì lên lại 80.00 [?]"
+    },
+    {
+      "gia": 79000,
+      "gia_tren": 79500,
+      "vai_tro": "khang_cu",
+      "huong": "TANG",
+      "khung": "H1",
+      "can_cu": [
+        "Fibo (bị cản ở Fibo)",
+        "đỉnh cần vượt phá cấu trúc giảm"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": false,
+      "trich": "H1 vượt qua 79.00 [?], 79.50 [?] (cho là 79.00 thì cho nó tròn)"
+    },
+    {
+      "gia": 79400,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "GIAM",
+      "khung": "H1",
+      "can_cu": [],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Nếu xuống thì nó sẽ đến cái vùng này, rớt xuống 79.4"
+    },
+    {
+      "gia": 78500,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "H1",
+      "can_cu": [
+        "đáy cao (màn 0)"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "muốn phá qua được 79 thì cần phải giữ được cái vùng 78.500"
+    },
+    {
+      "gia": 83000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "cột mốc phải phá qua 80"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Muốn lên 83 thì phải phá qua được 80"
+    },
+    {
+      "gia": 93000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "W1",
+      "can_cu": [
+        "cột mốc 'boss'"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Muốn lên 93 thì phải phá qua được 83... con boss trùm cuối là 93"
+    },
+    {
+      "gia": 120000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "đỉnh cũ (boss hoàng kim)"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": false,
+      "trich": "Qua được 93 phải đến con boss cuối 120? Đúng"
+    },
+    {
+      "gia": 79400,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý / heatmap"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "sẽ có một pha quét lên 79k4... 79k4, 79k7, 79k9"
+    },
+    {
+      "gia": 79700,
+      "gia_tren": 79900,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý / heatmap"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Có 79k4, 79k7, 79k9"
+    },
+    {
+      "gia": 77000,
+      "gia_tren": 78000,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý / heatmap"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Dưới này thì 78, 77... thủng 78.5 nó về luôn tận 78"
+    },
+    {
+      "gia": 78500,
+      "gia_tren": null,
+      "vai_tro": "vo_hieu",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": false,
+      "trich": "khi nó có mùi gãy khỏi cái thằng 78.5 [?] này, chúng ta chạy luôn"
+    },
+    {
+      "gia": 81000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "số tròn / phá đỉnh"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Nó đẩy tiếp lên 81 phá đỉnh rồi"
+    },
+    {
+      "gia": 76000,
+      "gia_tren": null,
+      "vai_tro": "nhac_lai",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "vote khán giả"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "34% nghĩ rằng gãy về 76"
+    },
+    {
+      "gia": 80000,
+      "gia_tren": null,
+      "vai_tro": "nhac_lai",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "vote khán giả"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "36% nghĩ là phá lên được 80"
+    },
+    {
+      "gia": 75000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "vùng trống thanh khoản 67-75"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Từ vùng 67 đến 75 có phải trống thanh khoản không (câu hỏi người xem; đáp: sẽ đi từ từ)"
+    },
+    {
+      "gia": 79500,
+      "gia_tren": null,
+      "vai_tro": "vo_hieu",
+      "huong": "GIAM",
+      "khung": "M5",
+      "can_cu": [],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": false,
+      "trich": "Phá 789 [?] sau đó chờ phá tiếp 79.50 nữa là ok"
+    },
+    {
+      "gia": 60000,
+      "gia_tren": 62000,
+      "vai_tro": "day_cu",
+      "huong": null,
+      "khung": null,
+      "can_cu": [
+        "vùng không mua nhiều"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": false,
+      "trich": "Quyết định không mua nhiều ở 60 hay 62.000 [?]"
+    }
+  ]
+}

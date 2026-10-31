@@ -1,0 +1,44 @@
+{
+  "buoi": "2026-10-29_1005_wcDxLBw0TO4",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/lam_sach/2026-10-29_1005_wcDxLBw0TO4.md",
+  "gia_btc_luc_noi": 79500,
+  "dau_buoi": {
+    "thien_huong_h4": "GIAM",
+    "gio": null,
+    "trich": "Thị trường đang chạy khá ngon rồi, gãy khá đẹp rồi. Đêm hôm qua sau cái tin thì có những pha kéo lên, những pha kéo lên rất là trap luôn... Thế thì cái vùng giá 77.00[?] cho đến 78.00[?], đó là một trong những vùng rất dễ quét về, anh em nên thận trọng."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "GIAM",
+    "do_chac": "cao",
+    "gio": null,
+    "trich": "Không ngoài dự đoán, Bitcoin đóng ở đây... Anh em cứ follow theo plan lúc nãy mình đưa, từ giờ đến trưa: vẫn kịch bản cũ, khả năng chạy lên đây, test lại vùng này rồi đi xuống, hoặc test vùng 80.500, tùy đó chúng ta quan sát."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {"huong": "TANG", "dich": [80000, 80500]},
+  "duong_di": [
+    {"huong": "TANG", "dich": [80000, 80500]},
+    {"huong": "GIAM", "dich": [77000, 78000]}
+  ],
+  "dich_chinh": [77000, 78000],
+  "han_gio": null,
+  "vo_hieu": null,
+  "lenh": [
+    {"chieu": "SHORT", "vao": null, "tp": [78000, 77000], "sl": null, "trang_thai": "dang_giu"}
+  ],
+  "hanh_dong": "chot_loi",
+  "khung_lon": {"D1": "GIAM", "W1": "GIAM"},
+  "pha_vo_gia": "Các pha kéo lên sau tin Fed đêm qua (test 81.700 rồi gãy) là trap; dự đoán 11h kéo đóng trên 80.000 (vùng tâm lý) để phe long 'bay' rồi đi xuống.",
+  "trich_them": [
+    {"gio": null, "cau": "Xác suất mà về 7x rồi bật lên 9x thì tất nhiên vẫn có, nhưng mình thấy nó khó lắm, cá nhân mình đánh giá xác suất này không cao nhá."},
+    {"gio": null, "cau": "Cùng lắm đoạn này nó kéo lên không quá được 80.500. Đóng ở đây thì coi như là xấu lắm."},
+    {"gio": null, "cau": "Đối với nến H4, nếu nó đóng ở đây thì đúng rồi. Sau tin thì về bản chất thị trường hôm qua nó quét là do có tin, nó hợp lý hóa đường giá thôi, chứ xu hướng thị trường mình vẫn không thay đổi."},
+    {"gio": null, "cau": "Còn không thì ở đây phải có nhịp hồi, kéo lên 80.00[?] cho đến 80.500 thì may ra mới gãy tiếp. Còn từ đây đòi gãy luôn về 79 hay 78 là gần như khó lắm."},
+    {"gio": null, "cau": "Vùng này về cơ bản anh em có lệnh sell thì TP được. Chờ nó có vòng lên thì tìm entry mới ngon hơn; còn không lên thì ăn nốt phần còn lại. Miễn sao cái view nó đúng là chúng ta dễ chịu rồi."},
+    {"gio": null, "cau": "Có thêm một đường nữa ở 77.00[?], nên plan của anh em mình là target về 78.00[?] cho đến 77.00[?]; sau đó xem thị trường phản ứng thế nào rồi tính. Còn nếu về đến đó mà có khoảng hai cây nến H4 thủng dưới 77.000 này... thì xin thưa anh em, tiếp tục chiến đấu về đến 75 hoặc thậm chí sâu hơn."},
+    {"gio": null, "cau": "Đóng cây H4 thế này thì còn thoát trên khung tuần mô hình Diamond phân phối đỉnh của chúng ta... Cá bơi ngược dòng nước thì một là cá mạnh, hai là sắp đi đúng 75 luôn. Thôi 76 cũng được rồi anh em ơi."},
+    {"gio": null, "cau": "Cây H4 uy lực thế này mà còn long thì: ít nhất phải có cây xanh mới long được chứ. RSI lên 50 H4 rồi quay về thôi."},
+    {"gio": null, "cau": "Plan thì có thay đổi gì đâu."}
+  ],
+  "kho": "File không có mốc giờ. Không có mốc vô hiệu view rõ ràng (chỉ nói kháng cự 81-82 'khó nhai', hồi 'không quá được 80.500'); mốc 2 nến H4 dưới 77.000 là điều kiện đi tiếp về 75, không phải vô hiệu. Lệnh sell không nêu giá vào; khuyên TP vùng này, giữ phần còn lại, chờ hồi lên 80-80.5k tìm entry mới. Câu '75... 76 cũng được' mang tính nói vui theo mô hình Diamond khung tuần; đích plan vẫn 78-77k."
+}

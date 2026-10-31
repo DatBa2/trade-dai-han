@@ -1,0 +1,248 @@
+{
+  "buoi": "2026-05-27_cFwCrK3RjcQ",
+  "ngay": "2026-05-27",
+  "gia_btc_luc_noi": 76000,
+  "moc": [
+    {
+      "gia": 74000,
+      "gia_tren": null,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": null,
+      "can_cu": [
+        "đáy pha giảm hôm trước"
+      ],
+      "moc_gio": "00:05:02",
+      "chac": true,
+      "trich": "Chủ yếu có một pha giảm về 74 hôm trước còn lại nó vẫn đi trong vùng này"
+    },
+    {
+      "gia": 74000,
+      "gia_tren": 78000,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": null,
+      "can_cu": [
+        "vùng sideway tháng 5"
+      ],
+      "moc_gio": "00:08:48",
+      "chac": true,
+      "trich": "Nó chỉ dao động quanh vùng từ 78 cho đến 74, 75 cứ lòng vòng trong vùng này"
+    },
+    {
+      "gia": 70000,
+      "gia_tren": 80000,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": null,
+      "can_cu": [
+        "vùng sideway rộng tháng 5"
+      ],
+      "moc_gio": "00:08:48",
+      "chac": true,
+      "trich": "Rộng hơn thì là từ 70 đến 80."
+    },
+    {
+      "gia": 72000,
+      "gia_tren": 73000,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "W1",
+      "can_cu": [
+        "vùng hỗ trợ quan trọng khung tuần"
+      ],
+      "moc_gio": "00:14:31",
+      "chac": true,
+      "trich": "Đến khi lực bán về đâu đó khoảng 72, 73 thì chúng ta sẽ phải quan sát nhịp này"
+    },
+    {
+      "gia": 75000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [
+        "neckline vai đầu vai",
+        "vùng hỗ trợ"
+      ],
+      "moc_gio": "00:15:03",
+      "chac": true,
+      "trich": "Nó đang nằm ở neckline này, nằm ở vùng hỗ trợ này. Nếu nó đâm xuyên thủng ở vùng 75 thì rất dễ nó gãy về dưới"
+    },
+    {
+      "gia": 70000,
+      "gia_tren": 71000,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [
+        "Fibo 0.5 kéo trên khung ngày",
+        "mô hình vai đầu vai"
+      ],
+      "moc_gio": "00:15:36",
+      "chac": true,
+      "trich": "70, 71 thì vừa khéo ở vùng 0.5 Fibo"
+    },
+    {
+      "gia": 71000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [
+        "trendline hỗ trợ"
+      ],
+      "moc_gio": "00:16:07",
+      "chac": true,
+      "trich": "ít nhất nó về 71.000... Dưới này cũng là một vùng hỗ trợ nữa, trendline này"
+    },
+    {
+      "gia": 70000,
+      "gia_tren": null,
+      "vai_tro": "vo_hieu",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "mất xu hướng tăng khi nến ngày đóng dưới 70"
+      ],
+      "moc_gio": "00:16:40",
+      "chac": true,
+      "trich": "Nến ngày mà đóng dưới 70 thì gần như sẽ mất luôn xu hướng tăng của giai đoạn này"
+    },
+    {
+      "gia": 78000,
+      "gia_tren": null,
+      "vai_tro": "vo_hieu",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [],
+      "moc_gio": "00:18:48",
+      "chac": true,
+      "trich": "muốn long bắt buộc phải chờ giá đóng H4 ở trên 78 thì mới dám long"
+    },
+    {
+      "gia": 75000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [
+        "Fibo 0.5"
+      ],
+      "moc_gio": "00:19:53",
+      "chac": true,
+      "trich": "giá vẫn đang nằm dưới Fibo 0.5 này. Thủng tiếp khoảng 75.000 thì chắc là phá đáy"
+    },
+    {
+      "gia": 71000,
+      "gia_tren": 72000,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [],
+      "moc_gio": "00:19:53",
+      "chac": true,
+      "trich": "71, 72 cực kỳ dễ về"
+    },
+    {
+      "gia": 78000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": null,
+      "khung": "D1",
+      "can_cu": [
+        "gap CME"
+      ],
+      "moc_gio": "00:22:39",
+      "chac": true,
+      "trich": "Gap trên nằm ở 78 vẫn còn"
+    },
+    {
+      "gia": 83000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": null,
+      "khung": "D1",
+      "can_cu": [
+        "gap CME"
+      ],
+      "moc_gio": "00:22:39",
+      "chac": true,
+      "trich": "83 thì còn"
+    },
+    {
+      "gia": 90000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": null,
+      "khung": "D1",
+      "can_cu": [
+        "gap CME"
+      ],
+      "moc_gio": "00:22:39",
+      "chac": true,
+      "trich": "90 vẫn còn"
+    },
+    {
+      "gia": 70000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": null,
+      "khung": "D1",
+      "can_cu": [
+        "gap CME"
+      ],
+      "moc_gio": "00:22:39",
+      "chac": true,
+      "trich": "Gap dưới là 70 vẫn còn"
+    },
+    {
+      "gia": 67000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": null,
+      "khung": "D1",
+      "can_cu": [
+        "gap CME"
+      ],
+      "moc_gio": "00:22:39",
+      "chac": true,
+      "trich": "67 vẫn còn"
+    },
+    {
+      "gia": 75000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý / heatmap (quét long)"
+      ],
+      "moc_gio": "00:24:16",
+      "chac": true,
+      "trich": "Nếu tầm này mà nó quét tiếp long thì khả năng nó về đến 75.000"
+    },
+    {
+      "gia": 60000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": "00:27:01",
+      "chac": false,
+      "trich": "Trong tháng 6, BTC về 60 là bao nhiêu phần trăm và lên 9x là bao nhiêu phần trăm, mình nghĩ là 50-50"
+    },
+    {
+      "gia": 90000,
+      "gia_tren": 99999,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": "00:27:01",
+      "chac": false,
+      "trich": "BTC về 60 là bao nhiêu phần trăm và lên 9x là bao nhiêu phần trăm, mình nghĩ là 50-50"
+    }
+  ]
+}

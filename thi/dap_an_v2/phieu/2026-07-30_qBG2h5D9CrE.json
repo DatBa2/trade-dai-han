@@ -1,0 +1,130 @@
+{
+ "buoi": "2026-07-30_qBG2h5D9CrE",
+ "ngay": "2026-07-30",
+ "gio_vn": "10:00",
+ "gia_btc_luc_noi": 64000,
+ "nhan_dinh": [
+  {
+   "khung": "H4",
+   "huong": "PHAN_VAN",
+   "do_chac": "thap",
+   "dich": null,
+   "han": null,
+   "han_gio": null,
+   "vo_hieu_khi": null,
+   "vo_hieu_cau_truc": null,
+   "kich_ban_phu": null,
+   "duong_di": null,
+   "doi_y": null,
+   "ly_do": [],
+   "trich": "Các bạn cố gắng bám view này thôi. Mình vẫn bám theo view này để chờ sự bứt phá khỏi xu hướng [00:55:29] sideway hiện tại, khỏi nhịp bị kẹp ở đây. Còn nó đi hướng nào thì mình sẽ follow hướng đó. Tầm này cũng không đi dự đoán làm gì cho mệt bởi vì mọi thứ có khả năng tác động cũng đi qua rồi.",
+   "nhan_v1": "PHAN_VAN"
+  },
+  {
+   "khung": "H1",
+   "huong": "PHAN_VAN",
+   "do_chac": "vua",
+   "dich": null,
+   "han": "chờ break H1",
+   "han_gio": null,
+   "vo_hieu_khi": null,
+   "kich_ban_phu": "break hướng nào đi theo hướng đó",
+   "ly_do": [
+    "đang sideway giữa 63.000 và 64.500, chờ tin GDP/PCE 7:30 tối có thể làm break"
+   ],
+   "trich": "Đối với H1 mình thấy các bạn nên chờ break H1 sau đó sẽ dễ chơi. Break hướng nào cũng được, hướng nào chúng ta đi theo hướng đó.",
+   "doi_y": null,
+   "duong_di": null
+  }
+ ],
+ "vung_gia": {
+  "khang_cu": [
+   64500,
+   65000
+  ],
+  "ho_tro": [
+   62000,
+   63000
+  ]
+ },
+ "lenh": [
+  {
+   "chieu": "SHORT",
+   "vao": 64600,
+   "tp": [],
+   "sl": 64600,
+   "trang_thai": "dang_giu"
+  },
+  {
+   "chieu": "LONG",
+   "vao": 64500,
+   "tp": [
+    66000
+   ],
+   "sl": null,
+   "trang_thai": "de_xuat_moi"
+  },
+  {
+   "chieu": "SHORT",
+   "vao": 63500,
+   "tp": [
+    62000,
+    60000
+   ],
+   "sl": null,
+   "trang_thai": "de_xuat_moi"
+  }
+ ],
+ "nhin_lai_truoc": "Tin Fed không tăng lãi, thị trường chạy từ 63 lên 64 trong biên rất nhỏ, là tự nhiên không phải lái; short 64.600 hôm qua giờ hòa vốn.",
+ "cong_cu": [
+  "H4",
+  "H1",
+  "MA34 D1",
+  "Fibo",
+  "USDT.D",
+  "gap H1",
+  "Fear and Greed",
+  "liquidation heatmap"
+ ],
+ "tin_tuc": [
+  {
+   "tin": "Fed giữ lãi suất 3.5-3.75, 3/12 phiếu muốn tăng 0,25; chủ tịch Kevin Warsh cứng rắn, kéo lạm phát về 2%, sẵn sàng tăng lãi suất",
+   "danh_gia": "ngắn hạn hưng phấn nhẹ vì rủi ro tưởng tượng của đám đông không đến, nhưng nguy hiểm thật vẫn còn"
+  },
+  {
+   "tin": "GDP/PCE tối nay 7:30",
+   "danh_gia": "dễ bị lơ là, có thể đấm; kỳ vọng làm break khỏi sideway"
+  }
+ ],
+ "thoi_quen": [
+  "sideway thì chờ break rồi đi theo, không chọn phe trước thị trường",
+  "đánh tin phải nới biên độ ít nhất 2000 giá",
+  "chia nhỏ vốn gom spot theo thời gian (365 ngày)",
+  "linh hoạt, cố chấp là chết"
+ ],
+ "cau_cua_mieng": [
+  "Cố chấp là chết, càng cố chấp càng chết.",
+  "Không có sóng là không lướt được."
+ ],
+ "altcoin": [
+  {
+   "coin": "ETH",
+   "huong": "PHAN_VAN",
+   "ghi": "H4 nhập nhằng, lực bán bị cản ở hai vùng Fibo, đáy kéo lên; thủng thì quét về thấp; D1 đã break trendline và đang test, không nên tự tin vào ngay"
+  },
+  {
+   "coin": "USDT.D",
+   "huong": "TANG",
+   "ghi": "đi ngang bóp dần, có thể chạy trước BTC khoảng 15 phút"
+  }
+ ],
+ "ghi_chu": "gio_vn mặc định 10:00. Phần vàng, bạc, dầu, chứng khoán, PI bỏ qua. Cuối buổi vẫn bám view chờ bứt phá khỏi sideway.",
+ "hanh_dong": "dung_ngoai_vi_lap_lung",
+ "chang_ke_tiep": null,
+ "khung_lon_v2": {
+  "D1": "PHAN_VAN",
+  "W1": "GIAM"
+ },
+ "pha_vo_gia": "Vùng sideway 63.000-64.500 là chỗ 'thị trường dìu anh em đi vào cơn mê' (long FOMO khi nhấp lên, cắt khi rớt và ngược lại); nếu quét lên 65 'sau đó tụt về lại thì cũng vô nghĩa' (phải đóng nến); hai cây H1 tăng sau tin FED là volume phiên Mỹ 'chứ không phải thể hiện giá trị nội tại của thị trường là nó muốn tăng'. Nói 'lái' chỉ khi quét lên 66-67 rồi gãy xuống.",
+ "nguon_nhan": "dap_an_v2 (Opus 5.5 rút mù 31/10)"
+}

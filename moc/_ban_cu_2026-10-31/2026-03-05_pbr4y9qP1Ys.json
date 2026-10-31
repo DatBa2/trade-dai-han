@@ -1,0 +1,350 @@
+{
+  "buoi": "2026-03-05_pbr4y9qP1Ys",
+  "ngay": "2026-03-05",
+  "gia_btc_luc_noi": 72000,
+  "moc": [
+    {
+      "gia": 66500,
+      "gia_tren": 67000,
+      "vai_tro": "vo_hieu",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "đáy cấu trúc sóng tăng"
+      ],
+      "moc_gio": "00:06:41",
+      "chac": true,
+      "trich": "đỉnh đáy cao dần và không có thủng vùng 66.5 67 này thì gần như chẳng việc gì chúng ta phải short"
+    },
+    {
+      "gia": 70000,
+      "gia_tren": null,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý / heatmap Coinglass"
+      ],
+      "moc_gio": "00:07:17",
+      "chac": true,
+      "trich": "Liquid thì đã hết và bây giờ nó đang dụ một vùng ở 70"
+    },
+    {
+      "gia": 74000,
+      "gia_tren": 75000,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": "00:07:51",
+      "chac": true,
+      "trich": "chờ điểm tiếp theo ở 74 cho đến 75"
+    },
+    {
+      "gia": 74500,
+      "gia_tren": null,
+      "vai_tro": "tp",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": "00:23:24",
+      "chac": true,
+      "trich": "Mình đặt TP 74k5... đỉnh 74k5, 74023"
+    },
+    {
+      "gia": 71500,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [],
+      "moc_gio": "00:29:14",
+      "chac": true,
+      "trich": "nến ngày như này có thể nó back về lại khoảng 71.500 nhưng mình nghĩ nó sẽ lên lại đến 75"
+    },
+    {
+      "gia": 75000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "MA200 H4 (đóng qua 72)",
+        "Fibo mở rộng 1.618"
+      ],
+      "moc_gio": "00:29:47",
+      "chac": true,
+      "trich": "nếu cây H4 đóng qua khỏi 72 và qua khỏi MA200 thì khả năng cao là lên cán TP2 khoảng quanh 75"
+    },
+    {
+      "gia": 72000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "MA200 H4"
+      ],
+      "moc_gio": "00:29:47",
+      "chac": true,
+      "trich": "cây H4 này đóng qua khỏi 72 và qua khỏi MA200"
+    },
+    {
+      "gia": 69500,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "điều chỉnh sau break trendline"
+      ],
+      "moc_gio": "00:31:58",
+      "chac": true,
+      "trich": "nó sẽ điều chỉnh về đâu đó khoảng 69.500. Về đây chúng ta lại tìm entry để đánh long tiếp"
+    },
+    {
+      "gia": 62000,
+      "gia_tren": 63000,
+      "vai_tro": "ho_tro",
+      "huong": null,
+      "khung": "D1",
+      "can_cu": [
+        "vùng nén 26 ngày"
+      ],
+      "moc_gio": "00:30:54",
+      "chac": true,
+      "trich": "lực giữ giá ở vùng 62 63 trong vòng 1 tháng"
+    },
+    {
+      "gia": 75000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "Fibo mở rộng 1.618 nhịp lớn",
+        "Fibo mở rộng TP2"
+      ],
+      "moc_gio": "00:35:18",
+      "chac": true,
+      "trich": "target 1 là ở 70.000 nó đã qua. Target 2 nằm ở 75.000. Fibo 1.618 nằm ở 75.000"
+    },
+    {
+      "gia": 70000,
+      "gia_tren": null,
+      "vai_tro": "tp",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "Fibo mở rộng TP1 nhịp nhỏ"
+      ],
+      "moc_gio": "00:35:52",
+      "chac": true,
+      "trich": "TP1 ở 70.00, TP2 ở 73.00, nhịp 3 là nằm ở 78"
+    },
+    {
+      "gia": 73000,
+      "gia_tren": null,
+      "vai_tro": "tp",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "Fibo mở rộng TP2 nhịp nhỏ"
+      ],
+      "moc_gio": "00:35:52",
+      "chac": true,
+      "trich": "TP2 ở 73.00"
+    },
+    {
+      "gia": 78000,
+      "gia_tren": null,
+      "vai_tro": "tp",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "Fibo mở rộng nhịp 3"
+      ],
+      "moc_gio": "00:35:52",
+      "chac": true,
+      "trich": "nhịp 3 là nằm ở 78"
+    },
+    {
+      "gia": 74000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "vùng trống thanh khoản"
+      ],
+      "moc_gio": "00:35:52",
+      "chac": true,
+      "trich": "kháng cự gần nhất của nó cũng phải là 74.00"
+    },
+    {
+      "gia": 79800,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "Fibo 0.5 thoái lui của xu hướng giảm",
+        "gap CME 80"
+      ],
+      "moc_gio": "00:36:26",
+      "chac": true,
+      "trich": "Fibo 0.5 cho chúng ta một vùng là 7980, có thể nó lên đến đây mới gặp cản... 78, 79 là Fibo 0.5 của xu hướng giảm"
+    },
+    {
+      "gia": 75200,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [],
+      "moc_gio": "00:37:00",
+      "chac": true,
+      "trich": "cũng có thể lên đến 75.2"
+    },
+    {
+      "gia": 80000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "gap CME",
+        "MA89 D1"
+      ],
+      "moc_gio": "00:34:45",
+      "chac": true,
+      "trich": "target của nó vẫn còn lên được đến tận 75 hoặc thậm chí cao hơn là 80. 80 là ở vùng này"
+    },
+    {
+      "gia": 71000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "MA200 H4"
+      ],
+      "moc_gio": "00:39:09",
+      "chac": true,
+      "trich": "nhịp này có thể nó điều chỉnh về MA200 ở 71.00 rồi sau đó lòng vòng đi lên"
+    },
+    {
+      "gia": 67000,
+      "gia_tren": null,
+      "vai_tro": "vo_hieu",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [],
+      "moc_gio": "00:39:43",
+      "chac": true,
+      "trich": "Khi nào nó thủng đoạn này về dưới 67.000 lúc đó chúng ta tính đến chuyện short"
+    },
+    {
+      "gia": 80000,
+      "gia_tren": null,
+      "vai_tro": "entry",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "MA89 D1"
+      ],
+      "moc_gio": "00:39:43",
+      "chac": true,
+      "trich": "hoặc là nó lên đến khoảng độ 80 gì đó chúng ta mới tính chuyện short"
+    },
+    {
+      "gia": 85000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [
+        "MA200 D1",
+        "MA89 D1"
+      ],
+      "moc_gio": "00:40:18",
+      "chac": false,
+      "trich": "theo thời gian MA200 này rớt về khoảng 85 thì có thể nó lên 89 sau đó kéo lên luôn MA200 rồi mới rụng"
+    },
+    {
+      "gia": 70000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "H1",
+      "can_cu": [],
+      "moc_gio": "00:40:51",
+      "chac": true,
+      "trich": "Hôm qua mình báo có thể nó điều chỉnh về 70.000 và bật lên đúng về 70.000"
+    },
+    {
+      "gia": 72000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "M30",
+      "can_cu": [
+        "MA200 M30"
+      ],
+      "moc_gio": "00:41:27",
+      "chac": false,
+      "trich": "scalping lên tiếp thì có thể nó sẽ về MA200 này, 72.00"
+    },
+    {
+      "gia": 70000,
+      "gia_tren": null,
+      "vai_tro": "sl",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý / heatmap Coinglass",
+        "số tròn"
+      ],
+      "moc_gio": "00:43:42",
+      "chac": true,
+      "trich": "Liquid ở đây chúng ta có một vùng 70... đừng long mà lấy 70 này làm stop loss, khả năng bị lụm rất cao"
+    },
+    {
+      "gia": 70003,
+      "gia_tren": null,
+      "vai_tro": "sl",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "SL của đa số"
+      ],
+      "moc_gio": "00:50:13",
+      "chac": true,
+      "trich": "70.002 70.003 đúng là stop loss của đại đa số luôn"
+    },
+    {
+      "gia": 69500,
+      "gia_tren": null,
+      "vai_tro": "entry",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "back test râu"
+      ],
+      "moc_gio": "00:56:18",
+      "chac": true,
+      "trich": "Đợi 69k5 thì được. Chờ back test về lại vùng râu trên này thì cũng ok"
+    },
+    {
+      "gia": 69000,
+      "gia_tren": 70000,
+      "vai_tro": "entry",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": "01:05:45",
+      "chac": true,
+      "trich": "phải chờ về đến vùng 70.003 hoặc là 69.000"
+    }
+  ]
+}

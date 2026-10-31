@@ -1,0 +1,76 @@
+{
+  "buoi": "2026-04-02_orDQVRuxI1E",
+  "ngay": "2026-04-02",
+  "gio_vn": "10:00",
+  "gia_btc_luc_noi": 66800,
+  "nhan_dinh": [
+    {
+      "khung": "H4",
+      "huong": "GIAM",
+      "do_chac": "vua",
+      "dich": [64000, 65000],
+      "han": "trong ngày, chờ cây H4 15:00 chiều; xác suất về 65.000 khoảng 70%, hồi lên 67.000 khoảng 15%, đi ngang 66-67.000 khoảng 15%",
+      "han_gio": 24,
+      "vo_hieu_khi": "cây H4 15:00 đóng xanh có volume kéo lên thì mới long được; H4 đóng dưới 66.000 là fail/gãy hẳn, đi xa về 63-64.000 rồi 4x-50",
+      "kich_ban_phu": "có thể đấm về dưới 64.000 (liquid 63-64) rồi mới lên 80.000, càng sâu hồi càng nhanh; hoặc hồi vài trăm giá lên 67.000 để tìm short bằng Fibo/MA; short không đuổi",
+      "ly_do": [
+        "sáng nay dump sau phát biểu của Trump (tin chém gió, thực chất quét SL long ở 67.000)",
+        "nến D1 hôm qua yếu/xấu, H4 full lực đỏ nằm ngay Fibo/trendline kháng cự",
+        "H1, M30, M5 đều đi xuống",
+        "short là xu hướng chính của thị trường, long thì khó và biên hẹp",
+        "tỷ giá USDT giảm trong khi giá BTC tăng hôm qua = lực tăng yếu"
+      ],
+      "trich": "Xu hướng ngày hôm nay vẫn short. Nói chung xu hướng hôm nay là short. ... Sau cây H4 này thì tỉ lệ về 65.000 là khoảng 70%.",
+      "doi_y": "đầu buổi: bình tĩnh, vùng này có thể tìm setup long đẹp, chưa gãy nhịp tăng, tí nữa dễ kéo lên; sau khi H4 tiếp tục đỏ: nghiêng short, 70% về 65.000, chỉ long khi có H4 xanh",
+      "duong_di": null
+    },
+    {
+      "khung": "D1",
+      "huong": "PHAN_VAN",
+      "do_chac": "thap",
+      "dich": null,
+      "han": "chưa rõ",
+      "han_gio": null,
+      "vo_hieu_khi": "thủng 65.000-66.000 (Fibo 0.618 ngày ở 66.000) thì nhịp phục hồi bị phá, đi xa",
+      "kich_ban_phu": "đóng thêm nến đỏ ngày hôm nay là xấu thực sự; kéo lên lại vùng này là êm",
+      "ly_do": ["khung ngày vẫn chưa thay đổi gì nhiều, đang giữ Fibo 0.618", "cờ giảm D1 ai cũng nhìn thấy nên có thể không chạy, nhưng giống"],
+      "trich": "Còn set ở trên khung ngày thì nó vẫn chưa thay đổi gì lắm đâu.",
+      "doi_y": null,
+      "duong_di": null
+    }
+  ],
+  "vung_gia": {"khang_cu": [67000, 69000], "ho_tro": [64000, 66000]},
+  "lenh": [
+    {"chieu": "LONG", "loai": "chờ tín hiệu", "vao": null, "tp": null, "sl": null,
+     "trang_thai": "de_xuat_moi",
+     "trich": "Muốn long thì phải chờ một cây H4 màu xanh kéo lên, phủ nhận lại cái lực bán theo ngắn hạn này cái đã."},
+    {"chieu": "SHORT", "loai": "chờ hồi", "vao": [67000, 67500], "tp": [65000, 64000], "sl": null,
+     "trang_thai": "de_xuat_moi",
+     "trich": "Ví dụ nó hồi lên đến 67 thì tính hồi lên đây tìm điểm short sau. ... Short về 65 thì cũng được nhưng quan trọng là cái điểm vào với lại cái điểm đặt stop loss."}
+  ],
+  "nhin_lai_truoc": "Hôm qua kỳ vọng đêm lên 69.500, lệnh long chỉ lên 69.200-69.500 rồi về 68.000, chấp nhận; target Fibo 1 (69.000) chạm đúng; view 'kill một phát rồi mới rụng' đúng nhưng thị trường đánh khó. Cảnh báo hôm qua 'cây D1 yếu' đúng.",
+  "cong_cu": ["D1", "H4", "H1", "M30", "M5", "Fibo 0.618", "Fibo mở rộng", "trendline", "volume", "heatmap liquid", "tỷ giá USDT", "mô hình cờ giảm"],
+  "tin_tuc": [
+    {"tin": "Phát biểu của Trump về chiến tranh Mỹ-Iran, dầu tăng 103-104", "danh_gia": "chém gió, không có điểm nhấn, thị trường phản ứng vì nó thích; Mỹ gom dầu"}
+  ],
+  "thoi_quen": [
+    "không có lệnh long trong người khi H4/H1 xấu, không bắt đáy, không short đuổi",
+    "chờ nến H4 đóng (15:00) rồi mới quyết",
+    "vào vì lý do gì thì ra vì lý do đó",
+    "khó nhất là điểm vào, không có điểm vào thì chỉ nhìn",
+    "swing short phải TP xa (tối thiểu 53.000)",
+    "gom dầu chia vốn khi nó giảm"
+  ],
+  "cau_cua_mieng": [
+    "Vội vàng là chết đấy.",
+    "Đi có 1000 giá mà đã sợ à. Nhìn vào nến thôi.",
+    "Hôm nay là một buổi live đói."
+  ],
+  "altcoin": [
+    {"coin": "ETH", "huong": "GIAM", "ghi": "BTC về 63-64k thì ETH khoảng 1800-1900; limit short 2000 không hợp lý"},
+    {"coin": "BNB", "huong": "GIAM", "ghi": "gãy mạnh, mất sóng"},
+    {"coin": "VÀNG", "huong": "GIAM", "ghi": "lên gặp EMA200 H4/Fibo rụng, gãy cùng BTC; hạn chế long, chờ nến đỏ"},
+    {"coin": "DẦU", "huong": "TANG", "ghi": "còn lên, đừng FOMO, chờ gãy mới gom 86-80"}
+  ],
+  "ghi_chu": "Giá lúc nói ~66.800 (từ 'về 67.000', tỉ lệ về 65.000 sau cây H4). Đầu buổi giá ~67.000 rồi rụng tiếp trong buổi."
+}

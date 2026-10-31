@@ -1,0 +1,41 @@
+{
+  "buoi": "2026-09-08_1002_gOwbzU0t2S0",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/lam_sach/2026-09-08_1002_gOwbzU0t2S0.md",
+  "gia_btc_luc_noi": 78200,
+  "dau_buoi": {
+    "thien_huong_h4": "GIAM",
+    "gio": null,
+    "trich": "Hiện tại vùng này anh em nên thận trọng vì xác suất nó về 77 đến 76 là có. Trên H4, MA34 bây giờ đóng vai trò là cản chứ không phải hỗ trợ như trước nữa, trở thành kháng cự. Tối thiểu nó sẽ đưa giá về nền khoảng 77.000, tức khoảng 1000 giá nữa, chạm test lại MA89, điều đó hợp lý."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "GIAM",
+    "do_chac": "vua",
+    "gio": null,
+    "trich": "Chốt BTC: như lúc nãy mình nói, anh em nên xử lý những lệnh sale ở vùng hỗ trợ cứng của BTC trong nhịp này, quanh vùng 77–76."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {"huong": "GIAM", "dich": [76000, 77000]},
+  "duong_di": null,
+  "dich_chinh": [76000, 77000],
+  "han_gio": null,
+  "vo_hieu": null,
+  "lenh": [
+    {"chieu": "LONG", "vao": [76000, 77000], "tp": [], "sl": null, "trang_thai": "de_xuat_moi"},
+    {"chieu": "LONG", "vao": 75000, "tp": [], "sl": null, "trang_thai": "de_xuat_moi"},
+    {"chieu": "SHORT", "vao": [82000, 83000], "tp": [], "sl": null, "trang_thai": "de_xuat_moi"}
+  ],
+  "hanh_dong": "dung_ngoai_cho_entry",
+  "khung_lon": {"D1": "GIAM", "W1": null},
+  "pha_vo_gia": "Không gọi tên phá vỡ giả cho BTC; chỉ nhắc 'BTC micro trên sàn CME quét xuống 75k trong 1 phút rồi giật lên' và thanh lý 'giá có thể quét luôn cả hai đầu là chuyện bình thường'.",
+  "trich_them": [
+    {"gio": null, "cau": "Sau kết quả đóng cây nến ngày này, trên khung ngày vẫn tiếp tục là một nhịp không an toàn. Có thể coi đây là mô hình hai đỉnh, và hai đỉnh ở đây kéo theo phân kỳ cả volume lẫn RSI."},
+    {"gio": null, "cau": "Vùng 77.000 cho đến 76.000 sẽ là vùng chốt chặn. Nếu thủng 76 thì gần như về đâu đó khoảng 72–73 không quá khó, thậm chí thấp hơn. Nhưng nếu về khoảng 77 đến 76 mà vẫn trụ được thì ok, lúc đó RSI cộng với lực bán giảm dần theo thời gian, nó sẽ xuôi xuôi rồi trở thành vùng tái tích lũy, mô hình cờ để tiếp tục bơm lên."},
+    {"gio": null, "cau": "Khi nó về đến đây cũng đừng vội mua lên. Vùng hỗ trợ có volume nằm ở 77 đến 76.000 (vùng mình vẽ màu vàng), chúng ta xem phản ứng giá khi chạm vùng đó rồi mới quyết định có mua lên hay không. ... Nếu nó gãy xuyên qua và cắm xuống thì chúng ta tham gia quanh vùng 75."},
+    {"gio": null, "cau": "H1 cực kỳ xấu, vừa có một cây H1 rất xấu. ... Xuất hiện cây nến bán H1 rất mạnh. Nhịp này chúng ta không thể mua, nên chờ về những vùng giá như mình nói và xem phản ứng ở đó."},
+    {"gio": null, "cau": "Quan điểm của mình: không giao dịch ở vùng lưng chừng. ... Ví dụ vùng này nếu có sale thì mình cân nhắc xử lý lệnh ở khoảng 78.[?] đến 78.000 [?]."},
+    {"gio": null, "cau": "Chờ vùng nào chờ đi: chờ 82, nếu lên 82–83 gì đó có lên thì tốt; còn không thì chờ nó gãy khỏi 75 này."},
+    {"gio": null, "cau": "Góc độ cá nhân mình: đây là nhịp tăng có lẽ cũng tiệm cận cuối cùng của năm. Sau đó chắc nó sẽ phải chờ đi ngang, sideway; chủ yếu thời gian còn lại sẽ là đi ngang."}
+  ],
+  "kho": "File không có mốc giờ. Hướng giảm ngắn hạn về 77–76 khá rõ, nhưng người đó coi 77–76 là vùng chốt chặn có thể bật lên (tái tích lũy) hoặc thủng về 72–73 — chưa nói nhánh nào sau đó; không nêu mốc vô hiệu phía trên. Giá lúc nói ước ~78 (nói 'tối thiểu về 77, khoảng 1000 giá nữa')."
+}

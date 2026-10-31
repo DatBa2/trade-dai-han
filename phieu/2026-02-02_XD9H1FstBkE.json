@@ -1,0 +1,77 @@
+{
+  "buoi": "2026-02-02_XD9H1FstBkE",
+  "ngay": "2026-02-02",
+  "gio_vn": "10:00",
+  "gia_btc_luc_noi": 75500,
+  "nhan_dinh": [
+    {
+      "khung": "H4",
+      "huong": "TANG",
+      "do_chac": "cao",
+      "dich": [78000, 81000],
+      "han": "trong ngày hôm nay (thứ hai)",
+      "han_gio": 24,
+      "vo_hieu_khi": "M5 đóng dưới 75.150 thì thoát long",
+      "kich_ban_phu": "hồi tối thiểu 78.000, tệ cũng râu 81.000 (gap 78-81, có thể gap 82); có thể quét về 73.000-76.200 rồi mới hồi; cùng lắm râu 88.000",
+      "ly_do": [
+        "khung ngày giá nằm quá xa MA, khả năng hồi cực kỳ cao (kill short, quét)",
+        "H4 quá thấp, bắt đầu phân kỳ nhẹ",
+        "gap to 78.000-81.000 chưa lấp",
+        "áp lực bán lớn nên cần sideway, không đảo chiều ngay; hôm nay thứ hai"
+      ],
+      "trich": "Hồi tối thiểu mình nghĩ cũng phải lên đâu đó khoảng 78 hoặc thậm chí 81 mới hợp lý. Tệ cũng phải là cái râu này 81 thì may ra mới tìm điểm short lại, còn vùng này không short.",
+      "doi_y": "hôm qua trong video: chờ hồi lên rồi short xuống, đừng long; hôm nay nghĩ long ăn hồi tốt hơn short vùng 74-76 nhưng không khuyến khích long",
+      "duong_di": null
+    },
+    {
+      "khung": "chung",
+      "huong": "GIAM",
+      "do_chac": "cao",
+      "dich": [62000, 65000],
+      "han": "mục tiêu cá nhân; sau đó 20.000-40.000",
+      "han_gio": null,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": "hồi lên 78-81 rồi short tiếp; gap 93.000 có lấp hay không không nói được",
+      "ly_do": [
+        "vai đầu vai khung tuần gãy, hai cây nến tuần xấu, mô hình cờ về 62.000",
+        "downtrend đang chạy đúng kế hoạch"
+      ],
+      "trich": "Mục tiêu của cá nhân mình nghĩ đoạn này vẫn phải về chinh phục ở cột mốc khoảng quanh 65 cho đến 62.",
+      "doi_y": null,
+      "duong_di": [
+        {"huong": "TANG", "dich": [78000, 81000]},
+        {"huong": "GIAM", "dich": [62000, 65000]}
+      ]
+    },
+    {
+      "khung": "M5",
+      "huong": "TANG",
+      "do_chac": "thap",
+      "dich": [78000, 81000],
+      "han": "trong ngày",
+      "han_gio": 24,
+      "vo_hieu_khi": "M5 đóng dưới 75.150",
+      "kich_ban_phu": "đòn bẩy x10, SL vài trăm giá, ăn ngắn 78.000, ăn dài 81.000",
+      "ly_do": ["M5 đi xa không thể sập sâu hơn, phải có nhịp hồi", "đánh ngược sóng nên có lãi 1000 giá trở lên là chốt"],
+      "trich": "Về vùng 7500 cho đến 75.00 thì anh em thích có thể long scalping lên. Đánh đòn bẩy x10 thôi.",
+      "doi_y": null,
+      "duong_di": null
+    }
+  ],
+  "vung_gia": {"khang_cu": [78000, 81000], "ho_tro": [74000, 75150]},
+  "lenh": [
+    {"chieu": "LONG", "loai": "scalp ngược sóng", "vao": [75000, 75300], "tp": [78000, 81000], "sl": 75150,
+     "trang_thai": "dang_giu",
+     "trich": "75k3 các bạn vào được... cây nến đỏ mà đóng thủng vùng 75k là các bạn phải out... ăn khoảng 78, muốn ăn dài thì ăn ở khoảng 81."},
+    {"chieu": "SHORT", "loai": "đang giữ", "vao": null, "tp": [60000], "sl": null,
+     "trang_thai": "dang_giu",
+     "trich": "Lệnh này hiện tại mình đang lãi khoảng 70% tổng vị thế... BTC về khoảng 60.000 thì lệnh của mình không lãi thêm được nữa."}
+  ],
+  "nhin_lai_truoc": "Hôm qua cho anh em long một lệnh tối qua bị stop loss (cú hai đáy bị lừa), bình thường. Plan về 62.000 theo mô hình cờ post từ lúc BTC 95-96 đang chạy đúng.",
+  "cong_cu": ["H4", "M5", "M30 MA34", "Fibo", "gap CME 78-81 và 93", "vai đầu vai khung tuần", "mô hình cờ", "liquidation heatmap", "volume Hyperliquid"],
+  "tin_tuc": [{"tin": "ví Satoshi bán, CZ/Justin Sun bị bắt", "danh_gia": "không quan tâm, tin tức là món ăn, giá giảm thì cứ giảm"}],
+  "thoi_quen": ["không đoán trước, đánh linh hoạt", "phân bổ vốn DCA không mua hết", "ngược sóng thì lãi là chốt, SL vài trăm giá theo nến M5", "không short ở vùng đáy dù thuận trend, chờ hồi", "đánh theo cấu trúc chứ đừng đánh theo tiền"],
+  "cau_cua_mieng": ["Trong thị trường này có một điều chắc chắn đó là không có điều gì là chắc chắn.", "Đánh theo cấu trúc chứ đừng đánh theo tiền.", "Thị trường nó khốn nạn lắm."],
+  "altcoin": [{"coin": "ETH", "huong": "GIAM", "ghi": "đã về 2000; mua 2300 nên chỉ 2% vốn, về 1000 vào 20%"}, {"coin": "vàng", "huong": null, "ghi": "đừng sell, đừng bắt đáy, chỉ scalp"}],
+  "ghi_chu": "BTC lúc nói vừa chạm 74.000 đáy, vào cuối buổi 75.000-75.500. '7505'/'75k3' hiểu 75.300."
+}

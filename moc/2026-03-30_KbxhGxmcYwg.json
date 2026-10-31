@@ -1,0 +1,333 @@
+{
+  "buoi": "2026-03-30_KbxhGxmcYwg",
+  "ngay": "2026-03-30",
+  "gia_btc_luc_noi": 66800,
+  "moc": [
+    {
+      "gia": 71000,
+      "gia_tren": null,
+      "vai_tro": "dinh_cu",
+      "huong": null,
+      "khung": "W1",
+      "can_cu": [
+        "râu nến tuần đầu tuần trước (kéo lên 71.000)"
+      ],
+      "moc_gio": "00:03:51",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Râu nến tuần giai đoạn trước... kéo lên 71.000 và bây giờ về 66.000"
+    },
+    {
+      "gia": 66000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "W1",
+      "can_cu": [
+        "nến tuần đóng cửa ở 66.000",
+        "hai đáy khung tuần"
+      ],
+      "moc_gio": "00:03:51",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "đóng nến tuần ở vùng 66.000"
+    },
+    {
+      "gia": 65000,
+      "gia_tren": 66000,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "W1",
+      "can_cu": [
+        "vùng hỗ trợ khung tuần",
+        "Fibo 0.618 khung ngày",
+        "mô hình hai đáy"
+      ],
+      "moc_gio": "00:04:22",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "điểm kết thúc của nến tuần nằm ngay vùng hỗ trợ 65.000 cho đến 66.000... thủng 65 66 hy vọng dập tắt"
+    },
+    {
+      "gia": 68000,
+      "gia_tren": null,
+      "vai_tro": "vo_hieu",
+      "huong": "GIAM",
+      "khung": "W1",
+      "can_cu": [
+        "nến tuần mới xanh trên 68.000"
+      ],
+      "moc_gio": "00:05:29",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "thứ hai tuần tới trả lại một cây nến xanh trên vùng 68.000 thì mọi thứ ok hơn"
+    },
+    {
+      "gia": 60000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [
+        "hỗ trợ gần nhất 0.5 Fibo khung ngày bị thủng"
+      ],
+      "moc_gio": "00:08:44",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "rụng qua khỏi vùng này thì khả năng cao nó sẽ phải về test vùng 60"
+    },
+    {
+      "gia": 81000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "Fibo mở rộng khung ngày"
+      ],
+      "moc_gio": "00:10:55",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "theo Fibo mở rộng là 81.000... thậm chí lên 91.000"
+    },
+    {
+      "gia": 91000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "Fibo mở rộng khung ngày"
+      ],
+      "moc_gio": "00:10:55",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "thậm chí lên 91.000 theo Fibo mở rộng"
+    },
+    {
+      "gia": 79000,
+      "gia_tren": null,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": "W1",
+      "can_cu": [
+        "so sánh chu kỳ 2022: nhịp hồi 79.000 rồi về 30.000"
+      ],
+      "moc_gio": "00:07:06",
+      "tai_san": "BTC",
+      "chac": false,
+      "trich": "nó hồi nhẹ lên một tí khoảng 79.000 rồi sau đó đi từ từ về lại khoảng 30.000"
+    },
+    {
+      "gia": 30000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "W1",
+      "can_cu": [
+        "chu kỳ 4 năm đồng pha với 2022 (MA34/MA89 tuần sắp cắt xuống)"
+      ],
+      "moc_gio": "00:07:06",
+      "tai_san": "BTC",
+      "chac": false,
+      "trich": "đi từ từ về lại khoảng 30.000 thì cũng là down trend và đến cuối năm nay hợp lý"
+    },
+    {
+      "gia": 67000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "râu 67.000 sáng nay",
+        "MA34 H4",
+        "cụm thanh lý phe short vùng 67.000"
+      ],
+      "moc_gio": "00:11:26",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "nhịp 67.000 lúc sáng... kill các lệnh short ở vùng liquid... lên test MA34 trên khung H4"
+    },
+    {
+      "gia": 65000,
+      "gia_tren": null,
+      "vai_tro": "tp",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "TP lệnh short sáng nay"
+      ],
+      "moc_gio": "00:11:26",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "lúc nó về 65.000, lúc mình cho anh em húp TP"
+    },
+    {
+      "gia": 66000,
+      "gia_tren": null,
+      "vai_tro": "vo_hieu",
+      "huong": "TANG",
+      "khung": "M5",
+      "can_cu": [
+        "cấu trúc sóng tăng M5",
+        "SL phe long đòn bẩy 7 và scalping ở 66.000"
+      ],
+      "moc_gio": "00:14:44",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "cho đến khi nào nó không thủng qua khỏi 66.000 thì mọi người cũng đừng short"
+    },
+    {
+      "gia": 80000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "gap CME lớn 80.000"
+      ],
+      "moc_gio": "00:15:18",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Ngoại trừ gap to của chúng ta nằm ở 80"
+    },
+    {
+      "gia": 67000,
+      "gia_tren": null,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý (Liquid heatmap)",
+        "SL phe short ở 67.000"
+      ],
+      "moc_gio": "00:15:52",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Liquid này lụm hết vùng 67.000... vẫn còn một đám ở 67.000, nó rụng về lại 65.000"
+    },
+    {
+      "gia": 66000,
+      "gia_tren": null,
+      "vai_tro": "sl",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý phe long SL 66.000"
+      ],
+      "moc_gio": "00:16:25",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "một đám long hiện tại và SL ở 66.000, phe đòn bẩy 7 và scalping"
+    },
+    {
+      "gia": 58000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "MN",
+      "can_cu": [
+        "Fibo 0.5 khung lớn nến tháng thủng"
+      ],
+      "moc_gio": "00:17:29",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "nến tháng thủng khỏi Fibo 0.5 ở khung lớn... cuối tháng tư sẽ có giá 58.000"
+    },
+    {
+      "gia": 32000,
+      "gia_tren": 34000,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "MN",
+      "can_cu": [
+        "thủng 58.000 đóng nến tháng 57.000"
+      ],
+      "moc_gio": "00:18:36",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "đóng nến tháng ở khoảng 57.000 thì dễ đấm về 32.000 hoặc 34.000"
+    },
+    {
+      "gia": 67000,
+      "gia_tren": 68000,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý phe short"
+      ],
+      "moc_gio": "00:19:06",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Tầm này chắc dễ quét lên đến vùng khoảng 67 68.000"
+    },
+    {
+      "gia": 68000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": "00:23:00",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "nhịp này có thể hồi lên khoảng 68.000"
+    },
+    {
+      "gia": 64000,
+      "gia_tren": null,
+      "vai_tro": "khac",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý/SL phe long dài"
+      ],
+      "moc_gio": "00:20:43",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Trên này có một đám ở 64... đừng bỏ qua khả năng quét về tận 64"
+    },
+    {
+      "gia": 66000,
+      "gia_tren": 67000,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "vùng mở nhiều lệnh",
+        "hỗ trợ cứng"
+      ],
+      "moc_gio": "00:21:16",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "vùng 67 cho đến 66.600 đang mở ra rất nhiều lệnh... thủng qua khỏi vùng 66 mới xem điểm back test"
+    },
+    {
+      "gia": 20000,
+      "gia_tren": 40000,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "W1",
+      "can_cu": [
+        "vùng DCA dài hạn của anh ấy"
+      ],
+      "moc_gio": "00:32:13",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "DCA... mình thì từ 40 đến 20"
+    },
+    {
+      "gia": 75000,
+      "gia_tren": null,
+      "vai_tro": "nhac_lai",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": "00:45:42",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "75.000 không phải là một cái view, không có một cái target ở 75.000 nữa"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "buoi": "2026-08-18_0957__c0_SERWnz0",
+  "ngay": "2026-08-18",
+  "gio_vn": "09:57",
+  "gia_btc_luc_noi": null,
+  "nhan_dinh": [
+    {
+      "khung": "H4",
+      "huong": "GIAM",
+      "do_chac": "thap",
+      "dich": 63000,
+      "han": "trong ngày",
+      "han_gio": 24,
+      "vo_hieu_khi": "H4 hoặc D1 đóng trên 65.000 (D1 đẹp nhất) thì chạy mô hình cờ lên 71.000",
+      "kich_ban_phu": "nếu qua 65.000 thì 66.000 rồi mô hình cờ đo 71.000; nếu H4 giữ ngang trên 64 càng lâu thì càng dễ đi lên",
+      "ly_do": [
+        "xác suất khoảng 70% là kill short (quét lên) rồi mới đi xuống",
+        "H4 sắp đóng đỏ nên chờ hồi lên mới sale đẹp",
+        "MA vẫn xếp sóng giảm, chưa confirm tăng",
+        "ra nhịp hồi khoảng 300 giá, vùng 64-64.500 không có liquid nên có thể quét lên đó"
+      ],
+      "trich": "Mình nghĩ là khoảng tầm 70%. [kill short rồi mới đi xuống]",
+      "doi_y": null,
+      "duong_di": [
+        {
+          "huong": "TANG",
+          "dich": 64500
+        },
+        {
+          "huong": "GIAM",
+          "dich": 63000
+        }
+      ]
+    },
+    {
+      "khung": "D1",
+      "huong": "PHAN_VAN",
+      "do_chac": "thap",
+      "dich": null,
+      "han": null,
+      "han_gio": null,
+      "vo_hieu_khi": "nến D1 đóng trên 65.000 phá khỏi vùng bó hẹp",
+      "kich_ban_phu": "phá lên 65.000 thì 66.000 rồi 71.000 (cờ, hết vùng thanh khoản)",
+      "ly_do": [
+        "nến D1 xanh là nến thứ hai trong tuần nên không đáng tin, thường xử lý thanh khoản cuối tuần",
+        "thị trường bó hẹp biên, sideway, chưa biết hướng",
+        "không nhận định đây là đáy"
+      ],
+      "trich": "Thực tế ở đây chúng ta phải thừa nhận một điều là thị trường nó đang đi bó hẹp biên, đang đi sideway, thì mình chưa biết là nó sẽ đi về cái hướng nào.",
+      "doi_y": null,
+      "duong_di": null
+    }
+  ],
+  "vung_gia": {
+    "khang_cu": [
+      65000,
+      66000
+    ],
+    "ho_tro": [
+      63000,
+      64000
+    ]
+  },
+  "lenh": [
+    {
+      "chieu": "SHORT",
+      "loai": "market",
+      "vao": 64500,
+      "tp": [
+        63000
+      ],
+      "sl": 66000,
+      "trang_thai": "de_xuat_moi",
+      "trich": "Short ở đây cũng được nhưng mà SL ở trên cái đoạn 66 nhá ... SL chắc khoảng tầm trên 67 bởi vì nếu mà lên trên 67 thì lên 71 luôn rồi."
+    },
+    {
+      "chieu": "SHORT",
+      "loai": "market",
+      "vao": null,
+      "tp": [
+        57000,
+        54000
+      ],
+      "sl": 65000,
+      "trang_thai": "de_xuat_moi",
+      "trich": "Ăn tham như mình mà short ở đây thì các bạn SL trên 65.000 khi nó đóng nến vượt qua ... TP1 ở đây thì TP2 cứ gồng về xa, gồng về 57, 54."
+    }
+  ],
+  "nhin_lai_truoc": "Hôm qua dự kiến có pha lên kill short đúng; Fibo mở rộng TP lên 64.000 đã khớp; không ngờ H4 chạy hai đáy tại vùng này.",
+  "cong_cu": [
+    "D1",
+    "H4",
+    "MA cụm H4",
+    "Fibo 0.5",
+    "Fibo mở rộng",
+    "mô hình W",
+    "mô hình cờ",
+    "trendline H1/M15/M5",
+    "liquid heatmap",
+    "BTC.D",
+    "USDT.D",
+    "Fear and Greed"
+  ],
+  "tin_tuc": [
+    {
+      "tin": "Mỹ-Iran hết hạn thỏa thuận 90 ngày, Hormuz chỉ 3 tàu dầu/ngày",
+      "danh_gia": "nguồn cung dầu hạn chế nên dầu khó giảm"
+    }
+  ],
+  "thoi_quen": [
+    "scalp sale entry không đẹp thì TP1 sớm",
+    "cắt lệnh theo nến đóng (H4/D1) chứ không theo giá",
+    "trendline rất uy tín năm 2026, tắt bớt chỉ báo",
+    "gồng chỉ khi cấu trúc còn giữ lý do, vốn đừng vượt sức chịu",
+    "nhìn USDT.D để canh sót"
+  ],
+  "cau_cua_mieng": [
+    "Thua kèo này thì ta lại bài kèo khác, không có gì hết.",
+    "Vô chiêu thắng hữu chiêu."
+  ],
+  "altcoin": [
+    {
+      "coin": "ETH",
+      "huong": "GIAM",
+      "ghi": "rất yếu, không qua nổi trendline"
+    },
+    {
+      "coin": "BTC.D",
+      "huong": "TANG",
+      "ghi": "kéo lên nên altcoin không thở nổi; USDT.D có cây đâm xuống, chờ phục hồi mới sale"
+    },
+    {
+      "coin": "XRP",
+      "huong": "GIAM",
+      "ghi": "xả ác, vùng an toàn 0.5-0.7"
+    }
+  ],
+  "ghi_chu": "Giá BTC không nói số rõ (khoảng 64.x suy ngữ cảnh). Phần H4 và D1 là đoạn người nói chủ yếu nêu điều kiện 'nếu'. Mô hình W neckline 65.000 → 66.000. 'Ăn tham như mình' có thể là cách nói mở rộng cho người xem, không phải lệnh của chính anh."
+}

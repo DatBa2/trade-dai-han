@@ -1,0 +1,147 @@
+{
+ "buoi": "2026-07-31_SlGyokVNofU",
+ "ngay": "2026-07-31",
+ "gio_vn": "10:00",
+ "gia_btc_luc_noi": 64000,
+ "nhan_dinh": [
+  {
+   "khung": "H4",
+   "huong": "GIAM",
+   "do_chac": "vua",
+   "dich": [
+    62000,
+    62500
+   ],
+   "han": null,
+   "han_gio": null,
+   "vo_hieu_khi": "nến H4 đóng trên 65.000",
+   "vo_hieu_cau_truc": {
+    "gia": 65000,
+    "khung": "H4",
+    "so_nen": 1,
+    "chieu": "dong_tren",
+    "cau": "nếu vùng 6500 này không bị phá vỡ thì xu hướng giảm này vẫn còn. Mà một khi xu hướng giảm ở trên H4 này vẫn còn thì hai vùng target mở rộng của Fibo này vẫn còn khả thi."
+   },
+   "kich_ban_phu": null,
+   "duong_di": [
+    {
+     "huong": "TANG",
+     "dich": 64000
+    },
+    {
+     "huong": "GIAM",
+     "dich": 63000
+    },
+    {
+     "huong": "GIAM",
+     "dich": [
+      62000,
+      62500
+     ]
+    },
+    {
+     "huong": "GIAM",
+     "dich": 60000
+    }
+   ],
+   "doi_y": null,
+   "ly_do": [],
+   "trich": "Bitcoin còn cửa nào hay động lực nào để lên? Muốn lên thì cứ phải qua khỏi 65.000 đó. 6500. Cản trend là H4.",
+   "nhan_v1": "GIAM"
+  },
+  {
+   "khung": "D1",
+   "huong": "TANG",
+   "do_chac": "thap",
+   "dich": 65000,
+   "han": "chưa nói",
+   "han_gio": null,
+   "vo_hieu_khi": null,
+   "kich_ban_phu": "D1 chỉ có sóng đi lên tiếp khi break trendline H4 và đóng H4, D1 xác nhận",
+   "ly_do": [
+    "D1 đóng nến xanh lấy lại trên đường MA, vẫn thể hiện nhịp phục hồi nhưng xung đột với H4"
+   ],
+   "trich": "Khung ngày vẫn đóng được một cây nến xanh khá ngon và kéo lấy lại trên đường MA, thành ra xu hướng khung ngày vẫn thể hiện được nhịp phục hồi.",
+   "doi_y": null,
+   "duong_di": null
+  }
+ ],
+ "vung_gia": {
+  "khang_cu": [
+   64000,
+   65300
+  ],
+  "ho_tro": [
+   62000,
+   63000
+  ]
+ },
+ "lenh": [
+  {
+   "chieu": "SHORT",
+   "vao": 64000,
+   "tp": [
+    63000,
+    62000,
+    60000
+   ],
+   "sl": null,
+   "trang_thai": "de_xuat_moi"
+  }
+ ],
+ "nhin_lai_truoc": "Hôm qua nhắc nếu phá trendline H1 và 64.000 thì không nên short, đúng, nó kéo lên gần 1000 giá; nhịp tăng đêm qua chủ yếu quét short rồi gãy.",
+ "cong_cu": [
+  "H4",
+  "H1",
+  "D1",
+  "MA",
+  "Fibo mở rộng/thoái lui",
+  "trendline",
+  "heatmap liquidation",
+  "delta",
+  "USDT.D",
+  "BTC.D"
+ ],
+ "tin_tuc": [
+  {
+   "tin": "PCE giảm 0.1%, GDP quý giảm nhẹ 1,5%; CPI 12-13/8 và non-farm quyết định lãi suất tháng 9",
+   "danh_gia": "tin khá tốt, giảm căng thẳng Fed; nếu Fed tăng lãi suất tháng 9 thì đáy thị trường tháng 10-11"
+  }
+ ],
+ "thoi_quen": [
+  "ngồi im cũng là chiến lược, ưu tiên giữ tiền",
+  "TP1 chốt 50% và dời SL về entry; TP2 chốt 25%; TP3 chỉ để 10-25%",
+  "Fibo mở rộng chỉ để chốt lãi, entry dùng Fibo thoái lui",
+  "đánh vàng chừa dư SL trên râu",
+  "mua spot BTC chỉ 5-10% vốn ở giai đoạn này",
+  "cuối tháng, thứ sáu thì thận trọng"
+ ],
+ "cau_cua_mieng": [
+  "Hãy nhìn thị trường qua lăng kính xanh chứ đừng nhìn bằng lăng kính màu hồng.",
+  "Ngồi im cũng là một chiến lược, không phải ngồi im là sợ chết."
+ ],
+ "altcoin": [
+  {
+   "coin": "ETH",
+   "huong": "GIAM",
+   "ghi": "trụ vùng 1900, H4 xấu; sell 1930 TP1 1850, TP2 1755; gãy sâu 1850 mới là gãy; SL ~1942"
+  },
+  {
+   "coin": "BNB",
+   "huong": null,
+   "ghi": "H1 ngon, volume tốt nhưng H4 xấu, không muốn long; mỗi lần BNB kéo thì 1-2 ngày sau thị trường hẻo"
+  }
+ ],
+ "ghi_chu": "gio_vn mặc định 10:00. Phần vàng, dầu, bạc, chứng khoán, PI bỏ qua. SOL/Nasdaq chỉ trả lời câu hỏi.",
+ "hanh_dong": "dung_ngoai_cho_entry",
+ "chang_ke_tiep": {
+  "huong": "TANG",
+  "dich": 64000
+ },
+ "khung_lon_v2": {
+  "D1": "TANG",
+  "W1": null
+ },
+ "pha_vo_gia": "Nhịp tăng đêm qua tới sáng nay là pha lên quét short / kill short rồi gãy xuống lại (dụ long); H4 'hay lừa' kéo H1-H4 lên rồi xả.",
+ "nguon_nhan": "dap_an_v2 (Opus 5.5 rút mù 31/10)"
+}

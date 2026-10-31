@@ -1,0 +1,77 @@
+{
+  "buoi": "2026-06-12_x75V4Kb1fj4",
+  "ngay": "2026-06-12",
+  "gio_vn": "10:00",
+  "gia_btc_luc_noi": 63000,
+  "nhan_dinh": [
+    {
+      "khung": "H4",
+      "huong": "TANG",
+      "do_chac": "vua",
+      "dich": [65000, 69000],
+      "han": "view giữ đến cuối tuần / dùng đến khoảng thứ ba tuần sau",
+      "han_gio": 120,
+      "vo_hieu_khi": "H4 đóng thủng 61.000 (thủng trendline); thủng 60.000 thì mới mất xu hướng tăng",
+      "kich_ban_phu": "H4 khả năng đỏ, điều chỉnh về 62.000 (sâu nhất 61.800 nhưng khó) là cơ hội long; đóng H4 trên 64.000 thì lên 65 dễ; 65-66 nhùng nhằng; râu tối đa 71, tháng 6 khó cao hơn 71",
+      "ly_do": ["nến D1 sáng nay đóng vượt 63.000, đỉnh đáy cao dần", "hai cụm nến đảo chiều D1; test Fibo 0.618 rồi đi lên", "Fibo mở rộng 1.618 ở 69.000 trùng MA200 H4; Fibo 1 ở 65.900 trùng MA89", "tin tức xong, thị trường trả lại momentum"],
+      "trich": "Mình vẫn giữ quan điểm nếu mà thủng khỏi 60 thì mới mất xu hướng tăng được. Lên 69, 69 thì tức là điểm cao nhất thì 69. Còn trước đó là sẽ có 65 với 67 trước.",
+      "doi_y": null,
+      "duong_di": [
+        {"huong": "GIAM", "dich": 62000},
+        {"huong": "TANG", "dich": 65000},
+        {"huong": "TANG", "dich": 69000}
+      ]
+    },
+    {
+      "khung": "D1",
+      "huong": "TANG",
+      "do_chac": "vua",
+      "dich": [65000, 69000],
+      "han": "đến khoảng thứ ba tuần sau",
+      "han_gio": 120,
+      "vo_hieu_khi": "thủng 60.000",
+      "kich_ban_phu": "tệ cũng phải test MA ngày; Bitcoin lên 71 thì tìm entry short, sợ không lên được",
+      "ly_do": ["đỉnh đáy cao dần = xu hướng phục hồi, không nên đánh xuống", "tất cả mọi nhịp hiện tại đều là nhịp hồi sau giai đoạn xả sâu"],
+      "trich": "Xu hướng đi lên thì khi mà thị trường đi lên thì chúng ta không nên đánh xuống.",
+      "doi_y": null,
+      "duong_di": null
+    },
+    {
+      "khung": "H1",
+      "huong": "PHAN_VAN",
+      "do_chac": "thap",
+      "dich": [62000, 63000],
+      "han": "trong ngày",
+      "han_gio": 24,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": "bám 63.000 thì đi mô hình cờ lên tiếp; tuột hỗ trợ thì rớt nhanh về 62.000-60.900",
+      "ly_do": ["63.000 là vùng cản + MA200 H1, giá dội nhẹ", "vào long market bây giờ là FOMO, không nên bắt ở giá hiện tại"],
+      "trich": "Nếu bây giờ anh em vào long ở giá market thì nó sẽ là FOMO. Mà câu chuyện FOMO thì nó sẽ đi kèm với rủi ro lớn.",
+      "doi_y": null,
+      "duong_di": null
+    }
+  ],
+  "vung_gia": {"khang_cu": [63000, 65000, 69000], "ho_tro": [60900, 62000]},
+  "lenh": [
+    {"chieu": "LONG", "loai": "đang giữ", "vao": [61000, 62000], "tp": [65000, 69000], "sl": 60000,
+     "trang_thai": "dang_giu",
+     "trich": "Mình vẫn giữ những entry từ 61 cho đến đây mình vẫn giữ."},
+    {"chieu": "LONG", "loai": "limit/quan sát", "vao": [60900, 62000], "tp": [65000], "sl": null,
+     "trang_thai": "de_xuat_moi",
+     "trich": "Anh em nào mà an toàn thì mọi người có thể chờ những nhịp tuột đó về khoảng 62.000 đến 60.900 thì chúng ta lại có một entry nó đẹp hơn."},
+    {"chieu": "LONG", "loai": "swing D1 ví dụ", "vao": null, "tp": [68000], "sl": 58000,
+     "trang_thai": "de_xuat_moi",
+     "trich": "Ví dụ ở đây các bạn muốn swing thì đây là lệnh swing được: SL58 và TP68."}
+  ],
+  "nhin_lai_truoc": "'Những ngày gần đây thị trường đi đúng view của mình rồi, không trượt được phát nào'; hôm qua gap CME vẫn lấp rồi bật lên dù đã nói bỏ gap. Fear and Greed 8-9 hôm trước đúng là đáy ngắn hạn.",
+  "cong_cu": ["H4", "D1", "H1", "Fibo 0.618 và mở rộng 1.618", "MA34", "MA89", "MA200", "gap CME", "Fear and Greed", "BTC.D", "USDT.D"],
+  "tin_tuc": [
+    {"tin": "CPI, PPI đêm qua bình thường, core PPI 0,4 so với dự kiến 0,5", "danh_gia": "chỉ tác động 1-2 giờ rồi thị trường trả về momentum"},
+    {"tin": "Họp FED đêm thứ tư tuần sau, bài phát biểu đầu tiên của chủ tịch mới", "danh_gia": "tin quan trọng nhất tháng"},
+    {"tin": "IPO SpaceX tối nay, World Cup khai mạc", "danh_gia": "hút thanh khoản, thị trường có thể kém mạnh"}
+  ],
+  "thoi_quen": ["đã tăng thì không short, short chỉ khi có tín hiệu đảo chiều", "không vào long FOMO giá market, chờ nhịp tuột", "TP non trước vùng cản, 69.000 là chốt", "đừng nghe thị trường nói mà nhìn nó làm", "spot mua từ từ, không mua một lần", "Fear and Greed 8-9 là vùng mua an toàn, 6 nhắm mắt mua, 20 bớt FOMO, 30 chốt một ít, 50 phải chốt"],
+  "cau_cua_mieng": ["Đừng có nghe thị trường nó nói mà hãy nhìn thị trường nó làm.", "Chỉ có tiền của anh em mình là nó mất đi theo thời gian thôi.", "Làm gì có cái nào mà vừa được chơi mà vừa được rẻ mà vừa được ngon."],
+  "altcoin": [{"coin": "ETH", "huong": "TANG", "ghi": "break mô hình cờ H1, mục tiêu 1800 rồi 1950, TP 100 đô sẽ đạt, khó về lại 1633, đừng short"}, {"coin": "SOL", "huong": "TANG", "ghi": "sáng nhất cùng ADA, ETH; có thể hồi 75"}, {"coin": "altcoin chung", "huong": "GIAM", "ghi": "BTC.D tăng nên đừng mong altcoin; LINK, SUI, BNB yếu; WLD chờ phá trendline"}, {"coin": "vàng", "huong": "PHAN_VAN", "ghi": "đang test cản H4, long không được short cũng sợ; chờ 3900-4000"}],
+  "ghi_chu": "Mở đầu (00:00-12:44) không có trong bản làm sạch. Số '2003' trong 'sau 2003' hiểu 62.300; 'trong tháng sáu khó cao hơn 71'."
+}

@@ -1,0 +1,167 @@
+{
+  "buoi": "2026-10-19_1001_-avZ2E3n2oE",
+  "ngay": "2026-10-19",
+  "gio_vn": "10:01",
+  "gia_btc_luc_noi": 82000,
+  "nhan_dinh": [
+    {
+      "khung": "H4",
+      "huong": "TANG",
+      "do_chac": "vua",
+      "dich": [
+        84000,
+        86000
+      ],
+      "han": "84.000 dễ lên trong ngày hôm nay",
+      "han_gio": 24,
+      "vo_hieu_khi": "mất vùng hỗ trợ 80.000 thì tuột rất nhanh (tam giác hẹp, đỉnh thấp dần)",
+      "kich_ban_phu": "chưa đóng H4 qua trendline thì có thể râu rồi quay xuống; chờ điều chỉnh khoảng 1.000 giá rồi tính; có thể lên quét thanh khoản short trước",
+      "ly_do": [
+        "giữ vùng 80 (Fibo 0.618 và 0.5), 4 lần test 80 đều bật lên 82",
+        "không tạo đáy thấp hơn, sóng điều chỉnh H4 tạm ngưng",
+        "H1 đã break trendline, H4 chưa đóng qua trendline",
+        "còn nhóm short chưa bị thanh lý, động lực lên còn",
+        "không có lý do để sale, tuần trước sale ăn nhưng tuần này khó"
+      ],
+      "trich": "Tất cả các dữ liệu thể hiện là không nên sale, không có lý do gì để sale ở thời điểm bây giờ hết.",
+      "doi_y": "đầu buổi TANG lên 84 trong ngày → cuối buổi H1 xấu, không long FOMO, chờ điều chỉnh ~1.000 giá rồi tính (vẫn chưa sale)",
+      "duong_di": [
+        {
+          "huong": "GIAM",
+          "dich": 81000
+        },
+        {
+          "huong": "TANG",
+          "dich": 84000
+        }
+      ]
+    },
+    {
+      "khung": "W1",
+      "huong": "TANG",
+      "do_chac": "vua",
+      "dich": [
+        90000,
+        93000
+      ],
+      "han": null,
+      "han_gio": null,
+      "vo_hieu_khi": "mất 80.000",
+      "kich_ban_phu": "lên 93 là hồi tối đa trong downtrend lớn; đóng trên 100.000 mới hết downtrend",
+      "ly_do": [
+        "nến tuần đóng đẹp, giữ 80 và 82",
+        "thị trường vẫn muốn kéo lên 90-93"
+      ],
+      "trich": "Nó giữ được ở đây thì vùng target của chúng ta là 90 và 93.",
+      "doi_y": null,
+      "duong_di": null
+    },
+    {
+      "khung": "D1",
+      "huong": "TANG",
+      "do_chac": "vua",
+      "dich": null,
+      "han": null,
+      "han_gio": null,
+      "vo_hieu_khi": "đóng dưới 81.000 thì chỉ đánh xuống (nhưng đã không xảy ra)",
+      "kich_ban_phu": "thứ hai nến ngày thiếu uy tín vì thanh khoản cuối tuần",
+      "ly_do": [
+        "ba lần test 80-81 đều giữ",
+        "xu hướng khung ngày vẫn tăng"
+      ],
+      "trich": "Khung ngày vẫn là xu hướng tăng.",
+      "doi_y": null,
+      "duong_di": null
+    },
+    {
+      "khung": "M5",
+      "huong": "TANG",
+      "do_chac": "thap",
+      "dich": null,
+      "han": "ngắn hạn",
+      "han_gio": 3,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": "phân kỳ nhẹ nên chờ điều chỉnh nhẹ; cuối buổi H1 đóng cặp xấu, RSI cao, không nên long FOMO, chờ điều chỉnh ~1.000 giá",
+      "ly_do": [
+        "MA M5 chuyển từ kháng cự sang hỗ trợ",
+        "có thể scalping ngắn, lực giảm khó"
+      ],
+      "trich": "Lực giảm ở đây mình thấy rất là khó để mà giảm. Bitcoin là như vậy.",
+      "doi_y": null,
+      "duong_di": null
+    }
+  ],
+  "vung_gia": {
+    "khang_cu": [
+      83000,
+      84000,
+      86000,
+      90000
+    ],
+    "ho_tro": [
+      80000,
+      79800
+    ]
+  },
+  "lenh": [],
+  "nhin_lai_truoc": "Tuần trước đánh sale cứ sale là ăn; tuần này khó hơn. Kỳ vọng sáng nay đóng dưới 81.000 để đánh xuống nhưng nến đóng giữ rất căng nên không đánh xuống được.",
+  "cong_cu": [
+    "H4",
+    "H1",
+    "M5",
+    "D1",
+    "W1",
+    "MA34",
+    "MA89",
+    "trendline",
+    "Fibo 0.618",
+    "Fibo 0.5",
+    "Fibo mở rộng",
+    "heatmap 2 block",
+    "Fear and Greed",
+    "RSI",
+    "BTC.D"
+  ],
+  "tin_tuc": [
+    {
+      "tin": "Fed họp đêm 29/10 (thứ tư tuần sau)",
+      "danh_gia": "83% không tăng lãi suất, 16% tăng; Fed giữ nguyên chưa chắc đồng bộ giá tăng"
+    }
+  ],
+  "thoi_quen": [
+    "giá đóng dưới MA34/89 H4 thì không long, đóng trên thì không sale",
+    "break phải là nến H4 đóng cửa vượt trendline",
+    "không FOMO, chờ điều chỉnh nhẹ",
+    "thích lệnh market vì check chart liên tục; limit an toàn hơn",
+    "không đánh sóng điều chỉnh",
+    "chia sẻ % tài khoản thua chứ không phải số tiền"
+  ],
+  "cau_cua_mieng": [
+    "Giữ 80 tốt, quét phát nữa.",
+    "Thị trường nó chạy lái rất là kinh, giá nó chạy rất là ác. Chạm Fibo bật lên.",
+    "Không cần phải chia sẻ là mất bao nhiêu tiền, mà nên chia sẻ mất bao nhiêu phần trăm tài khoản."
+  ],
+  "altcoin": [
+    {
+      "coin": "BTC.D",
+      "huong": "TANG",
+      "ghi": "rất cao, nến tuần cực xanh, altcoin chưa thơm"
+    },
+    {
+      "coin": "altcoin",
+      "huong": "PHAN_VAN",
+      "ghi": "cá nhân vẫn là downtrend, uptrend thật sự khoảng 2028, đỉnh 2029; altcoin chỉ gom, không chọn vùng sát"
+    },
+    {
+      "coin": "SOL",
+      "huong": "TANG",
+      "ghi": "hai đáy đẹp, đóng H4 giá hiện tại là break"
+    },
+    {
+      "coin": "HYPE",
+      "huong": "PHAN_VAN",
+      "ghi": "chờ kết quả trendline; thủng đáy 75 H4 thì không giữ"
+    }
+  ],
+  "ghi_chu": "Quan điểm cá nhân dài hạn: vẫn trong downtrend, không sớm hơn cuối 2026, tệ đến 2027. Vàng: 40-41 sideway, chờ gãy 4000; phản biện plan sale vàng của người xem (không đánh sóng điều chỉnh). Số 87 [?] ở D1 không rõ (có thể 79-80). Hạn chế sale BTC là kết luận chính."
+}

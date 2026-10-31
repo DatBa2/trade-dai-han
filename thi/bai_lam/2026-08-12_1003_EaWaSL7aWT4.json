@@ -1,0 +1,100 @@
+{
+ "buoi": "2026-08-12_1003_EaWaSL7aWT4",
+ "ngay": "2026-08-12",
+ "gio_vn": "11:00",
+ "gia_btc_luc_noi": 63832,
+ "nhan_dinh": [
+  {
+   "khung": "H4",
+   "huong": "PHAN_VAN",
+   "do_chac": "vua",
+   "dich": null,
+   "han": "chờ CPI tối nay 19:30, xem cây H4 19h và 23h đóng",
+   "han_gio": 16,
+   "vo_hieu_khi": "hết phân vân khi H4 đóng trên 64.600 (vượt đỉnh 64.500 + cả cụm EMA H4 → tính long) hoặc H4 đóng dưới 63.150 (thủng đáy 63.238 + liquid 63.200 → short về 62.300–62.500); râu tin không tính",
+   "kich_ban_phu": null,
+   "duong_di": null,
+   "doi_y": null,
+   "ly_do": [
+    "hai vùng hôm qua đều đã chạy xong: hồi lên đúng 64.500 rồi bị đạp, xuống quét đúng 63.238 (liquid 63.200–63.300 + Fibo 0.618) rồi rút chân — giờ giá kẹt giữa hai đầu",
+    "giá dưới cụm EMA34/89/200 H4 (64.170–64.360, chụm 0,18%) nhưng chỉ cách 0,6%; đỉnh đáy H4 thấp dần nhưng biên rất hẹp",
+    "tối nay CPI: ra bằng dự báo thì pump ngắn rồi đêm đâm xuống, ra xấu thì gãy luôn — trước tin không vào lệnh mới, vào giữa vùng như đánh xổ số",
+    "D1 đã hai cây đỏ nhưng vẫn nằm trong biên sideway 62.300–65.500, chưa break hướng nào"
+   ],
+   "trich": null
+  },
+  {
+   "khung": "D1",
+   "huong": "PHAN_VAN",
+   "do_chac": "thap",
+   "dich": null,
+   "han": "chờ D1 đóng sau CPI",
+   "han_gio": 44,
+   "vo_hieu_khi": "D1 đóng trên 66.500 thì view tăng 70.000–72.000; D1 đóng dưới 62.200 (thủng hai đáy D1 62.268/62.300) thì gãy biên, về 58.000 rồi 53.000–54.000",
+   "kich_ban_phu": null,
+   "duong_di": null,
+   "doi_y": null,
+   "ly_do": [
+    "D1 đi ngang biên 62.300–65.500 suốt hai tuần",
+    "hai cây D1 đỏ 10–11/08 kéo giá về dưới EMA34 D1 nhưng chưa thủng đáy biên",
+    "trần trendline giảm D1 66.000–67.000 chưa test"
+   ],
+   "trich": null
+  },
+  {
+   "khung": "W1",
+   "huong": "GIAM",
+   "do_chac": "vua",
+   "dich": [53000, 54000],
+   "han": "đáy cuối quý 3 hoặc chậm nhất đầu quý 4/2026",
+   "han_gio": null,
+   "vo_hieu_khi": "nến tuần đóng trên 71.000 (lấy lại dải EMA34 tuần)",
+   "kich_ban_phu": "trước khi gãy có thể còn nhịp lên test 66–67K",
+   "duong_di": null,
+   "doi_y": null,
+   "ly_do": [
+    "vẫn downtrend: giá dưới toàn bộ EMA34/89 tuần, nến tuần này đang đỏ -1,6%",
+    "tối đa 1–2 nhịp giảm mạnh nữa là có đáy; về thì không dừng 60 mà về luôn 53–54",
+    "USDT.D đi ngang như bom nổ chậm, nổ lên là BTC rơi"
+   ],
+   "trich": null
+  }
+ ],
+ "vung_gia": {
+  "khang_cu": [64300, 64600, 65500, 66500],
+  "ho_tro": [63250, 62500, 62300]
+ },
+ "lenh": [],
+ "hanh_dong": "dung_ngoai_vi_lap_lung",
+ "giu_view": true,
+ "ly_do_doi_view": "Giữ view phân vân hôm qua: giá chỉ chạy trong đúng hai vùng đã nêu (64.500 / 63.200–63.400), chưa có cây H4 nào đóng ra ngoài biên; tối nay CPI nên trước tin giữ view, không ra lệnh mới.",
+ "rau": {
+  "tren": "64.500 — râu trên H4 19h 11/08, chạm đúng vùng short hôm qua + cụm EMA H4 rồi bị đạp",
+  "duoi": "63.238 — râu dưới H4 23h 11/08 (rút chân 0,48%), quét đúng liquid 63.200",
+  "test_lai": "Râu trên 64.500: CÓ — trùng dải EMA34 H4 + EMA89/200 H4 + Fibo 0.5 sóng giảm D1 (~64.600), CPI bằng dự báo sẽ pump lên test rồi mới đâm (R2). Râu dưới 63.238: CÓ — râu rút chân dài ở liquid, phía dưới tới 62.500 trống thanh khoản, CPI xấu sẽ quét lại (R3). Giá đang nằm giữa hai râu."
+ },
+ "vung_on": [
+  {
+   "loai": "SHORT",
+   "khoang": [64300, 64650],
+   "ly_do": [
+    "cụm EMA34/89/200 H4 chụm 64.170–64.360 + đỉnh dải EMA34 H4 ~64.600",
+    "Fibo 0.5 sóng giảm D1 66.955 → 62.268 (~64.610)",
+    "đỉnh H4 64.500 (11/08) + liquid short 64.500",
+    "chỉ short khi CPI pump lên mà nến rút râu, lực yếu"
+   ]
+  },
+  {
+   "loai": "LONG",
+   "khoang": [62300, 62700],
+   "ly_do": [
+    "hai đáy D1 62.268 (01/08) và 62.300 (03/08)",
+    "Fibo 0.5 khung tuần ~62.500",
+    "Fibo mở rộng mức 1 sóng giảm H4 ~62.470",
+    "vùng quan sát, chỉ bắt phản ứng vol nhỏ"
+   ]
+  }
+ ],
+ "pha_vo_gia": "Đáy 63.818 bị đóng thủng thật (3 cây H4 đóng 63.540–63.606), nhưng cây quét 63.238 có râu rút chân ngay liquid 63.200 (G4) trong phiên Mỹ (G9) nên chưa đuổi short; trước CPI mọi cú chọc qua 63.200 hay 64.500 trong 1–2 giờ quanh tin đều coi là quét (G6).",
+ "loi_binh": "Hôm nay thứ Tư, tối nay CPI anh em. Hai vùng hôm qua mình nói đều chạy đúng: lên 64.5 bị đạp, xuống quét 63.2 rồi rút chân, giờ giá nằm ngay giữa, vào đây cũng giống như đi đánh xổ số thôi. H4 đóng lên trên 64.6 thì tính lên, đóng thủng 63.150 thì mình short về 62.5; còn trước tin thì long không được short không xong, xem livestream. Dù sao đi nữa thì chúng ta vẫn đang ở downtrend nhá, CPI bằng dự báo thì pump chút rồi đêm đâm xuống, đừng FOMO."
+}

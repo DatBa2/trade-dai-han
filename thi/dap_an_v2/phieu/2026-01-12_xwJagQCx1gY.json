@@ -1,0 +1,100 @@
+{
+  "buoi": "2026-01-12_xwJagQCx1gY",
+  "ngay": "2026-01-12",
+  "gio_vn": "10:00",
+  "gia_btc_luc_noi": 92000,
+  "nhan_dinh": [
+    {
+      "khung": "H4",
+      "huong": "TANG",
+      "do_chac": "vua",
+      "dich": [96000, 99000],
+      "han": "vài ngày; phiên Mỹ tối nay đạp về 90 rồi kéo lên",
+      "han_gio": 72,
+      "vo_hieu_khi": "H4 đóng dưới 92.000 (dưới Fibo 0.5) thì chưa chắc lên hẳn, vẫn yếu; thủng râu 89.000",
+      "kich_ban_phu": "sóng yếu thì dừng quanh 95-96; kéo được lên 100 (Fibo 0.5) thì quá tuyệt; gap 88 còn lại sẽ lấp sau khi lên 96-98",
+      "ly_do": [
+        "nến tuần đóng thế này, vẫn giữ view lên 96-100 rồi chạm ngưỡng đi xuống (test MA34 tuần là kháng cự)",
+        "liquid vùng 90 + râu + gap hợp 3 yếu tố nên ngắn hạn có nhịp về ~90 (89 hơi sâu)",
+        "gap 1 đã lấp, chừa gap 2 để bẫy short",
+        "khung ngày xu hướng hồi vẫn lên trong ngắn hạn"
+      ],
+      "trich": "Mình nghĩ trong ngắn hạn sẽ có những nhịp điều chỉnh về đâu đó khoảng 90.000. ... chắc là phiên Mỹ tối nay đạp về 90 rồi sau đó lại kéo lên test tiếp vùng 96 hoặc 99.",
+      "doi_y": null,
+      "duong_di": [
+        {"huong": "GIAM", "dich": 90000},
+        {"huong": "TANG", "dich": [96000, 99000]}
+      ]
+    },
+    {
+      "khung": "M5",
+      "huong": "GIAM",
+      "do_chac": "thap",
+      "dich": [90000],
+      "han": "trong ngày",
+      "han_gio": 24,
+      "vo_hieu_khi": "không có SL rõ; nếu hai ba cây nến vót lên trên thì SL 200-300 giá",
+      "kich_ban_phu": "nếu lên Fibo 0.5-0.618 (~92.0-92.2) và có nến đỏ thì short nhẹ cho vui, TP 90.000; nếu không lên thì chờ về 90 long",
+      "ly_do": [
+        "10h sáng thường tăng rồi giảm đến 20h mới chạy lại; 15-17h hay điều chỉnh sâu",
+        "H4 sáng không đáng tin"
+      ],
+      "trich": "Nếu nó lên được vùng 0.5 này, khoảng 9200, thì chơi làm lệnh short. Còn nếu không thì phải chờ về vùng 90 chúng ta lại đánh long.",
+      "doi_y": "đầu buổi chỉ chờ H4 xác nhận, không đánh; cuối buổi gợi ý short nhẹ từ 92.0-92.2 về 90 và chờ 90 long",
+      "duong_di": null
+    },
+    {
+      "khung": "W1",
+      "huong": "GIAM",
+      "do_chac": "cao",
+      "dich": [73000, 74000],
+      "han": "năm 2026 giảm nặng nề",
+      "han_gio": null,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": "lên 96-100 là cơ hội thoát hàng; sau đó kênh giá giảm rồi gãy về 73-74",
+      "ly_do": [
+        "mọi thị trường đầu tư đã tăng hết, chỉ còn giảm hoặc đi ngang; không có lý do siêu up trend",
+        "nhịp tăng hiện tại chỉ là sóng hồi trên khung lớn"
+      ],
+      "trich": "Nhịp tiếp theo nếu nó gãy thì khả năng là gãy về 73 74, và mình nói trong năm 2026 thị trường sẽ giảm khá nặng nề.",
+      "doi_y": null,
+      "duong_di": null
+    }
+  ],
+  "vung_gia": {"khang_cu": [92000, 96000, 99000, 100000], "ho_tro": [90000, 89000, 88000]},
+  "lenh": [
+    {"chieu": "SHORT", "loai": "market nhẹ khi có nến đỏ", "vao": [92000, 92200], "tp": [90000], "sl": null,
+     "trang_thai": "de_xuat_moi",
+     "trich": "Nhịp này chắc short về đến 90 luôn. Anh em thích thì cứ chia nhỏ đánh short nhẹ xuống cho vui thôi."},
+    {"chieu": "LONG", "loai": "chờ nến tại vùng thanh lý", "vao": [89000, 90000], "tp": null, "sl": [89000],
+     "trang_thai": "de_xuat_moi",
+     "trich": "Anh em nên an toàn thì chờ ở quanh 90 hoặc thậm chí là 89.000 gì đó, stop loss dưới râu 89.000."}
+  ],
+  "nhin_lai_truoc": "Hôm trước ăn lệnh long test râu, giữ đến giờ ngon nên chốt; tối thứ sáu phải đóng sớm vì nhiều anh em đánh theo. Kịch bản gap vẫn đúng: lấp gap 1 chừa gap 2.",
+  "cong_cu": ["H4", "nến tuần", "MA34 tuần", "Fibo 0.5 / 0.618", "gap CME 88", "Liquid heatmap 90", "M5", "BTC.D", "USDT.D", "Fear & Greed"],
+  "tin_tuc": [
+    {"tin": "CPI ngày mai và PPI ngày kia", "danh_gia": "CPI tăng so với kỳ trước là tin xấu; trước tin thị trường đứng"},
+    {"tin": "Điều tra chủ tịch Fed Powell", "danh_gia": "chỉ là tin cho vui, Fed độc lập"},
+    {"tin": "Sàn crypto Việt Nam cấp phép, app Mimo/SpacePay", "danh_gia": "chưa dùng, thận trọng TestFlight, 6 tháng sau cấp phép mới có chế tài"}
+  ],
+  "thoi_quen": [
+    "vùng 96-99 là vùng quyết đoán thoát hàng, ra quyết định trong 15-30 phút",
+    "giờ giá: 10h tăng rồi giảm tới 20h; 15-17h là giờ vào long điều chỉnh",
+    "view tăng là để xử lý tài khoản, không phải đưa lệnh short; short phải có SL",
+    "chốt cho lệnh long khi đủ mồm, ví dụ TP1 ngay giá hiện tại",
+    "chỉ đánh BTC cho an toàn, không đụng altcoin",
+    "chờ H4 xác nhận trước"
+  ],
+  "cau_cua_mieng": [
+    "Vào là vào mà ra là ra, không có lưỡng lự, không có nửa ông nửa bà.",
+    "Muốn ăn được trong thị trường trading thì phải chấp nhận mình là thằng ngu nhất thị trường.",
+    "Đừng sợ thị trường tăng mà mất cơ hội."
+  ],
+  "altcoin": [
+    {"coin": "altcoin chung", "huong": "GIAM", "ghi": "DOM vẫn tăng nên alt không ngon, tập trung BTC"},
+    {"coin": "ETH", "huong": "GIAM", "ghi": "BTC về 90 thì ETH về 3070-3080"},
+    {"coin": "vàng/bạc", "huong": "PHAN_VAN", "ghi": "quá cao, không khuyến khích đánh; vàng có 2 gap 45xx và 4350"},
+    {"coin": "ONDO", "huong": "PHAN_VAN", "ghi": "unlock 19% ngày 18; nếu xả tự do chia 3, nhưng dự án sẽ giữ giá; gom spot ở ~400 triệu vốn hóa"}
+  ],
+  "ghi_chu": "Giờ 10:00 là giả định. Giá ~92.000 theo 'BTC lên lại 92' cuối buổi."
+}

@@ -1,0 +1,320 @@
+{
+  "buoi": "2026-07-10_QwYznPgaAFY",
+  "ngay": "2026-07-10",
+  "gia_btc_luc_noi": 63500,
+  "moc": [
+    {
+      "gia": 64000,
+      "gia_tren": null,
+      "vai_tro": "vo_hieu",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "MA200 H4 (EMA200)",
+        "số tròn 64.000",
+        "trendline H1"
+      ],
+      "moc_gio": "00:10:10",
+      "chac": true,
+      "trich": "đóng cây nến H4 này mà nó đóng trên 64 thì bạn sẽ phải chạy thoát"
+    },
+    {
+      "gia": 61000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "râu/đáy gần nhất"
+      ],
+      "moc_gio": "00:10:41",
+      "chac": true,
+      "trich": "phải test về ít nhất là 61.000 quanh cái râu này, quanh cái đáy này thì mới long lên lại mới đẹp"
+    },
+    {
+      "gia": 66000,
+      "gia_tren": 68000,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "đóng thành công trên MA200 H4"
+      ],
+      "moc_gio": "00:17:43",
+      "chac": true,
+      "trich": "Đóng thành công MA200 H4 thì lên 66 trước, rồi 68"
+    },
+    {
+      "gia": 62500,
+      "gia_tren": null,
+      "vai_tro": "entry",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [],
+      "moc_gio": "00:17:43",
+      "chac": true,
+      "trich": "62k5 thì nên đóng H4 qua cản MA hay là phải đóng trên 64 (người xem hỏi)"
+    },
+    {
+      "gia": 64400,
+      "gia_tren": null,
+      "vai_tro": "sl",
+      "huong": "GIAM",
+      "khung": "H1",
+      "can_cu": [],
+      "moc_gio": "00:20:25",
+      "chac": false,
+      "trich": "short SL 64k4 được không? (người xem hỏi)"
+    },
+    {
+      "gia": 61000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "Fibo 0.5",
+        "đáy H4"
+      ],
+      "moc_gio": "00:25:03",
+      "chac": true,
+      "trich": "đóng nến H4 thấp hơn vùng 61.000 xác suất cực kỳ khó... dưới 61 là dưới Fibo 0.5"
+    },
+    {
+      "gia": 63600,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "M5",
+      "can_cu": [],
+      "moc_gio": "00:26:38",
+      "chac": true,
+      "trich": "điều chỉnh chắc là về khoảng 63.600 rồi tính tiếp"
+    },
+    {
+      "gia": 62000,
+      "gia_tren": 63000,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "M5",
+      "can_cu": [],
+      "moc_gio": "00:26:38",
+      "chac": true,
+      "trich": "nếu thủng thì cây này được trả về ngay quanh 63 và thậm chí là 62.000"
+    },
+    {
+      "gia": 60500,
+      "gia_tren": 61500,
+      "vai_tro": "entry",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "Fibo (vẽ trên H4, không nói rõ kéo từ đâu)"
+      ],
+      "moc_gio": "00:27:12",
+      "chac": true,
+      "trich": "long vùng giá đẹp chờ quanh vùng Fibo từ 60.500 cho đến 61.500"
+    },
+    {
+      "gia": 61500,
+      "gia_tren": null,
+      "vai_tro": "entry",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "Fibo H4",
+        "mô hình vai đầu vai ngược"
+      ],
+      "moc_gio": "00:27:12",
+      "chac": true,
+      "trich": "đẹp nhất nó sẽ về quét đâu đó khoảng 61.500 sau đó hồi lên"
+    },
+    {
+      "gia": 66000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "mô hình vai đầu vai ngược"
+      ],
+      "moc_gio": "00:27:44",
+      "chac": true,
+      "trich": "nhịp này hoàn toàn có thể không chỉ dừng lại ở 66"
+    },
+    {
+      "gia": 72000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "mô hình vai đầu vai ngược: neckline xéo, biên độ ~10%"
+      ],
+      "moc_gio": "00:28:49",
+      "chac": true,
+      "trich": "cho chúng ta kết quả đâu đó quanh vùng 72... một cú hồi khoảng quanh 72 trong tháng 7"
+    },
+    {
+      "gia": 64000,
+      "gia_tren": null,
+      "vai_tro": "vo_hieu",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [
+        "nến D1 đóng trên 64"
+      ],
+      "moc_gio": "00:29:22",
+      "chac": true,
+      "trich": "nến ngày đóng trên vùng 64 ... thì chúng ta bỏ không short nữa"
+    },
+    {
+      "gia": 60500,
+      "gia_tren": 61000,
+      "vai_tro": "entry",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "Fibo"
+      ],
+      "moc_gio": "00:29:54",
+      "chac": true,
+      "trich": "điểm đẹp nhất mình vẫn chờ quanh vùng từ 61.000 cho đến 60.500"
+    },
+    {
+      "gia": 66000,
+      "gia_tren": 67000,
+      "vai_tro": "khang_cu",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [
+        "cản sóng lớn"
+      ],
+      "moc_gio": "00:31:02",
+      "chac": true,
+      "trich": "quan sát ở vùng 66 67 này là vùng đầu tiên"
+    },
+    {
+      "gia": 71000,
+      "gia_tren": 74000,
+      "vai_tro": "khang_cu",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [
+        "cản sóng lớn, vùng thuận sóng để short"
+      ],
+      "moc_gio": "00:31:02",
+      "chac": false,
+      "trich": "chờ lên đến vùng từ 74 đến 71 72 này. Những vùng này mới là vùng thuận sóng để đánh xuống"
+    },
+    {
+      "gia": 68000,
+      "gia_tren": 72000,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "Fibo mở rộng"
+      ],
+      "moc_gio": "00:33:41",
+      "chac": true,
+      "trich": "Fibo mở rộng... nếu hồi luôn ở 68 72 này cũng hợp lý"
+    },
+    {
+      "gia": 61000,
+      "gia_tren": 61400,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "Fibo 0.5 hoặc 0.618"
+      ],
+      "moc_gio": "00:33:41",
+      "chac": true,
+      "trich": "nếu nó về đâu đó khoảng 61.400, 61.000... mình vẫn muốn nó trở về Fibo 0.5 hoặc 0.618"
+    },
+    {
+      "gia": 68000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [],
+      "moc_gio": "00:34:15",
+      "chac": true,
+      "trich": "Kéo đến khoảng thứ ba lên 68 là đẹp"
+    },
+    {
+      "gia": 61000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý Coinglass phía dưới"
+      ],
+      "moc_gio": "00:37:04",
+      "chac": true,
+      "trich": "thả một cửa thanh lý ở dưới này... húp về đâu đó khoảng 61 nghìn mấy"
+    },
+    {
+      "gia": 60500,
+      "gia_tren": 61000,
+      "vai_tro": "entry",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "Fibo"
+      ],
+      "moc_gio": "00:38:12",
+      "chac": true,
+      "trich": "giữ kỷ luật về plan là về đến vùng ở dưới này 61.000 cho đến 60.500"
+    },
+    {
+      "gia": 61000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": "01:07:46",
+      "chac": true,
+      "trich": "Chờ nó về đến 61, 60.000 rồi tính tiếp"
+    },
+    {
+      "gia": 60000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": "01:07:46",
+      "chac": true,
+      "trich": "Chờ nó về đến 61, 60.000"
+    },
+    {
+      "gia": 59000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": "01:08:18",
+      "chac": true,
+      "trich": "Bitcoin cuối tuần có gãy về 59 không? Không đâu, tầm này khó mà về 59 lắm"
+    },
+    {
+      "gia": 61000,
+      "gia_tren": null,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": "H4",
+      "can_cu": [
+        "nến H4 khủng"
+      ],
+      "moc_gio": "01:00:36",
+      "chac": true,
+      "trich": "Gãy về tận dưới này luôn, 63 gãy về 61 rồi mới lên lại 64"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "buoi": "2026-08-14_1004_xK38gQ-G6uA",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/lam_sach/2026-08-14_1004_xK38gQ-G6uA.md",
+  "gia_btc_luc_noi": 63400,
+  "dau_buoi": {
+    "thien_huong_h4": "GIAM",
+    "gio": null,
+    "trich": "Xu hướng hiện tại của thị trường rõ ràng là xu hướng giảm, cho nên các vị thế hiện tại mình full 100% (short) là hợp lý."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "GIAM",
+    "do_chac": "vua",
+    "gio": null,
+    "trich": "Xu hướng hiện tại vẫn chủ đạo là xu hướng short, nhưng short FOMO thì phải thận trọng, rất nguy hiểm vì dễ đi lên để kill."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {"huong": "GIAM", "dich": [62000, 63000]},
+  "duong_di": [
+    {"huong": "GIAM", "dich": [62000, 63000]},
+    {"huong": "TANG", "dich": [64000, 64400]},
+    {"huong": "GIAM", "dich": [50000, 60000]}
+  ],
+  "dich_chinh": [50000, 60000],
+  "han_gio": null,
+  "vo_hieu": null,
+  "lenh": [
+    {"chieu": "SHORT", "vao": null, "tp": [63100, 62000], "sl": null, "trang_thai": "dang_giu"},
+    {"chieu": "SHORT", "vao": 62500, "tp": [], "sl": null, "trang_thai": "de_xuat_moi"},
+    {"chieu": "LONG", "vao": [62000, 63000], "tp": [], "sl": null, "trang_thai": "de_xuat_moi"}
+  ],
+  "hanh_dong": "chot_loi",
+  "khung_lon": {"D1": "GIAM", "W1": null},
+  "pha_vo_gia": "Cảnh báo pha pump lên kill short (tối thiểu trên 64, vùng 64.000–64.400) trước khi gãy thực sự đầu tuần sau; không short đuổi đoạn 63.7–63.8k.",
+  "trich_them": [
+    {"gio": null, "cau": "Khi có râu nến H4 như vậy thì gần như chắc chắn nó sẽ về test vùng này, loanh quanh cái râu này khoảng 63.000 cho đến 62.000. Mình nghĩ trong ngày hôm nay nó sẽ về test."},
+    {"gio": null, "cau": "Thành ra các vị thế short nên chốt loanh quanh cái râu nến này, 62.000 cho đến 63.000, mình nghĩ anh em nên húp."},
+    {"gio": null, "cau": "Trước mắt khả năng sẽ có một pha lên để kill trước khi nó gãy thực sự vào đầu tuần sau; đến đầu tuần sau mình nghĩ mới gãy thực sự."},
+    {"gio": null, "cau": "Trường hợp nó gãy hẳn thì nó phải thủng luôn dưới 62.500 [?] (nguyên văn \"62.000 năm\"). Khi nó thủng confirm về dưới đó thì chúng ta đuổi sẽ ok hơn."},
+    {"gio": null, "cau": "tối thiểu mình nghĩ quét lên trên 64 hoặc đến vùng 64.000–64.400 [?], bởi vùng này dồn lại rất nhiều stop loss của các anh em màu đỏ"},
+    {"gio": null, "cau": "Kịch bản lên 66, 68 hay 70 càng ngày càng xa vời. Trước mắt mình chỉ thấy 5x là rõ lồ lộ. Nhưng để về được vùng 5x, nó phải đấm anh em ra khỏi những vị thế short đã thì mới cho về."},
+    {"gio": null, "cau": "Cho nên nếu nó về đây anh em có thể đánh lên, nhưng phải xác định là ngược xu hướng: đánh lên rất rủi ro, đi volume thì volume nhỏ"},
+    {"gio": null, "cau": "Hôm qua có một cây nến rút râu hai đầu ... mình nghĩ đó là lưỡng lự dành cho phe bán"}
+  ],
+  "kho": "Transcript không có mốc giờ. Đường đi 3 chặng (test râu 62–63k → pump kill short 64–64.4k → gãy thật đầu tuần sau); đích chính chỉ nói '5x' nên ghi [50000,60000]. Giá lúc nói ước 63.1–63.7k (trên vùng chốt 63.1k, dưới 63.7k). Hành động chính là chốt lời short; long ở 62–63k chỉ là tùy chọn ngược xu hướng volume nhỏ."
+}

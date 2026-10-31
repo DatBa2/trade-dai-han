@@ -1,0 +1,90 @@
+{
+ "buoi": "2026-10-27_1002_2RB3G-MYjhE",
+ "ngay": "2026-10-27",
+ "gio_vn": "10:02",
+ "gia_btc_luc_noi": 79820,
+ "nhan_dinh": [
+  {
+   "khung": "H4",
+   "huong": "GIAM",
+   "do_chac": "vua",
+   "dich": [77000, 78000],
+   "han": "từ giờ đến cuối tháng 10; trước tin lãi suất đêm thứ Tư (rạng sáng thứ Năm 1h) chạy về dưới",
+   "han_gio": 108,
+   "vo_hieu_khi": "H4 đóng trên 81.300 (đóng lên trên dải EMA34 H4 + đỉnh 81.070 ngày 25/10) thì bẻ view",
+   "kich_ban_phu": "hồi quét lên 80.800–81.000 (đỉnh H4 80.850 + mép dải EMA34 H4, SL phe short) rồi mới rụng; sau tin FOMC có thể có cú quét lên 82–83 rồi trả về",
+   "duong_di": [
+    {"huong": "TANG", "dich": 80800},
+    {"huong": "GIAM", "dich": 78000},
+    {"huong": "GIAM", "dich": 77000}
+   ],
+   "doi_y": null,
+   "ly_do": [
+    "H4 nằm dưới cả EMA34 (dải 80.5–81.3), EMA89 81.75, EMA200 81.8 → không có cơ sở long",
+    "đỉnh H4 thấp dần 84.9 → 82.06 → 81.07 → 80.85; nhịp hồi thứ Hai không vào nổi dải EMA34 H4, không tới 81",
+    "D1 5 nến đỏ liên tiếp, đóng dưới dải EMA34 D1; đích = test EMA89 D1 ~78.2 + EMA610 H4 ~77.6 + cụm thanh lý 78K",
+    "cú đóng H4 qua 79.750 hôm thứ Hai là phá vỡ giả (thứ Hai, phiên Mỹ quét hai đầu, không có follow-through)"
+   ],
+   "trich": null
+  },
+  {
+   "khung": "D1",
+   "huong": "GIAM",
+   "do_chac": "vua",
+   "dich": [77000, 78000],
+   "han": "trong tuần này (đi ngang 77–80 rồi nhấn)",
+   "han_gio": 120,
+   "vo_hieu_khi": "nến ngày đóng lên trên lại 82.000",
+   "kich_ban_phu": "đi ngang hẹp 79–81 tới tin FOMC rồi mới nhấn; từ 79 về 76 có hỗ trợ liên tục nên không tuột mạnh",
+   "duong_di": [
+    {"huong": "GIAM", "dich": 78000}
+   ],
+   "doi_y": null,
+   "ly_do": [
+    "đỉnh sau thấp hơn đỉnh trước (87.2 → 84.9 → 82.06), mất hỗ trợ 82 và 80",
+    "giá dưới dải EMA34 D1 (80.7–82.8), trên EMA89 D1 78.2 → còn đường về test EMA89 D1",
+    "RSI D1 41.7 yếu, chưa quá bán; F&G 48 trung tính, chưa phải vùng cấm short"
+   ],
+   "trich": null
+  },
+  {
+   "khung": "W1",
+   "huong": "GIAM",
+   "do_chac": "vua",
+   "dich": 54000,
+   "han": "trung hạn, loanh quanh 77–78 một thời gian rồi đấm về",
+   "han_gio": null,
+   "vo_hieu_khi": "nến tuần đóng trên 85.000 (râu fake out tuần 19/10)",
+   "kich_ban_phu": "tuần này giá đang ngồi ngay EMA89 tuần (~79.5) và mép trên dải EMA34 tuần; đóng tuần dưới 79.5 thì mở cửa về 77 rồi 74–75",
+   "duong_di": null,
+   "doi_y": null,
+   "ly_do": [
+    "3 nến tuần đỏ liên tiếp, râu 85 tuần trước là fake out",
+    "mô hình hai đáy tuần neckline 82 đã thủng",
+    "chu kỳ: downtrend sau đỉnh 126K, nhịp 57.8K → 87.4K chỉ là hồi kỹ thuật"
+   ],
+   "trich": null
+  }
+ ],
+ "vung_gia": {
+  "khang_cu": [80850, 81000, 81300, 82000, 83000],
+  "ho_tro": [79200, 78200, 77600, 77000]
+ },
+ "lenh": [
+  {"chieu": "SHORT", "loai": "limit", "vao": 80750, "tp": [78300, 77700], "sl": 81450, "trang_thai": "de_xuat_moi"}
+ ],
+ "hanh_dong": "dung_ngoai_cho_entry",
+ "giu_view": true,
+ "ly_do_doi_view": "Giữ view 26/10 (GIẢM về 77–78 trước cuối tháng). Mốc 79.750 có bị H4 đóng qua (80.0–80.4) nhưng là phá vỡ giả: xảy ra thứ Hai, phiên Mỹ quét hai đầu, không vào nổi dải EMA34 H4, không tới 81, giá rơi lại 79.8 → không đổi view.",
+ "rau": {
+  "tren": "gần nhất 80.385 (H4 07:00 27/10); râu đáng kể 80.850 (H4 19:00 26/10, phiên Mỹ quét hai đầu)",
+  "duoi": "gần nhất 79.646 (H4 07:00 27/10); 79.378 (H4 07:00 26/10); râu dài D1 79.220 (24/10, râu dưới 2,05%)",
+  "test_lai": "Râu trên 80.850 CÓ test lại ở chặng 1 — trùng mép dải EMA34 H4 80.5–81.3 + đỉnh 81.07 + kháng cự 81 (R2), là chỗ SL phe short. Râu dưới 79.220 CÓ bị quét ở chặng 2 — râu D1 dài, đã bị test 1 lần (79.378) nên yếu dần, dưới đó trống tới 78.2 (R1, R3)."
+ },
+ "vung_on": [
+  {"loai": "SHORT", "khoang": [80700, 81300], "ly_do": ["dải EMA34 H4 80.52–81.29 (H4)", "đỉnh H4 80.850 (26/10) và 81.070 (25/10) thấp dần", "kháng cự 81.000 đã nêu 26/10 (Fibo 0.5 + thanh khoản)", "đáy D1 cũ 80.9–81.2 đổi vai thành cản"]},
+  {"loai": "LONG", "khoang": [77500, 78300], "ly_do": ["EMA89 D1 ~78.2 (D1)", "EMA610 H4 ~77.6 (H4)", "cụm thanh lý 78K + đích 77–78 người đó nêu từ tuần trước", "chỉ long hồi vol nhỏ, ăn non"]}
+ ],
+ "pha_vo_gia": "Cú H4 đóng qua 79.750 hôm thứ Hai (80.035–80.430) là phá vỡ GIẢ: G5 (thứ Hai) + G9 (phiên Mỹ 19h quét hai đầu 79.46–80.85) + không follow-through, không vào nổi dải EMA34 H4 → giữ view giảm.",
+ "loi_binh": "View từ hôm qua không thay đổi gì nhiều anh em. Hôm thứ Hai nó có kéo qua 79.750 nhưng là kéo ngày thứ Hai, phiên Mỹ quét hai đầu rồi lại rơi về, không vào nổi MA34 H4, không tới được 81 — cây dụ long thôi. Giá vẫn nằm dưới MA34, 89, 200 trên H4, đỉnh thấp dần, view vẫn là về test 77–78, MA89 khung ngày, trước cuối tháng. Giờ đang ở giữa thì không vào giữa, chờ nó hồi lên 80.7–81 có nến đỏ volume thì mình short, nên tuân thủ xu hướng nhá."
+}

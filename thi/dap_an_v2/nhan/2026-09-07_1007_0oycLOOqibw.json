@@ -1,0 +1,48 @@
+{
+  "buoi": "2026-09-07_1007_0oycLOOqibw",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/lam_sach/2026-09-07_1007_0oycLOOqibw.md",
+  "gia_btc_luc_noi": 79500,
+  "dau_buoi": {
+    "thien_huong_h4": "GIAM",
+    "gio": null,
+    "trich": "Nhịp hôm trước nó lên 82 thì theo mình thấy có khả năng là một nhịp phé cao. ... giá hiện tại đã chui về lại trong zone này. ... Nếu H4 hiện tại đóng tiếp là màu đỏ thì có thể trong khung nhỏ nó đang dần hình thành những cấu trúc giúp cho giá có xác suất phá xuống dưới nhiều hơn xác suất phá lên trên."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "GIAM",
+    "do_chac": "thap",
+    "gio": null,
+    "trich": "Hiện tại view lại Bitcoin có gì mới không. H4 đóng rất là xấu, mặc dù vẫn giữ được ở trên MA nhưng đóng rất là xấu. Tuy nhiên vùng này cũng không nên sale đuổi xuống đâu nhá, dễ bị ăn trap sau cây H4 này lắm. H4 này là dạng H4 rất dễ trap. Cho nên những vị thế cao thì có thể giữ SL entry và gồng tiếp, còn không tốt nhất là không nên tham gia vị thế mới ở vùng giá này, khá là fomo."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {"huong": "GIAM", "dich": [77000, 78000]},
+  "duong_di": null,
+  "dich_chinh": 77000,
+  "han_gio": null,
+  "vo_hieu": {
+    "gia": 83000,
+    "khung": "D1",
+    "so_nen": 1,
+    "chieu": "dong_tren",
+    "cau": "Chỉ cần đóng đến ngày mà qua được 82, 83 một phát thì nó sẽ rất dễ kéo tiếp lên vùng 92, 93. Cho nên chúng ta không nên sale cả ở vùng này."
+  },
+  "lenh": [
+    {"chieu": "SHORT", "vao": 77000, "tp": [75000, 74000], "sl": null, "trang_thai": "de_xuat_moi"},
+    {"chieu": "LONG", "vao": [82000, 83000], "tp": [92000, 93000], "sl": null, "trang_thai": "de_xuat_moi"}
+  ],
+  "hanh_dong": "dung_ngoai_cho_entry",
+  "khung_lon": {"D1": "PHAN_VAN", "W1": "PHAN_VAN"},
+  "pha_vo_gia": "Đỉnh 82 hôm trước được gọi là 'nhịp phé cao' (break lên quét thanh khoản + SL phe sale rồi chui về zone); sáng nay 'một pha đi lên để quét ở 80.400 và nhanh chóng 5 phút sau lại rụng xuống'; 'Khả năng đẩy fake breakout rồi sập như sóng tăng lần trước... nhịp đi lên này hoàn toàn có thể là một nhịp fake out'. Cuối buổi cảnh báo ngược: H4 đỏ 'rất dễ trap' nên không sale đuổi.",
+  "trich_them": [
+    {"gio": null, "cau": "Nhưng với việc cây nến tuần vừa rồi nó cố giữ được nhịp tăng lên trên 80 và đóng một hình thái nến như thế này thì rõ ràng là, view cho những cú gãy trên khung lớn thì tạm thời là chưa có."},
+    {"gio": null, "cau": "Nói thật với anh em, vùng 82 cho đến vùng 77.000 này, vùng sideway này là một vùng rất là khó chơi. ... Ở vùng này thì thị trường đang chọn phe đi ngang."},
+    {"gio": null, "cau": "Nếu là mình thì lựa chọn an toàn sẽ là chờ giá confirm phá qua được khỏi 8200 cho đến 83 [?]. Tức là phá qua được thằng trên này thì lúc này chúng ta sẽ bám đuổi nhịp sóng đi từ 83 lên đến 93 hoặc 92, kiểu như thế. ... Còn muốn đánh xuống thì phải chờ một cây nến ngày phá qua được khỏi 7800 [?] này, phá qua cái MA này cộng với Fibo của nhịp trước đó, thì lúc đó chúng ta mới có khả năng cho một nhịp điều chỉnh sâu."},
+    {"gio": null, "cau": "Nếu thị trường chạy theo kiểu này, chúng ta lại tiếp tục sử dụng Fibo mở rộng: 74.600 [?] hoặc 76.900 [?], tức là 77.000. Nếu nó về 77.000 thì chúng ta quan sát xem hỗ trợ này nó có bật lên được hay không. Nếu về đây mà nó không bật lên thì chúng ta mới sale xuống tiếp."},
+    {"gio": null, "cau": "Hôm nay thì long mới là run tay, chứ sót không run tay đâu."},
+    {"gio": null, "cau": "Chúng ta chờ H4, mình nghĩ khả năng cây này đóng đỏ. H4 đóng đỏ thì rất là xấu trong ngắn hạn. Nhưng dù sao trước đó là một lực tăng, cho nên những nhịp mà các bạn view xuống thì cũng nên xử lý ngắn khi có lãi..."},
+    {"gio": null, "cau": "Vùng dưới đáy 77.000 này là một cái đích đến rất là hút. ... Nói chung điểm gần nhất là 78.000, chờ đường MA này kéo lên một xíu."},
+    {"gio": null, "cau": "Đây là ba vùng hỗ trợ kế tiếp: một là 78, hai là 77, ba là 75. ... Đặc biệt quanh vùng 77 này là đoạn anh em nên xử lý những vị thế bán nếu có: bắt buộc phải xử lý ở vùng này."},
+    {"gio": null, "cau": "Nhịp này đòi 76 thì khó hơn lên trời bạn ơi. Ăn ngắn thôi. 77 mà còn không biết được, 77 còn sợ không nổi đó chứ, bởi vì nó còn vòng vèo, lên xuống lên xuống."}
+  ],
+  "kho": "File không có mốc giờ. Khung tuần/ngày người đó nói trung tính (sideway 77–82, 'chờ thị trường chọn phe', không nên sale ở vùng này), nhưng trên H4 nghiêng giảm (82 là phé cao, H4 đóng đỏ 'rất xấu', đích hút 77, sale nên chốt ở 77) → GIAM độ chắc thấp, không phải 50/50. Cuối buổi lại cấm sale đuổi vì sợ trap. Mốc vô hiệu lấy theo câu 'đóng ngày qua 82, 83' (có thể là 82)."
+}

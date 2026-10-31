@@ -1,0 +1,159 @@
+{
+ "buoi": "2026-08-19_1001_kfBEaOyHLkc",
+ "ngay": "2026-08-19",
+ "gio_vn": "10:01",
+ "gia_btc_luc_noi": 64800,
+ "nhan_dinh": [
+  {
+   "khung": "H4",
+   "huong": "GIAM",
+   "do_chac": "vua",
+   "dich": 63000,
+   "han": null,
+   "han_gio": null,
+   "vo_hieu_khi": "nến H4 đóng trên 65.000",
+   "vo_hieu_cau_truc": {
+    "gia": 65000,
+    "khung": "H4",
+    "so_nen": 1,
+    "chieu": "dong_tren",
+    "cau": "Thực tế mình sẽ long khi mà H4 này nó phá được cái cản ở đây. Bởi vì phá ở đây thì chúng ta sẽ đánh từ cái nhịp khoảng trên 65.000 lên đến khoảng tầm 70.500 [?] giá"
+   },
+   "kich_ban_phu": null,
+   "duong_di": null,
+   "doi_y": null,
+   "ly_do": [],
+   "trich": "Ở vùng quanh 65.000 này chúng ta thấy là nó vẫn đang nằm ở cái cản. Cho nên hiện tại ở trong ngắn hạn thì mình vẫn nghiêng về cái phe sót. Nếu mà chọn phe thì mình vẫn chọn phe sót hơn là phe long. Mặc dù cấu trúc của nó thì vẫn giữ được cái xu hướng phục hồi.",
+   "nhan_v1": "GIAM"
+  },
+  {
+   "khung": "D1",
+   "huong": "GIAM",
+   "do_chac": "vua",
+   "dich": null,
+   "han": "kéo dài đến khoảng quý hai năm sau nếu hồi thêm 10.000 giá",
+   "han_gio": null,
+   "vo_hieu_khi": null,
+   "kich_ban_phu": "hồi tối đa lên 70-73.000 (trap) rồi sập về 4x-5x; tháng 9 đi ngang vùng 5x, tháng 10 xấu, giữa/cuối tháng 10 mới có nhịp phục hồi thực sự",
+   "ly_do": [
+    "không có uptrend ở vùng giá này, tăng chỉ là nhịp ngắn hạn tối đa khoảng 10.000 giá",
+    "kỳ vọng giảm sớm: xả quanh CPI tháng 9, kỳ vọng giảm khoảng 70% (khoảng 37.000)",
+    "kế hoạch giảm có từ vùng 100.000"
+   ],
+   "trich": "Cho dù mọi người có kỳ vọng cỡ nào đi nữa thì mình nghĩ không có uptrend ở ngay cái vùng giá này đâu.",
+   "doi_y": null,
+   "duong_di": [
+    {
+     "huong": "TANG",
+     "dich": 73000
+    },
+    {
+     "huong": "GIAM",
+     "dich": 50000
+    }
+   ]
+  }
+ ],
+ "vung_gia": {
+  "khang_cu": [
+   65000,
+   65500
+  ],
+  "ho_tro": [
+   63000,
+   64000
+  ]
+ },
+ "lenh": [
+  {
+   "chieu": "SHORT",
+   "vao": null,
+   "tp": [
+    63000
+   ],
+   "sl": null,
+   "trang_thai": "dang_giu"
+  },
+  {
+   "chieu": "LONG",
+   "vao": 65000,
+   "tp": [
+    70500
+   ],
+   "sl": null,
+   "trang_thai": "de_xuat_moi"
+  }
+ ],
+ "nhin_lai_truoc": null,
+ "cong_cu": [
+  "H4",
+  "M5",
+  "MA cụm H4",
+  "RSI phân kỳ",
+  "liquidation",
+  "BTC.D",
+  "USDT.D",
+  "Fear and Greed",
+  "Fibo M5"
+ ],
+ "tin_tuc": [
+  {
+   "tin": "FOMC meeting minutes rạng sáng mai",
+   "danh_gia": "xấu hay tốt không quan tâm, chỉ hợp lý hóa đường giá; nhìn đường giá"
+  },
+  {
+   "tin": "PCE, GDP cuối tháng; CPI đầu tháng 9; lãi suất cuối tháng 9",
+   "danh_gia": "kỳ vọng tích lũy rồi xả quanh CPI; ra lãi suất tháng 9 thì pump rồi đi ngang vùng 5x"
+  },
+  {
+   "tin": "Thanh lý 23,4 triệu đô trên Dex (Hyper Liquid)",
+   "danh_gia": "pha lên 65.000 là để quét thanh lý hai đầu"
+  }
+ ],
+ "thoi_quen": [
+  "không bắt sớm, chờ phá cấu trúc hướng nào thì theo hướng đó",
+  "không vào khi entry xấu hoặc ngay cản",
+  "out entry xấu, giữ entry đẹp",
+  "không bao giờ bán hết hoặc mua hết (cơ cấu 90/10 downtrend, 15/85 uptrend)",
+  "DCA nhỏ hàng ngày, mua khoảng 2 giờ chiều",
+  "đánh chậm và giảm volume khi đang thắng chuỗi"
+ ],
+ "cau_cua_mieng": [
+  "Thị trường chỉ chừng đó chuyện thôi, có gì đâu nữa.",
+  "1000 giá là cũng thuộc loại to rồi đó."
+ ],
+ "altcoin": [
+  {
+   "coin": "SOL",
+   "huong": "TANG",
+   "ghi": "đã break, chờ test lại 76.1-76.5 để long, SL dưới 75.2, nhưng phải nhìn Bitcoin"
+  },
+  {
+   "coin": "ETH",
+   "huong": "TANG",
+   "ghi": "đã break, chờ bắt 1905-1890; ngại Bitcoin gãy nên chỉ đánh một hướng BTC"
+  },
+  {
+   "coin": "HYPE",
+   "huong": "GIAM",
+   "ghi": "không qua được 60 thì rụng tiếp, sale quanh giá hiện tại SL trên 60"
+  },
+  {
+   "coin": "BTC.D",
+   "huong": "PHAN_VAN",
+   "ghi": "chưa cụ thể, altcoin chưa hồi lên; USDT.D đi ngang chờ breakout cùng BTC"
+  }
+ ],
+ "ghi_chu": "Giá BTC hiện tại không nói số rõ (quanh 64.5-65K suy từ ngữ cảnh). Lệnh short 64.5/SL 65.1/TP 63 lấy từ đoạn đầu buổi đáp comment, có thể là lệnh của người xem được xác nhận giữ; để dang_giu. Mốc 70.500 nếu phá cản là bản sạch có [?].",
+ "hanh_dong": "giu_lenh",
+ "chang_ke_tiep": {
+  "huong": "GIAM",
+  "dich": 63000
+ },
+ "khung_lon_v2": {
+  "D1": "PHAN_VAN",
+  "W1": "GIAM"
+ },
+ "pha_vo_gia": "Pha kéo lên 65.000 đêm qua là lên quét thanh lý (vị thế short 24 triệu đô bị thanh lý ở 65.000); vùng hiện tại đi hai đầu để lụm stop loss cả hai phe. Kịch bản 'trap' vĩ mô: cùng lắm tăng lên 73.000 rồi sập về 4x–5x.",
+ "nguon_nhan": "dap_an_v2 (Opus 5.5 rút mù 31/10)"
+}

@@ -1,0 +1,466 @@
+{
+  "buoi": "2026-09-28_1006_G5Q1ATx_1ho",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/lam_sach/2026-09-28_1006_G5Q1ATx_1ho.md",
+  "gia_btc_luc_noi": 83000,
+  "dau_buoi": {
+    "thien_huong_h4": "GIAM",
+    "gio": null,
+    "trich": "Hiện tại thị trường đang điều chỉnh, bắt đầu xuất hiện những cái màu đỏ quen thuộc. ... Bitcoin có vẻ vẫn đang cố giữ đoạn này. M5 vẫn cố giữ và khả năng trong ngắn hạn có pha phục hồi lên đâu đó khoảng 83.700 [83.007] đến đường MA này trên 5 phút; mình sẽ tìm những cây nến có confirm thì mới đẹp."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "GIAM",
+    "do_chac": "cao",
+    "gio": null,
+    "trich": "Hiện tại phe bán đã chiếm được ưu thế ở đoạn này, nó sẽ đạp về tối thiểu là 82; 82 cho đến 82.400 gì đó thì mới may ra có phe mua nhảy vào lại. ... Mình đoán khả năng sẽ có một pha test đâu đó khoảng 82.400 thì mới an tâm được, và thực tế nó rất dễ test về đó nhá. ... H4 đóng rồi anh em: H4 đóng ở đây thì biết phải làm gì rồi, cần gì phân tích nữa."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {
+    "huong": "GIAM",
+    "dich": [
+      82000,
+      82400
+    ]
+  },
+  "duong_di": [
+    {
+      "huong": "GIAM",
+      "dich": [
+        82000,
+        82400
+      ]
+    }
+  ],
+  "dich_chinh": [
+    82000,
+    82400
+  ],
+  "han_gio": null,
+  "vo_hieu": null,
+  "lenh": [
+    {
+      "chieu": "SHORT",
+      "vao": [
+        83000,
+        83700
+      ],
+      "tp": [
+        82600,
+        82400
+      ],
+      "sl": null,
+      "trang_thai": "de_xuat_moi"
+    }
+  ],
+  "hanh_dong": "vao_short",
+  "khung_lon": {
+    "D1": "GIAM",
+    "W1": "TANG"
+  },
+  "pha_vo_gia": "Vùng thanh lý dày ở 85 (thậm chí 87) được người nói gọi là 'vùng dụ buy'; nến tuần breakout 'trừ trường hợp nó trap hay không thì cần thời gian trả lời'; 'cây ngày thứ hai không đáng tin'.",
+  "trich_them": [
+    {
+      "gio": null,
+      "cau": "Cây nến tuần vừa rồi của Bitcoin khá đẹp, breakout được vùng cản. Cho nên đoạn này nếu sale thì chắc cũng ăn ngắn thôi."
+    },
+    {
+      "gio": null,
+      "cau": "Anh em nhớ vùng 82 là vùng hỗ trợ cứng ... Nếu nó giữ được thì chứng tỏ hỗ trợ này trụ được, lúc đó giá mới có cửa đi lên, sau khi nó trụ thì mới hành động."
+    },
+    {
+      "gio": null,
+      "cau": "H1: lúc sáng mình nhắn anh em trong nhóm là chờ nếu H1 thủng khỏi đường MA200 thì nó rụng. ... Về đây 82.400 gì đó là đẹp rồi; vùng 82.xxx này cũng hỗ trợ nhiều. Tất cả đều chung một view."
+    },
+    {
+      "gio": null,
+      "cau": "Fibo mở rộng đoạn này không chạy mượt lắm vì lực mua căng quá, nó bẻ luôn, lực mua hỗ trợ đều quá; còn nếu Fibo thì phải về hẳn 81, 80."
+    },
+    {
+      "gio": null,
+      "cau": "Cây H1 vừa rồi gần như confirm điều chỉnh. Chờ nó điều chỉnh về khoảng 82.00 [?] lúc đó chúng ta tính tiếp. Còn lại tất cả đang hỗ trợ cho view này chạy khá mượt."
+    },
+    {
+      "gio": null,
+      "cau": "Nếu anh em đánh xuống ăn ngắn thì có thể cân nhắc từ vùng khoảng 82.xxx [?] là bắt đầu kéo SL entry, hoặc TP1 ở 82.600; các TP dưới thì kéo dần, càng sát 82 càng nên chốt."
+    },
+    {
+      "gio": null,
+      "cau": "Hỏi: Em có entry 84k8, gồng sale tiếp được không? — Thoải mái. Về thằng này 82.400 gì đó tính."
+    },
+    {
+      "gio": null,
+      "cau": "Nếu cây H1 này kéo lại được trên MA200 thì mới là 'khốn nạn' — mới gọi là đẳng cấp market maker lái giá."
+    },
+    {
+      "gio": null,
+      "cau": "RSI: phân kỳ vẫn là phân kỳ và RSI cắm xuống; nhịp này hy vọng RSI kéo xuống khoảng 34, 35 hoặc sát 30 càng tốt. Nếu về sát dưới này thì giá chắc về đâu đó khoảng 80 là ngon."
+    }
+  ],
+  "kho": "Transcript không có mốc giờ. Hướng H4 xuống rõ, đích 82–82.4 (đích mở rộng 80–81 theo Fibo/RSI). Không có mốc vô hiệu bằng số: chỉ nói 'H1 kéo lại được trên MA200' là ngoài dự kiến (không nêu giá MA200) → vo_hieu null. Lệnh short ở nhịp hồi 83–83.7 là suy từ câu 'phục hồi lên ... 83.700 đến đường MA ... tìm nến confirm' + TP1 82.600; người nói không xác nhận tự vào lệnh. Giá lúc nói ước ~83k (đã 'khá sát vùng 82'). Khung tuần TANG (breakout, hai đáy) nhưng D1/H4 đang chỉnh về hỗ trợ 82.",
+  "nhin_lai_view_truoc": {
+    "view_truoc": null,
+    "giu_hay_doi": "giu",
+    "vi_sao": "Giữ ý tuần trước coi 82-83 là hỗ trợ; nay nến tuần đã breakout vùng cản (bị đè 4 tuần, quét lên 87) nên 82-83 nâng từ hỗ trợ D1 thành hỗ trợ khung tuần; ngắn hạn chờ điều chỉnh về đó",
+    "gio": null,
+    "trich": "Hiện tại vùng này sẽ trở thành vùng hỗ trợ cứng giống như tuần trước mình đã nói; nhưng tuần trước chỉ mới thấy hỗ trợ trên khung ngày, tuần này thấy đây là hỗ trợ khung tuần. Cho nên chúng ta quan sát phản ứng giá, đặc biệt quanh vùng 82.000."
+  },
+  "trendline": [
+    {
+      "khung": "W1",
+      "loai": "khang_cu_giam",
+      "noi_tu": "Trendline khung tuần trong mô hình hai đáy (không nêu điểm neo); nến tuần vừa breakout vùng cản đè 4 tuần",
+      "diem_neo": [],
+      "gia_duong_luc_noi": null,
+      "trang_thai": "vua_pha",
+      "dieu_kien_pha": "nến tuần đóng breakout lên trên",
+      "ket_luan_huong": "TANG",
+      "gio": null,
+      "trich": "Mình cũng mong như thế, nhưng về mặt kỹ thuật giai đoạn vừa rồi nó lên là hợp lý; ngược lại, với khung tuần, mô hình hai đáy và đã phá qua trendline, chúng ta không thể chủ quan được."
+    }
+  ],
+  "nen_volume": [
+    {
+      "khung": "W1",
+      "nen": "cây nến tuần đẹp, breakout vùng cản đã đè 4 tuần (giá bị ép tới 75 không gãy), râu quét lên 87",
+      "volume": null,
+      "ket_luan": "82-83 thành hỗ trợ khung tuần; nếu sale thì chỉ ăn ngắn",
+      "gio": null,
+      "trich": "Cây nến tuần vừa rồi của Bitcoin khá đẹp, breakout được vùng cản. Cho nên đoạn này nếu sale thì chắc cũng ăn ngắn thôi."
+    },
+    {
+      "khung": "D1",
+      "nen": "giá giữ ở đây; hai đỉnh, về test Fibo rồi đi ngang (phe mua bị từ chối liên tục)",
+      "volume": "thanh khoản nến ngày cực kỳ yếu",
+      "ket_luan": "phe bán chiếm ưu thế, đạp về tối thiểu 82-82.400",
+      "gio": null,
+      "trich": "Nến ngày và H4: nến ngày này thanh khoản cực kỳ yếu và giá vẫn giữ ở đây. Xác suất thường, một nhịp phải đi như này thì sập mới đẹp: hai đỉnh là thứ nhất; thứ hai là nó về đây rồi test Fibo cộng với đi ngang. Đi ngang có nghĩa là phe mua liên tục tham gia nhưng bị từ chối, từ chối, từ chối, đến một ngày phe mua bị từ chối hết thì phe bán chiếm ưu thế. Hiện tại phe bán đã chiếm được ưu thế ở đoạn này, nó sẽ đạp về tối thiểu là 82; 82 cho đến 82.400 gì đó thì mới may ra có phe mua nhảy vào lại"
+    },
+    {
+      "khung": "H4",
+      "nen": "phe bán chiếm từng điểm (85 → 84.4 → 84.3 → 84), phe mua đẩy lên không thành công; bị từ chối ở Fibo lần thứ hai",
+      "volume": null,
+      "ket_luan": "khả năng test ~82.400",
+      "gio": null,
+      "trich": "Hai phe đánh nhau mà một thằng không thành công thì thằng kia thành công, thằng nào thành công thì việc tiếp theo thằng đó nắm. Thắng làm vua. Đoạn này vẽ Fibo ra thì thấy về mặt kỹ thuật rất hợp lý: lần hôm trước nó bị từ chối ngay ở Fibo này, lần này chưa confirm chắc chắn nhưng lần thứ hai bị từ chối ở Fibo ở đây"
+    },
+    {
+      "khung": "H1",
+      "nen": "H1 thủng MA200; cây H1 vừa rồi gần như confirm điều chỉnh",
+      "volume": null,
+      "ket_luan": "rụng về 82; nếu H1 kéo lại được trên MA200 mới là bất ngờ",
+      "gio": null,
+      "trich": "H1: lúc sáng mình nhắn anh em trong nhóm là chờ nếu H1 thủng khỏi đường MA200 thì nó rụng"
+    },
+    {
+      "khung": "D1",
+      "nen": "cây ngày thứ hai",
+      "volume": null,
+      "ket_luan": "không đáng tin, không phản ánh tốt cấu trúc",
+      "gio": null,
+      "trich": "Cây ngày thứ hai không đáng tin: thông thường mình thấy cây ngày thứ hai không phải cây phản ánh tốt cấu trúc thị trường."
+    },
+    {
+      "khung": "H1/M5",
+      "nen": "H1 có volume mua nhảy vào; M5 volume bán chiếm áp đảo",
+      "volume": "H1: volume mua khá (vượt trung bình); M5: volume bán liên tục áp đảo",
+      "ket_luan": "có thể hồi nhẹ lên ~83.000 rồi điều chỉnh tiếp",
+      "gio": null,
+      "trich": "Cây H1 hiện tại bắt đầu có volume mua nhảy vào khá, đoạn này có khả năng hồi phục nhẹ. Nhưng vào M5 thì volume bán liên tục chiếm áp đảo, nên hoàn toàn có thể M5 hồi lên khoảng 83.000 [8300, ?] rồi lại điều chỉnh tiếp."
+    },
+    {
+      "khung": "H4",
+      "nen": "H4 đóng (xấu)",
+      "volume": null,
+      "ket_luan": "biết phải làm gì rồi (thuận giảm), không ai dại chốt buy",
+      "gio": null,
+      "trich": "H4 đóng rồi anh em: H4 đóng ở đây thì biết phải làm gì rồi, cần gì phân tích nữa."
+    }
+  ],
+  "cach_lam": [
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "dinh_day_cu",
+      "chi_tiet": "Khung tuần: mô hình hai đáy, vùng cản bị phá",
+      "ket_qua": "82-83 thành hỗ trợ W1 (82 mạnh hơn 83)",
+      "gio": null,
+      "trich": "Thực tế vùng của nó từ 83 đến 82 (tuần trước mình nói 83 đến 82), nhưng 83 không mạnh bằng 82. Vùng 82 là vùng hỗ trợ cực kỳ mạnh cho nhịp này"
+    },
+    {
+      "hanh_dong": "ve",
+      "cong_cu": "fibo_thoai_lui",
+      "chi_tiet": "Vẽ Fibo trên H4",
+      "ket_qua": "bị từ chối ở Fibo lần 2 → test ~82.400",
+      "gio": null,
+      "trich": "Đoạn này vẽ Fibo ra thì thấy về mặt kỹ thuật rất hợp lý: lần hôm trước nó bị từ chối ngay ở Fibo này, lần này chưa confirm chắc chắn nhưng lần thứ hai bị từ chối ở Fibo ở đây, đêm qua mình thấy khá là ok, gần như bị từ chối ở đây. Mình đoán khả năng sẽ có một pha test đâu đó khoảng 82.400"
+    },
+    {
+      "hanh_dong": "do",
+      "cong_cu": "fibo_mo_rong",
+      "chi_tiet": "Fibo mở rộng nhịp giảm",
+      "ket_qua": "không chạy mượt; nếu theo Fibo thì về 81, 80",
+      "gio": null,
+      "trich": "Fibo mở rộng đoạn này không chạy mượt lắm vì lực mua căng quá, nó bẻ luôn, lực mua hỗ trợ đều quá; còn nếu Fibo thì phải về hẳn 81, 80."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "ema",
+      "chi_tiet": "MA200 H1; MA trên M5",
+      "ket_qua": "H1 thủng MA200 → rụng; M5 hồi lên MA ~83.700",
+      "gio": null,
+      "trich": "M5 vẫn cố giữ và khả năng trong ngắn hạn có pha phục hồi lên đâu đó khoảng 83.700 [83.007] đến đường MA này trên 5 phút; mình sẽ tìm những cây nến có confirm thì mới đẹp."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "heatmap",
+      "chi_tiet": "Heatmap/liquid",
+      "ket_qua": "85 rất dày (dụ buy), 87; dưới ~82 thanh lý dày, 80-81",
+      "gio": null,
+      "trich": "Hit map trên này có một vùng 85 rất dày. Vùng này mình nghĩ là dụ buy rồi: với cái chart đi như thế này mà vùng thanh lý vẫn còn dày như vậy thì khả năng đây là vùng dụ cho anh em buy lên lấy đống này. Từ đêm qua bắt đầu thanh lý sót rất nhiều, vùng này vẫn dồn ở trên 85; nhìn có vẻ đỏ nhiều nhưng khối lượng không lớn lắm, 150.000 thì bình thường. Dưới này có vùng khoảng 82.00 [?] thanh lý dày"
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "rsi",
+      "chi_tiet": "RSI phân kỳ, cắm xuống",
+      "ket_qua": "hy vọng RSI về 34-35/30 → giá ~80",
+      "gio": null,
+      "trich": "RSI: phân kỳ vẫn là phân kỳ và RSI cắm xuống; nhịp này hy vọng RSI kéo xuống khoảng 34, 35 hoặc sát 30 càng tốt. Nếu về sát dưới này thì giá chắc về đâu đó khoảng 80 là ngon."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "volume",
+      "chi_tiet": "Indicator 3 vệt volume + volume trung bình",
+      "ket_qua": "H1 volume mua; M5 volume bán áp đảo",
+      "gio": null,
+      "trich": "Volume: dùng indicator có ba vệt volume và volume trung bình; cây nào lớn hơn trung bình thì chúng ta biết."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "USDT.D (chạm Fibo 0.618, phá trendline, cờ tăng); BTC.D; Fear & Greed",
+      "ket_qua": "USDT.D có thể lên 6.6 → market điều chỉnh; F&G 74 (rất cao)",
+      "gio": null,
+      "trich": "USDT.D: nó gặp hỗ trợ Fibo giống Bitcoin nhưng đẹp hơn, chạm được Fibo 0.618, bật lên và phá ra khỏi trendline trước đó, tạo một mô hình cờ tăng rất đẹp; gần như xác suất USDT.D lên được 6.6 là hoàn toàn khả thi."
+    }
+  ],
+  "vung_nguoi_do": [
+    {
+      "loai": "khang_cu",
+      "tu": 83700,
+      "den": 83700,
+      "gio": null,
+      "trich": "khả năng trong ngắn hạn có pha phục hồi lên đâu đó khoảng 83.700 [83.007] đến đường MA này trên 5 phút"
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 75000,
+      "den": 75000,
+      "gio": null,
+      "trich": "nó đã mất 1, 2, 3, 4 tuần bị cản này đè liên tục, áp lực giá đến tận 75.000 mà không gãy."
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 87000,
+      "den": 87000,
+      "gio": null,
+      "trich": "tuần vừa rồi nó quét lên đến 87."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 82000,
+      "den": 83000,
+      "gio": null,
+      "trich": "Thực tế vùng của nó từ 83 đến 82 (tuần trước mình nói 83 đến 82), nhưng 83 không mạnh bằng 82."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 81900,
+      "den": 82800,
+      "gio": null,
+      "trich": "vùng 82 không phải đúng 82.000 mà có thể là 82.800, 82.600, 82.400, 82.200, 82.100, 82.300, 82.550 [82008, 82006, 824, 82002, 82001, 82003 trong phụ đề], kiểu như vậy, loanh quanh cái đầu 82; hoặc 81.900 cũng là loanh quanh vùng 82"
+    },
+    {
+      "loai": "dich",
+      "tu": 82000,
+      "den": 82400,
+      "gio": null,
+      "trich": "nó sẽ đạp về tối thiểu là 82; 82 cho đến 82.400 gì đó thì mới may ra có phe mua nhảy vào lại."
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 84000,
+      "den": 85000,
+      "gio": null,
+      "trich": "chiếm từ vùng căn cứ 85, sau đó chiếm về 84.00 [?], rồi 84.300, rồi 84.400 [84.003, 84004]; cứ chiếm dần."
+    },
+    {
+      "loai": "dich",
+      "tu": 82400,
+      "den": 82400,
+      "gio": null,
+      "trich": "Mình đoán khả năng sẽ có một pha test đâu đó khoảng 82.400 thì mới an tâm được"
+    },
+    {
+      "loai": "dich",
+      "tu": 80000,
+      "den": 81000,
+      "gio": null,
+      "trich": "còn nếu Fibo thì phải về hẳn 81, 80."
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 85000,
+      "den": 85000,
+      "gio": null,
+      "trich": "Hit map trên này có một vùng 85 rất dày. Vùng này mình nghĩ là dụ buy rồi"
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 80000,
+      "den": 82000,
+      "gio": null,
+      "trich": "Ngược lại dưới này có vùng khoảng 82.000 [?] cho đến 80.000, 81.000."
+    },
+    {
+      "loai": "tp",
+      "tu": 82600,
+      "den": 82600,
+      "gio": null,
+      "trich": "Nếu anh em đánh xuống ăn ngắn thì có thể cân nhắc từ vùng khoảng 82.xxx [?] là bắt đầu kéo SL entry, hoặc TP1 ở 82.600"
+    },
+    {
+      "loai": "vao",
+      "tu": 84800,
+      "den": 84800,
+      "gio": null,
+      "trich": "Hỏi: Em có entry 84k8, gồng sale tiếp được không? Thoải mái."
+    },
+    {
+      "loai": "tp",
+      "tu": 82400,
+      "den": 82400,
+      "gio": null,
+      "trich": "Thoải mái. Về thằng này 82.400 gì đó tính."
+    },
+    {
+      "loai": "dich",
+      "tu": 80000,
+      "den": 80000,
+      "gio": null,
+      "trich": "Nếu về sát dưới này thì giá chắc về đâu đó khoảng 80 là ngon."
+    }
+  ],
+  "view_trung_han": [
+    {
+      "khung": "W1",
+      "huong": "TANG",
+      "dich": null,
+      "han": null,
+      "mat_view_khi": "hỗ trợ 82 bị phá một cách rất dễ dàng → hỗ trợ không còn ý nghĩa, lực từ trên mạnh hơn",
+      "gio": null,
+      "trich": "Nếu nó giữ được thì chứng tỏ hỗ trợ này trụ được, lúc đó giá mới có cửa đi lên, sau khi nó trụ thì mới hành động. Còn nếu vùng hỗ trợ bị phá một cách rất dễ dàng thì chứng tỏ hỗ trợ này không có ý nghĩa lắm"
+    },
+    {
+      "khung": "D1",
+      "huong": "GIAM",
+      "dich": 82000,
+      "han": null,
+      "mat_view_khi": null,
+      "gio": null,
+      "trich": "D1 hiện tại giá cũng xa [vùng hỗ trợ] rồi. Nhìn D1 đây là vùng hỗ trợ, cứ về đây tính, đừng làm gì sớm hơn vùng này."
+    }
+  ],
+  "vung_tranh": [
+    {
+      "tu": 82000,
+      "den": null,
+      "vi_sao": "Đừng làm gì (mua) sớm hơn vùng 82; về 82 cũng phải chờ phản ứng giá, không cầm đèn chạy trước ô tô",
+      "gio": null,
+      "trich": "Nhìn D1 đây là vùng hỗ trợ, cứ về đây tính, đừng làm gì sớm hơn vùng này."
+    },
+    {
+      "tu": 85000,
+      "den": 85000,
+      "vi_sao": "Vùng thanh lý dày 85 là vùng dụ buy",
+      "gio": null,
+      "trich": "với cái chart đi như thế này mà vùng thanh lý vẫn còn dày như vậy thì khả năng đây là vùng dụ cho anh em buy lên lấy đống này."
+    },
+    {
+      "tu": null,
+      "den": null,
+      "vi_sao": "Không sale dài/chủ quan vì khung tuần đã breakout (hai đáy, phá trendline); sale chỉ ăn ngắn",
+      "gio": null,
+      "trich": "Đừng nhìn vào đây mà chủ quan bảo nó không thể lên rồi cứ sale xuống — đánh kiểu đó không có logic lắm."
+    },
+    {
+      "tu": null,
+      "den": null,
+      "vi_sao": "Hôm nay thứ hai, cây ngày thứ hai không đáng tin → đánh đấm thận trọng",
+      "gio": null,
+      "trich": "Hôm nay vẫn nhắc anh em: hôm nay thứ hai, cho nên đánh đấm thận trọng."
+    }
+  ],
+  "giu_dong": [
+    {
+      "lenh": "short (sale) 84.800 của người xem",
+      "quyet_dinh": "gong",
+      "khi_nao": "gồng tiếp, về ~82.400 thì tính",
+      "gio": null,
+      "trich": "Hỏi: Em có entry 84k8, gồng sale tiếp được không? Thoải mái. Về thằng này 82.400 gì đó tính."
+    },
+    {
+      "lenh": "short ăn ngắn",
+      "quyet_dinh": "chot_mot_phan",
+      "khi_nao": "từ vùng 82.xxx kéo SL entry; TP1 82.600; TP dưới kéo dần, càng sát 82 càng nên chốt",
+      "gio": null,
+      "trich": "Nếu anh em đánh xuống ăn ngắn thì có thể cân nhắc từ vùng khoảng 82.xxx [?] là bắt đầu kéo SL entry, hoặc TP1 ở 82.600; các TP dưới thì kéo dần, càng sát 82 càng nên chốt."
+    }
+  ],
+  "tin_tuc": [
+    {
+      "su_kien": "Chiến sự Mỹ - Iran; Trump bác đề xuất Iran mở lại eo Hormuz",
+      "thoi_diem": "cuối tuần",
+      "nguon": "khac",
+      "so_lieu": "Brent vượt 106, dầu Mỹ 93 đô (hỏi Grok)",
+      "anh_huong_view": "tin bình thường, thị trường chỉ lấy lý do; chiến tranh không kết thúc trước mùa đông (mùa hốt tiền dầu)",
+      "gio": null,
+      "trich": "Mình nghĩ tin đó bình thường: trước giờ có khi nào nó đồng ý đâu, bây giờ không đồng ý có gì xấu. Chẳng qua thị trường lấy lý do thôi anh em."
+    },
+    {
+      "su_kien": "Trái phiếu Mỹ bị bán tháo, lợi suất tăng; kỳ vọng tăng lãi suất",
+      "thoi_diem": "tháng 10",
+      "nguon": "khac",
+      "so_lieu": "lợi suất 2 năm 4,9; 10 năm cao nhất từ 2007; 30 năm gần mức 2024; thị trường tính tăng lãi suất tháng 10 (thực tế đã tăng tháng 9)",
+      "anh_huong_view": "bình thường, thị trường lợi dụng tin để làm giá chứ không phải do tin tác động",
+      "gio": null,
+      "trich": "Trái phiếu chính phủ bị bán tháo trở lại, lợi suất lại tăng: lợi suất 2 năm lên 4,9 [?], 10 năm tiếp tục cao nhất từ 2007, 30 năm gần mức 2024; thị trường tính tăng lãi suất vào tháng 10 (thực tế tăng tháng 9 nhưng chưa tác động nhiều). Future chứng khoán Mỹ giảm tối chủ nhật. Tuần trước chứng khoán Mỹ vẫn kéo nhờ nhóm AI. Đàm phán thương mại Mỹ – Trung kéo đến tháng 1 năm 2027. Tuần này thị trường theo dõi sát dữ liệu việc làm Mỹ, PCE và các phát biểu của Fed; tuần này có rất nhiều tin. Những tin này đối với cá nhân mình cũng bình thường"
+    },
+    {
+      "su_kien": "Việc làm Mỹ, PCE, phát biểu Fed; đàm phán thương mại Mỹ - Trung",
+      "thoi_diem": "tuần này; Mỹ - Trung kéo tới 1/2027",
+      "nguon": "lich_kinh_te",
+      "so_lieu": null,
+      "anh_huong_view": "tuần này rất nhiều tin",
+      "gio": null,
+      "trich": "Đàm phán thương mại Mỹ – Trung kéo đến tháng 1 năm 2027. Tuần này thị trường theo dõi sát dữ liệu việc làm Mỹ, PCE và các phát biểu của Fed; tuần này có rất nhiều tin."
+    },
+    {
+      "su_kien": "Tin 'Bitcat' bị rút thanh khoản đa sàn phải bán coin",
+      "thoi_diem": "hiện tại",
+      "nguon": "khac",
+      "so_lieu": null,
+      "anh_huong_view": "không hợp lý để giải thích nhịp giảm",
+      "gio": null,
+      "trich": "Nếu sập thì phải sập từ tuần trước chứ sao bây giờ; nó đứng ở đây test hai lần rồi bây giờ mới sập thì không hợp lý tí nào."
+    },
+    {
+      "su_kien": "Sàn tăng APR earn USDT/USDC",
+      "thoi_diem": "hiện tại",
+      "nguon": "khac",
+      "so_lieu": null,
+      "anh_huong_view": "đám đông đang vào nhiều → thị trường hay điều chỉnh",
+      "gio": null,
+      "trich": "Thông thường điều này thể hiện đám đông đang vào nhiều. Không phải sàn lừa; sàn dựa trên dữ liệu thấy dòng tiền và đám đông bắt đầu FOMO hơn thì mới đưa ra khuyến mãi. Thị trường thì ngược lại: cứ đám đông nhảy vào nhiều là thị trường điều chỉnh — logic nó bắc cầu như vậy"
+    }
+  ],
+  "nghi_van_nhan_v2": null
+}

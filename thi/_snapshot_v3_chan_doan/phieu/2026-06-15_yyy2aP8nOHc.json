@@ -1,0 +1,70 @@
+{
+  "buoi": "2026-06-15_yyy2aP8nOHc",
+  "ngay": "2026-06-15",
+  "gio_vn": "10:00",
+  "gia_btc_luc_noi": 65500,
+  "nhan_dinh": [
+    {
+      "khung": "H4",
+      "huong": "TANG",
+      "do_chac": "vua",
+      "dich": [66000, 69000],
+      "han": "tuần này (thứ hai thứ ba còn tăng, thứ tư sideway chờ FED, thứ năm biến động)",
+      "han_gio": 168,
+      "vo_hieu_khi": "5 phút thủng cụm MA thì thoát; nến H4 vẫn dưới Fibo 100% (65.800) thì chưa chắc",
+      "kich_ban_phu": "quét lên 66.000 rồi dội về 65.000, đẹp nhất back về 63.000 (Fibo 0.5, trendline) tìm long; break luôn thì chỉ FOMO nhịp sau; lên 69 là chốt hết, tối đa 71",
+      "ly_do": ["H4 đang ở Fibo 100%, kỳ vọng Fibo 1.618 ở 69.000 trùng MA200 H4 và MA34 D1", "thanh khoản thanh lý phía trên (66.000) dày hơn dưới (64.000)", "nến tuần xanh hai đáy có phân kỳ", "tuần này tin lãi suất, hồi quang phản chiếu thôi, không nên FOMO"],
+      "trich": "Còn trường hợp đẹp nhất ở đây là anh em phải chờ về 63. Đó là view quan trọng nhất của ngày hôm nay. Lên 69 là nhảy hết rồi.",
+      "doi_y": null,
+      "duong_di": [
+        {"huong": "TANG", "dich": 66000},
+        {"huong": "GIAM", "dich": [63000, 65000]},
+        {"huong": "TANG", "dich": 69000}
+      ]
+    },
+    {
+      "khung": "D1",
+      "huong": "TANG",
+      "do_chac": "cao",
+      "dich": [69000, 72000],
+      "han": "tuần này",
+      "han_gio": 168,
+      "vo_hieu_khi": "giá lên MA mà đứng mãi không bật thì ổn khả năng đi xuống",
+      "kich_ban_phu": "MA34 mạnh thì quét lên 71-72 khớp thanh khoản",
+      "ly_do": ["trên 80% sẽ lên test MA, non cũng MA34", "vùng 71-72 trống thanh khoản vì hôm trước tụt rất nhanh"],
+      "trich": "Khung ngày này, đi như này thì khả năng trên 80% là nó sẽ lên để test đường MA.",
+      "doi_y": null,
+      "duong_di": null
+    },
+    {
+      "khung": "M5",
+      "huong": "TANG",
+      "do_chac": "thap",
+      "dich": [66000, 67000],
+      "han": "trong ngày",
+      "han_gio": 24,
+      "vo_hieu_khi": "5 phút thủng cụm MA thì thoát, về 63.000 đánh lại",
+      "kich_ban_phu": "scalp chốt 66.000-67.000, chừa ít volume gồng",
+      "ly_do": ["5 phút khó gãy, đánh test MA", "không long FOMO ở cản Fibo 65.800"],
+      "trich": "5 phút kiểu này khó mà gãy xuống lắm. Nếu các bạn đánh test MA như này thì cứ đánh.",
+      "doi_y": null,
+      "duong_di": null
+    }
+  ],
+  "vung_gia": {"khang_cu": [65800, 66000, 69000], "ho_tro": [63000, 65000]},
+  "lenh": [
+    {"chieu": "LONG", "loai": "chia 5 lệnh BTC", "vao": [61000, 63000], "tp": [65000, 67000, 69000], "sl": null,
+     "trang_thai": "da_chot",
+     "trich": "Hôm nay lúc sáng mình mới bảo anh em chốt TP1... Mình thì chốt 1/2 và giữ lại 1/2 chơi tiếp."},
+    {"chieu": "LONG", "loai": "limit", "vao": 63000, "tp": [66000, 69000], "sl": 62000,
+     "trang_thai": "de_xuat_moi",
+     "trich": "Nếu long ở 6300 SL khoảng 500 giá là dư sức, 62.000 cũng được."}
+  ],
+  "nhin_lai_truoc": "Hôm trước đã bảo giữ đến thứ hai, nhắc base 60-61-62 chốt 65-67-69 ăn trọn sóng; hôm qua bảo đánh ETH, ADA, SOL sáng nay mấy trăm phần; nhịp tối qua short 64.000 bị H4 pump quét; OPEN ăn 20%.",
+  "cong_cu": ["W1", "D1", "H4", "M5", "Fibo 1 và 1.618", "MA34 D1", "MA200 H4", "trendline", "liquidation heatmap", "Fear and Greed", "BTC.D", "USDT.D"],
+  "tin_tuc": [{"tin": "Họp lãi suất FED tối thứ tư, rạng sáng thứ năm, phát biểu chủ tịch mới", "danh_gia": "gần như chắc không giảm lãi; quan trọng là quan điểm chủ tịch mới"}],
+  "thoi_quen": ["đánh chuẩn Fibo H4: vùng 0.5-0.618 mua, 1.618 chốt hết", "không long FOMO ở cản", "tuyệt đối không short khi nến tuần xanh, phải chờ test MA", "chốt 1/2 giữ 1/2 rồi dời SL entry", "Fear and Greed mua ở 8 bán ở 20", "chia nhỏ BTC thành 5 lệnh"],
+  "cau_cua_mieng": ["Không test MA thì đừng nói chuyện, đừng short, đừng gì hết.", "Nó thuộc về tương lai, làm sao xác định một sự chắc chắn ở tương lai được.", "Đảo chiều của mình có nghĩa là nó về đến 40.000."],
+  "altcoin": [{"coin": "ETH", "huong": "TANG", "ghi": "target đã chia ở cả hai nhóm (100 đô), chốt 1008; phụ thuộc BTC"}, {"coin": "WLD", "huong": "TANG", "ghi": "lên 58, còn lực, break đi tiếp"}, {"coin": "SOL", "huong": "TANG", "ghi": "Fibo 1.618 trùng MA200, còn lực đẹp"}, {"coin": "altcoin chung", "huong": "PHAN_VAN", "ghi": "ADA, XRP, LINK dài hạn; ZEC, LAB hết trend; BTC.D lên lại nên altcoin không quá tốt"}, {"coin": "dầu", "huong": "GIAM", "ghi": "hai đáy kẹp MA thất bại, về MA200 ngày; BTC tăng thì dầu giảm"}, {"coin": "vàng", "huong": "TANG", "ghi": "hồi tốt, chưa nên sell, có thể lên MA200"}],
+  "ghi_chu": "Buổi live nhanh, tuần này không livestream liên tục. Cuối buổi: 'khả năng quét lên 66 rồi sụp xuống' nhưng không đổi view tổng. '6400 hôm qua short' = 64.000."
+}

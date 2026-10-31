@@ -1,0 +1,174 @@
+{
+  "buoi": "2026-06-09_UmnCq7p4NlU",
+  "ngay": "2026-06-09",
+  "gio_vn": "10:00",
+  "gia_btc_luc_noi": 62500,
+  "nhan_dinh": [
+    {
+      "khung": "H4",
+      "huong": "GIAM",
+      "do_chac": "vua",
+      "dich": [
+        60000,
+        61000
+      ],
+      "han": "trước mắt, trong ngày (có nhịp hồi 63.000 lúc khoảng 11 giờ)",
+      "han_gio": 24,
+      "vo_hieu_khi": "nếu về 60-61 mà xuất hiện H4 lực mua đẹp thì bật tăng, mục tiêu 66-67 rồi 69",
+      "kich_ban_phu": "H4 thủng 60.000 thì kết thúc nhịp hồi, về 54 (đầu năm 2,3 là 54); về 61-60 bật lên thì test MA89 ~67 hoặc MA200 ~69",
+      "ly_do": [
+        "4-5 cây H4 không vượt được MA34, MA34 + kháng cự 64.000",
+        "xu hướng phục hồi hôm qua đã gãy, đỉnh đáy thủng hỗ trợ",
+        "gap nhỏ 61.000; hỗ trợ Fibo 61.000",
+        "nến tuần trước cực xấu, áp lực bán là chính"
+      ],
+      "trich": "Có lẽ là nó đẹp nhất là nó về lại cái vùng 61. 61 60 là một cái vùng mình nghĩ là an toàn.",
+      "doi_y": null,
+      "duong_di": [
+        {
+          "huong": "TANG",
+          "dich": 63000
+        },
+        {
+          "huong": "GIAM",
+          "dich": [
+            60000,
+            61000
+          ]
+        }
+      ]
+    },
+    {
+      "khung": "D1",
+      "huong": "PHAN_VAN",
+      "do_chac": "thap",
+      "dich": [
+        67000,
+        69000
+      ],
+      "han": "mất khoảng 1 tháng, đầu tháng 7 mới test MA ngày",
+      "han_gio": null,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": "áp lực bán vẫn căng, mọi nhịp tăng là hồi quang phản chiếu",
+      "ly_do": [
+        "cụm ba nến đảo chiều D1 đẹp (đỏ, râu, xanh) cho khả năng phục hồi",
+        "giá nằm xa MA ngày nên cần nhịp lên test nhưng không test ngay",
+        "short tuần trước 1 triệu đã bị thanh lý hết"
+      ],
+      "trich": "Không có kỳ vọng là trong ngắn hạn quá. Áp lực bán nó vẫn còn căng thẳng lắm.",
+      "doi_y": null,
+      "duong_di": null
+    },
+    {
+      "khung": "chung",
+      "huong": "GIAM",
+      "do_chac": "vua",
+      "dich": null,
+      "han": "mùa downtrend; không tin về đúng 20.000, có thể 30.000 hoặc 35-38.000, không dưới 40.000 cũng có thể",
+      "han_gio": null,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": "CME giao dịch 24/7 từ 29/5 nên gap có thể mất hiệu lực, đáy có thể cao hơn",
+      "ly_do": [
+        "downtrend đầy đủ tin hack, bỏ dự án, hết tiền, quỹ bán Bitcoin (MSTR bán 32 BTC)",
+        "USDT.D tăng thì cả thị trường oẳng"
+      ],
+      "trich": "Có thể ví dụ về 30.000 hoặc 35 38.000 cũng đẹp đấy.",
+      "doi_y": null,
+      "duong_di": null
+    }
+  ],
+  "vung_gia": {
+    "khang_cu": [
+      63000,
+      64000
+    ],
+    "ho_tro": [
+      60000,
+      61000
+    ]
+  },
+  "lenh": [
+    {
+      "chieu": "SHORT",
+      "loai": "limit tham khảo",
+      "vao": 63000,
+      "tp": [
+        62000,
+        61000
+      ],
+      "sl": null,
+      "trang_thai": "de_xuat_moi",
+      "trich": "Nếu anh em short thì setup... entry quanh vùng 63.000, stop loss trên điểm cao hơn. TP thì 62.000 hoặc 61.000."
+    },
+    {
+      "chieu": "LONG",
+      "loai": "quan sát, không limit",
+      "vao": [
+        60000,
+        61000
+      ],
+      "tp": [
+        66000,
+        67000,
+        69000
+      ],
+      "sl": 60000,
+      "trang_thai": "de_xuat_moi",
+      "trich": "Muốn long thì không có limit nhưng bắt buộc phải chờ phản ứng giá ở vùng 61.000 cho đến 60.000... SL dưới 60.000."
+    }
+  ],
+  "nhin_lai_truoc": "Vùng 61-62 hôm qua đã bắt được ở 62.000 rồi bật lên, ai ăn thì đã ăn; vùng 64 hôm qua chốt là hợp lý. Hôm nay lùi vùng quan sát xuống 60-61.",
+  "cong_cu": [
+    "H4",
+    "D1",
+    "MA34",
+    "MA89",
+    "MA200",
+    "Fibo",
+    "trendline",
+    "gap CME",
+    "liquidation heatmap",
+    "RSI",
+    "USDT.D",
+    "funding"
+  ],
+  "tin_tuc": [
+    {
+      "tin": "CPI tối mai",
+      "danh_gia": "tuần này giá phụ thuộc tin để đạp hoặc đẩy, chưa biết hướng"
+    },
+    {
+      "tin": "Hack H, Sahara AI, MSTR bán 32 BTC rồi mua lại 1.550",
+      "danh_gia": "đặc sản của downtrend"
+    }
+  ],
+  "thoi_quen": [
+    "phân biệt vùng quan sát với vùng limit",
+    "chờ nến H4 lực mua đẹp mới long, nến xấu thì không vào",
+    "không short đuổi FOMO ở gap/hỗ trợ",
+    "voucher thì đánh ngược số đông",
+    "funding phải xem lâu cả ngày"
+  ],
+  "cau_cua_mieng": [
+    "Có những vùng giá chúng ta quan sát, có những vùng giá chúng ta limit.",
+    "Downtrend mà thiếu mấy cái này (hack, bỏ dự án) không được."
+  ],
+  "altcoin": [
+    {
+      "coin": "altcoin chung",
+      "huong": "GIAM",
+      "ghi": "altcoin test MA H4 thì bỏ khỏi danh mục; Sahara, H xả sập vì hack"
+    },
+    {
+      "coin": "ETH",
+      "huong": "GIAM",
+      "ghi": "chưa thấy cửa hồi 2000; gom spot lý tưởng khi BTC dưới 40.000"
+    },
+    {
+      "coin": "WLD",
+      "huong": "TANG",
+      "ghi": "lực còn tốt, OpenAI nộp hồ sơ IPO"
+    }
+  ],
+  "ghi_chu": "Cuối buổi thị trường đứng, nghỉ sớm. Muốn mở bot short phải chờ trên 67.000."
+}

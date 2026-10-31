@@ -1,0 +1,19 @@
+{
+  "buoi": "2026-08-04_K6QkKY6Og7o",
+  "ngay": "2026-08-04",
+  "gia_btc_luc_noi": 63500,
+  "moc": [
+    {"gia": 62468, "gia_tren": null, "vai_tro": "dich", "huong": "GIAM", "khung": "H4", "can_cu": ["Fibo mở rộng TP1 (mức 1) của sóng giảm H4 (đã khớp), biên dao động 150-200 giá"], "moc_gio": "00:14:31", "chac": true, "trich": "nó đã về khớp đúng TP1 tức là 62.468. Về đúng vùng này, biên độ dao động size số khoảng 150 đến 200 giá."},
+    {"gia": 62000, "gia_tren": null, "vai_tro": "ho_tro", "huong": "GIAM", "khung": "H4", "can_cu": ["Fibo 0.5 thoái lui, đo cả khúc từ đáy ~57.700 (phụ đề 57007) lên đỉnh ~66.000", "hợp lưu Fibo mở rộng 1", "hỗ trợ cực kỳ cứng, trụ được"], "moc_gio": "00:15:36", "chac": true, "trich": "Vùng 6200 này bởi vì đây cũng là vùng Fibo 0.5 ở trên Fibo thoái lui. Chúng ta đo từ vùng 57007 này lên đến vùng 66.00"},
+    {"gia": 60500, "gia_tren": null, "vai_tro": "dich", "huong": "GIAM", "khung": "H4", "can_cu": ["Fibo mở rộng 1.618 của sóng giảm H4"], "moc_gio": "00:16:10", "chac": true, "trich": "Fibo mở rộng cũng là 1.618... target của mình đang nhắm đến là 60.000 năm (=60.500)."},
+    {"gia": 57000, "gia_tren": null, "vai_tro": "dich", "huong": "GIAM", "khung": "H4", "can_cu": ["Fibo mở rộng 2.618"], "moc_gio": "00:19:51", "chac": true, "trich": "Ví dụ 2.618 là 57.000, 3.618 là 53.000."},
+    {"gia": 53000, "gia_tren": null, "vai_tro": "dich", "huong": "GIAM", "khung": "H4", "can_cu": ["Fibo mở rộng 3.618"], "moc_gio": "00:19:51", "chac": true, "trich": "2.618 là 57.000, 3.618 là 53.000. Không có xác suất loại trừ nào là nó không về được."},
+    {"gia": 64000, "gia_tren": 64700, "vai_tro": "entry", "huong": "GIAM", "khung": "H4", "can_cu": ["trendline H4 (chờ đến trendline)", "Fibo 0.5 nhịp hồi / cản", "cụm thanh lý"], "moc_gio": "00:16:41", "chac": false, "trich": "nhịp này nó sẽ test đâu đó khoảng 64.000... từ vùng 64 cho đến khoảng 64.00 7 nó sẽ test lên quanh trong vùng này. Nhưng đó là biên độ cao nhất."},
+    {"gia": 64500, "gia_tren": null, "vai_tro": "dich", "huong": "TANG", "khung": "H1", "can_cu": ["cụm thanh lý / liquid", "Hyblock nhóm đỏ phe short ~60k BTC"], "moc_gio": "00:24:46", "chac": false, "trich": "Có một vùng 64.000 năm (=64.500). Vừa khớp với liquid bên này thì có lẽ là nó sẽ có những pha quét lên tận 64.000 năm"},
+    {"gia": 65000, "gia_tren": null, "vai_tro": "vo_hieu", "huong": "GIAM", "khung": "H1", "can_cu": ["trendline giảm phía trên (H1 đóng vượt, H4 đóng vượt thì cấu trúc H4 đảo, phá kênh giá)"], "moc_gio": "00:19:21", "chac": false, "trich": "chúng ta sẽ dừng view đánh xuống tại vùng 65.00. SL khi H1 đóng quá 65.00."},
+    {"gia": 70000, "gia_tren": null, "vai_tro": "dich", "huong": "TANG", "khung": "H4", "can_cu": ["mô hình cờ nếu break trendline và 65.000"], "moc_gio": "00:19:21", "chac": false, "trich": "nó break thì nó sẽ chạy theo mô hình cờ và tiếp tục câu chuyện kéo lên 70."},
+    {"gia": 63000, "gia_tren": null, "vai_tro": "ho_tro", "huong": "GIAM", "khung": "H1", "can_cu": ["đáy gần nhất", "thủng thì về 62.000 mấy"], "moc_gio": "00:21:25", "chac": true, "trich": "vùng 63.000 này mà nó thủng một phát là nó về đến 62000 mấy này."},
+    {"gia": 63800, "gia_tren": null, "vai_tro": "nhac_lai", "huong": "GIAM", "khung": null, "can_cu": ["Fibo 0.618 (lệnh short hôm qua, giữ đến Fibo mở rộng)"], "moc_gio": "00:11:50", "chac": false, "trich": "Hôm qua ăn short từ 638 và 632 ngon... test tự tin vào câu chuyện về Fibo 618 với Fibo 1.618 ở Fibo mở rộng"},
+    {"gia": 40000, "gia_tren": null, "vai_tro": "dich", "huong": "GIAM", "khung": "W1", "can_cu": [], "moc_gio": "00:23:40", "chac": false, "trich": "View về 40 thì mình vẫn còn giữ."}
+  ]
+}

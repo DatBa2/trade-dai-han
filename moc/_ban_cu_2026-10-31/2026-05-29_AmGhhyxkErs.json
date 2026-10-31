@@ -1,0 +1,230 @@
+{
+  "buoi": "2026-05-29_AmGhhyxkErs",
+  "ngay": "2026-05-29",
+  "gia_btc_luc_noi": 73000,
+  "moc": [
+    {
+      "gia": 74000,
+      "gia_tren": 75000,
+      "vai_tro": "khang_cu",
+      "huong": "GIAM",
+      "khung": "M5",
+      "can_cu": [
+        "Fibo 0.5 (không nói kéo từ đâu)",
+        "nhịp hồi trong xu hướng giảm"
+      ],
+      "moc_gio": "00:11:04",
+      "chac": true,
+      "trich": "Vừa mới gãy chạm Fibo 0.5 cái là nó bật lên... Lên đến khoảng 75.000. 74 đến 75.000 thì cũng bình thường"
+    },
+    {
+      "gia": 77000,
+      "gia_tren": 78000,
+      "vai_tro": "khang_cu",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [
+        "cản D1"
+      ],
+      "moc_gio": "00:27:33",
+      "chac": true,
+      "trich": "Còn muốn thay đổi được xu hướng thì bắt buộc sẽ phải vượt qua được cản cực kỳ khó đó là cản 77 78"
+    },
+    {
+      "gia": 78000,
+      "gia_tren": null,
+      "vai_tro": "vo_hieu",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [
+        "đóng nến ngày trên 78"
+      ],
+      "moc_gio": "00:24:17",
+      "chac": true,
+      "trich": "nó bắt buộc phải đóng nến qua vùng 78 này thì may ra mới lên được tám mấy và 90"
+    },
+    {
+      "gia": 83000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "mục tiêu giăng giai đoạn trước"
+      ],
+      "moc_gio": "00:23:45",
+      "chac": true,
+      "trich": "Vẫn còn 83, 90 và 78 nữa"
+    },
+    {
+      "gia": 90000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "mục tiêu giăng giai đoạn trước"
+      ],
+      "moc_gio": "00:23:45",
+      "chac": true,
+      "trich": "Vẫn còn 83, 90 và 78 nữa"
+    },
+    {
+      "gia": 71500,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [
+        "Fibo 0.5 thoái lui sóng D1 (không nói điểm kéo)",
+        "cụm thanh lý ~415 triệu USD long"
+      ],
+      "moc_gio": "00:25:21",
+      "chac": true,
+      "trich": "tệ lắm nó cũng phải về đến 71.500 thì mới có Fibo 0.5 thoái lui này nó hỗ trợ cho giá"
+    },
+    {
+      "gia": 71000,
+      "gia_tren": 71500,
+      "vai_tro": "ho_tro",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [
+        "Fibo 0.5 thoái lui"
+      ],
+      "moc_gio": "00:26:31",
+      "chac": true,
+      "trich": "Vùng hỗ trợ sát nhất bây giờ là 71.000 đến 71.500... vùng hỗ trợ khả thi gần nhất"
+    },
+    {
+      "gia": 68000,
+      "gia_tren": 69000,
+      "vai_tro": "ho_tro",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [
+        "Fibo 0.618 thoái lui sóng D1"
+      ],
+      "moc_gio": "00:25:57",
+      "chac": true,
+      "trich": "nếu xấu hơn thì đâu đó vùng 69 đến 68.000 là Fibo 0.618"
+    },
+    {
+      "gia": 75000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "MA200 H4",
+        "vùng test MA khớp D1",
+        "cụm thanh lý ~920 triệu USD short"
+      ],
+      "moc_gio": "00:29:12",
+      "chac": true,
+      "trich": "ít nhất cũng lên được 74 hoặc MA200 thì 75. 74 75 là vùng khá khả thi"
+    },
+    {
+      "gia": 72000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "GIAM",
+      "khung": "H1",
+      "can_cu": [
+        "đáy cũ 72.000"
+      ],
+      "moc_gio": "00:28:37",
+      "chac": true,
+      "trich": "Thủng khỏi vùng này hoặc thủng khỏi đáy 72.000 này thì coi như là tuột"
+    },
+    {
+      "gia": 74000,
+      "gia_tren": 75000,
+      "vai_tro": "khang_cu",
+      "huong": "GIAM",
+      "khung": "H1",
+      "can_cu": [
+        "gap CME nhỏ H1/M30",
+        "trùng MA H4, D1",
+        "Fibo"
+      ],
+      "moc_gio": "00:30:47",
+      "chac": true,
+      "trich": "Gap hiện tại có một gap mới 74.000 đến 75.000... vừa khéo khớp những dữ liệu lúc nãy giờ"
+    },
+    {
+      "gia": 72000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "GIAM",
+      "khung": "M30",
+      "can_cu": [
+        "cụm thanh lý / liquid"
+      ],
+      "moc_gio": "00:32:58",
+      "chac": true,
+      "trich": "chúng ta có những vùng liquid như 7200 ở dưới này và trên này là 74"
+    },
+    {
+      "gia": 74000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "GIAM",
+      "khung": "M30",
+      "can_cu": [
+        "cụm thanh lý / liquid mới tạo"
+      ],
+      "moc_gio": "00:32:58",
+      "chac": true,
+      "trich": "trên này là 74. Vùng 74 này mới được tạo ra"
+    },
+    {
+      "gia": 82000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "cụm thanh lý short ~4 tỷ USD (liquidation map 30 ngày)"
+      ],
+      "moc_gio": "00:47:33",
+      "chac": true,
+      "trich": "nếu thời điểm bây giờ giá chạy một phát lên đến 82.000 thì sẽ có luôn 4 tỷ đô short bị thanh lý"
+    },
+    {
+      "gia": 60000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [
+        "đáy cũ 59-60K"
+      ],
+      "moc_gio": "00:45:50",
+      "chac": true,
+      "trich": "Cao lắm test đáy 60... Cuối cùng nó về đến 59, 60.000"
+    },
+    {
+      "gia": 40000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [],
+      "moc_gio": "00:45:50",
+      "chac": false,
+      "trich": "Còn bây giờ từ 70.000 chắc cũng mơ sơ sơ thì nó về 40"
+    },
+    {
+      "gia": 71000,
+      "gia_tren": 72000,
+      "vai_tro": "tp",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": "01:11:49",
+      "chac": true,
+      "trich": "Mình đang chờ về 72 71 gì đó, chốt con bot một phát"
+    }
+  ]
+}

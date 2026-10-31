@@ -1,0 +1,69 @@
+{
+  "buoi": "2026-07-27_YMlDceykaTw",
+  "ngay": "2026-07-27",
+  "gio_vn": "10:00",
+  "gia_btc_luc_noi": null,
+  "nhan_dinh": [
+    {
+      "khung": "H4",
+      "huong": "TANG",
+      "do_chac": "cao",
+      "dich": [70000, 72000],
+      "han": "đến khi đạt target 70-72; FED 29/7 là mốc",
+      "han_gio": 72,
+      "vo_hieu_khi": "chưa thấy dấu hiệu short; H4 đóng trên MA xanh ~67.000 thì thoát hết lệnh short/bán",
+      "kich_ban_phu": "có thể test về vùng 64.000-64.800 (Fibo 0.618, trendline, Fibo mở rộng) rồi mới lên, hoặc đi lên luôn không về; sâu hơn là liquidation 63.800",
+      "ly_do": ["66.000 bị bán 5 tuần mà giá không sập nên kháng cự yếu dần", "đáy liên tục nâng cao, lực mua đỡ giá", "bên trên 66 là vùng trống thanh khoản, qua 66 một phát có thể 71", "kênh giá tăng, trendline break", "Hyblock nghiêng team short nên giá lên để kill"],
+      "trich": "Giá nó đi như vậy thì xác suất để nó hồi lên 70 72 này cực kỳ cao. Rõ ràng là như vậy, không thể chối được. Cho nên các bạn đừng short đoạn này.",
+      "doi_y": null,
+      "duong_di": [
+        {"huong": "GIAM", "dich": [64000, 64800]},
+        {"huong": "TANG", "dich": [70000, 72000]}
+      ]
+    },
+    {
+      "khung": "D1",
+      "huong": "TANG",
+      "do_chac": "cao",
+      "dich": [70000, 72000],
+      "han": "vài ngày",
+      "han_gio": 72,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": "lên Fibo 0.5 ~70 + MA200 D1 test là bình thường, chưa giải quyết gì",
+      "ly_do": ["Fibo 0.5 ở 70", "tệ lắm cũng quét 70, kể cả râu 72"],
+      "trich": "Mình nghĩ tệ lắm cũng phải quét 70, Fibo 0.5.",
+      "doi_y": null,
+      "duong_di": null
+    },
+    {
+      "khung": "W1",
+      "huong": "GIAM",
+      "do_chac": "cao",
+      "dich": [40000, 50000],
+      "han": "chu kỳ downtrend",
+      "han_gio": null,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": "tháng 7 sẽ đóng nến xanh nhưng chỉ là nhịp hồi; kịch bản bullish giống 2021-2022 được đánh giá thấp",
+      "ly_do": ["bốn nến tuần xanh nhưng yếu từ đáy 58.000", "xu hướng chính vẫn downtrend, đáy liên tục từ H4 đến tháng", "nhịp hồi khung tuần rất khó chơi"],
+      "trich": "Xu hướng chính của chúng ta vẫn là downtrend. Điều này chưa thay đổi nhiều.",
+      "doi_y": null,
+      "duong_di": null
+    }
+  ],
+  "vung_gia": {"khang_cu": [66000, 67000], "ho_tro": [63800, 64800]},
+  "lenh": [
+    {"chieu": "LONG", "loai": "limit chờ", "vao": [64000, 64800], "tp": null, "sl": null,
+     "trang_thai": "de_xuat_moi", "trich": "Mình đang chờ vùng 64.00 cho đến 64.006 như view sáng ngày hôm nay."}
+  ],
+  "nhin_lai_truoc": "Thứ sáu: nến về tới 63.000-63.300 vẫn giữ hai đáy; mình không long hai đáy vì ngược xu hướng và chọn phương án an toàn. Sáng nay vẽ trendline, đã đúng hướng break.",
+  "cong_cu": ["Fibo 0.5/0.618/mở rộng", "trendline H1/H4", "kênh giá tăng", "MA200 D1", "MA xanh H4 ~67.000", "Hyblock", "Liquidation 66.000 / 63.800", "DOM", "USDT.D", "Fear & Greed 30", "Investing dự báo FED"],
+  "tin_tuc": [{"tin": "FED họp lãi suất đêm 29/7, 1:00 sáng 30/7", "danh_gia": "Investing: 61% giữ nguyên, 38% tăng 0,25; giữ nguyên thì thị trường tăng ~2 ngày (miễn trước tin không tăng quá mạnh); tăng lãi suất thì market sập"}],
+  "thoi_quen": ["phân tích khung lớn xong thì không bị khung nhỏ làm quên view", "chờ vùng hội tụ nhiều yếu tố rồi mới vào, chờ được hay không là mấu chốt", "không short khi chưa có dấu hiệu, kể cả đã thấy hai đỉnh nhỏ", "livestream 1h sáng thứ tư để cập nhật FED"],
+  "cau_cua_mieng": ["Phân tích là một chuyện, còn vào lệnh là một chuyện khác.", "Những ông đó sẽ tắt tiếng khoảng sau một đêm."],
+  "altcoin": [
+    {"coin": "ETH", "huong": "TANG", "ghi": "long 1865-1890 gồng thoải mái, TP1 1988, TP2 2050+"},
+    {"coin": "SOL", "huong": "TANG", "ghi": "giữ xu hướng BTC, lên được 90, chờ breakout mô hình cờ"},
+    {"coin": "altcoin chung", "huong": "TANG", "ghi": "DOM tăng; L2 như STRK, OP rủi ro chết nên chỉ mua rất nhỏ; vàng đẹp không sell, chờ fake out; dầu không short, chờ về Fibo 0.618"}
+  ],
+  "ghi_chu": "gio_vn ước lượng; không nêu giá BTC. '64.008 đến 64.006' hiểu 64.800 đến 64.600; cuối buổi 'chờ 648 64' nên ghi 64.000-64.800."
+}

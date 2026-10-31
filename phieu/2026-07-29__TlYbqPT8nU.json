@@ -1,0 +1,71 @@
+{
+  "buoi": "2026-07-29__TlYbqPT8nU",
+  "ngay": "2026-07-29",
+  "gio_vn": "10:00",
+  "gia_btc_luc_noi": 64000,
+  "nhan_dinh": [
+    {
+      "khung": "H4",
+      "huong": "GIAM",
+      "do_chac": "vua",
+      "dich": [60000, 62000],
+      "han": "sau tin Fed/phát biểu 1:30, kế hoạch ngày mai",
+      "han_gio": 24,
+      "vo_hieu_khi": "H1 đóng trên đỉnh cũ 64.100-64.700 (phá lên được thì không short nữa)",
+      "kich_ban_phu": "lên test lại râu/quét trendline đến 65.000-65.400 rồi mới xuống; H1 đóng trên 64.700 thì ngày mai có thể xanh, muốn lên thì phải về lại vùng 62.000 mới ổn",
+      "ly_do": [
+        "cụm ba nến H4 (xanh, doji, lưỡng lự, đỏ) là cụm cực xấu, mô hình H4 rất xấu",
+        "nhịp tăng sau tin yếu, volume và nến không có lực, lực counter trend",
+        "tin giữ nguyên lãi suất không phải tin tốt, chỉ là tâm lý hết sợ, hưng phấn ngắn hạn",
+        "Fibo mở rộng target hợp lý phải xuống tận 2000 năm [?] (nói về ETH) và vẫn muốn về 60.000 nhưng phải qua 62.000 trước"
+      ],
+      "trich": "Nếu bắt buộc phải chọn một trong hai phe thì mình sẽ theo phe giảm. Mô hình của H4 rất xấu.",
+      "doi_y": null,
+      "duong_di": [
+        {"huong": "TANG", "dich": [65000, 65400]},
+        {"huong": "GIAM", "dich": 62000}
+      ]
+    },
+    {
+      "khung": "H1",
+      "huong": "PHAN_VAN",
+      "do_chac": "vua",
+      "dich": [64000, 64700],
+      "han": "trong đêm",
+      "han_gio": 24,
+      "vo_hieu_khi": "H1 đóng nến trên 64.700 thì thôi không short",
+      "kich_ban_phu": "H1 đóng đỏ dưới 64.000 thì bắt đầu short được; không short đuổi theo râu, phải limit gần trên đỉnh râu",
+      "ly_do": [
+        "H1 rút chân không qua được đỉnh cũ, lực không mạnh",
+        "chưa có confirm để short đuổi, vùng giá chưa phải vùng cao để đảo chiều"
+      ],
+      "trich": "Nếu nó phá lên được thì thôi không có short nữa. Còn nếu mà nó không phá được mà đóng một cây nến đỏ giảm lại dưới 64 thì mình nghĩ là bắt đầu có short được.",
+      "doi_y": null,
+      "duong_di": null
+    }
+  ],
+  "vung_gia": {"khang_cu": [64700, 65400], "ho_tro": [62000, 62000]},
+  "lenh": [
+    {"chieu": "SHORT", "loai": "limit", "vao": [65000, 65400], "tp": null, "sl": null,
+     "trang_thai": "de_xuat_moi",
+     "trich": "Short ở cả đoạn này nếu mà anh em muốn qua đêm thì mình nghĩ là chắc sẽ phải bắt ở trên 65 đến 65.4."}
+  ],
+  "nhin_lai_truoc": "Lệnh short bắt ở Fibo 0.618 vùng 64.550 chiều tối đã TP, cho anh em ăn được; không cầm lệnh khi đánh tin.",
+  "cong_cu": ["H4", "H1", "Fibo 0.618", "trendline", "heatmap Hyblock", "xác suất lãi suất investing"],
+  "tin_tuc": [
+    {"tin": "Fed họp 1h sáng giữ nguyên lãi suất 3.75 (dự báo 68% giữ, 32% tăng); 1:30 chủ tịch Fed phát biểu", "danh_gia": "không phải tin tốt, chỉ là hết sợ nên giá tăng ngắn hạn; quan trọng là 1:30; ngày mai có GDP, PCE mang tính thủ tục"}
+  ],
+  "thoi_quen": [
+    "đánh tin với tâm thế giải trí, không cầm lệnh qua tin",
+    "không short đuổi theo râu, limit gần trên đỉnh râu",
+    "SL khi nến H1 đóng hai cây qua Fibo 0.618",
+    "chờ sau phát biểu Fed mới có plan, sáng hôm sau cập nhật"
+  ],
+  "cau_cua_mieng": [
+    "Chơi tin thì anh em xác định đánh với tâm thế rất vui, rất thoải mái, cứ đánh theo kiểu giải trí thôi."
+  ],
+  "altcoin": [
+    {"coin": "ETH", "huong": null, "ghi": "chỉ nhắc muốn long thì chờ về vùng rất thấp (con số mơ hồ)"}
+  ],
+  "ghi_chu": "Giờ live đêm 0:34 -> sau 1:30; gio_vn mặc định 10:00 vì tên file không có giờ. Phần vàng/bạc/dầu bỏ qua."
+}

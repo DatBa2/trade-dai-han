@@ -1,0 +1,154 @@
+{
+  "buoi": "2026-08-14_1004_xK38gQ-G6uA",
+  "ngay": "2026-08-14",
+  "gio_vn": "10:04",
+  "gia_btc_luc_noi": 63100,
+  "nhan_dinh": [
+    {
+      "khung": "H4",
+      "huong": "GIAM",
+      "do_chac": "vua",
+      "dich": null,
+      "han": "gãy thực sự đầu tuần sau (về vùng 5x)",
+      "han_gio": 168,
+      "doi_y": null,
+      "duong_di": [
+        {
+          "huong": "GIAM",
+          "dich": [
+            62000,
+            63000
+          ]
+        },
+        {
+          "huong": "TANG",
+          "dich": [
+            64000,
+            64400
+          ]
+        },
+        {
+          "huong": "GIAM",
+          "dich": null
+        }
+      ],
+      "vo_hieu_khi": null,
+      "kich_ban_phu": "giữ short ở vùng hiện tại đòi ăn về 60/5x ngay thì khó; nếu thủng confirm dưới 62.500 [?] thì đuổi short; pump có thể kéo lên 64-65 rồi cuối tuần sideway, chủ nhật còn kéo thêm vài pha tăng",
+      "ly_do": [
+        "xu hướng H4 rõ ràng là giảm",
+        "râu nến H4 vùng 62.000 gần như chắc chắn về test lại 62.000-63.000 trong ngày",
+        "trước khi gãy thật sẽ có pump kill short (liquid trên 64.000)",
+        "kịch bản lên 66/68/70 càng ngày càng xa vời, 5x rõ lồ lộ",
+        "BTC.D hai đáy xấu, USDT.D dễ phá lên 9-9.5%"
+      ],
+      "trich": "Xu hướng hiện tại của thị trường rõ ràng là xu hướng giảm... Trước mắt khả năng sẽ có một pha lên để kill trước khi nó gãy thực sự vào đầu tuần sau."
+    },
+    {
+      "khung": "H1",
+      "huong": "GIAM",
+      "do_chac": "vua",
+      "dich": [
+        62000,
+        63100
+      ],
+      "han": "từ giờ đến trưa/chiều nay",
+      "han_gio": 24,
+      "doi_y": null,
+      "duong_di": null,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": "về đó rồi rút lên rất nhanh (pump kill short)",
+      "ly_do": [
+        "H1 và M30 liên tục tạo xu hướng giảm",
+        "giá phản ứng ở Fibo 0.5, từ giờ đến trưa lòng vòng quanh 63.000"
+      ],
+      "trich": "Với các lệnh short, anh em nên chốt từ 63.100 ... cho đến vùng 62.000, đây là zone nên chốt lãi."
+    },
+    {
+      "khung": "D1",
+      "huong": "PHAN_VAN",
+      "do_chac": "thap",
+      "dich": null,
+      "han": null,
+      "han_gio": null,
+      "doi_y": null,
+      "duong_di": null,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": null,
+      "ly_do": [
+        "nến hôm qua rút râu hai đầu, lưỡng lự rõ; phe bán muốn đi xuống nhưng phe mua vẫn nỗ lực giữ giá"
+      ],
+      "trich": "Chúng ta thấy sự lưỡng lự rất rõ ở đây, và mình nghĩ đó là lưỡng lự dành cho phe bán."
+    }
+  ],
+  "vung_gia": {
+    "khang_cu": [
+      64000,
+      64400
+    ],
+    "ho_tro": [
+      62000,
+      63000
+    ]
+  },
+  "lenh": [
+    {
+      "chieu": "SHORT",
+      "loai": "market",
+      "vao": null,
+      "tp": [
+        63100,
+        62000
+      ],
+      "sl": null,
+      "trang_thai": "dang_giu",
+      "trich": "Nếu là mình thì mình sẽ chốt lãi toàn bộ các lệnh short Bitcoin ở vùng này. ... Đừng bắt short từ vùng hiện tại cho đến vùng 63.700 hoặc 63.800 [?]."
+    }
+  ],
+  "nhin_lai_truoc": "Hôm qua scalp altcoin WLD, HIP cho anh em long ăn nhẹ; Bitcoin thuận xu hướng vẫn short, đang full short.",
+  "cong_cu": [
+    "H4",
+    "H1",
+    "M30",
+    "M5",
+    "Fibo 0.5",
+    "liquidation/thanh khoản",
+    "BTC.D",
+    "USDT.D",
+    "web bò-gấu"
+  ],
+  "tin_tuc": [
+    {
+      "tin": "PPI Mỹ ra 0.2 vs dự kiến 0.3; PPI lõi 0.0 [?] vs 0.2",
+      "danh_gia": "tạm ổn, không quá xấu nhưng chưa gọi là tin tốt; tuần sau không có tin"
+    }
+  ],
+  "thoi_quen": [
+    "short phải biết chốt lãi trước pha pump kill",
+    "không đánh short FOMO ở vùng nhập nhằng",
+    "đánh ngược xu hướng thì volume nhỏ, sai cắt ngay",
+    "chờ thủng confirm mới đuổi short",
+    "chừa vốn mua panic, DCA"
+  ],
+  "cau_cua_mieng": [
+    "Thôi quay về với Bitcoin đi, bên chứng khoán mệt lắm.",
+    "Yên tâm đi, sẽ có panic, cứ tự tin vào."
+  ],
+  "altcoin": [
+    {
+      "coin": "BTC.D/USDT.D",
+      "huong": "GIAM",
+      "ghi": "Dom hai đáy rất xấu, USDT.D dễ phá lên 9-9.5%"
+    },
+    {
+      "coin": "WLD",
+      "huong": "TANG",
+      "ghi": "vẫn khỏe"
+    },
+    {
+      "coin": "ETH",
+      "huong": "PHAN_VAN",
+      "ghi": "không có sóng thì không đánh"
+    }
+  ],
+  "ghi_chu": "Giá lúc nói suy từ nến đóng M30 63.096. Vàng: chốt sell 4350-4360, hỗ trợ ~4300 [?]."
+}

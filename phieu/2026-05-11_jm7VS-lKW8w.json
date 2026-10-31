@@ -1,0 +1,100 @@
+{
+  "buoi": "2026-05-11_jm7VS-lKW8w",
+  "ngay": "2026-05-11",
+  "gio_vn": "10:00",
+  "gia_btc_luc_noi": 80500,
+  "nhan_dinh": [
+    {
+      "khung": "H4",
+      "huong": "GIAM",
+      "do_chac": "vua",
+      "dich": [77000, 80000],
+      "han": "từ giờ đến chiều là điều chỉnh",
+      "han_gio": 24,
+      "vo_hieu_khi": "H4 đóng trên 82.000 / hồi lên 81 mà không gãy xuống thì không short",
+      "kich_ban_phu": "tệ cũng về 80.000, xấu nữa về 78.300-77.000 (MA200 H4 ở 77, lấp gap 78.000); hồi lên 81.000 (MA34 H1) thì canh short volume nhỏ, SL 81.600-81.700; râu quét 83-84 xong gap rồi có thể đảo chiều",
+      "ly_do": [
+        "cây H4 82.000 sáng nay là fake out, quét short đêm chủ nhật rồi trả về cây bán",
+        "vùng 82 hợp lưu MA200 D1, Fibo 0.618 tuần, gap 83, kháng cự price action",
+        "gap nhỏ 78.000 và gap 80 chưa lấp; Sell in May"
+      ],
+      "trich": "Tệ cũng phải về vùng 80, mình nghĩ vùng 80 sẽ là vùng quan sát trước mắt. Quan sát đã chứ chưa vào được đâu. Còn nếu xấu nữa thì nó về đến tận 78 hoặc 77.000.",
+      "doi_y": null,
+      "duong_di": null
+    },
+    {
+      "khung": "H1",
+      "huong": "PHAN_VAN",
+      "do_chac": "vua",
+      "dich": [80000, 81000],
+      "han": "trong ngày",
+      "han_gio": 24,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": "cần lên nữa rồi gãy xuống tạo đỉnh thấp dần thì mới confirm cấu trúc giảm để short",
+      "ly_do": ["cấu trúc H1 vẫn giữ xu hướng tăng, chưa gãy", "long chưa được, short chưa xong, phải ngồi ngoài chờ"],
+      "trich": "Vùng này long cũng chưa được mà short cũng chưa xong, cho nên phải ngồi ngoài chờ.",
+      "doi_y": null,
+      "duong_di": null
+    },
+    {
+      "khung": "W1",
+      "huong": "PHAN_VAN",
+      "do_chac": "vua",
+      "dich": [83000, 84000],
+      "han": "một đến hai cây nến tuần quyết định xu hướng 3-5 tháng",
+      "han_gio": 168,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": "nếu nến tuần đóng đỏ (râu có thể quét 84) thì cặp nến đảo chiều ở vùng cản, điều chỉnh về Fibo thậm chí 70",
+      "ly_do": ["nến tuần xanh lực mua bình thường, vẫn trong xu hướng phục hồi", "gặp Fibo 0.618 (từ 97 xuống 59.8) và MA tuần", "đã vượt Fibo 0.5 nên chưa thể bảo giảm"],
+      "trich": "Vùng này là một vùng hết sức thận trọng. Cực kỳ nguy hiểm. Và kết quả chúng ta sẽ biết được xu hướng sau cây nến tuần này.",
+      "doi_y": null,
+      "duong_di": null
+    },
+    {
+      "khung": "chung",
+      "huong": "GIAM",
+      "do_chac": "thap",
+      "dich": null,
+      "han": "chưa biết; nhịp hồi lớn kết thúc thực sự khi dưới 70.000",
+      "han_gio": null,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": "tối đa nhịp hồi có thể là 92",
+      "ly_do": ["thời gian là trở ngại lớn nhất của nhịp hồi, đã giữa tháng 5", "big short khi xử lý xong tất cả target của nhịp long", "CPI tối mai dự kiến lên 3.7 là xấu"],
+      "trich": "Điều kiện để big short là nó xử lý xong hết tất cả target của nhịp long.",
+      "doi_y": null,
+      "duong_di": null
+    }
+  ],
+  "vung_gia": {"khang_cu": [81000, 83000], "ho_tro": [77000, 80000]},
+  "lenh": [
+    {"chieu": "SHORT", "loai": "limit/canh khi hồi lên", "vao": [81000, 81000], "tp": [80000], "sl": 81700,
+     "trang_thai": "de_xuat_moi",
+     "trich": "Mình đoán canh short được ở quanh vùng 81.000, SL đâu đó trên 81.600, 81.700 gì đó, chắc đẹp."},
+    {"chieu": "LONG", "loai": "chỉ canh, chưa vào", "vao": [77000, 78000], "tp": null, "sl": null,
+     "trang_thai": "de_xuat_moi",
+     "trich": "Nếu long thì mình đang canh ở vùng 77 đến 78."}
+  ],
+  "nhin_lai_truoc": "Đã chốt spot ở 82 (MA200 D1); cảnh báo đêm qua 'cẩn thận short' đúng vì thị trường quét lên 82 giết short rồi trả về; đang trống lệnh.",
+  "cong_cu": ["MA200 D1/H4", "MA34 H1", "Fibo 0.618 tuần", "gap CME", "hai block", "Fear & Greed", "USDT.D", "BTC.D", "cấu trúc đỉnh đáy H1"],
+  "tin_tuc": [{"tin": "CPI 19:30 tối mai, dự báo 3.7; chủ tịch FED mới điều trần", "danh_gia": "cực kỳ quan trọng, từ 19:00 đến 23:00 đừng trade"}],
+  "thoi_quen": [
+    "đêm chủ nhật và sáng thứ hai là thời điểm trap, đóng hết lệnh reset",
+    "không long đỉnh ở vùng cản, không short ở vùng hỗ trợ",
+    "trade có độ nghỉ, trống lệnh để reset tài khoản",
+    "chỉ cập nhật lúc mở và lúc đóng vị thế, không cập nhật giữa chừng",
+    "short volume nhỏ khi thị trường quét hai đầu"
+  ],
+  "cau_cua_mieng": [
+    "Gục ngã trước cửa thiên đường.",
+    "Vào đây là ba phần phân tích mà bảy phần là FOMO.",
+    "Mình là con cá lòng tong trong thị trường này."
+  ],
+  "altcoin": [
+    {"coin": "ETH", "huong": "PHAN_VAN", "ghi": "sideway, phải chờ BTC; nếu BTC về 76-77 thì ETH về 2000-2001; tệ lắm cũng lên MA200"},
+    {"coin": "BTC.D", "huong": "GIAM", "ghi": "có thể kéo về MA200/MA34 D1 rồi bật lại; USDT.D hai đáy, nếu lên thì toàn thị trường đi xuống"},
+    {"coin": "SUI", "huong": "GIAM", "ghi": "đã tăng 40-45% từ lúc view, tới MA200, hết ngon"},
+    {"coin": "BNB", "huong": "TANG", "ghi": "đẹp nếu BTC về 78, vào 626 chốt 720"},
+    {"coin": "ZEC", "huong": null, "ghi": "600 mấy, bỏ khỏi list, đã qua đoạn ngon ăn"}
+  ],
+  "ghi_chu": "Tên file không có giờ, gio_vn đặt 10:00. Giá 80.500 ước từ 'đang 80k9', 'tệ lắm cũng 80k0'. '82.000 tư' = 82.400. '78.0003' hiểu là gap CME ~78.300. 'H4 MA200 76' rồi 77: nói 'MA200 H4 77.000'. 'đồng nhất 1900' ở phần ATH lược bỏ."
+}

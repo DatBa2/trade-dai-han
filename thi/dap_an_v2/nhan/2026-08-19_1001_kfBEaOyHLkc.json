@@ -1,0 +1,49 @@
+{
+  "buoi": "2026-08-19_1001_kfBEaOyHLkc",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/lam_sach/2026-08-19_1001_kfBEaOyHLkc.md",
+  "gia_btc_luc_noi": 64800,
+  "dau_buoi": {
+    "thien_huong_h4": "GIAM",
+    "gio": null,
+    "trich": "Hiện tại là chúng ta sẽ có một cái nhịp điều chỉnh ngắn hạn ở cái vùng này ha. Để xem được cái thằng này nó có điều chỉnh sâu hay không thì còn phải xem cấu trúc ở trong khung nhỏ xem thử thế nào đã."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "GIAM",
+    "do_chac": "vua",
+    "gio": null,
+    "trich": "Ở vùng quanh 65.000 này chúng ta thấy là nó vẫn đang nằm ở cái cản. Cho nên hiện tại ở trong ngắn hạn thì mình vẫn nghiêng về cái phe sót. Nếu mà chọn phe thì mình vẫn chọn phe sót hơn là phe long. Mặc dù cấu trúc của nó thì vẫn giữ được cái xu hướng phục hồi."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {"huong": "GIAM", "dich": 63000},
+  "duong_di": [
+    {"huong": "GIAM", "dich": 63000}
+  ],
+  "dich_chinh": 63000,
+  "han_gio": null,
+  "vo_hieu": {
+    "gia": 65000,
+    "khung": "H4",
+    "so_nen": 1,
+    "chieu": "dong_tren",
+    "cau": "Thực tế mình sẽ long khi mà H4 này nó phá được cái cản ở đây. Bởi vì phá ở đây thì chúng ta sẽ đánh từ cái nhịp khoảng trên 65.000 lên đến khoảng tầm 70.500 [?] giá"
+  },
+  "lenh": [
+    {"chieu": "SHORT", "vao": null, "tp": [63000], "sl": null, "trang_thai": "dang_giu"},
+    {"chieu": "LONG", "vao": 65000, "tp": [70500], "sl": null, "trang_thai": "de_xuat_moi"}
+  ],
+  "hanh_dong": "giu_lenh",
+  "khung_lon": {"D1": "PHAN_VAN", "W1": "GIAM"},
+  "pha_vo_gia": "Pha kéo lên 65.000 đêm qua là lên quét thanh lý (vị thế short 24 triệu đô bị thanh lý ở 65.000); vùng hiện tại đi hai đầu để lụm stop loss cả hai phe. Kịch bản 'trap' vĩ mô: cùng lắm tăng lên 73.000 rồi sập về 4x–5x.",
+  "trich_them": [
+    {"gio": null, "cau": "Confirm sóng giảm nó sẽ xác nhận khi mà nến đóng thủng cái cụm MA này, tức là đóng dưới khoảng 63.000 thì nó mới chắc chắn là cái phe bán nó nhảy vào mạnh ... Những cái vùng TP cho các lệnh sót thì mình cũng đang kỳ vọng khoảng quanh 63.000."},
+    {"gio": null, "cau": "H4 thì có thêm một cái nữa là có cái nhịp phân kỳ RSI ở cái đoạn này, anh em cần phải lưu ý."},
+    {"gio": null, "cau": "Một là ngồi ngoài chờ xác nhận, tức là chờ xác nhận phá lên trên khỏi 65.000 hoặc 65.500 [?] gì đó, chờ tín hiệu và đánh lên. Còn không thì chờ nó gãy xuống hẳn ở bên dưới rồi tiếp tục thuận xu hướng thì sẽ sót. Chứ đoạn này thì một là sót, hai là đứng nhìn thôi."},
+    {"gio": null, "cau": "Giống như trước đó mình đã nói, cái vùng này hiện tại bản chất của nó vẫn là một cái vùng đi hẹp biên dần. Chúng ta vẫn phải quan sát xem thử là nó phá cấu trúc ở hướng nào thì chúng ta theo hướng đó nhá."},
+    {"gio": null, "cau": "Sót thì mình đang để TP khoảng quanh 63."},
+    {"gio": null, "cau": "Hiện tại thì mình đang đánh giá Bitcoin xấu, cho nên mình cũng không khuyến khích đi long thị trường lắm nhá."},
+    {"gio": null, "cau": "Fibo M5 à, 30 phút này xem. 64.639 [?] ở dưới cái thằng này là hợp lý. Vùng này cũng là cái vùng thanh lý đấy. Dưới 64 này, dưới 64 có nghĩa là 63.9."},
+    {"gio": null, "cau": "Mình kỳ vọng là thị trường nó sẽ tích lũy, tái tích lũy ở cái vùng này để chuẩn bị cho một cái cú xả mạnh xuống ... Mình kỳ vọng là nó sẽ đi ngang ở cái vùng 5x trong tháng 9"}
+  ],
+  "kho": "Transcript không có mốc giờ. Người nói coi vùng 64–65k là biên hẹp, 'phá hướng nào theo hướng đó', nhưng vẫn nghiêng short, giữ short TP 63k, đánh giá BTC xấu, có phân kỳ RSI H4 → GIAM độ chắc vừa (sát thấp). Mốc vo_hieu 65.000 không chắc (có nhắc 65.500 [?]); kịch bản long chỉ khi H4 phá cản 65 → 70.5k. Giá lúc nói ước ~64.6–65k."
+}

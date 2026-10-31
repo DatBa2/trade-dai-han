@@ -1,0 +1,39 @@
+{
+  "buoi": "2026-08-07_N-7XihrObp8",
+  "gia_btc_luc_noi": 64000,
+  "dau_buoi": {
+    "huong_h4": "TANG",
+    "trich": "[00:25:09] H4 này cross qua khá ổn rồi. Bây giờ đây sẽ trở thành vùng hỗ trợ ... Nếu nó quét về khoảng 64 này một hai phát mà vẫn trụ được thì mình nghĩ nó vẫn giữ được đà này và đi lên back test."
+  },
+  "cuoi_buoi": {
+    "huong_h4": "GIAM",
+    "trich": "[00:56:35] H4 chúng ta cũng xấu, D1 thì cũng xấu. H1 cũng xấu, H4 cũng vậy thôi. Tốt nhất là vẫn cứ giữ view. Nếu anh em muốn đánh [00:57:09] long này thì chờ ở vùng 63.00 cho đến 63.00300 dưới này."
+  },
+  "doi_y_giua_buoi": true,
+  "huong_lon": {
+    "D1": "GIAM",
+    "W1": null,
+    "chu_ky": "GIAM"
+  },
+  "hanh_dong": "vao_short",
+  "duong_di": [
+    {
+      "huong": "GIAM",
+      "dich": null,
+      "khung": "H4"
+    },
+    {
+      "huong": "TANG",
+      "dich": null,
+      "khung": "H4"
+    }
+  ],
+  "dich_chinh": null,
+  "moc_sai": {
+    "gia": null,
+    "dieu_kien": "H4 đóng đỏ xuyên xuống cả cụm MA/hỗ trợ thì hủy ý tưởng long hồi ([00:25:39]); không có mức số chính xác. SL long chờ dưới 63.000 [00:58:16], không phải SL short hiện tại."
+  },
+  "pha_vo_gia": null,
+  "do_chac": "thap",
+  "ghi_chu": "Đã đọc hết transcript. Giá khoảng 64.000 theo [00:22:59]/[00:56:35], không có tick rõ. Đầu phần phân tích H4 còn nghiêng giữ hỗ trợ và hồi, dù H1/M5 yếu và đang short test ([00:24:05]); cuối gọi cả H4/D1 xấu. Ghi đổi sắc thái tăng sang giảm, nhưng người nói vẫn nói giữ view: có thể chỉ đổi cách mô tả/chặng chứ không đảo kế hoạch. Chờ quét 63.000–63.300/63.500 rồi xem nến để long; nhịp tăng sau đó chỉ là điều kiện, không có đích số trong buổi nên null. Không lấy đích 65.000 kỳ vọng của ngày hôm qua làm TP mới."
+}

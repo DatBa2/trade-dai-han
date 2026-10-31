@@ -1,0 +1,223 @@
+{
+  "buoi": "2026-04-17_PH5pABMJ01k",
+  "ngay": "2026-04-17",
+  "gia_btc_luc_noi": 75000,
+  "moc": [
+    {
+      "gia": 73000,
+      "gia_tren": 74000,
+      "vai_tro": "entry",
+      "huong": "TANG",
+      "khung": "H1",
+      "can_cu": [
+        "trendline H1 (test lại)"
+      ],
+      "moc_gio": "00:03:02",
+      "chac": true,
+      "trich": "chờ dưới 74.000, 73.000 xem thử nó có test trendline này ở H1 hay không"
+    },
+    {
+      "gia": 78000,
+      "gia_tren": null,
+      "vai_tro": "tp",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": "00:03:37",
+      "chac": true,
+      "trich": "Mình đang nhắm đến TP 78 ở đợt này. Nhịp này mà TP 76"
+    },
+    {
+      "gia": 76000,
+      "gia_tren": null,
+      "vai_tro": "tp",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": "00:03:37",
+      "chac": true,
+      "trich": "TP 76 có vẻ cũng đơn giản"
+    },
+    {
+      "gia": 78700,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "Fibo 0.5 của nhịp từ đỉnh cũ về đáy (đường cam kẻ từ lâu)"
+      ],
+      "moc_gio": "00:15:02",
+      "chac": true,
+      "trich": "hai đường màu cam... Một đường là 78.700 là Fibo 0.5 của nhịp từ đây về đây"
+    },
+    {
+      "gia": 83000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "đường cam kẻ từ lâu; Fibo mở rộng 83"
+      ],
+      "moc_gio": "00:15:33",
+      "chac": true,
+      "trich": "Đây là hai vùng cản 78 và 83. Fibo mở rộng của nhịp này là 83 và 90"
+    },
+    {
+      "gia": 90000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "Fibo mở rộng của nhịp này"
+      ],
+      "moc_gio": "00:15:33",
+      "chac": true,
+      "trich": "Fibo mở rộng của nhịp này thì nó là 83 và 90"
+    },
+    {
+      "gia": 78000,
+      "gia_tren": null,
+      "vai_tro": "tp",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "Fibo 0.5 (78.7); xác suất >60%"
+      ],
+      "moc_gio": "00:16:06",
+      "chac": true,
+      "trich": "vùng 78 này cá nhân mình đánh giá khá cao trên 60%"
+    },
+    {
+      "gia": 80000,
+      "gia_tren": null,
+      "vai_tro": "tp",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "gap CME 80"
+      ],
+      "moc_gio": "00:16:06",
+      "chac": true,
+      "trich": "Một là 78, hai là 80, ba là 83 và thứ tư cao nhất là 90"
+    },
+    {
+      "gia": 73000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "kịch bản gãy từ 80 về 73"
+      ],
+      "moc_gio": "00:17:10",
+      "chac": true,
+      "trich": "Từ 80 về gãy 73 là cũng 10%. Rồi sau đó là đi lên tiếp 90"
+    },
+    {
+      "gia": 72000,
+      "gia_tren": 73000,
+      "vai_tro": "entry",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "back test cản H4/D1"
+      ],
+      "moc_gio": "00:20:26",
+      "chac": true,
+      "trich": "chờ gãy về dưới này. Ví dụ như ở đây là gãy về khoảng 72.000 73.000"
+    },
+    {
+      "gia": 73000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "H1",
+      "can_cu": [
+        "đáy hôm qua; phân kỳ RSI H1 chỉ đạp được về đây"
+      ],
+      "moc_gio": "00:20:59",
+      "chac": true,
+      "trich": "lực phân kỳ chỉ đạp được giá về đến vùng hôm qua là 73.000"
+    },
+    {
+      "gia": 74000,
+      "gia_tren": 75000,
+      "vai_tro": "khang_cu",
+      "huong": "TANG",
+      "khung": "H1",
+      "can_cu": [
+        "OI short mở nhiều 74-75"
+      ],
+      "moc_gio": "00:23:08",
+      "chac": true,
+      "trich": "số lượng lệnh short được mở ra khá nhiều ở 75 74. Cho nên giá đang bị khựng"
+    },
+    {
+      "gia": 76000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "H1",
+      "can_cu": [
+        "quét OI short"
+      ],
+      "moc_gio": "00:23:38",
+      "chac": true,
+      "trich": "nếu quét qua được thì nó sẽ quét lên 76 sớm thôi"
+    },
+    {
+      "gia": 73000,
+      "gia_tren": 74000,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "H1",
+      "can_cu": [
+        "X-map / cụm thanh lý",
+        "Fibo (không rõ mức)"
+      ],
+      "moc_gio": "00:23:38",
+      "chac": true,
+      "trich": "quét về lại 74 này, 73.000 này. Rồi lên lại 75.000"
+    },
+    {
+      "gia": 80000,
+      "gia_tren": 90000,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "gap CME 80, 90"
+      ],
+      "moc_gio": "00:22:03",
+      "chac": true,
+      "trich": "gap trên là vẫn là 80 90"
+    },
+    {
+      "gia": 73000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "nến H4 xấu → về 73"
+      ],
+      "moc_gio": "00:54:25",
+      "chac": true,
+      "trich": "H4 của Bitcoin là một cây nến xấu thì khả năng cửa về 7300 là cao"
+    },
+    {
+      "gia": 68000,
+      "gia_tren": null,
+      "vai_tro": "khac",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [],
+      "moc_gio": "00:18:16",
+      "chac": false,
+      "trich": "còn nếu nó gãy về 68 thì mình nghĩ là khó"
+    }
+  ]
+}

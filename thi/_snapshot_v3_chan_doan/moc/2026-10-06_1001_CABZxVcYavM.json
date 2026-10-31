@@ -1,0 +1,272 @@
+{
+  "buoi": "2026-10-06_1001_CABZxVcYavM",
+  "ngay": "2026-10-06",
+  "gia_btc_luc_noi": 86000,
+  "moc": [
+    {
+      "gia": 87000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "đỉnh thứ sáu quét cao nhất rồi bị từ chối nhiều lần",
+        "đỉnh thấp dần",
+        "tường short 87 (liquid)"
+      ],
+      "moc_gio": null,
+      "chac": false,
+      "trich": "Thứ sáu quét cao nhất là 87.00 rồi từ chối; test lại... từ chối"
+    },
+    {
+      "gia": 87000,
+      "gia_tren": 90000,
+      "vai_tro": "khang_cu",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [
+        "vùng base sideway cũ",
+        "sau break chạy mô hình cờ khung ngày"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "vùng cản rất lớn, rất cứng ở vùng 87 đến 90"
+    },
+    {
+      "gia": 85000,
+      "gia_tren": null,
+      "vai_tro": "vo_hieu",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "trendline hỗ trợ H4",
+        "đáy cao dần",
+        "H4 đóng dưới 85 mới có tín hiệu rủi ro"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "phải đóng cửa H4 dưới 85.000 thì mới bắt đầu có tín hiệu rủi ro"
+    },
+    {
+      "gia": 83000,
+      "gia_tren": 84000,
+      "vai_tro": "ho_tro",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "vùng Fibo như đợt trước"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "về vùng khoảng 83-84 rồi vòng vèo ở trong đoạn này"
+    },
+    {
+      "gia": 81000,
+      "gia_tren": 82000,
+      "vai_tro": "ho_tro",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "thủng 82 về quanh 81, vùng xem xét entry"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "thủng được 82 thì nó về tiếp khoảng quanh 81, bắt đầu là vùng xem xét entry đẹp"
+    },
+    {
+      "gia": 81000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "rồi đi lên tiếp 90"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "một là nó về 81 và đi lên tiếp 90"
+    },
+    {
+      "gia": 90000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "sau khi hồi từ 81"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "nó về 81 và đi lên tiếp 90"
+    },
+    {
+      "gia": 60000,
+      "gia_tren": 69999,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": null,
+      "chac": false,
+      "trich": "hai là nó cắm về 6x luôn"
+    },
+    {
+      "gia": 76000,
+      "gia_tren": 77000,
+      "vai_tro": "entry",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "vùng thị trường chờ 7x",
+        "tường thanh lý dưới hút giá"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "nó về khoảng 77-76 thì vùng đó mới là vùng vào hàng rất nhiều"
+    },
+    {
+      "gia": 70000,
+      "gia_tren": 79999,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "cả thị trường chờ vùng 7x"
+      ],
+      "moc_gio": null,
+      "chac": false,
+      "trich": "toàn bộ thị trường sẽ chờ vùng 7x"
+    },
+    {
+      "gia": 87000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "H1",
+      "can_cu": [
+        "break trendline H1 flag; scalping dừng ở 87"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "khả năng nó tiếp tục test lại 87 rất cao... nên dừng ở 87 thôi"
+    },
+    {
+      "gia": 86000,
+      "gia_tren": null,
+      "vai_tro": "vo_hieu",
+      "huong": "GIAM",
+      "khung": "H1",
+      "can_cu": [
+        "break trendline H1 qua 86 thì bỏ hy vọng về dưới"
+      ],
+      "moc_gio": null,
+      "chac": false,
+      "trich": "thấy nó break qua 85.000 hoặc 86.000 thì tốt nhất bỏ hy vọng nó về dưới này"
+    },
+    {
+      "gia": 84000,
+      "gia_tren": 86000,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": "M5",
+      "can_cu": [
+        "biên độ quét M5 1-2000 giá"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "biên độ quét cực kỳ lớn: khoảng 1-2000 giá, từ 84 đến 86"
+    },
+    {
+      "gia": 85000,
+      "gia_tren": 87000,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": "H1",
+      "can_cu": [
+        "liquid hai đầu"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "nó sẽ rơi về 85, kéo lên 87 rồi lại kéo xuống"
+    },
+    {
+      "gia": 87000,
+      "gia_tren": null,
+      "vai_tro": "khac",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "tường short thanh lý 87"
+      ],
+      "moc_gio": null,
+      "chac": false,
+      "trich": "hiện có một tường short 87 nhưng vùng đó không chắc chắn"
+    },
+    {
+      "gia": 92000,
+      "gia_tren": null,
+      "vai_tro": "sl",
+      "huong": null,
+      "khung": null,
+      "can_cu": [
+        "stop loss phe short ở cản trên"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "đặt stop loss ở các vùng cản phía trên như 8700 hay 92"
+    },
+    {
+      "gia": 61000,
+      "gia_tren": null,
+      "vai_tro": "khac",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [
+        "cụm thanh lý lớn khung lớn ~1 triệu BTC [?]"
+      ],
+      "moc_gio": null,
+      "chac": false,
+      "trich": "vẫn còn vùng thanh lý khoảng 1 triệu BTC quanh 61.000"
+    },
+    {
+      "gia": 84000,
+      "gia_tren": 86000,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": null,
+      "can_cu": [
+        "tường thanh lý short 15 triệu cũ, hút giá lên"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "đợt trước có tường thanh lý short khoảng 15 triệu quanh 84-86"
+    },
+    {
+      "gia": 76000,
+      "gia_tren": 77000,
+      "vai_tro": "khac",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [
+        "tường thanh lý dưới sẽ hút nếu điều chỉnh sâu"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "ví dụ về khoảng 76-77 mà thấy nó cứ đứng mãi"
+    },
+    {
+      "gia": 85000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "MA200 H4 đã test",
+        "MA khung ngày nằm xa giá"
+      ],
+      "moc_gio": null,
+      "chac": false,
+      "trich": "MA200 ở khung H4 cũng đã test rồi"
+    }
+  ]
+}

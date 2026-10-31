@@ -1,0 +1,149 @@
+{
+ "buoi": "2026-08-04_K6QkKY6Og7o",
+ "ngay": "2026-08-04",
+ "gio_vn": "10:00",
+ "gia_btc_luc_noi": 63000,
+ "nhan_dinh": [
+  {
+   "khung": "H4",
+   "huong": "GIAM",
+   "do_chac": "vua",
+   "dich": 60500,
+   "han": null,
+   "han_gio": null,
+   "vo_hieu_khi": "nến H4 đóng trên 65.000",
+   "vo_hieu_cau_truc": {
+    "gia": 65000,
+    "khung": "H4",
+    "so_nen": 1,
+    "chieu": "dong_tren",
+    "cau": "SL khi khoảng H1 đóng quá 65.00 là ok. Bởi vì khi nó đóng qua được trendline trên này thì H1 sau đó chúng ta sẽ phải chờ. Nếu H4 nó cũng đóng tiếp và vượt qua được trendline này thì sẽ rất rủi ro và chúng ta không nên sell nữa ... Cho nên chúng ta sẽ dừng view đánh xuống tại vùng 65.00."
+   },
+   "kich_ban_phu": null,
+   "duong_di": [
+    {
+     "huong": "TANG",
+     "dich": [
+      64000,
+      64500
+     ]
+    },
+    {
+     "huong": "GIAM",
+     "dich": 60500
+    }
+   ],
+   "doi_y": null,
+   "ly_do": [],
+   "trich": "Giá và xu hướng tầm này chưa có gì thay đổi nhiều. Về bản chất đoạn này mình nghĩ xác suất nó quét lên vùng 64.000 cũng sẽ rất cao.",
+   "nhan_v1": "GIAM"
+  },
+  {
+   "khung": "D1",
+   "huong": "PHAN_VAN",
+   "do_chac": "thap",
+   "dich": null,
+   "han": "chưa nói",
+   "han_gio": null,
+   "vo_hieu_khi": null,
+   "kich_ban_phu": "chỉ đánh lên khi break 65.000 và xác nhận",
+   "ly_do": [
+    "D1 vẫn chủ ở Fibo 0.5, chưa đủ cơ sở đánh lên ở vùng cao; mình không quan tâm lắm"
+   ],
+   "trich": "D1 thì thực tế đoạn này mình không quan tâm lắm.",
+   "doi_y": null,
+   "duong_di": null
+  }
+ ],
+ "vung_gia": {
+  "khang_cu": [
+   64000,
+   65000
+  ],
+  "ho_tro": [
+   60500,
+   62000
+  ]
+ },
+ "lenh": [
+  {
+   "chieu": "SHORT",
+   "vao": [
+    63200,
+    63800
+   ],
+   "tp": [
+    60500
+   ],
+   "sl": 65000,
+   "trang_thai": "dang_giu"
+  },
+  {
+   "chieu": "SHORT",
+   "vao": [
+    63000,
+    64500
+   ],
+   "tp": [
+    60500
+   ],
+   "sl": 65000,
+   "trang_thai": "de_xuat_moi"
+  }
+ ],
+ "nhin_lai_truoc": "Hôm qua ăn short từ 63.800 và 63.200 được khoảng 1000 giá (hơn 1%), không chốt TP1 để test Fibo 1.618 nên vòng lại gần entry; view hôm qua về 62.468 đúng, nhưng hồi 63.000 rồi rớt thì sai một chút vì nó trụ.",
+ "cong_cu": [
+  "H4",
+  "H1",
+  "Fibo thoái lui 0.5",
+  "Fibo mở rộng 1.618",
+  "trendline H4",
+  "heatmap liquidation",
+  "USDT.D",
+  "BTC.D",
+  "open interest option"
+ ],
+ "tin_tuc": [
+  {
+   "tin": "Tuần này không có tin đến thứ năm; thứ sáu có lương trung bình và non farm; CPI thứ tư tuần sau",
+   "danh_gia": "thứ sáu là ngày biến động nhất; thứ sáu nào cũng đỏ vì đóng phiên tuần"
+  }
+ ],
+ "thoi_quen": [
+  "ăn nho nhỏ, chốt non hơn mục tiêu Fibo sâu nhất một đoạn cho an toàn",
+  "dải lệnh short chia nhỏ lên vùng cao, SL theo H1 đóng quá trendline",
+  "linh hoạt đổi view khi H4 đóng vượt trendline",
+  "vùng out 60.500 chỉ là chốt lãi, không limit long trước, chờ phản ứng giá",
+  "không giữ nhiều altcoin, tối đa 5 đồng; altcoin chia nhỏ spot"
+ ],
+ "cau_cua_mieng": [
+  "Thị trường chậm chúng ta cứ chơi chậm, thị trường nhanh thì chúng ta chơi nhanh. Không cần phải vội."
+ ],
+ "altcoin": [
+  {
+   "coin": "USDT.D",
+   "huong": "TANG",
+   "ghi": "đứng im, nguy hiểm nhất"
+  },
+  {
+   "coin": "altcoin chung",
+   "huong": null,
+   "ghi": "nhìn con nào cũng đẹp, thấp nhưng chưa có sóng, chưa đến lúc đổ vào; ETH dưới 1000 gom đẹp"
+  }
+ ],
+ "ghi_chu": "gio_vn mặc định 10:00. '64.000 năm' hiểu 64.500, '60.000 năm' hiểu 60.500. Phần vàng/bạc/dầu, AVAX, pháp lý VN bỏ qua. Cuối buổi: xác suất quét lên 64.000 rất cao.",
+ "hanh_dong": "giu_lenh",
+ "chang_ke_tiep": {
+  "huong": "TANG",
+  "dich": [
+   64000,
+   64500
+  ]
+ },
+ "khung_lon_v2": {
+  "D1": "PHAN_VAN",
+  "W1": null
+ },
+ "pha_vo_gia": "Nhịp hồi lên 64.000-64.500 là để quét stop loss của lệnh short (nếu short quá đông) rồi rụng tiếp về 60.500.",
+ "nguon_nhan": "dap_an_v2 (Opus 5.5 rút mù 31/10)"
+}

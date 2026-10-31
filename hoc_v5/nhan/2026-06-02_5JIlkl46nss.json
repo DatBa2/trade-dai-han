@@ -1,0 +1,418 @@
+{
+  "buoi": "2026-06-02_5JIlkl46nss",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/zip_clean/2026-06-02_5JIlkl46nss.txt",
+  "gia_btc_luc_noi": 71000,
+  "dau_buoi": {
+    "thien_huong_h4": "GIAM",
+    "gio": "[00:06:35]",
+    "trich": "Hôm qua cảnh báo các bạn rồi, thị trường như thế này chúng ta không thể quá đặt kỳ vọng vào xu hướng tăng và nhịp long được."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "GIAM",
+    "do_chac": "thap",
+    "gio": "[00:56:54]",
+    "trich": "Thị trường thì cứ giữ view như thế thôi. H4 đóng như thế này rồi thì cùng lắm thì thích long thì cứ phải thận trọng đi từng bước nhỏ. Nếu nó xả mạnh quá thì chạy. Tầm này đi short thì mình thấy cũng không có ngon."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {
+    "huong": "TANG",
+    "dich": [
+      72000,
+      72500
+    ]
+  },
+  "duong_di": [
+    {
+      "huong": "GIAM",
+      "dich": 70500
+    },
+    {
+      "huong": "TANG",
+      "dich": [
+        72000,
+        72500
+      ]
+    },
+    {
+      "huong": "GIAM",
+      "dich": 68000
+    }
+  ],
+  "dich_chinh": 68000,
+  "han_gio": null,
+  "vo_hieu": null,
+  "lenh": [
+    {
+      "chieu": "short",
+      "vao": null,
+      "tp": null,
+      "sl": null,
+      "trang_thai": "da_dong"
+    },
+    {
+      "chieu": "long",
+      "vao": 70500,
+      "tp": null,
+      "sl": 69900,
+      "trang_thai": "de_xuat_moi"
+    }
+  ],
+  "hanh_dong": "dung_ngoai_cho_entry",
+  "khung_lon": {
+    "D1": "Xu hướng giảm rõ; nến D1 hôm qua đóng không thể xấu hơn nhưng là cây bán full lực thân dày sau đà giảm → có thể là cây xả hết lực bán, sau đó dễ có râu kéo lên; giá cách cụm MA ~6% (~5000 giá); đóng ngay Fibo 0.5 và vùng râu đáy (hỗ trợ)",
+    "W1": null
+  },
+  "pha_vo_gia": null,
+  "nhin_lai_view_truoc": {
+    "view_truoc": "GIAM",
+    "giu_hay_doi": "giu",
+    "vi_sao": "Hôm qua chọn không short vì còn lý do hồi, chấp nhận bỏ lỡ nhịp gãy; xu hướng D1 vẫn giảm rõ; nay giá đã cách MA quá xa, đóng ở Fibo 0.5 + râu đáy, Hyblock đỏ ~400k nên vẫn không short ở đáy, chờ hồi",
+    "gio": "[00:07:08]",
+    "trich": "Hôm qua không short và chấp nhận nếu thị trường xấu thì phải bỏ qua nhịp ăn của nhịp gãy ngày hôm qua. Bởi vì những lý do nó phục hồi vẫn còn tồn tại, rủi ro vẫn có. Đánh giá dựa trên câu chuyện rủi ro thôi. Cái nào qua rồi thì bỏ qua. Đây xu hướng khung ngày."
+  },
+  "trendline": [],
+  "trich_them": [
+    {
+      "gio": "[00:02:27]",
+      "cau": "Hôm qua chúng ta đã chốt con bot rồi mọi người. Con bot short của chúng ta ăn đến đó là được. Mặc dù thị trường hôm nay nếu giữ thì nó cũng đi được khoảng 2000 giá nữa. Nhưng không biết giá chạy đến đâu, chạy đến đây là đủ rồi. Hôm qua nó về đến vùng này có một cây nến xanh lên thì chúng ta chốt ở đoạn đó là hợp lý"
+    },
+    {
+      "gio": "[00:05:45]",
+      "cau": "Rồi thằng này 76. Khả năng giá này có khi nó gãy về tận 68. Chẳng lẽ về tận 68 sau đó lại rút lên 75?"
+    },
+    {
+      "gio": "[00:10:59]",
+      "cau": "Nhưng để chúng ta short ở đây thì mình nghĩ vẫn như quan điểm ngày hôm qua. Thà rớt nước miếng còn hơn rơi nước mắt, không short ở đây. Short ở đây mình thấy rủi ro short đáy rất cao. Không có lý do gì để chúng ta short ở một khoảng cách xa như thế này. Đây là khoảng cách rất xa đối với cụm MA này, cách đến tận khoảng 6%, 5000 giá"
+    },
+    {
+      "gio": "[00:13:45]",
+      "cau": "Hồi đoạn này theo lực ngày hôm qua mình kỳ vọng lên được 75 nhưng đối với lực này thì trước mắt chúng ta sẽ phải thấy nó lên 72.500 trước. Xem phản ứng của giá ở 72.500 thì sau đó chúng ta mới đánh giá tiếp được."
+    },
+    {
+      "gio": "[00:14:16]",
+      "cau": "Xu hướng vẫn là xu hướng giảm, mình nhắc lại anh em. Liệu có sập một phát về 20.000? Câu hỏi rất đẹp như màu hồng nhưng khó. Dễ gì nó từ đây dump thẳng về 20.000 thì còn gì thị trường nữa. Làm gì có ai bán cho nó để nó dump về 20.000 để làm gì? Nó dump về để các bạn mua. Không có. Nó phải dập dìu cho anh em vào mua chán rồi sau đó mới xả"
+    },
+    {
+      "gio": "[00:31:22]",
+      "cau": "Bitcoin trước mắt mình nghĩ chắc hồi lên khoảng 72."
+    },
+    {
+      "gio": "[00:43:31]",
+      "cau": "70 này mình nghĩ không cứng đâu. Về 68 là chuyện đơn giản thôi nhưng quan trọng nó có muốn đấm về hay không thôi chứ về 68 là chuyện bình thường. 68 nó có gap nữa. 68 như thế này nó có gap nữa. Gap 70 này. Cho nên là cái nhịp này mà nó đấm về 68 chuyện hết sức bình thường không có gì là khó. 70 này không có cái gì gọi là cứng hết. 66 này mới cứng"
+    }
+  ],
+  "kho": "Khó: ông khẳng định xu hướng giảm nhưng ngắn hạn chờ hồi lên 72-72.5 (không short đáy, long chỉ rủi ro nhỏ). Đích giảm sau đó chỉ ở dạng 'về 68 là bình thường, quan trọng nó có muốn đấm về không' → ghi GIAM do_chac thap, dich_chinh 68. Không có mức vô hiệu. Bot short đã chốt hôm qua (lãi 75.6%).",
+  "nen_volume": [
+    {
+      "khung": "D1",
+      "nen": "cây nến ngày hôm qua đóng không thể xấu hơn: nến đỏ bán full lực, thân dày, sau một đà giảm",
+      "volume": null,
+      "ket_luan": "chưa hẳn lực bán mạnh mà có thể là cây xả hết lực bán; sau đó vài râu nến dễ kéo lên → không short ở đây",
+      "gio": "[00:09:55]",
+      "trich": "Khi chúng ta có một cây nến ngày hay bất kỳ cây nến ở khung nào mà các bạn tham chiếu, xuất hiện một cây nến đỏ, với điều kiện đầu tiên là trước đó là một đà giảm, thứ hai là một cây nến bán mạnh, bán xuống cực kỳ lớn full lực thân nến dày thì chưa hẳn đây là lực bán mạnh mà đây có thể là một cây nến xả hết những lực bán."
+    },
+    {
+      "khung": null,
+      "nen": "về vùng này có một cây nến xanh lên",
+      "volume": null,
+      "ket_luan": "chốt bot short",
+      "gio": "[00:02:27]",
+      "trich": "Hôm qua nó về đến vùng này có một cây nến xanh lên thì chúng ta chốt ở đoạn đó là hợp lý."
+    },
+    {
+      "khung": "H4",
+      "nen": "test MA rồi rụng xuống; giá đang nằm dưới MA",
+      "volume": null,
+      "ket_luan": "khả năng hồi → không short ngay vùng này",
+      "gio": "[00:12:07]",
+      "trich": "Như đây khi chúng ta đi vào H4, nó tiếp tục là nhịp hôm qua: test MA và rụng xuống rất đẹp. Hiện tại giá đang nằm dưới MA thì khả năng hồi là có."
+    },
+    {
+      "khung": "H1/M30",
+      "nen": "phân kỳ và có một cây nến mua nhảy vào",
+      "volume": null,
+      "ket_luan": "dấu hiệu hồi",
+      "gio": "[00:12:41]",
+      "trich": "H1 này phân kỳ và có một cây nến mua nhảy vào. 30 phút cũng tương tự."
+    },
+    {
+      "khung": "M5",
+      "nen": "một nến bán",
+      "volume": null,
+      "ket_luan": "thường sẽ backtest về Fibo ~70.500 rồi mới hồi",
+      "gio": "[00:12:41]",
+      "trich": "5 phút thì ở đây có một nến bán, thông thường đối với một nhịp bán như này mình đoán sẽ có một nhịp backtest về lại Fibo. Sẽ có một nhịp về khoảng vùng 70.500 rồi mới hồi lên."
+    },
+    {
+      "khung": "H4",
+      "nen": "H4 đóng rút râu lên",
+      "volume": null,
+      "ket_luan": "có cửa hồi; thích long thì đi từng bước nhỏ, xả mạnh thì chạy",
+      "gio": "[00:41:40]",
+      "trich": "Xem H4 của BTC trạng thái đóng như thế nào. Rút râu lên rồi. Rút lên như này mình nghĩ là có cửa."
+    }
+  ],
+  "cach_lam": [
+    {
+      "hanh_dong": "do",
+      "cong_cu": "ema",
+      "chi_tiet": "Khoảng cách giá tới cụm MA D1",
+      "ket_qua": "~6%, ~5000 giá → quá xa, không short",
+      "gio": "[00:10:59]",
+      "trich": "Đây là khoảng cách rất xa đối với cụm MA này, cách đến tận khoảng 6%, 5000 giá."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "fibo_thoai_lui",
+      "chi_tiet": "Nến D1 đóng ngay đường Fibo 0.5 + vùng râu đáy",
+      "ket_qua": "vùng hỗ trợ ~71",
+      "gio": "[00:11:32]",
+      "trich": "Và vùng này là vùng hỗ trợ. Vùng này là vùng đóng ngay ở đường Fibo 0.5, đóng ngay ở vùng nhạy cảm này. Và đây cũng là một vùng hỗ trợ nữa, vùng râu đáy này."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "rsi",
+      "chi_tiet": "Phân kỳ trên H1 và M30",
+      "ket_qua": "có phân kỳ + nến mua → hồi",
+      "gio": "[00:12:41]",
+      "trich": "H1 này phân kỳ và có một cây nến mua nhảy vào."
+    },
+    {
+      "hanh_dong": "do",
+      "cong_cu": "fibo_thoai_lui",
+      "chi_tiet": "Fibo cho nhịp bán M5",
+      "ket_qua": "backtest ~70.500; SL long dưới râu ~69.900",
+      "gio": "[00:12:41]",
+      "trich": "Sẽ có một nhịp về khoảng vùng 70.500 rồi mới hồi lên. Nếu anh em nào muốn bắt long và chấp nhận chơi rủi ro thì có thể canh vùng này, SL dưới cái râu này khoảng 69.900"
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "Gap CME (dùng gap để TP/hợp lý hóa, không để chọn entry)",
+      "ket_qua": "trên: 73, 75, 78.1k, 83, 90; dưới: 71, 69-70, 67; gap dưới có thể lấp hai lần",
+      "gio": "[00:15:23]",
+      "trich": "Gap thì điểm lại những gap chúng ta đang có. Gap 78k1. Gap nhỏ hôm qua 73. Gap 75 này vẫn có. Góc dưới là có 71, 69, 70 với lại 67."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "heatmap",
+      "chi_tiet": "Liquid",
+      "ket_qua": "phía dưới bị húp hết (đám 70.000 sáng nay cũng bị húp); còn vùng trên 72.300",
+      "gio": "[00:18:15]",
+      "trich": "Có một đám 70.000 vừa tạo sáng nay cũng bị húp luôn. Bây giờ chỉ còn những vùng trên như 72.300 thôi."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "hyblock",
+      "chi_tiet": "Hyblock",
+      "ket_qua": "đỏ tươi ~400.000 → khả năng hồi",
+      "gio": "[00:18:47]",
+      "trich": "Hai block thì chắc chắn là màu đỏ tươi chứ không thể xanh. Chắc chắn đỏ khoảng 400, mình đoán vậy, 400.000. Cứ đỏ như này thì khả năng là nó sẽ có nhịp hồi thôi."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "Fear & Greed; Altcoin season index; vàng",
+      "ket_qua": "F&G 23; ASI 47; vàng có nhịp phục hồi → BTC",
+      "gio": "[00:17:45]",
+      "trich": "Fear về 23 anh em ơi. Ngon. 23 này dump khoảng thêm 2 tháng nữa con này lại về 10 thì tuyệt vời luôn."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "Gap 70 và gap 68 dưới; 66 là hỗ trợ cứng",
+      "ket_qua": "70 không cứng, về 68 bình thường",
+      "gio": "[00:44:01]",
+      "trich": "68 nó có gap nữa. 68 như thế này nó có gap nữa. Gap 70 này. Cho nên là cái nhịp này mà nó đấm về 68 chuyện hết sức bình thường không có gì là khó. 70 này không có cái gì gọi là cứng hết. 66 này mới cứng."
+    }
+  ],
+  "vung_nguoi_do": [
+    {
+      "loai": "dich",
+      "tu": 68000,
+      "den": 68000,
+      "gio": "[00:05:45]",
+      "trich": "Khả năng giá này có khi nó gãy về tận 68."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 70500,
+      "den": 70500,
+      "gio": "[00:12:41]",
+      "trich": "Sẽ có một nhịp về khoảng vùng 70.500 rồi mới hồi lên."
+    },
+    {
+      "loai": "vao",
+      "tu": 70500,
+      "den": 70500,
+      "gio": "[00:12:41]",
+      "trich": "Nếu anh em nào muốn bắt long và chấp nhận chơi rủi ro thì có thể canh vùng này"
+    },
+    {
+      "loai": "sl",
+      "tu": 69900,
+      "den": 69900,
+      "gio": "[00:13:13]",
+      "trich": "SL dưới cái râu này khoảng 69.900 và kéo lên."
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 75000,
+      "den": 75000,
+      "gio": "[00:13:45]",
+      "trich": "Hồi đoạn này theo lực ngày hôm qua mình kỳ vọng lên được 75"
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 72500,
+      "den": 72500,
+      "gio": "[00:13:45]",
+      "trich": "trước mắt chúng ta sẽ phải thấy nó lên 72.500 trước. Xem phản ứng của giá ở 72.500 thì sau đó chúng ta mới đánh giá tiếp được. Tầm này cũng khá khó để hồi lên căng. Vùng này sẽ là một vùng cản rất lớn"
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 71000,
+      "den": 71000,
+      "gio": "[00:13:45]",
+      "trich": "Đôi khi nó lên đến 72.500 lại rớt xuống 71 rồi lại đi lên"
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 69000,
+      "den": 70000,
+      "gio": "[00:15:23]",
+      "trich": "Góc dưới là có 71, 69, 70 với lại 67."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 67000,
+      "den": 67000,
+      "gio": "[00:16:01]",
+      "trich": "70 với 67. Gap trên thì chúng ta có 75, 78, 83 và 90."
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 78100,
+      "den": 78100,
+      "gio": "[00:15:23]",
+      "trich": "Gap 78k1."
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 72300,
+      "den": 72300,
+      "gio": "[00:18:47]",
+      "trich": "Bây giờ chỉ còn những vùng trên như 72.300 thôi."
+    },
+    {
+      "loai": "dich",
+      "tu": 72000,
+      "den": 72000,
+      "gio": "[00:31:22]",
+      "trich": "Bitcoin trước mắt mình nghĩ chắc hồi lên khoảng 72."
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 74000,
+      "den": 75000,
+      "gio": "[00:32:05]",
+      "trich": "7475 hiện tại thì chưa đủ dữ liệu để mà view lên 7475."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 70000,
+      "den": 70000,
+      "gio": "[00:43:31]",
+      "trich": "70 này mình nghĩ không cứng đâu."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 66000,
+      "den": 66000,
+      "gio": "[00:44:01]",
+      "trich": "66 này mới cứng. Cái chỗ này là nó mới cứng."
+    }
+  ],
+  "view_trung_han": [
+    {
+      "khung": "D1",
+      "huong": "GIAM",
+      "dich": 68000,
+      "han": null,
+      "mat_view_khi": null,
+      "gio": "[00:11:32]",
+      "trich": "Xu hướng giảm rõ ràng ở trên khung ngày. Và vùng này là vùng hỗ trợ. Vùng này là vùng đóng ngay ở đường Fibo 0.5, đóng ngay ở vùng nhạy cảm này. Và đây cũng là một vùng hỗ trợ nữa, vùng râu đáy này. Cho nên vùng này theo cá nhân mình không nên short cho dù thị trường có thể gãy, có thể sập sâu sập mạnh để tiếp tục xu hướng giảm này"
+    },
+    {
+      "khung": "M1",
+      "huong": "GIAM",
+      "dich": null,
+      "han": "thêm khoảng 2 tháng (Fear & Greed về 10)",
+      "mat_view_khi": null,
+      "gio": "[00:17:45]",
+      "trich": "Fear về 23 anh em ơi. Ngon. 23 này dump khoảng thêm 2 tháng nữa con này lại về 10 thì tuyệt vời luôn."
+    }
+  ],
+  "vung_tranh": [
+    {
+      "tu": null,
+      "den": null,
+      "vi_sao": "Không short ở vùng giá hiện tại (~71): short đáy rủi ro cao, giá cách cụm MA ~6% (5000 giá), đang ở Fibo 0.5 + râu đáy, dễ ăn nhịp hồi; chờ vị thế đẹp hơn",
+      "gio": "[00:10:59]",
+      "trich": "Thà rớt nước miếng còn hơn rơi nước mắt, không short ở đây. Short ở đây mình thấy rủi ro short đáy rất cao. Không có lý do gì để chúng ta short ở một khoảng cách xa như thế này."
+    },
+    {
+      "tu": null,
+      "den": null,
+      "vi_sao": "Long ở đây là ngược xu hướng; chỉ chơi nếu chấp nhận rủi ro, đã chơi thì xác định",
+      "gio": "[00:13:13]",
+      "trich": "Nhưng phải lưu ý chơi long đoạn này cực kỳ rủi ro bởi vì ngược xu hướng. Đã chơi là xác định, đừng chơi xong lại khóc. Còn không thì ở ngoài chờ giá hồi lên rõ ràng rồi tính."
+    }
+  ],
+  "giu_dong": [
+    {
+      "lenh": "bot short lưới BTC (27 ngày, 133 lưới, lãi 75.6%)",
+      "quyet_dinh": "dong",
+      "khi_nao": "hôm qua giá về vùng này và có một cây nến xanh lên → chốt, đủ rồi (dù giữ thì đi thêm ~2000 giá)",
+      "gio": "[00:02:27]",
+      "trich": "Hôm qua chúng ta đã chốt con bot rồi mọi người. Con bot short của chúng ta ăn đến đó là được. Mặc dù thị trường hôm nay nếu giữ thì nó cũng đi được khoảng 2000 giá nữa. Nhưng không biết giá chạy đến đâu, chạy đến đây là đủ rồi."
+    },
+    {
+      "lenh": "long ngược xu hướng (vốn nhỏ)",
+      "quyet_dinh": "giu",
+      "khi_nao": "đi từng bước nhỏ; nếu xả mạnh quá thì chạy",
+      "gio": "[00:56:54]",
+      "trich": "H4 đóng như thế này rồi thì cùng lắm thì thích long thì cứ phải thận trọng đi từng bước nhỏ. Nếu nó xả mạnh quá thì chạy."
+    }
+  ],
+  "tin_tuc": [
+    {
+      "su_kien": "Strategy bán 20 BTC",
+      "thoi_diem": "hôm qua",
+      "nguon": "bao",
+      "so_lieu": "20 BTC",
+      "anh_huong_view": "chủ yếu là truyền thông để hợp lý hóa cho BTC dump; sắp tới quỹ sẽ bán mạnh",
+      "gio": "[00:42:15]",
+      "trich": "Nhưng mà cái lực bán ngày hôm qua nó có cái tin của Strategy nó bán 20 Bitcoin để nó test. Nhưng mà cái việc bán đó thì mình cũng chưa có hình dung ra được, mình nghĩ đa phần thì nó làm truyền thông là chính chứ cũng không hẳn là cái câu chuyện nó bán. Tất nhiên là nó sẽ bán mạnh trong cái giai đoạn sắp đến. Tất nhiên quỹ nó nói gì nói nhưng nó phải bỏ qua cái sự uy tín để mà nó đảm bảo cái lợi nhuận về cái tài chính. Chứ không có gì mà nó sợ nó không bán đâu. Nhưng mà mình thấy đằng sau cái đó chủ yếu là làm truyền thông để hợp lý hóa cho cái câu chuyện BTC nó dump thôi"
+    },
+    {
+      "su_kien": "Lịch tin",
+      "thoi_diem": "hôm nay không có, ngày mai mới có",
+      "nguon": "lich_kinh_te",
+      "so_lieu": null,
+      "anh_huong_view": "không nói",
+      "gio": "[00:18:47]",
+      "trich": "Tin tức hôm nay không có, ngày mai mới có."
+    },
+    {
+      "su_kien": "CME bỏ gap (giao dịch liên tục)",
+      "thoi_diem": "sắp tới",
+      "nguon": "khac",
+      "so_lieu": null,
+      "anh_huong_view": "chưa biết khi không còn gap thì thế nào",
+      "gio": "[00:18:15]",
+      "trich": "Cũng chưa biết khi không còn gap này nữa thì nó sẽ thế nào. Gap này không còn giá trị bởi vì bản chất tất cả thị trường tài chính từ trước đến giờ đều có gap. Nếu lần này không có gap đối với Bitcoin tuyệt đối thì gần như là lần đầu tiên chúng ta có một trạng thái không có gap"
+    }
+  ]
+}

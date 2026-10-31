@@ -1,0 +1,39 @@
+{
+  "buoi": "2026-01-28_2_a0RdwC1t8",
+  "gia_btc_luc_noi": null,
+  "dau_buoi": {
+    "huong_h4": "TANG",
+    "trich": "[00:13:56] hiện tại anh em thấy giá đã phá qua khỏi đường MA34. Khi giá đóng một cây H4 khá đẹp và phá qua MA34 thì rõ ràng chúng ta không nên short nữa, vì hoàn toàn có thể nó lên đến tận MA89 hoặc 200 ... 90 hoặc 91"
+  },
+  "cuoi_buoi": {
+    "huong_h4": "TANG",
+    "trich": "[01:03:00] Nến H4 đóng cũng màu đỏ rồi. Mình bảo thằng này nó phải tạo một cấu trúc có khả năng bật tăng ở trong M5. [01:05:08] BTC bắt đầu ngóc lên thôi. Cứ chờ có đảo chiều lên."
+  },
+  "doi_y_giua_buoi": false,
+  "huong_lon": {
+    "D1": "TANG",
+    "W1": null,
+    "chu_ky": "GIAM"
+  },
+  "hanh_dong": "dung_ngoai_cho_entry",
+  "duong_di": [
+    {
+      "huong": "GIAM",
+      "dich": 88700,
+      "khung": "M30"
+    },
+    {
+      "huong": "TANG",
+      "dich": 93000,
+      "khung": "H4"
+    }
+  ],
+  "dich_chinh": 93000,
+  "moc_sai": {
+    "gia": null,
+    "dieu_kien": "H4 phải đóng dưới MA34 mới xét short lại; điều kiện đầy đủ là dưới MA34/89/200 [00:19:43]. Sau tin dưới 87.000 là nguy hiểm, xác nhận gãy phải thủng đáy vùng 86.000–85.500 [00:30:50]; không chọn một số khi phụ đề không rõ."
+  },
+  "pha_vo_gia": "[00:13:26–00:15:01] Hôm qua là fake out dụ short ở 87.000 về 86.000 rồi tăng trở lại; người nói đã gọi rõ là ngày lừa short.",
+  "do_chac": "cao",
+  "ghi_chu": "Đã đọc hết transcript. Không có giá hiện tại duy nhất nên null, quanh 88.000–89.000 theo các vùng trong buổi. Chưa long market; chờ 88.700 tạo hai/ba đáy/đáy cao hơn trong M5 rồi long. 87.000 là entry sâu đẹp nếu có, không bắt buộc đi cả hai vùng. H4 hồi có MA90.000–91.000, khả năng lên 93.000 lấp gap [00:19:13]. Nến H4 cuối đỏ chưa làm đổi view: vẫn dặn không short, chờ cấu trúc M5 để long. Sau tin lãi suất dự kiến lại giảm nhưng đường trước/trong tin có nhiều nhánh, không gán một chặng giảm vô điều kiện.128.000 là SL trong ví dụ short dài hạn của câu hỏi, không là mốc sai H4 hôm nay."
+}

@@ -1,0 +1,54 @@
+{
+  "buoi": "2026-07-15_-T8Wu5b89B4",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/zip_clean/2026-07-15_-T8Wu5b89B4.txt",
+  "gia_btc_luc_noi": 64000,
+  "dau_buoi": {
+    "thien_huong_h4": "TANG",
+    "gio": "[00:12:16]",
+    "trich": "Rõ ràng ở đây xu hướng thì chúng ta không nên short nữa... Còn ở đây về cơ bản xu hướng thị trường hiện tại vẫn giữ cấu trúc sóng tăng thì chúng ta không nên short. Đó là nguyên tắc đầu tiên."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "TANG",
+    "do_chac": "thap",
+    "gio": "[00:59:44]",
+    "trich": "Nến nó đóng thế nào thì view vẫn giữ nguyên. Nến H4 đóng đoạn này cũng khó. Chỉ biết xu hướng của chúng ta vẫn là xu hướng break lên. Hạn chế short trong ngày hôm nay. Còn lại việc còn lại là chờ thị trường xử lý."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {"huong": "GIAM", "dich": [62000, 64000]},
+  "duong_di": [
+    {"huong": "GIAM", "dich": [62000, 64000]},
+    {"huong": "TANG", "dich": [66000, 67000]}
+  ],
+  "dich_chinh": [66000, 67000],
+  "han_gio": null,
+  "vo_hieu": {
+    "gia": 61000,
+    "khung": "H4",
+    "so_nen": 1,
+    "chieu": "dong_duoi",
+    "cau": "hỗ trợ này chưa gãy thì chưa biết được gì, vẫn còn xác suất đi lên, và đúng là tin ra nó lên thật. Nó cần gãy khỏi vùng 6100 này thì mới ok"
+  },
+  "lenh": [
+    {"chieu": "LONG", "vao": [63000, 64000], "tp": [66000, 67000], "sl": null, "trang_thai": "de_xuat_moi"},
+    {"chieu": "LONG", "vao": [62000, 62300], "tp": [66000, 67000], "sl": null, "trang_thai": "de_xuat_moi"},
+    {"chieu": "SHORT", "vao": null, "tp": [], "sl": 64000, "trang_thai": "da_dong"}
+  ],
+  "hanh_dong": "dung_ngoai_cho_entry",
+  "khung_lon": {"D1": "TANG", "W1": null},
+  "pha_vo_gia": "[00:12:16] muốn short phải chờ 'về lại vùng đâu đó khoảng 63 thì mới xác nhận nhịp này fake out để về dưới này'; [00:23:34] cú lên quét short ở râu thứ hai 'chỉ là một phần'; [00:25:41] 'anh em hy vọng nó trap này trap nọ rồi sập luôn thì cá nhân mình đánh giá xác suất đó hơi thấp'.",
+  "trich_them": [
+    {"gio": "[00:22:31]", "cau": "với cây nến ngày này thì kéo xu hướng thị trường bật tăng trở lại và thay đổi luôn xu hướng đoạn này... Hiện tại nó đã phá lên."},
+    {"gio": "[00:23:03]", "cau": "Cho nên vùng này tạm thời chúng ta không nên short. Xu hướng của H4 giá vẫn nằm trên MA, MA vẫn tiếp tục bẻ lên, khả năng cực kỳ cao nhịp này tiếp tục đi lên thêm một khúc nữa khoảng 67 66."},
+    {"gio": "[00:26:12]", "cau": "Nếu muốn short thực sự thì mình nghĩ đoạn này anh em phải chờ 66 đến 67 H4... vùng này vẫn có xác suất đi về dưới này. Test về 62 một phát rồi mới break lên và đi tiếp."},
+    {"gio": "[00:26:43]", "cau": "Mình nghĩ tầm này long đẹp thì chắc phải quanh 64 hoặc 63.00 là điểm thứ nhất. Thứ hai là chờ quanh 62 hoặc 62.000."},
+    {"gio": "[00:27:14]", "cau": "Còn không thì anh em chờ về vùng dưới này 62.00 đến 62.300. Vì nếu long ở dưới này thì stop loss rất gần, chỉ khoảng 500 giá thôi, 61.00. Thủng vào thằng này là chúng ta chạy. Còn ngay vùng hiện tại mà đi long FOMO thì mình thấy không nên."},
+    {"gio": "[00:28:20]", "cau": "Nhịp này mình nghĩ nếu long thì tối đa cũng phải chốt lãi ở 66 67."},
+    {"gio": "[00:29:30]", "cau": "Tất nhiên xu hướng downtrend thì mình vẫn giữ nguyên, mình không nghĩ nó sẽ uptrend hay tạo đáy ở bây giờ. Chẳng qua đây là những nhịp phản ứng ngắn hạn."},
+    {"gio": "[00:31:18]", "cau": "SL 63K8 hay đợi H4 dưới 63K8? Thực tế đó là vùng entry, chúng ta đâu có SL ở đó. SL thì các bạn nên đợi H4 thủng khỏi 63K8 này thì ok hơn."},
+    {"gio": "[00:52:27]", "cau": "Vùng hiện tại, một là nó đi lên trên này và phá lên được thì đi tiếp mô hình cờ và tăng lên tiếp khoảng 66. Hai là nếu nó lên đây Fibo và bị chặn xuống thì sẽ là vai đầu vai."},
+    {"gio": "[00:55:30]", "cau": "Xác suất tạo vai đầu vai ở đây và rụng xuống không phải thấp."},
+    {"gio": "[01:00:21]", "cau": "Bây giờ chỉ chờ xem 30 phút này tạo thành xu hướng đi lên hay mô hình vai đầu vai, tương lai sẽ trả lời... Nếu nó vai đầu vai được thì nó về dưới này chúng ta tìm điểm chơi. Còn nó đi lên luôn thì thả nó chạy luôn."}
+  ],
+  "kho": "Cuối buổi người đó nêu 2 kịch bản (phá lên cờ → 66 / vai đầu vai bị đạp về 62–64) và nói xác suất vai đầu vai 'không phải thấp', nhưng chốt 'xu hướng vẫn là break lên, hạn chế short' và cả hai nhánh đều là chờ long → TANG độ chắc thấp, sát PHAN_VAN. Mốc vô hiệu mơ hồ: có chỗ nói về lại ~63 mới xác nhận fake out, nhưng 63–64 lại là vùng chờ long; lấy 61.000 (hỗ trợ cần gãy). SL lệnh long 62k ghi '500 giá, 61.00' không rõ số nên để null. Giá lúc nói ~64k (không nói số chính xác)."
+}

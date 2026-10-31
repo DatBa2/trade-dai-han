@@ -1,0 +1,271 @@
+{
+ "luc_vn": "2026-10-30 23:45 (thứ Sáu, sau nến H4 19:00–23:00 đóng)",
+ "theo": "bộ luật so_tay/SO_TAY_TINH_HOA.md phần B + bản đồ mốc người đó nêu 29–30/10 (moc/) + 2 luật sửa từ sổ sai (đích = đích người đó nêu; mốc sai = mốc khung lớn)",
+ "bot": [
+  {
+   "coin": "BTC",
+   "gia": 77425,
+   "khung": "H4",
+   "huong": "GIAM",
+   "do_chac": "vua",
+   "duong_di": [
+    {
+     "huong": "TANG",
+     "dich": 78600
+    },
+    {
+     "huong": "GIAM",
+     "dich": 75000
+    }
+   ],
+   "dich": 75000,
+   "tp1": 76300,
+   "han": "hết cuối tuần (tới 07:00 thứ Hai 02/11)",
+   "vo_hieu_khi": "2 nến H4 đóng trên 79.000",
+   "lenh": {
+    "chieu": "SHORT",
+    "loai": "limit",
+    "vao": [
+     78450,
+     78750
+    ],
+    "sl": 79650,
+    "tp": [
+     76250,
+     75200
+    ]
+   },
+   "can_cu": [
+    "H4 dưới cả dải EMA34 (79.564–80.620), EMA89 81.063, EMA200 81.445 → tìm short",
+    "78–78,8K = vùng sale người đó nêu 30/10 (Fibo hồi + vùng giao dịch cũ thành kháng cự) + EMA610 H4 77.799 ngay dưới",
+    "76,0–76,5K = EMA200 D1 76.457 + hỗ trợ cũ/Fibo 76K người đó nêu + đáy râu 30/10 76.519 → TP1",
+    "75K = đích người đó nêu ('biên giảm ngắn hạn, maximum đợt này')",
+    "bộ lọc: tài khoản long/short 2,76 (24h trước 1,69) đám đông đang long; vàng −3,2%, dầu +2,3%, Nasdaq −1,75%; F&G 51→30",
+    "thứ Sáu: view dùng cho cả cuối tuần, giảm volume"
+   ],
+   "rau": {
+    "duoi": "76.519 (H4 07:00) và 76.603 (H4 19:00) — 2 râu dưới cùng vùng",
+    "tren": "78.802 (H4 11:00)",
+    "test_lai": "râu trên 78,8K: CÓ (chặng hồi); râu dưới 76,5K: CÓ ở chặng 2 và lần 3 dễ thủng → 75K"
+   },
+   "vung_on": [
+    {
+     "loai": "SHORT",
+     "khoang": [
+      78450,
+      78800
+     ],
+     "ly_do": [
+      "râu trên H4 78.802",
+      "vùng sale người đó nêu 78–78,8K (Fibo hồi, vùng giao dịch cũ)",
+      "EMA610 H4 77.799 vừa mất → kháng cự"
+     ]
+    },
+    {
+     "loai": "LONG scalp vốn nhỏ",
+     "khoang": [
+      75000,
+      75500
+     ],
+     "ly_do": [
+      "đích 75K người đó nêu (maximum đợt này)",
+      "dưới râu 76,5K là chỗ SL của đám long bắt đáy (long/short 2,76) → quét xong mới bật"
+     ]
+    }
+   ],
+   "khong_vao": "76.500–78.400 (giữa 2 vùng; 76,5 là chỗ đám đông đang long)"
+  },
+  {
+   "coin": "ETH",
+   "gia": 2233,
+   "khung": "H4",
+   "huong": "GIAM",
+   "do_chac": "vua",
+   "duong_di": [
+    {
+     "huong": "TANG",
+     "dich": 2300
+    },
+    {
+     "huong": "GIAM",
+     "dich": 2150
+    }
+   ],
+   "dich": 2150,
+   "tp1": 2185,
+   "han": "hết cuối tuần",
+   "vo_hieu_khi": "2 nến H4 đóng trên 2.400 (luật người đó nêu 28/10)",
+   "lenh": {
+    "chieu": "SHORT",
+    "loai": "limit",
+    "vao": [
+     2290,
+     2305
+    ],
+    "sl": 2360,
+    "tp": [
+     2185,
+     2120
+    ]
+   },
+   "can_cu": [
+    "H4 và D1 đều dưới cả 3 EMA (D1: dải 2.403–2.494, EMA89 2.378, EMA200 2.319)",
+    "2.300 = mốc người đó nói 'thủng 2.300' đã thủng → đổi vai thành kháng cự + mép dưới dải EMA34 H4 2.302",
+    "đích 2.100–2.200 người đó nêu 30/10; TP1 non hơn đáy râu 30/10 (2.174)",
+    "ETH/BTC yếu; long/short 2,9 đám đông long; RSI D1 30,6 → chỗ chốt sale, không phải chỗ buy"
+   ],
+   "rau": {
+    "duoi": "2.174 (H4 07:00)",
+    "tren": "2.262 (H4 19:00)",
+    "test_lai": "râu trên: CÓ, vượt lên 2.300; râu dưới 2.174: CÓ, quét qua về 2.150"
+   },
+   "vung_on": [
+    {
+     "loai": "SHORT",
+     "khoang": [
+      2290,
+      2305
+     ],
+     "ly_do": [
+      "mốc 2.300 người đó nói đã thủng → đổi vai",
+      "mép dưới dải EMA34 H4 2.302",
+      "trên râu trên trong ngày 2.262"
+     ]
+    },
+    {
+     "loai": "LONG/spot",
+     "khoang": [
+      2100,
+      2150
+     ],
+     "ly_do": [
+      "đích 2.100–2.200 người đó nêu (họ mua spot quanh 2.100)",
+      "dưới râu 2.174 = chỗ SL long bị quét"
+     ]
+    }
+   ],
+   "khong_vao": "2.150–2.290"
+  },
+  {
+   "coin": "NEAR",
+   "gia": 4.309,
+   "khung": "H4",
+   "huong": "PHAN_VAN",
+   "do_chac": "vua",
+   "ly_do_phan_van": "đích 3,89–3,91 người đó nêu đã chạm (thấp nhất 3,906) — 'con này có vẻ cũng xong việc rồi'; H4 dưới cả 3 EMA nên không long, nhưng vừa bật từ đích nên không short đáy",
+   "het_phan_van_khi": "giá hồi lên 4,42–4,60 (dải EMA34 H4 + EMA200 H4 4,596 + đáy cũ 4,25–4,39 đổi vai) thì tìm short",
+   "lenh": null,
+   "rau": {
+    "duoi": "3,906 (H4 07:00, chạm đích 3,89–3,91)",
+    "tren": "4,430 (H4 19:00)",
+    "test_lai": "râu dưới: CHƯA (H4 đang đỉnh cao dần 4,35→4,39→4,43); râu trên 4,43: CÓ, chạm dải EMA34 H4"
+   },
+   "vung_on": [
+    {
+     "loai": "SHORT",
+     "khoang": [
+      4.42,
+      4.6
+     ],
+     "ly_do": [
+      "dải EMA34 H4 4,417 → EMA200 H4 4,596",
+      "đáy cũ 4,25–4,39 (24–29/10) bị thủng → đổi vai",
+      "mép dưới dải EMA34 D1 4,361 ngay dưới"
+     ]
+    },
+    {
+     "loai": "LONG",
+     "khoang": [
+      3.95,
+      4.05
+     ],
+     "ly_do": [
+      "test lại râu 3,906 (đích người đó đã đỡ)",
+      "nửa trên râu dưới — luật 'chờ test lại vùng râu rồi mới vào'"
+     ]
+    }
+   ],
+   "khong_vao": "4,05–4,42"
+  },
+  {
+   "coin": "ZEC",
+   "gia": 1236,
+   "khung": "H4",
+   "huong": "PHAN_VAN",
+   "do_chac": "vua",
+   "ly_do_phan_van": "EMA34/89/200 H4 chụm vào 1.233–1.284, giá nằm giữa (luật: MA chụm thì hạn chế giao dịch); người đó không nói ZEC; OI −17,8%/24h vừa xả đòn bẩy",
+   "het_phan_van_khi": "2 nến H4 đóng ra ngoài vùng 1.230–1.285",
+   "lenh": null,
+   "rau": {
+    "duoi": "1.182 (H4 07:00)",
+    "tren": "1.398 (29/10)",
+    "test_lai": "râu dưới 1.182: CÓ thể test lại vì giá đang trôi về (đáy H4 19:00 1.216)"
+   },
+   "vung_on": [
+    {
+     "loai": "LONG",
+     "khoang": [
+      1180,
+      1200
+     ],
+     "ly_do": [
+      "râu dưới 1.182",
+      "mép dưới dải EMA34 D1 1.183",
+      "đáy H4 25–26/10 1.176–1.178"
+     ]
+    },
+    {
+     "loai": "SHORT",
+     "khoang": [
+      1327,
+      1350
+     ],
+     "ly_do": [
+      "đỉnh H4 28/10 1.330",
+      "râu nến D1 27–28/10 1.327–1.330"
+     ]
+    }
+   ],
+   "khong_vao": "1.200–1.327 (cụm EMA H4 chụm ở giữa)"
+  }
+ ],
+ "doc_lap_cua_claude": [
+  {
+   "coin": "BTC",
+   "huong": "GIAM",
+   "do_chac": "thap",
+   "dich": 76000,
+   "han_gio": 48,
+   "vo_hieu_khi": "H4 đóng trên 79.000"
+  },
+  {
+   "coin": "ETH",
+   "huong": "GIAM",
+   "do_chac": "vua",
+   "dich": 2170,
+   "han_gio": 48,
+   "vo_hieu_khi": "H4 đóng trên 2.345"
+  },
+  {
+   "coin": "NEAR",
+   "huong": "TANG",
+   "do_chac": "thap",
+   "dich": 4.42,
+   "han_gio": 48,
+   "vo_hieu_khi": "H4 đóng dưới 4.12"
+  },
+  {
+   "coin": "ZEC",
+   "huong": "PHAN_VAN",
+   "ghi": "OI vừa xả 18%, giá kẹp giữa cụm EMA — không có lợi thế"
+  }
+ ],
+ "boi_canh_bo_sung_0010": {
+  "heatmap_btc_coinglass_24h": "cụm short 78,5K (vàng nhạt) · 79–80K (xanh) · cụm long 77,0–77,2K (vàng đậm) · 76,1–76,5K (vàng đậm nhất)",
+  "usdt_d_tradingview": "7,006% (râu 7,10%), phá lên khỏi 6,95% — xấu cho BTC",
+  "btc_d_tradingview": "60,33%, gãy khỏi biên 60,5–60,7 — altcoin bớt yếu tương đối",
+  "chung_khoan_my_dong_cua_thu_sau": "Nasdaq −3,04%, S&P −1,87%, VIX +22% (20,98)",
+  "lich_tin": "cuối tuần không có tin đỏ USD",
+  "thieu": "heatmap ETH/NEAR/ZEC (Coinglass bắt đăng nhập), Hyblock (trả phí)"
+ }
+}

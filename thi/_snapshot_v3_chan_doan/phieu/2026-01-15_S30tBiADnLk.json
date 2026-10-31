@@ -1,0 +1,99 @@
+{
+  "buoi": "2026-01-15_S30tBiADnLk",
+  "ngay": "2026-01-15",
+  "gio_vn": "10:00",
+  "gia_btc_luc_noi": 96000,
+  "nhan_dinh": [
+    {
+      "khung": "H4",
+      "huong": "GIAM",
+      "do_chac": "vua",
+      "dich": [93000, 95000],
+      "han": "trong ngày; có thể tối mới lên",
+      "han_gio": 24,
+      "vo_hieu_khi": "không rõ; short ngược trend nên không đặt, chỉ chờ điều chỉnh để long",
+      "kich_ban_phu": "lấp gap nhỏ 94-95 quét về 93 rồi đẩy một phát lên 99-100, sau đó về 88 và 73-76; nếu H4 đóng dưới MA 96.000 là xấu, thủng có thể về MA89 tức 91 (mất sóng)",
+      "ly_do": [
+        "H4 đóng xấu rồi, phân kỳ RSI H4 cho thấy lực mua yếu",
+        "về MA34 H1 + MA89 M30 (95) hoặc MA200/MA34 H4 (93) trùng gap nhỏ",
+        "volume yếu, không lên nổi 96.5"
+      ],
+      "trich": "BTC chắc về 93 rồi chờ ETH có sóng rồi tính sau. Chờ điểm long thì mình nghĩ chờ quanh vùng 93.",
+      "doi_y": null,
+      "duong_di": null
+    },
+    {
+      "khung": "D1",
+      "huong": "TANG",
+      "do_chac": "thap",
+      "dich": [99000, 100000],
+      "han": "chưa nói",
+      "han_gio": null,
+      "vo_hieu_khi": "đảo chiều confirm khi thủng 87.000; xuất hiện doji D1 hoặc nến xấu ở 98-100 là tín hiệu đảo",
+      "kich_ban_phu": "lên 99-100 thấy phản ứng thì tìm short dài, không lấy vùng này để ăn đỉnh",
+      "ly_do": [
+        "D1 vượt MA89, kế tiếp MA200; MA34 tuần + MA200 ngày rất đẹp",
+        "vùng 98-100 vẫn là vùng khả thi phải đạt trước khi về"
+      ],
+      "trich": "Khả năng nó vẫn kỳ vọng là sẽ quét lên một phát nữa ở quanh 99-100. Nhưng mà chúng ta không lấy cái vùng này để ăn trọn cái con sóng.",
+      "doi_y": null,
+      "duong_di": null
+    },
+    {
+      "khung": "W1",
+      "huong": "GIAM",
+      "do_chac": "cao",
+      "dich": [73000, 76000],
+      "han": "sau khi thủng 87.000",
+      "han_gio": null,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": null,
+      "ly_do": [
+        "đang ở đỉnh của mùa này, sau đó phải trải qua downtrend",
+        "nếu về dưới 87 thì 90% về 76-73"
+      ],
+      "trich": "Còn thực sự để confirm đảo chiều nó sẽ phải thủng khoảng 87 này. ... vì sóng này nếu về dưới 87 thì 90% là về 76 đến 73.",
+      "doi_y": null,
+      "duong_di": null
+    }
+  ],
+  "vung_gia": {"khang_cu": [96000, 98000, 99000, 100000], "ho_tro": [95000, 94000, 93000, 91000, 87000]},
+  "lenh": [
+    {"chieu": "LONG", "loai": "chờ về vùng MA", "vao": [93000, 95000], "tp": null, "sl": null,
+     "trang_thai": "de_xuat_moi",
+     "trich": "Cho nên đừng có vội long sớm. ... chờ quanh vùng 93, 93 XX."},
+    {"chieu": "SHORT", "loai": "scalp 5 phút ngược trend, khi quét cao", "vao": [97000], "tp": [94000], "sl": null,
+     "trang_thai": "de_xuat_moi",
+     "trich": "Nếu short thì chơi Fibo, chờ lên vùng 97 các thứ rồi xem sao. Về khoảng 94 thì không short nữa."}
+  ],
+  "nhin_lai_truoc": "Hôm qua long theo M30/M5 (trap quét) TP ở 96 (cản 95.8), giá lên 97.000 mà vẫn biết đủ; chốt lời hết altcoin; sáng 6h thấy 97.2K, ai nghĩ lâu thì mất 1000-1200 giá. Kỳ vọng 96-99 từ trước đã đạt.",
+  "cong_cu": ["H4", "MA34/MA89/MA200", "RSI phân kỳ H4", "gap 94-95 / 88", "Liquid 98 và 93.5", "Fibo", "Fear & Greed 61", "volume", "M5"],
+  "tin_tuc": [
+    {"tin": "Core PPI tốt nhưng PPI m/m không đẹp", "danh_gia": "50-50; cùng CPI cho thấy FED khó giảm lãi suất kỳ họp 29/1"},
+    {"tin": "Mỹ ngừng bắn Iran, Iran rút phòng thủ", "danh_gia": "vàng bạc điều chỉnh; năm 2026 dầu là thị trường sôi động tiếp theo"},
+    {"tin": "Quy định sàn Việt Nam, P2P Binance", "danh_gia": "chưa vi phạm, chờ luật"}
+  ],
+  "thoi_quen": [
+    "chờ cả ngày rút súng đúng một phát",
+    "đánh khung nào ăn khung đó, chia 2 phần: chốt lãi + để thị trường",
+    "có kế hoạch thoát hàng ở vùng nào thì tới đó hành động, không suy nghĩ thêm",
+    "biết đủ: giàu ít mà vui hơn nghèo mà buồn",
+    "MA chỉ dùng khi sóng rõ, sideway thì hạn chế",
+    "trade số tiền như cả tính mạng, không phải số tiền chấp nhận mất",
+    "ví MetaMask riêng cho mỗi tác vụ"
+  ],
+  "cau_cua_mieng": [
+    "Giàu ít mà vui, còn hơn là nghèo mà buồn.",
+    "Hoảng sợ thì lâu chứ FOMO ở mấy chốc.",
+    "Không thấy quan tài là không đổ lệ.",
+    "Hỏi nay Bitcoin có lên 98 hay không thì đi gặp thầy bói cho dễ."
+  ],
+  "altcoin": [
+    {"coin": "altcoin chung", "huong": "GIAM", "ghi": "DOM BTC và USDT.D cùng tăng nên altcoin khó ngóc đầu; altcoin lên rồi xả; đã chốt hết, còn WLD nhỏ"},
+    {"coin": "ETH", "huong": "GIAM", "ghi": "nến xấu, chắc về 3100-3200"},
+    {"coin": "SOL", "huong": "GIAM", "ghi": "chạm MA89 là điều chỉnh, TP là hợp lý"},
+    {"coin": "vàng/bạc", "huong": "GIAM", "ghi": "đang điều chỉnh đẹp, vàng còn gap 45 và 43; mình lướt bạc x5"},
+    {"coin": "dầu", "huong": "TANG", "ghi": "thị trường sôi động năm 2026, cần fake out 50-51"}
+  ],
+  "ghi_chu": "Giờ 10:00 là giả định; livestream trễ. Giá ~96.000 (nói 'không lên nổi 965' và 'test lại 96.000.5'). Tiêu đề 98K là đỉnh đêm qua."
+}

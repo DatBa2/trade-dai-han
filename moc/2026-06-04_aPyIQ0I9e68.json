@@ -1,0 +1,167 @@
+{
+  "buoi": "2026-06-04_aPyIQ0I9e68",
+  "ngay": "2026-06-04",
+  "gia_btc_luc_noi": 63500,
+  "moc": [
+    {
+      "gia": 63000,
+      "gia_tren": null,
+      "vai_tro": "vo_hieu",
+      "huong": "GIAM",
+      "khung": "H1",
+      "can_cu": [
+        "đóng nến H1 trên 63.000"
+      ],
+      "moc_gio": "00:05:06",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "nếu H1 đóng lên trên khỏi vùng 63.000 là đã có thể long"
+    },
+    {
+      "gia": 62000,
+      "gia_tren": 63600,
+      "vai_tro": "entry",
+      "huong": "TANG",
+      "khung": "H1",
+      "can_cu": [],
+      "moc_gio": "00:05:37",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "giải long ra vùng từ khoảng 62 cho đến 63, từ 63.000 đến 63.600"
+    },
+    {
+      "gia": 65000,
+      "gia_tren": 65500,
+      "vai_tro": "tp",
+      "huong": "TANG",
+      "khung": "H1",
+      "can_cu": [
+        "Fibo (không nói mức/điểm kéo)"
+      ],
+      "moc_gio": "00:05:37",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Fibo cho thấy vùng thứ nhất là 65.000, 65.500"
+    },
+    {
+      "gia": 67000,
+      "gia_tren": 67500,
+      "vai_tro": "tp",
+      "huong": "TANG",
+      "khung": "H1",
+      "can_cu": [
+        "Fibo (không nói mức/điểm kéo)",
+        "kháng cự"
+      ],
+      "moc_gio": "00:06:09",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Thứ hai là 67.000 nhưng 67.000 cũng trùng với kháng cự này rất căng. Loanh quanh vùng 67.000 đến 67.500 là target cao nhất"
+    },
+    {
+      "gia": 62800,
+      "gia_tren": 64000,
+      "vai_tro": "entry",
+      "huong": "TANG",
+      "khung": "H1",
+      "can_cu": [
+        "chia nhỏ vốn"
+      ],
+      "moc_gio": "00:08:19",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "chia vốn ra từ đây về đến khoảng vùng 62.800. Chia nhỏ từ 64.000 này về đến 62.800"
+    },
+    {
+      "gia": 62000,
+      "gia_tren": null,
+      "vai_tro": "sl",
+      "huong": "TANG",
+      "khung": "H1",
+      "can_cu": [],
+      "moc_gio": "00:08:54",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Treo lệnh qua đêm thì chắc phải đặt SL62 chứ? SL62 thoải mái. Đặt SL62 hoặc 61.000"
+    },
+    {
+      "gia": 61000,
+      "gia_tren": null,
+      "vai_tro": "sl",
+      "huong": "TANG",
+      "khung": "H1",
+      "can_cu": [
+        "cụm thanh lý 61.00-62.00"
+      ],
+      "moc_gio": "01:07:14",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "SL toàn bộ 62 hoặc 61.000, nếu được thì 61.000 sẽ an toàn hơn. Bởi vì lúc nãy mình thấy liquid bên này có một vùng 62.00, 61.00"
+    },
+    {
+      "gia": 63000,
+      "gia_tren": null,
+      "vai_tro": "vo_hieu",
+      "huong": "GIAM",
+      "khung": "M5",
+      "can_cu": [
+        "đóng nến M5 trên 63.000 phá xu hướng giảm"
+      ],
+      "moc_gio": "00:11:07",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "nếu nó phá lên trên khỏi chỗ này chứng tỏ đã break xu hướng giảm và sẽ đi lên. Cho nên chúng ta cắt và đảo long"
+    },
+    {
+      "gia": 68000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [],
+      "moc_gio": "00:36:01",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Nó phải có một nhịp hồi lên đâu đó khoảng 68 chẳng hạn"
+    },
+    {
+      "gia": 65000,
+      "gia_tren": null,
+      "vai_tro": "tp",
+      "huong": "TANG",
+      "khung": "H1",
+      "can_cu": [],
+      "moc_gio": "01:09:26",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "TP1 lên 65. 65.000, full TP 67.00, TP1 66.00"
+    },
+    {
+      "gia": 67000,
+      "gia_tren": null,
+      "vai_tro": "tp",
+      "huong": "TANG",
+      "khung": "H1",
+      "can_cu": [],
+      "moc_gio": "01:09:26",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "65.000, full TP 67.00, TP1 66.00"
+    },
+    {
+      "gia": 64000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "TANG",
+      "khung": "M30",
+      "can_cu": [
+        "trendline M30/M15",
+        "đỉnh bên tay trái"
+      ],
+      "moc_gio": "01:06:05",
+      "tai_san": "BTC",
+      "chac": false,
+      "trich": "Không qua được 30 phút này, không phá qua được đỉnh bên tay trái này... Nó ăn ngay trendline này không lên được"
+    }
+  ]
+}

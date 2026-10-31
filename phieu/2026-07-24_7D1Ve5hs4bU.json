@@ -1,0 +1,70 @@
+{
+  "buoi": "2026-07-24_7D1Ve5hs4bU",
+  "ngay": "2026-07-24",
+  "gio_vn": "10:00",
+  "gia_btc_luc_noi": 65400,
+  "nhan_dinh": [
+    {
+      "khung": "H4",
+      "huong": "TANG",
+      "do_chac": "vua",
+      "dich": [68000, 72000],
+      "han": "từ giờ đến FED 29-30/7 (đoán mò lên 72 rồi mới rớt)",
+      "han_gio": 168,
+      "vo_hieu_khi": "giá về dưới 62.000-64.000 mới kết thúc nhịp phục hồi; đóng H4 trên 68.000 thì rời tàu sell",
+      "kich_ban_phu": "có thể gãy về 63-64.000; chờ buy 64.000 xác suất khớp 50/50, chốt ~65.000",
+      "ly_do": ["nhịp giảm hôm qua chỉ là sóng thứ cấp điều chỉnh trong xu hướng tăng (Dow)", "kháng cự 66 nhẹ, kháng cự lớn 70-73", "M15 breakout rồi retest rất đẹp", "H4 đóng trên 68.000 thì xác suất >70% kéo lên 72", "68.000 là vùng SL short swing lớn"],
+      "trich": "Xu hướng hiện tại vẫn ưu tiên là xu hướng đi lên. Các cái nhịp đi xuống như thế này đều là những cái nhịp điều chỉnh.",
+      "doi_y": "hôm qua (và đầu buổi sáng) ăn nhịp sell xuống; sáng nay M15 breakout nên không sell nữa, cầm long",
+      "duong_di": [
+        {"huong": "GIAM", "dich": 64000},
+        {"huong": "TANG", "dich": 68000}
+      ]
+    },
+    {
+      "khung": "D1",
+      "huong": "TANG",
+      "do_chac": "vua",
+      "dich": 72000,
+      "han": "tuần này đến FED",
+      "han_gio": 168,
+      "vo_hieu_khi": "nến ngày bị bán mãi dưới 68 sau vài hôm cố rướn thì xem lại",
+      "kich_ban_phu": "nếu D1 đóng xanh trên 67.000 thì đừng sell nữa, vút lên vùng trống thanh khoản",
+      "ly_do": ["xu hướng ngày vẫn phục hồi đi lên", "chứng khoán Mỹ sắp thủng EMA là rủi ro kéo crypto"],
+      "trich": "Đóng nến D1 xanh qua 6700 thì thôi đừng có sell nữa.",
+      "doi_y": null,
+      "duong_di": null
+    },
+    {
+      "khung": "chung",
+      "huong": "GIAM",
+      "do_chac": "thap",
+      "dich": null,
+      "han": "dài hạn: tổng vốn hóa mới giảm ~50%, cần thêm một cú",
+      "han_gio": null,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": "rủi ro FED tăng lãi suất (<20%) thì dump về 53",
+      "ly_do": ["sau tin FED thị trường hết động lực tăng", "tổng vốn hóa còn cần một cú giảm nữa"],
+      "trich": "Sau tin lãi suất của FED thì lúc đó thị trường nó sẽ hết động lực để nó tăng.",
+      "doi_y": null,
+      "duong_di": null
+    }
+  ],
+  "vung_gia": {"khang_cu": [66000, 68000], "ho_tro": [63000, 64000]},
+  "lenh": [
+    {"chieu": "LONG", "loai": "đang giữ (vào sau retest M15)", "vao": null, "tp": null, "sl": null,
+     "trang_thai": "dang_giu", "trich": "Chúng ta có vị thế ở dưới này. Chúng ta cứ cầm long giữ lên trên này tính sau."},
+    {"chieu": "LONG", "loai": "limit chờ", "vao": [63000, 64000], "tp": [65000], "sl": null,
+     "trang_thai": "de_xuat_moi", "trich": "Anh em cứ chờ thằng BTC này về đâu đó là 64.000... nếu các bạn có buy thì chốt lãi ở quanh vùng 6500."}
+  ],
+  "nhin_lai_truoc": "Hôm qua ăn được vài nhịp sell; lệnh NEAR bị quét SL rồi đi lên lại, bỏ không long lại.",
+  "cong_cu": ["Dow lý thuyết sóng thứ cấp", "MA xanh H4 ~68.000", "Liquid 64.000/68.000", "Fear & Greed 28", "BTC.D", "USDT.D", "Total vốn hóa", "ETH/BTC"],
+  "tin_tuc": [{"tin": "FED họp lãi suất đêm 29 rạng sáng 30/7", "danh_gia": "khả năng giữ nguyên; xác suất tăng lãi suất 0,25 dưới 20%; dầu tăng gây lo lạm phát"}],
+  "thoi_quen": ["sau khi ăn sell hôm qua thì reset, phân tích lại khách quan", "bị quét SL thì chấp nhận không cố chấp", "đánh long ngắn rời tàu khi đủ", "isolate: đòn bẩy = 60 / %SL, tối đa x20 BTC, SL tối đa ~1000 giá", "khó thì đánh chậm lại"],
+  "cau_cua_mieng": ["Cái nào mà nhìn có vẻ thơm thì cũng phải nghi ngờ.", "Cái gì khó chúng ta bỏ qua thôi, có gì đâu."],
+  "altcoin": [
+    {"coin": "ETH", "huong": "TANG", "ghi": "chờ về 1800-1810 (nếu thủng 1800 bỏ), TP 1923-1925; BTC lên 70 thì ETH 2080-2100"},
+    {"coin": "altcoin chung", "huong": "GIAM", "ghi": "DOM, USDT.D đi lên, alt xấu; SOL nhập nhằng không đụng; vàng không sell chờ fake out 4300"}
+  ],
+  "ghi_chu": "gio_vn ước lượng. Giá lúc nói lấy từ ví dụ 'giá market đang là 65.392'. '6700' hiểu 67.000, '6400' hiểu 64.000."
+}

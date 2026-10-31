@@ -1,0 +1,210 @@
+{
+  "buoi": "2026-01-26_KZ3cHk9a3yc",
+  "ngay": "2026-01-26",
+  "gia_btc_luc_noi": 87000,
+  "moc": [
+    {
+      "gia": 98000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "GIAM",
+      "khung": "W1",
+      "can_cu": [
+        "râu nến tuần trước 98",
+        "đỉnh trước đó 98",
+        "MA34 W1"
+      ],
+      "moc_gio": "00:06:19",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Cái nhịp phục hồi vừa rồi sức của nó chỉ đến 98 không thể hơn được nữa. EMA bây giờ cũng bằng với cái đỉnh trước đó là 98"
+    },
+    {
+      "gia": 91000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [
+        "trendline kênh giá khung ngày",
+        "râu quét đêm thứ sáu 23/01"
+      ],
+      "moc_gio": "00:07:53",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "nó chỉ kéo lên đúng cái đường trend line này khoảng 91 đêm ngày thứ sáu... quét lên đúng 91 luôn và nó rớt xuống"
+    },
+    {
+      "gia": 62000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [
+        "TP của mô hình cờ giảm khung ngày"
+      ],
+      "moc_gio": "00:08:55",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "nếu nó đi tiếp cái nhịp này thì 62.000... TP của mô hình cờ này (dự kiến cuối tháng 2, đầu tháng 3)"
+    },
+    {
+      "gia": 87500,
+      "gia_tren": null,
+      "vai_tro": "sl",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [],
+      "moc_gio": "00:09:26",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "long BTC và đặt stop loss ở 87.000 năm (lệnh hôm qua, đã bị quét)"
+    },
+    {
+      "gia": 87000,
+      "gia_tren": null,
+      "vai_tro": "entry",
+      "huong": "GIAM",
+      "khung": "M30",
+      "can_cu": [],
+      "moc_gio": "00:10:58",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "30 phút thì sẽ short được cái lúc ở 8700 này"
+    },
+    {
+      "gia": 86000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [],
+      "moc_gio": "00:10:58",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "nó có thể chạy theo nhịp này về đây, về 86 rồi lại dịt lên đến độ 8800"
+    },
+    {
+      "gia": 86000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "M30",
+      "can_cu": [
+        "Fibo 0.5"
+      ],
+      "moc_gio": "00:17:14",
+      "tai_san": "BTC",
+      "chac": false,
+      "trich": "chờ nó phản ứng ở cái vùng 0.5 của Fibo... đóng thấp hơn cái vùng 86.00 thì có thể nó đi luôn"
+    },
+    {
+      "gia": 85000,
+      "gia_tren": 86000,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý / heatmap"
+      ],
+      "moc_gio": "00:18:16",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Liquid này có 86, 85.00 thì khả năng chắc về đây lụm trước"
+    },
+    {
+      "gia": 89000,
+      "gia_tren": 89300,
+      "vai_tro": "khang_cu",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "gap CME 89.000-89.300 chưa lấp"
+      ],
+      "moc_gio": "00:26:48",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Có gap 89.000, 89k3... Sáng ngày hôm nay thả một phát từ 89k3 về đến 86k"
+    },
+    {
+      "gia": 93000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "gap CME 93 chưa lấp"
+      ],
+      "moc_gio": "00:28:22",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Bitcoin còn gap 93 không? Trên này vẫn còn một cái gap nhỏ"
+    },
+    {
+      "gia": 86000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "đáy sáng 26/01 tại 86.000"
+      ],
+      "moc_gio": "00:30:26",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "anh em đừng ăn sâu hơn cái đáy này. Quanh 86 là tối đa"
+    },
+    {
+      "gia": 88000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "gap 88"
+      ],
+      "moc_gio": "00:35:23",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Bây giờ nó có hai cái gap. Một gap 93 và một gap 88"
+    },
+    {
+      "gia": 90000,
+      "gia_tren": 93000,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": "00:35:23",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Tầm này mong nó lên đến khoảng độ 90 92 93 là đã ghê rồi chứ 100 bây giờ nó xa xôi lắm"
+    },
+    {
+      "gia": 88000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "GIAM",
+      "khung": "M30",
+      "can_cu": [
+        "MA89 M30"
+      ],
+      "moc_gio": "00:43:25",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "nó lên nó test lại cái vùng 8800 này. MA89"
+    },
+    {
+      "gia": 88000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": "00:46:02",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "cùng lắm chắc lên được khoảng độ 88.002 hoặc 8800 là cũng đã căng rồi"
+    }
+  ]
+}

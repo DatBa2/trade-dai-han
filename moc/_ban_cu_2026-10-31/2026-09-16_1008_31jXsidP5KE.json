@@ -1,0 +1,189 @@
+{
+  "buoi": "2026-09-16_1008_31jXsidP5KE",
+  "ngay": "2026-09-16",
+  "gia_btc_luc_noi": 75500,
+  "moc": [
+    {
+      "gia": 75000,
+      "gia_tren": null,
+      "vai_tro": "tp",
+      "huong": "GIAM",
+      "khung": "M30",
+      "can_cu": [
+        "râu nến đêm qua quét về 75.000"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "chúng ta vừa TP những vị thế sáng nay ở quanh vùng 75.000. Đêm qua có những râu nến quét về tận 75.000"
+    },
+    {
+      "gia": 79000,
+      "gia_tren": null,
+      "vai_tro": "entry",
+      "huong": "GIAM",
+      "khung": "M30",
+      "can_cu": [],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "hôm qua chúng ta bắt ở 79, về đến 77 chúng ta chốt (77, 78 gì đó)"
+    },
+    {
+      "gia": 77000,
+      "gia_tren": null,
+      "vai_tro": "entry",
+      "huong": "GIAM",
+      "khung": "M30",
+      "can_cu": [
+        "SL dày phía trên 77.000 (heatmap thanh lý)"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "Đêm qua mình cho anh em bắt tiếp ở 77, nó về đến 75 chúng ta chốt"
+    },
+    {
+      "gia": 76000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "thủng 76 khung ngày",
+        "vùng 76-75 H4: MA200 H4 và MA34 D1"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "76.000 chính thức bị phá... vùng 76–75.00 này H4 là vùng hỗ trợ cứng: vừa MA200 H4 vừa MA34 trên khung ngày"
+    },
+    {
+      "gia": 80000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [
+        "fake out: đóng lên 80 rồi quay về"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "vùng kháng cự 80: nó đóng lên 80 nhưng cây nến sau quay về lại vùng này - đó là một nhịp fake out"
+    },
+    {
+      "gia": 75000,
+      "gia_tren": null,
+      "vai_tro": "day_cu",
+      "huong": "GIAM",
+      "khung": "M5",
+      "can_cu": [
+        "đáy 7500 (M5)"
+      ],
+      "moc_gio": null,
+      "chac": false,
+      "trich": "trừ khi đáy 7500 bị phá xuống thì lúc đó chúng ta tiến tiếp"
+    },
+    {
+      "gia": 77000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "GIAM",
+      "khung": "M5",
+      "can_cu": [
+        "cụm SL của phe bán/ long đặt trên 77.000 (heatmap thanh lý)"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "nó sẽ lên quét stop loss của vùng 77.000 này. Nhìn màu là biết các ông đặt SL trên 77.000"
+    },
+    {
+      "gia": 76500,
+      "gia_tren": 77000,
+      "vai_tro": "entry",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "MA H4+D1 cản",
+        "Fibo 0.5 của nhịp này (không nói kéo từ đâu)",
+        "đường hỗ trợ H4 bị phá quay lại backtest",
+        "cấu trúc thị trường"
+      ],
+      "moc_gio": null,
+      "chac": false,
+      "trich": "Từ 76.500 đến 77.000 là vùng kháng cự mạnh, là vùng an toàn để chờ điểm vào"
+    },
+    {
+      "gia": 76000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "hỗ trợ bị phá thành kháng cự (râu)"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "nó sẽ back test lên vùng 76 này; hoặc nếu 7600 là kháng cự ở vùng trên thì nó sẽ quét SL qua khỏi 7600 một chút"
+    },
+    {
+      "gia": 74000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý / heatmap"
+      ],
+      "moc_gio": null,
+      "chac": false,
+      "trich": "Có những vùng thanh lý ở 74... hoặc gãy thì sẽ gãy về khoảng 74.00"
+    },
+    {
+      "gia": 76500,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý / heatmap (short dồn)"
+      ],
+      "moc_gio": null,
+      "chac": false,
+      "trich": "nếu lên nó sẽ quét đâu đó khoảng 76.500"
+    },
+    {
+      "gia": 70000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "W1",
+      "can_cu": [
+        "Fibo 0.5 khung lớn (so sánh lịch sử: ETH giảm 25.000→20.00, BTC 75.000→70.000)"
+      ],
+      "moc_gio": null,
+      "chac": false,
+      "trich": "Còn BTC thì 70.000 này... sẽ có một pha back test về Fibo 0.5 ở đây... giảm từ 75.000 về 70.000"
+    },
+    {
+      "gia": 69000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "Fibo mở rộng target (vùng test 79.000 hôm trước làm Fibo)"
+      ],
+      "moc_gio": null,
+      "chac": false,
+      "trich": "H4, vùng hôm trước nó test ở 7900 này ngay Fibo. Nếu set Fibo mở rộng... biết đâu ngày mai chúng ta có giá 69.000"
+    },
+    {
+      "gia": 60000,
+      "gia_tren": null,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": "W1",
+      "can_cu": [],
+      "moc_gio": null,
+      "chac": false,
+      "trich": "ông nào bây giờ cũng nghĩ 60.000 là đáy (quan điểm người khác, người nói không đồng ý)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "buoi": "2026-10-06_1001_CABZxVcYavM",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/lam_sach/2026-10-06_1001_CABZxVcYavM.md",
+  "gia_btc_luc_noi": 86000,
+  "dau_buoi": {
+    "thien_huong_h4": "PHAN_VAN",
+    "gio": null,
+    "trich": "Nó là 50/50 nhá. Nó đi lên luôn cũng bình thường, mà gãy về điều chỉnh cũng bình thường."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "PHAN_VAN",
+    "do_chac": "thap",
+    "gio": null,
+    "trich": "Tổng quát Bitcoin chỉ có thế: sideway, ta quan sát nó phá 85 hay phá lên khỏi 87."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {"huong": "GIAM", "dich": 85000},
+  "duong_di": null,
+  "dich_chinh": null,
+  "han_gio": null,
+  "vo_hieu": null,
+  "lenh": [],
+  "hanh_dong": "dung_ngoai_vi_lap_lung",
+  "khung_lon": {"D1": "PHAN_VAN", "W1": null},
+  "pha_vo_gia": null,
+  "trich_them": [
+    {"gio": null, "cau": "Nhìn ba cây nến này thì Long bắt đầu bị áp lực, đây là một trong những tín hiệu cảnh báo rủi ro đầu tiên."},
+    {"gio": null, "cau": "Đáy cao dần nhưng đỉnh trên đi bằng. Theo kinh nghiệm trade của mình, mô hình cờ này hay đi lên."},
+    {"gio": null, "cau": "Anh em muốn thấy thị trường điều chỉnh sâu thì phải đóng cửa H4 dưới 85.000 thì mới bắt đầu có tín hiệu rủi ro, lúc đó may ra mới chọn phe bán để follow. Còn hiện tại không nên chọn phe bán, chưa đủ dữ liệu."},
+    {"gio": null, "cau": "Thủng 85 thì nó không sập một phát đâu... có thể như vậy, về vùng khoảng 83-84 rồi vòng vèo ở trong đoạn này. Còn quan điểm như lần trước mình nói: nó thủng được 82 thì nó về tiếp khoảng quanh 81, bắt đầu là vùng xem xét entry đẹp."},
+    {"gio": null, "cau": "Xu hướng ở H4 này sẽ chiếm vai trò view chủ đạo của thị trường trong tuần này. Mọi người cứ follow kỹ: nó đi hướng nào ta theo hướng đó, không cần vào sớm quá."},
+    {"gio": null, "cau": "Cho nên khi thấy nó break qua 85.009 [?] hoặc 86.000 thì tốt nhất bỏ hy vọng nó về dưới này; khả năng nó tiếp tục test lại 87 rất cao."},
+    {"gio": null, "cau": "Mình nghĩ đoạn này nó sẽ rơi về 85, kéo lên 87 rồi lại kéo xuống; cứ vòng vèo trong biên này chứ không thoát ra nhanh chóng. Thị trường rất khó chơi, đoạn này rất khó đánh."},
+    {"gio": null, "cau": "Khung ngày, nếu view rộng ra thì giá ở vùng này đang bắt đầu gặp cản dần. Trong nỗ lực nó vẫn đi lên, nhưng càng lên cao càng yếu vì bên này là vùng cản rất lớn, rất cứng ở vùng 87 đến 90."},
+    {"gio": null, "cau": "Thị trường bây giờ đứng mất rồi, có gì đâu mà chơi nữa; giờ anh em mình nghỉ ngơi thôi."}
+  ],
+  "kho": "File không có mốc giờ. Buổi sideway thật sự: tín hiệu hai phía cân nhau (đỉnh thấp dần = cảnh báo giảm; đáy cao dần + 'mô hình cờ hay đi lên'), người nói nói rõ 50/50, chờ phá 85 (đóng H4 dưới 85) hay vượt 87 — nên gán PHAN_VAN. Chặng kế tiếp 'rơi về 85, kéo lên 87 rồi lại kéo xuống' chỉ là dao động trong biên. Không có câu vô hiệu một chiều vì không có view chính."
+}

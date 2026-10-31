@@ -1,0 +1,113 @@
+{
+ "buoi": "2026-10-07_1004_Rl-3RfG8EiY",
+ "ngay": "2026-10-07",
+ "gio_vn": "10:04",
+ "gia_btc_luc_noi": 84163,
+ "nhan_dinh": [
+  {
+   "khung": "H4",
+   "huong": "GIAM",
+   "do_chac": "vua",
+   "dich": [82500, 83000],
+   "han": "1–2 ngày, qua FOMC tối nay (20:00)",
+   "han_gio": 48,
+   "vo_hieu_khi": "H4 đóng trở lại trên 85.300 (lại vào trên vùng gãy 85 và Fibo 0.5 nhịp giảm 85.135)",
+   "kich_ban_phu": "hồi test lại vùng gãy 84.8–85.2 trước rồi mới gãy về 82.5–83; thủng 82 thì 81.5",
+   "duong_di": [
+    {"huong": "TANG", "dich": 84900},
+    {"huong": "GIAM", "dich": 82700}
+   ],
+   "doi_y": "ĐỔI từ PHÂN VÂN (06/10) sang GIẢM: H4 đóng dưới 85.000 — đúng mốc 'lúc đó mới chọn phe bán'",
+   "ly_do": [
+    "H4 07:00 đóng 84.163 (-1.63%) dưới 85 — người đó đã nói H4 đóng dưới 85 mới có tín hiệu rủi ro, lúc đó mới chọn phe bán",
+    "thủng trendline hỗ trợ H4 và đáy cao dần 84.980 / 84.550 — mất cấu trúc đáy sau cao hơn",
+    "giá đóng dưới dải EMA34 H4 (84.840–85.639); đỉnh thấp dần 87.238 → 86.994 → 86.694",
+    "ba nến D1 đỏ liên tiếp, D1 06/10 râu trên 1.09% bị từ chối 86.7",
+    "đích 82.5–83 hội tụ: đáy 82.557 / 82.903 + Fibo 0.382 nhịp D1 74.956→87.399 (82.646) + mép trên dải EMA34 D1 82.566 + hỗ trợ cứng 82–83"
+   ],
+   "trich": null
+  },
+  {
+   "khung": "D1",
+   "huong": "GIAM",
+   "do_chac": "thap",
+   "dich": [81500, 82600],
+   "han": "3–5 ngày",
+   "han_gio": 96,
+   "vo_hieu_khi": "D1 đóng trên 86.700",
+   "kich_ban_phu": null,
+   "duong_di": null,
+   "doi_y": null,
+   "ly_do": [
+    "người đó đã nói 06/10: điều chỉnh về MA D1 rồi đi lên tiếp cũng bình thường",
+    "giá còn cách dải EMA34 D1 (80.4–82.6) — chưa test MA ngày từ khi lên 87",
+    "cản 87–90 rất cứng, lên càng yếu, D1 đỏ ba ngày"
+   ],
+   "trich": null
+  },
+  {
+   "khung": "W1",
+   "huong": "TANG",
+   "do_chac": "vua",
+   "dich": [90000, 93000],
+   "han": "2–4 tuần",
+   "han_gio": 504,
+   "vo_hieu_khi": "nến tuần đóng dưới 82.000",
+   "kich_ban_phu": null,
+   "duong_di": null,
+   "doi_y": null,
+   "ly_do": [
+    "nến tuần trước đóng xanh 86.525, tuần này chưa đóng — điều chỉnh về 81–82 rồi lên tiếp 90 vẫn là kịch bản chính",
+    "giá trên EMA89 tuần 79.334 và dải EMA34 tuần",
+    "khó có flash dump về 7x vì sóng trước dài"
+   ],
+   "trich": null
+  }
+ ],
+ "vung_gia": {
+  "khang_cu": [84800, 85300, 85700, 86700],
+  "ho_tro": [83500, 83000, 82500, 81500]
+ },
+ "lenh": [
+  {
+   "chieu": "SHORT",
+   "loai": "limit",
+   "vao": 84900,
+   "tp": [83100, 82700],
+   "sl": 85700,
+   "trang_thai": "de_xuat_moi"
+  }
+ ],
+ "hanh_dong": "dung_ngoai_cho_entry",
+ "giu_view": false,
+ "ly_do_doi_view": "(a) Nến H4 07:00–11:00 07/10 đóng 84.163, qua mốc 'H4 đóng dưới 85.000' người đó đặt 06/10 → chọn phe bán, đi theo kịch bản về test 83–84 rồi 82, 81. Mới 1 cây và giá đang ngồi trên EMA89 H4 nên không short đuổi, chờ hồi.",
+ "rau": {
+  "tren": "85.677 — nến H4 07/10 03:00 (ngay trên vùng gãy 85); xa hơn 86.694 (H4 06/10 19:00)",
+  "duoi": "83.577 — nến H4 07/10 07:00 (râu dưới 0.68%)",
+  "test_lai": "Râu trên 85.6 CÓ — trùng vùng gãy 85 + dải EMA34 H4 + Fibo 0.5 nhịp 86.694→83.577 (85.135), chỗ hồi test lại trước khi gãy tiếp. Râu dưới 83.577 CÓ ở chặng 2 — phía dưới tới 82.9 khá trống, đích 82.5–83 nằm dưới. Râu 86.694 KHÔNG — đỉnh thấp dần, có dải EMA34 chắn."
+ },
+ "vung_on": [
+  {
+   "loai": "SHORT",
+   "khoang": [84800, 85300],
+   "ly_do": [
+    "dải EMA34 H4 84.840–85.639 vừa bị đóng thủng",
+    "Fibo 0.382–0.5 nhịp giảm 86.694→83.577 = 84.768–85.135",
+    "vùng gãy 85: trendline hỗ trợ H4 + đáy 84.980 đổi vai thành cản",
+    "liquid map hai đầu dưới 85"
+   ]
+  },
+  {
+   "loai": "LONG",
+   "khoang": [81500, 82600],
+   "ly_do": [
+    "EMA200 H4 81.530",
+    "Fibo 0.382–0.5 nhịp D1 74.956→87.399 = 82.646–81.177",
+    "mép trên dải EMA34 D1 82.566 + đáy 82.557",
+    "hỗ trợ cứng tuần 82–83, vùng entry 81 người đó nêu"
+   ]
+  }
+ ],
+ "pha_vo_gia": "Cú thủng 85 là phá thật bước đầu: thân H4 đóng 84.163 (không phải râu), phá ngược chiều đám đông đang tham (F&G 71), còn xa giờ FOMC. Mới có G2 (1 cây H4) — chưa đủ 2 dấu hiệu nên không coi là giả; cây H4 tiếp theo đóng dưới 85 là xác nhận.",
+ "loi_binh": "Hôm qua mình nói H4 đóng dưới 85 thì mới chọn phe bán — giờ đóng 84.1 rồi anh em, view chuyển xuống. Nhưng giá đang ngồi ngay MA89 H4, tối nay lại FOMC, short ở đây khác nào ô tô đâm vào tường. Chờ nó hồi lên 84.8–85.2 test lại vùng gãy rồi mình tìm short, TP non 83.1, xa hơn 82.7. Về 81.5–82.5 mới là vùng entry đẹp cho khung tuần, còn bây giờ thì đừng có FOMO long."
+}

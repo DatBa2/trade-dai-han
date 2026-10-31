@@ -1,0 +1,83 @@
+{
+ "buoi": "2026-07-29_2FMmTeLGCNY",
+ "ngay": "2026-07-29",
+ "gio_vn": "11:00",
+ "gia_btc_luc_noi": 63751,
+ "nhan_dinh": [
+  {
+   "khung": "H4",
+   "huong": "PHAN_VAN",
+   "do_chac": "vua",
+   "dich": null,
+   "han": "chờ nến H4 đóng 03:00 và 07:00 sáng 30/07 (sau tin FED 1h sáng)",
+   "han_gio": 20,
+   "vo_hieu_khi": "chờ xác nhận: H4 đóng trên 64.400 (lấy lại cụm EMA34/89/200 H4 + vượt 64 là mốc sai của view giảm hôm qua) thì mới tính hồi; H4 đóng dưới 63.400 (thủng vai phải, mất nến rút chân 62.7) thì quay lại short. Giữa 63.4-64.4 không tham gia",
+   "kich_ban_phu": "tin FED thường quét hai đầu: trước tin nhập nhằng 62.7-64.2, chạy thật sau tin 10-20 phút ở cây H4 kế tiếp",
+   "duong_di": null,
+   "doi_y": "hôm qua GIẢM chờ hồi 63-64 để sell; nay giá đã hồi đúng 64 nhưng D1 hôm qua rút chân đóng xanh + tin FED đêm nay → chuyển sang chờ nến xác nhận",
+   "ly_do": [
+    "giá kẹp sát dưới cụm EMA34/89/200 H4 chụm 64.1-64.4 (độ chụm 0.19%) = công tắc, chưa có cây H4 nào đóng qua",
+    "64 là mốc sai của view giảm hôm qua: 3 cây H4 liên tiếp râu chọc 64.07-64.20 nhưng thân đóng dưới → chưa vượt nhưng cũng chưa bị đạp xuống",
+    "D1 28/07 đóng xanh rút chân 1.6% từ 62.741 ngay cạnh dưới dải EMA34 D1 → D1 xanh thì chưa short đuổi",
+    "đáy H4 62.741 có thể thành đầu của vai đầu vai ngược (vai trái 63.06, vai phải 63.5) — chính kịch bản 'bật lên kiểu vai đầu vai ngược' hôm qua đã cảnh báo, nhưng neckline 64.2 chưa đóng qua",
+    "tin FED 1h sáng 30/7, Investing 61% giữ / 38% tăng 0.25 → 50-50, không giữ lệnh qua tin"
+   ],
+   "trich": null
+  },
+  {
+   "khung": "D1",
+   "huong": "GIAM",
+   "do_chac": "thap",
+   "dich": [60000, 62000],
+   "han": "vài ngày sau tin FED",
+   "han_gio": 96,
+   "vo_hieu_khi": "D1 đóng trên 66.000 (lấy lại kháng cự 66 + đỉnh nhấn chìm 27/07)",
+   "kich_ban_phu": "nến búa D1 28/07 có thể kéo một nhịp test lại dải EMA34 D1 65-65.2 trước khi giảm tiếp",
+   "duong_di": null,
+   "doi_y": null,
+   "ly_do": [
+    "D1 thứ Hai đỏ nhấn chìm gãy xu hướng tăng ngắn hạn, chưa có nến nào lấy lại",
+    "giá vẫn dưới EMA34 close D1 (64.37) và EMA89 D1 (67.05)",
+    "Fibo 0.5-0.618 D1 nhịp 57.8→66.95 ở 62.4/61.3 chưa test"
+   ],
+   "trich": null
+  },
+  {
+   "khung": "W1",
+   "huong": "GIAM",
+   "do_chac": "cao",
+   "dich": [40000, 50000],
+   "han": "chu kỳ downtrend tới 2027",
+   "han_gio": null,
+   "vo_hieu_khi": "nến tuần đóng trên trendline giảm khung tuần / dải EMA34 W1 ~72K",
+   "kich_ban_phu": "tháng 7 vẫn có thể đóng xanh nhưng chỉ là nhịp hồi trong downtrend",
+   "duong_di": null,
+   "doi_y": null,
+   "ly_do": [
+    "giá dưới EMA34/89 tuần, EMA34 tuần đã cắt xuống EMA89 tuần",
+    "tuần này đang đỏ -2.5% sau 4 tuần xanh yếu",
+    "chu kỳ 4 năm: downtrend từ đỉnh 126K mới đi khoảng một nửa"
+   ],
+   "trich": null
+  }
+ ],
+ "vung_gia": {
+  "khang_cu": [64200, 64600, 66000, 67000],
+  "ho_tro": [62700, 62400, 61300, 60000]
+ },
+ "lenh": [],
+ "hanh_dong": "dung_ngoai_vi_lap_lung",
+ "giu_view": false,
+ "ly_do_doi_view": "Đổi từ GIẢM sang PHÂN VÂN ở H4: giá đã hồi tới đúng mốc sai 64 của view hôm qua và đang kẹp ngay dưới cụm EMA H4 chụm, D1 28/07 đóng xanh rút chân 1.6% (nến búa), cộng tin FED 1h sáng 30/7 → phải chờ cây H4 đóng sau tin. Nền D1/W1 vẫn giữ GIẢM.",
+ "rau": {
+  "tren": "64.197 (H4 mở 07:00 29/07), trước đó 64.100 (H4 23:00 28/07) và 64.074 (H4 03:00 29/07) — ba râu liên tiếp chọc 64",
+  "duoi": "62.741 (H4 mở 19:00 28/07, râu dưới 1.13%, phiên Mỹ; cũng là râu D1 28/07 1.6%)",
+  "test_lai": "Râu dưới 62.741: CÓ — râu D1 dài chưa test, nằm sát Fibo 0.5 D1 62.38 + đáy H4 17/07 62.5K, tin FED quét hai đầu sẽ quay lại thăm (R1+R2). Râu trên 64.1-64.2: đã bị test 3 lần → mất giá trị làm cản riêng, cái quyết định là thân H4 đóng qua 64.4 hay không."
+ },
+ "vung_on": [
+  {"loai": "SHORT", "khoang": [64200, 64700], "ly_do": ["cụm EMA34/89/200 H4 64.1-64.7 (dải EMA34 H4)", "Fibo 0.5-0.618 nhịp giảm H4 65.75→62.74 (64.25/64.60)", "hỗ trợ cũ 64 đổi vai thành cản, 3 râu H4 bị từ chối", "vùng sell 63-64 đã nêu hôm qua"]},
+  {"loai": "LONG", "khoang": [61300, 62500], "ly_do": ["Fibo 0.5-0.618 D1 nhịp 57.8→66.95 (62.38/61.30)", "đáy H4 17/07 62.536 và 13/07 61.83", "hỗ trợ 61-62.5 + vai đầu vai ngược đã nêu 28/07"]}
+ ],
+ "pha_vo_gia": "Cả hai phía đều là phá giả: râu 62.741 chọc dưới 63 rồi rút (G1 chỉ râu, G4 quét SL phe long dưới 63, G9 phiên Mỹ); ba râu chọc 64.07-64.20 thân đóng dưới (G1, G6 trước tin FED). Chưa có cây H4 nào đóng ra khỏi 63.4-64.4 → không tính.",
+ "loi_binh": "Hôm qua mình nói chờ hồi 63-64 để sell, giá lên đúng 64 rồi nhưng ba cây H4 chỉ có râu, chưa đóng qua, mà cây ngày hôm qua lại rút chân đóng xanh. Đêm nay FED, trước tin chạy, đến tin đứng, sau tin mới chạy ngược lại, giờ giá kẹp ngay dưới cụm MA H4 thì long không được short không xong. H4 đóng trên 64.4 thì mình tính tiếp, đóng thủng 63.4 thì short lại, còn giờ 50-50 là mình không tham gia. Thà rớt nước miếng còn hơn lau nước mắt."
+}

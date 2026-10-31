@@ -1,0 +1,44 @@
+{
+  "buoi": "2026-10-15_1005_5iN8iTFsmlY",
+  "gia_btc_luc_noi": 81000,
+  "dau_buoi": {
+    "huong_h4": "GIAM",
+    "trich": "§ Khung H4: D1 điều chỉnh, H4 xu hướng giảm. Không có bất kỳ tín hiệu nào cho thấy xu hướng tăng có khả năng giữ được hoặc quay trở lại cho đến thời điểm bây giờ."
+  },
+  "cuoi_buoi": {
+    "huong_h4": "GIAM",
+    "trich": "§ Cập nhật theo H4 đóng nến: H4 đóng cửa ở đây thì coi như là gãy, tiếp tục gãy, phá đáy. Chân bên này là 81.000 mà bây giờ đóng dưới 81 rồi."
+  },
+  "doi_y_giua_buoi": false,
+  "huong_lon": {
+    "D1": "GIAM",
+    "W1": null,
+    "chu_ky": null
+  },
+  "hanh_dong": "dung_ngoai_cho_entry",
+  "duong_di": [
+    {
+      "huong": "GIAM",
+      "dich": 80000,
+      "khung": "H4"
+    },
+    {
+      "huong": "TANG",
+      "dich": 82000,
+      "khung": "H1"
+    },
+    {
+      "huong": "GIAM",
+      "dich": null,
+      "khung": "H4"
+    }
+  ],
+  "dich_chinh": null,
+  "moc_sai": {
+    "gia": null,
+    "dieu_kien": "Muốn nhìn hồi cần hai H4: một cây rút râu tại hỗ trợ và cây sau xanh (§ Bitcoin trước giờ live). Không nêu một SL số cho view giảm."
+  },
+  "pha_vo_gia": null,
+  "do_chac": "cao",
+  "ghi_chu": "Đã đọc hết transcript. Giá khoảng 81.000 đầu buổi, H4 cuối đóng dưới 81.000. Không đánh long lúc này; short mới trên 81.000 phải nhanh, vùng hiện tại sát hỗ trợ nên chờ hồi lấy entry. § Tâm lý và thanh lý: tìm ăn quanh 80.000 rồi chờ đảo/quét tới 82.000 để xem vào lại. Đích H4 sâu hơn là vùng 77.000–76.000, không chọn tùy ý nên null chặng cuối/đích chính. Chặng hồi 82.000 chỉ là dự kiến có thể rất nhanh, không đảo hướng H4. W1 suy yếu, đích 90.000 xa dần nhưng chưa khẳng định đảo giảm W1 nên null. Chưa có nhận định chu kỳ riêng đủ rõ trong buổi nên null; độ chắc cao cho H4, không cho chính xác từng chặng."
+}

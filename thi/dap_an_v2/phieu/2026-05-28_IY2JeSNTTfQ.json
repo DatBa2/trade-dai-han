@@ -1,0 +1,72 @@
+{
+  "buoi": "2026-05-28_IY2JeSNTTfQ",
+  "ngay": "2026-05-28",
+  "gio_vn": "10:00",
+  "gia_btc_luc_noi": 74000,
+  "nhan_dinh": [
+    {
+      "khung": "H4",
+      "huong": "GIAM",
+      "do_chac": "cao",
+      "dich": [71000, 72000],
+      "han": "đầu buổi: từ giờ đến trưa chiều có thể hồi nhẹ; tối có tin",
+      "han_gio": 24,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": "nếu H4 xanh/hồi nhẹ lên 74.000-75.000 thì có thể scalping short M5; nếu không bám hồi thì về thẳng 72",
+      "ly_do": ["H4 và D1 đồng thuận xu hướng giảm (giá < MA34 < MA89 < MA200)", "vùng hợp lưu 72.000: trendline D1, Fibo, Fibo mở rộng 71-72", "chưa có dấu hiệu hồi sinh, nhịp hồi vừa rồi không thành công"],
+      "trich": "Cái vùng hợp lưu ở quanh cái 72.000 này mình thấy rất là dễ để về dưới này.",
+      "doi_y": null,
+      "duong_di": [
+        {"huong": "GIAM", "dich": 72000},
+        {"huong": "TANG", "dich": 75000},
+        {"huong": "GIAM", "dich": null}
+      ]
+    },
+    {
+      "khung": "D1",
+      "huong": "GIAM",
+      "do_chac": "cao",
+      "dich": 72000,
+      "han": null,
+      "han_gio": null,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": null,
+      "ly_do": ["khung ngày tín hiệu rất xấu, mô hình vai đầu vai", "nến tuần nhấn chìm gặp MA + Fibo", "đã đi khoảng 40-50% downtrend"],
+      "trich": "khung ngày tiếp tục có những tín hiệu rất rất cực kỳ xấu. Ở đây cũng thể hiện mô hình vai đầu vai.",
+      "doi_y": null,
+      "duong_di": null
+    },
+    {
+      "khung": "M5",
+      "huong": "TANG",
+      "do_chac": "thap",
+      "dich": 75000,
+      "han": "từ giờ đến trưa chiều",
+      "han_gio": 12,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": null,
+      "ly_do": ["có khả năng hai đáy M5", "cây quét bán mạnh dễ kéo lên", "liquidation dày quanh 75.000"],
+      "trich": "Cây M5 này mà rút lên thì khả năng phục hồi từ giờ đến trưa chiều là cao.",
+      "doi_y": null,
+      "duong_di": null
+    }
+  ],
+  "vung_gia": {"khang_cu": [74000, 75000], "ho_tro": [71000, 72000]},
+  "lenh": [
+    {"chieu": "SHORT", "loai": "market", "vao": 74300, "tp": [73600], "sl": 74800,
+     "trang_thai": "da_chot", "trich": "Chúng ta vào khoảng 74k3, ăn được khoảng 73k6, được khoảng 700 giá. 700 giá là ngon rồi."},
+    {"chieu": "SHORT", "loai": "bot", "vao": null, "tp": [72000], "sl": null,
+     "trang_thai": "dang_giu", "trich": "Mình dự kiến quanh vùng 72 này mình sẽ đóng hết, thấy đủ là được."}
+  ],
+  "nhin_lai_truoc": "Hôm qua short đúng view, TP được cả lệnh đuổi tối qua; chốt ETH ở 2004 đã đúng, ETH về 1900; bán BTC 81-82 rồi giảm.",
+  "cong_cu": ["D1", "H4", "MA34/89/200", "Fibo", "Fibo mở rộng", "trendline", "gap CME", "liquidation", "USDT.D", "BTC.D"],
+  "tin_tuc": [{"tin": "Iran tuyên bố tấn công căn cứ không quân Mỹ", "danh_gia": "thị trường hợp lý hóa tin tức"}, {"tin": "tin tối nay / tối thứ sáu 19:00", "danh_gia": "có thể hồi theo tin"}],
+  "thoi_quen": ["xác định xu hướng bằng giá > MA34 > MA89 > MA200 trên D1 và H4, đồng thuận thì chỉ đi thuận", "đà đạp nhanh thì TP, không short đuổi", "chốt ít cũng được, farm tích lũy dần", "đã chốt lãi thì không vào lại", "cuối tháng nhạy cảm, thận trọng"],
+  "cau_cua_mieng": ["Thà rớt nước miếng còn hơn lau nước mắt.", "Ngược xu hướng cũng đi nộp phạt như thường.", "Tập này cứ short là có tiền thôi. Đừng có đi ngược xu hướng."],
+  "altcoin": [
+    {"coin": "altcoin chung", "huong": "GIAM", "ghi": "DOM gãy, altcoin gãy; USDT.D D1 có thể chạy cờ lên ~10%, hợp lý hóa BTC dưới 50.000"},
+    {"coin": "ETH", "huong": "GIAM", "ghi": "về 1900-1966, không bắt long ngược xu hướng"},
+    {"coin": "HYPE", "huong": "GIAM", "ghi": "short entry 60-63 ngon, spot mùa sau không ổn"}
+  ],
+  "ghi_chu": "Bản làm sạch không có giờ live; gio_vn mặc định 10:00. Giữa buổi giá hồi lên 73.900 sau khi quét về khoảng 72.x; vẫn giữ plan 72."
+}

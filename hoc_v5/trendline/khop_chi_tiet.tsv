@@ -1,0 +1,89 @@
+buoi	nguon	giay	t_utc	khung	loai	loai_so	gia_ref	nguon_gia	trang_thai_nhan	n_duong	chinh_neo1	chinh_neo2	chinh_gia	lech_pct	khop_gia_chinh	khop_gia_tap	tt_may	khop_tt	vol_pha
+2026-01-13_vg80vm31RLM	nhan	749	2026-01-13 03:19	D1	ho_tro_tang	ho_tro_tang			vua_pha	7	2025-12-18 00:00 84456	2026-01-08 00:00 89328	90520				giu	False	
+2026-01-13_vg80vm31RLM	nhan	873	2026-01-13 03:21	D1	ho_tro_tang	ho_tro_tang			dang_giu	7	2025-12-18 00:00 84456	2026-01-08 00:00 89328	90520				giu	True	
+2026-01-20_GygVJDmjlgY	nhan	497	2026-01-20 03:44	D1	kenh	ho_tro_tang	90000.0	nhan	chua_pha	7	2025-12-18 00:00 84456	2026-01-08 00:00 89328	92148	+2.39	False	False	giu		
+2026-01-26_KZ3cHk9a3yc	nhan	441	2026-01-26 03:43	D1	kenh	khang_cu_giam	91000.0	nhan	pha_roi_test_lai	3	2025-10-06 00:00 126200	2026-01-14 00:00 97925	94489	+3.83	False	False	giu		
+2026-02-16_0zDtKlmcydA	nhan	941	2026-02-16 06:34	H4	ho_tro_tang	ho_tro_tang	68000.0	nhan	dang_giu	1	2026-02-06 00:00 60000	2026-02-12 16:00 65120	67891	-0.16	True	True	giu	True	
+2026-02-16_0zDtKlmcydA	nhan	1036	2026-02-16 06:36	H4	ho_tro_tang	ho_tro_tang	66000.0	nhan	dang_giu	1	2026-02-06 00:00 60000	2026-02-12 16:00 65120	67891	+2.87	False	False	giu	True	
+2026-02-26_7zFMbvqo3QI	nhan	2314	2026-02-26 03:33	H4	khang_cu_giam	khang_cu_giam			vua_pha	17	2026-02-06 20:00 71746	2026-02-14 08:00 70577	68735				pha_gia	False	2.01
+2026-03-02_GYgaZiYqRXY	nhan	1655	2026-03-02 03:17	H4	ho_tro_tang	ho_tro_tang			dang_giu	3	2026-02-06 00:00 60000	2026-02-28 04:00 63020	63289				giu	True	
+2026-03-05_pbr4y9qP1Ys	nhan	1888	2026-03-05 03:30	H4	khang_cu_giam	khang_cu_giam			vua_pha	21	2026-02-06 20:00 71746	2026-02-15 08:00 70969	69342				pha_roi_test_lai	True	1.32
+2026-03-09_-jRLufOuVEE	nhan	1846	2026-03-09 03:30	D1	ho_tro_tang	ho_tro_tang			dang_giu	3	2026-02-06 00:00 60000	2026-02-24 00:00 62500	64326				giu	True	
+2026-03-09_-jRLufOuVEE	nhan	1972	2026-03-09 03:32	H4	ho_tro_tang	ho_tro_tang			pha_roi_test_lai	9	2026-03-01 20:00 65052	2026-03-08 04:00 66543	66774				vua_pha_1n	False	1.19
+2026-03-11_q-9RpBVzOhU	nhan	2523	2026-03-11 15:46	H4	kenh	ho_tro_tang	66000.0	nhan	dang_giu	12	2026-02-24 12:00 62500	2026-03-08 04:00 66543	67753	+2.66	False	True	giu		
+2026-03-12_qJZk9q5A7rA	nhan	1447	2026-03-12 03:25	H4	ho_tro_tang	ho_tro_tang			dang_giu	12	2026-02-24 12:00 62500	2026-03-08 04:00 66543	67921				pha_gia	True	1.19
+2026-03-16_uXm43DPUtPQ	nhan	1336	2026-03-16 03:24	H4	ho_tro_tang	ho_tro_tang			dang_giu	15	2026-02-24 12:00 62500	2026-03-08 04:00 66543	69307				pha_gia	True	1.19
+2026-03-17_UKs5T1J0H9w	nhan	1454	2026-03-17 03:29	D1	khang_cu_giam	khang_cu_giam			chua_pha	5	2025-10-06 00:00 126200	2026-01-14 00:00 97925	80354				giu	True	
+2026-03-20_XLNjYQA8JPs	nhan	932	2026-03-20 03:16	D1	ho_tro_tang	ho_tro_tang			dang_giu	6	2026-02-06 00:00 60000	2026-02-24 00:00 62500	65853				giu	True	
+2026-03-23_bSnFyHqyo5c	nhan	2418	2026-03-23 03:36	D1	ho_tro_tang	ho_tro_tang	68000.0	nhan	dang_giu	6	2026-02-06 00:00 60000	2026-02-24 00:00 62500	66271	-2.54	False	False	giu	True	
+2026-03-24_xKTPieljFuY	nhan	1283	2026-03-24 03:16	D1	ho_tro_tang	ho_tro_tang	67000.0	nhan	dang_giu	3	2026-02-06 00:00 60000	2026-02-24 00:00 62500	66408	-0.88	False	False	giu	True	
+2026-03-25_byYCWvbkZyU	nhan	1236	2026-03-25 03:18	H4	ho_tro_tang	ho_tro_tang			dang_giu	12	2026-03-03 12:00 66150	2026-03-08 04:00 66543	67975				pha_gia	True	1.19
+2026-03-26_35w3e47m3wY	nhan	630	2026-03-26 03:08	D1	ho_tro_tang	ho_tro_tang			dang_giu	7	2026-02-06 00:00 60000	2026-02-24 00:00 62500	66685				giu	True	
+2026-03-30_KbxhGxmcYwg	nhan	524	2026-03-30 03:07	D1	ho_tro_tang	ho_tro_tang			pha_roi_test_lai	4								False	
+2026-04-01_Be-e74Mwx0U	nhan	1928	2026-04-01 03:33	D1	kenh	khang_cu_giam	69000.0	nhan	pha_roi_test_lai	8	2026-01-14 00:00 97925	2026-03-25 00:00 72012	69366	+0.53	False	False	giu		
+2026-04-02_orDQVRuxI1E	nhan	329	2026-04-02 03:04	H4	khang_cu_giam	khang_cu_giam			chua_pha	16	2026-01-14 20:00 97925	2026-04-01 04:00 69318	68958				giu	True	
+2026-04-02_orDQVRuxI1E	nhan	410	2026-04-02 03:05	H4	ho_tro_tang	ho_tro_tang			dang_giu	17	2026-03-02 12:00 65276	2026-03-31 08:00 66000	66045				giu	True	
+2026-04-02_orDQVRuxI1E	nhan	1159	2026-04-02 03:18	D1	ho_tro_tang	ho_tro_tang			dang_giu	6	2026-02-06 00:00 60000	2026-03-29 00:00 65000	65406				giu	True	
+2026-04-02_orDQVRuxI1E	nhan	2682	2026-04-02 03:43	D1	khang_cu_giam	khang_cu_giam			chua_pha	8	2026-01-14 00:00 97925	2026-03-25 00:00 72012	68993				giu	True	
+2026-04-06_b48t6sSiV90	nhan	1187	2026-04-06 03:15	D1	khang_cu_giam	khang_cu_giam			vua_pha	11	2026-01-14 00:00 97925	2026-03-25 00:00 72012	67519				vua_pha_1n	True	2.38
+2026-04-07_HeBpJr0i6Bg	nhan	883	2026-04-07 03:15	D1	khang_cu_giam	khang_cu_giam			vua_pha	11	2026-01-14 00:00 97925	2026-03-25 00:00 72012	67149				da_pha	True	2.38
+2026-04-07_HeBpJr0i6Bg	nhan	1183	2026-04-07 03:20	H4	ho_tro_tang	ho_tro_tang	67000.0	nhan	dang_giu	25	2026-02-24 12:00 62500	2026-03-31 08:00 66000	66684	-0.47	True	True	giu	True	
+2026-04-20_nN446WPRxPo	nhan	1348	2026-04-20 03:54	H4	ho_tro_tang	ho_tro_tang			dang_giu	31	2026-02-24 12:00 62500	2026-03-31 08:00 66000	67992				giu	True	
+2026-04-21_AG126RfNCk4	nhan	1405	2026-04-21 03:56	D1	kenh	ho_tro_tang	67000.0	nhan	dang_giu	8	2026-03-08 00:00 65616	2026-04-02 00:00 65702	65767	-1.84	False	True	giu		
+2026-05-04_VUUbKp4bFSU	nhan	1593	2026-05-04 03:27	H4	khang_cu_giam	khang_cu_giam			vua_pha	4	2026-04-27 00:00 79488	2026-05-01 12:00 78920	78586				pha_gia	False	0.63
+2026-05-27_cFwCrK3RjcQ	nhan	967	2026-05-27 03:15	D1	ho_tro_tang	ho_tro_tang			chua_pha	13	2026-03-08 00:00 65616	2026-04-02 00:00 65702	65890				giu	True	
+2026-05-28_IY2JeSNTTfQ	nhan	2016	2026-05-28 03:32	D1	ho_tro_tang	ho_tro_tang	72000.0	nhan	dang_giu	13	2026-03-08 00:00 65616	2026-04-02 00:00 65702	65894	-8.48	False	False	giu	True	
+2026-06-09_UmnCq7p4NlU	nhan	576	2026-06-09 03:05	H4	ho_tro_tang	ho_tro_tang			chua_pha	1	2026-06-05 16:00 59111	2026-06-07 16:00 61185	62701				giu	True	
+2026-06-12_x75V4Kb1fj4	nhan	1598	2026-06-12 03:26	H4	ho_tro_tang	ho_tro_tang	61000.0	nhan	dang_giu	2	2026-06-05 16:00 59111	2026-06-09 16:00 60770	61797	+1.31	False	True	giu	True	
+2026-06-23_w3K-VXD_Tns	nhan	215	2026-06-23 03:03	H4	ho_tro_tang	ho_tro_tang			dang_giu	12	2026-06-18 16:00 62270	2026-06-20 12:00 63200	64533				vua_pha_1n	False	0.52
+2026-06-23_w3K-VXD_Tns	nhan	1223	2026-06-23 03:20	H4	khang_cu_giam	khang_cu_giam			pha_roi_test_lai	39	2026-05-31 00:00 74277	2026-06-15 12:00 67300	63862				pha_roi_test_lai	True	0.63
+2026-06-24_ZrqOEgiFEF8	nhan	954	2026-06-24 03:16	H4	ho_tro_tang	ho_tro_tang			vua_pha	15	2026-06-18 16:00 62270	2026-06-20 12:00 63200	65045				pha_roi_test_lai	True	0.52
+2026-06-29_wyCTvVbTVPE	nhan	1102	2026-06-29 03:19	H4	ho_tro_tang	ho_tro_tang			dang_giu	0								False	
+2026-07-01_WNiQnpm2BLo	nhan	878	2026-07-01 03:19	D1	ho_tro_tang	ho_tro_tang			dang_giu	2								False	
+2026-07-01_WNiQnpm2BLo	nhan	878	2026-07-01 03:19	D1	khang_cu_giam	khang_cu_giam			dang_giu	14	2025-11-11 00:00 107500	2026-05-06 00:00 82842	74977				pha_gia	True	2.38
+2026-07-01_WNiQnpm2BLo	nhan	1003	2026-07-01 03:21	H4	khang_cu_giam	khang_cu_giam			vua_pha	39	2026-05-31 00:00 74277	2026-06-16 08:00 66995	60394				pha_gia	False	0.38
+2026-07-03_IV0Mlz8kNPI	nhan	1470	2026-07-03 03:25	D1	khang_cu_giam	khang_cu_giam			chua_pha	14	2025-11-11 00:00 107500	2026-05-06 00:00 82842	74696				pha_gia	True	2.38
+2026-07-10_QwYznPgaAFY	nhan	3978	2026-07-10 04:08	H4	khang_cu_giam	khang_cu_giam			vua_pha	45	2026-05-14 16:00 82048	2026-05-26 12:00 78084	63121				vua_pha_1n	True	0.60
+2026-07-10_QwYznPgaAFY	nhan	3978	2026-07-10 04:08	H4	khang_cu_giam	khang_cu_giam			chua_pha	45	2026-05-14 16:00 82048	2026-05-26 12:00 78084	63121				vua_pha_1n	False	0.60
+2026-07-13_O3q2fmXlwhk	nhan	1538	2026-07-13 03:26	H4	ho_tro_tang	ho_tro_tang			chua_pha	3	2026-07-01 00:00 57809	2026-07-08 12:00 61548	63863				giu	True	
+2026-07-15_-T8Wu5b89B4	nhan	1572	2026-07-15 03:24	H4	ho_tro_tang	ho_tro_tang			dang_giu	4	2026-07-06 12:00 61318	2026-07-08 12:00 61548	62313				giu	True	
+2026-07-16_bwgz_kMSvfE	nhan	950	2026-07-16 03:18	H4	ho_tro_tang	ho_tro_tang	62000.0	nhan	dang_giu	4	2026-07-06 12:00 61318	2026-07-08 12:00 61548	62427	+0.69	False	True	giu	True	
+2026-07-21_azP_1WdR-CE	nhan	1032	2026-07-21 03:18	H4	khang_cu_giam	khang_cu_giam			vua_pha	32	2026-05-10 20:00 82474	2026-07-15 12:00 65600	64151				pha_roi_test_lai	True	1.36
+2026-07-27_YMlDceykaTw	nhan	1216	2026-07-27 03:28	H4	ho_tro_tang	ho_tro_tang			dang_giu	18	2026-07-08 12:00 61548	2026-07-24 12:00 63740	64102				giu	True	
+2026-07-28_1wDQbk0akZs	nhan	258	2026-07-28 03:59	D1	khang_cu_giam	khang_cu_giam			dang_giu	15	2026-05-21 00:00 78200	2026-07-21 00:00 66955	65634				giu	True	
+2026-07-28_1wDQbk0akZs	nhan	258	2026-07-28 03:59	D1	ho_tro_tang	ho_tro_tang			vua_pha	1								False	
+2026-07-31_SlGyokVNofU	nhan	602	2026-07-31 03:18	H4	khang_cu_giam	khang_cu_giam	65000.0	nhan	dang_giu	34	2026-05-14 16:00 82048	2026-07-21 12:00 66955	64811	-0.29	True	True	giu	True	
+2026-08-04_K6QkKY6Og7o	nhan	809	2026-08-04 03:30	H4	kenh	khang_cu_giam	64000.0	nhan	chua_pha	45	2026-05-14 16:00 82048	2026-07-21 12:00 66955	63919	-0.13	True	True	giu		
+2026-08-05_uw4QcusFtBc	nhan	1773	2026-08-05 03:30	H4	kenh	khang_cu_giam	64000.0	nhan	chua_pha	42	2026-05-25 12:00 77907	2026-07-21 12:00 66955	64141	+0.22	True	True	giu		
+2026-08-06__Ypby-_iFsg	nhan	849	2026-08-06 03:17	H4	khang_cu_giam	khang_cu_giam	64000.0	nhan	pha_roi_test_lai	51	2026-05-25 12:00 77907	2026-07-21 12:00 66955	63951	-0.08	True	True	vua_pha_2n	False	2.11
+2026-08-07_N-7XihrObp8	nhan	1379	2026-08-07 03:26	H4	khang_cu_giam	khang_cu_giam	64000.0	nhan	pha_roi_test_lai	54	2026-05-25 12:00 77907	2026-07-21 12:00 66955	63757	-0.38	True	True	da_pha	True	2.11
+2026-08-10_1001_8BGhoFetSaU	nhan	3754	2026-08-10 04:03	H4	ho_tro_tang	ho_tro_tang			dang_giu	23	2026-07-06 12:00 61318	2026-07-28 12:00 62741	63560				pha_gia	True	0.93
+2026-08-11_1005_KvVvliql8xI	nhan	1830	2026-08-11 03:35	D1	khang_cu_giam	khang_cu_giam	66000.0	nhan	chua_pha	18	2025-11-11 00:00 107500	2026-05-06 00:00 82842	69231	+4.90	False	True	pha_gia	True	1.51
+2026-08-11_1005_KvVvliql8xI	nhan	1830	2026-08-11 03:35	H4	khang_cu_giam	khang_cu_giam			pha_roi_test_lai	44	2026-07-24 04:00 65800	2026-08-08 12:00 65190	65084				pha_gia	False	1.26
+2026-08-20_1003_eBveasTOjTs	nhan	2160	2026-08-20 03:39	D1	khang_cu_giam	khang_cu_giam			vua_pha	16	2026-01-14 00:00 97925	2026-05-10 00:00 82474	68866				vua_pha_1n	True	2.46
+2026-08-25_1003_nSxBbLai2mE	nhan	2250	2026-08-25 03:40	H4	khang_cu_giam	khang_cu_giam			vua_pha	1	2026-08-21 08:00 79516	2026-08-22 00:00 78832	75599				pha_roi_test_lai	True	0.24
+2026-08-26_1001_I1DFCTsjQXE	nhan	2220	2026-08-26 03:38	H4	khang_cu_giam	khang_cu_giam			chua_pha	0								False	
+2026-09-03_1012_8LXm3pVw9yI	nhan	1170	2026-09-03 03:31	H4	khang_cu_giam	khang_cu_giam			chua_pha	4	2026-08-25 00:00 81280	2026-08-30 16:00 79401	78248				giu	True	
+2026-09-07_1007_0oycLOOqibw	nhan	1950	2026-09-07 03:39	H4	ho_tro_tang	ho_tro_tang				39	2026-07-06 12:00 61318	2026-08-01 16:00 62268	63593				giu		
+2026-09-17_1002_1cUPKUmEnr4	nhan	1740	2026-09-17 03:31	H4	khang_cu_giam	khang_cu_giam	78000.0	nhan	chua_pha	7	2026-09-06 20:00 80555	2026-09-09 08:00 79768	77307	-0.89	False	True	pha_gia	True	1.30
+2026-09-30_1003_3qAxAK71YAs	nhan	1980	2026-09-30 03:36	H4	ho_tro_tang	ho_tro_tang			vua_pha	44	2026-07-06 12:00 61318	2026-08-01 16:00 62268	64429				giu	False	
+2026-10-02_1001_AxRfx12h9Z0	nhan	1950	2026-10-02 03:33	H4	khang_cu_giam	khang_cu_giam	85000.0	nhan	vua_pha	13	2026-09-21 20:00 87399	2026-09-27 12:00 85200	83396	-1.89	False	True	giu	False	
+2026-10-05_1013_5U5CVdTlwT8	nhan	1950	2026-10-05 03:45	H4	ho_tro_tang	ho_tro_tang	85000.0	nhan	dang_giu	52	2026-09-15 16:00 74956	2026-10-02 16:00 83884	85192	+0.23	True	True	giu	True	
+2026-10-06_1001_CABZxVcYavM	nhan	1029	2026-10-06 03:18	H4	ho_tro_tang	ho_tro_tang			dang_giu	52	2026-09-15 16:00 74956	2026-10-02 16:00 83884	85707				pha_gia	True	1.75
+2026-10-07_1004_Rl-3RfG8EiY	nhan	1156	2026-10-07 03:23	H4	ho_tro_tang	ho_tro_tang			vua_pha	54	2026-09-15 16:00 74956	2026-10-02 16:00 83884	86234				vua_pha_2n	True	2.09
+2026-10-13_1005_4ttwL_4CC9E	nhan	1273	2026-10-13 03:26	H4	ho_tro_tang	ho_tro_tang			dang_giu	20	2026-07-31 12:00 62457	2026-08-13 16:00 62846	64634				pha_gia	True	0.50
+2026-10-15_1005_5iN8iTFsmlY	nhan	1065	2026-10-15 03:22	H4	ho_tro_tang	ho_tro_tang			pha_roi_test_lai	26	2026-07-31 12:00 62457	2026-08-13 16:00 62846	64693				pha_gia	False	0.50
+2026-10-19_1001_-avZ2E3n2oE	nhan	2340	2026-10-19 03:40	H4	khang_cu_giam	khang_cu_giam			chua_pha	27	2026-10-05 00:00 86994	2026-10-13 08:00 84166	82191				giu	True	
+2026-10-20_1017_zzhCJ1Bb_vg	nhan	1650	2026-10-20 03:44	H4	khang_cu_giam	khang_cu_giam	83000.0	nhan	dang_giu	33	2026-10-05 00:00 86994	2026-10-13 08:00 84166	81851	-1.38	False	True	giu	True	
+2026-10-23_1002_cb85mXIfTv8	nhan	1920	2026-10-23 03:34	H4	khang_cu_giam	khang_cu_giam			pha_roi_test_lai	14	2026-09-21 20:00 87399	2026-10-05 00:00 86994	86436				giu	False	
+2026-10-23_1002_cb85mXIfTv8	nhan	1920	2026-10-23 03:34	H4	ho_tro_tang	ho_tro_tang			dang_giu	48	2026-09-20 00:00 80133	2026-10-13 00:00 81033	81430				vua_pha_1n	False	0.27
+2026-02-27_9wE4YYq3P6Y	anh	1770	2026-02-27 03:26	H4	khang_cu_giam	khang_cu_giam	66700.0	anh	pha_roi_test_lai	24	2026-02-06 20:00 71746	2026-02-14 08:00 70577	68580	+2.82	False	True	pha_roi_test_lai	True	2.03
+2026-03-12_qJZk9q5A7rA	anh	1650	2026-03-12 03:28	H4	khang_cu_giam	khang_cu_giam	71280.0	anh	chua_pha	14	2026-01-18 20:00 95529	2026-03-04 16:00 74096	70521	-1.06	False	True	giu	True	
+2026-05-27_cFwCrK3RjcQ	anh	1110	2026-05-27 03:17	H4	khang_cu_giam	khang_cu_giam	75170.0	anh	da_pha	9	2026-05-17 08:00 78605	2026-05-21 08:00 78200	77612	+3.25	False	False	giu	False	
+2026-06-25_gy-YwzytUiA	anh	930	2026-06-25 03:15	D1	ho_tro_tang	ho_tro_tang	58950.0	anh	dang_giu	3	2026-02-06 00:00 60000	2026-06-10 00:00 60687	60771	+3.09	False	False	pha_gia	True	3.10
+2026-08-18__c0_SERWnz0	anh	570	2026-08-18 03:06	D1	khang_cu_giam	khang_cu_giam	64740.0	anh	chua_pha	22	2025-10-27 00:00 116400	2026-05-06 00:00 82842	64547	-0.30	True	True	pha_gia	True	1.51
+2026-08-18__c0_SERWnz0	anh	570	2026-08-18 03:06	D1	ho_tro_tang	ho_tro_tang	62710.0	anh	dang_giu	5	2026-07-13 00:00 61830	2026-08-01 00:00 62268	62664	-0.07	True	True	giu	True	
+2026-08-18__c0_SERWnz0	anh	1170	2026-08-18 03:16	H4	khang_cu_giam	khang_cu_giam	64870.0	anh	chua_pha	41	2026-07-24 04:00 65800	2026-08-08 12:00 65190	64806	-0.10	True	True	pha_gia	True	1.26
+2026-08-18__c0_SERWnz0	anh	2550	2026-08-18 03:39	H4	ho_tro_tang	ho_tro_tang	62525.0	anh	dang_giu	29	2026-07-06 12:00 61318	2026-08-01 16:00 62268	62867	+0.55	False	True	giu	True	
+2026-09-04_eujLmRVw88k	anh	330	2026-09-04 03:19	H4	khang_cu_giam	khang_cu_giam	77780.0	anh	vua_pha	4	2026-08-25 00:00 81280	2026-08-30 16:00 79401	77919	+0.18	True	True	vua_pha_2n	True	3.47
+2026-10-02_AxRfx12h9Z0	anh	1110	2026-10-02 03:19	H4	khang_cu_giam	khang_cu_giam	83470.0	anh	vua_pha	13	2026-09-21 20:00 87399	2026-09-27 12:00 85200	83400	-0.08	True	True	pha_roi_test_lai	True	0.90

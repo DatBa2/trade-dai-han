@@ -1,0 +1,60 @@
+{
+  "buoi": "2026-01-16_SllvhCOjrkE",
+  "ngay": "2026-01-16",
+  "gio_vn": "10:00",
+  "gia_btc_luc_noi": null,
+  "nhan_dinh": [
+    {
+      "khung": "H4",
+      "huong": "GIAM",
+      "do_chac": "vua",
+      "dich": [93000, 94000],
+      "han": "trong ngày",
+      "han_gio": 24,
+      "vo_hieu_khi": "lên 98.000 mạnh / lực mua mạnh thì cắt sớm; đã nói nếu lên khoảng 96 thấy không ổn có thể out",
+      "kich_ban_phu": "có thể bứt lên 95-96.000 test lại rồi mới điều chỉnh xuống; nếu xả sâu về 92 rồi nhấp lên 93 thì ăn sóng nhỏ",
+      "ly_do": [
+        "nến ngày đỏ đầu tiên sau chuỗi tăng 90→97, vùng 96-98 là TP1 của nhịp tăng đã đạt, 97 là Fibo 1618",
+        "H4 giao dịch dưới MA, H1 trong xu hướng điều chỉnh, tất cả khung đang điều chỉnh",
+        "BTC.D tăng, USDT.D phục hồi nên thị trường chưa tươi tốt"
+      ],
+      "trich": "Mình nghĩ sẽ còn giảm nữa. Tệ cũng phải về 94 hoặc 93. Hôm nay ở đây chắc là sẽ làm một cái lệnh short nho nhỏ.",
+      "doi_y": null,
+      "duong_di": null
+    },
+    {
+      "khung": "chung",
+      "huong": "TANG",
+      "do_chac": "thap",
+      "dich": null,
+      "han": null,
+      "han_gio": null,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": "view lớn vẫn tăng nhưng nhịp này là điều chỉnh nên chưa vội long, chờ về 93-94 có nến đẹp mới long; D1 MA200 vẫn hy vọng một nhịp cuối lên 99-100",
+      "ly_do": ["view khác lệnh: view tăng vẫn có thể short nhịp điều chỉnh"],
+      "trich": "view thì view nó vẫn tăng nhưng nhịp này đang là nhịp điều chỉnh nên mình không tham gia, chưa vội long.",
+      "doi_y": null,
+      "duong_di": null
+    }
+  ],
+  "vung_gia": {"khang_cu": [96000, 98000], "ho_tro": [93000, 94000]},
+  "lenh": [
+    {"chieu": "SHORT", "loai": "dò", "vao": 96700, "tp": [94000, 93000], "sl": null,
+     "trang_thai": "dang_giu", "trich": "Short 967 TP kênh nở 94 93. ... chắc mình sẽ cho anh em một cái lệnh short để dò thị trường trước."}
+  ],
+  "nhin_lai_truoc": "Lệnh bạc hôm qua TP ở 92 ăn được 5%; nhịp bắt tháng 12 đầu tháng 1 coi như chốt lãi xong (ăn mười mấy phần). Vùng 96-98 TP1 đã đạt như đã nói hôm trước.",
+  "cong_cu": ["H4", "H1", "MA", "Fibo 1618", "gap", "BTC.D", "USDT.D", "heatmap liquidation", "Fear & Greed", "RSI"],
+  "tin_tuc": [{"tin": "Thứ tư tuần sau chủ tịch FED mới phát biểu; đến thứ ba không có tin", "danh_gia": "tin tức hiện tại xong rồi"}],
+  "thoi_quen": [
+    "short dò nhỏ, đòn bẩy thấp, gồng xa, không SL sát 500 giá",
+    "không limit long trước, chờ tín hiệu nến ở vùng điều chỉnh mới vào",
+    "ăn xong chạy, không tham; chốt 80% volume, 20% gồng",
+    "cuối tuần/thứ sáu thận trọng phiên Mỹ"
+  ],
+  "cau_cua_mieng": ["Đừng có FOMO long nữa.", "Dò thôi chứ không đánh nhiều.", "View khác, lệnh khác."],
+  "altcoin": [
+    {"coin": "ETH", "huong": "GIAM", "ghi": "đáy bằng đỉnh thấp dần, thủng hỗ trợ có thể tụt về 3.000 (nói 300); đang short ETH 3320"},
+    {"coin": "altcoin chung", "huong": "GIAM", "ghi": "đa phần xấu, BTC.D tăng chưa nhả dom; chỉ đánh khi cả thị trường vào sóng"}
+  ],
+  "ghi_chu": "Giờ bắt đầu không ghi. Giá BTC lúc nói không nêu trực tiếp (quét lên vùng 97, short 96.7). 'về 300' của ETH hiểu 3.000."
+}

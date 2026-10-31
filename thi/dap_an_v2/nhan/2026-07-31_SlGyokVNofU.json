@@ -1,0 +1,53 @@
+{
+  "buoi": "2026-07-31_SlGyokVNofU",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/zip_clean/2026-07-31_SlGyokVNofU.txt",
+  "gia_btc_luc_noi": 64000,
+  "dau_buoi": {
+    "thien_huong_h4": "GIAM",
+    "gio": "[00:10:33]",
+    "trich": "break lên trên khỏi thằng này và đóng H4 vượt qua và confirm với đóng D1 thì lúc đó chúng ta mới có sóng để đi lên tiếp. Còn bằng 0 thì vẫn phải view nó đi xuống ở các vùng dưới này bởi vì H4 vẫn thể hiện là xu hướng giảm. Đáy sau thấp hơn đáy trước và đỉnh sau thấp hơn đỉnh trước."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "GIAM",
+    "do_chac": "vua",
+    "gio": "[00:54:51]",
+    "trich": "Bitcoin còn cửa nào hay động lực nào để lên? Muốn lên thì cứ phải qua khỏi 65.000 đó. 6500. Cản trend là H4."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {"huong": "TANG", "dich": 64000},
+  "duong_di": [
+    {"huong": "TANG", "dich": 64000},
+    {"huong": "GIAM", "dich": 63000},
+    {"huong": "GIAM", "dich": [62000, 62500]},
+    {"huong": "GIAM", "dich": 60000}
+  ],
+  "dich_chinh": [62000, 62500],
+  "han_gio": null,
+  "vo_hieu": {
+    "gia": 65000,
+    "khung": "H4",
+    "so_nen": 1,
+    "chieu": "dong_tren",
+    "cau": "nếu vùng 6500 này không bị phá vỡ thì xu hướng giảm này vẫn còn. Mà một khi xu hướng giảm ở trên H4 này vẫn còn thì hai vùng target mở rộng của Fibo này vẫn còn khả thi."
+  },
+  "lenh": [
+    {"chieu": "SHORT", "vao": 64000, "tp": [63000, 62000, 60000], "sl": null, "trang_thai": "de_xuat_moi"}
+  ],
+  "hanh_dong": "dung_ngoai_cho_entry",
+  "khung_lon": {"D1": "TANG", "W1": null},
+  "pha_vo_gia": "Nhịp tăng đêm qua tới sáng nay là pha lên quét short / kill short rồi gãy xuống lại (dụ long); H4 'hay lừa' kéo H1-H4 lên rồi xả.",
+  "trich_them": [
+    {"gio": "[00:02:54]", "cau": "Đêm và sáng ngày hôm nay là những pha đi lên để quét short sau đó lại gãy tiếp. Chủ yếu là quét short các bạn ơi."},
+    {"gio": "[00:08:29]", "cau": "Có thể long Bitcoin 64 không? Không. Theo cá nhân mình đánh giá thì không có gì để long. H4 nó đóng một cây đỏ ngay trend line này, nếu nó phá qua được thì may ra."},
+    {"gio": "[00:11:03]", "cau": "Các bạn thấy vùng 62.500 và 60.000 là hai vùng chúng ta có thể thấy, trong trường hợp nó vẫn chạy tuân thủ theo Fibo này."},
+    {"gio": "[00:11:34]", "cau": "Đó là lý do vì sao mình bảo bạn kia TP1 ở hiện tại mà TP2 có thể gồng về 62.00. Cái đoạn này rõ ràng rất khó, nếu các bạn để ý thì D1 vẫn là xu hướng đang cố đi lên đối với cụm nến ngày như thế này, nhưng 4 giờ thì vẫn bị cản và đi xuống"},
+    {"gio": "[00:12:07]", "cau": "Vùng này khả năng nếu H4 đóng ở đây thì mình vẫn ưu tiên test để tìm một nhịp short xuống"},
+    {"gio": "[00:20:46]", "cau": "Nói chung nếu cái đoạn này mà nó thủng tiếp thì mình nghĩ vẫn tiếp tục target dưới là ở 62.000 với 60.000."},
+    {"gio": "[00:30:30]", "cau": "Mình thấy không có lý do gì để long. Nếu như này mình nghĩ chắc sẽ gãy về đến 63.00. Chờ nó lên test MA xem thế nào."},
+    {"gio": "[00:40:04]", "cau": "H1 này như thế này là gì mà đánh, anh em trở lại chờ hồi lên 64.00, 6400."},
+    {"gio": "[00:41:11]", "cau": "Thứ nhất là nó cứ đi sideway trong vùng từ 63 cho đến 66. Thứ hai là bây giờ sell cũng không dám sell mạnh bởi vì nó gãy cũng xa rồi, dễ hồi."},
+    {"gio": "[00:52:34]", "cau": "Chạm 63k8 rút râu. Chạm 63k nữa thì khả năng rút rồi, nhưng đó là đối với điều kiện chạm trước ở đây và rút lên, thì mình nghĩ chắc cũng lên khoảng 6400"}
+  ],
+  "kho": "Người nói tự nhận 'nhập nhằng', D1 phục hồi còn H4 giảm, đang sideway 63-66k; vẫn nghiêng short khi hồi lên ~64k. Câu [00:57:51] 'Nhìn ba cây H4 như này BTC không gãy nữa. Bốn cây chứ. Nó confirm rồi' mơ hồ (có thể đọc chat) nên không dùng. Lệnh short 64k là suy từ 'chờ hồi lên 64.00', không nêu SL."
+}

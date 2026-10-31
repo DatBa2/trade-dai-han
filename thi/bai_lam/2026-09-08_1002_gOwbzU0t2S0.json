@@ -1,0 +1,80 @@
+{
+ "buoi": "2026-09-08_1002_gOwbzU0t2S0",
+ "ngay": "2026-09-08",
+ "gio_vn": "10:02",
+ "gia_btc_luc_noi": 78905,
+ "nhan_dinh": [
+  {
+   "khung": "H4",
+   "huong": "GIAM",
+   "do_chac": "vua",
+   "dich": [77000, 78000],
+   "han": "2-3 ngày, trước tin CPI",
+   "han_gio": 72,
+   "vo_hieu_khi": "H4 đóng trên 80.600 (vượt đỉnh hạ thấp 80.555 và Fibo 0.5 cản 80)",
+   "kich_ban_phu": "hồi lên 79.5-79.8 test dải MA34 H4 trước rồi mới gãy; về 77 mà đứng thì không chọn phe",
+   "duong_di": [{"huong": "TANG", "dich": 79600}, {"huong": "GIAM", "dich": 78000}, {"huong": "GIAM", "dich": 77000}],
+   "doi_y": null,
+   "ly_do": [
+    "giữ view 07/09: hồi lên Fibo 0.5 ở 80 rồi đi xuống, 3 hỗ trợ kế tiếp 78 - 77 - 75",
+    "H4 đóng dưới dải EMA34 H4 (78.98-79.70), MA34 H4 test nhiều lần đã mất uy tín → dùng MA89 H4 77.8 làm đích",
+    "đỉnh hạ thấp dần 82.285 → 80.555 → 79.486, nến ngày 07/09 đỏ -1.5% đóng lại dưới EMA610 D1 79.14",
+    "nến tuần mới đang đỏ, thị trường nín thở chờ PPI/CPI"
+   ],
+   "trich": null
+  },
+  {
+   "khung": "D1",
+   "huong": "PHAN_VAN",
+   "do_chac": "vua",
+   "dich": null,
+   "han": "chờ nến ngày đóng ra khỏi biên 77.8-82.3",
+   "han_gio": 72,
+   "vo_hieu_khi": "chờ: nến ngày đóng dưới 77.800 (thủng 78 + MA89 H4) thì điều chỉnh sâu về 74-75; nến ngày đóng trên 83.000 thì lên 92-93",
+   "kich_ban_phu": null,
+   "duong_di": null,
+   "doi_y": null,
+   "ly_do": [
+    "giữ view 07/09: vùng 77-82 sideway, thị trường đang chọn phe đi ngang",
+    "giá vừa đóng ngày sát dưới EMA610 D1 79.14 — đúng đường công tắc khung ngày",
+    "RSI và volume D1 phân kỳ nên đánh lên khó, nhưng chưa nến ngày nào thủng 78"
+   ],
+   "trich": null
+  },
+  {
+   "khung": "W1",
+   "huong": "PHAN_VAN",
+   "do_chac": "vua",
+   "dich": null,
+   "han": "chờ nến tuần này đóng (07:00 thứ Hai 14/09)",
+   "han_gio": 140,
+   "vo_hieu_khi": "chờ: tuần đóng đỏ thì gần như chắc điều chỉnh về 6x; tuần đóng qua 82-83 thì lên 93",
+   "kich_ban_phu": null,
+   "duong_di": null,
+   "doi_y": null,
+   "ly_do": [
+    "nến tuần trước xanh 'ngôi sao hy vọng' nhưng tuần này đang đỏ -1.8%, giá đang ngay dưới MA89 tuần 79.05",
+    "chu kỳ 4 năm vẫn downtrend; uptrend cần MA34 > MA89 tuần, chưa có"
+   ],
+   "trich": null
+  }
+ ],
+ "vung_gia": {"khang_cu": [79600, 80000, 80600, 82300], "ho_tro": [78650, 78000, 77000, 75000]},
+ "lenh": [
+  {"chieu": "SHORT", "loai": "limit", "vao": 79650, "tp": [78100, 77300], "sl": 80700, "trang_thai": "de_xuat_moi"}
+ ],
+ "hanh_dong": "dung_ngoai_cho_entry",
+ "giu_view": true,
+ "ly_do_doi_view": "Giữ nguyên view buổi 07/09 (H4 GIẢM về 78-77, D1/W1 PHÂN VÂN chờ đóng nến): không cây H4 nào đóng trên 80/80.5, giá chưa chạm đích 78 (đáy mới 78.68), không có tin lớn, không phải đầu tuần/tháng. Chỉ cập nhật chỗ vào: không sale đuổi, chờ hồi về dải MA34 H4.",
+ "rau": {
+  "tren": "gần nhất 79.486 (H4 08/09 07:00); trước đó 80.555 (H4 07/09 03:00)",
+  "duoi": "gần nhất 78.682 (H4 07/09 19:00), sát râu ngày 78.650 (D1 04/09)",
+  "test_lai": "Râu dưới 78.65-78.68 CÓ — hai đáy bằng nhau là chỗ phe long đặt SL, ngay dưới là hỗ trợ 78 + MA89 H4 77.8 (R2, R3), đúng hướng chặng 2. Râu trên 80.555 KHÔNG — đỉnh hạ thấp dần, dải MA34 H4 chắn ở giữa, đã bị bán ngay sau 5 phút (5.3)."
+ },
+ "vung_on": [
+  {"loai": "SHORT", "khoang": [79400, 80000], "ly_do": ["Fibo 0.382-0.618 nhịp giảm H4 80.555→78.682 (79.40-79.84)", "dải EMA34 H4 79.0-79.7 đã gãy thành cản", "EMA610 D1 79.14 + EMA89 tuần 79.05 vừa mất", "Fibo 0.5 cản 80 người đó đã nêu"]},
+  {"loai": "LONG", "khoang": [77000, 77800], "ly_do": ["EMA89 H4 77.8", "đáy cũ 77 + Fibo mở rộng 77 (người đó nêu)", "cụm thanh lý long 76-77"]}
+ ],
+ "pha_vo_gia": null,
+ "loi_binh": "Hôm nay thứ Ba anh em, view từ hôm qua không thay đổi gì nhiều: hồi lên Fibo 0.5 ở 80 rồi rụng, H4 vẫn đóng đỏ dưới MA34. Ba hỗ trợ kế tiếp vẫn là 78, 77, 75. Nhưng giá đang lưng chừng, sale đuổi ở đây dễ bị trap, nên chờ nó hồi lên 79.5 đến 79.8 test lại MA34 rồi mình tìm short, về 78 là chốt một nửa. Tuần này có PPI với CPI, đi vol nhỏ thôi."
+}

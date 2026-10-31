@@ -1,0 +1,96 @@
+{
+  "buoi": "2026-04-08_l8hl1XtxPr4",
+  "ngay": "2026-04-08",
+  "gio_vn": "10:00",
+  "gia_btc_luc_noi": 71000,
+  "nhan_dinh": [
+    {
+      "khung": "H4",
+      "huong": "TANG",
+      "do_chac": "vua",
+      "dich": 80000,
+      "han": "từ giờ đến thứ sáu (trước tin CPI); trước mắt điều chỉnh về ~69.000 rồi mới lên",
+      "han_gio": 72,
+      "vo_hieu_khi": "H4 đóng dưới 68.000 là gãy xu hướng; đóng dưới 67.000 là xấu; scalping SL dưới 71.000",
+      "kich_ban_phu": "trưa có thể về 69.000-69.900 lấp gap 69.000; có thể quét 67.000 rồi rút lên vẫn ổn; mốc kháng cự gần 74.000-75.000 (MA H4)",
+      "ly_do": [
+        "nến ngày xanh phá 71.000, nền giá gần 3 tháng, mô hình cốc tay cầm/hai đáy/Fibo đẹp; nến xanh thì không short",
+        "đỉnh đáy H4 cao dần, xu hướng tăng; hiện chỉ là điều chỉnh ngắn hạn sau pha tăng do tin",
+        "Fibo 81-91; mô hình thế này mà không lên 80.000 thì phân tích kỹ thuật vô nghĩa",
+        "thanh lý long ở 64-65 đã chốt dần, giảm áp lực đi sâu"
+      ],
+      "trich": "mình đang rất kỳ vọng thị trường đẩy luôn 80 trong nhịp này, hoàn tất từ giờ cho đến thứ sáu.",
+      "doi_y": null,
+      "duong_di": [
+        {"huong": "GIAM", "dich": 69000},
+        {"huong": "TANG", "dich": 80000}
+      ]
+    },
+    {
+      "khung": "M5",
+      "huong": "GIAM",
+      "do_chac": "thap",
+      "dich": [69000, 70000],
+      "han": "trong ngày (khoảng trưa)",
+      "han_gio": 24,
+      "vo_hieu_khi": "không short sớm; chỉ short khi có nhịp hồi lên ~72.000 không qua được",
+      "kich_ban_phu": "nếu M5 tạo hai đáy hồi lên thì là điểm vào short, TP 69.000-70.000",
+      "ly_do": ["Fibo 1.618 tại 72.600 bị từ chối", "Fibo ngược cho thấy sóng điều chỉnh về ~69.000 trùng gap"],
+      "trich": "Tầm này khoảng trưa nó về đến khoảng 69.900 69.007 là chuyện bình thường thôi. Đừng có bất ngờ.",
+      "doi_y": null,
+      "duong_di": null
+    },
+    {
+      "khung": "chung",
+      "huong": "GIAM",
+      "do_chac": "thap",
+      "dich": [50000, 57000],
+      "han": "từ 12-13/4 đến 20 mấy tháng 4 (kịch bản đẹp)",
+      "han_gio": null,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": "chỉ là một kịch bản để chuẩn bị: đẩy 80 đến thứ sáu, CPI sideway rồi tăng sáng thứ bảy, thứ hai đấm thẳng về 60, 57, 54, 50",
+      "ly_do": ["thị trường vẫn downtrend dài hạn, nhịp tăng này ngược xu hướng và một phần do tin"],
+      "trich": "từ ngày 12, 13 cho đến 20 hai mấy chúng ta thấy Bitcoin cắm về 60, 57, 54, 50 như thế là quá tuyệt vời. Đó là kịch bản quá đẹp.",
+      "doi_y": null,
+      "duong_di": [
+        {"huong": "TANG", "dich": 80000},
+        {"huong": "GIAM", "dich": [50000, 57000]}
+      ]
+    }
+  ],
+  "vung_gia": {"khang_cu": [72000, 74000, 75000, 80000], "ho_tro": [67000, 68000, 69000, 70000]},
+  "lenh": [
+    {"chieu": "LONG", "loai": "limit/bắt điều chỉnh", "vao": [69000, 69700], "tp": null, "sl": 68000,
+     "trang_thai": "de_xuat_moi",
+     "trich": "phải chờ về khoảng 69.000 đến 69.700. 70k8 mình thấy là entry khá dễ chết, không an toàn."},
+    {"chieu": "LONG", "loai": "scalping", "vao": 68000, "tp": [72000], "sl": null,
+     "trang_thai": "da_chot",
+     "trich": "Long ở 68.000 này, chốt ở 72.000 này như vậy là quá đủ rồi. 6% của Bitcoin là quá nhiều."}
+  ],
+  "nhin_lai_truoc": "Lệnh long bắt ở 68.000 hôm qua đã ăn đậm (lên 72k3, hơn 400 triệu đô short bị thanh lý); chỉ tiếc nó không về 67.000 thêm 150 giá để khớp thêm.",
+  "cong_cu": ["D1", "H4", "M5", "Fibo thoái lùi", "Fibo mở rộng/Fibo ngược", "Elliott", "MA", "gap CME 69.000/67.000", "heatmap liquidation", "Fear & Greed", "vote livestream"],
+  "tin_tuc": [
+    {"tin": "Trump-Iran (hoãn hai tuần, dầu giảm)", "danh_gia": "tin chỉ là cớ hợp lý hóa đường giá, không thay đổi cung cầu; đừng đoán tin"},
+    {"tin": "FOMC tối mai; CPI tối thứ sáu 10/4 lúc 19:30", "danh_gia": "trước tin thị trường thường chạy một hướng, đến tin thì đứng, sau tin mới đảo nếu có"}
+  ],
+  "thoi_quen": [
+    "chốt long khi giá xa MA H4 hoặc chạy theo tin, không gồng",
+    "chờ điều chỉnh để vào, không FOMO ở vùng cao; 'đừng vội' nhắc nhiều lần",
+    "nến ngày xanh thì không short",
+    "vote khảo sát tâm lý anh em trên livestream",
+    "SL scalping dưới 71.000, cắt dứt khoát"
+  ],
+  "cau_cua_mieng": [
+    "Hôm nay thì vẫn tiếp tục là bỏ tay ra khỏi nút short đi.",
+    "Tin tức chỉ là cái cớ để hợp lý hóa đường giá thôi.",
+    "Mình nói rất nhiều câu đừng vội và chờ trong thị trường này, đó là điều cần thiết."
+  ],
+  "altcoin": [
+    {"coin": "TAO", "huong": "TANG", "ghi": "chạm Fibo 0.618 vùng 346 rất nguy hiểm, nên kéo SL về entry"},
+    {"coin": "dầu", "huong": "GIAM", "ghi": "ngoài BTC; đã gãy, chờ test MA89 D1 (77-78) mới long"},
+    {"coin": "vàng", "huong": "TANG", "ghi": "ngoài BTC; ngắn hạn tăng theo BTC có thể tới 4000-5000 để lấy thanh khoản rồi giảm tiếp"},
+    {"coin": "ETH", "huong": "TANG", "ghi": "có gap 2006 phía trên; đi kiểu dụ short"},
+    {"coin": "SOL, BNB", "huong": null, "ghi": "chạm cản MA200 H4, đa số altcoin không hy vọng nhiều"}
+  ],
+  "ghi_chu": "Các số kiểu '69.007' hiểu là 69.700. Phần nâng hạng chứng khoán VN là bên lề."
+}

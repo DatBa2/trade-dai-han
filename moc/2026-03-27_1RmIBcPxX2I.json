@@ -1,0 +1,266 @@
+{
+  "buoi": "2026-03-27_1RmIBcPxX2I",
+  "ngay": "2026-03-27",
+  "gia_btc_luc_noi": 68500,
+  "moc": [
+    {
+      "gia": 72000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [
+        "Fibo (nến D1 bị từ chối tại 72.000)"
+      ],
+      "moc_gio": "00:18:51",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Nó bị từ chối ngay cái vùng 72.000, là ở Fibo"
+    },
+    {
+      "gia": 67000,
+      "gia_tren": null,
+      "vai_tro": "vo_hieu",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "hỗ trợ khung ngày bị test nhiều lần",
+        "đóng nến ngày dưới 67.000"
+      ],
+      "moc_gio": "00:20:00",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "đóng dưới 67.000 là chạy luôn... Đóng dưới 67.000 là cút"
+    },
+    {
+      "gia": 53000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [
+        "gãy hỗ trợ 67.000 khung ngày"
+      ],
+      "moc_gio": "00:20:00",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Nếu nó gãy qua khỏi cái vùng này thì khả năng là về 53 đợt này"
+    },
+    {
+      "gia": 74000,
+      "gia_tren": null,
+      "vai_tro": "dinh_cu",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [
+        "đỉnh cũ 74.000 không vượt qua được"
+      ],
+      "moc_gio": "00:20:30",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "không qua được đỉnh cũ là 74.000"
+    },
+    {
+      "gia": 80000,
+      "gia_tren": 81000,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "gap CME 80-81K chưa lấp"
+      ],
+      "moc_gio": "00:31:56",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Gap thì vẫn còn những gap ở trên là 80 81"
+    },
+    {
+      "gia": 50000,
+      "gia_tren": null,
+      "vai_tro": "day_cu",
+      "huong": null,
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": "00:31:56",
+      "tai_san": "BTC",
+      "chac": false,
+      "trich": "Có thể gãy về 50 nó mới lên hoặc gãy về 60 nó mới lên"
+    },
+    {
+      "gia": 60000,
+      "gia_tren": null,
+      "vai_tro": "day_cu",
+      "huong": null,
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": "00:31:56",
+      "tai_san": "BTC",
+      "chac": false,
+      "trich": "gãy về 50 hoặc gãy về 60 nó mới lên"
+    },
+    {
+      "gia": 68000,
+      "gia_tren": null,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý / Hyblock: phe long vào 68.000, SL 68.000",
+        "cụm thanh lý"
+      ],
+      "moc_gio": "00:32:57",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "anh em bắt đầu long ở 68... stop loss của họ đặt ở 68.000"
+    },
+    {
+      "gia": 70000,
+      "gia_tren": 71000,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý SL của phe short (Hyblock)"
+      ],
+      "moc_gio": "00:32:57",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "phe short vào 69.700, SL ở 70, 71"
+    },
+    {
+      "gia": 68000,
+      "gia_tren": null,
+      "vai_tro": "tp",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý + hỗ trợ khung lớn"
+      ],
+      "moc_gio": "00:34:09",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "chốt lãi quanh vùng 68 này, vì nó kết hợp với liquid ở đây"
+    },
+    {
+      "gia": 75000,
+      "gia_tren": null,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": null,
+      "can_cu": [
+        "Max Pain options (nói không quan trọng)"
+      ],
+      "moc_gio": "00:37:28",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Max pain 75.000... mình không quan trọng câu chuyện đó lắm"
+    },
+    {
+      "gia": 69400,
+      "gia_tren": null,
+      "vai_tro": "khac",
+      "huong": "GIAM",
+      "khung": "H1",
+      "can_cu": [
+        "MA200 (khung nhỏ), quét short"
+      ],
+      "moc_gio": "00:26:34",
+      "tai_san": "BTC",
+      "chac": false,
+      "trich": "đẩy lên tận 69k4... Test MA200 này rụng xuống tiếp"
+    },
+    {
+      "gia": 70000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "MA H4 tại 70.000"
+      ],
+      "moc_gio": "00:55:48",
+      "tai_san": "BTC",
+      "chac": false,
+      "trich": "H4 lên chạm MA 70.000. nếu lên được 70 khả năng cũng nhiều người short"
+    },
+    {
+      "gia": 71000,
+      "gia_tren": null,
+      "vai_tro": "entry",
+      "huong": "GIAM",
+      "khung": "H1",
+      "can_cu": [
+        "cản H1",
+        "hồi từ hai đáy"
+      ],
+      "moc_gio": "00:46:12",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "sau đó hồi, quét lên khoảng 71 hoặc 70.500 thì có thể tìm tín hiệu để short xuống"
+    },
+    {
+      "gia": 70500,
+      "gia_tren": null,
+      "vai_tro": "entry",
+      "huong": "GIAM",
+      "khung": "H1",
+      "can_cu": [
+        "cản H1"
+      ],
+      "moc_gio": "00:46:12",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "quét lên khoảng 71 hoặc 70.500 thì tìm tín hiệu short"
+    },
+    {
+      "gia": 68100,
+      "gia_tren": 68200,
+      "vai_tro": "tp",
+      "huong": "GIAM",
+      "khung": "M5",
+      "can_cu": [],
+      "moc_gio": "00:48:46",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "nếu short scalping, về được 68k1, 68k2 cũng phải chốt"
+    },
+    {
+      "gia": 67000,
+      "gia_tren": null,
+      "vai_tro": "tp",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": "00:41:17",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "giữ về đến khoảng 67, chốt 6700 là nên chốt"
+    },
+    {
+      "gia": 66000,
+      "gia_tren": null,
+      "vai_tro": "khac",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "không phải hỗ trợ"
+      ],
+      "moc_gio": "00:41:50",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "66 này không phải điểm để TP, đó không phải vùng hỗ trợ"
+    },
+    {
+      "gia": 68000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": "00:53:18",
+      "tai_san": "BTC",
+      "chac": false,
+      "trich": "chiều tăng nhẹ... từ giờ đến trưa phải có một nhịp về 68"
+    }
+  ]
+}

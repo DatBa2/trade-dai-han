@@ -1,0 +1,200 @@
+{
+ "buoi": "2026-10-01_1005_56fLd04MSps",
+ "ngay": "2026-10-01",
+ "gio_vn": "10:05",
+ "gia_btc_luc_noi": 83500,
+ "nhan_dinh": [
+  {
+   "khung": "H4",
+   "huong": "GIAM",
+   "do_chac": "vua",
+   "dich": 82000,
+   "han": null,
+   "han_gio": null,
+   "vo_hieu_khi": "nến H4 đóng trên 85.000",
+   "vo_hieu_cau_truc": {
+    "gia": 85000,
+    "khung": "H4",
+    "so_nen": 1,
+    "chieu": "dong_tren",
+    "cau": "Phe mua sẽ lấy lại lợi thế khi nến H4 đóng và duy trì tốt trên vùng 84 để tiến lên 85; phải đóng trên 85 thì thị trường mới bắt đầu bullish, xu hướng tăng được củng cố và kéo lên tiếp 88 hay 90."
+   },
+   "kich_ban_phu": null,
+   "duong_di": [
+    {
+     "huong": "TANG",
+     "dich": [
+      84000,
+      84500
+     ]
+    },
+    {
+     "huong": "GIAM",
+     "dich": 82000
+    }
+   ],
+   "doi_y": null,
+   "ly_do": [],
+   "trich": "Sau pha đêm qua, việc bị từ chối liên tục ở vùng 84 mang ý nghĩa lớn hơn việc liên tục được hỗ trợ ở vùng 83. ... Thành thử xác suất nó kéo về vùng 82 mình vẫn thấy khả thi. ... Mình nghĩ vẫn phải là 82 hoặc quanh 82 mà đỡ được thì sau đó nó mới an toàn hơn; còn cứ 83 này mà kéo lên nhìn không chắc chắn tí nào.",
+   "nhan_v1": "GIAM"
+  },
+  {
+   "khung": "H1",
+   "huong": "GIAM",
+   "do_chac": "vua",
+   "dich": [
+    82000,
+    83000
+   ],
+   "han": null,
+   "han_gio": null,
+   "vo_hieu_khi": "trên 85",
+   "kich_ban_phu": "ngắn hạn sideway, chờ test lại râu 84 rồi đi xuống",
+   "ly_do": [
+    "cặp nến fake out ở H1",
+    "chờ thủng trendline H1 là confirm gãy"
+   ],
+   "trich": "Anh em chờ nó thủng trendline là có thể confirm gãy.",
+   "doi_y": null,
+   "duong_di": null
+  },
+  {
+   "khung": "W1",
+   "huong": "TANG",
+   "do_chac": "vua",
+   "dich": [
+    90000,
+    93000
+   ],
+   "han": null,
+   "han_gio": null,
+   "vo_hieu_khi": "khung tuần hoặc khung ngày bắt đầu có tín hiệu xấu (sẽ cảnh báo)",
+   "kich_ban_phu": null,
+   "ly_do": [
+    "nến tháng xanh, vượt trendline, đóng trên 80",
+    "đang gặp cản Fibo 0.382 (126.000 về 57.000), cản mạnh là Fibo 0.5 ở 91-93",
+    "khung tuần/tháng chưa có tín hiệu xấu",
+    "83 là hỗ trợ khung ngày và tuần"
+   ],
+   "trich": "chúng ta vẫn có plan dự phòng giá nó sẽ kéo lên 90. Điều này sẽ thất bại khi khung tuần hoặc khung ngày bắt đầu có tín hiệu xấu",
+   "doi_y": null,
+   "duong_di": null
+  }
+ ],
+ "vung_gia": {
+  "khang_cu": [
+   84000,
+   85600
+  ],
+  "ho_tro": [
+   81000,
+   83000
+  ]
+ },
+ "lenh": [
+  {
+   "chieu": "SHORT",
+   "vao": [
+    83500,
+    84500
+   ],
+   "tp": [
+    82000
+   ],
+   "sl": 85000,
+   "trang_thai": "de_xuat_moi"
+  },
+  {
+   "chieu": "LONG",
+   "vao": 81500,
+   "tp": [],
+   "sl": null,
+   "trang_thai": "de_xuat_moi"
+  }
+ ],
+ "nhin_lai_truoc": "Hôm qua cảnh báo fake out ở 84-85 và vàng gãy: đều đúng (vàng gãy luôn, BTC quét lên 85.600 rồi đảo ngược).",
+ "cong_cu": [
+  "H4",
+  "H1",
+  "nến tháng",
+  "Fibo 0.382",
+  "Fibo 0.5",
+  "trendline",
+  "MA200",
+  "BTC.D",
+  "USDT.D",
+  "chỉ số Fear and Greed",
+  "lợi suất trái phiếu",
+  "liquidation",
+  "gap"
+ ],
+ "tin_tuc": [
+  {
+   "tin": "PCE 0.2% (dự kiến 0.3), GDP 2.2% (dự kiến 1.5)",
+   "danh_gia": "tin tốt nhưng bị lợi suất trái phiếu 5,3% đảo ngược; chỉ số không đồng pha 100% với thị trường"
+  },
+  {
+   "tin": "Lợi suất trái phiếu Mỹ cao nhất 24 năm",
+   "danh_gia": "tiền lớn có xu hướng rút về trái phiếu, áp lực lên BTC, vàng, chứng khoán"
+  },
+  {
+   "tin": "Non-farm ngày mai (thứ sáu)",
+   "danh_gia": "tin quan trọng nhất, tối nay thận trọng, đoán kinh hoàng"
+  }
+ ],
+ "thoi_quen": [
+  "chờ test lại vùng râu rồi mới vào, entry lợi hơn giá hiện tại khoảng 1000",
+  "chia nhỏ 4-5 lệnh từ đây lên, SL trên Fibo",
+  "hạn chế long FOMO khi chỉ số tâm lý bảy mấy",
+  "cảnh báo khi đám đông hỏi dồn dập một coin",
+  "DCA hàng ngày bằng bot",
+  "dầu giữ lệnh dài hạn, không scalping"
+ ],
+ "cau_cua_mieng": [
+  "Vấn đề ở đây là do chúng ta sợ thôi",
+  "FOMO ở đây không có cơ sở lắm",
+  "Nhìn cái màu này của BTC khá hấp dẫn, nhìn rất là muốn sale nhá"
+ ],
+ "altcoin": [
+  {
+   "coin": "BTC.D",
+   "huong": "GIAM",
+   "ghi": "xu hướng giảm nhưng chưa rõ, altcoin đang khá tốt"
+  },
+  {
+   "coin": "USDT.D",
+   "huong": "TANG",
+   "ghi": "muốn test 6.5-6.6%, thị trường dễ bị bán"
+  },
+  {
+   "coin": "ICP",
+   "huong": "GIAM",
+   "ghi": "chờ về 0.11 khi BTC về 70, không FOMO"
+  },
+  {
+   "coin": "BNB",
+   "huong": "PHAN_VAN",
+   "ghi": "có thể về 750 rồi quét lên"
+  },
+  {
+   "coin": "vàng",
+   "huong": "TANG",
+   "ghi": "xác suất tăng rất cao, lấp gap 4280-4300"
+  }
+ ],
+ "ghi_chu": "Giá 83.600 là đóng nến tháng nhắc lúc sáng. Các số 81.000/82.000/83.000 có [?] suy theo ngữ cảnh. W1 TANG là plan dự phòng kéo lên 90, ngắn hạn H4/H1 nghiêng giảm.",
+ "hanh_dong": "dung_ngoai_cho_entry",
+ "chang_ke_tiep": {
+  "huong": "TANG",
+  "dich": [
+   84000,
+   84500
+  ]
+ },
+ "khung_lon_v2": {
+  "D1": null,
+  "W1": "TANG"
+ },
+ "pha_vo_gia": "Đêm qua sau tin PCE giá quét lên 85.600 rồi đảo ngược: người nói gọi là quét stop loss, 'gần như đây là nhịp fake out' ở vùng cản 84–85 (H4 không đóng qua được); H1 có 'cặp fake out'. Nhiều người bị kẹt long 84–85.",
+ "nguon_nhan": "dap_an_v2 (Opus 5.5 rút mù 31/10)"
+}

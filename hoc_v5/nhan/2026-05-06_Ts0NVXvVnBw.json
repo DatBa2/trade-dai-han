@@ -1,0 +1,254 @@
+{
+  "buoi": "2026-05-06_Ts0NVXvVnBw",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/zip_clean/2026-05-06_Ts0NVXvVnBw.txt",
+  "gia_btc_luc_noi": 80500,
+  "dau_buoi": {
+    "thien_huong_h4": "TANG",
+    "gio": "[00:04:29]",
+    "trich": "Thị trường hiện tại thì lực tăng vẫn còn đang rất khỏe. Cho nên việc anh em có đang short thì cũng phải hiểu là chúng ta đang short những nhịp phản ứng ngắn trong ngắn hạn thôi chứ đừng kỳ vọng quá vào một nhịp gãy này kia"
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "TANG",
+    "do_chac": "vua",
+    "gio": "[00:28:52]",
+    "trich": "lực của thị trường vẫn còn đang rất khỏe, nếu đúng và chuẩn thì sẽ phải ngồi chờ nó điều chỉnh về vùng hỗ trợ dưới này và đi lên, thế thôi chứ không biết làm gì hơn. Nên đại đa số những vùng giá như thế này thì rất khó để trade, trừ khi nó có một nhịp điều chỉnh đẹp thì lúc đó mới có điểm chơi. Còn nếu nó cứ từ từ đi lên thì chúng ta sẽ phải nhịn thôi. Xu hướng là như thế. Hạn chế short"
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {
+    "huong": "GIAM",
+    "dich": [
+      77000,
+      79000
+    ]
+  },
+  "duong_di": [
+    {
+      "huong": "GIAM",
+      "dich": [
+        77000,
+        79000
+      ]
+    },
+    {
+      "huong": "TANG",
+      "dich": 83000
+    },
+    {
+      "huong": "TANG",
+      "dich": [
+        89000,
+        90000
+      ]
+    }
+  ],
+  "dich_chinh": 83000,
+  "han_gio": null,
+  "vo_hieu": null,
+  "lenh": [
+    {
+      "chieu": "short",
+      "vao": null,
+      "tp": null,
+      "sl": null,
+      "trang_thai": "da_dong"
+    },
+    {
+      "chieu": "long",
+      "vao": [
+        77000,
+        79000
+      ],
+      "tp": null,
+      "sl": null,
+      "trang_thai": "de_xuat_moi"
+    }
+  ],
+  "hanh_dong": "dung_ngoai_cho_entry",
+  "khung_lon": {
+    "D1": "TANG - lực tăng giữ nguyên, chưa đổi cấu trúc; cản/target 83.000 (Fibo 618), 89.000, gap 90.000",
+    "W1": null
+  },
+  "pha_vo_gia": null,
+  "nhin_lai_view_truoc": {
+    "view_truoc": "TANG",
+    "giu_hay_doi": "giu",
+    "vi_sao": "Râu nến vẫn quét lên, lực mua vẫn xanh, chưa có nến đỏ nào; mục tiêu đầu tuần lấp gap 81 đã xong nhưng chưa thấy dấu hiệu phe gãy",
+    "gio": "[00:22:22]",
+    "trich": "Bitcoin thì lực tăng ở đây hoàn toàn mọi thứ nó vẫn đang giữ nguyên. Nó không có gì thay đổi so với ngày hôm qua. Các bạn thấy râu nến nó vẫn quét lên trên này. Lực mua thì vẫn xanh. Chưa có bất kỳ một nến đỏ nào thì tạm thời chúng ta chưa cần phải quan tâm cái gì."
+  },
+  "trendline": [],
+  "trich_them": [
+    {
+      "gio": "[00:05:02]",
+      "cau": "như quan điểm từ đầu tuần mình đã nói với mọi người khi nó lấp khỏi gap 81 này coi như chúng ta đã hoàn tất mục tiêu đó"
+    },
+    {
+      "gio": "[00:23:56]",
+      "cau": "Khung H4 thì sao? H4 hiện tại có một rủi ro là giá đang nằm khá xa đường MA và đã xuất hiện một cây H4 màu đỏ ở đây. Có thể trong ngắn hạn sẽ có những cái râu nến quét lên đến 8300, chạm cái này sau đó quay đầu xuống là chuyện hết sức bình thường. Xu hướng vẫn là xu hướng tăng."
+    },
+    {
+      "gio": "[00:25:37]",
+      "cau": "Bật H1 ra kéo Fibo. Chúng ta có Fibo 0.5 nằm ở 78.00 thì chúng ta sẽ có một vùng long nằm ở đây. Từ 79.000 cho đến 77. Rơi vào khoảng 1500 giá. Đây là một vùng hỗ trợ và nó là hội tụ của rất nhiều hỗ trợ."
+    },
+    {
+      "gio": "[00:26:10]",
+      "cau": "Anh em có thể tham khảo vùng này thế thôi. Lệnh này SL."
+    },
+    {
+      "gio": "[00:29:57]",
+      "cau": "Thứ ba nữa là Bitcoin đã rất dễ điều chỉnh bởi vì nó xong vùng gap ở trên này."
+    }
+  ],
+  "kho": "Đích chính không nói rõ: nêu 83.000 (Fibo 618 D1) rồi 89-90k làm vùng giá có thể lên; chặng kế tiếp là chờ điều chỉnh về 79-77 nhưng nói rõ có thể bay thẳng lên không về. 'Lệnh này SL' có thể là lệnh short buổi sáng bị SL (không chắc). Không có trendline.",
+  "nen_volume": [
+    {
+      "khung": "D1",
+      "nen": "râu nến vẫn quét lên trên, nến xanh, chưa có bất kỳ nến đỏ nào",
+      "volume": null,
+      "ket_luan": "lực mua vẫn còn, xu hướng phục hồi giữ nguyên, chưa cần quan tâm phe giảm; short là ngược xu hướng",
+      "gio": "[00:22:22]",
+      "trich": "Các bạn thấy râu nến nó vẫn quét lên trên này. Lực mua thì vẫn xanh. Chưa có bất kỳ một nến đỏ nào thì tạm thời chúng ta chưa cần phải quan tâm cái gì. Lực mua vẫn còn chứng tỏ là xu hướng hiện tại vẫn đang xu hướng phục hồi."
+    },
+    {
+      "khung": "H4",
+      "nen": "xuất hiện một cây H4 màu đỏ, giá nằm khá xa đường MA",
+      "volume": null,
+      "ket_luan": "ngắn hạn có thể có râu quét lên 83 rồi quay xuống; xu hướng H4 vẫn tăng → chờ điều chỉnh để long, không FOMO",
+      "gio": "[00:23:56]",
+      "trich": "H4 hiện tại có một rủi ro là giá đang nằm khá xa đường MA và đã xuất hiện một cây H4 màu đỏ ở đây. Có thể trong ngắn hạn sẽ có những cái râu nến quét lên đến 8300, chạm cái này sau đó quay đầu xuống là chuyện hết sức bình thường. Xu hướng vẫn là xu hướng tăng."
+    }
+  ],
+  "cach_lam": [
+    {
+      "hanh_dong": "do",
+      "cong_cu": "fibo_thoai_lui",
+      "chi_tiet": "Fibo thoái lui trên khung D1",
+      "ket_qua": "Fibo 0.618 = 83.000 (cản/target đầu tiên)",
+      "gio": "[00:23:25]",
+      "trich": "Đầu tiên là Fibo 618 là 83.000. Thứ hai nữa là vùng cản ở trên này 89.000. Hoặc thậm chí là 90.000 là chúng ta có một vùng gap."
+    },
+    {
+      "hanh_dong": "do",
+      "cong_cu": "fibo_thoai_lui",
+      "chi_tiet": "Bật H1, kéo Fibo nhịp tăng gần nhất",
+      "ket_qua": "Fibo 0.5 ~78; vùng long 79.000-77.000 (hội tụ nhiều hỗ trợ)",
+      "gio": "[00:25:37]",
+      "trich": "Bật H1 ra kéo Fibo. Chúng ta có Fibo 0.5 nằm ở 78.00 thì chúng ta sẽ có một vùng long nằm ở đây. Từ 79.000 cho đến 77. Rơi vào khoảng 1500 giá. Đây là một vùng hỗ trợ và nó là hội tụ của rất nhiều hỗ trợ."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "ema",
+      "chi_tiet": "Khoảng cách giá với đường MA trên H4",
+      "ket_qua": "giá xa MA → rủi ro điều chỉnh ngắn hạn",
+      "gio": "[00:23:56]",
+      "trich": "H4 hiện tại có một rủi ro là giá đang nằm khá xa đường MA"
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "Gap CME: gap 81 đã lấp; gap 90k còn phía trên; gap nhỏ sáng nay 80-81",
+      "ket_qua": "gap 81 xong = hoàn tất mục tiêu đầu tuần; gap 90k là vùng giá có thể lên",
+      "gio": "[00:32:06]",
+      "trich": "Gap thì đã lấp xong. Gap trong ngắn hạn xem có gap nhỏ không. Gap sáng nay có một gap nhỏ 80-81 này chắc cũng không đáng kể lắm."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "Vùng trống thanh khoản phía trên trên D1",
+      "ket_qua": "trống thanh khoản → giá có thể lên 83/89/90, short phải thận trọng",
+      "gio": "[00:23:56]",
+      "trich": "Bên này nó chống thanh khoản. Đây là cơ sở khiến cho việc chúng ta đi short thì sẽ phải hết sức thận trọng"
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "Chỉ số Fear & Greed",
+      "ket_qua": "~46-50, phục hồi từ 8-10 → vùng cân bằng/FOMO nhẹ",
+      "gio": "[00:07:51]",
+      "trich": "Hiện tại vùng giá 80 81 này là một vùng giá mà tâm lý thị trường đang cho thấy là một ngưỡng 50/50 tức là đang khá cân bằng."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "Vàng chạy trước BTC khoảng một cây H4",
+      "ket_qua": "vàng chưa gãy → chưa vội short BTC",
+      "gio": "[00:32:40]",
+      "trich": "con vàng nó chạy trước BTC một đoạn. Nó chạy trước một nhịp đâu đó khoảng một cây H4. Cho nên đôi khi chúng ta nhìn vào con vàng thấy nó chưa gãy thì cũng không cần phải vội đi short làm cái gì."
+    }
+  ],
+  "vung_nguoi_do": [
+    {
+      "loai": "khang_cu",
+      "tu": 83000,
+      "den": 83000,
+      "gio": "[00:23:25]",
+      "trich": "Đầu tiên là Fibo 618 là 83.000."
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 89000,
+      "den": 89000,
+      "gio": "[00:23:25]",
+      "trich": "Thứ hai nữa là vùng cản ở trên này 89.000."
+    },
+    {
+      "loai": "dich",
+      "tu": 90000,
+      "den": 90000,
+      "gio": "[00:23:25]",
+      "trich": "Hoặc thậm chí là 90.000 là chúng ta có một vùng gap. 90.000 thì đây là những vùng cản cũng là những vùng mà giá hoàn toàn có thể lên."
+    },
+    {
+      "loai": "vao",
+      "tu": 77000,
+      "den": 79000,
+      "gio": "[00:25:37]",
+      "trich": "thì chúng ta sẽ có một vùng long nằm ở đây. Từ 79.000 cho đến 77. Rơi vào khoảng 1500 giá."
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 83000,
+      "den": 83000,
+      "gio": "[00:23:56]",
+      "trich": "Có thể trong ngắn hạn sẽ có những cái râu nến quét lên đến 8300, chạm cái này sau đó quay đầu xuống là chuyện hết sức bình thường."
+    }
+  ],
+  "view_trung_han": [
+    {
+      "khung": "D1",
+      "huong": "TANG",
+      "dich": 83000,
+      "han": null,
+      "mat_view_khi": null,
+      "gio": "[00:23:25]",
+      "trich": "Thị trường bây giờ lực tăng vẫn như vậy, chưa có dấu hiệu nào thay đổi cấu trúc thị trường. Đó là đối với D1. Ở trên khung ngày thì lúc nãy mình có nói rồi các vùng cản ở trên và cũng là những vùng target mà giá có thể hướng đến. Đầu tiên là Fibo 618 là 83.000. Thứ hai nữa là vùng cản ở trên này 89.000. Hoặc thậm chí là 90.000"
+    }
+  ],
+  "vung_tranh": [
+    {
+      "tu": 80000,
+      "den": 81000,
+      "vi_sao": "Không long FOMO ở vùng giá hiện tại (giá xa MA H4); short ở đây là ngược xu hướng, rủi ro cực cao, người mới đừng short",
+      "gio": "[00:25:06]",
+      "trich": "Xu hướng hiện tại vẫn là xu hướng tăng. Tuy nhiên không thể nào long FOMO ở vùng giá bây giờ được."
+    }
+  ],
+  "giu_dong": [
+    {
+      "lenh": "short BTC buổi sáng (lệnh thăm dò phản ứng, ngược xu hướng)",
+      "quyet_dinh": "dong",
+      "khi_nao": "bị SL",
+      "gio": "[00:26:10]",
+      "trich": "Anh em có thể tham khảo vùng này thế thôi. Lệnh này SL. Đánh ngược xu hướng là vậy thôi, đừng kỳ vọng quá."
+    },
+    {
+      "lenh": "spot BTC (ví dụ vị thế ~65.000)",
+      "quyet_dinh": "chot_mot_phan",
+      "khi_nao": "ở vùng 80-81 hiện tại có thể chốt lãi; bán từng phần (DCA bán), đừng bán hết",
+      "gio": "[00:20:13]",
+      "trich": "Mà cách để xử lý cái này đó là các bạn đừng bán hết. Bán từng phần. Mua thì mua DCA thì bán cũng là bán DCA."
+    }
+  ],
+  "tin_tuc": []
+}

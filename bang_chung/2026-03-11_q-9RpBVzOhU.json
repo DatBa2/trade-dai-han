@@ -1,0 +1,232 @@
+[
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[0].trich",
+  "trich": "Xu hướng thì mình vẫn nghiêng vào xu hướng long là chính. ... Khả năng nó lên vùng 780 rất cao. Đoạn này anh em cẩn thận đừng có sell.",
+  "giay": 1055,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=q-9RpBVzOhU&t=1055s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[1].trich",
+  "trich": "mình nói Bitcoin đang nằm trong downtrend mà, mình đâu có bảo Bitcoin tăng dài hạn tốt.",
+  "giay": 4142,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=q-9RpBVzOhU&t=4142s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "lenh[0].trich",
+  "trich": "Mình sẽ vào trước một lệnh nho nhỏ. SL tất cả đều 69.000. ... TP 72.",
+  "giay": 1272,
+  "do_giong": 0.929,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=q-9RpBVzOhU&t=1272s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "lenh[1].trich",
+  "trich": "Mình vừa cho anh em limit ở Fibo 0.5 xong là giá nó vút lên luôn, không thèm quay đầu.",
+  "giay": 1019,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=q-9RpBVzOhU&t=1019s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[0].trich",
+  "trich": "Mình cho một limit là giá nó chạy lên đến 71 luôn, 2000 giá. Mình vừa cho anh em limit ở Fibo 0.5 xong là giá nó vút lên luôn",
+  "giay": 1013,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=q-9RpBVzOhU&t=1013s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[1].trich",
+  "trich": "Fibo 75 hôm trước mình đo rồi. Nếu anh em đo Fibo đoạn này thì nó cho Fibo 2 ở 75",
+  "giay": 1063,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=q-9RpBVzOhU&t=1063s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[2].trich",
+  "trich": "Khả năng nó lên vùng 780 rất cao",
+  "giay": 1115,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=q-9RpBVzOhU&t=1115s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[3].trich",
+  "trich": "Hai đáy ở đây mình nghĩ có thể đánh long ... Stop loss là 69.00",
+  "giay": 1170,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=q-9RpBVzOhU&t=1170s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[4].trich",
+  "trich": "TP 72. 72 trên này mở khá dài thì khả năng lên trên này húp anh em ở trên này cũng hợp lý",
+  "giay": 1225,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=q-9RpBVzOhU&t=1225s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[5].trich",
+  "trich": "Phần thứ hai mọi người có thể chờ ở vùng 69750 69. SL tất cả đều 69",
+  "giay": 1246,
+  "do_giong": 0.706,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=q-9RpBVzOhU&t=1246s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[6].trich",
+  "trich": "68 69 này vẫn dày. 68 ở bên này thì có một data ở 68",
+  "giay": 1394,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=q-9RpBVzOhU&t=1394s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[7].trich",
+  "trich": "Chờ nến cái đoạn này 67000, 6900 ... Thằng này về đây cũng là Fibo 50 của đoạn này",
+  "giay": 1607,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=q-9RpBVzOhU&t=1607s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[8].trich",
+  "trich": "6970 khả năng hú anh em ở đây rồi",
+  "giay": 1695,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=q-9RpBVzOhU&t=1695s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[9].trich",
+  "trich": "lên đến vùng khoảng 5 600 giá là phải chốt đi. Nếu anh em scalping",
+  "giay": 2121,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=q-9RpBVzOhU&t=2121s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[10].trich",
+  "trich": "market nó vẫn chạy tiếp cái trendline này thì về đâu đó khoảng 66.000. Rồi lại bật lên đâu đó khoảng độ 74",
+  "giay": 2533,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=q-9RpBVzOhU&t=2533s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[11].trich",
+  "trich": "Rồi lại bật lên đâu đó khoảng độ 74",
+  "giay": 2539,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=q-9RpBVzOhU&t=2539s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[12].trich",
+  "trich": "Đóng M5 dưới cái vùng hiện tại 69K8 gì đó là sẽ hòa luôn ... thoát luôn",
+  "giay": 2698,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=q-9RpBVzOhU&t=2698s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[13].trich",
+  "trich": "lấy H4 vào giá hiện tại, SL nó nằm ở đâu đó khoảng 65",
+  "giay": 2896,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=q-9RpBVzOhU&t=2896s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[14].trich",
+  "trich": "giờ mà nó vút lên luôn được 70.000 thì mình chốt đóng ngủ luôn",
+  "giay": 3580,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=q-9RpBVzOhU&t=3580s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[15].trich",
+  "trich": "Gap ở trên này, từ 2004 đến 2006, tương đương với BTC 80 (gap ETH tương ứng BTC 80)",
+  "giay": 3616,
+  "do_giong": 0.789,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=q-9RpBVzOhU&t=3616s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[16].trich",
+  "trich": "Big short 40.000 thì chưa đâu. Dễ ăn như vậy thì đâu có còn là cái thị trường này",
+  "giay": 3642,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=q-9RpBVzOhU&t=3642s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[17].trich",
+  "trich": "Cốc nhỏ lên 74. Cốc H1 thì SL ở dưới này, 68k5 thôi",
+  "giay": 4454,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=q-9RpBVzOhU&t=4454s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[18].trich",
+  "trich": "Cốc H1 thì SL ở dưới này, 68k5 thôi",
+  "giay": 4457,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=q-9RpBVzOhU&t=4457s",
+  "anh": []
+ }
+]

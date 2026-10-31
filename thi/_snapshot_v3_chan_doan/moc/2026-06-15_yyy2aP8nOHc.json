@@ -1,0 +1,226 @@
+{
+  "buoi": "2026-06-15_yyy2aP8nOHc",
+  "ngay": "2026-06-15",
+  "gia_btc_luc_noi": 65500,
+  "moc": [
+    {
+      "gia": 65000,
+      "gia_tren": null,
+      "vai_tro": "tp",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "Fibo (cột mốc 1 đã vẽ)",
+        "base 60-62K"
+      ],
+      "moc_gio": "00:08:41",
+      "chac": true,
+      "trich": "xác định target là 65, 67 và 69. Ba cột mốc chúng ta chốt"
+    },
+    {
+      "gia": 67000,
+      "gia_tren": null,
+      "vai_tro": "tp",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "Fibo (cột mốc 2)"
+      ],
+      "moc_gio": "00:08:41",
+      "chac": true,
+      "trich": "target là 65, 67 và 69"
+    },
+    {
+      "gia": 69000,
+      "gia_tren": null,
+      "vai_tro": "tp",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "Fibo mở rộng 1.618",
+        "MA200 H4",
+        "MA34 D1"
+      ],
+      "moc_gio": "00:11:20",
+      "chac": true,
+      "trich": "Fibo 1.618 là ở 69.000. Trùng với MA200 H4. Trùng với MA34 khung D1"
+    },
+    {
+      "gia": 71000,
+      "gia_tren": 72000,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "test MA34 D1 mạnh",
+        "vùng trống thanh khoản sau nhịp tụt nhanh"
+      ],
+      "moc_gio": "00:09:45",
+      "chac": true,
+      "trich": "MA34 mà mạnh thì sẽ lên khớp thanh khoản ở vùng 71, 72"
+    },
+    {
+      "gia": 60000,
+      "gia_tren": 62000,
+      "vai_tro": "nhac_lai",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "vùng base long (60-62K)"
+      ],
+      "moc_gio": "00:08:41",
+      "chac": true,
+      "trich": "đánh chuẩn theo vùng base 60, 61, 62"
+    },
+    {
+      "gia": 61000,
+      "gia_tren": null,
+      "vai_tro": "nhac_lai",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "lệnh BTC thấp nhất của mình"
+      ],
+      "moc_gio": "00:14:36",
+      "chac": true,
+      "trich": "entry của mình thấp nhất là khoảng 61.00"
+    },
+    {
+      "gia": 65800,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "Fibo 1 (100%) của sóng đã vẽ H4"
+      ],
+      "moc_gio": "00:15:37",
+      "chac": true,
+      "trich": "Fibo 1 là 65.8 này nó đang bị khựng lại"
+    },
+    {
+      "gia": 63000,
+      "gia_tren": null,
+      "vai_tro": "entry",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "Fibo 0.5 H4",
+        "trendline kênh giá",
+        "đáy 63.000 cũ"
+      ],
+      "moc_gio": "00:16:09",
+      "chac": true,
+      "trich": "test lại vùng Fibo 0.5 quanh 63.000... về lại 63 tìm điểm đánh lên"
+    },
+    {
+      "gia": 62000,
+      "gia_tren": null,
+      "vai_tro": "sl",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "dưới đáy 63.000 (SL khoảng 500 giá)"
+      ],
+      "moc_gio": "00:18:46",
+      "chac": true,
+      "trich": "long ở 6300 SL khoảng 500 giá, 62.000 cũng được"
+    },
+    {
+      "gia": 65000,
+      "gia_tren": null,
+      "vai_tro": "sl",
+      "huong": "TANG",
+      "khung": "M5",
+      "can_cu": [
+        "cụm MA M5"
+      ],
+      "moc_gio": "00:19:20",
+      "chac": true,
+      "trich": "đánh 5 phút SL dưới 65"
+    },
+    {
+      "gia": 67000,
+      "gia_tren": null,
+      "vai_tro": "tp",
+      "huong": "TANG",
+      "khung": "M5",
+      "can_cu": [],
+      "moc_gio": "00:19:20",
+      "chac": true,
+      "trich": "ăn ngắn thì khoảng 67.000 chốt rồi chừa vol gồng"
+    },
+    {
+      "gia": 66000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý / Coinglass (phe short chờ lụm)"
+      ],
+      "moc_gio": "00:21:26",
+      "chac": true,
+      "trich": "một thằng ở 66 chờ lụm... quét lên 66"
+    },
+    {
+      "gia": 64000,
+      "gia_tren": null,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý / Coinglass (phe long chờ húp)"
+      ],
+      "moc_gio": "00:21:26",
+      "chac": true,
+      "trich": "một thằng ở 6400 chờ húp, vùng dưới không dày bằng trên"
+    },
+    {
+      "gia": 65000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": "00:38:46",
+      "chac": true,
+      "trich": "chờ nó về test lại vùng và tệ cũng phải 65.000 còn không thì 63 là đẹp nhất"
+    },
+    {
+      "gia": 66000,
+      "gia_tren": null,
+      "vai_tro": "tp",
+      "huong": "TANG",
+      "khung": "M5",
+      "can_cu": [
+        "scalping"
+      ],
+      "moc_gio": "00:38:46",
+      "chac": true,
+      "trich": "nếu scalping thì chốt ở 66"
+    },
+    {
+      "gia": 71000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": "00:36:55",
+      "chac": false,
+      "trich": "Con này maximum lên được 71"
+    },
+    {
+      "gia": 30000,
+      "gia_tren": 40000,
+      "vai_tro": "entry",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": "00:25:30",
+      "chac": true,
+      "trich": "Chờ Bitcoin về 40.000 hoặc 30.000 này vào"
+    }
+  ]
+}

@@ -1,0 +1,292 @@
+{
+  "buoi": "2026-04-03_vnCUK9ayUsI",
+  "ngay": "2026-04-03",
+  "gia_btc_luc_noi": 66500,
+  "moc": [
+    {
+      "gia": 60000,
+      "gia_tren": null,
+      "vai_tro": "vo_hieu",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "đáy khung ngày / cốc tay cầm",
+        "thủng 60K là no hope"
+      ],
+      "moc_gio": "00:04:49",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Cho đến khi nào nó thủng 60.000 thì góc nhìn này mới thực sự kết thúc"
+    },
+    {
+      "gia": 50000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [
+        "thủng 60.000"
+      ],
+      "moc_gio": "00:30:24",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "nếu thủng khỏi 60 thì về 50 là chuyện đơn giản"
+    },
+    {
+      "gia": 66000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "Fibo (zone Fibo ngày)",
+        "vùng sideway tích lũy lâu",
+        "cụm thanh lý 66K"
+      ],
+      "moc_gio": "00:28:44",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Khi nào đến ngày này nó thủng ở 66.000 thì đó là tín hiệu xấu đầu tiên"
+    },
+    {
+      "gia": 64000,
+      "gia_tren": null,
+      "vai_tro": "entry",
+      "huong": "TANG",
+      "khung": "H1",
+      "can_cu": [
+        "cụm thanh lý rất dày 64-65K (Coinglass)",
+        "SL gần 60K",
+        "phản ứng nến H1"
+      ],
+      "moc_gio": "00:34:07",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "nếu dump về khoảng 64 thì quan sát phản ứng cây H1 ở 64... 64 là một vùng liquid rất dày"
+    },
+    {
+      "gia": 64300,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "H1",
+      "can_cu": [
+        "cụm thanh lý (Coinglass, 64K3)",
+        "mô hình cờ"
+      ],
+      "moc_gio": "00:35:17",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Nếu đoạn này nó chạy được mô hình cờ thì khả năng cũng về 64K3. 63 luôn"
+    },
+    {
+      "gia": 63000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "H1",
+      "can_cu": [
+        "mô hình cờ"
+      ],
+      "moc_gio": "00:35:17",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "về 64K3. 63 luôn"
+    },
+    {
+      "gia": 65600,
+      "gia_tren": null,
+      "vai_tro": "day_cu",
+      "huong": null,
+      "khung": "H4",
+      "can_cu": [
+        "quét hôm qua"
+      ],
+      "moc_gio": "00:08:14",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Hôm qua nó đã quét về 65k6"
+    },
+    {
+      "gia": 69000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "bị phá hôm qua"
+      ],
+      "moc_gio": "00:26:39",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Phá 69.000, nó đi từ 68 xuống"
+    },
+    {
+      "gia": 68000,
+      "gia_tren": null,
+      "vai_tro": "dinh_cu",
+      "huong": null,
+      "khung": "H4",
+      "can_cu": [
+        "đỉnh hôm qua 68K, rơi về 66K"
+      ],
+      "moc_gio": "00:25:29",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "nó đi từ 68 về 66 thôi... 2000 giá"
+    },
+    {
+      "gia": 66000,
+      "gia_tren": null,
+      "vai_tro": "entry",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "vùng Fibo nhạy cảm",
+        "SL cây H4 hôm qua"
+      ],
+      "moc_gio": "00:31:29",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "cây H4 này nằm ngay ở vùng Fibo rất nhạy cảm... H4 dưới 6600 thì TP 65 đến 64"
+    },
+    {
+      "gia": 64000,
+      "gia_tren": 65000,
+      "vai_tro": "tp",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [],
+      "moc_gio": "00:31:29",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "khả năng hôm qua TP được ở giá 65 cho đến 64"
+    },
+    {
+      "gia": 69000,
+      "gia_tren": null,
+      "vai_tro": "khac",
+      "huong": "TANG",
+      "khung": "H1",
+      "can_cu": [
+        "Fibo 0.618 H1"
+      ],
+      "moc_gio": "00:33:03",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Nếu vứt phát lên 69 cũng là chuyện thường tình"
+    },
+    {
+      "gia": 67000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": null,
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý phía trên (Coinglass)"
+      ],
+      "moc_gio": "00:37:15",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "66, 65, 64 và ở trên thì có 67 tức là đi đầu nào nó cũng húp"
+    },
+    {
+      "gia": 80000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "gap CME 80.000"
+      ],
+      "moc_gio": "00:37:15",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Gap thì vẫn nằm 80"
+    },
+    {
+      "gia": 66750,
+      "gia_tren": null,
+      "vai_tro": "sl",
+      "huong": "GIAM",
+      "khung": "M5",
+      "can_cu": [
+        "scalp thử volume rất nhỏ"
+      ],
+      "moc_gio": "00:38:21",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "SL 66750 TP 61"
+    },
+    {
+      "gia": 61000,
+      "gia_tren": null,
+      "vai_tro": "tp",
+      "huong": "GIAM",
+      "khung": "M5",
+      "can_cu": [
+        "scalp thử"
+      ],
+      "moc_gio": "00:38:21",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "SL 66750 TP 61"
+    },
+    {
+      "gia": 59000,
+      "gia_tren": null,
+      "vai_tro": "sl",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "SL limit long 63-64K"
+      ],
+      "moc_gio": "00:42:14",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Nếu limit long vùng 63 64 thì SL mình cài 59"
+    },
+    {
+      "gia": 64400,
+      "gia_tren": null,
+      "vai_tro": "khac",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "vùng thanh lý nguy hiểm nhất (heatmap)"
+      ],
+      "moc_gio": "00:39:35",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Liquid... vùng nguy hiểm nhất đó là vùng 64K4"
+    },
+    {
+      "gia": 50000,
+      "gia_tren": null,
+      "vai_tro": "entry",
+      "huong": "GIAM",
+      "khung": "W1",
+      "can_cu": [
+        "gom hàng spot dài hạn nếu về 50"
+      ],
+      "moc_gio": "00:53:27",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Được biết về khoảng 50 anh em thoải mái bắt đầu mua hàng"
+    },
+    {
+      "gia": 20000,
+      "gia_tren": 40000,
+      "vai_tro": "entry",
+      "huong": "GIAM",
+      "khung": "W1",
+      "can_cu": [
+        "kế hoạch DCA dài hạn của anh ấy"
+      ],
+      "moc_gio": "00:58:34",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "chúng ta plan là nó dump về 40 đến 20.000"
+    }
+  ]
+}

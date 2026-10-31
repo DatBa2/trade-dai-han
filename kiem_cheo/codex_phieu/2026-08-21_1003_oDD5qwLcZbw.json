@@ -1,0 +1,34 @@
+{
+  "buoi": "2026-08-21_1003_oDD5qwLcZbw",
+  "gia_btc_luc_noi": 75000,
+  "dau_buoi": {
+    "huong_h4": "TANG",
+    "trich": "§ Short scalping đoạn này: tất cả những nhịp giảm đều mang tính điều chỉnh nhá, còn để anh em view gãy thì mình nghĩ chưa đâu. Lực bây giờ khá căng."
+  },
+  "cuoi_buoi": {
+    "huong_h4": "TANG",
+    "trich": "§ Dữ liệu cảnh báo rủi ro: Các dữ liệu mình view mang tính cảnh báo rủi ro chứ không mang tính đảo chiều ở giai đoạn hiện tại. § Điều kiện để short: còn hiện tại lực vẫn đang rất căng."
+  },
+  "doi_y_giua_buoi": false,
+  "huong_lon": {
+    "D1": "TANG",
+    "W1": null,
+    "chu_ky": "GIAM"
+  },
+  "hanh_dong": "dung_ngoai_cho_entry",
+  "duong_di": [
+    {
+      "huong": "TANG",
+      "dich": 77000,
+      "khung": "H4"
+    }
+  ],
+  "dich_chinh": 77000,
+  "moc_sai": {
+    "gia": null,
+    "dieu_kien": null
+  },
+  "pha_vo_gia": null,
+  "do_chac": "vua",
+  "ghi_chu": "Đã đọc hết transcript. Giá xấp xỉ vùng 75.000, đã gần 76.000 trong sáng; không có tick đồng nhất. Kỳ vọng tiếp 77.000, rủi ro quét tới 78.000; không long FOMO do quá mua, cũng chưa short chính thức. Limit short scalping 74.900 không khớp (giá tới 74.850); chỉ short khi M5 thủng hoặc lên Fibo có nến chặn. M5 đóng qua 75.000 là hủy SHORT scalping, không phải vô hiệu hướng H4 tăng. Lúc giữa nói muốn chỉnh nhưng khẳng định cảnh báo không là tín hiệu đảo chiều, nên không đánh dấu đổi H4. W1 chờ backtest để xét lại xu hướng lớn; chu kỳ downtrend chưa thay đổi. Các ví dụ fake out lịch sử/giảng cấu trúc không là phá vỡ giả BTC đang xảy ra."
+}

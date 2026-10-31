@@ -1,0 +1,42 @@
+{
+  "buoi": "2026-10-29_0033_4Hg5YedKaAg",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/lam_sach/2026-10-29_0033_4Hg5YedKaAg.md",
+  "gia_btc_luc_noi": 81000,
+  "dau_buoi": {
+    "thien_huong_h4": "GIAM",
+    "gio": null,
+    "trich": "Nhưng về cấu trúc sóng như thế này, chúng ta biết lực bán ở đây là lực chủ đạo. Nó lên đây chủ yếu là lấy thanh khoản cộng với quét lại vùng này và Fibo 0.5 của nhịp giảm. Tí nữa có thể có nhịp lên 82, đừng bất ngờ với nhịp lên đó. Nhưng ở đây lực bán vẫn rất khỏe: khung ngày bị chặn ngay đường MA, chặn ngay đường này thì vẫn có khả năng rơi về dưới."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "GIAM",
+    "do_chac": "vua",
+    "gio": null,
+    "trich": "Fibo này chặn, có thể có một nhịp test nữa lên vùng 80.00[?]/81.00[?], nhưng cũng không giải quyết được vấn đề gì. Nó phải thực sự vượt qua được vùng cản lúc nãy bị bán thì may ra kéo lên tiếp, còn không thì rất khó. Cho nên mình vẫn giữ quan điểm là xu hướng giảm, mình không đánh ngược xu hướng ở đoạn này nữa."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {"huong": "GIAM", "dich": [77000, 78000]},
+  "duong_di": [
+    {"huong": "GIAM", "dich": [77000, 78000]}
+  ],
+  "dich_chinh": [77000, 78000],
+  "han_gio": null,
+  "vo_hieu": null,
+  "lenh": [
+    {"chieu": "SHORT", "vao": null, "tp": [], "sl": null, "trang_thai": "dang_giu"}
+  ],
+  "hanh_dong": "giu_lenh",
+  "khung_lon": {"D1": "GIAM", "W1": null},
+  "pha_vo_gia": "Nhịp hồi trước/sau tin lên 81-82 chỉ là lấy thanh khoản + test Fibo 0.5: 'Bình thường hai đáy chạy vào breakout thì phải lên được trên đỉnh... nhưng vừa fake out vừa gặp cản là nó test đúng Fibo rồi rớt' (so với nhịp lên 84.000 trước đó).",
+  "trich_them": [
+    {"gio": null, "cau": "Mình nghĩ không nên long đâu. Trận này sao mà đi long được, trận này nguy hiểm lắm anh em."},
+    {"gio": null, "cau": "Ra tin: giữ nguyên lãi suất, giá đứng im rồi gãy. Đi như thế này thì khả năng đêm nay gãy tiếp, như dự đoán, không có gì bất ngờ."},
+    {"gio": null, "cau": "Ngày mai có tin GDP và PCE. Nếu forecast của PCE ra khoảng 0.4–0.5 một phát thì coi như Bitcoin mất luôn đà tăng nhịp này. Còn nếu ra 0.2 thì chắc ngày mai nó kéo lên khoảng 82.500."},
+    {"gio": null, "cau": "Đóng nến đỏ thì rất dễ sáng mai anh em thấy 78.00[?], trừ khi bài phát biểu quá đẹp."},
+    {"gio": null, "cau": "Bây giờ anh em có vị thế ở trên 81 thì có thể SL entry. Ví dụ lúc sáng mình cho một vùng từ 80.00[?] đến 81.00[?]; mình khớp được tất cả các entry ở đây, chốt bớt rồi, chưa khớp đến 80.000."},
+    {"gio": null, "cau": "Thực tế đoạn này mình nghĩ nó điều chỉnh về vùng 78 rồi sideway, bật lên test lại vùng đó, 83; rồi lại đi xuống thì lúc này có một mô hình vai đầu vai trên khung ngày... Đi tiếp thì nó tuột về khoảng sáu mấy nghìn... Nhưng trước mắt, nhịp này đi chắc phải qua tháng 12 mới xong."},
+    {"gio": null, "cau": "Nếu cây H4 tiếp theo lúc 3 giờ đóng ở vùng giá này thì chứng tỏ không vượt qua được 1/2 cây nến bán trước đó."},
+    {"gio": null, "cau": "> Hỏi: Ngày mai khả năng lên hay xuống? — Ngày mai mới biết được."}
+  ],
+  "kho": "File không có mốc giờ; buổi live đêm tin Fed. Lệnh của người nói là short khớp 'một vùng từ 80.00[?] đến 81.00[?]' (số phụ đề không chắc), đã chốt bớt, khuyên SL entry — vao/tp/sl để null. Đích H4 gần là 77-78k ('sáng mai thấy 78' nếu nến đỏ); kịch bản dài hơn là vai đầu vai D1: 78 → hồi 83 → về 6x (qua tháng 12), không đưa vào duong_di H4. Không có mốc vô hiệu bằng số: chỉ nói phải vượt 1/2 cây H4 bán/vùng cản Fibo ~81. Có điều kiện tin PCE 0.2 → lên 82.500."
+}

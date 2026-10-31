@@ -1,0 +1,232 @@
+[
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[0].trich",
+  "trich": "Quan điểm của mình là thế. Cho nên đoạn này mình vẫn tiếp tục tìm kiếm cơ hội để đánh long.",
+  "giay": 1292,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=35w3e47m3wY&t=1292s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[1].trich",
+  "trich": "Vẫn nằm trên trendline và giữ được xu hướng tăng ở trên khung ngày, xu hướng phục hồi vẫn kéo đáy đi lên.",
+  "giay": 635,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=35w3e47m3wY&t=635s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "lenh[0].trich",
+  "trich": "Nếu nó về được 70.000 thì cũng là hợp lý để chúng ta tìm entry chúng ta đánh lên. (ví dụ lệnh 69.000 SL 68.000)",
+  "giay": 1500,
+  "do_giong": 0.714,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=35w3e47m3wY&t=1500s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "lenh[1].trich",
+  "trich": "Lệnh tối hôm qua mình cho anh em Long ... Hôm qua nó lên đến tận 72.000 mình cũng không chốt.",
+  "giay": 2533,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=35w3e47m3wY&t=2533s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[0].trich",
+  "trich": "vùng 72.000 này nó chưa có qua được là bởi vì bản chất thì nó là một cản của 0.5 Fibo",
+  "giay": 946,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=35w3e47m3wY&t=946s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[1].trich",
+  "trich": "kéo lên 73 khá dễ... chạm lại cản ở vùng 72.800 này. Fibo 0.618",
+  "giay": 986,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=35w3e47m3wY&t=986s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[2].trich",
+  "trich": "Nếu thấy tín hiệu đóng cây H4 trên 72 này là phải thoát gấp",
+  "giay": 1015,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=35w3e47m3wY&t=1015s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[3].trich",
+  "trich": "gãy khỏi 68.000 là coi như là khả năng thất bại",
+  "giay": 507,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=35w3e47m3wY&t=507s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[4].trich",
+  "trich": "đưa giá về 57.000, 58.000. Đó là theo Fibo",
+  "giay": 514,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=35w3e47m3wY&t=514s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[5].trich",
+  "trich": "70.000 đang có một vùng liquid rất là dày... 70.400 và 70.000",
+  "giay": 592,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=35w3e47m3wY&t=592s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[6].trich",
+  "trich": "Có một gap nho nhỏ ở đây thôi, 70.000... về lấp cái gap ở 70.000 này là đẹp",
+  "giay": 1344,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=35w3e47m3wY&t=1344s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[7].trich",
+  "trich": "Phải đóng dưới 69 thì H4 này khả năng sẽ mất... Đóng H4 thủng khỏi 69 là mất xu hướng tăng",
+  "giay": 1152,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=35w3e47m3wY&t=1152s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[8].trich",
+  "trich": "đóng được cây H4 ở 71.000 này khá là ngon... test lên 72",
+  "giay": 674,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=35w3e47m3wY&t=674s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[9].trich",
+  "trich": "đo Fibo... 73.000 này khá hợp lý",
+  "giay": 1280,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=35w3e47m3wY&t=1280s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[10].trich",
+  "trich": "76.000 này còn cao hơn nữa",
+  "giay": 1283,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=35w3e47m3wY&t=1283s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[11].trich",
+  "trich": "cao hơn nữa thì là những vùng như 78 hoặc 80",
+  "giay": 1288,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=35w3e47m3wY&t=1288s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[12].trich",
+  "trich": "view của mình giai đoạn này 78 và 83.000",
+  "giay": 2503,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=35w3e47m3wY&t=2503s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[13].trich",
+  "trich": "view của mình giai đoạn này 78 và 83.000",
+  "giay": 2503,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=35w3e47m3wY&t=2503s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[14].trich",
+  "trich": "trung hạn vẫn có những vùng ở 72.000 này... hai đầu có vùng liquid",
+  "giay": 1513,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=35w3e47m3wY&t=1513s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[15].trich",
+  "trich": "canh quanh vùng trendline này, tìm entry ở quanh vùng 70",
+  "giay": 1327,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=35w3e47m3wY&t=1327s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[16].trich",
+  "trich": "short từ đây scalp một cái về 70.200 (ví dụ nêu, không khuyên)",
+  "giay": 1054,
+  "do_giong": 0.643,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=35w3e47m3wY&t=1054s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[17].trich",
+  "trich": "ví dụ setup lệnh 69.000 SL 68.000 (minh họa tính khối lượng)",
+  "giay": 1957,
+  "do_giong": 0.643,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=35w3e47m3wY&t=1957s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[18].trich",
+  "trich": "mục đích lệnh... lên 75.000 sẽ kiếm 2000 đô",
+  "giay": 2567,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=35w3e47m3wY&t=2567s",
+  "anh": []
+ }
+]

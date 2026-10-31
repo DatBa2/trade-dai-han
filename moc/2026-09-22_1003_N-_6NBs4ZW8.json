@@ -1,0 +1,260 @@
+{
+  "buoi": "2026-09-22_1003_N-_6NBs4ZW8",
+  "ngay": "2026-09-22",
+  "gia_btc_luc_noi": 85000,
+  "moc": [
+    {
+      "gia": 84000,
+      "gia_tren": 85000,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "M5",
+      "can_cu": [
+        "mô hình cờ M5",
+        "cấu trúc sóng giảm M5"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Nó sẽ tiếp tục chạy mô hình cờ trong M5, test lại vùng khoảng 85 cho đến 84"
+    },
+    {
+      "gia": 78000,
+      "gia_tren": null,
+      "vai_tro": "entry",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": false,
+      "trich": "Đợi giá 78.000 thì sao? (người xem hỏi; người nói: ok tối ưu)"
+    },
+    {
+      "gia": 87000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "vùng kháng cự",
+        "gióng ngang bên tay trái 86-87"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "vùng 87.000 là bắt đầu đi vào vùng kháng cự (86 đến 87 mọi người gióng theo bên tay trái)"
+    },
+    {
+      "gia": 90000,
+      "gia_tren": 93000,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "vùng kháng cự 9x",
+        "Fibo ở 92 91",
+        "gap CME 90"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Tạm làm tròn đặt tên là vùng 9x, giải từ khoảng 90 cho đến 93"
+    },
+    {
+      "gia": 82000,
+      "gia_tren": 83000,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "vùng cản cứng cũ chuyển thành hỗ trợ",
+        "cấu trúc sóng H4"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "vùng hỗ trợ cứng hiện tại của thị trường là 82 và 83. Vì sao? Bởi vì trước đó đây là cản cứng, thì bây giờ nó trở thành vùng support"
+    },
+    {
+      "gia": 82000,
+      "gia_tren": null,
+      "vai_tro": "vo_hieu",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "thủng hỗ trợ 82-83"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "nếu 82 hay 83 không giữ được, thủng 82 thì tỉ lệ rất cao nó sẽ về test 79 và 80"
+    },
+    {
+      "gia": 79000,
+      "gia_tren": 80000,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "vùng hỗ trợ cũ, vùng tái tích lũy"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "về test 79 và 80, tức là ngay vùng hỗ trợ trước đó... Vùng này đã tái tích lũy"
+    },
+    {
+      "gia": 80000,
+      "gia_tren": null,
+      "vai_tro": "vo_hieu",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "vùng tái tích lũy",
+        "cụm thanh lý 80.000"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "80.000 liên tục bị từ chối thì lúc đó anh em mình mới có thêm view về những vùng thấp hơn"
+    },
+    {
+      "gia": 86000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "M30",
+      "can_cu": [
+        "test MA34 khung 30 phút",
+        "râu nến"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": false,
+      "trich": "vẫn test MA34 trên khung 30 phút... hoàn toàn vẫn có nhịp đi lên test lại 86.00 [?]"
+    },
+    {
+      "gia": 84000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "M30",
+      "can_cu": [
+        "cụm thanh lý / liquid 84",
+        "trendline"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Có một vùng liquid là 84, hợp lý nhỉ. Ngắn hạn nó điều chỉnh về 84... Nếu nó về đến 84 thì cũng test lại trendline này"
+    },
+    {
+      "gia": 85000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "GIAM",
+      "khung": "M5",
+      "can_cu": [
+        "cấu trúc sóng giảm M5"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": false,
+      "trich": "5 phút phải break lên khỏi 85.00 này mới ok được, tức là phá cấu trúc sóng giảm hiện tại của 5 phút"
+    },
+    {
+      "gia": 90000,
+      "gia_tren": 92000,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "gap CME 90-92",
+        "Fibo 91-92"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "vẫn còn một gap 90 đến 92. Gap tám mấy thì bây giờ đã hết rồi. Chỉ còn cuối cùng là gap 90.000... Fibo ở 92 91 vẫn còn này"
+    },
+    {
+      "gia": 83000,
+      "gia_tren": null,
+      "vai_tro": "entry",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "hỗ trợ 82-83"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "điều chỉnh về khoảng 83, trụ được ở vùng 82 83 và kéo lên 90 hoặc 93"
+    },
+    {
+      "gia": 78000,
+      "gia_tren": null,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": false,
+      "trich": "Nếu cứ cố đi bay hay đi mua ở vùng 78.000 thì hết chuyện (ví dụ tâm lý đám đám đông)"
+    },
+    {
+      "gia": 87500,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý / heatmap"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": false,
+      "trich": "nếu nó kéo lên tiếp để quét thì sẽ phải qua khỏi 87.500 [?]"
+    },
+    {
+      "gia": 80000,
+      "gia_tren": 83000,
+      "vai_tro": "ho_tro",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý / heatmap 80.000 và 83.000"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "về đến đâu cũng có liquid, đặc biệt những vùng lớn như 80.000 hay 83.000"
+    },
+    {
+      "gia": 69000,
+      "gia_tren": null,
+      "vai_tro": "khac",
+      "huong": "GIAM",
+      "khung": "W1",
+      "can_cu": [],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "xác suất mà tuần sau giảm về 69.000 mình nghĩ là dưới 1%"
+    },
+    {
+      "gia": 58000,
+      "gia_tren": null,
+      "vai_tro": "day_cu",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": false,
+      "trich": "Đáy 58.000 rồi, không thể về được nữa (người xem nói; người nói không đồng tình, vẫn còn vùng 4x-5x-6x)"
+    }
+  ]
+}

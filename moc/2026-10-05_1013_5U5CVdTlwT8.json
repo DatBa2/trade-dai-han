@@ -1,0 +1,359 @@
+{
+  "buoi": "2026-10-05_1013_5U5CVdTlwT8",
+  "ngay": "2026-10-05",
+  "gia_btc_luc_noi": 86000,
+  "moc": [
+    {
+      "gia": 90000,
+      "gia_tren": 93000,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "W1",
+      "can_cu": [
+        "nến tuần xanh liên tiếp, không còn nến đỏ",
+        "Fibo (cản 93)"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "xác suất nó lên được vùng đâu đó từ 90 cho đến 93... vùng cản 93 là xác suất rất là cao"
+    },
+    {
+      "gia": 87000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "test lại ba đỉnh H4",
+        "hai cây H4 đóng trên 87 mới confirm"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Vùng 87 này rõ ràng là vùng kháng cự... hai cây nến H4 đóng trên 87 thì confirm đi lên tiếp 90 92"
+    },
+    {
+      "gia": 88000,
+      "gia_tren": null,
+      "vai_tro": "entry",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "fake out quét stop loss phe sale"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "fake out, lên đâu đó khoảng độ 88.000 và sau đó nhanh chóng quay về lại"
+    },
+    {
+      "gia": 82000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "vùng điều chỉnh sau fake out"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "vùng 82 này mới thực sự là vùng đủ đẹp để chúng ta lên (mua). 82 hoặc là 80"
+    },
+    {
+      "gia": 80000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "vùng support rất tốt"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "80 là một vùng support rất tốt, nó về đây nó đỡ thì giá lại đi lên"
+    },
+    {
+      "gia": 84000,
+      "gia_tren": null,
+      "vai_tro": "vo_hieu",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "nến H4 đóng thủng 84 mất cấu trúc sóng tăng",
+        "trend ở đây"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Cấu trúc sóng tăng sẽ mất khi nào? Khi nến đóng thủng 84"
+    },
+    {
+      "gia": 81000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "sau khi thủng 84"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "thủng vùng 84 thì xu hướng tăng sẽ mất và nó sẽ trôi về lại vùng 81"
+    },
+    {
+      "gia": 90000,
+      "gia_tren": 92000,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "hai nến H4 đóng trên 87"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Nếu nó đóng trên 87 và ít nhất hai cây nến H4 thì xác suất lên 90"
+    },
+    {
+      "gia": 83000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "nến thứ sáu tin ra gãy 4000 giá trong 2 nến, sau đó giữ"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "tin ra nó quét lên đến 87, sau đó gãy liền xuống 83.000"
+    },
+    {
+      "gia": 85000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "test trend ở đây"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "điều chỉnh về 85 rồi đi lên tiếp. Lúc này nó không thủng 84 thì đừng sale"
+    },
+    {
+      "gia": 85000,
+      "gia_tren": null,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": null,
+      "can_cu": [
+        "liquid map hai đầu dưới"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": false,
+      "trich": "Liquid map hai đầu: ở dưới là 85.000 và ở trên là 87.300"
+    },
+    {
+      "gia": 87300,
+      "gia_tren": null,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": null,
+      "can_cu": [
+        "liquid map hai đầu trên"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": false,
+      "trich": "ở trên là 87.300"
+    },
+    {
+      "gia": 83000,
+      "gia_tren": null,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý / heatmap"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Liquid thì vẫn là hai đầu 83 và 88"
+    },
+    {
+      "gia": 88000,
+      "gia_tren": null,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý / heatmap"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "hai đầu 83 và 88"
+    },
+    {
+      "gia": 90000,
+      "gia_tren": null,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": null,
+      "can_cu": [
+        "vùng thanh khoản khung lớn"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "các vùng thanh khoản: 90.000, vùng 87 và vùng 92 rất cao"
+    },
+    {
+      "gia": 92000,
+      "gia_tren": null,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": null,
+      "can_cu": [
+        "vùng thanh khoản khung lớn, mới tạo vài hôm trước"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "vùng 92 này vừa được tạo ra cách đây vài hôm"
+    },
+    {
+      "gia": 57000,
+      "gia_tren": 62000,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": null,
+      "can_cu": [
+        "vùng thanh khoản lớn khung lớn"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Những vùng lớn như 62, 57 bây giờ vẫn còn"
+    },
+    {
+      "gia": 93000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "GIAM",
+      "khung": "W1",
+      "can_cu": [
+        "Fibo (từ chối ở 93)",
+        "khung tuần"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "chờ xác nhận là 93 này, Fibo này, nó từ chối; và lên đây nó phải gãy về dưới lại thằng 74 75"
+    },
+    {
+      "gia": 74000,
+      "gia_tren": 75000,
+      "vai_tro": "vo_hieu",
+      "huong": "GIAM",
+      "khung": "W1",
+      "can_cu": [
+        "gãy về 74 75 sau khi từ chối 93"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "gãy về dưới lại thằng 74 75 thì lúc đó xác suất của chúng ta mới cao"
+    },
+    {
+      "gia": 76000,
+      "gia_tren": null,
+      "vai_tro": "vo_hieu",
+      "huong": "GIAM",
+      "khung": "W1",
+      "can_cu": [
+        "khung tuần phải thủng 76"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "nó phải thủng thằng 76 này. Đó là đối với khung tuần"
+    },
+    {
+      "gia": 60000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "W1",
+      "can_cu": [
+        "nhiều hỗ trợ trên đường"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "chặng đường từ đây về 60 nó còn gặp nhiều hỗ trợ lắm"
+    },
+    {
+      "gia": 30000,
+      "gia_tren": 49999,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "W1",
+      "can_cu": [],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": false,
+      "trich": "Bitcoin về 30 40... Muốn nhìn thấy giá Bitcoin ở vùng 4x"
+    },
+    {
+      "gia": 57000,
+      "gia_tren": null,
+      "vai_tro": "day_cu",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "đáy cũ"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Bitcoin gãy từ đây về khoảng 57.000, tức giảm 33%"
+    },
+    {
+      "gia": 100000,
+      "gia_tren": null,
+      "vai_tro": "dinh_cu",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "đỉnh cũ làm kịch bản ví dụ"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": false,
+      "trich": "nếu từ 57 nó lên lại khoảng đỉnh, khoảng 100.000"
+    },
+    {
+      "gia": 84000,
+      "gia_tren": null,
+      "vai_tro": "entry",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "gãy 85 rồi 84 mới đánh xuống"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Gãy 84 mới gọi là ok để đánh xuống"
+    }
+  ]
+}

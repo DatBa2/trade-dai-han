@@ -1,0 +1,182 @@
+[
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[0].trich",
+  "trich": "Xu hướng hiện tại vẫn là xu hướng giảm và những nhịp vừa rồi chúng ta vẫn giữ nguyên quan điểm đó là những nhịp điều chỉnh, nhịp phục hồi đi lên.",
+  "giay": 270,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=MZ3XfAjYHqk&t=270s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[1].trich",
+  "trich": "Vùng đáy Bitcoin mình nói rồi từ 40 đến 20. Quan điểm cá nhân của mình.",
+  "giay": 1805,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=MZ3XfAjYHqk&t=1805s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[2].trich",
+  "trich": "Short đoạn này càng nguy hiểm hơn long, bởi vì nếu short ở đây thì rất dễ bị trap.",
+  "giay": 413,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=MZ3XfAjYHqk&t=413s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "lenh[0].trich",
+  "trich": "nên cứ chờ ở limit, chờ ở Fibo 66 cho đến 64.000.",
+  "giay": 842,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=MZ3XfAjYHqk&t=842s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "lenh[1].trich",
+  "trich": "nếu muốn short anh em phải chờ một cú quét lên, ít nhất là phải qua được vùng 72",
+  "giay": 420,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=MZ3XfAjYHqk&t=420s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[0].trich",
+  "trich": "Fibo 0.5 ở vùng 66.000 cho đến 64.000. Đặc biệt đầu tiên là Fibo 0.5 ở 66.000.",
+  "giay": 300,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=MZ3XfAjYHqk&t=300s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[1].trich",
+  "trich": "muốn long thì phải chờ phản ứng ở 66 cho đến 65, 64 bởi vì đó là những vùng Fibo chúng ta xem",
+  "giay": 568,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=MZ3XfAjYHqk&t=568s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[2].trich",
+  "trich": "về đây mà đóng một cây nến thì nó sẽ đâm thẳng xuống... có thể nó sẽ về đến tận 62 test lại vùng ở dưới này",
+  "giay": 320,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=MZ3XfAjYHqk&t=320s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[3].trich",
+  "trich": "nó có một pha giật lên khoảng 75.000, rồi ngày hôm sau đóng cây nến xanh ở 75 này, ngày hôm sau lại đóng một cây nến đỏ thì lúc đó mới short xuống",
+  "giay": 362,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=MZ3XfAjYHqk&t=362s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[4].trich",
+  "trich": "ít nhất là phải qua được vùng 72 này, cao hơn vùng 72 để quét stop loss những lệnh ở đây rồi sau đó nó mới cắm xuống",
+  "giay": 423,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=MZ3XfAjYHqk&t=423s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[5].trich",
+  "trich": "Gap vẫn ở 7980, nhưng mình không biết khi nào nó lấp",
+  "giay": 646,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=MZ3XfAjYHqk&t=646s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[6].trich",
+  "trich": "Gap 93 thì kéo xa ra có gì đâu... Phải kéo lên vùng 93 mới thấy được",
+  "giay": 736,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=MZ3XfAjYHqk&t=736s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[7].trich",
+  "trich": "Liquid thì có một thằng ở 67.00, khả năng trong ngắn hạn đôi khi nó sẽ quét về đây rồi mới ngóc lên lại. Đôi khi nó đấm về 66",
+  "giay": 792,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=MZ3XfAjYHqk&t=792s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[8].trich",
+  "trich": "Vẫn dễ có một cú quét xuống ở đâu đó khoảng tầm 66 này. Rồi sau đó lại ngóc lên.",
+  "giay": 1101,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=MZ3XfAjYHqk&t=1101s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[9].trich",
+  "trich": "Vùng đáy Bitcoin mình nói rồi từ 40 đến 20. Quan điểm cá nhân",
+  "giay": 1805,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=MZ3XfAjYHqk&t=1805s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[10].trich",
+  "trich": "Vùng đáy Bitcoin mình nói rồi từ 40 đến 20",
+  "giay": 1805,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=MZ3XfAjYHqk&t=1805s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[11].trich",
+  "trich": "Lúc đó nó đang ở 70 71 gì đó. Rất nhiều người sẽ nổi lòng tham, họ sẽ không bán",
+  "giay": 533,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=MZ3XfAjYHqk&t=533s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[12].trich",
+  "trich": "nếu nó đóng lên lại một cây màu xanh đóng nến ở khoảng 74.000 thì có nên vào hay không",
+  "giay": 1691,
+  "do_giong": 0.952,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=MZ3XfAjYHqk&t=1691s",
+  "anh": []
+ }
+]

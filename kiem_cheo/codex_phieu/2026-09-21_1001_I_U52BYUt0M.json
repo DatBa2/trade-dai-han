@@ -1,0 +1,39 @@
+{
+  "buoi": "2026-09-21_1001_I_U52BYUt0M",
+  "gia_btc_luc_noi": null,
+  "dau_buoi": {
+    "huong_h4": "GIAM",
+    "trich": "§ Ngắn hạn H1 và 5 phút: mình nghĩ khả năng rất cao sẽ có một nhịp lên test đâu đó khoảng 82.00 đến 82.00 [?], rồi nó mới gãy thực sự."
+  },
+  "cuoi_buoi": {
+    "huong_h4": "GIAM",
+    "trich": "§ Bitcoin H4 đóng nến: Thôi đóng cây này vẫn giữ view nhá. Vẫn chờ một cú quét lên khoảng 82.00 đến 82.00 [?] xem thử thế nào đối với góc nhìn ngắn hạn, chứ không tham gia vào vị thế hiện tại ở market đâu nhá."
+  },
+  "doi_y_giua_buoi": false,
+  "huong_lon": {
+    "D1": "TANG",
+    "W1": "TANG",
+    "chu_ky": "GIAM"
+  },
+  "hanh_dong": "dung_ngoai_cho_entry",
+  "duong_di": [
+    {
+      "huong": "TANG",
+      "dich": null,
+      "khung": "H1"
+    },
+    {
+      "huong": "GIAM",
+      "dich": 80000,
+      "khung": "H4"
+    }
+  ],
+  "dich_chinh": 80000,
+  "moc_sai": {
+    "gia": 83000,
+    "dieu_kien": "Giữ trên 83.000 khoảng 1–2 ngày thì không còn là phá cao giả; xác nhận tăng bằng ít nhất hai nến D1 trên 83.000, hoặc W1 vượt 83.000."
+  },
+  "pha_vo_gia": "§ Tâm lý hưng phấn: có thể quét nhanh 84.000–85.000 vượt cản 83.000 rồi tụt luôn; khác với giữ trên 83.000 trong 1–2 ngày. Là cảnh báo giả định, chưa xác nhận đã xảy ra.",
+  "do_chac": "thap",
+  "ghi_chu": "Đã đọc hết transcript. Giá trong vùng 81.000–82.000, không chốt tick nên null. H4 khó gán: cấu trúc tăng/khung tuần rất đẹp, nhưng người nói chọn đường ngắn hạn quét đỉnh rồi điều chỉnh/kill long trong tuần; gán GIAM cho thiên hướng sau quét, không áp hướng W1 lên H4. Vùng quét 82.xxx bị mất chữ số, để đích chặng đầu null. 80.000 là khả năng quét thanh khoản dưới (khoảng 1000 giá), không phải cam kết sập sâu; không dùng 73.000/57.000 như TP. Không đánh market, chờ quét râu để tìm short; có nói đang kẹt một lệnh short nhưng không đủ rõ để dùng làm hành động chính BTC. Sóng 83.000→90.000/92.000 cần xác nhận, không là đường chính hiện tại. Chu kỳ vẫn gọi downtrend trong phần chốt lãi altcoin."
+}

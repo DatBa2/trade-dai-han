@@ -1,0 +1,119 @@
+{
+  "buoi": "2026-04-06_b48t6sSiV90",
+  "ngay": "2026-04-06",
+  "gio_vn": "10:00",
+  "gia_btc_luc_noi": 68500,
+  "nhan_dinh": [
+    {
+      "khung": "H4",
+      "huong": "TANG",
+      "do_chac": "vua",
+      "dich": [70000, 78000],
+      "han": "tuần này; hồi kéo dài khoảng 10 ngày",
+      "han_gio": 168,
+      "vo_hieu_khi": "nến ngày đóng dưới 66.000 (stop loss tuyệt đối của lệnh long); M5 đóng thủng 68.000 thì cắt lệnh scalping",
+      "kich_ban_phu": "nếu M5 đâm thủng 68.000 thì có thể về lại 67.000-68.000 rồi mới lên; nếu khùng điên có thể đẩy 82.000 (MA200 ngày)",
+      "ly_do": [
+        "H4 đóng đẹp, trên MA200 và trên đỉnh cũ, cấu trúc dễ lên",
+        "nến tuần xanh phủ quyết hai nhịp giảm, giữ được vùng 66.000-65.000",
+        "D1 break trendline ngắn hạn, đáy kéo dần lên",
+        "Fibo target ngắn hạn 70-72; đám đông đều view giảm, short ở vùng sợ hãi cực độ rất thấp",
+        "cửa long cao hơn cửa short (nói là chọn theo kiểu xổ số)"
+      ],
+      "trich": "Lời khuyên của cá nhân mình là không nên short các bạn ạ. Thị trường đang break rất đẹp ... Nhịp này mình nghĩ là maximum nó lên được 78.",
+      "doi_y": null,
+      "duong_di": null
+    },
+    {
+      "khung": "W1",
+      "huong": "TANG",
+      "do_chac": "vua",
+      "dich": [76000, 80000],
+      "han": "tuần này",
+      "han_gio": 168,
+      "vo_hieu_khi": "mất vùng 65.000-66.000 ở khung tuần",
+      "kich_ban_phu": "chỉ là nhịp hồi ngắn trong tái phân phối; vẫn có thể 'không trap ở đoạn thứ hai'",
+      "ly_do": [
+        "cây nến tuần xanh đóng trên 69.000, giữ 66-65 thì tạm ổn trong ngắn hạn",
+        "khung tuần xanh thì khung nhỏ hạn chế short",
+        "điểm đầu tiên test lại là 76-78, kỳ vọng cá nhân 80"
+      ],
+      "trich": "Điểm đầu tiên nó sẽ test lại là vùng 76 đến 78 này. Còn cá nhân mình thì vẫn kỳ vọng là nó lên được vùng đâu đó khoảng 80.",
+      "doi_y": null,
+      "duong_di": null
+    },
+    {
+      "khung": "chung",
+      "huong": "GIAM",
+      "do_chac": "vua",
+      "dich": [40000, 50000],
+      "han": "sau nhịp hồi ~10 ngày (khoảng thứ ba tuần sau); downtrend kéo 1 đến 1,5 năm chủ yếu sideway",
+      "han_gio": null,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": "nhịp hồi lên 78-82 là điểm tìm sell swing/dài hạn",
+      "ly_do": [
+        "xu hướng dài hạn là downtrend, lực bán của holder dài hạn còn, Bitcoin đang tái phân phối",
+        "2026 không phải năm bơm tiền kích hoạt tăng giá",
+        "CPI tối thứ sáu có thể rất xấu, lãi suất có khả năng tăng"
+      ],
+      "trich": "dài hạn là mình nói BTC vẫn giảm, down trend rồi mà các bạn đừng kỳ vọng quá. Down trend này hãy chờ đi. Chúng ta gặp nhau ở vùng bốn mấy là đẹp.",
+      "doi_y": null,
+      "duong_di": [
+        {"huong": "TANG", "dich": 78000},
+        {"huong": "GIAM", "dich": [40000, 50000]}
+      ]
+    },
+    {
+      "khung": "M5",
+      "huong": "TANG",
+      "do_chac": "thap",
+      "dich": 70400,
+      "han": "trong ngày",
+      "han_gio": 24,
+      "vo_hieu_khi": "M5 đóng thủng 68.000 / SL 68.000-68.600",
+      "kich_ban_phu": "hôm nay thị trường có thể sập thứ hai thì cả tuần gãy; scalping đánh ngắn là chạy",
+      "ly_do": [
+        "bắt vào cửa quét short, nhiều short bị kẹt ở vùng này",
+        "đánh long giải trí, volume nhỏ"
+      ],
+      "trich": "nếu phải chọn giữa hai phe long và short thì mình sẽ chọn long nếu gọi là set theo tính xổ số ở đoạn này.",
+      "doi_y": null,
+      "duong_di": null
+    }
+  ],
+  "vung_gia": {"khang_cu": [74000, 78000, 80000, 82000], "ho_tro": [66000, 67000, 68000]},
+  "lenh": [
+    {"chieu": "LONG", "loai": "market/giải trí", "vao": 68500, "tp": [70400], "sl": 68000,
+     "trang_thai": "dang_giu",
+     "trich": "SL ở 68k, TP ở 70k4. Hay SL kéo xuống thấp tí khoảng 68k6"},
+    {"chieu": "LONG", "loai": "bot grid long", "vao": [65000, 80000], "tp": null, "sl": null,
+     "trang_thai": "de_xuat_moi",
+     "trich": "bắt ở vùng 6500, giải từ 6500 cho đến 80"}
+  ],
+  "nhin_lai_truoc": "Hai ngày cuối tuần không có gì để chơi; lệnh limit tối qua không khớp. Hôm trước đã nói phải khấn giữ vùng 66 và kết quả nến tuần đóng 69.000.",
+  "cong_cu": ["H4", "D1", "W1", "M5", "MA200", "MA89", "Fibo", "heatmap liquidation", "gap CME", "USDT.D", "BTC.D", "Fear & Greed", "RSI"],
+  "tin_tuc": [
+    {"tin": "CPI tối thứ sáu (dự kiến m/m 1,0% so với 0,3% tháng trước)", "danh_gia": "tin quan trọng nhất tuần, nếu ra cao thì dump ngắn hạn; có thể tăng trước tin rồi dump sau tin"},
+    {"tin": "PMI tối nay; PCE/GDP quý thứ năm", "danh_gia": "không quan trọng bằng CPI"},
+    {"tin": "Chiến tranh Iran, dầu tăng", "danh_gia": "dầu có thể 130-150; không ảnh hưởng ngắn hạn tới cửa lên 78 của BTC"}
+  ],
+  "thoi_quen": [
+    "chốt tối thiểu 1/2 volume lệnh bắt đáy, giữ lại một ít để gồng",
+    "scalping ngày thứ hai đánh ngắn là chạy, không swing khi chưa biết ngày mai",
+    "ngược đám đông: khi ai cũng view giảm thì thận trọng với phe short",
+    "SL ngắn dưới đáy M5, cắt khi M5 thủng mốc",
+    "lệnh dò đánh trên livestream để bám từng cây nến"
+  ],
+  "cau_cua_mieng": [
+    "Làm nhanh, đánh nhanh, thắng gọn, rút nhanh.",
+    "Đừng chủ quan với thị trường.",
+    "Xấu thì xấu hẳn, đẹp thì đẹp luôn."
+  ],
+  "altcoin": [
+    {"coin": "ZEC", "huong": "TANG", "ghi": "ngắn hạn đẹp, lên 300 chốt, cao nhất ~400; dài hạn bỏ qua"},
+    {"coin": "ETH", "huong": "GIAM", "ghi": "dài hạn dưới 1000 mới đẹp để mua"},
+    {"coin": "vàng", "huong": "GIAM", "ghi": "điều chỉnh, hạn chế long, có thể về 4000-4300 rồi 3800 (không phải altcoin)"},
+    {"coin": "BTC.D", "huong": null, "ghi": "có thể giảm thêm một nhịp rồi tăng lại; nhiều altcoin đẹp tuần này"}
+  ],
+  "ghi_chu": "Số '2008' trong đoạn vàng hiểu là 2800 (nhận dạng giọng nói); phần bot grid/vàng/dầu là bên lề, chỉ ghi phần liên quan BTC."
+}

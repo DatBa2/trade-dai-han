@@ -1,0 +1,385 @@
+{
+  "buoi": "2026-01-27_Q2qX5gIvNC8",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/zip_clean/2026-01-27_Q2qX5gIvNC8.txt",
+  "gia_btc_luc_noi": 88000,
+  "dau_buoi": {
+    "thien_huong_h4": "GIAM",
+    "gio": "[00:15:54]",
+    "trich": "Tất nhiên nó sẽ giảm tiếp nhưng mà không có phải là nó gãy liền một phát."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "GIAM",
+    "do_chac": "thap",
+    "gio": "[00:54:32]",
+    "trich": "Hôm nay biết đến đâu long đến đâu, short thì phải ngồi chờ thôi. Nếu đến vùng short thì phải chờ. Nói chung có rất nhiều data mà bây giờ không có mô hình confirm, nên tầm này phải chờ tín hiệu thị trường rồi mới đọc tiếp được."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {
+    "huong": "TANG",
+    "dich": [
+      89000,
+      91000
+    ]
+  },
+  "duong_di": [
+    {
+      "huong": "TANG",
+      "dich": [
+        89000,
+        91000
+      ]
+    },
+    {
+      "huong": "GIAM",
+      "dich": null
+    }
+  ],
+  "dich_chinh": null,
+  "han_gio": null,
+  "vo_hieu": null,
+  "lenh": [
+    {
+      "chieu": "SHORT",
+      "vao": null,
+      "tp": null,
+      "sl": 88000,
+      "trang_thai": "da_dong"
+    },
+    {
+      "chieu": "LONG",
+      "vao": null,
+      "tp": [
+        89000,
+        91000
+      ],
+      "sl": null,
+      "trang_thai": "de_xuat_moi"
+    }
+  ],
+  "hanh_dong": "dung_ngoai_cho_entry",
+  "khung_lon": {
+    "D1": "Nến ngày hôm qua xanh, có thể là cặp đảo chiều (có khả năng lên tận 98) nên short phải cẩn thận; D1/H4 đang test MA34 là cản; chờ nến ngày quay lại đỏ mới short lại.",
+    "W1": "Nhịp trước đã test MA34 khung tuần (~97-98) rồi điều chỉnh; xu hướng Bitcoin từ giờ đến giữa 2026 là giảm."
+  },
+  "pha_vo_gia": "Cho rằng thị trường đang trap nhiều, có khả năng quét hai đầu (liquid ở 89 và nhiều liquid ở 87 và dưới).",
+  "nhin_lai_view_truoc": {
+    "view_truoc": "GIAM",
+    "giu_hay_doi": "giu",
+    "vi_sao": "Vẫn giữ xu hướng giảm ('xu hướng hiện tại vẫn confirm là giảm') nhưng tạm ngưng short vì lệnh short hôm qua bị ăn SL 88.000, có nến ngày xanh có thể là cặp đảo chiều, giá bật đúng Fibo 0.618 87.000 và còn động lực lên lấp gap 89-91.",
+    "gio": "[00:18:01]",
+    "trich": "Cho nên hiện tại mình chưa short lại đâu. Giai đoạn này anh em vẫn phải linh hoạt một tí, đánh hai chiều. Hiện tại ở đây vẫn có một cây nến xanh ngày hôm qua."
+  },
+  "trendline": [],
+  "trich_them": [
+    {
+      "gio": "[00:25:58]",
+      "cau": "Nhưng không phải cứ đánh thuận xu hướng là lãi. Bởi vì chúng ta chưa biết nó sẽ quét lên đâu rồi mới gãy xuống. Tất nhiên về dài thì nó sẽ gãy xuống thôi."
+    },
+    {
+      "gio": "[00:50:50]",
+      "cau": "Cây H4 này lực mua khá tốt. Volume hơi yếu nhưng nhìn lực ở đây chúng ta chưa thấy lý do gì để short. Chưa kể nó cứ treo ở đây đóng lên như này thì mình nghĩ là long. Nó tăng tiếp rồi. Mình thấy vẫn chưa short được."
+    },
+    {
+      "gio": "[00:15:23]",
+      "cau": "Hôm qua thì là một ngày mà chúng ta bị ăn stop loss một phát thị trường. Cái đoạn này theo mình thấy, các bạn sẽ khá là khó để đánh. Đoạn này thị trường mình nghĩ là nó đang trap khá là nhiều."
+    },
+    {
+      "gio": "[00:20:42]",
+      "cau": "Nhịp ngày hôm qua, lên đây xong đi về, đúng ngay vùng Fibo 618 là 87.000 và đi lên."
+    },
+    {
+      "gio": "[00:21:14]",
+      "cau": "vẫn có khả năng chạy tiếp theo đường Fibo mở rộng thì sẽ lên đến khoảng 89. Nó có thể lên đến 89.000 hoặc thậm chí là 91.000. Cho nên hãy khoan short đã. Xu hướng hiện tại mình thấy nó vẫn đang cố lên, nhưng để chờ H4 có break ra được khỏi vùng Fibo, đường MA trên này hay không đã rồi tính."
+    },
+    {
+      "gio": "[00:23:17]",
+      "cau": "Xu hướng của Bitcoin từ giờ đến giữa năm 2026 theo cá nhân mình đánh giá là giảm."
+    },
+    {
+      "gio": "[00:24:21]",
+      "cau": "Khi nào nó quay về đỏ lại rồi chúng ta mới short lại."
+    },
+    {
+      "gio": "[00:25:25]",
+      "cau": "Xu hướng hiện tại thì mình vẫn confirm với anh em là xu hướng của thị trường là giảm. Xu hướng giảm thì đánh short là thuận xu hướng."
+    },
+    {
+      "gio": "[00:29:06]",
+      "cau": "Hiện tại nó đang trên chặng đường lên lấp gap, có lẽ chúng ta không nên short cố chấp ở đoạn này bởi vì nó vẫn còn rất nhiều động lực để lên, 91 và 89 này."
+    },
+    {
+      "gio": "[00:34:27]",
+      "cau": "Khả năng là thị trường sẽ nhập nhằng cho đến ngày ra tin lãi suất. Khi gần ra tin lãi suất thì các bạn để ý, nếu trước tin nó chạy theo hướng nào thì thường sau tin một vài ngày nó chạy ngược lại."
+    },
+    {
+      "gio": "[00:54:32]",
+      "cau": "Hôm nay biết đến đâu long đến đâu, short thì phải ngồi chờ thôi. Nếu đến vùng short thì phải chờ."
+    },
+    {
+      "gio": "[01:03:43]",
+      "cau": "Nếu H4 ngồi trên 90K2, thậm chí phải trên hẳn 90K7."
+    }
+  ],
+  "kho": "Kịch bản: lên lấp gap 89-91 (chặng kế tiếp, nghiêng long ngắn, H4 đóng xanh) rồi mới gãy xuống theo xu hướng giảm — không nêu đích giảm cụ thể nên dich_chinh null. Đầu buổi có câu '50/50, đi ngang lưỡng lự' (đọc tỉ lệ long/short) nên có thể coi là PHAN_VAN; ghi GIAM thap theo xu hướng chính người đó 'confirm'. Không có trendline nào được nhắc.",
+  "nen_volume": [
+    {
+      "khung": "D1",
+      "nen": "Nến ngày hôm qua xanh (sau chuỗi đỏ)",
+      "volume": null,
+      "ket_luan": "Chưa short lại; RSI chưa về vùng quá bán sâu",
+      "gio": "[00:18:01]",
+      "trich": "Hiện tại ở đây vẫn có một cây nến xanh ngày hôm qua. RSI thì không phải về vùng quá sâu để có một pha quá bán. Cho nên vùng này khá là khó, không phải dễ trade đâu. Đây chạm MA34 này."
+    },
+    {
+      "khung": "D1",
+      "nen": "Nến ngày hôm trước xanh — có thể là cặp nến đảo chiều",
+      "volume": null,
+      "ket_luan": "Short hôm nay phải cẩn thận, có thể lên tận 98; chờ nến ngày quay lại đỏ mới short",
+      "gio": "[00:23:50]",
+      "trich": "thời đối với cây nến ngày hôm trước màu xanh, ngày hôm sau mà chúng ta đi ngược lại thì phải cẩn thận. Ví dụ đây là cây nến xanh, hôm nay mà chúng ta đi short thì phải cẩn thận, bởi vì có khả năng đây là một cặp đảo chiều. Có khả năng nó sẽ lên tận 98 thì chúng ta mà short lơ ngơ là chết ngay."
+    },
+    {
+      "khung": "D1",
+      "nen": "Ví dụ chuỗi nến ngày: đỏ (lực bán) → xanh → đỏ → xanh",
+      "volume": null,
+      "ket_luan": "Sau nến xanh phải đứng ngoài quan sát; chỉ trade khi tiếp tục xuất hiện nến bán",
+      "gio": "[00:24:21]",
+      "trich": "Ví dụ như cái cụm này, đỏ trước đó là lực bán, sau đó xuất hiện một nến xanh. Sau cái nến này bắt buộc chúng ta phải quan sát chứ không biết trước tương lai. Khi nào nó tiếp tục có một nến bán như này thì những ngày sau mới là những ngày để chúng ta trade."
+    },
+    {
+      "khung": "M5",
+      "nen": "M5 dốc dốc đi lên",
+      "volume": null,
+      "ket_luan": "Nếu đánh dò thì long nhỏ vì H4 nằm ngay cản",
+      "gio": "[00:27:33]",
+      "trich": "M5 thì nó vẫn dốc dốc đi lên. Đoạn này có thể đánh long. Nếu mình đánh dò đoạn này mình sẽ đánh long, nhưng long nhỏ thôi bởi vì H4 nằm ngay cái cản này."
+    },
+    {
+      "khung": "H4",
+      "nen": "H4 có thể đóng ở MA, gặp cản nhẹ",
+      "volume": null,
+      "ket_luan": "Có cản nhẹ ở MA H4",
+      "gio": "[00:36:17]",
+      "trich": "H4 thì khả năng đóng ở đây, đây là MA thì đôi khi nó sẽ gặp một cái cản nhẹ ở đoạn này."
+    },
+    {
+      "khung": "H4",
+      "nen": "H4 đóng cây xanh, lực mua khá tốt, treo và đóng lên",
+      "volume": "Volume hơi yếu",
+      "ket_luan": "Chưa short được; nghĩ là long, tăng tiếp",
+      "gio": "[00:50:20]",
+      "trich": "H4 đóng mà dò short đoạn này mình thấy vẫn chưa ổn. H4 đóng cây xanh như này thì chắc là chưa short được đâu. Cây H4 này lực mua khá tốt. Volume hơi yếu nhưng nhìn lực ở đây chúng ta chưa thấy lý do gì để short."
+    }
+  ],
+  "cach_lam": [
+    {
+      "hanh_dong": "do",
+      "cong_cu": "fibo_thoai_lui",
+      "chi_tiet": "Kéo Fibo nhịp hôm qua (lên rồi đi về)",
+      "ket_qua": "Fibo 0.618 = 87.000, giá bật lên",
+      "gio": "[00:20:42]",
+      "trich": "Nhịp ngày hôm qua, lên đây xong đi về, đúng ngay vùng Fibo 618 là 87.000 và đi lên."
+    },
+    {
+      "hanh_dong": "do",
+      "cong_cu": "fibo_mo_rong",
+      "chi_tiet": "Fibo mở rộng từ nhịp bật ở 0.618",
+      "ket_qua": "Mục tiêu 89.000, thậm chí 91.000",
+      "gio": "[00:21:14]",
+      "trich": "vẫn có khả năng chạy tiếp theo đường Fibo mở rộng thì sẽ lên đến khoảng 89. Nó có thể lên đến 89.000 hoặc thậm chí là 91.000."
+    },
+    {
+      "hanh_dong": "do",
+      "cong_cu": "fibo_thoai_lui",
+      "chi_tiet": "Khung 30 phút: Fibo 0.5 và 0.618 làm hỗ trợ, kết hợp Fibo mở rộng lấy target",
+      "ket_qua": "Hỗ trợ ở Fibo 0.5; target phía trên",
+      "gio": "[00:28:04]",
+      "trich": "đang là Fibo 0.5, nó gặp hỗ trợ ở đây. Fibo 0.618 và 0.5, nếu theo Fibo mở rộng để chúng ta có target thì nó sẽ cho kết quả ở trên này."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "ema",
+      "chi_tiet": "MA34 khung ngày/H4",
+      "ket_qua": "Giá đang test MA34 — cản",
+      "gio": "[00:25:25]",
+      "trich": "hiện tại là test tiếp tục MA34, đây chính là cái cản này. Cho nên lý do vì sao mình nói vùng hiện tại là vùng rất khó chơi."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "Gap CME phía trên",
+      "ket_qua": "Đang trên đường lên lấp gap 89-91",
+      "gio": "[00:29:06]",
+      "trich": "Hiện tại nó đang trên chặng đường lên lấp gap, có lẽ chúng ta không nên short cố chấp ở đoạn này bởi vì nó vẫn còn rất nhiều động lực để lên, 91 và 89 này."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "heatmap",
+      "chi_tiet": "Bản đồ liquid trên/dưới",
+      "ket_qua": "Liquid 89 phía trên, nhiều liquid ở 87 và dưới → quét hai đầu",
+      "gio": "[00:32:47]",
+      "trich": "Liquid trên này vẫn có một đống ở 89, nhưng rất nhiều liquid ở 87, ở các vùng dưới. Cho nên đoạn này mình nghĩ vẫn có khả năng nó quét hai đầu thôi."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "Khối lượng BTC đang short",
+      "ket_qua": "~200.000 BTC đang short",
+      "gio": "[00:35:37]",
+      "trich": "Hiện tại vẫn rơi vào tầm khoảng 200.000 BTC đang short, những vùng liquid này cũng như bên kia khoảng 87, 86 gì đó"
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "heatmap",
+      "chi_tiet": "Vùng cản/hỗ trợ trùng liquid",
+      "ket_qua": "Vùng 88-87 trùng liquid, khả năng quét về",
+      "gio": "[00:36:17]",
+      "trich": "Dưới này có một vùng ở 88 đến 87 trùng với vùng liquid này thì khả năng nó quét về dưới này cũng cao."
+    }
+  ],
+  "vung_nguoi_do": [
+    {
+      "loai": "ho_tro",
+      "tu": 87000,
+      "den": 87000,
+      "gio": "[00:20:42]",
+      "trich": "đúng ngay vùng Fibo 618 là 87.000 và đi lên."
+    },
+    {
+      "loai": "dich",
+      "tu": 89000,
+      "den": 91000,
+      "gio": "[00:21:14]",
+      "trich": "Nó có thể lên đến 89.000 hoặc thậm chí là 91.000."
+    },
+    {
+      "loai": "dich",
+      "tu": 98000,
+      "den": 98000,
+      "gio": "[00:23:50]",
+      "trich": "Có khả năng nó sẽ lên tận 98 thì chúng ta mà short lơ ngơ là chết ngay."
+    },
+    {
+      "loai": "sl",
+      "tu": 88000,
+      "den": 88000,
+      "gio": "[00:27:33]",
+      "trich": "về đây đi lên test, SL của mình là 88.000, sau đó là giảm xuống luôn."
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 89000,
+      "den": 89000,
+      "gio": "[00:32:47]",
+      "trich": "Liquid trên này vẫn có một đống ở 89"
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 87000,
+      "den": 88000,
+      "gio": "[00:36:17]",
+      "trich": "Dưới này có một vùng ở 88 đến 87 trùng với vùng liquid này thì khả năng nó quét về dưới này cũng cao."
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 90200,
+      "den": 90200,
+      "gio": "[01:03:43]",
+      "trich": "Nếu H4 ngồi trên 90K2, thậm chí phải trên hẳn 90K7."
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 90700,
+      "den": 90700,
+      "gio": "[01:03:43]",
+      "trich": "Nếu H4 ngồi trên 90K2, thậm chí phải trên hẳn 90K7."
+    }
+  ],
+  "view_trung_han": [
+    {
+      "khung": "M1",
+      "huong": "GIAM",
+      "dich": null,
+      "han": "từ giờ đến giữa năm 2026",
+      "mat_view_khi": null,
+      "gio": "[00:23:17]",
+      "trich": "Xu hướng từ giờ đến giữa 2026 là giảm. Trả lời nhanh cho bạn là thế. Xu hướng của Bitcoin từ giờ đến giữa năm 2026 theo cá nhân mình đánh giá là giảm."
+    },
+    {
+      "khung": "M1",
+      "huong": "GIAM",
+      "dich": null,
+      "han": "từ giờ cho đến hết năm nay (người đó gọi là view ngắn hạn)",
+      "mat_view_khi": null,
+      "gio": "[01:05:18]",
+      "trich": "Mình nói rồi, view của mình từ giờ cho đến hết năm nay là giảm, đó là view ngắn hạn."
+    },
+    {
+      "khung": "D1",
+      "huong": "GIAM",
+      "dich": null,
+      "han": null,
+      "mat_view_khi": null,
+      "gio": "[00:25:25]",
+      "trich": "Xu hướng hiện tại thì mình vẫn confirm với anh em là xu hướng của thị trường là giảm. Xu hướng giảm thì đánh short là thuận xu hướng."
+    }
+  ],
+  "vung_tranh": [
+    {
+      "tu": null,
+      "den": null,
+      "vi_sao": "Vùng hiện tại (chạm MA34) long thì ngược xu hướng nằm ngay kháng cự, short thì cây D1 xanh còn nguy hiểm — long cũng chết short cũng mệt",
+      "gio": "[00:18:33]",
+      "trich": "Cho nên cái tầm này anh em đi long thì cũng chết mà đi short thì cũng mệt."
+    },
+    {
+      "tu": null,
+      "den": null,
+      "vi_sao": "Không short cố chấp khi giá đang trên đường lên lấp gap 89-91",
+      "gio": "[00:29:06]",
+      "trich": "có lẽ chúng ta không nên short cố chấp ở đoạn này bởi vì nó vẫn còn rất nhiều động lực để lên, 91 và 89 này. Cho nên tốt nhất là không nên short đoạn này"
+    }
+  ],
+  "giu_dong": [
+    {
+      "lenh": "Short của người đó hôm qua (SL 88.000)",
+      "quyet_dinh": "dong",
+      "khi_nao": "Bị chạm SL 88.000",
+      "gio": "[00:27:33]",
+      "trich": "về đây đi lên test, SL của mình là 88.000, sau đó là giảm xuống luôn."
+    },
+    {
+      "lenh": "Lệnh đang lãi của người xem",
+      "quyet_dinh": "dong",
+      "khi_nao": "Có lãi thì phải chốt",
+      "gio": "[00:20:10]",
+      "trich": "Qua lãi không chốt chừa âm hả? Thế lãi phải chốt đi. Cái đoạn này đang khó đấy."
+    },
+    {
+      "lenh": "Mọi lệnh đang lãi",
+      "quyet_dinh": "dong",
+      "khi_nao": "Thị trường có thể quét hai đầu (liquid 89 và 87) nên có lãi là chốt",
+      "gio": "[00:32:47]",
+      "trich": "Cho nên có lãi thì nhớ chốt, lãi không chốt thì thằng khác nó chốt giúp."
+    },
+    {
+      "lenh": "Short 87.004 của người xem",
+      "quyet_dinh": "dong",
+      "khi_nao": "Không gồng",
+      "gio": "[00:37:53]",
+      "trich": "Short 87.004 gồng được không? Không đâu."
+    }
+  ],
+  "tin_tuc": [
+    {
+      "su_kien": "FOMC (lãi suất)",
+      "thoi_diem": "ngày 29",
+      "nguon": "khac",
+      "so_lieu": "Người đó dự đoán đợt này giữ nguyên lãi suất, không giảm",
+      "anh_huong_view": "Thị trường nhập nhằng tới ngày ra tin; trước tin chạy hướng nào thì sau tin vài ngày thường chạy ngược lại — nếu tăng tới ngày 29 thì sau tin giảm, nếu sideway/giảm sâu thì sau tin có thể tăng",
+      "gio": "[00:34:27]",
+      "trich": "Khả năng là thị trường sẽ nhập nhằng cho đến ngày ra tin lãi suất. Khi gần ra tin lãi suất thì các bạn để ý, nếu trước tin nó chạy theo hướng nào thì thường sau tin một vài ngày nó chạy ngược lại. Ví dụ từ hôm nay cho đến ngày 29, giá cứ tăng thì khả năng ra tin xong thì đợt này mình nghĩ là giữ nguyên lãi suất chứ không giảm nữa. Thì khả năng sau tin lãi suất giá sẽ giảm."
+    }
+  ]
+}

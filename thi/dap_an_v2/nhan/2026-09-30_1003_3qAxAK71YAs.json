@@ -1,0 +1,50 @@
+{
+  "buoi": "2026-09-30_1003_3qAxAK71YAs",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/lam_sach/2026-09-30_1003_3qAxAK71YAs.md",
+  "gia_btc_luc_noi": 83000,
+  "dau_buoi": {
+    "thien_huong_h4": "TANG",
+    "gio": null,
+    "trich": "Cho nên mình vẫn nghĩ để lên cho chắc thì khả năng vẫn phải có một pha quét về đâu đó khoảng 82.000 [8200 trong phụ đề]. ... Nhưng theo cá nhân mình, nếu market muốn đẩy lên thì nó sẽ không bao giờ về 80; nó chỉ về loanh quanh 82, căng nữa thì đẩy một cái râu nến đâu đó khoảng 81.00 [?] thôi, rồi bật lên luôn 90."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "TANG",
+    "do_chac": "thap",
+    "gio": null,
+    "trich": "Xem Bitcoin H4 đóng thế nào: vẫn là một cây nến đỏ, đóng dưới MA cộng với trendline. ... Hôm nay khả năng sideway chờ tin. Tin PCE tối nay 7:30 sẽ quyết định market, anh em lưu ý tin đó. ... Còn Bitcoin thì bám theo plan ở đầu livestream mình nói khá kỹ để theo dõi thị trường nhá."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {"huong": "GIAM", "dich": [81500, 82500]},
+  "duong_di": [
+    {"huong": "GIAM", "dich": [81500, 82500]},
+    {"huong": "TANG", "dich": [90000, 92000]}
+  ],
+  "dich_chinh": [90000, 92000],
+  "han_gio": null,
+  "vo_hieu": {
+    "gia": 82000,
+    "khung": "H4",
+    "so_nen": 1,
+    "chieu": "dong_duoi",
+    "cau": "Còn nếu giá đóng cửa dưới 82.000 thì gần như 80 không có ý nghĩa. Cái này cực kỳ quan trọng."
+  },
+  "lenh": [
+    {"chieu": "LONG", "vao": [81500, 82500], "tp": [90000, 92000], "sl": 80500, "trang_thai": "de_xuat_moi"},
+    {"chieu": "LONG", "vao": 85000, "tp": [92000], "sl": null, "trang_thai": "de_xuat_moi"}
+  ],
+  "hanh_dong": "dung_ngoai_cho_entry",
+  "khung_lon": {"D1": null, "W1": "TANG"},
+  "pha_vo_gia": "Kỳ vọng một pha quét về ~82 (căng nhất là râu ~81) để 'không cho nhiều người lên tàu' rồi bật lên 90; vùng 80 là vùng tâm lý đám đông chờ entry nên nếu market muốn lên sẽ không về 80. Đêm qua giá quét lên 84 lấy stop loss rồi giảm lại.",
+  "trich_them": [
+    {"gio": null, "cau": "Chúng ta đang ở vùng hỗ trợ quan trọng là 82 đến 83.000, và thị trường phản ứng xác nhận quan điểm này rất rõ. Không thể nào vùng 82–83 bị phá vỡ trong một pha đạp ngắn hạn."},
+    {"gio": null, "cau": "Thành thử nếu đánh nhịp xu hướng tăng tiếp thì hiện tại mình vẫn chờ vùng từ khoảng 82.500 [?] đến 81.500. Đây là vùng chủ lực nếu muốn đánh lên."},
+    {"gio": null, "cau": "Nếu nó quay về dưới 80 thì mình nghĩ chỉ là giai đoạn chuyển tiếp giữa cấu trúc sóng tăng và cấu trúc sóng giảm, rồi dần dần phá ra khỏi vùng 76 và đi xuống những vùng thấp hơn, 60 – 65."},
+    {"gio": null, "cau": "H4 vẫn đang bị từ chối và tạo cấu trúc sóng giảm. Nhưng vùng 82 này nếu anh em để ý thì thấy đang có sự nỗ lực rất lớn để giữ giá không bị thủng 82; chắc chắn có lực mua ở đây"},
+    {"gio": null, "cau": "Để confirm nhịp sóng tăng tiếp thì phải trên 84 cho đến 85; lúc đó nó confirm để đi tiếp. Nếu không bắt được ở các vùng dưới hoặc nó không về thì mình sẽ chờ đánh lại trên 85. Thực tế đánh một nhịp từ 85 đến 92 là cũng khá thơm rồi ... Thành ra chúng ta có một vùng gần như là bất động từ 83.000 đến 85.000."},
+    {"gio": null, "cau": "Zone nào có khả năng buy cho nhịp đánh lên thì lúc nãy mình nói rồi; SL đâu đó dưới entry 1500 giá, tức khoảng dưới 81.000 cho đến 80.500. Nếu giá về đến đó và đóng nến H1 trong vùng đó thì không nên giữ vị thế buy nữa."},
+    {"gio": null, "cau": "Các bạn nhìn đáy nó vẫn giữ được cao dần: từ 82.000, đến 82.500 [?], rồi 83.000 [?]. Nó giữ từ từ nhưng chưa biết có giữ được không. Chờ nó phá đầu nào chúng ta tính theo đầu đó."},
+    {"gio": null, "cau": "Còn nếu ra 0.2 thì khả năng tạo đáy quanh vùng hiện tại hoặc 82.500 [?], và sau đó, lợi dụng qua ngày mai đến thứ sáu, thị trường sẽ kéo lên lại những vùng confirm tăng."}
+  ],
+  "kho": "Transcript không có mốc giờ. Ranh giới TANG/PHAN_VAN: người nói có câu 'chờ nó phá đầu nào tính theo đầu đó', 'sideway chờ tin PCE tối nay sẽ quyết định', H4 vẫn cấu trúc giảm và đóng đỏ dưới MA/trendline cuối buổi; nhưng kế hoạch giao dịch BTC chỉ có phía LONG (mua 82.5–81.5, SL dưới 81–80.5 theo H1; hoặc mua trên 85 đánh lên 92), khẳng định 82–83 là hỗ trợ tuần khó phá → ghi TANG độ chắc thấp, chặng kế tiếp là quét xuống ~82. Đích 90–92 suy từ 'bật lên luôn 90' và 'đánh một nhịp từ 85 đến 92'. Bối cảnh vĩ mô người nói vẫn coi là down trend dài hạn."
+}

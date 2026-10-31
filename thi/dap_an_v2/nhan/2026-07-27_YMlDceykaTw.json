@@ -1,0 +1,49 @@
+{
+  "buoi": "2026-07-27_YMlDceykaTw",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/zip_clean/2026-07-27_YMlDceykaTw.txt",
+  "gia_btc_luc_noi": 65000,
+  "dau_buoi": {
+    "thien_huong_h4": "TANG",
+    "gio": "[00:14:00]",
+    "trich": "Giá nó đi như vậy thì xác suất để nó hồi lên 70 72 này cực kỳ cao. Rõ ràng là như vậy, không thể chối được. Cho nên các bạn đừng short đoạn này, không long thì cũng được nhưng đừng short."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "TANG",
+    "do_chac": "cao",
+    "gio": "[01:05:01]",
+    "trich": "Còn lại view thì để mình xem lại H4 nhá. H4 đóng ở đây thì vẫn thế thôi. H4 đóng một cái râu như này thì cũng không nên vội. Vẫn là kiên trì chờ view 648 64 gì đó thôi."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {"huong": "GIAM", "dich": [64600, 64800]},
+  "duong_di": [
+    {"huong": "GIAM", "dich": [64600, 64800]},
+    {"huong": "TANG", "dich": 67000},
+    {"huong": "TANG", "dich": [70000, 72000]}
+  ],
+  "dich_chinh": [70000, 72000],
+  "han_gio": null,
+  "vo_hieu": {
+    "gia": 63000,
+    "khung": "H4",
+    "so_nen": 1,
+    "chieu": "dong_duoi",
+    "cau": "Cho nên tốt nhất đoạn này mình thấy là chưa short được. Khi nào nó thủng vào đoạn này. Hôm trước nó về đến 6300 này, cỡ đó. Các bạn nhìn H4 nhé."
+  },
+  "lenh": [
+    {"chieu": "LONG", "vao": [64600, 64800], "tp": [67000, 70000, 72000], "sl": null, "trang_thai": "de_xuat_moi"}
+  ],
+  "hanh_dong": "dung_ngoai_cho_entry",
+  "khung_lon": {"D1": "TANG", "W1": "GIAM"},
+  "pha_vo_gia": "Vượt 66.000 sẽ có rất nhiều người short (X125, X150) và 'sẽ tắt tiếng khoảng sau một đêm'; các mẫu hai đỉnh nến 30 phút 'ngứa mắt short' rồi giá vút lên; dữ liệu nghiêng về team short nên 'thị trường vẫn tiếp tục tăng lên để kill'. Khung tuần: râu fake lên 72 'vẫn không giải quyết bất kỳ điều gì' với downtrend.",
+  "trich_them": [
+    {"gio": "[00:09:19]", "cau": "Mọi người thấy khung tuần chúng ta vẫn chưa có gì thay đổi ngoài câu chuyện downtrend hết. Cùng lắm ở đây khung tuần nó lên test lại đoạn này hết sức bình thường. 68 hoặc thậm chí nó test fake cao cái râu lên đến 72 thì nó vẫn không giải quyết bất kỳ điều gì ở đoạn này."},
+    {"gio": "[00:14:31]", "cau": "Chỉ cần qua được khỏi 66.000 này một phát thôi, mình nói trong khoảng 2 đến 3 cây H4 hoặc đêm anh em đi ngủ khoảng 66.000 mà sáng ngày mai ngủ dậy anh em thấy 71 là chuyện hết sức bình thường"},
+    {"gio": "[00:15:34]", "cau": "Nếu break qua được đoạn này thì nó sẽ khớp râu 70 đến 72 rất dễ. Hiện tại chúng ta sẽ theo view này cho đến khi nào nó đạt được target 70 hoặc 72."},
+    {"gio": "[00:16:06]", "cau": "Ít nhất trong H4 nhịp này thì nó sẽ quét lên đến vùng 6700 này ... Kiểu gì nó cũng sẽ lên đây. Bây giờ vấn đề chúng ta là chọn entry ở đâu để chơi thôi. Mình đang chờ vùng 64.00 cho đến 64.006"},
+    {"gio": "[00:16:37]", "cau": "Còn khi các bạn thấy một cây H4 đóng trên khỏi đường MA màu xanh này, tức là trên 67.00, thì lúc đó các bạn thoát ngay các vị thế short hoặc các vị thế bán, rất nguy hiểm."},
+    {"gio": "[00:21:51]", "cau": "chờ đến đoạn đó 64.008 đến 64.006. ... Bây giờ mình vẫn đang giữ như vậy, mình nghĩ từ giờ đến chiều nó vẫn có xác suất để về cho nên mình không FOMO."},
+    {"gio": "[00:32:25]", "cau": "Tức là trước tin đừng tăng mạnh quá thì sau tin, nếu lãi suất giữ nguyên, khả năng thị trường sẽ tăng khoảng 2 ngày."}
+  ],
+  "kho": "Vùng chờ long đọc '64.008 đến 64.006' = 64.800-64.600 (Fibo mở rộng 1 = 64.006 → 64.600). Không nêu SL và hạn giờ rõ; mốc vô hiệu suy từ câu 'Khi nào nó thủng ... 6300' (63.000 = đáy thứ sáu). Rủi ro tin FED 29-30/7 (38% tăng lãi suất). Giá lúc nói lấy theo tiêu đề '65K'."
+}

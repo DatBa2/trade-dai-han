@@ -1,0 +1,93 @@
+{
+  "buoi": "2026-02-26_7zFMbvqo3QI",
+  "ngay": "2026-02-26",
+  "gio_vn": "10:00",
+  "gia_btc_luc_noi": 68000,
+  "nhan_dinh": [
+    {
+      "khung": "H4",
+      "huong": "TANG",
+      "do_chac": "vua",
+      "dich": [69000, 72000],
+      "han": "ngắn hạn, từ giờ đến trưa/chiều/tối",
+      "han_gio": 24,
+      "vo_hieu_khi": "BTC entry 68 thì thủng 67 hoặc 66.xxx thì cắt",
+      "kich_ban_phu": "chạy nhanh lên 69.000 thì chốt hết (đi nhanh xuống nhanh); lên 69.000 rồi về lại 67.000 rồi vòng lên tiếp; lên 70 thì clear phần nhiều volume; 72 là kịch trần",
+      "ly_do": [
+        "H4 phá trend, giá vượt MA89, hướng tới MA200 trùng 72.000",
+        "phá cấu trúc giảm (đỉnh cũ đã bị phá), chỉ cần thêm đáy cao hơn + đỉnh cao hơn",
+        "nến ngày hôm qua có volume mua; Fear & Greed 11 còn chỗ hồi",
+        "râu 69.000 + vùng liquid 69.000-69.700 sẽ bị quét",
+        "short thì lực hồi còn nên chưa short"
+      ],
+      "trich": "Đánh lên ăn sóng hồi, target tối đa quanh 72.000 là kịch trần, còn quanh 70 nếu chạm được 70 thì mình sẽ clear phần nhiều volume mình đánh.",
+      "doi_y": null,
+      "duong_di": [
+        {"huong": "TANG", "dich": 69000},
+        {"huong": "GIAM", "dich": 67000},
+        {"huong": "TANG", "dich": 72000}
+      ]
+    },
+    {
+      "khung": "D1",
+      "huong": "GIAM",
+      "do_chac": "vua",
+      "dich": 59000,
+      "han": "vài tuần, hồi trước rồi tiếp tục giảm",
+      "han_gio": null,
+      "vo_hieu_khi": "nến ngày đóng trên 74.000-75.000 thì mới đánh lên 80-83 lấp gap",
+      "kich_ban_phu": "nếu qua 74 thì lên 80-83 (hồi 80 khả thi để lấy đà đi xuống); vùng 72-74 đứng ngoài; thủng 59 thì đánh về 55-54",
+      "ly_do": [
+        "khung ngày vẫn downtrend, giá dưới MA, xa MA nên hồi test MA",
+        "hai đáy khá đẹp, vùng hồi đầu tiên 70-73",
+        "cờ giảm đã đạt TP 62.000, test 2 lần rồi hồi"
+      ],
+      "trich": "Vùng target hồi đầu tiên là từ 70 cho đến 73. ... Nếu vượt qua được 74 thì mới lên được vùng 80. Còn nếu không vượt qua được thì sẽ tiếp tục cắm đầu.",
+      "doi_y": null,
+      "duong_di": [
+        {"huong": "TANG", "dich": 72000},
+        {"huong": "GIAM", "dich": 59000}
+      ]
+    },
+    {
+      "khung": "W1",
+      "huong": "GIAM",
+      "do_chac": "cao",
+      "dich": [59000, 60000],
+      "han": "vùng 60-80 đi lòng vòng khoảng 3 tháng, có thể tới tháng 7 mới breakdown",
+      "han_gio": null,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": "hồi lên 80 rồi rớt tiếp; vùng 6x là hỗ trợ cứng nên không sập nhanh",
+      "ly_do": ["mô hình vai đầu vai khung tuần, target neckline khoảng 59-60", "vùng 6x hỗ trợ cứng và thanh khoản nên đi vòng vèo lâu"],
+      "trich": "Downtrend nó nằm ở đây chứ ở đâu nữa mà cứ đòi uptrend. Vai đầu vai nó to đùng như thế này.",
+      "doi_y": null,
+      "duong_di": null
+    },
+    {
+      "khung": "chung",
+      "huong": "GIAM",
+      "do_chac": "vua",
+      "dich": [20000, 40000],
+      "han": "dài hạn tính bằng năm; ví dụ tháng 10 mới có giá 40.000",
+      "han_gio": null,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": "uptrend lớn khoảng 1 năm rưỡi nữa",
+      "ly_do": ["kế hoạch mua từ 40.000 đến 20.000", "có gap CME 20.000"],
+      "trich": "Kế hoạch của mình là mình mua từ 40 cho đến 20.",
+      "doi_y": null,
+      "duong_di": null
+    }
+  ],
+  "vung_gia": {"khang_cu": [69000, 73000], "ho_tro": [62000, 67000]},
+  "lenh": [
+    {"chieu": "LONG", "loai": "dò nhỏ, dần dần theo cấu trúc 30 phút", "vao": null, "tp": [69000, 70000, 72000], "sl": 66000, "trang_thai": "dang_giu", "trich": "Hiện tại mình đang long nhỏ, long dần. Lúc sáng chốt bớt rồi nhưng hiện tại đang long dò theo cấu trúc 30 phút."},
+    {"chieu": "LONG", "loai": "limit H1", "vao": 67000, "tp": [69000], "sl": null, "trang_thai": "de_xuat_moi", "trich": "nếu nó về được 67 mà chúng ta long thì cũng khá đẹp, ngay H1 này."}
+  ],
+  "nhin_lai_truoc": "Sáng nay chốt hai lệnh lãi: bắt 64 lên 68 và nhồi 65 lên 68. Tối thứ hai nhận định về test 62 đúng; lệnh long Tết stop ở 64.000 và không bắt lại khi chưa confirm. Cờ giảm TP 62.000 đúng, test 2 lần rồi hồi.",
+  "cong_cu": ["cờ giảm D1", "vai đầu vai W1", "MA89", "MA200 H4", "cấu trúc đỉnh đáy", "heatmap liquidation", "gap CME", "Fear & Greed", "volume"],
+  "tin_tuc": [],
+  "thoi_quen": ["long phải chờ cây nến có volume đột biến rồi mới vào, không bắt đáy", "chờ, không long đuổi/short đuổi", "SL cắt rồi không bắt lại khi chưa confirm", "đòn bẩy sao cho biên x đòn bẩy không quá 60%", "vùng 70-73 đứng ngoài, 72-74 không trade", "vào long chờ về hỗ trợ + nến đẹp M5"],
+  "cau_cua_mieng": ["Mình nói rất nhiều đến chữ chờ.", "Mình đâu phải thầy bói.", "Quan trọng nhất là chiều sâu chứ không nằm ở thời gian."],
+  "altcoin": [{"coin": "ETH", "huong": "TANG", "ghi": "theo BTC, hồi lên 2002 có gap 2004-2006; chốt 2200-2400 nếu vào 1830"}, {"coin": "Vàng", "huong": "TANG", "ghi": "đừng short, khả năng test 5000"}, {"coin": "Bạc", "huong": "TANG", "ghi": "có thể điều chỉnh 86-87 rồi lên 102-105"}, {"coin": "APT/SUI", "huong": null, "ghi": "gom dài hạn chờ thêm 6 tháng"}],
+  "ghi_chu": "Không nói giờ live. Giá 68k4 là mốc H4 đóng. Bẫy số: '6900'=69.000, '9007'=69.000 vùng thanh lý. Bỏ qua hỏi đáp altcoin lẻ."
+}

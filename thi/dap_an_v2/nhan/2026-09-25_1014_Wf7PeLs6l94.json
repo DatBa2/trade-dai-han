@@ -1,0 +1,50 @@
+{
+  "buoi": "2026-09-25_1014_Wf7PeLs6l94",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/lam_sach/2026-09-25_1014_Wf7PeLs6l94.md",
+  "gia_btc_luc_noi": 84500,
+  "dau_buoi": {
+    "thien_huong_h4": "GIAM",
+    "gio": null,
+    "trich": "H4 đóng cấu trúc vẫn giữ nhịp sóng tăng, đỉnh đáy vẫn cao và giữ được trên đường. Nếu bây giờ đánh sale xuống thì ngược xu hướng H4; còn bay lên thì mình thấy vẫn hơi rủi ro đối với khung ngày và tin tức. Tốt nhất mình chờ một nhịp nó lên test lại Fibo 50 trong đoạn hồi này. ... Khả năng đoạn này dễ đi dụ sale, sau đó quét lên lại 85.300 [?] thì mới đẹp"
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "GIAM",
+    "do_chac": "thap",
+    "gio": null,
+    "trich": "Lần này mình rất muốn đánh xuống rồi nhưng thôi kiên nhẫn chờ nó lên 85 rồi tính."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {"huong": "TANG", "dich": [85000, 85300]},
+  "duong_di": [
+    {"huong": "TANG", "dich": [85000, 85300]},
+    {"huong": "GIAM", "dich": [82000, 82500]}
+  ],
+  "dich_chinh": [82000, 82500],
+  "han_gio": 96,
+  "vo_hieu": {
+    "gia": 86000,
+    "khung": "H4",
+    "so_nen": 1,
+    "chieu": "dong_tren",
+    "cau": "Kháng cự ngắn hạn: từ 85 đến 86. Lên đó sẽ gặp áp lực có khả năng bị bán xuống; nếu vượt qua được kháng cự thì có xác suất đi lên."
+  },
+  "lenh": [
+    {"chieu": "SHORT", "vao": [85000, 85300], "tp": [83000, 82000], "sl": null, "trang_thai": "de_xuat_moi"},
+    {"chieu": "SHORT", "vao": null, "tp": [83300], "sl": null, "trang_thai": "da_dong"}
+  ],
+  "hanh_dong": "dung_ngoai_cho_entry",
+  "khung_lon": {"D1": "GIAM", "W1": "GIAM"},
+  "pha_vo_gia": "Cây nến ngày rút chân 'rất dễ trap' nếu đọc là bullish; khung nhỏ 'dễ đi dụ sale' trước khi quét lên 85.300; vùng hiện tại 'đang dụ 80% ông nghĩ nhịp này 90 chắc kèo'.",
+  "trich_them": [
+    {"gio": null, "cau": "Hôm qua chúng ta ăn một nhịp, dự đoán đúng giảm về đâu đó khoảng 83 và chốt ở 83.300 gì đó [?]. Mình chờ nó về TP V2 đến 82.000 nhưng không thành, hôm nay chờ tiếp."},
+    {"gio": null, "cau": "Mình nghĩ thị trường vẫn nên quét một cái râu đâu đó về 82.300, 82.400 gì đó là đẹp. Quét về râu dưới thì chúng ta dễ chơi hơn; còn nó cứ đứng lưng chừng như thế này thì hơi rén."},
+    {"gio": null, "cau": "Hỗ trợ: nếu tụt xuống dưới 84 thì mình nghĩ sẽ về test đâu đó khoảng 82.500 [?] cho đến 82.000, đẹp nhất là về test vùng từ 82 đến 83. Về đây có khả năng được đỡ và đi lên lại; còn nếu thủng hỗ trợ thì có khả năng bị bán xuống tiếp, về dưới vùng 80."},
+    {"gio": null, "cau": "Ví dụ hiện tại nếu giá lên 85.300 [?] rồi quét một phát, anh em mình vào đây (sale) là quá hợp lý, vì nó chỉ không lên mà cắm đầu xuống thôi."},
+    {"gio": null, "cau": "Để quay lại chiến trường với mục tiêu đi lên 90 thì đầu tiên phải qua được 86, phá được 87, rồi tiếp tục chinh phục 90."},
+    {"gio": null, "cau": "Chưa chọn lane được, cứ ngồi chờ thêm xem team bên kia đi lane nào, chọn tướng nào rồi mình chọn tướng phù hợp để đánh sau."},
+    {"gio": null, "cau": "Mình chỉ biết bây giờ vẫn down trend. Quan điểm của mình bây giờ vẫn trong down trend."},
+    {"gio": null, "cau": "Còn lại Bitcoin thì cứ bám theo view lúc đầu livestream, chúng ta follow theo đó. View này khả năng anh em dùng được đến cuối tuần, đến thứ hai chúng ta gặp lại mình sẽ phân tích lại thị trường."}
+  ],
+  "kho": "Transcript không có mốc giờ. Người nói thừa nhận H4 vẫn giữ cấu trúc tăng (bán là ngược H4) và 'chưa chọn lane được', nhưng nghiêng rõ ý muốn short ở 85–85.3 và kỳ vọng quét râu về 82.3–82.4 → GIAM độ chắc thấp. Giá lúc nói không nêu thẳng, ước ~84.5k (đêm qua quét lên 84–85, 'đứng lưng chừng'). W1 GIAM theo câu 'vẫn down trend' (xu hướng lớn), không phải phân tích nến tuần. han_gio 96 = view dùng đến thứ hai."
+}

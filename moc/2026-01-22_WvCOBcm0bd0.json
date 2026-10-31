@@ -1,0 +1,178 @@
+{
+  "buoi": "2026-01-22_WvCOBcm0bd0",
+  "ngay": "2026-01-22",
+  "gia_btc_luc_noi": 89500,
+  "moc": [
+    {
+      "gia": 91000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "MA H4 (vùng test H4)"
+      ],
+      "moc_gio": "00:02:59",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Chắc cũng phải lên được 91 thôi... Lên đó thì MA mới short được"
+    },
+    {
+      "gia": 100000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [],
+      "moc_gio": "00:13:29",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "nếu cây này màu xanh thì có khả năng nhịp này là fake out và đưa giá đi lên test lại vùng 100 (xác suất 10-15%)"
+    },
+    {
+      "gia": 60000,
+      "gia_tren": 79999,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [],
+      "moc_gio": "00:13:29",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "cây màu đỏ mà đấm xuống sâu ở dưới này thì khả năng nó sẽ dìu anh em đi về vùng 7x 6x"
+    },
+    {
+      "gia": 92000,
+      "gia_tren": 92500,
+      "vai_tro": "entry",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "MA34 H4",
+        "Fibo 0.5 (trùng MA34 H4)"
+      ],
+      "moc_gio": "00:17:14",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "hồi lên đến H4, tức là MA34 hoặc là Fibo 50. Hai thằng này trùng nhau... vùng 92.000 rưỡi. 92 cho đến 92.500"
+    },
+    {
+      "gia": 93000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "gap nhỏ 93"
+      ],
+      "moc_gio": "00:23:54",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Có gap 93 không? À có gap nhỏ nhỏ này"
+    },
+    {
+      "gia": 89000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý / heatmap"
+      ],
+      "moc_gio": "00:25:58",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Liquidation xem nào. 8900. Thế thì khả năng vẫn có cú quét về 8900 rồi mới lên"
+    },
+    {
+      "gia": 90000,
+      "gia_tren": 91000,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý / heatmap (rừng thanh lý short phía trên)"
+      ],
+      "moc_gio": "00:29:29",
+      "tai_san": "BTC",
+      "chac": false,
+      "trich": "Tệ lắm cũng lên 90.009, 91"
+    },
+    {
+      "gia": 88000,
+      "gia_tren": 89000,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý 89"
+      ],
+      "moc_gio": "00:29:59",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Ví dụ nó có một vùng liquid ở 89, thì hãy sẵn sàng chờ thêm ở vùng 89 hoặc 88"
+    },
+    {
+      "gia": 92000,
+      "gia_tren": 93000,
+      "vai_tro": "khang_cu",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "vùng cản khung H4"
+      ],
+      "moc_gio": "00:39:00",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Vùng cản H4 nằm ở khoảng 92 đến 93, gọi là hồi lên H4"
+    },
+    {
+      "gia": 50000,
+      "gia_tren": null,
+      "vai_tro": "entry",
+      "huong": "TANG",
+      "khung": "W1",
+      "can_cu": [],
+      "moc_gio": "00:46:46",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Bitcoin về 50 thì gom được"
+    },
+    {
+      "gia": 91000,
+      "gia_tren": 93000,
+      "vai_tro": "tp",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": "00:49:09",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Hồi lên đến 91 92 93 cứ chia nhỏ ra mà chốt"
+    },
+    {
+      "gia": 91000,
+      "gia_tren": 93000,
+      "vai_tro": "entry",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": "00:49:54",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "short thì anh em phải chờ lên đến vùng từ 91.000 cho đến 93.000"
+    },
+    {
+      "gia": 88000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": "00:49:54",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "long thì từ vùng giá hiện tại về đến vùng khoảng 88.000... SL khi nó ra khỏi các vùng này chúng ta thoát"
+    }
+  ]
+}

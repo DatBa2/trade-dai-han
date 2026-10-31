@@ -1,0 +1,469 @@
+{
+  "buoi": "2026-04-14_LfNwCzyBHdM",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/zip_clean/2026-04-14_LfNwCzyBHdM.txt",
+  "gia_btc_luc_noi": 74000,
+  "dau_buoi": {
+    "thien_huong_h4": "TANG",
+    "gio": "[00:08:12]",
+    "trich": "Đoạn này thị trường vẫn đang còn lực đi lên thành ra mình chưa short. Đang scalping một phát long xem thử thế nào."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "TANG",
+    "do_chac": "vua",
+    "gio": "[01:11:34]",
+    "trich": "Đoạn này thì vẫn có khả năng nó quét stop loss ở quanh vùng 73.900 cho đến 73.800 rồi sau đó nó mới vòng lên lại. Cho nên long thì cũng đừng có phô quá. Như lệnh của mình thì mình cũng đánh nhỏ, đánh scalping theo nhịp tăng này thôi. Nhưng mà vẫn phải follow nến. Còn lại anh em nào mà không bám được thị trường thì tốt nhất là cũng không vào những vị thế trong khung nhỏ như thế này. An toàn thì mình nghĩ vẫn là vùng quanh 73.000."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {
+    "huong": "TANG",
+    "dich": [
+      75300,
+      75600
+    ]
+  },
+  "duong_di": [
+    {
+      "huong": "TANG",
+      "dich": [
+        75300,
+        75600
+      ]
+    },
+    {
+      "huong": "TANG",
+      "dich": 78000
+    },
+    {
+      "huong": "TANG",
+      "dich": 80000
+    }
+  ],
+  "dich_chinh": 80000,
+  "han_gio": null,
+  "vo_hieu": null,
+  "lenh": [
+    {
+      "chieu": "SHORT",
+      "vao": null,
+      "tp": null,
+      "sl": null,
+      "trang_thai": "da_dong"
+    },
+    {
+      "chieu": "LONG",
+      "vao": null,
+      "tp": null,
+      "sl": null,
+      "trang_thai": "dang_giu"
+    },
+    {
+      "chieu": "LONG",
+      "vao": 73000,
+      "tp": null,
+      "sl": null,
+      "trang_thai": "de_xuat_moi"
+    },
+    {
+      "chieu": "SHORT",
+      "vao": [
+        80000,
+        90000
+      ],
+      "tp": null,
+      "sl": 95000,
+      "trang_thai": "de_xuat_moi"
+    },
+    {
+      "chieu": "SHORT",
+      "vao": 125000,
+      "tp": [
+        40000,
+        50000
+      ],
+      "sl": null,
+      "trang_thai": "dang_giu"
+    }
+  ],
+  "hanh_dong": "giu_lenh",
+  "khung_lon": {
+    "D1": "Nến ngày đóng xanh rất đẹp; chờ kết quả thứ ba, nếu đủ lực tận dụng đà tăng thì lên lại 82k. Fibo: lên Fibo 1 rồi về 0.5 rồi lên Fibo 2 (80, 90, thậm chí 93).",
+    "W1": "Vẫn là downtrend: nếu lên được 80 thì sau đó target về 50 rồi 4x (dưới 50k sẽ đi chậm, sideway rồi fake out). Downtrend kết thúc sớm nhất quý 1/2027, muộn quý 3/2027."
+  },
+  "pha_vo_gia": "Cú giảm chủ nhật là lợi dụng tin để kill bớt long rồi lên. Vùng cản 75-76 'rất dễ trap'. Có thể quét SL quanh 73.900-73.800 rồi mới vòng lên lại.",
+  "nhin_lai_view_truoc": {
+    "view_truoc": "TANG",
+    "giu_hay_doi": "giu",
+    "vi_sao": "Giá không về 69-70 để đón entry mà bật thẳng từ đáy ~70k lên gần 75k → đúng hướng tăng; cú giảm hôm trước chỉ là lợi dụng tin chủ nhật để kill long. Chỉ bỏ plan phụ 'thứ hai-thứ ba dump' vì thứ hai đóng xanh.",
+    "gio": "[00:21:23]",
+    "trich": "Góc nhìn của mình vẫn giữ nguyên view hôm trước đã nói. Tất nhiên trong khung ngắn hạn thì hôm qua chúng ta tìm những điểm vào thật tốt để scalping hoặc đánh long short có đòn bẩy thành ra sẽ trả giá nhưng nó không về tới được. Còn đối với spot dài hạn thì từ trước đến giờ góc nhìn của mình vẫn giữ nguyên. Hôm trước mình sợ anh em quá xa đà vào câu chuyện short thì mình có nhắc mọi người đừng short FOMO quá. Thực tế bản chất nó cũng là lợi dụng theo tin ngày chủ nhật để điều chỉnh thôi, để kill bớt long ở đây và lên."
+  },
+  "trendline": [],
+  "nen_volume": [
+    {
+      "khung": "H4",
+      "nen": "Nến H4 đóng trên đường MA màu xanh nhỏ → bay nhanh; còn nếu gặp cụm 3-4 cây H4 kẹt ở cản như cụm trước",
+      "volume": null,
+      "ket_luan": "H4 đóng trên MA xanh thì thoát short vì có thể kéo luôn 78; gặp cụm 3-4 cây H4 ở cản thì khả năng rụng, điều chỉnh tiếp.",
+      "gio": "[00:23:29]",
+      "trich": "Còn nếu các bạn đang short mà thấy bất kỳ cây H4 nào đóng trên đường MA màu xanh nhỏ mình để ở đây thì lời khuyên là nên thoát short bởi vì một khi giá đã break cao lên khỏi đường màu xanh này thì nó sẽ bay rất nhanh, rất khỏe. Thậm chí kéo lên luôn 78 là chuyện bình thường. Còn nếu lên đây mà bắt đầu gặp vài cây ba bốn cây H4 giống như cụm bên này thì khả năng là rụng, điều chỉnh tiếp."
+    },
+    {
+      "khung": "D1",
+      "nen": "Nến ngày đóng xanh rất đẹp",
+      "volume": null,
+      "ket_luan": "Chờ kết quả thứ ba; đủ lực thì vút lên 82k.",
+      "gio": "[00:26:11]",
+      "trich": "Khung ngày đóng một cây nến xanh rất đẹp. Việc bây giờ trên khung D1 là chờ kết quả của ngày thứ ba hôm nay. Nếu nó đủ lực, tận dụng đà tăng ngày hôm qua vút lên luôn, lên lại được 82.000 là đẹp."
+    },
+    {
+      "khung": "M30",
+      "nen": "Nhịp điều chỉnh nhỏ sau chuỗi nến mua",
+      "volume": "Volume 30 phút là lực mua liên tục",
+      "ket_luan": "Đây là nhịp điều chỉnh hợp lý của phe mua, không hợp lý cho lệnh short.",
+      "gio": "[00:38:32]",
+      "trich": "Cá nhân mình thấy giá ở bên này là lực mua đang rất tốt và đây là một nhịp điều chỉnh thì hoàn toàn hợp lý. Nếu xét theo volume bên này cũng 30 phút là lực mua liên tục thì rất hợp lý và đây hoàn toàn là một nhịp không hợp lý đối với lệnh short thôi."
+    },
+    {
+      "khung": "H4",
+      "nen": "H4 đóng 'màu xanh râu', nến hẹp",
+      "volume": null,
+      "ket_luan": "Màu xanh thì giữ nguyên view; cấu trúc không đổi; nến hẹp hay bay tiếp.",
+      "gio": "[01:05:50]",
+      "trich": "H4 nến xanh đó. Mình không nhớ nến gì nhưng mà thôi màu xanh thì cứ vẫn giữ nguyên view thôi. Nói chung H4 này cũng không thay đổi nhiều lắm về cấu trúc của đoạn này đâu. Màu xanh râu. Nến hẹp hay bay tiếp? Theo kinh nghiệm của anh em là nến hẹp bay tiếp."
+    }
+  ],
+  "cach_lam": [
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "ema",
+      "chi_tiet": "Đường MA trên H4 làm target của nhịp tăng",
+      "ket_qua": "75.600 (sau nói 75k3)",
+      "gio": "[00:22:24]",
+      "trich": "Và xu hướng mục tiêu khả thi là lên 75.600, thực tế hiện tại nó cũng tiệm cận target này rồi. Ở đây có một đường MA, đường này là target."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "dinh_day_cu",
+      "chi_tiet": "Liệt kê các vùng cản phía trên",
+      "ket_qua": "Cản 1: 75-76; tiếp 78; qua 78 mới tới 80 và 82",
+      "gio": "[00:22:54]",
+      "trich": "75 76 là cản 1. Sau đó nó sẽ tiến đến cản tiếp theo là 78. Toàn cản cứng. 78 mà qua được thì mới đến 80 và 82."
+    },
+    {
+      "hanh_dong": "do",
+      "cong_cu": "fibo_mo_rong",
+      "chi_tiet": "Kéo Fibo cho nhịp tăng (khung ngày/trung hạn), nhịp thường lên Fibo 1 rồi về 0.5 rồi lên Fibo 2",
+      "ket_qua": "80, 90 (thậm chí 93)",
+      "gio": "[00:25:06]",
+      "trich": "Đây Fibo, thông thường mình thấy Fibo này không lừa chúng ta, mình đã test khá nhiều lần. Đây 80, 90. Thông thường đối với nhịp này nó hay chạy kiểu này: lên Fibo 1 sau đó rớt về 0.5 rồi mới lên tiếp Fibo 2."
+    },
+    {
+      "hanh_dong": "do",
+      "cong_cu": "fibo_thoai_lui",
+      "chi_tiet": "Fibo + MA34 khung 30 phút + MA200 khung 5 phút hội tụ",
+      "ket_qua": "Vùng long an toàn 73.000",
+      "gio": "[00:26:41]",
+      "trich": "Nếu muốn long thì chờ quanh vùng 73 nếu an toàn. 73 vừa Fibo vừa MA34 trên 30 phút. Chiều nay nếu nó ở quanh giá 73 sẽ chơi rất vui. Điểm này là một điểm để đánh long lên tiềm năng, đánh nhịp sóng ngắn này. 73 đây cũng MA200 trên 5 phút cộng với MA34 trên 30 phút."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "Funding rate",
+      "ket_qua": "Funding 12 → 21: nhịp tăng có FOMO đám đông nhảy vào",
+      "gio": "[00:34:41]",
+      "trich": "Funding hôm nay đã tăng lên 21 rồi. Hôm qua là 12, hôm nay tăng lên 21 thì chứng tỏ nhịp tăng này đã bắt đầu có sự khác hẳn so với những nhịp tăng trước."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "heatmap",
+      "chi_tiet": "Liquidation map ngắn hạn",
+      "ket_qua": "73k9-73k8 vùng quét SL ngắn hạn; liquid long dày dần ở 71, 70, 69, 65",
+      "gio": "[00:35:14]",
+      "trich": "Liquid tầm này chắc không có giá trị lắm. 73k9, 73k8 đây là vùng quét stop loss ngắn hạn. Có thể nó sẽ gãy về đây và nó mới lên lại được vùng 75k3."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "dinh_day_cu",
+      "chi_tiet": "Kháng cự cũ 73 bị break → thành hỗ trợ (trùng vùng 30 phút)",
+      "ket_qua": "Hỗ trợ cứng quanh 73.000",
+      "gio": "[00:37:25]",
+      "trich": "Vùng này hôm qua là kháng cự, vùng 73. Nhưng mà một khi giá đã break out ra thì bây giờ nó sẽ là một vùng hỗ trợ cứng quanh 73, cũng là vùng ở 30 phút."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "Gap CME",
+      "ket_qua": "Đã lấp gap 73; còn gap 70, 67 dưới và gap 80 trên",
+      "gio": "[00:45:09]",
+      "trich": "BTC nhịp tăng này cũng là một nhịp lên lấp gap nhỏ ngày hôm qua. Các bạn này. Nó lên lấp gap 73. Lấp gap 73. Bây giờ vẫn còn hai gap là 70 và 67. Ở trên này thì còn gap 80."
+    }
+  ],
+  "vung_nguoi_do": [
+    {
+      "loai": "dich",
+      "tu": 75600,
+      "den": 75600,
+      "gio": "[00:22:24]",
+      "trich": "xu hướng mục tiêu khả thi là lên 75.600"
+    },
+    {
+      "loai": "dich",
+      "tu": 75300,
+      "den": 75300,
+      "gio": "[00:35:14]",
+      "trich": "Target của chúng ta ở trên H4 sẽ là test đường này. 75k3 này."
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 75000,
+      "den": 76000,
+      "gio": "[00:22:54]",
+      "trich": "vùng 75 76 này là một vùng cản rất lớn. Càng đi lên cao thì giá càng gặp nhiều cản. 75 76 là cản 1."
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 78000,
+      "den": 78000,
+      "gio": "[00:22:54]",
+      "trich": "Sau đó nó sẽ tiến đến cản tiếp theo là 78. Toàn cản cứng."
+    },
+    {
+      "loai": "tp",
+      "tu": 74000,
+      "den": 76000,
+      "gio": "[00:24:02]",
+      "trich": "Vùng 74 75 76 này mình khuyên anh em có những lệnh long ở dưới, ví dụ bắt được 70 ngày hôm qua, thì vùng ở trên này là vùng nên chốt lãi."
+    },
+    {
+      "loai": "dich",
+      "tu": 80000,
+      "den": 80000,
+      "gio": "[00:34:11]",
+      "trich": "Từ giờ đến tuần sau kỳ vọng nó sẽ lên được 80."
+    },
+    {
+      "loai": "dich",
+      "tu": 82000,
+      "den": 82000,
+      "gio": "[00:26:11]",
+      "trich": "lên lại được 82.000 là đẹp"
+    },
+    {
+      "loai": "vao",
+      "tu": 73000,
+      "den": 73000,
+      "gio": "[00:26:41]",
+      "trich": "Nếu muốn long thì chờ quanh vùng 73 nếu an toàn."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 73000,
+      "den": 73000,
+      "gio": "[00:37:25]",
+      "trich": "bây giờ nó sẽ là một vùng hỗ trợ cứng quanh 73"
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 73800,
+      "den": 73900,
+      "gio": "[01:11:34]",
+      "trich": "vẫn có khả năng nó quét stop loss ở quanh vùng 73.900 cho đến 73.800 rồi sau đó nó mới vòng lên lại"
+    },
+    {
+      "loai": "vo_hieu",
+      "tu": 73000,
+      "den": 74000,
+      "gio": "[00:28:48]",
+      "trich": "Còn nếu đoạn này nó gãy ra khỏi 74.000 hoặc 73.000 là nó mất đi xu hướng tăng này. Mất đi thì lúc đó cần phải thoát lệnh scalping theo 5 phút."
+    },
+    {
+      "loai": "vao",
+      "tu": 80000,
+      "den": 90000,
+      "gio": "[01:04:29]",
+      "trich": "Còn không nếu FOMO thì short swing ở 80 nhưng mà phải chừa DCA lên đến tận 90"
+    },
+    {
+      "loai": "sl",
+      "tu": 95000,
+      "den": 95000,
+      "gio": "[01:05:01]",
+      "trich": "và SL đâu đó khoảng tầm 95.000. Swing mà SL 15.000 giá hoặc DCA xong thì chắc entry rơi vào tầm khoảng 87."
+    }
+  ],
+  "view_trung_han": [
+    {
+      "khung": "D1",
+      "huong": "TANG",
+      "dich": 80000,
+      "han": "từ giờ đến tuần sau",
+      "mat_view_khi": "Không qua được vùng cản hiện tại (~75) thì sẽ có thứ hai gãy cả tuần",
+      "gio": "[00:34:11]",
+      "trich": "Từ giờ đến tuần sau kỳ vọng nó sẽ lên được 80."
+    },
+    {
+      "khung": "D1",
+      "huong": "TANG",
+      "dich": 82000,
+      "han": "hôm nay (thứ ba) nếu đủ lực",
+      "mat_view_khi": null,
+      "gio": "[00:26:11]",
+      "trich": "Việc bây giờ trên khung D1 là chờ kết quả của ngày thứ ba hôm nay. Nếu nó đủ lực, tận dụng đà tăng ngày hôm qua vút lên luôn, lên lại được 82.000 là đẹp."
+    },
+    {
+      "khung": "W1",
+      "huong": "GIAM",
+      "dich": [
+        40000,
+        50000
+      ],
+      "han": "sau khi lên 80; downtrend tới sớm nhất Q1/2027, muộn Q3/2027",
+      "mat_view_khi": null,
+      "gio": "[00:43:32]",
+      "trich": "Cho nên góc nhìn đối với khung dài này, ví dụ nó lên được 80 thì sau đó vẫn target là về 50. Sau đó là về 4x."
+    }
+  ],
+  "vung_tranh": [
+    {
+      "tu": 74000,
+      "den": 74000,
+      "vi_sao": "Không mua spot ở 74k: SL tới 64k (13-14%) mà chỉ ăn ~11% lên 80, đang downtrend nên xác suất lên thấp hơn",
+      "gio": "[00:32:00]",
+      "trich": "Ví dụ bây giờ chúng ta vào một vị thế ở 74.000 mua spot thì stop loss của bạn sẽ là 64.000, khoảng 10.000 giá. 10.000 giá tương đương ở đây cũng nhiều phần trăm, khoảng 13, 14%. Nếu các bạn ăn được lên nhịp 80 thì cũng ăn được khoảng 11% thôi. Hai cái này tạm thời gọi là cân kèo 50 50. Nhưng mà xác suất từ đây đi lên hiện tại sẽ thấp hơn xác suất đi xuống. Bởi vì chúng ta đang nằm trong downtrend. Đã downtrend mà chúng ta đánh ngược xu hướng thì rõ ràng luôn luôn xác suất nó sẽ thấp hơn. Thế thôi. Mặc dù tỉ lệ ăn và thua như nhau nhưng mà xác suất thị trường chạy xảy ra lại thấp hơn 50%. Cho nên chúng ta không chơi"
+    },
+    {
+      "tu": 80000,
+      "den": 88000,
+      "vi_sao": "Chưa short sớm ở 80-88, quan sát trước vì Fibo còn kịch bản lên 90",
+      "gio": "[01:04:29]",
+      "trich": "80.000, 80 cho đến 88 thì thực tế cũng không short sớm lắm đâu. Mình sẽ quan sát đã bởi vì vẫn phòng ngừa khả năng nó lên đến 90."
+    }
+  ],
+  "giu_dong": [
+    {
+      "lenh": "LONG scalp 5 phút đang giữ",
+      "quyet_dinh": "giu",
+      "khi_nao": "Giữ chờ bẻ dần lên; gãy khỏi 74.000 hoặc 73.000 (mất xu hướng 5 phút) thì thoát",
+      "gio": "[00:28:48]",
+      "trich": "Chấp nhận đoạn này cứ chờ nó đi lên bẻ dần lên. Còn nếu đoạn này nó gãy ra khỏi 74.000 hoặc 73.000 là nó mất đi xu hướng tăng này. Mất đi thì lúc đó cần phải thoát lệnh scalping theo 5 phút."
+    },
+    {
+      "lenh": "LONG bắt ở 70 hôm qua",
+      "quyet_dinh": "dong",
+      "khi_nao": "Chốt lãi ở vùng cản 74-76, không gồng qua cản; qua cản thì long lại, hoặc chờ điều chỉnh xong",
+      "gio": "[00:24:02]",
+      "trich": "Vùng 74 75 76 này mình khuyên anh em có những lệnh long ở dưới, ví dụ bắt được 70 ngày hôm qua, thì vùng ở trên này là vùng nên chốt lãi. Không cần gồng lãi qua khỏi cản làm gì."
+    },
+    {
+      "lenh": "SHORT (người xem đang giữ)",
+      "quyet_dinh": "dong",
+      "khi_nao": "Bất kỳ nến H4 nào đóng trên đường MA xanh nhỏ thì thoát short",
+      "gio": "[00:23:29]",
+      "trich": "Còn nếu các bạn đang short mà thấy bất kỳ cây H4 nào đóng trên đường MA màu xanh nhỏ mình để ở đây thì lời khuyên là nên thoát short"
+    },
+    {
+      "lenh": "Spot dài hạn",
+      "quyet_dinh": "giu",
+      "khi_nao": "Bỏ qua điều chỉnh 1-2 nghìn giá; TP1 vùng hiện tại, TP2 ~80, TP3 tối đa 90",
+      "gio": "[00:28:17]",
+      "trich": "Ví dụ các bạn gồng thì đây là TP1, chờ tiếp TP2 khoảng 80, TP3 chờ max kịch trần ở 90, kiểu như thế là dài hạn."
+    },
+    {
+      "lenh": "Toàn bộ hàng/long",
+      "quyet_dinh": "dong",
+      "khi_nao": "Nếu giữa tuần đẩy căng lên 78-80 thì 'cút hết', tuần sau chờ short",
+      "gio": "[01:03:54]",
+      "trich": "Nếu giữa tuần này nó đẩy căng mà lên đến khoảng tầm 80, 78 gì đó là cút hết. Qua tuần sau ngồi nhìn thôi. Ngồi nhìn và chờ điểm vào vị thế short"
+    },
+    {
+      "lenh": "SHORT dài hạn từ 125.000",
+      "quyet_dinh": "giu",
+      "khi_nao": "Giữ về tận 50, 40",
+      "gio": "[00:52:55]",
+      "trich": "Lệnh của mình từ 125.000 đến bây giờ mình còn giữ, giữ về tận 50, 40 vẫn giữ được mà."
+    }
+  ],
+  "tin_tuc": [
+    {
+      "su_kien": "Tin chiến sự cuối tuần (chủ nhật)",
+      "thoi_diem": "chủ nhật vừa rồi",
+      "nguon": "bao",
+      "so_lieu": null,
+      "anh_huong_view": "Giữ view: chỉ là lợi dụng tin để điều chỉnh, kill bớt long rồi lên",
+      "gio": "[00:21:54]",
+      "trich": "Thực tế bản chất nó cũng là lợi dụng theo tin ngày chủ nhật để điều chỉnh thôi, để kill bớt long ở đây và lên."
+    },
+    {
+      "su_kien": "PPI",
+      "thoi_diem": "tối nay",
+      "nguon": "lich_kinh_te",
+      "so_lieu": null,
+      "anh_huong_view": "Không nói lại; hỗ trợ cứng 73k, ai short thì đợi tối",
+      "gio": "[00:35:46]",
+      "trich": "PPI tối ngày hôm nay có PPI thì hôm qua mình đã giải thích về cái này rồi. Hôm nay mình không nói lại nữa."
+    },
+    {
+      "su_kien": "Plan theo tin 'thứ hai-thứ ba dump'",
+      "thoi_diem": "đầu tuần",
+      "nguon": "khac",
+      "so_lieu": null,
+      "anh_huong_view": "Bỏ plan vì thứ hai không dump được (đóng xanh), phải thận trọng",
+      "gio": "[01:01:49]",
+      "trich": "Hôm qua view tin tức thứ hai thứ ba dump. Hôm qua chẳng qua chúng ta bắt cửa là thứ hai thứ ba dump thôi. Nhưng mà bây giờ nó không dump được thì cái plan đó bỏ thôi."
+    },
+    {
+      "su_kien": "Thỏa thuận ngừng bắn Mỹ-Iran (đàm phán 2 tuần)",
+      "thoi_diem": "hiện tại",
+      "nguon": "bao",
+      "so_lieu": null,
+      "anh_huong_view": "Ngừng bắn là tốt, không làm BTC sụt; bắn nhau hay không giá vẫn thế, 'tin tức cho vui'",
+      "gio": "[00:42:54]",
+      "trich": "bởi vì có bắn nhau hay không thì giá thị trường vẫn thế thôi. Lúc nó cần tăng thì nó cứ tăng, lúc nó cần giảm thì nó cứ giảm. Tin tức cho vui chứ chả có vấn đề đâu."
+    },
+    {
+      "su_kien": "Funding rate",
+      "thoi_diem": "hôm nay",
+      "nguon": "khac",
+      "so_lieu": "Funding 12 → 21",
+      "anh_huong_view": "Nhịp tăng này đã có FOMO đám đông nhảy vào nhiều hơn các nhịp trước",
+      "gio": "[00:34:41]",
+      "trich": "Funding hôm nay đã tăng lên 21 rồi. Hôm qua là 12, hôm nay tăng lên 21 thì chứng tỏ nhịp tăng này đã bắt đầu có sự khác hẳn so với những nhịp tăng trước."
+    }
+  ],
+  "trich_them": [
+    {
+      "gio": "[00:04:07]",
+      "cau": "Tình hình là thị trường hôm qua không về đón chúng ta ở dưới này mà đi lên luôn. 70.000 và ở ngay đáy này phục hồi lên luôn. Sáng hôm nay đã chạm gần đến vùng 75."
+    },
+    {
+      "gio": "[00:05:11]",
+      "cau": "Nếu nó qua được vùng này thì khả năng là 78 hay 80 là điều sớm. Nhưng nếu không qua được thì chúng ta sẽ có một ngày thứ hai gãy cả tuần."
+    },
+    {
+      "gio": "[00:24:32]",
+      "cau": "Còn target trung hạn vài ngày hoặc tính bằng tuần thì đợt này vùng hiện tại 74 75 mình thấy đã đạt được rồi. Mặc dù nói là đã đạt được nhưng nhịp này cá nhân mình vẫn kỳ vọng giá có thể lên được 80"
+    },
+    {
+      "gio": "[00:34:11]",
+      "cau": "Còn short thì đoạn này mình nghĩ là chưa short được đâu bởi vì chưa có tín hiệu để short."
+    },
+    {
+      "gio": "[00:43:32]",
+      "cau": "Cho nên góc nhìn đối với khung dài này, ví dụ nó lên được 80 thì sau đó vẫn target là về 50. Sau đó là về 4x."
+    },
+    {
+      "gio": "[00:52:55]",
+      "cau": "Lệnh của mình từ 125.000 đến bây giờ mình còn giữ, giữ về tận 50, 40 vẫn giữ được mà."
+    },
+    {
+      "gio": "[01:01:49]",
+      "cau": "Hôm qua view tin tức thứ hai thứ ba dump. Hôm qua chẳng qua chúng ta bắt cửa là thứ hai thứ ba dump thôi. Nhưng mà bây giờ nó không dump được thì cái plan đó bỏ thôi. Bởi vì thứ hai xanh thì thứ ba nó chưa nói được câu chuyện gì hết."
+    },
+    {
+      "gio": "[01:03:23]",
+      "cau": "Nếu giữa tuần này nó đẩy căng mà lên đến khoảng tầm 80, 78 gì đó là cút hết. Qua tuần sau ngồi nhìn thôi. Ngồi nhìn và chờ điểm vào vị thế short"
+    }
+  ],
+  "kho": "Giá lúc nói ~74k (tiêu đề 74K, sáng chạm gần 75). Đang giữ long scalp nhỏ khung 5 phút nhưng không nói entry; ví dụ TP1 74.000/TP2 75.000 ở [01:02:52] chỉ là minh họa R:R. Không có mức vô hiệu H4 rõ: chỉ nói gãy 74k/73k thì mất xu hướng của lệnh scalp 5 phút (ghi trong vung_nguoi_do), nên vo_hieu = null. dich_chinh lấy 80k (kỳ vọng từ giờ đến tuần sau), đích H4 gần là MA 75.3-75.6k. Lệnh short swing 80-90 (SL 95k) là ý tưởng có điều kiện, chưa vào. Lệnh short 125k dài hạn xác nhận còn giữ. Đoạn 'mô hình đáy cao dần, đỉnh bằng nhau' và trendline ở [00:51:17]-[00:54:01] là của ETH nên bỏ. Không có trendline BTC."
+}

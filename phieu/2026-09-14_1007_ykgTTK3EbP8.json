@@ -1,0 +1,150 @@
+{
+  "buoi": "2026-09-14_1007_ykgTTK3EbP8",
+  "ngay": "2026-09-14",
+  "gio_vn": "10:07",
+  "gia_btc_luc_noi": null,
+  "nhan_dinh": [
+    {
+      "khung": "H4",
+      "huong": "GIAM",
+      "do_chac": "thap",
+      "dich": [
+        72000,
+        76000
+      ],
+      "han": "vài ngày, vòng lên xuống nhiều lần, không sập nhanh",
+      "han_gio": 72,
+      "vo_hieu_khi": "nến tuần đóng trên 83.000 (khi đó mới kỳ vọng đi lên)",
+      "kich_ban_phu": "lên test râu 79.000-80.000 (có thể khi ra tin lãi suất) rồi mới giảm; vùng 77-79 là 50/50, thủng 76 thì về 74-72 rồi 70-68",
+      "ly_do": [
+        "xu hướng giảm thủng liên tục, đỉnh thấp dần, biên hẹp dần",
+        "nhịp tăng H4 không đánh giá là vững, kẹp MA không giữ được",
+        "lên nhanh trả về rất lẹ, lực bán vẫn áp đảo",
+        "USDT.D ngóc lên, vàng xấu"
+      ],
+      "trich": "xu hướng giảm này thủng liên tục đỉnh đáy... đỉnh thấp dần, nên rất dễ bị đạp xuống và bán xuống ở lần dưới.",
+      "doi_y": null,
+      "duong_di": null
+    },
+    {
+      "khung": "H1",
+      "huong": "PHAN_VAN",
+      "do_chac": "thap",
+      "dich": null,
+      "han": null,
+      "han_gio": null,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": "H1 có thể lên test đỉnh thêm khoảng 300 giá",
+      "ly_do": [
+        "đi lên cũng thấy lý do, đi xuống cũng thấy lý do",
+        "long gặp cản Fibo, sale dính xác suất lên 79-80",
+        "vùng 77-79 không nên giao dịch, đứng ngoài"
+      ],
+      "trich": "vùng hiện tại là vùng không nên giao dịch... mình ở ngoài quan sát, không vào vị thế nào, cả long lẫn sale.",
+      "doi_y": null,
+      "duong_di": null
+    },
+    {
+      "khung": "W1",
+      "huong": "GIAM",
+      "do_chac": "vua",
+      "dich": [
+        72000,
+        74000
+      ],
+      "han": null,
+      "han_gio": null,
+      "vo_hieu_khi": "nến tuần đóng trên 83.000",
+      "kich_ban_phu": "đóng trên 83.000 thì tối ưu nhịp 83 lên 90-92",
+      "ly_do": [
+        "nến tuần rất xấu, bắt đầu 80 trả về 76, phá hỗ trợ 77.500",
+        "hỗ trợ tiếp ở MA tuần 74.000 hoặc 72-73.000",
+        "đi xuống sẽ tốn nhiều thời gian, không sập nhanh"
+      ],
+      "trich": "View cá nhân mình vẫn là thị trường xấu chứ không quá đẹp.",
+      "doi_y": null,
+      "duong_di": null
+    }
+  ],
+  "vung_gia": {
+    "khang_cu": [
+      79000,
+      83000
+    ],
+    "ho_tro": [
+      76000,
+      76000
+    ]
+  },
+  "lenh": [
+    {
+      "chieu": "SHORT",
+      "loai": "market",
+      "vao": null,
+      "tp": [],
+      "sl": null,
+      "trang_thai": "da_cat",
+      "trich": "Lúc sáng mình có sale dò một lệnh nhỏ, SL trên vùng này, không thành công và đã cắt."
+    }
+  ],
+  "nhin_lai_truoc": "Sau CPI quét hai đầu (79.800 rồi 76.000) đúng như nhận định đưa trước giờ ra tin; nến tuần trước kỳ vọng đóng lên nhưng thực tế rất xấu.",
+  "cong_cu": [
+    "H1",
+    "H4",
+    "W1",
+    "Fibo",
+    "MA tuần",
+    "volume",
+    "BTC.D",
+    "USDT.D",
+    "Fear and Greed",
+    "liquidation",
+    "Delta",
+    "M2"
+  ],
+  "tin_tuc": [
+    {
+      "tin": "CPI tuần trước (Core 0.3 cao hơn dự đoán, lạm phát 3.4%)",
+      "danh_gia": "quét hai đầu biên độ lớn, tính kỹ thuật không phải cung cầu"
+    },
+    {
+      "tin": "Fed họp lãi suất đêm thứ tư 16 rạng 17, thị trường dự đoán tăng 85,5%",
+      "danh_gia": "không tăng là tín hiệu rất tốt; tăng thì có thể đạp rồi kéo lại, sau đó trả về xu hướng bản chất (gây áp lực giảm); dự kiến pump ngắn hạn quanh tin, có thể test râu 79"
+    },
+    {
+      "tin": "Giá dầu, eo Hormuz, lợi suất trái phiếu tăng",
+      "danh_gia": "lạm phát căng, áp lực tăng lãi suất"
+    }
+  ],
+  "thoi_quen": [
+    "đứng ngoài ở vùng nhập nhằng 77-79",
+    "bắt buộc nhìn nến khung nhỏ (H1) mới vào sau khi view khung lớn",
+    "không limit ở vùng hỗ trợ khi chờ tín hiệu đảo chiều",
+    "hành động ngược đám đông theo Fear & Greed: dưới thì vào, trên thì ra",
+    "chỉ cập nhật nhận định khi có thay đổi",
+    "DCA giữ nhưng không múc thêm nhiều"
+  ],
+  "cau_cua_mieng": [
+    "Nói trước khi làm; khi làm thì tập trung làm; làm xong thì không cần nói nữa",
+    "Không biết tương lai, chỉ biết hiện tại, biết đủ là vui.",
+    "Plan của anh em mình là: dưới thì vào, trên thì ra."
+  ],
+  "altcoin": [
+    {
+      "coin": "ETH",
+      "huong": "TANG",
+      "ghi": "khung lớn đẹp hơn BTC nhưng BTC thủng thì ETH gãy sâu hơn"
+    },
+    {
+      "coin": "SOL",
+      "huong": "GIAM",
+      "ghi": "giống BTC, đáy đỉnh giảm dần"
+    },
+    {
+      "coin": "altcoin chung",
+      "huong": "GIAM",
+      "ghi": "USDT.D ngóc lên, không đánh pump; BTC.D vẫn tăng trên trendline hỗ trợ"
+    }
+  ],
+  "ghi_chu": "Không nêu giá BTC lúc nói rõ (quanh vùng 77, giá vừa bật từ 76). Gốc có [?] ở 79.000/76.000 giữ nguyên theo ngữ cảnh râu nến. Kịch bản chính chọn GIAM nhưng độ chắc thấp vì ngắn hạn 'không vội sale'."
+}

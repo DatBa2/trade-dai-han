@@ -1,0 +1,44 @@
+{
+  "buoi": "2026-08-13_1006_hNxSX7GUKMs",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/lam_sach/2026-08-13_1006_hNxSX7GUKMs.md",
+  "gia_btc_luc_noi": 63600,
+  "dau_buoi": {
+    "thien_huong_h4": "GIAM",
+    "gio": null,
+    "trich": "Bitcoin vẫn đang cố trụ ở đoạn này, xem thử có nên giữ tiếp lệnh short hay té cho an toàn. Giá thủng Fibo rồi mà phe short đang cố thủ mạnh quá. Xu hướng gãy là rõ nhưng khối lượng đỏ vẫn còn."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "GIAM",
+    "do_chac": "cao",
+    "gio": null,
+    "trich": "Xu hướng rõ ràng là giảm: giá nằm dưới MA khung ngày, H4 giá vẫn nằm dưới MA, đâm qua hai điểm cross ... Xu hướng hôm nay rõ ràng là không Long được rồi. ... Hỏi: H4 đóng vậy long vô không? — Không. Bitcoin hôm nay mình không long."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {"huong": "GIAM", "dich": 62800},
+  "duong_di": [
+    {"huong": "GIAM", "dich": 62800}
+  ],
+  "dich_chinh": 62800,
+  "han_gio": null,
+  "vo_hieu": null,
+  "lenh": [
+    {"chieu": "SHORT", "vao": 64300, "tp": [62800], "sl": 64300, "trang_thai": "dang_giu"},
+    {"chieu": "SHORT", "vao": 63700, "tp": [62800], "sl": null, "trang_thai": "de_xuat_moi"}
+  ],
+  "hanh_dong": "giu_lenh",
+  "khung_lon": {"D1": "GIAM", "W1": null},
+  "pha_vo_gia": "Sau tin CPI giá đẩy lên ~64.500 ('một cú lên lấy thanh khoản phía trên rồi rụng xuống trong đêm'); PPI tối nay dự kiến cũng 'bay lên, sau đó gãy xuống'. Không đánh hai đáy/phân kỳ nhẹ H4 khi giá vượt 63.800.",
+  "trich_them": [
+    {"gio": null, "cau": "Nếu nó phóng lên khỏi đoạn này, vút lên kill hết đám short thì mình đoán sẽ lên khoảng 64.600, nhưng liệu có lên được không thì hơi khó, 63.800 không là cũng đã tắt thở rồi."},
+    {"gio": null, "cau": "Cây nến hôm qua đâm xuyên thủng đáy 63.500, tạo một đáy thấp hơn."},
+    {"gio": null, "cau": "Vùng này hôm trước mình giải thích nhiều lần: từ vùng hỗ trợ mạnh bây giờ biến thành kháng cự, nên để nó qua khỏi 64.300 là cực kỳ khó khăn."},
+    {"gio": null, "cau": "Mình chỉ short bình thường thôi, không big short. Để an toàn thì chờ nến từ chối ở vùng này hoặc nó chạm vùng râu phía trên khoảng 63.700 thì đánh, chạm biên trên đánh cho an toàn."},
+    {"gio": null, "cau": "hôm qua chúng ta cũng short ở 64.300. Bây giờ nó không thể thịt anh em mình vì chúng ta đã TP1 và kéo SL về entry rồi."},
+    {"gio": null, "cau": "Liquid vùng này vẫn hai đầu thôi. Nếu short thì TP 62.800, mình cũng đang chờ ở đây."},
+    {"gio": null, "cau": "Mình nghĩ lên 64.400 hơi căng; nếu tối nay PPI ra cực kỳ tốt thì may ra, còn vùng trên này cũng hơi khó."},
+    {"gio": null, "cau": "Kịch bản quét lên 66–67 thì tầm này mình thấy bắt đầu khó, chưa nghĩ ra được."},
+    {"gio": null, "cau": "H4 tuy có phân kỳ nhẹ nhưng mình thấy không ăn thua, phân kỳ chưa ổn áp. Lực bán ở những cụm này khá căng. Đừng đánh hai đáy đoạn này."}
+  ],
+  "kho": "Transcript không có mốc giờ. Không nêu mốc vô hiệu rõ (64.300 chỉ là 'cản cực kỳ khó qua', SL lệnh đang giữ đã kéo về entry 64.300). Đích chỉ nói TP 62.800 cho short, không nhắc lại đích xa 53-55k của hôm trước. Giá lúc nói ước ~63.600 từ các số giá các sàn '618/644/614...'."
+}

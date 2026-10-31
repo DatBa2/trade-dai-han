@@ -1,0 +1,39 @@
+{
+  "buoi": "2026-01-06_aQbHs7J80jc",
+  "gia_btc_luc_noi": 94000,
+  "dau_buoi": {
+    "huong_h4": "TANG",
+    "trich": "[00:10:14] trong H4 thì mình nghĩ khả năng nó cũng sẽ quét lên đến cái vùng 9600 thôi ... khả năng quét lên trên này khá là cao cho nên lý do là không cho anh em short"
+  },
+  "cuoi_buoi": {
+    "huong_h4": "GIAM",
+    "trich": "[01:01:28] H4 đóng rồi. H4 đóng màu đỏ tiếp rồi. H4 đóng đỏ thì chắc là khả năng vẫn chờ điều chỉnh tiếp. [01:02:05] Short tiếp à? Đang short rồi mà short tiếp gì nữa."
+  },
+  "doi_y_giua_buoi": true,
+  "huong_lon": {
+    "D1": "TANG",
+    "W1": "GIAM",
+    "chu_ky": "GIAM"
+  },
+  "hanh_dong": "giu_lenh",
+  "duong_di": [
+    {
+      "huong": "GIAM",
+      "dich": 91000,
+      "khung": "H4"
+    },
+    {
+      "huong": "TANG",
+      "dich": 95800,
+      "khung": "H4"
+    }
+  ],
+  "dich_chinh": 95800,
+  "moc_sai": {
+    "gia": null,
+    "dieu_kien": null
+  },
+  "pha_vo_gia": "[00:58:43–00:59:16] Chờ fake out dưới demand 92.000–93.000 xuống 91.000, quét SL long FOMO rồi mới tìm long; là kịch bản chờ.",
+  "do_chac": "vua",
+  "ghi_chu": "Đã đọc hết transcript. Giá 94.000 xấp xỉ từ tiêu đề. Đầu H4 còn ưu tiên lên 96.000–98.000, cuối sau H4 đỏ ưu tiên điều chỉnh trước; ghi đổi thiên hướng chặng H4, không đồng nghĩa đảo chu kỳ. Người nói vẫn gọi short nhỏ là cản tàu đến cuối nên nhãn cuối GIAM có giới hạn: là nhịp điều chỉnh kế tiếp, D1 vẫn tăng. Đang giữ short scalping nhỏ từ đầu; [01:02:50] short chỉ TP khoảng 92.000, không gồng về 91.000. 91.000 là vùng CHỜ LONG nếu tới, sau đó [01:03:21] long có thể TP95.800/95.000. Đường đi ghi kịch bản giá/entry long, không phải TP của short đang giữ. Không có mức SL/sai số rõ; không suy SL từ đích 96.000."
+}

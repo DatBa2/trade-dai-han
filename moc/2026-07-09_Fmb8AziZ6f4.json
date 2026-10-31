@@ -1,0 +1,321 @@
+{
+  "buoi": "2026-07-09_Fmb8AziZ6f4",
+  "ngay": "2026-07-09",
+  "gia_btc_luc_noi": 62000,
+  "moc": [
+    {
+      "gia": 64000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": "00:16:05",
+      "tai_san": "BTC",
+      "chac": false,
+      "trich": "64... 63 64, 646 (phụ đề rời rạc)"
+    },
+    {
+      "gia": 62000,
+      "gia_tren": 63000,
+      "vai_tro": "entry",
+      "huong": "GIAM",
+      "khung": "M5",
+      "can_cu": [
+        "nến M5"
+      ],
+      "moc_gio": "00:26:56",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Hiện tại mình đang chờ ở 6200 với 63. Tùy những vùng đó sẽ xem xét hình thái nến"
+    },
+    {
+      "gia": 64000,
+      "gia_tren": null,
+      "vai_tro": "sl",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": "00:23:42",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "nếu đánh x30 mà stop loss đặt ở 64.00 (lệnh của người khác, mình dùng làm ví dụ)"
+    },
+    {
+      "gia": 60000,
+      "gia_tren": null,
+      "vai_tro": "day_cu",
+      "huong": "GIAM",
+      "khung": "W1",
+      "can_cu": [
+        "khung tuần đấm như này, còn nhịp quét"
+      ],
+      "moc_gio": "00:29:33",
+      "tai_san": "DAU",
+      "chac": false,
+      "trich": "khung tuần... còn những nhịp quét, giảm về quanh 60 (nói về dầu, không phải BTC)"
+    },
+    {
+      "gia": 66000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "Fibo test khung ngày"
+      ],
+      "moc_gio": "00:39:16",
+      "tai_san": "BTC",
+      "chac": false,
+      "trich": "nến ngày test về Fibo vẫn có khả năng hồi lên lại vùng 66"
+    },
+    {
+      "gia": 61000,
+      "gia_tren": null,
+      "vai_tro": "tp",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "Fibo (không nói rõ kéo từ đâu)"
+      ],
+      "moc_gio": "00:37:42",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "anh em chỉ nên view về 61.00 và đâu đó là 60.00 năm. Về đến hai vùng này nên chốt các lệnh short"
+    },
+    {
+      "gia": 60500,
+      "gia_tren": null,
+      "vai_tro": "tp",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "Fibo (không nói rõ)"
+      ],
+      "moc_gio": "00:38:44",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "kéo SL lên entry gồng tối đa là 60.000 năm, 60.500 chốt hết toàn bộ lệnh short"
+    },
+    {
+      "gia": 59000,
+      "gia_tren": null,
+      "vai_tro": "vo_hieu",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "vài cây H4 không gãy khỏi 60-59"
+      ],
+      "moc_gio": "00:38:12",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "nếu nó gãy thì chúng ta đánh từ 59 về 54"
+    },
+    {
+      "gia": 54000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [],
+      "moc_gio": "00:38:12",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "đánh từ 59 về 54, các bạn cũng đủ biên độ giá để ăn"
+    },
+    {
+      "gia": 50000,
+      "gia_tren": 53000,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [],
+      "moc_gio": "00:38:44",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "nếu thủng dưới 59 thì mình sẽ đánh từ 59 về khoảng 54, 53 hoặc thậm chí 50"
+    },
+    {
+      "gia": 59000,
+      "gia_tren": 60000,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": "H4",
+      "can_cu": [
+        "vùng tranh chấp"
+      ],
+      "moc_gio": "00:38:44",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Vùng từ 60 59 là vùng rất tranh chấp nên hạn chế đánh trong vùng đó"
+    },
+    {
+      "gia": 61000,
+      "gia_tren": null,
+      "vai_tro": "tp",
+      "huong": "GIAM",
+      "khung": "M5",
+      "can_cu": [],
+      "moc_gio": "00:38:44",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "short scalping qua vùng 62 này đến khoảng 61.00 tức là khoảng 700 giá"
+    },
+    {
+      "gia": 50000,
+      "gia_tren": null,
+      "vai_tro": "khac",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [
+        "Fibo 0.5 khung ngày kéo từ 67 đến 57 (người xem hỏi)"
+      ],
+      "moc_gio": "00:41:30",
+      "tai_san": "BTC",
+      "chac": false,
+      "trich": "Ở đây nó thủng khỏi Fibo 50 trên khung ngày... đo Fibo từ 67 đến 57"
+    },
+    {
+      "gia": 54000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [
+        "Fibo khung ngày"
+      ],
+      "moc_gio": "00:42:03",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "có thể đánh về dưới này, 54 này"
+    },
+    {
+      "gia": 62700,
+      "gia_tren": null,
+      "vai_tro": "entry",
+      "huong": "GIAM",
+      "khung": "M5",
+      "can_cu": [],
+      "moc_gio": "00:44:35",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "entry 1 là 627, entry 2 là 631, entry 3 là 634 (lệnh của người xem)"
+    },
+    {
+      "gia": 64100,
+      "gia_tren": null,
+      "vai_tro": "sl",
+      "huong": "GIAM",
+      "khung": "M5",
+      "can_cu": [],
+      "moc_gio": "00:44:35",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "SL 641 (lệnh của người xem)"
+    },
+    {
+      "gia": 60000,
+      "gia_tren": 61000,
+      "vai_tro": "tp",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "cụm thanh lý Hyblock đã bị lụm, dữ liệu có một đám 60-61"
+      ],
+      "moc_gio": "00:46:43",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "giảm về được đây các bạn nên ăn... 61.000 và 60.000 hợp lý"
+    },
+    {
+      "gia": 57000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "W1",
+      "can_cu": [],
+      "moc_gio": "00:47:18",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Về dài hạn thì mới về lại những câu chuyện như 57, chắc chờ dài"
+    },
+    {
+      "gia": 60000,
+      "gia_tren": 61000,
+      "vai_tro": "vo_hieu",
+      "huong": "TANG",
+      "khung": "M5",
+      "can_cu": [],
+      "moc_gio": "00:49:31",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "muốn thấy nhịp hồi thì phải thấy giá Bitcoin tối thiểu 60.000 hoặc 61.000 và bật lên"
+    },
+    {
+      "gia": 61000,
+      "gia_tren": null,
+      "vai_tro": "tp",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": "01:07:30",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Short TP500 giá? TP thì cứ phải là 6100"
+    },
+    {
+      "gia": 67000,
+      "gia_tren": 68000,
+      "vai_tro": "khang_cu",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "đỉnh hồi cũ, cản"
+      ],
+      "moc_gio": "01:06:22",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "nó phải vượt qua những cản này, 67 này... qua 68 lên rất dễ"
+    },
+    {
+      "gia": 74000,
+      "gia_tren": 75000,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [],
+      "moc_gio": "01:06:22",
+      "tai_san": "BTC",
+      "chac": false,
+      "trich": "đóng 74 75 rất easy"
+    },
+    {
+      "gia": 67000,
+      "gia_tren": null,
+      "vai_tro": "dinh_cu",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [
+        "đỉnh hồi, chưa đạt 50% sóng"
+      ],
+      "moc_gio": "00:55:30",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "nhịp sau đó 67 này chưa đạt được 50%, mới 42, chẳng qua là nhịp hồi"
+    },
+    {
+      "gia": 60000,
+      "gia_tren": null,
+      "vai_tro": "day_cu",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "đáy"
+      ],
+      "moc_gio": "00:54:26",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "60 đến 67, 60 là đoạn này, 67 này. 60 đến 67 thì là quá bán và hồi"
+    }
+  ]
+}

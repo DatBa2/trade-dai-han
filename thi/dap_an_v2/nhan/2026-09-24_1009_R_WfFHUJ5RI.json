@@ -1,0 +1,52 @@
+{
+  "buoi": "2026-09-24_1009_R_WfFHUJ5RI",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/lam_sach/2026-09-24_1009_R_WfFHUJ5RI.md",
+  "gia_btc_luc_noi": 84000,
+  "dau_buoi": {
+    "thien_huong_h4": "GIAM",
+    "gio": null,
+    "trich": "Nếu phá lên khỏi vùng 84.000 thì sẽ thấy một pha lên test lại vùng 85.000. Mình đang chờ nhịp lên 85.000 này sẽ đẹp hơn cho vị thế tiếp tục đánh xuống, đánh về TP đâu đó khoảng 82.000 là ok."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "GIAM",
+    "do_chac": "vua",
+    "gio": null,
+    "trich": "Bitcoin sắp đóng H4. H4 đóng phá đáy thì khả năng lại đi xuống. Đóng H1 thủng đáy này luôn thì ngon. ... H1 xấu; H4 nếu đóng ở đây cũng xấu nốt. ... Nếu anh em muốn đuổi thì chờ thủng trendline này, lúc đó nó chạy mô hình cờ."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {"huong": "TANG", "dich": 85000},
+  "duong_di": [
+    {"huong": "TANG", "dich": 85000},
+    {"huong": "GIAM", "dich": 82000}
+  ],
+  "dich_chinh": 82000,
+  "han_gio": 36,
+  "vo_hieu": {
+    "gia": 86000,
+    "khung": "H4",
+    "so_nen": 1,
+    "chieu": "dong_tren",
+    "cau": "Còn muốn bay lên thì tối thiểu nên chờ đoạn này cho chắc: râu quanh 82.000; hoặc chờ nó lên lại trên 85.000 hay qua khỏi 86 thì lúc đó mới gọi là tạm an toàn để tính tiếp chuyện đi lên."
+  },
+  "lenh": [
+    {"chieu": "SHORT", "vao": [84600, 85500], "tp": [82000], "sl": null, "trang_thai": "de_xuat_moi"},
+    {"chieu": "SHORT", "vao": 83000, "tp": [82400], "sl": null, "trang_thai": "de_xuat_moi"},
+    {"chieu": "SHORT", "vao": null, "tp": [], "sl": null, "trang_thai": "da_dong"}
+  ],
+  "hanh_dong": "dung_ngoai_cho_entry",
+  "khung_lon": {"D1": "GIAM", "W1": null},
+  "pha_vo_gia": "Sáng nay giá lên tạo 'mô hình trap' (người nói thoát lệnh rồi giá mới gãy); khung 30 phút hai đáy fail nhưng 'coi chừng nó đang dụ sale'; vùng thanh lý phía trên 'khả năng là vùng dụ long'.",
+  "trich_them": [
+    {"gio": null, "cau": "Mình đã cảnh báo ở bài post trước: kháng cự hiện tại đâu đó khoảng 87.000; nếu muốn chinh phục 88 đến 90.000 thì tối thiểu phải có một cây H4 đóng trên 87.000, và điều này đã thất bại trong nhịp tăng hôm qua."},
+    {"gio": null, "cau": "Mặc dù cá nhân mình vẫn kỳ vọng nó thủng vùng này, vì chỉ cần thủng 82 thì xác suất về các vùng thấp hơn càng ngày càng gia tăng. Còn nếu 82-83 trụ được thì nó giữ được nhịp này và kéo lên 9x, sau 9x mới tiếp tục điều chỉnh về vùng 7x."},
+    {"gio": null, "cau": "Bây giờ về 82 thì thực tế chúng ta sẽ không đánh theo view xuống nữa mà chờ phản ứng ở vùng hỗ trợ để tìm view lên (nếu hỗ trợ tốt, cứng)."},
+    {"gio": null, "cau": "Tóm lại cấu trúc khung ngày khá xấu, vẫn sẵn sàng cho nhịp điều chỉnh đẹp. H4 đang ngập hỗ trợ nên kiên nhẫn chờ nó phản ứng, xử lý xong lực mua ngắn hạn trong vùng hỗ trợ."},
+    {"gio": null, "cau": "Mình nghĩ từ giờ đến cuối tuần thị trường điều chỉnh luôn là đẹp, hoặc điều chỉnh luôn đến hết tháng cũng được; nhưng trước mắt từ giờ đến đêm ngày mai thì hơi khó cho một nhịp tăng."},
+    {"gio": null, "cau": "Mình nghĩ thị trường vẫn rất muốn kéo một nhịp lên quét ở trên trước để xem đây có phải vùng Fibo không. Mình chỉ chờ đánh xuống nếu nó lên lại các vùng kháng cự như Fibo để có entry đẹp ... Ví dụ nó thủng hẳn 83.000 thì có thể đánh đuổi về khoảng 82.400"},
+    {"gio": null, "cau": "Đo thử mô hình cờ nếu xảy ra thì chạy về đâu: 81.000 luôn. ... nhịp 83.000 vừa khớp Fibo 1.618 luôn. Tức là target của nhịp giảm này đã xong, và trùng với vùng hỗ trợ 82-83."},
+    {"gio": null, "cau": "Lúc sáng anh em thấy mình có một lệnh, nhưng khi nó hồi lên và đóng nến 30 phút rút râu thì bắt buộc chạy cho an toàn."},
+    {"gio": null, "cau": "Một con (U) mà lên 6.6 đến 6.7 thì mình nghĩ Bitcoin này về đâu đó khoảng 81."}
+  ],
+  "kho": "Transcript không có mốc giờ. Hướng xuống khá rõ (D1 xấu, chờ hồi 85 để short về 82; F&G cao, khó tăng đến đêm mai), nhưng người nói cũng cho rằng 82–83 khó thủng, Fibo 1.618 ở 83 'target nhịp giảm đã xong', về 82 sẽ chuyển sang tìm view lên → đích chính 82 (TP nêu rõ), mô hình cờ đo tới 81 là đích mở rộng. Vùng hồi thứ hai '85.000 cho đến 85.500 [?], nhưng khả năng chỉ 82.500 thôi [?]' bị lỗi phụ đề. Lệnh short buổi sáng đã thoát, không rõ giá vào. han_gio 36 = 'từ giờ đến đêm ngày mai'."
+}

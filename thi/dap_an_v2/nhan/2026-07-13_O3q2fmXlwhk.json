@@ -1,0 +1,54 @@
+{
+  "buoi": "2026-07-13_O3q2fmXlwhk",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/zip_clean/2026-07-13_O3q2fmXlwhk.txt",
+  "gia_btc_luc_noi": 62800,
+  "dau_buoi": {
+    "thien_huong_h4": "GIAM",
+    "gio": "[00:08:31]",
+    "trich": "Hiện tại nó không phá lên được cho nên đoạn này nó gãy mất mô hình rồi. Gãy mất mô hình rồi thì bây giờ nó sẽ quay về lại đây. Và tiếp tục đoạn này chúng ta thấy xác suất xảy ra mô hình hai đỉnh ở trên H4 rất cao."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "GIAM",
+    "do_chac": "vua",
+    "gio": "[01:05:35]",
+    "trich": "Mình nghĩ là nếu là mình thì chắc mình vẫn chờ nhịp hồi lên mình đánh thôi. Chắc hồi lên khoảng 62k hoặc là 63.000. Chắc khoảng 63.000 thì mình mới cân nhắc để short... 62k cho đến 63 cho đến 63k6, SL 64. Vẫn đánh lại lệnh lúc sáng thì được. TP có thể kéo xuống thêm khoảng 6200."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {"huong": "GIAM", "dich": 62000},
+  "duong_di": [
+    {"huong": "GIAM", "dich": 62000},
+    {"huong": "GIAM", "dich": 61000}
+  ],
+  "dich_chinh": [61000, 62000],
+  "han_gio": null,
+  "vo_hieu": {
+    "gia": 64000,
+    "khung": "H4",
+    "so_nen": 1,
+    "chieu": "dong_tren",
+    "cau": "62k cho đến 63 cho đến 63k6, SL 64. Vẫn đánh lại lệnh lúc sáng thì được."
+  },
+  "lenh": [
+    {"chieu": "SHORT", "vao": 63400, "tp": [62810], "sl": 64000, "trang_thai": "da_dong"},
+    {"chieu": "SHORT", "vao": [63000, 63600], "tp": [62000], "sl": 64000, "trang_thai": "de_xuat_moi"}
+  ],
+  "hanh_dong": "dung_ngoai_cho_entry",
+  "khung_lon": {"D1": "GIAM", "W1": "GIAM"},
+  "pha_vo_gia": "[00:05:15] 'Đoạn này trap phần nhiều' quanh 64; [00:27:16]/[00:30:28] nếu H1 rút lên lại trên 63.000 thì cú gãy là fake out quét stop loss phe long rồi chạy tiếp sóng phục hồi; [00:28:51] thị trường hay quét sâu hơn 62.000 một tí rồi đi lên; [00:39:44] phiên Mỹ đêm nay xác suất cao có cú quét lên 65 rồi rụng; 'Hôm nay thứ hai nó hơi trap'.",
+  "trich_them": [
+    {"gio": "[00:07:59]", "cau": "Sáng hôm nay ở một cây H1 này, sau cây này mình bắt đầu cho anh em lệnh short. Sau cây này nó phá khỏi vùng hỗ trợ này. Rõ ràng vùng này trước đó là vùng hỗ trợ cứng, bây giờ trở thành vùng kháng cự."},
+    {"gio": "[00:09:33]", "cau": "Xuyên suốt như thế này thì coi như lực tăng này thất bại hoàn toàn và nguyên khu vực 64 này fail thì nó sẽ đi tiếp về vùng 5x."},
+    {"gio": "[00:19:41]", "cau": "Thứ hai là xu hướng của khung tuần đã confirm rất rõ là downtrend rồi."},
+    {"gio": "[00:22:28]", "cau": "Khung ngày thì đang bị bán ở MA34 rất rõ, không loại trừ đoạn này chính là điểm hồi cao nhất của nhịp giá và đi gãy luôn thì không có gì bất ngờ... Hiện tại nếu đóng cây nến ngày ở đây nữa thì gần như tỉ lệ xảy ra hai đỉnh cực kỳ cao."},
+    {"gio": "[00:24:34]", "cau": "ví dụ các bạn ở đây thì stop loss là khi nến ngày đóng trên 65.000 thì các bạn sẽ phải chạy. TP1 các bạn đặt ở 57.000, TP2 đặt ở 54.000, sau đó TP3 mới kéo về những vùng 4x thì mới đúng."},
+    {"gio": "[00:25:38]", "cau": "Mặc dù nó thủng nhưng ở đây xét trên cấu trúc H4 chúng ta sẽ short đẹp khi giá thủng khỏi vùng 61.000 này, nó mới ngon, khỏi neckline ở đây... còn không ở đây thì nó vẫn có khả năng tăng, bởi vì H4 nó vẫn là đỉnh đáy này."},
+    {"gio": "[00:29:24]", "cau": "Nói lại là đoạn này H4 vẫn có khả năng giữ được xu hướng tăng mặc dù rất khó. Mình nhìn xác suất ở đây để trụ được để tăng lên thì tất nhiên là ít khả năng hơn nhưng không phải là không thể."},
+    {"gio": "[00:30:59]", "cau": "khi nó thủng khỏi thằng Fibo này thì bắt đầu chúng ta có thể tìm điểm để short đuổi theo. Short đuổi về đến đâu? Về đến vùng 61.000 này chúng ta chốt khoảng nghìn giá."},
+    {"gio": "[00:40:15]", "cau": "Nó đóng ở đây một cây H4 màu đỏ mà full lực như thế này thì chơi gì nữa đúng không? Chờ nó thủng qua Fibo là chơi thôi... Đừng có cố đi short đuổi, short là short đáy."},
+    {"gio": "[00:58:51]", "cau": "H4 đóng thế này thì chơi bời gì nữa anh em."},
+    {"gio": "[01:03:01]", "cau": "Nó cứ lòng vòng ở đoạn này không có hồi lên được tí nào cho nó ngon. Vẫn chưa phá. Chắc phá 62.000. Vùng này khó. Vùng này không có entry."},
+    {"gio": "[00:18:06]", "cau": "TP anh em ơi, TP quay đầu là vừa phải quá đẹp... Lượm được 600 giá, gần 1%, 1% tròn."}
+  ],
+  "kho": "D1 hai đỉnh/W1 downtrend rõ, nhưng người đó nhắc H4 vẫn còn cấu trúc đỉnh-đáy cao dần cho tới khi thủng 61.000, và có nói nếu H1 lấy lại 63.000 thì cú gãy là fake out. Đích lớn 57–58 (hai đỉnh D1) chỉ là tham chiếu big short, plan H4 thực tế là đi từng khúc 62 → 61. Mốc vô hiệu 64 lấy từ SL lệnh short (không nói khung). TP lệnh sáng có chỗ đọc '62.100', lấy 62.810 theo câu 'cho chốt TP là 62.810' và 'lượm được 600 giá'."
+}

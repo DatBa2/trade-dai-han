@@ -1,0 +1,145 @@
+{
+  "buoi": "2026-10-23_1002_cb85mXIfTv8",
+  "ngay": "2026-10-23",
+  "gio_vn": "10:02",
+  "gia_btc_luc_noi": 81000,
+  "nhan_dinh": [
+    {
+      "khung": "H4",
+      "huong": "TANG",
+      "do_chac": "thap",
+      "dich": 83000,
+      "han": "vài ngày; trước đó ngắn hạn còn nhịp test lên kill rồi mới điều chỉnh xuống (chắc chiều tối nay)",
+      "han_gio": 72,
+      "vo_hieu_khi": "nến ngày đóng lên trên lại 82.000 thì khó chơi / H4 qua lại cụm MA",
+      "kich_ban_phu": "quay lại về 77-78.000 (Fibo mở rộng 78.000, MA34 và 82.000 kháng cự, 50/50 mô hình cờ)",
+      "ly_do": [
+        "nhịp 84 hôm trước rất có khả năng là phá cao fake out: tăng đủ 5 sóng, MA34 đỡ tối đa ~3 lần, RSI yếu dần",
+        "nến ngày cực xấu, lực bán full option, bị MA34 chặn",
+        "cụm MA H4 bị phá, thành kháng cự lớn",
+        "Fibo mở rộng hai lần cùng cho target 78.000"
+      ],
+      "trich": "xác suất nó điều chỉnh test về lại vùng 78 là có và rất lớn, anh em thận trọng.",
+      "doi_y": "đầu buổi GIAM (về 77-78, fake out 84) → giữa/cuối buổi: hai đỉnh dụ dỗ, không gãy nhiều được, sideway rồi đi lên tiếp, phải quét 83.000 mới được",
+      "duong_di": null
+    },
+    {
+      "khung": "D1",
+      "huong": "GIAM",
+      "do_chac": "thap",
+      "dich": [
+        77000,
+        78000
+      ],
+      "han": null,
+      "han_gio": null,
+      "vo_hieu_khi": "ngày mai đóng nến ngày lên trên lại 82.000",
+      "kich_ban_phu": "mô hình cờ đi tiếp lên 90 (50/50, không dám buy); chưa gãy hỗ trợ 81.000 nên nói vào xu hướng giảm hay chỉ điều chỉnh là hơi quá sớm; cuối ngày nói hai đỉnh dụ dỗ, có thể sideway rồi đi lên tiếp phải quét 83.000",
+      "ly_do": [
+        "nến ngày rất xấu đóng bán",
+        "đỉnh đáy thấp dần nhưng hiện chỉ là điều chỉnh khung ngày"
+      ],
+      "trich": "nhận định xu hướng ngày đi vào xu hướng giảm hay chỉ điều chỉnh thì vẫn hơi quá sớm.",
+      "doi_y": null,
+      "duong_di": null
+    },
+    {
+      "khung": "chung",
+      "huong": "TANG",
+      "do_chac": "thap",
+      "dich": 100000,
+      "han": "100.000 chắc khoảng 1-2 năm nữa; 90.000 cửa hẹp dần",
+      "han_gio": null,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": null,
+      "ly_do": [
+        "nói về khả năng lên 90-100K đang khó dần"
+      ],
+      "trich": "100.000 chắc khoảng một hoặc hai năm nữa. Còn 90 thì đoạn này bắt đầu thấy cửa 90 hẹp dần theo thời gian rồi.",
+      "doi_y": null,
+      "duong_di": null
+    }
+  ],
+  "vung_gia": {
+    "khang_cu": [
+      82000,
+      83000
+    ],
+    "ho_tro": [
+      77000,
+      78000
+    ]
+  },
+  "lenh": [],
+  "nhin_lai_truoc": "Khi giá lên 84 đã nhận định xác suất cực kỳ cao là nhịp phá cao fake out; hiện đúng khi giá về 81-82. Không vào ở 81.000 vì sợ fake out, cho dù lên 90 cũng không tiếc.",
+  "cong_cu": [
+    "D1",
+    "H4",
+    "M5",
+    "MA34",
+    "MA H4 200",
+    "Fibo mở rộng",
+    "Fibo 0.618",
+    "RSI (yếu dần)",
+    "BTC.D",
+    "USDT.D",
+    "Fear and Greed",
+    "thanh lý 82.000-82.500",
+    "đếm 5 sóng"
+  ],
+  "tin_tuc": [
+    {
+      "tin": "Bầu cử giữa kỳ Mỹ 3/11, giá dầu bị đẩy, Hormuz căng thẳng",
+      "danh_gia": "dầu bị đẩy để làm xấu chứng khoán/vàng/BTC trước bầu cử; sau bầu cử dầu điều chỉnh hoặc các tài sản kia thả ra rồi rơi"
+    },
+    {
+      "tin": "Hôm nay không có tin quan trọng lắm",
+      "danh_gia": "thứ Sáu thận trọng, biên độ kill căng vào phiên Mỹ"
+    }
+  ],
+  "thoi_quen": [
+    "không vào vị thế khi chưa đủ cơ sở dù có thể lỡ nhịp tăng",
+    "chờ team short bị thanh lý rồi mới xem",
+    "hạn chế đuổi khi phe đỏ lệch nhiều",
+    "SL buy vùng 80.000",
+    "cảnh báo thứ Sáu và cuối tuần dễ bị ru ngủ",
+    "fake out phải chờ confirm"
+  ],
+  "cau_cua_mieng": [
+    "Làm gì có gì chắc chắn, chỉ có tiền của chúng ta mất là chắc chắn thôi.",
+    "Bề ngoài thể hiện rất mạnh nhưng bên trong yếu."
+  ],
+  "altcoin": [
+    {
+      "coin": "BTC.D",
+      "huong": "TANG",
+      "ghi": "vẫn trong vùng đi lên, có thể test lại ~62%; trong ngày BTC hồi thì alt có thể hồi ~10%"
+    },
+    {
+      "coin": "USDT.D",
+      "huong": "PHAN_VAN",
+      "ghi": "không lên được nhiều, khoảng 7.4 rồi gãy, cuối năm sau bầu cử"
+    },
+    {
+      "coin": "ETH",
+      "huong": "GIAM",
+      "ghi": "cố trụ ~2000, giữ khó nếu BTC tiếp tục bị bán"
+    },
+    {
+      "coin": "Vàng",
+      "huong": "PHAN_VAN",
+      "ghi": "sideway, dễ hồi, sale ở đây nguy hiểm; đến cuối năm âm lịch tạo đáy rồi lên"
+    },
+    {
+      "coin": "Dầu",
+      "huong": "TANG",
+      "ghi": "kỳ vọng phá đỉnh 120, mục tiêu 140"
+    },
+    {
+      "coin": "NEAR",
+      "huong": "PHAN_VAN",
+      "ghi": "vẫn trụ, đi tái phân phối"
+    }
+  ],
+  "ghi_chu": "Giữa buổi (sau sự cố) có câu 'hai đỉnh này hơi bị dụ dỗ, nó vẫn không gãy nhiều được, sideway rồi đi lên tiếp' — lệch với H4 giảm nên hạ do_chac H4 xuống vừa, D1 thấp. Số 77-78/82.000 rõ trong bản sạch. Không có lệnh."
+}

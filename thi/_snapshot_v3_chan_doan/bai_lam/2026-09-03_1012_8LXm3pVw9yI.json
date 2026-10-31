@@ -1,0 +1,82 @@
+{
+ "buoi": "2026-09-03_1012_8LXm3pVw9yI",
+ "ngay": "2026-09-03",
+ "gio_vn": "10:12",
+ "gia_btc_luc_noi": 77340,
+ "nhan_dinh": [
+  {
+   "khung": "H4",
+   "huong": "GIAM",
+   "do_chac": "vua",
+   "dich": [75800, 76200],
+   "han": "1-2 ngày (hết thứ Sáu 04/09)",
+   "han_gio": 48,
+   "vo_hieu_khi": "H4 đóng trên 79.500 (vượt đỉnh hạ thấp 79.256-79.401 và MA khung ngày 79.5)",
+   "kich_ban_phu": "chặng 1 có thể hồi quét lên 78.000-78.500 test lại dải MA34 H4 trước khi gãy",
+   "duong_di": [{"huong": "TANG", "dich": 78200}, {"huong": "GIAM", "dich": 76000}],
+   "doi_y": null,
+   "ly_do": [
+    "đích cũ 76-79K của lệnh short 81 đã chạm (76.8) → xong việc, lập lại view nhưng khung lớn vẫn giảm",
+    "nến ngày bị từ chối ở EMA610 D1 ~79.1 suốt 6 ngày, đóng dưới 79.500 → về test râu 75.600 (kịch bản người đó đã nêu 28/08)",
+    "H4 đỉnh hạ thấp dần 81.5 → 79.4 → 79.25 → 77.8, giá đóng dưới dải EMA34 H4 (77.4-78.3), EMA34 dốc xuống",
+    "phía dưới có 2 đáy 76.26/76.42 (SL phe long) và EMA89 H4 75.9 + râu D1 75.56 làm đích quét",
+    "tháng 7 xanh, tháng 8 xanh → tháng 9 dễ một tháng đỏ (mùa vụ phá thế hòa)"
+   ],
+   "trich": null
+  },
+  {
+   "khung": "D1",
+   "huong": "GIAM",
+   "do_chac": "thap",
+   "dich": [72000, 73000],
+   "han": "khoảng 1 tuần",
+   "han_gio": 168,
+   "vo_hieu_khi": "nến ngày đóng trên 83.000 (vùng 82-83 cản tuần/ngày)",
+   "kich_ban_phu": "giữ được râu 75.600 thì đi ngang 76-79 thêm vài ngày",
+   "duong_di": [{"huong": "GIAM", "dich": 75600}, {"huong": "GIAM", "dich": 72500}],
+   "doi_y": null,
+   "ly_do": [
+    "nến ngày bị từ chối ở EMA610 D1 (79.1), râu trên 81.5 ngày 28/08 không giữ được",
+    "72K hội tụ: EMA34 D1 ~72.0 + EMA200 D1 72.4 + Fibo 0.5 sóng 62.5→81.5 (72.0) + EMA200 H4 71.9",
+    "giá xa EMA34 D1 hơn 7% → có lực hút về test MA ngày"
+   ],
+   "trich": null
+  },
+  {
+   "khung": "W1",
+   "huong": "GIAM",
+   "do_chac": "vua",
+   "dich": [50000, 52300],
+   "han": "khoảng 30 ngày - đến tháng 10/11",
+   "han_gio": 720,
+   "vo_hieu_khi": "nến tuần đóng trên 83.000 thì xem lại; downtrend chỉ hết khi tuần đóng trên 93.000-95.000",
+   "kich_ban_phu": "lên quét 82-83 rồi mới xuống",
+   "duong_di": [{"huong": "GIAM", "dich": 70000}, {"huong": "GIAM", "dich": 52300}],
+   "doi_y": null,
+   "ly_do": [
+    "chu kỳ 4 năm: đỉnh 126K 10/2025, downtrend tới 2027, nhịp 60→81 chỉ là hồi kỹ thuật",
+    "nến tuần 24/08 râu trên 4.8% bị từ chối ngay EMA89 tuần (79.0) và cản tuần 80-82",
+    "view 50.000 người đó vẫn giữ (28/08); Fibo mở rộng tuần 52.3K"
+   ],
+   "trich": null
+  }
+ ],
+ "vung_gia": {"khang_cu": [78200, 79400, 81500, 83000], "ho_tro": [76200, 75600, 72000, 70000]},
+ "lenh": [
+  {"chieu": "SHORT", "loai": "limit", "vao": 78200, "tp": [76400, 75800], "sl": 78900, "trang_thai": "de_xuat_moi"}
+ ],
+ "hanh_dong": "dung_ngoai_cho_entry",
+ "giu_view": true,
+ "ly_do_doi_view": "Giữ hướng GIẢM của buổi 28/08 và view 50K. Đích cũ 76-79K đã chạm (b) nên chỉ dời đích sang 76K/75.6K; đầu tháng + buổi đầu tuần (d) xem lại tháng/tuần: tuần bị từ chối ở EMA89 tuần, tháng 9 sau 2 tháng xanh → vẫn giảm. Không có nến đóng qua mốc sai 80.4/83.",
+ "rau": {
+  "tren": "gần nhất 79.256 (H4 31/08 23:00) và 79.220 (D1 01/09); râu lớn 81.500 (D1 28/08, cũng là râu tuần 24/08)",
+  "duoi": "gần nhất 76.261 (H4 02/09 15:00), trước đó 76.417 (H4 01/09 23:00); râu D1 xa 75.560 (23/08)",
+  "test_lai": "Râu dưới 76.26 CÓ — hai đáy sát nhau là chỗ phe long đặt SL, bên dưới trùng EMA89 H4 75.9 + râu D1 75.56 (R2, R3). Râu trên 79.25 KHÔNG ở chặng này — đỉnh hạ thấp dần, dải EMA34 H4 chắn giữa (5.3). Râu tuần 81.5 còn để dành làm vùng short xa (R5)."
+ },
+ "vung_on": [
+  {"loai": "SHORT", "khoang": [78000, 78600], "ly_do": ["Fibo 0.618-0.786 nhịp giảm H4 79.256→76.261 (78.1-78.6)", "dải EMA34 H4 77.9-78.3", "hỗ trợ cũ 78K (Fibo H1 26/08) đã gãy đổi vai thành cản", "cụm thanh lý 78K"]},
+  {"loai": "LONG", "khoang": [75500, 76000], "ly_do": ["EMA89 H4 75.9", "râu D1 75.56 (23/08)", "MA200 H1 / vùng limit long 76K người đó nêu 28/08"]}
+ ],
+ "pha_vo_gia": "Cú thủng 77K hôm 02/09 là phá giả: chỉ 1 cây H4 đóng 76.826 rồi cây sau đóng lại trên 77 (G2), phần thủng chủ yếu là râu 76.26 (G1), nến phiên Âu-Mỹ quét đáy (G9). Không đổi view vì nó; nghĩa là chặng 1 hồi lên test 78 trước rồi mới gãy về 76.",
+ "loi_binh": "Hôm nay thứ Năm, buổi đầu tiên của tháng 9 anh em. Lệnh short 81 hôm trước về tới 76.8 là mình đã happy rồi, xong việc. Nến ngày bị từ chối ở MA khung ngày 79 cả tuần nay, tháng 7 xanh tháng 8 xanh thì tháng 9 rất dễ là một tháng đỏ — view 50.000 mình vẫn giữ. H4 giá đang kẹp giữa MA34 với MA89, nằm giữa thì không vào giữa; chờ nó hồi lên 78-78.5 test lại dải MA34 rồi mình tìm short, về 76 là chốt. Thà rớt nước miếng còn hơn lau nước mắt."
+}

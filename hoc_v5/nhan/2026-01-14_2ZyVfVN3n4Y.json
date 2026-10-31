@@ -1,0 +1,465 @@
+{
+  "buoi": "2026-01-14_2ZyVfVN3n4Y",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/zip_clean/2026-01-14_2ZyVfVN3n4Y.txt",
+  "gia_btc_luc_noi": 95500,
+  "dau_buoi": {
+    "thien_huong_h4": "TANG",
+    "gio": "[00:04:27]",
+    "trich": "Mình nghĩ chưa cần phải short vì cái râu bên này có thể nó sẽ đi test lại, chưa cần short ở thời điểm này."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "TANG",
+    "do_chac": "vua",
+    "gio": "[00:54:58]",
+    "trich": "Vùng hiện tại cho đến khoảng tầm 98 hay gì đó. Sau đó tính tiếp sau. BTC cắn TP 95.5, giờ đợi entry nào? Giờ chờ quanh 94 hoặc là 93. Altcoin cũng vậy, Bitcoin điều chỉnh để con nào thoát nên quan sát và chờ thôi các bạn. Thị trường tốt đừng có short là được."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {
+    "huong": "GIAM",
+    "dich": [
+      93000,
+      94000
+    ]
+  },
+  "duong_di": [
+    {
+      "huong": "GIAM",
+      "dich": [
+        93000,
+        94000
+      ]
+    },
+    {
+      "huong": "TANG",
+      "dich": 98000
+    }
+  ],
+  "dich_chinh": 98000,
+  "han_gio": null,
+  "vo_hieu": null,
+  "lenh": [
+    {
+      "chieu": "LONG",
+      "vao": 95000,
+      "tp": 96000,
+      "sl": null,
+      "trang_thai": "da_dong"
+    },
+    {
+      "chieu": "LONG",
+      "vao": 95000,
+      "tp": [
+        96000,
+        96500
+      ],
+      "sl": 95000,
+      "trang_thai": "de_xuat_moi"
+    },
+    {
+      "chieu": "LONG",
+      "vao": [
+        93000,
+        94000
+      ],
+      "tp": null,
+      "sl": null,
+      "trang_thai": "de_xuat_moi"
+    }
+  ],
+  "hanh_dong": "dung_ngoai_cho_entry",
+  "khung_lon": {
+    "D1": "Nến ngày xanh; đáy cao dần và đỉnh cao dần → xu hướng đang lên, không short; giá đang test MA89 D1 (vùng cản, vùng vàng 96-100). Fibo D1: 0.5 = 103k, 0.618 = 109k; nến ngày đóng trên 109k mới có nhịp tăng dài hạn.",
+    "W1": "Quan điểm nhịp tăng chỉ là sóng hồi / 'hồi quang phản chiếu', không phải altcoin season; Q1/2026 giảm."
+  },
+  "pha_vo_gia": "Hôm qua thị trường 'trap' một vùng liquid 89k (không về lấy mà bay lên). Nến tăng sáng nay đẹp nhưng 'khá lừa', kiểu này win rate chỉ 30-40%.",
+  "nhin_lai_view_truoc": {
+    "view_truoc": "TANG",
+    "giu_hay_doi": "giu",
+    "vi_sao": "Chạm đích: giá lên vùng vàng 96 (Fibo mở rộng + MA89 D1) = hoàn thành mục tiêu 1 nên phải hành động chốt; nhưng nến ngày xanh, đáy và đỉnh cao dần, chưa có dấu hiệu đảo chiều nên vẫn giữ view tăng, không short, có thể lên 98 (vẫn trong mục tiêu 1).",
+    "gio": "[00:13:13]",
+    "trich": "Nhưng vùng này là vùng chúng ta đã đạt target đầu tiên, có target thì phải có hành động. Coi như xong mục tiêu đầu tiên."
+  },
+  "trendline": [
+    {
+      "khung": "D1",
+      "loai": "kenh",
+      "noi_tu": "Range/trendline nối các vùng cản trên khung ngày (tắt indicator đi để thấy); điểm hiện tại (~96k) cũng là một điểm cản; biên giá tăng có thể lên 98k. Không nói điểm neo cụ thể.",
+      "diem_neo": [],
+      "gia_duong_luc_noi": null,
+      "trang_thai": "dang_giu",
+      "dieu_kien_pha": "Qua khỏi vùng 96-100 lên trên 100k-105k mới nói tới vùng mục tiêu thứ hai",
+      "ket_luan_huong": "TANG",
+      "gio": "[00:14:14]",
+      "trich": "Kết hợp khi tắt mấy cái này đi thì thấy đây là một range, hoặc trend line chúng ta vẽ những cản với nhau. Hiện tại điểm này cũng là một điểm cản. Còn nếu nó đi theo range, vùng giá tăng, biên giá này thì có khả năng lên được 98."
+    }
+  ],
+  "nen_volume": [
+    {
+      "khung": "H4",
+      "nen": "Râu trên ở 96k (đỉnh đêm qua)",
+      "volume": null,
+      "ket_luan": "Dễ lên test lại râu 96k; tệ cũng lên 95k",
+      "gio": "[00:03:16]",
+      "trich": "Nhịp này đi như này thì dễ lên test lại cái râu ở 96.000. Hay là làm tí nhỉ? Tệ cũng lên được 95.000."
+    },
+    {
+      "khung": "M15",
+      "nen": "Nến tăng đẹp",
+      "volume": null,
+      "ket_luan": "Nến khá lừa, win rate 30-40% → long thì đánh nhỏ",
+      "gio": "[00:03:53]",
+      "trich": "Nến khá đẹp nhưng nến này khá là lừa. Thường đi kiểu này thì tỉ lệ win khoảng 30 đến 40% thôi."
+    },
+    {
+      "khung": "D1",
+      "nen": "Nến ngày xanh mạnh",
+      "volume": null,
+      "ket_luan": "Không nên short; tạm bỏ qua sự hưng phấn",
+      "gio": "[00:14:14]",
+      "trich": "Với cây nến ngày như này lời khuyên của mình là không nên short."
+    },
+    {
+      "khung": "M15",
+      "nen": "Nến 15 phút đóng thủng 95k",
+      "volume": null,
+      "ket_luan": "Thoát lệnh long scalp",
+      "gio": "[00:20:38]",
+      "trich": "Stop loss: khi nến 15 phút đóng thủng khỏi vùng 95 thì chúng ta thoát."
+    },
+    {
+      "khung": "M15",
+      "nen": "Màu nến hiện tại (yếu)",
+      "volume": null,
+      "ket_luan": "Tí nữa về 95, xả thêm rồi chờ lên tiếp",
+      "gio": "[00:51:00]",
+      "trich": "Thôi màu này thì chắc là tí nữa nó về 95, tìm đường xả thêm một tí rồi lại chờ lên tiếp thôi."
+    }
+  ],
+  "cach_lam": [
+    {
+      "hanh_dong": "ve",
+      "cong_cu": "fibo_mo_rong",
+      "chi_tiet": "Vùng màu vàng vẽ từ rất sớm theo Fibo mở rộng",
+      "ket_qua": "Fibo 98k, range 96-100k = mục tiêu 1 (đã đạt)",
+      "gio": "[00:13:13]",
+      "trich": "Anh em thấy vùng màu vàng này, mình vẽ từ rất sớm. Lý do có vùng này: đầu tiên là Fibo mở rộng. Fibo ở đây có một vùng ở 98.000, tức range trải dài từ 96 đến 100."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "ema",
+      "chi_tiet": "MA89 khung ngày",
+      "ket_qua": "Trùng vùng vàng ~96k → vùng cản, đánh nhỏ té sớm",
+      "gio": "[00:19:37]",
+      "trich": "chúng ta để ý BTC cũng test MA89 ở khung ngày. Vùng này là vùng cản, anh em đánh phải đánh nhỏ và té sớm, không phải vùng để ở lại lâu."
+    },
+    {
+      "hanh_dong": "ke",
+      "cong_cu": "trendline",
+      "chi_tiet": "Tắt indicator, vẽ range/trendline nối các cản trên D1",
+      "ket_qua": "Biên giá tăng có thể lên 98k",
+      "gio": "[00:14:14]",
+      "trich": "Kết hợp khi tắt mấy cái này đi thì thấy đây là một range, hoặc trend line chúng ta vẽ những cản với nhau."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "dinh_day_cu",
+      "chi_tiet": "Đáy và đỉnh trên D1",
+      "ket_qua": "Đáy cao dần, đỉnh cao dần → xu hướng lên, không short",
+      "gio": "[00:14:14]",
+      "trich": "Đáy cao dần và hiện tại tiếp tục tạo đỉnh cao dần, rõ ràng là xu hướng đang lên."
+    },
+    {
+      "hanh_dong": "ke",
+      "cong_cu": "khac",
+      "chi_tiet": "Gap CME mới",
+      "ket_qua": "Gap mới ở 90k và 95k; xóa gap đã lấp",
+      "gio": "[00:08:16]",
+      "trich": "Lại có gap mới ở 90 và gap mới ở 95. Gap này thì đã xong, chúng ta xóa đi."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "ema",
+      "chi_tiet": "MA trên khung 30 phút và H1",
+      "ket_qua": "Vùng long đẹp: 30 phút ~94k, H1 ~93k",
+      "gio": "[00:16:25]",
+      "trich": "Trong ngắn hạn chờ về vùng nào thì long: đẹp nhất là vùng 30 phút khoảng 94 hoặc H1 khoảng 93."
+    },
+    {
+      "hanh_dong": "do",
+      "cong_cu": "ema",
+      "chi_tiet": "MA34 khung 30 phút (đã test 1 lần, kém uy tín); MA34 H1 trùng MA89 30 phút",
+      "ket_qua": "93.000 là điểm chờ long chiều/tối",
+      "gio": "[00:28:27]",
+      "trich": "Thứ hai là chờ ở 93.000: MA34 trên khung H1 trùng với MA89 trên khung 30 phút, có thể chờ ở đây vào chiều hoặc tối."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "heatmap",
+      "chi_tiet": "Liquidation map",
+      "ket_qua": "Có liquid 93k nhưng không đủ hấp dẫn để giá quay về ngay",
+      "gio": "[00:17:26]",
+      "trich": "Về liquid, có bạn nói 93, rõ ràng có một vùng liquid nhưng không phải vùng quá hấp dẫn để giá đi về."
+    },
+    {
+      "hanh_dong": "do",
+      "cong_cu": "fibo_thoai_lui",
+      "chi_tiet": "Fibo khung nến ngày (sóng giảm lớn)",
+      "ket_qua": "0.5 = 103.000, 0.618 = 109.000",
+      "gio": "[00:35:31]",
+      "trich": "Fibo của khung nến ngày nằm Fibo 0.5 ở 103.000 và Fibo 0.618 ở 109.000."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "Fear & Greed (phụ đề ghi 'Fibo')",
+      "ket_qua": "Lên 48",
+      "gio": "[00:19:37]",
+      "trich": "Fibo tiếp tục lên 48. Anh em nào mua ETH hôm qua, hôm nay bán hợp lý đánh theo Fibo cũng ăn"
+    }
+  ],
+  "vung_nguoi_do": [
+    {
+      "loai": "dich",
+      "tu": 96000,
+      "den": 96000,
+      "gio": "[00:03:16]",
+      "trich": "dễ lên test lại cái râu ở 96.000."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 90000,
+      "den": 90000,
+      "gio": "[00:08:16]",
+      "trich": "Lại có gap mới ở 90 và gap mới ở 95."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 95000,
+      "den": 95000,
+      "gio": "[00:08:16]",
+      "trich": "gap mới ở 95."
+    },
+    {
+      "loai": "dich",
+      "tu": 96000,
+      "den": 100000,
+      "gio": "[00:13:13]",
+      "trich": "Fibo ở đây có một vùng ở 98.000, tức range trải dài từ 96 đến 100."
+    },
+    {
+      "loai": "dich",
+      "tu": 100000,
+      "den": 105000,
+      "gio": "[00:14:14]",
+      "trich": "Khi nào nó qua khỏi vùng này lên trên 100.000 cho đến 105 thì lúc đó mới nói đến vùng thứ hai."
+    },
+    {
+      "loai": "vao",
+      "tu": 94000,
+      "den": 94000,
+      "gio": "[00:16:25]",
+      "trich": "đẹp nhất là vùng 30 phút khoảng 94 hoặc H1 khoảng 93."
+    },
+    {
+      "loai": "vao",
+      "tu": 93000,
+      "den": 93000,
+      "gio": "[00:28:27]",
+      "trich": "Thứ hai là chờ ở 93.000"
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 93000,
+      "den": 93000,
+      "gio": "[00:24:04]",
+      "trich": "Ngắn hạn có liquid 93."
+    },
+    {
+      "loai": "vao",
+      "tu": 95000,
+      "den": 95000,
+      "gio": "[00:18:30]",
+      "trich": "Nếu tầm này anh em muốn long thì chia volume ở vùng giá 95.000, chia nhỏ ra mà canh."
+    },
+    {
+      "loai": "sl",
+      "tu": 95000,
+      "den": 95000,
+      "gio": "[00:20:38]",
+      "trich": "khi nến 15 phút đóng thủng khỏi vùng 95 thì chúng ta thoát."
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 96000,
+      "den": 96700,
+      "gio": "[00:24:35]",
+      "trich": "Nhịp này test hẳn râu 96.700 hay là 96.000?"
+    },
+    {
+      "loai": "tp",
+      "tu": 96500,
+      "den": 96500,
+      "gio": "[00:24:35]",
+      "trich": "Thứ hai nên chốt ở vùng khoảng 96.500."
+    },
+    {
+      "loai": "tp",
+      "tu": 96000,
+      "den": 96500,
+      "gio": "[00:28:27]",
+      "trich": "vào entry ở 95, đánh scalping lên khoảng 96.000 đến 96.500 là chốt TP."
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 103000,
+      "den": 103000,
+      "gio": "[00:35:31]",
+      "trich": "Fibo của khung nến ngày nằm Fibo 0.5 ở 103.000"
+    },
+    {
+      "loai": "vo_hieu",
+      "tu": 109000,
+      "den": 109000,
+      "gio": "[00:35:31]",
+      "trich": "Khi nào nến ngày nó đóng trên 109.000 thì may ra mới có cái nhịp tăng dài hạn."
+    },
+    {
+      "loai": "dich",
+      "tu": 98000,
+      "den": 98000,
+      "gio": "[00:54:58]",
+      "trich": "Vùng hiện tại cho đến khoảng tầm 98 hay gì đó."
+    },
+    {
+      "loai": "vao",
+      "tu": 93000,
+      "den": 94000,
+      "gio": "[00:54:58]",
+      "trich": "Giờ chờ quanh 94 hoặc là 93."
+    }
+  ],
+  "view_trung_han": [
+    {
+      "khung": "D1",
+      "huong": "TANG",
+      "dich": 98000,
+      "han": "sóng chắc kéo tới hết tuần này",
+      "mat_view_khi": null,
+      "gio": "[00:48:54]",
+      "trich": "Sóng này sẽ kéo dài đến cuối tuần này không? Mình nghĩ chắc là sẽ có, chắc là hết tuần này."
+    },
+    {
+      "khung": "M1",
+      "huong": "GIAM",
+      "dich": null,
+      "han": "quý 1/2026",
+      "mat_view_khi": "nến ngày đóng trên 109.000 (Fibo 0.618 D1) thì may ra mới có nhịp tăng dài hạn",
+      "gio": "[00:25:07]",
+      "trich": "Hỏi quý 1/26 sẽ tăng hay giảm? Giảm, theo mình."
+    },
+    {
+      "khung": "W1",
+      "huong": "GIAM",
+      "dich": null,
+      "han": null,
+      "mat_view_khi": null,
+      "gio": "[00:30:35]",
+      "trich": "Còn cá nhân mình nghĩ những nhịp tăng như này chẳng qua là hồi quang phản chiếu thôi chứ không phải nhịp Altcoin season. Đó là quan điểm cá nhân. Nhịp này mình chỉ đánh ngắn và té."
+    }
+  ],
+  "vung_tranh": [
+    {
+      "tu": null,
+      "den": null,
+      "vi_sao": "Không short lúc này: xu hướng lên, short ở đây cực kỳ nguy hiểm; muốn short phải chờ một pha lên trên rồi gãy xuống",
+      "gio": "[00:15:55]",
+      "trich": "Nếu nó gãy mà muốn short thì phải chờ có một pha lên trên này rồi gãy xuống thì may ra mới short được, chứ tầm này không thể short. Short ở đây cực kỳ nguy hiểm."
+    },
+    {
+      "tu": 96000,
+      "den": 96000,
+      "vi_sao": "Vùng MA89 D1 là vùng cản: long phải nhỏ và té sớm, không phải vùng ở lại lâu; không FOMO, chờ về 93-94",
+      "gio": "[00:19:37]",
+      "trich": "Vùng này là vùng cản, anh em đánh phải đánh nhỏ và té sớm, không phải vùng để ở lại lâu."
+    }
+  ],
+  "giu_dong": [
+    {
+      "lenh": "Long BTC 95k → 96k (người nói)",
+      "quyet_dinh": "dong",
+      "khi_nao": "Chốt mấy trăm giá khi lên 96k",
+      "gio": "[00:08:16]",
+      "trich": "Mình long từ 95k lên 96 cũng ăn được mấy trăm giá. May mà kịp chốt."
+    },
+    {
+      "lenh": "Long scalp BTC chia nhỏ quanh 95k",
+      "quyet_dinh": "dong",
+      "khi_nao": "Nến 15 phút đóng thủng 95k thì thoát",
+      "gio": "[00:20:38]",
+      "trich": "Stop loss: khi nến 15 phút đóng thủng khỏi vùng 95 thì chúng ta thoát. Đoạn này đánh long scalping nên đánh long nhỏ thôi."
+    },
+    {
+      "lenh": "Long BTC đang có lãi",
+      "quyet_dinh": "chot_mot_phan",
+      "khi_nao": "TP1 hoặc kéo SL về entry ở vùng Fibo; chốt phần còn lại ~96.500",
+      "gio": "[00:24:35]",
+      "trich": "Nếu các bạn ăn thì có hai vùng cần TP. Thứ nhất là vùng Fibo: các bạn TP1 hoặc kéo stop về entry. Thứ hai nên chốt ở vùng khoảng 96.500."
+    },
+    {
+      "lenh": "Lệnh/hàng mua ở vùng MA89 D1",
+      "quyet_dinh": "dong",
+      "khi_nao": "Té sớm, không ở lại lâu vì vùng cản",
+      "gio": "[00:19:37]",
+      "trich": "Vùng này là vùng cản, anh em đánh phải đánh nhỏ và té sớm, không phải vùng để ở lại lâu."
+    }
+  ],
+  "tin_tuc": [
+    {
+      "su_kien": "CPI Mỹ",
+      "thoi_diem": "hôm qua",
+      "nguon": "lich_kinh_te",
+      "so_lieu": "Dự đoán 0.3, thực tế 0.2 (bằng tháng trước)",
+      "anh_huong_view": "Tin rất tốt, hợp lý hóa đường giá → thị trường đẩy lên luôn; đánh long ETH sau tin",
+      "gio": "[00:17:26]",
+      "trich": "CPI hôm qua ra tin rất tốt, bằng so với tháng trước là ok rồi. Dự đoán là 0.3 mà ra số thấp hơn là 0.2 là ok. Thị trường chỉ cần tin hợp lý hóa đường giá là đẩy lên luôn."
+    },
+    {
+      "su_kien": "PPI Mỹ",
+      "thoi_diem": "tối nay",
+      "nguon": "lich_kinh_te",
+      "so_lieu": null,
+      "anh_huong_view": "Nghĩ tin cũng tốt nhưng sáng mai giá chưa chắc đã tăng",
+      "gio": "[00:20:38]",
+      "trich": "Tối nay có tin PPI, mình nghĩ cũng tốt, nhưng kết quả là sáng mai giá chưa chắc đã tăng."
+    },
+    {
+      "su_kien": "CZ nói năm nay siêu chu kỳ",
+      "thoi_diem": null,
+      "nguon": "khac",
+      "so_lieu": null,
+      "anh_huong_view": "Không đổi view: coi là hồi, khi BTC tăng thì con nào cũng có nhịp hồi",
+      "gio": "[00:23:02]",
+      "trich": "CZ nói năm nay là siêu chu kỳ. Thực tế khi BTC tăng như này thì con nào cũng sẽ có nhịp hồi."
+    }
+  ],
+  "trich_them": [
+    {
+      "gio": "[00:15:55]",
+      "cau": "Với H4, đường MA màu xanh này mình vẽ ra ở đây. Cùng lắm nó lên test thêm một phát nữa. Nếu nó gãy mà muốn short thì phải chờ có một pha lên trên này rồi gãy xuống thì may ra mới short được, chứ tầm này không thể short. Short ở đây cực kỳ nguy hiểm. Cho dù nó có về thì đó cũng là giai đoạn để tìm điểm đánh long."
+    },
+    {
+      "gio": "[00:27:23]",
+      "cau": "Nếu muốn mua hoặc long thì nên chờ, trong ngày kiểu gì cũng có điểm về đón. Những vùng này kiểu gì trong ngày cũng về, hay về phiên Âu. Ví dụ 93, 94 chiều nó về đây thì tha hồ mở mua."
+    },
+    {
+      "gio": "[00:34:55]",
+      "cau": "Nếu Bitcoin lên 99.000 và đóng nến ngày trên đó thì xác định xu hướng tăng dài hạn? Không các bạn ơi."
+    },
+    {
+      "gio": "[00:53:48]",
+      "cau": "Sóng này mình nói lại với anh em là quan điểm của mình nó chỉ là cái sóng hồi thôi."
+    }
+  ],
+  "kho": "Giá ~95.5k (tiêu đề 96K; nói entry 'có khả năng điều chỉnh về 95'). Đích 1 (96) đã chạm nên giữ view tăng tới ~98 rồi 'tính tiếp'. Không có điều kiện vô hiệu cho view H4 (chỉ có SL scalp: nến M15 đóng dưới 95k). Lệnh long 95k của người nói đã chốt ở 96k; 'Vào lệnh lâu rồi' ở 00:39:41 không rõ lệnh nào nên không ghi."
+}

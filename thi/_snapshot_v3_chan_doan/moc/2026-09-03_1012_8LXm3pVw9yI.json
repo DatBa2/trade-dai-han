@@ -1,0 +1,352 @@
+{
+  "buoi": "2026-09-03_1012_8LXm3pVw9yI",
+  "ngay": "2026-09-03",
+  "gia_btc_luc_noi": 77500,
+  "moc": [
+    {
+      "gia": 77000,
+      "gia_tren": 78000,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": null,
+      "can_cu": [
+        "biên đi ngang hiện tại"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "vẫn trong biên 77 đến 78 thôi"
+    },
+    {
+      "gia": 76000,
+      "gia_tren": 79000,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": "D1",
+      "can_cu": [
+        "biên ngày; MA khung ngày chặn"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "giá sẽ chạy trong biên từ 79 về đến 76"
+    },
+    {
+      "gia": 73000,
+      "gia_tren": 74000,
+      "vai_tro": "ho_tro",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [
+        "MA khung ngày",
+        "MA200 H4 (trùng)"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "MA khung ngày loanh quanh vùng 73, 74. Trên H4 cũng trùng với MA200 H4"
+    },
+    {
+      "gia": 76000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "râu kéo về chạm MA89 H4 (chưa test)"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "Có thể một cái râu nào đó sẽ kéo về đâu đó khoảng 76.000"
+    },
+    {
+      "gia": 75000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "mình kỳ vọng nó sẽ test đâu đó khoảng 75"
+    },
+    {
+      "gia": 79000,
+      "gia_tren": null,
+      "vai_tro": "vo_hieu",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "đóng nến trên 79 phá cấu trúc giảm",
+        "trendline giảm"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "phải qua khỏi 79.000, tức là đóng nến trên 79.000 để phá vỡ cấu trúc xu hướng giảm"
+    },
+    {
+      "gia": 78800,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "đỉnh cấu trúc giảm"
+      ],
+      "moc_gio": null,
+      "chac": false,
+      "trich": "qua khỏi 78.800 [?] ('78.008')"
+    },
+    {
+      "gia": 74000,
+      "gia_tren": null,
+      "vai_tro": "entry",
+      "huong": "TANG",
+      "khung": "H1",
+      "can_cu": [
+        "Fibo mở rộng của nhịp"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "Fibo mở rộng cho thấy nhịp này có biên điều chỉnh về đâu đó khoảng 74 hoặc 72"
+    },
+    {
+      "gia": 72000,
+      "gia_tren": 73000,
+      "vai_tro": "entry",
+      "huong": "TANG",
+      "khung": "H1",
+      "can_cu": [
+        "Fibo mở rộng",
+        "trùng khung ngày",
+        "imbalance 72-76"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "Đẹp nhất là về vùng này rồi bật lên, khoảng 72, 73, khả năng trùng với khung ngày"
+    },
+    {
+      "gia": 76000,
+      "gia_tren": null,
+      "vai_tro": "tp",
+      "huong": "TANG",
+      "khung": "H1",
+      "can_cu": [
+        "nhịp bật tối thiểu từ 72"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "đánh từ 72 lên 76 chốt thôi"
+    },
+    {
+      "gia": 72000,
+      "gia_tren": null,
+      "vai_tro": "sl",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "nếu nó thủng khỏi 72 thì cắt nhá"
+    },
+    {
+      "gia": 79000,
+      "gia_tren": null,
+      "vai_tro": "vo_hieu",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [
+        "đóng cửa trên 79"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "Trừ khi giá đóng cửa trên 79.000 thì sẽ đánh tiếp từ 79 lên khoảng 90"
+    },
+    {
+      "gia": 82000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "từ 79"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "79 lên đến 82, rồi từ 82 nếu phá qua được 83"
+    },
+    {
+      "gia": 83000,
+      "gia_tren": null,
+      "vai_tro": "vo_hieu",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "nếu phá qua được 83 sẽ đánh tiếp từ 83 lên đến 90"
+    },
+    {
+      "gia": 90000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "từ 83 lên đến 90"
+    },
+    {
+      "gia": 78000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý / heatmap (Hyblock/Coinglass)"
+      ],
+      "moc_gio": null,
+      "chac": false,
+      "trich": "liquidation hitmap còn mỗi vùng ở 78.000 [?], có khả năng quét lên 7800"
+    },
+    {
+      "gia": 76000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý / heatmap"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "Thận trọng 76, mình nghĩ vẫn có xác suất"
+    },
+    {
+      "gia": 76000,
+      "gia_tren": null,
+      "vai_tro": "tp",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "lệnh sale 77-78 hôm qua"
+      ],
+      "moc_gio": null,
+      "chac": false,
+      "trich": "giảm TP xuống khoảng quanh 76 đến 76.000 [?], TP1"
+    },
+    {
+      "gia": 77000,
+      "gia_tren": 78000,
+      "vai_tro": "nhac_lai",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "lệnh sale hôm qua"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "Hôm qua mình cho anh em sale ở vùng 77 đến 78"
+    },
+    {
+      "gia": 75000,
+      "gia_tren": null,
+      "vai_tro": "nhac_lai",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "Hôm qua định chờ về 75"
+    },
+    {
+      "gia": 77000,
+      "gia_tren": null,
+      "vai_tro": "entry",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "thủng 77"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "chờ nó thủng lại dưới 77, đuổi từ 77 về khoảng 76.000, ăn 800-1000 giá"
+    },
+    {
+      "gia": 83000,
+      "gia_tren": 85000,
+      "vai_tro": "entry",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "swing short big"
+      ],
+      "moc_gio": null,
+      "chac": false,
+      "trich": "Nếu short big 83, 85 thì ok, khả thi, chỉ sợ nó không lên đến"
+    },
+    {
+      "gia": 81000,
+      "gia_tren": null,
+      "vai_tro": "khac",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "fake out break lên 81 (câu người xem, người nói bàn tiếp)"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "Nếu fake out cao lên 81 thì mình nghĩ về 50 chứ về 60 thì hơi ít"
+    },
+    {
+      "gia": 50000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "kịch bản fake out 81"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "về 50 chứ về 60 thì hơi ít"
+    },
+    {
+      "gia": 66000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "backtest trendline"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "backtest về 66 thôi; backtest rút chân lên thì cứ chơi"
+    },
+    {
+      "gia": 79000,
+      "gia_tren": 80000,
+      "vai_tro": "khang_cu",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "hold dài chờ vượt"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "chờ lên trên vùng 79, còn không thì chờ hẳn lên trên 80"
+    },
+    {
+      "gia": 60000,
+      "gia_tren": null,
+      "vai_tro": "day_cu",
+      "huong": null,
+      "khung": null,
+      "can_cu": [
+        "số tròn - đám đông nghĩ đáy"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "đại đa số anh em nghĩ giá Bitcoin tạo đáy ở 60.000"
+    }
+  ]
+}

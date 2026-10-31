@@ -1,0 +1,84 @@
+{
+  "buoi": "2026-04-10_u6rbQNQWJAE",
+  "ngay": "2026-04-10",
+  "gio_vn": "10:00",
+  "gia_btc_luc_noi": 71500,
+  "nhan_dinh": [
+    {
+      "khung": "H4",
+      "huong": "GIAM",
+      "do_chac": "vua",
+      "dich": [69000, 70000],
+      "han": "trong ngày / trước tin CPI tối nay; có thể giao dịch quanh 69.700 hai ngày tới, qua tuần sau mới tăng",
+      "han_gio": 24,
+      "vo_hieu_khi": "SL trên đỉnh cũ ~73.000 (72.600-73.200); kéo SL về entry khi giá về 70.000-71.000",
+      "kich_ban_phu": "chỉ điều chỉnh sideway 70.000-72.000 (phe mua giữ) thì thoát short; có thể quét râu 67.000 rồi H4 đóng trên 68.000 vẫn giữ xu hướng tăng; ngắn hạn vẫn có thể lên 75-76 chỉ bằng một cái râu",
+      "ly_do": [
+        "H4 phản ứng ở Fibo, lực tăng càng lên cao càng yếu, cần điều chỉnh trước khi tăng tiếp",
+        "H1 phân kỳ RSI và volume; M5 sóng giảm; M30 vai đầu vai thường về ~70",
+        "phe long quá nhiều, cần quét stop long ở 71.000 hoặc 70-68; gap 70.000-69.000",
+        "CPI tối nay dự kiến xấu, nhìn tăng trước tin"
+      ],
+      "trich": "Nhịp này mình nghĩ anh em có thể short cản tàu một tí vì khả năng thị trường sắp đến nhịp điều chỉnh. ... TP nhịp này chắc đánh về 69 được.",
+      "doi_y": "sáng nay long scalp (thoát hòa vốn, lãi ~400 giá) vì kỳ vọng lên test đỉnh; khi lên Fibo thấy nhiều râu nến nên đổi sang short phản ứng, chỉ xem là nhịp điều chỉnh ngắn",
+      "duong_di": [
+        {"huong": "GIAM", "dich": [69000, 70000]},
+        {"huong": "TANG", "dich": 76000}
+      ]
+    },
+    {
+      "khung": "D1",
+      "huong": "TANG",
+      "do_chac": "cao",
+      "dich": [80000, 90000],
+      "han": "tháng 4; nhanh nhất qua tuần sau, hoặc cuối tháng 4",
+      "han_gio": null,
+      "vo_hieu_khi": "thủng 66.000 mới cần đổi xu hướng khung lớn",
+      "kich_ban_phu": "trong biên 66.000-72.000 cấu trúc ngày không đổi, ngồi im",
+      "ly_do": [
+        "cấu trúc khung ngày không đổi, đang phản ứng ở Fibo 0.5 năm",
+        "nhịp trước cũng lên Fibo 1 tại 74.000 rồi điều chỉnh; target 2 có thể 80 hoặc 81-82",
+        "lệnh short chỉ là đánh phản ứng ngược xu hướng, không đồng nghĩa spot phải bán"
+      ],
+      "trich": "Đối với khung ngày thì cá nhân mình vẫn giữ góc nhìn khả năng phục hồi của thị trường vẫn rất tốt ... xác suất lên 80 hoặc thậm chí 90 giai đoạn này vẫn còn đó.",
+      "doi_y": null,
+      "duong_di": null
+    }
+  ],
+  "vung_gia": {"khang_cu": [72000, 72700, 73000, 74000, 75000, 76000], "ho_tro": [66000, 67000, 68000, 69000, 70000, 71000]},
+  "lenh": [
+    {"chieu": "SHORT", "loai": "phản ứng scalping", "vao": 72000, "tp": [70000, 69800], "sl": 73200,
+     "trang_thai": "dang_giu",
+     "trich": "short ở 72.000, SL ở 73.002 và TP1 ở 70.000, TP2 ở 69.008."},
+    {"chieu": "LONG", "loai": "scalp sáng", "vao": null, "tp": null, "sl": null,
+     "trang_thai": "da_chot",
+     "trich": "Sáng nay lệnh long scalp không đến TP và quay về lại entry nên chúng ta bỏ lệnh đó. Lãi được khoảng 400 giá"}
+  ],
+  "nhin_lai_truoc": "Lệnh long sáng nay kéo SL về entry và thoát hòa (+400 giá) vì lên Fibo bị từ chối; hôm qua thị trường dao động 70.000-72.000, quét râu 73.000 rồi quay xuống; TAO hôm qua ăn 10%.",
+  "cong_cu": ["D1", "H4", "H1", "M5", "M30", "Fibo 0.5/0.618/mở rộng", "vai đầu vai M30", "RSI phân kỳ", "volume", "gap CME 70.000-69.000/67.000", "heatmap liquidation", "Coinglass", "Fear & Greed", "DXY"],
+  "tin_tuc": [
+    {"tin": "CPI tối nay (kịch bản 1.0% m/m và 3.4% y/y; kịch bản khác 0.7-0.8% m/m, y/y ~3.0)", "danh_gia": "dự kiến xấu, có thể lên trước chỉnh sau; kịch bản nửa vời sẽ khiến thị trường lên bờ xuống ruộng; GDP Mỹ giảm, PCE đúng dự kiến"}
+  ],
+  "thoi_quen": [
+    "kéo SL về entry khi giá phản ứng yếu ở kháng cự",
+    "short ngược xu hướng chỉ volume nhỏ, scalping, luôn có SL trên đỉnh",
+    "tách bạch lệnh short và vị thế spot, nhìn khung nào đánh khung đó",
+    "đừng tiếc SL, tiếc tiền thì không kiếm được tiền",
+    "đừng short ngay vùng thấp khi có cây volume mua lớn, chờ nhịp hồi test Fibo",
+    "viết kịch bản CPI nhiều nhánh để chuẩn bị"
+  ],
+  "cau_cua_mieng": [
+    "Rất nhiều anh em dính vào lỗi tiếc tiền, mà cứ tiếc tiền thì không kiếm được tiền.",
+    "Phân tích mà đúng khoảng 60 đến 70% cũng thuộc loại tốt lắm.",
+    "Bán ở đây hoảng sợ cũng là dạng FOMO."
+  ],
+  "altcoin": [
+    {"coin": "ETH", "huong": "GIAM", "ghi": "quét Fibo 0.618 đóng dưới; điều chỉnh về ~2058-2020 vẫn giữ xu hướng tăng; BTC 80.000 thì ETH khoảng 2006 (số mơ hồ)"},
+    {"coin": "TAO", "huong": "GIAM", "ghi": "gãy sâu, hồi là hồi quang phản chiếu, short được"},
+    {"coin": "BNB", "huong": "GIAM", "ghi": "vai đầu vai, thủng 596 là đi; qua 608 đóng H4 là ngược dòng"},
+    {"coin": "SOL", "huong": "GIAM", "ghi": "điều chỉnh về ~79-80 đô"},
+    {"coin": "DOG", "huong": "GIAM", "ghi": "xấu, đỉnh thấp dần"},
+    {"coin": "vàng", "huong": "GIAM", "ghi": "ngoài BTC; điều chỉnh, sell chia từ đây lên 4920"}
+  ],
+  "ghi_chu": "Số kiểu '72006/72007' hiểu là 72.600-72.700; '69.008' hiểu 69.800; '73.002' hiểu 73.200. Phần cuối (coin hold, onchain APT, lãi suất Việt Nam) là bên lề."
+}

@@ -1,0 +1,104 @@
+{
+ "buoi": "2026-10-26_1002_52C5f7Gf1NE",
+ "ngay": "2026-10-26",
+ "gio_vn": "10:02",
+ "gia_btc_luc_noi": 79600,
+ "nhan_dinh": [
+  {
+   "khung": "H4",
+   "huong": "GIAM",
+   "do_chac": "vua",
+   "dich": 78000,
+   "han": "2–3 ngày, trước giờ Fed công bố lãi suất đêm thứ Tư 29/10",
+   "han_gio": 60,
+   "vo_hieu_khi": "Nến H4 đóng trên 81.100 (vượt đỉnh hồi 81.07 + lấy lại dải EMA34 H4)",
+   "kich_ban_phu": "Sáng thứ Hai có thể hồi kỹ thuật lên 80.4–80.9 test lại vùng 80 vừa gãy rồi mới đi tiếp; về tới 78 là xong việc, không tham thêm",
+   "duong_di": [{"huong": "TANG", "dich": 80600}, {"huong": "GIAM", "dich": 78000}],
+   "doi_y": null,
+   "ly_do": [
+    "ĐỔI view vì (a): view tăng nhẹ lên 83 của buổi 23/10 đặt SL buy ở vùng 80 — H4 đã đóng dưới 80 (79.80 thứ Bảy, 79.60 sáng nay), không quét được 83 mà chỉ lên tới 82.06 rồi 81.07",
+    "Đỉnh thấp dần 84.9 → 82.06 → 81.07, đáy thấp dần 80.93 → 79.22 → cấu trúc H4 giảm rõ",
+    "Giá nằm dưới cả EMA34, EMA89, EMA200 H4 (81.25/81.98/81.89), EMA34 H4 dốc xuống",
+    "Hỗ trợ 80 đã bị test 5–6 lần trong 2 tuần → hỗ trợ test nhiều lần thì yếu",
+    "Đích 78 = Fibo mở rộng đo hai lần cùng ra 78 (nêu 23/10) + EMA89 D1 78.18"
+   ],
+   "trich": null
+  },
+  {
+   "khung": "D1",
+   "huong": "GIAM",
+   "do_chac": "vua",
+   "dich": [77000, 78000],
+   "han": "3–7 ngày",
+   "han_gio": 168,
+   "vo_hieu_khi": "Nến D1 đóng trên 81.200 (quay lại dải EMA34 D1)",
+   "kich_ban_phu": "Tin Fed thứ Tư có thể làm giá giật hai đầu; 77–78 là vùng hỗ trợ khung ngày, tới đó dễ có nhịp hồi",
+   "duong_di": null,
+   "doi_y": null,
+   "ly_do": [
+    "Giữ view D1 giảm của buổi 23/10, độ chắc tăng: chuỗi 4 nến ngày đỏ liên tiếp, không có ngày nào đóng lại trên 82",
+    "Giá đã xuống dưới hẳn dải EMA34 D1 (80.8–82.9), mục tiêu kế tiếp là EMA89 D1 78.2",
+    "Đỉnh ngày 84.9 thấp hơn hai đỉnh 87.2–87.4 → điều chỉnh khung ngày đang chuyển thành xu hướng giảm ngắn hạn",
+    "USDT.D tăng lên 6.80%, vàng −4% tuần, dầu 103 → môi trường rủi ro"
+   ],
+   "trich": null
+  },
+  {
+   "khung": "W1",
+   "huong": "PHAN_VAN",
+   "do_chac": "thap",
+   "dich": null,
+   "han": "chờ nến tuần đóng 07:00 thứ Hai 02/11 (sau Fed, trước bầu cử 3/11)",
+   "han_gio": 165,
+   "vo_hieu_khi": "Chờ nến tuần đóng: đóng dưới 79.000 (thủng EMA89 tuần + râu tuần 79.2) thì khung tuần gãy, về 75–76; đóng lại trên 82.000 mới quay lại mục tiêu 90",
+   "kich_ban_phu": "Cửa 90 hẹp dần theo thời gian",
+   "duong_di": null,
+   "doi_y": null,
+   "ly_do": [
+    "(d) Đầu tuần view lại nến tuần: tuần trước đóng 80.157 — giữ trên 80 sát nút nhưng râu trên dài 3.4% từ 84.9, ba tuần đỏ liên tiếp",
+    "Giá đang nằm ngay EMA89 tuần 79.5 và mép trên dải EMA34 tuần 79.9 = vùng công tắc khung tuần",
+    "Mốc 'mất 80' mới thủng trong tuần, nến tuần chưa đóng nên chưa xác nhận"
+   ],
+   "trich": null
+  }
+ ],
+ "vung_gia": {
+  "khang_cu": [80400, 80900, 81100, 82000],
+  "ho_tro": [79200, 78200, 77500, 76000]
+ },
+ "lenh": [
+  {"chieu": "SHORT", "loai": "limit", "vao": 80650, "tp": [78400, 77600], "sl": 81300, "trang_thai": "de_xuat_moi"}
+ ],
+ "hanh_dong": "dung_ngoai_cho_entry",
+ "giu_view": false,
+ "ly_do_doi_view": "(a) Nến đóng qua mốc sai đã báo: buổi 23/10 nghiêng tăng nhẹ lên 83 với SL buy vùng 80 — H4 đã đóng dưới 80 hai lần (79.80, 79.60), không quét được 83. H4 chuyển sang GIẢM theo đúng kịch bản phụ 77–78 đã nêu. (d) Thứ Hai view lại nến tuần: tuần đóng 80.157 có râu trên dài → khung tuần chuyển phân vân.",
+ "rau": {
+  "tren": "81.070 (H4 mở 07:00 25/10) — đỉnh hồi cuối tuần; xa hơn 82.060 (H4 mở 19:00 23/10)",
+  "duoi": "79.220 (H4 mở 19:00 24/10, râu dưới D1 24/10 dài 2%) và 79.378 (H4 sáng nay)",
+  "test_lai": "Râu dưới 79.22: CÓ — râu dài khung ngày, giá đã về sát (79.38), chặng 2 sẽ quét qua để về 78 vì dưới đó là SL phe long bắt đáy 80 và vùng trống tới EMA89 D1. Râu trên 81.07: KHÔNG — nhịp hồi chỉ tới 80.4–80.9, giữa đường có dải EMA34 H4 80.9–81.6 chắn."
+ },
+ "vung_on": [
+  {
+   "loai": "SHORT",
+   "khoang": [80400, 81000],
+   "ly_do": [
+    "Mép dưới dải EMA34 H4 80.89 + mép dưới dải EMA34 D1 80.82",
+    "Fibo 0.5–0.618 nhịp giảm H4 81.07 → 79.38 (80.22 / 80.42)",
+    "Vùng ba đáy 80.4–80.7 đã gãy, đổi vai thành kháng cự",
+    "Đỉnh hồi 81.07 ngay phía trên làm SL"
+   ]
+  },
+  {
+   "loai": "LONG",
+   "khoang": [77400, 78200],
+   "ly_do": [
+    "EMA89 D1 78.18",
+    "Fibo mở rộng đo hai lần cùng ra 78 (nêu 23/10)",
+    "EMA610 H4 77.54",
+    "Đích 77–78 của view D1 — chỉ quan sát, chốt short ở đây"
+   ]
+  }
+ ],
+ "pha_vo_gia": "Cú thủng 80 nghiêng là THẬT: vùng 80 bị test 5–6 lần, lần thủng thứ hai đóng thấp hơn lần đầu (79.80 → 79.60), các nhịp hồi cuối tuần yếu và đỉnh thấp dần. Nhưng mới 1 cây đóng dưới lần này và đang là sáng thứ Hai (G2 + G5) nên không đuổi short ở 79.6, chờ hồi test lại 80.4–80.9.",
+ "loi_binh": "Hôm nay thứ Hai, view từ thứ Sáu phải đổi anh em: SL buy vùng 80 đã bị đóng thủng, nó không quét được 83 mà đỉnh cứ thấp dần, nên mình bỏ tay ra khỏi nút long. H4 nằm dưới cả ba đường MA, khung ngày 4 cây đỏ liền, mục tiêu 78 vẫn là MA89 khung ngày với Fibo mở rộng, đo hai lần đều ra 78. Nhưng thứ Hai, giá đang sát râu 79.2 với MA89 tuần, short tầm này là hòa mình vào đám đông, chờ hồi lên 80.4–80.9 rồi mới short, tới 78 đủ mồm thì chốt. Tuần này có Fed đêm thứ Tư, tin ra thì đừng giữ lệnh qua tin."
+}

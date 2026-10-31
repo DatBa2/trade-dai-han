@@ -1,0 +1,294 @@
+[
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[0].trich",
+  "trich": "Xu hướng ngày hôm nay vẫn short. Nói chung xu hướng hôm nay là short. ... Sau cây H4 này thì tỉ lệ về 65.000 là khoảng 70%.",
+  "giay": 2751,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=orDQVRuxI1E&t=2751s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[1].trich",
+  "trich": "Còn set ở trên khung ngày thì nó vẫn chưa thay đổi gì lắm đâu.",
+  "giay": 1006,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=orDQVRuxI1E&t=1006s",
+  "anh": [
+   {
+    "file": "so_tay/khung/orDQVRuxI1E_001730.jpg",
+    "giay": 1050,
+    "lech": 44
+   }
+  ]
+ },
+ {
+  "nguon": "phieu",
+  "truong": "lenh[0].trich",
+  "trich": "Muốn long thì phải chờ một cây H4 màu xanh kéo lên, phủ nhận lại cái lực bán theo ngắn hạn này cái đã.",
+  "giay": 965,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=orDQVRuxI1E&t=965s",
+  "anh": [
+   {
+    "file": "so_tay/khung/orDQVRuxI1E_001730.jpg",
+    "giay": 1050,
+    "lech": 85
+   }
+  ]
+ },
+ {
+  "nguon": "phieu",
+  "truong": "lenh[1].trich",
+  "trich": "Ví dụ nó hồi lên đến 67 thì tính hồi lên đây tìm điểm short sau. ... Short về 65 thì cũng được nhưng quan trọng là cái điểm vào với lại cái điểm đặt stop loss.",
+  "giay": 3529,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=orDQVRuxI1E&t=3529s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[0].trich",
+  "trich": "Ở cái vùng nó đi sideway lúc mở phiên sáng khoảng 68.000. Bây giờ về có 67.000 thôi mà.",
+  "giay": 285,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=orDQVRuxI1E&t=285s",
+  "anh": [
+   {
+    "file": "so_tay/khung/orDQVRuxI1E_000530.jpg",
+    "giay": 330,
+    "lech": 45
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[1].trich",
+  "trich": "hôm qua mình cũng đã nói cái nhịp này nó khá là đẹp thì kỳ vọng đêm ngày hôm qua nó lên đến sáu mươi chín nghìn năm",
+  "giay": 771,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=orDQVRuxI1E&t=771s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[2].trich",
+  "trich": "nó đã lên đến cái target 1 là 69.000 chưa? Fibo mở rộng. Chạm Fibo rụng xuống test.",
+  "giay": 881,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=orDQVRuxI1E&t=881s",
+  "anh": [
+   {
+    "file": "so_tay/khung/orDQVRuxI1E_001430.jpg",
+    "giay": 870,
+    "lech": -11
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[3].trich",
+  "trich": "H4 cây vào lúc 15:00 chiều nay nó sẽ đóng dưới cái vùng 66.000 này là coi như là fail là gãy luôn",
+  "giay": 900,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=orDQVRuxI1E&t=900s",
+  "anh": [
+   {
+    "file": "so_tay/khung/orDQVRuxI1E_001430.jpg",
+    "giay": 870,
+    "lech": -30
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[4].trich",
+  "trich": "khi nào nó gãy khỏi cái 65 66 này, 66 cho đến 65.000 này thì lúc này nó mới bị phá cái nhịp này... Fibo này đang nằm ở Fibo 0.618 nằm ở 66.000",
+  "giay": 1023,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=orDQVRuxI1E&t=1023s",
+  "anh": [
+   {
+    "file": "so_tay/khung/orDQVRuxI1E_001730.jpg",
+    "giay": 1050,
+    "lech": 27
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[5].trich",
+  "trich": "theo khung lớn nó có thể kéo về bốn mấy, 50",
+  "giay": 937,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=orDQVRuxI1E&t=937s",
+  "anh": [
+   {
+    "file": "so_tay/khung/orDQVRuxI1E_001430.jpg",
+    "giay": 870,
+    "lech": -67
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[6].trich",
+  "trich": "Liquid thì anh em thấy là vùng lúc sáng nay 67.000 thì nó quét về dưới này... Cái vùng 67.000 này bị lụm hết",
+  "giay": 1093,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=orDQVRuxI1E&t=1093s",
+  "anh": [
+   {
+    "file": "so_tay/khung/orDQVRuxI1E_001730.jpg",
+    "giay": 1050,
+    "lech": -43
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[7].trich",
+  "trich": "Bây giờ chúng ta sẽ có một cái vùng cao ở 69.000 và gần 70. Cái vùng đi lên để quét phe short.",
+  "giay": 1106,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=orDQVRuxI1E&t=1106s",
+  "anh": [
+   {
+    "file": "so_tay/khung/orDQVRuxI1E_001730.jpg",
+    "giay": 1050,
+    "lech": -56
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[8].trich",
+  "trich": "Dưới này chúng ta có một cái vùng liquid nếu mà khung dài nó còn ở cái vùng 63 64.",
+  "giay": 1149,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=orDQVRuxI1E&t=1149s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[9].trich",
+  "trich": "trendline này nó vẫn giữ được cái vùng giá dưới này và bật lên... Nó đạp về 64 thì sẽ thực sự rất là khốc liệt",
+  "giay": 1183,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=orDQVRuxI1E&t=1183s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[10].trich",
+  "trich": "Tức là lực tăng để lên 80 thì mình nghĩ là vẫn giữ chứ nó không có sập hẳn",
+  "giay": 2318,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=orDQVRuxI1E&t=2318s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[11].trich",
+  "trich": "anh em đánh lên đây thì cứ SL 69.700 swing là xong",
+  "giay": 1345,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=orDQVRuxI1E&t=1345s",
+  "anh": [
+   {
+    "file": "so_tay/khung/orDQVRuxI1E_002130.jpg",
+    "giay": 1290,
+    "lech": -55
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[12].trich",
+  "trich": "kéo TP về 53 tối thiểu cho mình. Tối thiểu là TP53. 54 53",
+  "giay": 1350,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=orDQVRuxI1E&t=1350s",
+  "anh": [
+   {
+    "file": "so_tay/khung/orDQVRuxI1E_002130.jpg",
+    "giay": 1290,
+    "lech": -60
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[13].trich",
+  "trich": "Gồng tiếp thì TP ở 65 64.",
+  "giay": 1385,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=orDQVRuxI1E&t=1385s",
+  "anh": [
+   {
+    "file": "so_tay/khung/orDQVRuxI1E_002430.jpg",
+    "giay": 1470,
+    "lech": 85
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[14].trich",
+  "trich": "Trừ chả lẽ trend line này là vào luôn, đúng không? (nhắc đỉnh 74.000)",
+  "giay": 2709,
+  "do_giong": 0.733,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=orDQVRuxI1E&t=2709s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[15].trich",
+  "trich": "tỉ lệ về 65.000 là khoảng 70%",
+  "giay": 2789,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=orDQVRuxI1E&t=2789s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[16].trich",
+  "trich": "15% là đi ngang quanh cái vùng 66, 67 này từ giờ đến chiều (phục hồi lại 67.000 khoảng 15%)",
+  "giay": 2810,
+  "do_giong": 0.667,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=orDQVRuxI1E&t=2810s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[17].trich",
+  "trich": "nó hồi lên đến 67 thì tính hồi lên đây tìm điểm short sau... cứ kênh Fibo hoặc MA chơi",
+  "giay": 3530,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=orDQVRuxI1E&t=3530s",
+  "anh": []
+ }
+]

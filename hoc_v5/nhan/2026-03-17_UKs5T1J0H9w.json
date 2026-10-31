@@ -1,0 +1,639 @@
+{
+  "buoi": "2026-03-17_UKs5T1J0H9w",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/zip_clean/2026-03-17_UKs5T1J0H9w.txt",
+  "gia_btc_luc_noi": 74500,
+  "dau_buoi": {
+    "thien_huong_h4": "TANG",
+    "gio": "[00:09:56]",
+    "trich": "Sau cái pha pump lên khoảng 76 luôn? Chạm 76 tròn luôn? Mình tưởng 75k8 mấy thôi chứ. Giá chạy như ngựa luôn. Nhìn cái cây nến volume xanh như thế này thì tầm này là chỉ chờ nó về ở quanh cái đoạn này là chờ lên tiếp thôi"
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "TANG",
+    "do_chac": "vua",
+    "gio": "[01:00:18]",
+    "trich": "Chờ thôi anh em. Chờ thị trường phản ứng rồi tìm trong nhịp phản ứng đó chơi sau. Nó cứ đi từ từ như thế này chúng ta nên ở ngoài"
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {
+    "huong": "GIAM",
+    "dich": [
+      71500,
+      72500
+    ]
+  },
+  "duong_di": [
+    {
+      "huong": "GIAM",
+      "dich": [
+        71500,
+        72500
+      ]
+    },
+    {
+      "huong": "TANG",
+      "dich": 75000
+    },
+    {
+      "huong": "TANG",
+      "dich": 78000
+    },
+    {
+      "huong": "TANG",
+      "dich": [
+        80000,
+        81000
+      ]
+    }
+  ],
+  "dich_chinh": [
+    78000,
+    80000
+  ],
+  "han_gio": null,
+  "vo_hieu": {
+    "gia": 69000,
+    "khung": "H4",
+    "so_nen": 1,
+    "chieu": "dong_duoi",
+    "cau": "[00:37:10] Thủng vùng nào gãy trong tăng? Đoạn này mình nghĩ sẽ phải thủng 69, 70. Gãy trong tăng là thủng vùng đó."
+  },
+  "lenh": [
+    {
+      "chieu": "long",
+      "vao": [
+        71500,
+        72500
+      ],
+      "tp": [
+        75000,
+        78000,
+        80000
+      ],
+      "sl": null,
+      "trang_thai": "de_xuat_moi"
+    }
+  ],
+  "hanh_dong": "dung_ngoai_cho_entry",
+  "khung_lon": {
+    "D1": "D1 xanh liên tục (đám đông tưởng không gãy); vùng 74 → trên 85 rất mỏng, lên xuống đều nhanh; MA89 ở 78 trùng Fibo 0.5 là cản lớn — có thể lên 78 rồi chỉnh về 71 (MA34); đóng H4/D1 trên 79 thì 80–81 chỉ 1–2 nến H4; MA34 test 3–4 lần → MA89 → lần tới có thể MA200 ([00:21:31], [00:24:14]–[00:26:50]).",
+    "W1": "Không phân tích nến tuần nữa; Fibo W1 (bỏ qua một cây): 0.5 = 78.800, 0.618 = 83.000; cả sóng dài 0.5 = 93.000 (xa); trước mắt lên được 80 là đạt kế hoạch. Dài hạn: 40.000 mới bắt đầu tạo đáy ([00:22:40]–[00:23:43], [00:41:40])."
+  },
+  "pha_vo_gia": null,
+  "nhin_lai_view_truoc": {
+    "view_truoc": "TANG",
+    "giu_hay_doi": "giu",
+    "vi_sao": "Đúng như nói hôm qua: liquid lớn 74.800 bị lụm, rạng sáng quét lên 76.000; nến volume xanh → giữ view tăng; nhưng đã chạm Fibo mở rộng 1.618 (75.000) — điểm chốt lãi, gần đạt kỳ vọng nhịp hồi, còn ngưỡng cuối 78–80.",
+    "gio": "[00:33:31]",
+    "trich": "Mình xem liquid. Hôm qua lúc livestream có một vùng liquid rất lớn nằm ở 74k8, đúng rồi, sau đó [00:34:02] đến khuya nó lụm thật. 4:00 sáng nó bay lên húp luôn, quét lên tận 76.000."
+  },
+  "trendline": [
+    {
+      "khung": "D1",
+      "loai": "khang_cu_giam",
+      "noi_tu": "Cản trendline phía trên giá hiện tại (ngữ cảnh nến ngày, vùng 74–76); không nêu điểm neo",
+      "diem_neo": [
+        {
+          "ngay": null,
+          "gia": null
+        }
+      ],
+      "gia_duong_luc_noi": null,
+      "trang_thai": "chua_pha",
+      "dieu_kien_pha": null,
+      "ket_luan_huong": null,
+      "gio": "[00:24:14]",
+      "trich": "Bởi vì nó đã phá qua được cái đoạn này rồi. Chúng ta không nên short nữa. Đây có cản trendline. Nhưng mà rủi ro nó đang còn quá là lớn. Không nên short"
+    }
+  ],
+  "trich_them": [
+    {
+      "gio": "[00:17:28]",
+      "cau": "Đến cái điểm hiện tại là đã đến cái ngưỡng, 74 75 là đã đến ngưỡng rồi. Trên này nó còn một cái ngưỡng cuối ở loanh quanh khoảng 78 đến 80 nữa thôi. Và từ cái giờ này lên đến 80 thì chúng ta không biết chuyện gì nó sẽ xảy ra hết. Đã lên đến được cái thời điểm bây giờ, hôm nay là ngày thứ ba nữa là đã đến gần như là đã đạt cái kỳ vọng của cái nhịp hồi đoạn này rồi"
+    },
+    {
+      "gio": "[00:18:30]",
+      "cau": "Thì thông thường theo Fibo mở rộng thì cái điểm này là cái điểm thoát chốt lãi. Còn lại từ đây nó có lên 80 hay không đó là chuyện của thị trường."
+    },
+    {
+      "gio": "[00:24:46]",
+      "cau": "78 gần Fibo 0.5. Là nó sẽ kết hợp với cái đường MA89. Thì chắc chắn ở đây sẽ là một cái cản lớn và có thể nó lên đến 78 này sau đó nó điều chỉnh một pha về lại 71 là [00:25:17] chuyện bình thường."
+    },
+    {
+      "gio": "[00:25:47]",
+      "cau": "Còn nếu nó qua được 78 và đóng nến trên cái vùng 79 này, đóng nến H4 trên 79 hoặc là đóng nến D1 ở trên 79 thì mình nghĩ là cái con đường mà nó đi từ 79 lên đến 80 hoặc 81 này trong vòng một đêm hoặc là một hai tiếng, một hai cái H4 thôi."
+    },
+    {
+      "gio": "[00:28:52]",
+      "cau": "Có thể nó về 71k2, 71k3 rồi nó mới lên lại, bình thường. Đoạn này nó có gãy đến về tận 71k5 thì nó vẫn không có mất đi cái đà tăng đâu."
+    },
+    {
+      "gio": "[00:31:58]",
+      "cau": "khi nào mà thị trường nó đẩy những cái đồng altcoin lowcap quá thì có thể đó là một trong những cái dấu hiệu báo hiệu cái sóng tăng chuẩn bị kết thúc."
+    },
+    {
+      "gio": "[00:48:07]",
+      "cau": "Mình không view theo lãi suất, không view theo từng biến động trên thị trường mang tính dài hạn, mà dài hạn thì mình vẫn giữ nguyên một view."
+    }
+  ],
+  "nen_volume": [
+    {
+      "khung": null,
+      "nen": "Pump lên 76; trước đó có một cây nến bán to rõ",
+      "volume": "Cây nến volume xanh",
+      "ket_luan": "Chờ về quanh vùng hỗ trợ rồi lên tiếp",
+      "gio": "[00:09:56]",
+      "trich": "Nhìn cái cây nến volume xanh như thế này thì tầm này là chỉ chờ nó về ở quanh cái đoạn này là chờ lên tiếp thôi. Chờ về ở đây xem sao. Trước đó vẫn là [00:10:28] một cái cây nến bán khá là ngon, to rõ rồi."
+    },
+    {
+      "khung": "D1",
+      "nen": "Bài học cũ: hồi lên 96–98k, một cây nến đỏ xuất hiện là rụng về sáu mấy nghìn",
+      "volume": null,
+      "ket_luan": "Thị trường 2024–2028 đảo chiều rất nhanh → phải có cột mốc chốt lãi",
+      "gio": "[00:14:50]",
+      "trich": "Nhưng mà nó chỉ lên đến 98.000 và 97.000. Sau khi xuất hiện một cây nến màu đỏ này là nó rụng luôn từ chín mấy nghìn về đến sáu mấy nghìn."
+    },
+    {
+      "khung": "D1",
+      "nen": "D1 xanh liên tục",
+      "volume": "Lực mua như thế này",
+      "ket_luan": "Đám đông nghĩ không thể gãy và FOMO — cảnh báo tâm lý",
+      "gio": "[00:21:31]",
+      "trich": "Nhìn vào cây D1 này, xanh liên tục. [00:21:37] Xanh liên tục thì không thể nào mà gãy được, chúng ta nghĩ là như vậy. Lực mua như thế này mà"
+    },
+    {
+      "khung": "H4",
+      "nen": "Đóng nến H4 hoặc D1 trên 79",
+      "volume": null,
+      "ket_luan": "79 → 80–81 trong 1–2 nến H4",
+      "gio": "[00:25:47]",
+      "trich": "đóng nến H4 trên 79 hoặc là đóng nến D1 ở trên 79 thì mình nghĩ là cái con đường mà nó đi từ 79 lên đến 80 hoặc 81 này trong vòng một đêm"
+    },
+    {
+      "khung": "M30",
+      "nen": "M30 liên tục điều chỉnh, H1 liên tục nến bán; khung nhỏ lực mua nhảy vào lại",
+      "volume": "Volume xanh vẫn chiếm ưu thế chủ đạo",
+      "ket_luan": "Không thể short ngay; nếu sập cũng phải sideway hấp thụ lực mua; chờ hỗ trợ, chưa có điểm vào",
+      "gio": "[00:29:23]",
+      "trich": "30 phút vẫn liên tục điều chỉnh. Đi như thế này chúng ta chưa có điểm vào đâu. Chưa có điểm vào. H1 vẫn liên tục những cái cây nến bán. Chưa có điểm vào. 15 phút các thứ. Nhưng mà đi vào khung nhỏ anh em có thể để ý, sau khi xuất hiện những cái lực bán nhẹ ở cái nhịp tối qua thì đến cái đoạn này nó bắt đầu là lực mua nhảy vào lại phục hồi lại và cái lượng volume xanh nó vẫn đang chiếm ưu thế chủ đạo. Thì đối với một cái volume như này thì không thể nào mà short ngay lập tức được"
+    },
+    {
+      "khung": "M5",
+      "nen": "Nến nhấp nhấp, mới đi nhịp một",
+      "volume": null,
+      "ket_luan": "Long cũng sợ; chờ nhịp hai, hai đáy/ba đáy",
+      "gio": "[00:50:49]",
+      "trich": "Để xem thử có long được chưa, thấy nhấp nhấp thế này. Đi nến thế này mà long cũng sợ. Muốn long thì chắc phải chờ nhịp hai, chờ hai đáy hay ba đáy rồi tính sau"
+    },
+    {
+      "khung": "M5",
+      "nen": "Lên test/thủng thì phải chờ hồi lại tạo đáy cao hơn",
+      "volume": null,
+      "ket_luan": "Mới đánh long scalping",
+      "gio": "[00:56:11]",
+      "trich": "Anh em muốn long đoạn này 5 phút scalping thì cứ chờ, chờ nó hình thành những kiểu như này rồi chơi. Nó lên đến đây nó test hay sửa thử mà nó thủng, nếu thủng thì phải chờ nó hồi lên lại, tạo một đáy cao hơn ở đằng sau của 5 phút, lúc đó chúng ta mới đánh long"
+    }
+  ],
+  "cach_lam": [
+    {
+      "hanh_dong": "do",
+      "cong_cu": "fibo_mo_rong",
+      "chi_tiet": "H4: vẽ từ 62 → 69.9 → về 62",
+      "ket_qua": "Fibo 1 = 70.000 (chạm rồi về 0.5), 1.618 = 75.000 = điểm thoát chốt lãi",
+      "gio": "[00:17:59]",
+      "trich": "Mình vẽ lại cái Fibo ở trên H4 cho mọi người. 62 này, hồi lên 69.9 sau đó điều chỉnh về lại 62. Hãy nhìn đi. Fibo 1.618 cho kết quả ở 75.000, cái này mình nói rất là lâu rồi."
+    },
+    {
+      "hanh_dong": "do",
+      "cong_cu": "fibo_thoai_lui",
+      "chi_tiet": "W1: vẽ Fibo (bỏ qua một cây), và cả sóng dài",
+      "ket_qua": "0.5 = 78.800, 0.618 = 83.000; sóng dài 0.5 = 93.000",
+      "gio": "[00:22:40]",
+      "trich": "Vẽ Fibo từ cái điểm này đến cái điểm này. Hai cái vùng Fibo đơn thôi, 0.5 là ở 78.800. Các bạn nhớ đến những cái con số này giúp mình. 78.800 và Fibo 0.618 là ở 83. Mình sẽ lock hai cái này lại. Chúng ta sẽ có những cái cột mốc cản Fibo của cái nhịp này. Còn nếu mà đo cả cái con sóng dài này thì nó lên đến Fibo 50 là sẽ phải là 93"
+    },
+    {
+      "hanh_dong": "ke",
+      "cong_cu": "trendline",
+      "chi_tiet": "Cản trendline phía trên (D1)",
+      "ket_qua": "Có cản nhưng rủi ro short quá lớn — không short",
+      "gio": "[00:24:14]",
+      "trich": "Đây có cản trendline. Nhưng mà rủi ro nó đang còn quá là lớn. Không nên short."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "ema",
+      "chi_tiet": "MA89 ở 78 trùng Fibo 0.5; MA34 ~71; chu trình test MA34 (3–4 lần) → MA89 → MA200",
+      "ket_qua": "78 là cản mạnh; có thể chỉnh về 71",
+      "gio": "[00:24:46]",
+      "trich": "MA một tí thì chúng ta thấy là ở đây lên đến cái vùng 78. 78 gần Fibo 0.5. Là nó sẽ kết hợp với cái đường MA89."
+    },
+    {
+      "hanh_dong": "do",
+      "cong_cu": "fibo_mo_rong",
+      "chi_tiet": "Đo nhiều nhịp sóng khác nhau",
+      "ket_qua": "Fibo 1 = 75, Fibo 2 = 82; các cách đo đều cho vùng cao (78, 83)",
+      "gio": "[00:27:20]",
+      "trich": "Nếu mình dùng cái này mình đo Fibo nó cũng cho kết quả lên đến hiện tại Fibo 1 là 75 và Fibo 2 lên đến 82."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "ema",
+      "chi_tiet": "H4: giá trên EMA34, 89, kéo cụm EMA lên đẹp",
+      "ket_qua": "Không short, chờ chỉnh rồi long",
+      "gio": "[00:28:21]",
+      "trich": "Nói chung mọi người để ý thì thấy giá nằm trên đường EMA, trên 34, trên 89 và kéo EMA cái cụm này lên rất là đẹp."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "fibo_thoai_lui",
+      "chi_tiet": "M30: Fibo + EMA200 M30",
+      "ket_qua": "Hỗ trợ 72.300–72.500",
+      "gio": "[00:29:54]",
+      "trich": "Chúng ta sẽ chờ một nhẹ một phát ở Fibo xem thử thế nào nó có vùng nào. Ví dụ như khoảng 72.500 có một cái vùng hỗ trợ. Ngay cái đường EMA200 của 30 phút. 72.300, 72.500."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "BTC.D giảm + liquidation tele: thị trường đẩy altcoin lowcap/lạ, funding cao",
+      "ket_qua": "Có thể là dấu hiệu sóng tăng sắp kết thúc",
+      "gio": "[00:31:27]",
+      "trich": "Khi nó kill thì nó kill toàn BTC với ETH. Mà khi nó đẩy có những cái đồng rất là lạ"
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "USDT.D về hỗ trợ; thủng MA về MA200",
+      "ket_qua": "BTC lên được 78",
+      "gio": "[00:32:29]",
+      "trich": "USDT.D đang khá đẹp. Hôm trước mình nói, hiện tại nó đang về hỗ trợ. Đoạn này nếu nó thủng qua khỏi MA này về MA200 thì ngon. Chạm về đây thì khả năng là BTC lên được 78"
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "Gap CME",
+      "ket_qua": "Gap 74 (đang lấp), 71.800, 80",
+      "gio": "[00:32:59]",
+      "trich": "Vẫn còn gap ở 71k8, gap ngắn hạn. Nói chung gap bây giờ quá nhiều, không biết nó đi đường nào. 80 này, 74 này, 71 này."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "Fear & Greed",
+      "ket_qua": "~40 là max ping, nên lụm",
+      "gio": "[00:33:31]",
+      "trich": "Fear & Greed, mình nghĩ tầm 40 là cũng max ping ở đoạn này, anh em cũng nên lụm."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "heatmap",
+      "chi_tiet": "Liquid: hôm qua 74.800 đã bị lụm; nay vùng 72.000 còn yếu",
+      "ket_qua": "72.000",
+      "gio": "[00:34:02]",
+      "trich": "Bây giờ có một vùng ở 72.000 nhưng vùng này đang còn yếu không ăn thua."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "hyblock",
+      "chi_tiet": "Lượng long lên lại 500.000",
+      "ket_qua": "Mùi rủi ro; kéo về ~72.500 là húp ~2.400 BTC",
+      "gio": "[00:36:07]",
+      "trich": "Đoạn này đang lên lại 500.000, bắt đầu có mùi rủi ro ở đây. Ví dụ nó sẽ kéo về loanh quanh khoảng 72.500 là sẽ húp được kha khá. [00:36:39] Húp được khoảng 2.400 BTC, kha khá."
+    }
+  ],
+  "vung_nguoi_do": [
+    {
+      "loai": "khang_cu",
+      "tu": 74000,
+      "den": 75000,
+      "gio": "[00:17:28]",
+      "trich": "74 75 là đã đến ngưỡng rồi."
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 78000,
+      "den": 80000,
+      "gio": "[00:17:28]",
+      "trich": "Trên này nó còn một cái ngưỡng cuối ở loanh quanh khoảng 78 đến 80 nữa thôi."
+    },
+    {
+      "loai": "tp",
+      "tu": 75000,
+      "den": 75000,
+      "gio": "[00:17:59]",
+      "trich": "Fibo 1.618 cho kết quả ở 75.000, cái này mình nói rất là lâu rồi. Lần đầu tiên nó chạm Fibo 1 là ở 70.000, cứ ngỡ là nó lên luôn nhưng mà nó điều chỉnh về lại 0.5. Sau đó nó mới lên tiếp. Thì thông thường theo Fibo mở rộng thì cái điểm này là cái điểm thoát chốt lãi"
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 78800,
+      "den": 78800,
+      "gio": "[00:22:40]",
+      "trich": "0.5 là ở 78.800. Các bạn nhớ đến những cái con số này giúp mình."
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 83000,
+      "den": 83000,
+      "gio": "[00:22:40]",
+      "trich": "Fibo 0.618 là ở 83."
+    },
+    {
+      "loai": "dich",
+      "tu": 93000,
+      "den": 93000,
+      "gio": "[00:23:12]",
+      "trich": "nó lên đến Fibo 50 là sẽ phải là 93. Nhưng mà cái vùng trên này mình thấy là xa quá."
+    },
+    {
+      "loai": "dich",
+      "tu": 80000,
+      "den": 80000,
+      "gio": "[00:23:43]",
+      "trich": "Nhưng mà trước mắt là lên được 80 là coi như là kế hoạch."
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 78000,
+      "den": 78000,
+      "gio": "[00:24:46]",
+      "trich": "Thì chắc chắn ở đây sẽ là một cái cản lớn và có thể nó lên đến 78 này sau đó nó điều chỉnh một pha về lại 71 là chuyện bình thường. Tức là nó về nó test lại cái đường MA34. Thì lúc này chúng ta sẽ quan sát ở cái nhịp phản ứng sau đó thì mới tìm entry đánh tiếp được. Nhưng mà lên đến cái đoạn 78 này là mình cần phải yêu cầu anh em xử lý cái tài khoản nếu mà tài khoản các bạn có lãi. Với lại các bạn xác định đó là cái dòng tiền mà chúng ta đánh lướt hoặc là đánh scalping hoặc là có đòn bẩy. Thì bắt buộc ở cái vùng 78 này các bạn sẽ phải có cái động thái xử lý tài khoản. Xử lý như thế nào thì cái này mình nói nhiều rồi. Và tùy thuộc anh em. Nhưng mà phải có cái bước xử lý ở đó. Chứ không thể nào mà cứ ngơ ngẩn và bị đóng băng ở cái đoạn 78 này được. 73 thì mong lên 74, 74 mong lên 76, lên 76 lại chờ lên 78 đến khi nó lên 78 rồi lại chờ tiếp là không được. Cái cản mạnh ở cái đoạn này là 78.000"
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 71000,
+      "den": 71000,
+      "gio": "[00:24:46]",
+      "trich": "có thể nó lên đến 78 này sau đó nó điều chỉnh một pha về lại 71 là chuyện bình thường. Tức là nó về nó test lại cái đường MA34."
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 79000,
+      "den": 79000,
+      "gio": "[00:25:47]",
+      "trich": "đóng nến H4 trên 79 hoặc là đóng nến D1 ở trên 79"
+    },
+    {
+      "loai": "dich",
+      "tu": 80000,
+      "den": 81000,
+      "gio": "[00:25:47]",
+      "trich": "đi từ 79 lên đến 80 hoặc 81 này trong vòng một đêm hoặc là một hai tiếng, một hai cái H4 thôi."
+    },
+    {
+      "loai": "dich",
+      "tu": 82000,
+      "den": 82000,
+      "gio": "[00:27:20]",
+      "trich": "Fibo 1 là 75 và Fibo 2 lên đến 82."
+    },
+    {
+      "loai": "tp",
+      "tu": 75000,
+      "den": 75000,
+      "gio": "[00:27:50]",
+      "trich": "những cái vùng chúng ta cần phải xử lý là 75, 78, 80."
+    },
+    {
+      "loai": "tp",
+      "tu": 78000,
+      "den": 78000,
+      "gio": "[00:27:50]",
+      "trich": "75, 78, 80."
+    },
+    {
+      "loai": "tp",
+      "tu": 80000,
+      "den": 80000,
+      "gio": "[00:27:50]",
+      "trich": "75, 78, 80."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 71200,
+      "den": 71300,
+      "gio": "[00:28:52]",
+      "trich": "Có thể nó về 71k2, 71k3 rồi nó mới lên lại, bình thường."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 71500,
+      "den": 71500,
+      "gio": "[00:28:52]",
+      "trich": "Đoạn này nó có gãy đến về tận 71k5 thì nó vẫn không có mất đi cái đà tăng đâu."
+    },
+    {
+      "loai": "vao",
+      "tu": 72300,
+      "den": 72500,
+      "gio": "[00:29:54]",
+      "trich": "72.300, 72.500. Thì đây là những cái vùng chờ."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 74000,
+      "den": 74000,
+      "gio": "[00:32:59]",
+      "trich": "Khả năng nhịp này trong ngắn hạn nó về lấp nhẹ gap 74."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 71800,
+      "den": 71800,
+      "gio": "[00:32:59]",
+      "trich": "Vẫn còn gap ở 71k8, gap ngắn hạn."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 72000,
+      "den": 72000,
+      "gio": "[00:34:02]",
+      "trich": "Bây giờ có một vùng ở 72.000 nhưng vùng này đang còn yếu không ăn thua."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 72500,
+      "den": 72500,
+      "gio": "[00:36:07]",
+      "trich": "Ví dụ nó sẽ kéo về loanh quanh khoảng 72.500 là sẽ húp được kha khá."
+    },
+    {
+      "loai": "vo_hieu",
+      "tu": 69000,
+      "den": 70000,
+      "gio": "[00:37:10]",
+      "trich": "Đoạn này mình nghĩ sẽ phải thủng 69, 70. Gãy trong tăng là thủng vùng đó."
+    },
+    {
+      "loai": "vao",
+      "tu": 71500,
+      "den": 72500,
+      "gio": "[00:39:24]",
+      "trich": "Tầm này ngồi chờ quanh [00:39:54] đoạn khoảng 72.500 cho đến 71.500 thì đẹp."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 40000,
+      "den": 40000,
+      "gio": "[00:41:40]",
+      "trich": "40.000 view của mình đâu phải là đáy. 40.000 mới bắt đầu tạo đáy thôi."
+    },
+    {
+      "loai": "vao",
+      "tu": 70900,
+      "den": 71800,
+      "gio": "[00:45:03]",
+      "trich": "View về 71k8 và 70k9 mới long còn được không? Vẫn bình thường, vẫn được."
+    }
+  ],
+  "view_trung_han": [
+    {
+      "khung": "D1",
+      "huong": "TANG",
+      "dich": [
+        78000,
+        80000
+      ],
+      "han": "nhịp hồi đoạn này (đã gần đạt kỳ vọng ở 74–75)",
+      "mat_view_khi": "Thủng 69–70 là gãy trong tăng",
+      "gio": "[00:17:28]",
+      "trich": "Trên này nó còn một cái ngưỡng cuối ở loanh quanh khoảng 78 đến 80 nữa thôi"
+    },
+    {
+      "khung": "D1",
+      "huong": "GIAM",
+      "dich": null,
+      "han": "sau tin lãi suất (rạng sáng thứ Năm) → thứ Sáu; cuối tuần không yên",
+      "mat_view_khi": "Điều kiện: chỉ khi trước tin thị trường đẩy căng lên 78–80",
+      "gio": "[00:34:33]",
+      "trich": "Từ giờ cho đến ngày mai, tức là trước khi ra tin lãi suất, nếu thị trường vẫn tiếp tục đẩy căng nữa thì khả năng sau tin lãi suất là sập. Khoảng rạng sáng ngày thứ năm ra tin lãi suất, sau đó nó còn đi sideway hoặc tăng vài nhịp nhỏ, nhưng khả năng đến thứ sáu là thị trường sẽ sập."
+    },
+    {
+      "khung": "W1",
+      "huong": "TANG",
+      "dich": [
+        78800,
+        83000
+      ],
+      "han": null,
+      "mat_view_khi": null,
+      "gio": "[00:22:40]",
+      "trich": "0.5 là ở 78.800. Các bạn nhớ đến những cái con số này giúp mình. 78.800 và Fibo 0.618 là ở 83. Mình sẽ lock hai cái này lại. Chúng ta sẽ có những cái cột mốc cản Fibo của cái nhịp này"
+    },
+    {
+      "khung": "M1",
+      "huong": "GIAM",
+      "dich": 40000,
+      "han": null,
+      "mat_view_khi": null,
+      "gio": "[00:41:40]",
+      "trich": "Còn giữ view đáy 40.000 để gom không? 40.000 view của mình đâu phải là đáy. 40.000 mới bắt đầu tạo đáy thôi."
+    }
+  ],
+  "vung_tranh": [
+    {
+      "tu": 74000,
+      "den": 85000,
+      "vi_sao": "Không short: vùng 74 → trên 85 rất mỏng, đã phá qua; có cản trendline nhưng rủi ro quá lớn; qua 79 thì lên 80–81 rất nhanh",
+      "gio": "[00:23:43]",
+      "trich": "Qua cái nến ngày này chúng ta thấy anh em thấy là cái vùng từ giá hiện tại đó là 74 lên đến cái vùng ở trên 85 rất là mỏng. Và khi nó xuống nó xuống rất là nhanh. Cho nên bây giờ nó lên nó cũng lên rất là nhanh. Thì sẽ hiểu ở đây là gì? Không nên short. Đơn giản thế thôi"
+    },
+    {
+      "tu": 74000,
+      "den": 75000,
+      "vi_sao": "Đừng FOMO long x20 ở 74 nhắm 78: đã tới ngưỡng 74–75 (Fibo 1.618 = chốt lãi), lúc này chỉ nên nghĩ chốt lãi",
+      "gio": "[00:20:04]",
+      "trich": "thay vì ngồi nghĩ đến câu chuyện giá 74 rồi, bây giờ làm lệnh long, lấy 10.000 đô x20 làm lệnh long, nghe thằng cha Eric bảo là nó có thể lên được 78, giờ mình làm liều phát lên 78 ngồi tính xem thử đánh từ đây long lên được đến đây, 20 x20 là được 80% đến 10.000 ăn được 8.000, 8.000 nhân ra tiền Việt đâu đó khoảng tầm 180 triệu, khá là êm. Thôi làm gì cho nó mệt. Giờ vào làm quả này hốt, lãi được 180 triệu là nghỉ trade từ giờ đến hết năm luôn. Trong đầu mà nghĩ những cái đó là nát"
+    }
+  ],
+  "giu_dong": [
+    {
+      "lenh": "Long/spot đang lãi (vùng 74–75)",
+      "quyet_dinh": "chot_mot_phan",
+      "khi_nao": "Fibo 1.618 (75.000) là điểm thoát chốt lãi; muốn gồng thì chốt bớt, chừa ít volume lên 78/80, không giữ 100%",
+      "gio": "[00:18:30]",
+      "trich": "Chúng ta không có quá tham lam hoặc là chúng ta muốn gồng thì cũng chốt lãi bớt đi và chừa lại một ít cái volume để gồng lên, chứ không thể nào mà giữ nguyên 100% cái vị thế để mà gồng lên đến cái vùng 78 hay là 80 được."
+    },
+    {
+      "lenh": "Vị thế đang lãi (nói chung)",
+      "quyet_dinh": "chot_mot_phan",
+      "khi_nao": "Lên kế hoạch % chốt ở từng mốc 72, 74, 76, 78, 80; ngồi nghĩ con số chốt/giữ làm mình hài lòng",
+      "gio": "[00:19:32]",
+      "trich": "Eric nói là những cái điểm nào, ví dụ 72, 74, 76 rồi 78 80. Thế thì nếu nó lên từng cái cột mốc như vậy thì mình chốt bao nhiêu phần trăm trên cái số vốn mà mình đã bỏ ra mình mua."
+    },
+    {
+      "lenh": "Tài khoản lướt/scalping/đòn bẩy đang lãi",
+      "quyet_dinh": "chot_mot_phan",
+      "khi_nao": "Bắt buộc phải có động thái xử lý tài khoản ở 78",
+      "gio": "[00:25:17]",
+      "trich": "Nhưng mà lên đến cái đoạn 78 này là mình cần phải yêu cầu anh em xử lý cái tài khoản nếu mà tài khoản các bạn có lãi. Với lại các bạn xác định đó là cái dòng tiền mà chúng ta đánh lướt hoặc là đánh scalping hoặc là có đòn bẩy. Thì bắt buộc ở cái vùng 78 này các bạn sẽ phải có cái động thái xử lý tài khoản"
+    },
+    {
+      "lenh": "Long từ 71.400 (người xem vẫn giữ)",
+      "quyet_dinh": "chot_mot_phan",
+      "khi_nao": "Mỉa mai việc giữ mãi ('đợi đến 60.000 luôn hả?') — đã tới ngưỡng, không chốt sẽ bị thị trường nhốt",
+      "gio": "[00:15:53]",
+      "trich": "Không có cột mốc để chúng ta chốt lãi thì các bạn sẽ bị giữ lại. Các bạn sẽ bị thị trường nó nhốt lại"
+    },
+    {
+      "lenh": "Short BTC (người xem) đang lãi",
+      "quyet_dinh": "dong",
+      "khi_nao": "Đủ mồm thì hốt; đã khuyên không short",
+      "gio": "[00:27:50]",
+      "trich": "Còn lại đang short thì đang có lãi rồi. Mình thì mình mở mồm ra mình đã bảo là đừng có short ở cái đoạn này rồi. Thế thôi, còn lại các bạn short thì các bạn tự quyết. Còn không thì bật email lên. SL thì email ở nhà, còn TP thì cứ đủ mồm thì hốt"
+    },
+    {
+      "lenh": "Lệnh trong nhịp tăng/giảm nhanh",
+      "quyet_dinh": "dong",
+      "khi_nao": "Cứ đến ngưỡng là đủ là cắt, nhất là phiên sáng và phiên tối",
+      "gio": "[00:38:53]",
+      "trich": "Cho nên cứ đến ngưỡng là đủ là cắt. Đặc biệt trong những ngưỡng tăng nhanh hoặc giảm nhanh, đặc biệt [00:39:24] phiên sáng và phiên tối. Phiên sáng phiên tối anh em cứ ăn."
+    }
+  ],
+  "tin_tuc": [
+    {
+      "su_kien": "FOMC – lãi suất FED",
+      "thoi_diem": "tối mai / rạng sáng ngày mốt (rạng sáng thứ Năm)",
+      "nguon": "lich_kinh_te",
+      "so_lieu": "Khả năng cao FED không giảm lãi suất",
+      "anh_huong_view": "Nếu trước tin thị trường đẩy căng (78–80) thì sau tin có thể sập, thứ Sáu sập, cuối tuần không yên; thận trọng, cân đối theo nhịp trước/sau tin",
+      "gio": "[00:34:02]",
+      "trich": "Tối ngày mai, rạng sáng ngày mốt là có tin lãi suất của FED. Khả năng cao đợt này FED không giảm lãi suất, mình nghĩ là như vậy. Nếu anh em để ý, tối nay không có tin, tối ngày mai có tin PPI. Từ giờ cho đến ngày mai, tức là trước khi ra tin lãi suất, nếu thị trường vẫn tiếp tục đẩy căng nữa thì khả năng sau tin lãi suất là sập"
+    },
+    {
+      "su_kien": "PPI Mỹ",
+      "thoi_diem": "tối mai (tối nay không có tin)",
+      "nguon": "lich_kinh_te",
+      "so_lieu": null,
+      "anh_huong_view": null,
+      "gio": "[00:34:33]",
+      "trich": "Nếu anh em để ý, tối nay không có tin, tối ngày mai có tin PPI."
+    },
+    {
+      "su_kien": "Chủ tịch FED Powell phát biểu",
+      "thoi_diem": "12h trưa giờ Mỹ thứ Bảy (tối thứ Bảy giờ VN)",
+      "nguon": "lich_kinh_te",
+      "so_lieu": null,
+      "anh_huong_view": "Tin hiếm vào cuối tuần — để ý, thị trường có thể biến động bất ngờ đêm đó",
+      "gio": "[00:35:04]",
+      "trich": "Tuần này có dịp đặc biệt hơn nữa: chủ tịch FED không nghỉ cuối tuần mà lại đi phát biểu vào 12:00 trưa theo giờ bên Mỹ, tức là tối ngày thứ bảy."
+    },
+    {
+      "su_kien": "Kỳ vọng giảm lãi suất quý sau",
+      "thoi_diem": "quý sau",
+      "nguon": null,
+      "so_lieu": null,
+      "anh_huong_view": "Không view theo lãi suất; lãi suất chỉ tác động ngắn hạn, để hợp lý hóa đường giá; dài hạn giữ nguyên view",
+      "gio": "[00:47:37]",
+      "trich": "Nếu quý sau giảm lãi suất thì thị trường sẽ lên tầm bao nhiêu? Vì sao lãi suất giảm thì thị trường lại lên? Sao không hỏi là thị trường về bao nhiêu? Cho dù lãi suất có sao đi nữa thì thị trường vẫn một view như vậy. Mình không view theo lãi suất"
+    },
+    {
+      "su_kien": "Dầu có khả năng tăng lại",
+      "thoi_diem": "hiện tại",
+      "nguon": null,
+      "so_lieu": null,
+      "anh_huong_view": "Dầu tăng thì vàng và BTC bị áp lực xả — phải quan sát kỹ",
+      "gio": "[00:59:12]",
+      "trich": "Vẫn có một rủi ro là dầu, mình nghĩ có khả năng tăng lên lại. Khi dầu tăng lên lại thì đồng nghĩa với việc vàng với BTC bị áp lực xả xuống."
+    }
+  ],
+  "kho": "Hướng chính tăng (đích 78–80, qua 79 thì 80–81), nhưng nhấn mạnh 74–75 là ngưỡng chốt lãi và nhịp hồi gần đạt kỳ vọng; đứng ngoài chờ chỉnh về 72.5–71.5. Trendline chỉ được nhắc là 'cản trendline' (2 lần, có thể cùng một đường), không nêu điểm neo. Phụ đề tự động. '78 qua 8' trong câu hỏi của người xem không rõ."
+}

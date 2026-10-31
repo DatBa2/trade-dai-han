@@ -1,0 +1,48 @@
+{
+  "buoi": "2026-09-16_1008_31jXsidP5KE",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/lam_sach/2026-09-16_1008_31jXsidP5KE.md",
+  "gia_btc_luc_noi": 75600,
+  "dau_buoi": {
+    "thien_huong_h4": "GIAM",
+    "gio": null,
+    "trich": "Góc nhìn của mình, plan của anh em ở giai đoạn này là canh theo những cú điều chỉnh của thị trường, đặc biệt là Bitcoin; đến bây giờ hoàn toàn hợp lý: thủng 76, và chúng ta vừa TP những vị thế sáng nay ở quanh vùng 75.000."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "GIAM",
+    "do_chac": "vua",
+    "gio": null,
+    "trich": "Mình view lại khung nhỏ BTC một tí rồi nghỉ. Nó đã tạo được cấu trúc sóng giảm nhẹ rồi, bắt đầu tạo cấu trúc sóng giảm; 30 phút cũng xấu rồi, đang test."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {"huong": "TANG", "dich": [76500, 77000]},
+  "duong_di": [
+    {"huong": "TANG", "dich": [76500, 77000]},
+    {"huong": "GIAM", "dich": 74000}
+  ],
+  "dich_chinh": 74000,
+  "han_gio": null,
+  "vo_hieu": null,
+  "lenh": [
+    {"chieu": "SHORT", "vao": 77000, "tp": [75000], "sl": null, "trang_thai": "da_dong"},
+    {"chieu": "SHORT", "vao": [76500, 77000], "tp": [74000], "sl": null, "trang_thai": "de_xuat_moi"},
+    {"chieu": "SHORT", "vao": 75000, "tp": [], "sl": null, "trang_thai": "de_xuat_moi"}
+  ],
+  "hanh_dong": "dung_ngoai_cho_entry",
+  "khung_lon": {"D1": "GIAM", "W1": "GIAM"},
+  "pha_vo_gia": "Cảnh báo cú thủng 76 có thể thành fake out như vùng 80 trước đó ('nó đóng lên 80 nhưng cây nến sau quay về lại vùng này - đó là một nhịp fake out ... Vùng này không loại trừ khả năng cũng có xác suất trở thành như thế cho đến khi nó xác nhận'); dự kiến hồi lên 'quét SL qua khỏi 7600 một chút rồi rút xuống lại'; đêm trước giá 'lên quét stop loss quanh 7700' rồi rơi.",
+  "trich_them": [
+    {"gio": null, "cau": "Mình chốt hết rồi, không cầm vị thế nào. Hiện tại đang clear, chờ thị trường phản ứng rồi phân tích tiếp."},
+    {"gio": null, "cau": "Ví dụ hôm qua chúng ta bắt ở 79, về đến 77 chúng ta chốt (77, 78 gì đó). Đêm qua mình cho anh em bắt tiếp ở 77, nó về đến 75 chúng ta chốt: tức biên độ khoảng 2000 giá, và có sự phục hồi trong biên độ đó."},
+    {"gio": null, "cau": "Khung ngày: 76.000 chính thức bị phá. ... Phá 76 có hai ý nghĩa. Một là xu hướng tăng trước đó không còn được giữ. ... Để xác nhận nhịp gãy sâu hơn hay không thì như thường lệ, đây mới là điều kiện cần; phải có thêm điều kiện đủ."},
+    {"gio": null, "cau": "Mình sẽ không vào vị thế buy vì nến ngày xấu, chờ xác nhận. Nếu ở đây nó muốn tăng thì cây nến ngày mai sẽ phải là một cây nến xanh mạnh."},
+    {"gio": null, "cau": "Một, cấu trúc thị trường hiện tại là cấu trúc sóng giảm hoặc có thể gọi là sóng điều chỉnh - nhưng không phải cứ nhắm mắt vào sell bừa là thắng. ... Hai, điểm vào (entry). ... Hiện tại vấn đề là entry chưa có."},
+    {"gio": null, "cau": "Tất nhiên bây giờ có thời gian, mình không cần limit hay vào quá sớm; cấu trúc thị trường đang muốn hồi, trừ khi đáy 7500 bị phá xuống thì lúc đó chúng ta tiến tiếp. Đó là góc độ scalp."},
+    {"gio": null, "cau": "Vùng từ 76.500 [?] (\"76.000 năm\") đến 77.000 là vùng kháng cự mạnh, là vùng an toàn để chờ điểm vào."},
+    {"gio": null, "cau": "Lưng chừng này nếu lên nó sẽ quét đâu đó khoảng 76.500 [?] (\"76.000 năm\"), hoặc gãy thì sẽ gãy về khoảng 74.00 [?], chưa biết nó về đâu."},
+    {"gio": null, "cau": "Còn BTC thì 70.000 này. Có thể nhịp này lợi dụng tin nó đẩy về 2000 hoặc 70.000. ... biết đâu bất ngờ, ngày mai chúng ta có giá 69.000. ... Mình nhắc lại: hiện tại tất cả setup và cấu trúc thị trường đều xấu."},
+    {"gio": null, "cau": "Ở đây không có điều kiện xác nhận cụ thể, vì nó rất giằng co. Xu hướng lớn vẫn là tăng, nên đây là đoạn điều chỉnh, rất khó để xác nhận gãy sập thực sự."},
+    {"gio": null, "cau": "Khung tuần xấu, khung ngày xấu."}
+  ],
+  "kho": "File không có mốc giờ. Hướng giảm rõ (đã chốt short 77→75, chờ hồi 76.5–77 để short lại) nhưng đích sau đó không chốt một số: thanh lý 74, Fibo/backtest 70, Fibo mở rộng 69 'không bám vào quá' → ghi đích chính 74 (gần nhất). Không nêu mốc vô hiệu bằng giá, chỉ nói 'nến ngày mai phải là cây nến xanh mạnh' nếu muốn tăng. Có câu mâu thuẫn 'xu hướng lớn vẫn là tăng' vs 'khung tuần xấu, khung ngày xấu'. Tin Fed đêm nay có thể đảo mọi thứ."
+}

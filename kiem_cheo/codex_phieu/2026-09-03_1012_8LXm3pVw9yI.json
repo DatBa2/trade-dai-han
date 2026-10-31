@@ -1,0 +1,39 @@
+{
+  "buoi": "2026-09-03_1012_8LXm3pVw9yI",
+  "gia_btc_luc_noi": null,
+  "dau_buoi": {
+    "huong_h4": "GIAM",
+    "trich": "§ Khung ngày và H4: Cấu trúc H4 hiện tại vẫn là cấu trúc sóng giảm: đỉnh đáy cứ kéo thấp dần. ... vẫn là xu hướng xấu, xu hướng đi xuống"
+  },
+  "cuoi_buoi": {
+    "huong_h4": "GIAM",
+    "trich": "§ Chốt buổi: H4 thì khả năng vẫn đóng loanh quanh chỗ này, vẫn dưới đường MA này thôi."
+  },
+  "doi_y_giua_buoi": false,
+  "huong_lon": {
+    "D1": "GIAM",
+    "W1": "GIAM",
+    "chu_ky": "GIAM"
+  },
+  "hanh_dong": "giu_lenh",
+  "duong_di": [
+    {
+      "huong": "TANG",
+      "dich": 78000,
+      "khung": "H1"
+    },
+    {
+      "huong": "GIAM",
+      "dich": 76000,
+      "khung": "H4"
+    }
+  ],
+  "dich_chinh": 76000,
+  "moc_sai": {
+    "gia": 79000,
+    "dieu_kien": "Đóng nến trên 79.000/phá trendline, phá cấu trúc giảm trước đó mới nghĩ đến long (§ Khung ngày và H4)."
+  },
+  "pha_vo_gia": "§ Kịch bản fake out: người xem hỏi break giả lên 81.000 rồi về 60.000; người nói đáp nếu fake out cao lên 81.000 thì có thể về 50.000. Chỉ là giả định, không là đường chính.",
+  "do_chac": "cao",
+  "ghi_chu": "Đã đọc hết transcript. Giá đang trong biên 77.000–78.000, không có tick rõ nên null. Giữ short đã vào hôm qua 77.000–78.000; cuối nâng TP1 từ 75.000 lên khoảng 76.000 do lực khó về 75.000. Điều chỉnh đích không phải đổi hướng H4. Khả năng quét 78.000 trước khi giảm là nhịp trong ngày. Kịch bản dài hơn xuống 74.000/72.000 rồi long 72.000→76.000 chỉ thực hiện sau khi xem nến; không gắn các nhánh loại trừ vào đường short đang giữ. Mốc 72.000 là SL của long hồi tương lai, không thay cho mốc sai của H4 giảm."
+}

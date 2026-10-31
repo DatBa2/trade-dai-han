@@ -1,0 +1,49 @@
+{
+  "buoi": "2026-05-19_sWk33q2YCj4",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/zip_clean/2026-05-19_sWk33q2YCj4.txt",
+  "gia_btc_luc_noi": 76000,
+  "dau_buoi": {
+    "thien_huong_h4": "GIAM",
+    "gio": "[00:03:17]",
+    "trich": "Xu hướng thì vẫn là giảm thôi, vẫn là ưu tiên short nhưng mà nếu mà chúng ta vào một cái entry xấu và FOMO thì cực kỳ rủi ro."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "GIAM",
+    "do_chac": "thap",
+    "gio": "[01:02:54]",
+    "trich": "BTC vẫn đứng ở đây. BTC đứng ở đây có điều xấu: long sẽ phải cẩn thận là giá tiếp tục đóng gãy khỏi đường MA cuối cùng này. Hôm qua nó đóng gãy sau đó phục lên nhưng bây giờ không thành công rồi. Nhịp gãy thứ hai này cũng rủi ro. Có vẻ là căng rồi. Khả năng vùng dưới này vẫn có xác suất ở 75.000 đấy."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {"huong": "GIAM", "dich": [75000, 75600]},
+  "duong_di": [
+    {"huong": "GIAM", "dich": [75000, 75600]}
+  ],
+  "dich_chinh": [75000, 75600],
+  "han_gio": null,
+  "vo_hieu": null,
+  "lenh": [
+    {"chieu": "SHORT", "vao": null, "tp": [75600], "sl": 77000, "trang_thai": "de_xuat_moi"},
+    {"chieu": "LONG", "vao": 75000, "tp": [], "sl": 74000, "trang_thai": "de_xuat_moi"},
+    {"chieu": "SHORT", "vao": [78000, 79000], "tp": [], "sl": null, "trang_thai": "de_xuat_moi"}
+  ],
+  "hanh_dong": "dung_ngoai_cho_entry",
+  "khung_lon": {"D1": "GIAM", "W1": "GIAM"},
+  "pha_vo_gia": "Trong chuỗi đỏ từ 82 xuống 'chỉ có một ngày hồi lên và cây này khá là lừa. Cây này là cây trap' [00:11:11]; nhịp hồi có thể quét qua 78.000/79 để thanh lý người short mới vào theo H4 rồi mới giảm.",
+  "trich_them": [
+    {"gio": "[00:06:37]", "cau": "Có vẻ là giá nó vẫn đang khá là bám trong cái trend này... Nếu mà khớp cái khung này thì nó sẽ về đâu đó là quanh 70 cũng khá là hợp lý thôi."},
+    {"gio": "[00:11:45]", "cau": "Từ khung tuần, khung ngày, khung H4 cho đến những cái khung nhỏ hơn thì tất cả đều là xu hướng giảm. Nhưng mà không có nghĩa là cái đoạn này nó sẽ gãy hẳn về đến 70 mà nó vẫn có khả năng xảy ra những cái nhịp hồi."},
+    {"gio": "[00:12:17]", "cau": "Nếu nó gãy khỏi 75 này thì gần như cái xác suất là nó đi về 70 rất là cao, cực kỳ cao. Cho nên cái vùng 75 này theo cá nhân mình đánh giá là một cái vùng hỗ trợ. 74.8 75 này."},
+    {"gio": "[00:13:22]", "cau": "Nếu mà cái nhịp này phục hồi lên thì mình vẫn giữ quan điểm là nó sẽ phá qua khỏi cái vùng 7800... Cho nên trong những cái nhịp hồi lên có thể nó sẽ quét qua khỏi cái vùng 7800 hoặc thậm chí vào phiên Mỹ nó quét lên 79 là chuyện bình thường."},
+    {"gio": "[00:14:24]", "cau": "Và cái điều kiện tiếp theo đó là nó sẽ hồi lên phá qua khỏi cái vùng 7700 này thì cái khả năng rất là cao nó sẽ lên được khoảng 78."},
+    {"gio": "[00:16:01]", "cau": "Phải chờ nó có một cái nhịp hồi lên thì may ra mới có entry short... cái khả năng mà phục hồi tức là nó có một cái cú hồi ở đây thì cái xác suất xảy ra nó lại càng cao hơn cả ngày hôm qua nữa."},
+    {"gio": "[00:18:10]", "cau": "Tức là nếu nó về được cái vùng quét qua về đến 75.000 về đến đây. SL khoảng nghìn giá... Còn không nữa thì các bạn sẽ phải chờ nó hồi lên đâu đó quanh cái vùng này. Quanh cái vùng khoảng 78.000 cho đến 79.000. Rồi lại đánh tiếp. Còn lại cái vùng ở giữa này rất là khó chơi."},
+    {"gio": "[00:43:56]", "cau": "Chỉ số quét hai đầu, mình thấy nó vẫn đứng im. Khả năng là tăng. Nhịp này khả năng không short được."},
+    {"gio": "[00:49:38]", "cau": "Nhưng nói chung mình nghĩ vùng dưới này, nó quét về dưới này bật lên là ok, anh em có thể lựa chọn vùng này tham khảo một view long sóng hồi ở vùng 75, 7500."},
+    {"gio": "[00:50:15]", "cau": "Bởi vì nếu nó lên 79 mà chúng ta thấy khối lượng lệnh short này vẫn còn rất dày... thì có thể giá đẩy lên tiếp 83. Vẫn còn gap 83. Cho nên không có gì chắc chắn."},
+    {"gio": "[00:55:14]", "cau": "Lên 83 mà gọi là mất đi xu hướng giảm thì cũng chưa chắc, bởi vì lên đây nó vẫn là lên test lại cái cản này thôi."},
+    {"gio": "[01:03:32]", "cau": "Cho nên đừng long vội vàng quá. Làm gì cũng phải tuân thủ xu hướng. Đôi khi thuận xu hướng nó vẫn đi tiếp. Tầm này chắc chắn phải chấp nhận khả năng bị quét SL rất cao. Nếu anh em muốn short thì SL là 7700."},
+    {"gio": "[01:04:05]", "cau": "75.600 là TP. Nếu các bạn muốn xổ số là như vậy."}
+  ],
+  "kho": "Xu hướng chính GIAM trên mọi khung nhưng phần lớn buổi nghiêng nhịp hồi kỹ thuật lên 78-79 (thậm chí 83) để quét short trước, gợi ý cả long 75 (ngược xu hướng) lẫn short 78-79; cuối buổi thấy hồi 'không thành công', nghiêng về 75k và đưa short SL 77.000 TP 75.600 nhưng tự gọi là 'xổ số' → độ chắc thấp. Đích H4 gần lấy 75-75.6k; 70k chỉ là kịch bản có điều kiện (thủng 75). Không có mốc vô hiệu view H4 (lên 83 vẫn 'chưa chắc mất xu hướng giảm'); 77.000 là SL lệnh scalp/điều kiện H1 cho nhịp hồi. Lệnh short 'xổ số' vào ở giá hiện tại (~76k) nên vao = null."
+}

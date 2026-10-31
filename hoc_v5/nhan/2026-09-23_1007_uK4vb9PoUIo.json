@@ -1,0 +1,384 @@
+{
+  "buoi": "2026-09-23_1007_uK4vb9PoUIo",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/lam_sach/2026-09-23_1007_uK4vb9PoUIo.md",
+  "gia_btc_luc_noi": 86500,
+  "dau_buoi": {
+    "thien_huong_h4": "TANG",
+    "gio": null,
+    "trich": "Kháng cự: 77-78 (đặc biệt đỉnh cũ 78.300 [?]); hiện có vẻ nó sẽ lên test lại đỉnh này. Nếu break và đóng vượt qua thì target 88, 90 và 93."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "TANG",
+    "do_chac": "thap",
+    "gio": null,
+    "trich": "Kiểu này thì xác suất break khỏi vùng trên và đi lên sẽ cao hơn xác suất kịch bản đi xuống; cao hơn thôi chứ không chắc chắn. Theo thực nghiệm của mình trong thị trường, mình đánh giá khả năng đi lên cao hơn. ... An toàn thì tốt nhất chờ nó out ra khỏi vùng này; chắc trong ngày hôm nay hoặc tối sẽ có kết quả."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {
+    "huong": "TANG",
+    "dich": 88000
+  },
+  "duong_di": [
+    {
+      "huong": "TANG",
+      "dich": [
+        88000,
+        93000
+      ]
+    }
+  ],
+  "dich_chinh": [
+    88000,
+    93000
+  ],
+  "han_gio": null,
+  "vo_hieu": {
+    "gia": 85000,
+    "khung": "H4",
+    "so_nen": 1,
+    "chieu": "dong_duoi",
+    "cau": "Hỗ trợ gần: 85 đến 86. ... Khi giá bắt đầu thủng 85 thì xem xét khả năng về các vùng này."
+  },
+  "lenh": [],
+  "hanh_dong": "dung_ngoai_cho_entry",
+  "khung_lon": {
+    "D1": "TANG",
+    "W1": null
+  },
+  "pha_vo_gia": "Theo USDT.D (rướn về 6.1 rồi hồi), BTC có thể còn một nhịp quét qua râu đỉnh, ví dụ lên 87.000, rồi mới đi xuống — 'nhịp như vậy cũng không thể hiện được nhiều vì nó chỉ lên rồi bị kéo xuống'.",
+  "trich_them": [
+    {
+      "gio": null,
+      "cau": "Nhưng mô hình này: đáy kéo cao dần và đỉnh đi ngang. Từ thứ hai đến giờ thị trường luôn muốn điều chỉnh nhưng đám đông vẫn tiếp tục mua ở vùng giá cao, nghĩa là đại đa số đang muốn đẩy giá lên."
+    },
+    {
+      "gio": null,
+      "cau": "H4 bắt đầu có xác suất (không chắc chắn) lên test đỉnh và hình thành mô hình hai đỉnh; và back test về lại vùng MA là không loại trừ, tức về lại hỗ trợ 82-83 vẫn còn xác suất."
+    },
+    {
+      "gio": null,
+      "cau": "Nếu muốn confirm chắc chắn để đảo chiều/điều chỉnh đi xuống và đánh short, nếu là mình thì chờ một điểm breakout ở dưới này mới chắc chắn, an toàn, rồi đánh về khoảng 85 hoặc 84 rồi tính tiếp"
+    },
+    {
+      "gio": null,
+      "cau": "USDT.D: mình nghĩ xác suất rất cao nó rướn một nhịp về 6.1 để test Fibo 0.618 rồi mới phục hồi đi lên. Tức thị trường mình đoán còn một nhịp tăng nữa, chưa biết đến bao nhiêu; có thể nó rướn quét qua khỏi râu này, ví dụ quét lên 87.000 rồi mới đi xuống"
+    },
+    {
+      "gio": null,
+      "cau": "Mình không làm gì ở đây, vẫn chờ thị trường điều chỉnh."
+    },
+    {
+      "gio": null,
+      "cau": "Đoạn này cần phòng thủ chứ không phải tấn công. ... Cuối nghĩa là nó đang đứng trước xác suất bị điều chỉnh rất cao. Thận trọng là không thừa."
+    },
+    {
+      "gio": null,
+      "cau": "Bitcoin vừa đóng một cây H4 khá xanh, nhưng vẫn không out ra khỏi view hiện tại; view vẫn thế, vẫn các vùng này."
+    },
+    {
+      "gio": null,
+      "cau": "Muốn nó gãy thì phải chứng kiến pha phá khỏi trendline này; còn không thì mọi người đừng cố đi cản tàu."
+    }
+  ],
+  "kho": "Transcript không có mốc giờ. Phụ đề ghi kháng cự '77-78 (đỉnh cũ 78.300 [?])' rõ là lỗi chữ — theo mạch (giá 86–87, 'thực tế 87.000 là đỉnh rồi', target sau khi phá là 88/90/93) phải là 87–88. Người nói nói rõ xác suất phá lên cao hơn (tam giác đáy cao dần) nhưng đồng thời nhấn mạnh 'xác suất bị điều chỉnh rất cao', khả năng hai đỉnh H4 về 82–83, và USDT.D gợi ý 'lên nốt rồi đi xuống' → TANG độ chắc thấp. Đích chính ghi khoảng 88–93 theo chuỗi target 88, 90, 93 (điều kiện phá và đóng trên đỉnh ~87).",
+  "nhin_lai_view_truoc": {
+    "view_truoc": "GIAM",
+    "giu_hay_doi": "giu",
+    "vi_sao": "Tự nói view/plan không đổi vì BTC chưa thay đổi: hôm qua về hỗ trợ 85-86 rồi bật lên (không thủng, chưa về 84/82-83); vẫn kẹp 86-87, phá kháng cự trên mới lên 88-90-93, thủng 85 mới xét 82-83.",
+    "gio": null,
+    "trich": "View lên 93 [?], view về 70 hiện không thay đổi gì vì từ hôm qua đến bây giờ Bitcoin vẫn chưa thay đổi. Anh em vẫn dùng view của hôm qua trên channel"
+  },
+  "trendline": [
+    {
+      "khung": null,
+      "loai": "ho_tro_tang",
+      "noi_tu": "Nối các đáy cao dần từ thứ hai đến nay, đỉnh đi ngang ~87k (dạng cờ/tam giác tăng); không nêu giá/ngày neo",
+      "diem_neo": [],
+      "gia_duong_luc_noi": null,
+      "trang_thai": "dang_giu",
+      "dieu_kien_pha": "Phá khỏi trendline đáy thì mới gãy (short sau breakout dưới về 85-84); phá đỉnh ngang thì đi lên — xem khung 15 phút",
+      "ket_luan_huong": "TANG",
+      "gio": null,
+      "trich": "Nhưng mô hình này: đáy kéo cao dần và đỉnh đi ngang... Đây cũng là một dạng mô hình cờ, theo kiểu đáy cao dần... Muốn nó gãy thì phải chứng kiến pha phá khỏi trendline này; còn không thì mọi người đừng cố đi cản tàu."
+    }
+  ],
+  "nen_volume": [
+    {
+      "khung": "D1",
+      "nen": "Nến ngày đỏ hôm qua đóng rút chân; giá D1 và H4 đang rất xa MA",
+      "volume": null,
+      "ket_luan": "Không loại trừ backtest về MA (82-83); phải thận trọng điều chỉnh.",
+      "gio": null,
+      "trich": "Sau những ngày tăng vừa rồi, chúng ta có một cây nến ngày màu đỏ hôm qua. Mặc dù đóng nến rút chân, mình vẫn nhắc: khung ngày đang rất xa đường MA, cộng với H4 cũng xa."
+    },
+    {
+      "khung": "H4",
+      "nen": "Có xác suất lên test đỉnh tạo hai đỉnh",
+      "volume": null,
+      "ket_luan": "Backtest MA về 82-83 vẫn còn xác suất.",
+      "gio": null,
+      "trich": "H4 bắt đầu có xác suất (không chắc chắn) lên test đỉnh và hình thành mô hình hai đỉnh; và back test về lại vùng MA là không loại trừ, tức về lại hỗ trợ 82-83 vẫn còn xác suất."
+    },
+    {
+      "khung": null,
+      "nen": "Khung nhỏ: momentum chậm dần, cứ tăng một xíu là có pha bán đè xuống; các nhịp lên chưa qua đỉnh đều là test râu",
+      "volume": null,
+      "ket_luan": "Tăng cường cảnh giác, đề phòng nhịp điều chỉnh.",
+      "gio": null,
+      "trich": "Lực tăng không còn hung hãn như trước; cứ tăng một xíu thì có những pha bán xuống đè xuống. Mọi thứ chậm lại so với 1-2 tuần trước."
+    },
+    {
+      "khung": "M15",
+      "nen": "Phá đỉnh trên hay phá đáy dưới trên 15 phút",
+      "volume": null,
+      "ket_luan": "Chờ out khỏi vùng 86-87 rồi theo hướng phá.",
+      "gio": null,
+      "trich": "An toàn thì tốt nhất chờ nó out ra khỏi vùng này; chắc trong ngày hôm nay hoặc tối sẽ có kết quả. Chỉ cần xem khung 15 phút: phát đỉnh trên, phá đáy dưới theo xu hướng."
+    },
+    {
+      "khung": "D1",
+      "nen": "Nến ngày thứ hai màu xanh",
+      "volume": null,
+      "ket_luan": "Luôn phải phòng thủ, không tấn công.",
+      "gio": null,
+      "trich": "Và lưu ý quan trọng: chúng ta có cây nến ngày thứ hai màu xanh. Làm gì thì làm nhưng luôn phải phòng thủ."
+    },
+    {
+      "khung": "H4",
+      "nen": "Vừa đóng một cây H4 khá xanh",
+      "volume": null,
+      "ket_luan": "Vẫn chưa ra khỏi view hiện tại.",
+      "gio": null,
+      "trich": "Bitcoin vừa đóng một cây H4 khá xanh, nhưng vẫn không out ra khỏi view hiện tại; view vẫn thế, vẫn các vùng này."
+    }
+  ],
+  "cach_lam": [
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "dinh_day_cu",
+      "chi_tiet": "Đỉnh cũ làm kháng cự; hỗ trợ gần và hỗ trợ cứng",
+      "ket_qua": "Kháng cự đỉnh ~87k (phụ đề ghi 78.3); hỗ trợ gần 85-86, hỗ trợ cứng 82-83; đang kẹp 86-87",
+      "gio": null,
+      "trich": "Kháng cự: 77-78 (đặc biệt đỉnh cũ 78.300 [?])... Hỗ trợ gần: 85 đến 86... vùng hỗ trợ cứng tiếp theo là 82 đến 83... Hiện vẫn nằm trong vùng 86 đến 87."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "ema",
+      "chi_tiet": "Khoảng cách giá với MA khung ngày và H4",
+      "ket_qua": "Rất xa MA → có thể backtest MA",
+      "gio": null,
+      "trich": "khung ngày đang rất xa đường MA, cộng với H4 cũng xa."
+    },
+    {
+      "hanh_dong": "ke",
+      "cong_cu": "trendline",
+      "chi_tiet": "Nối đáy cao dần, đỉnh đi ngang (mô hình cờ)",
+      "ket_qua": "Xác suất phá lên cao hơn; gãy chỉ khi phá trendline",
+      "gio": null,
+      "trich": "Kiểu này thì xác suất break khỏi vùng trên và đi lên sẽ cao hơn xác suất kịch bản đi xuống; cao hơn thôi chứ không chắc chắn."
+    },
+    {
+      "hanh_dong": "do",
+      "cong_cu": "fibo_thoai_lui",
+      "chi_tiet": "Fibo trên USDT.D",
+      "ket_qua": "USDT.D rướn về 6.1 (Fibo 0.618) rồi hồi → BTC còn một nhịp tăng (có thể quét 87k) rồi đi xuống",
+      "gio": null,
+      "trich": "USDT.D: mình nghĩ xác suất rất cao nó rướn một nhịp về 6.1 để test Fibo 0.618 rồi mới phục hồi đi lên. Tức thị trường mình đoán còn một nhịp tăng nữa"
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "BTC.D",
+      "ket_qua": "Về hỗ trợ và bắt đầu bật lên → rủi ro cho altcoin",
+      "gio": null,
+      "trich": "BTC.D vẫn là về hỗ trợ và bắt đầu bật lên. Đây là điều rủi ro cho altcoin"
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "heatmap",
+      "chi_tiet": "Bản đồ thanh lý (hai nguồn)",
+      "ket_qua": "Quét lên ~87.000; dưới 84 dày; nguồn khác: team sale dày 88k, dưới tới 83.700",
+      "gio": null,
+      "trich": "Bản đồ thanh lý: có những vùng rất rõ quét lên đâu đó khoảng 87.000, nhưng vùng dưới 84 vẫn dày... Bên này (bản đồ thanh lý khác) căng hơn, lên đến 88.000: team sale mở giáp dày 88 và 88.000; bên dưới kéo đến tận 83.700 [?]."
+    }
+  ],
+  "vung_nguoi_do": [
+    {
+      "loai": "khang_cu",
+      "tu": 87000,
+      "den": 87000,
+      "gio": null,
+      "trich": "88 rất mong manh; thực tế 87.000 là đỉnh rồi, kéo lên 88 chỉ thêm 800 giá nữa thôi"
+    },
+    {
+      "loai": "dich",
+      "tu": 88000,
+      "den": 93000,
+      "gio": null,
+      "trich": "Nếu break và đóng vượt qua thì target 88, 90 và 93."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 85000,
+      "den": 86000,
+      "gio": null,
+      "trich": "Hỗ trợ gần: 85 đến 86. Hôm qua nó về hỗ trợ này là bật lên"
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 82000,
+      "den": 83000,
+      "gio": null,
+      "trich": "không thủng để đi về vùng hỗ trợ cứng tiếp theo là 82 đến 83."
+    },
+    {
+      "loai": "vo_hieu",
+      "tu": 85000,
+      "den": 85000,
+      "gio": null,
+      "trich": "Khi giá bắt đầu thủng 85 thì xem xét khả năng về các vùng này."
+    },
+    {
+      "loai": "dich",
+      "tu": 84000,
+      "den": 85000,
+      "gio": null,
+      "trich": "nếu là mình thì chờ một điểm breakout ở dưới này mới chắc chắn, an toàn, rồi đánh về khoảng 85 hoặc 84 rồi tính tiếp"
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 80000,
+      "den": 80000,
+      "gio": null,
+      "trich": "thủng 85 và thủng 82 thì sau đó về 80; thủng 80 thì mới có view về 6x."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 84000,
+      "den": 84000,
+      "gio": null,
+      "trich": "nhưng vùng dưới 84 vẫn dày."
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 88000,
+      "den": 88000,
+      "gio": null,
+      "trich": "team sale mở giáp dày 88 và 88.000"
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 83700,
+      "den": 83700,
+      "gio": null,
+      "trich": "bên dưới kéo đến tận 83.700 [?]."
+    }
+  ],
+  "view_trung_han": [
+    {
+      "khung": "D1",
+      "huong": "TANG",
+      "dich": [
+        88000,
+        93000
+      ],
+      "han": "kết quả trong hôm nay hoặc tối",
+      "mat_view_khi": "Thủng 85 → xét 82-83; thủng 82 → 80; thủng 80 → view 6x",
+      "gio": null,
+      "trich": "Theo thực nghiệm của mình trong thị trường, mình đánh giá khả năng đi lên cao hơn."
+    },
+    {
+      "khung": "D1",
+      "huong": "GIAM",
+      "dich": [
+        82000,
+        83000
+      ],
+      "han": null,
+      "mat_view_khi": null,
+      "gio": null,
+      "trich": "Đặc biệt anh em giai đoạn vừa rồi đã ăn được thì vùng này là vùng phòng thủ, không phải vùng bung sức để FOMO ăn tiếp những nhịp tăng cuối của đợt sóng này. Cuối nghĩa là nó đang đứng trước xác suất bị điều chỉnh rất cao."
+    },
+    {
+      "khung": "W1",
+      "huong": "PHAN_VAN",
+      "dich": null,
+      "han": "giá hiện tại đã mất điều kiện về 6x; chỉ quay lại khi về dưới 80k",
+      "mat_view_khi": null,
+      "gio": null,
+      "trich": "Nếu xét cấu trúc hiện tại thì gần như đã mất xu hướng về 6x, tức giá hiện tại đã mất điều kiện về 6x. Điều kiện về 6x sẽ quay lại khi giá quay về dưới vùng 80.000."
+    }
+  ],
+  "vung_tranh": [
+    {
+      "tu": 86000,
+      "den": 87000,
+      "vi_sao": "Vùng kẹp: short cản tàu trước khi vượt vùng kill ~87k dễ bị lụm; cũng không phải vùng bung sức FOMO long — chờ out khỏi vùng",
+      "gio": null,
+      "trich": "Nếu anh em muốn cản tàu thì tệ cũng phải chờ nó vượt qua vùng kill này; vào hiện tại đi cản tàu thì xác suất bị thị trường lụm rất cao, thận trọng."
+    }
+  ],
+  "giu_dong": [
+    {
+      "lenh": "SHORT thanh lý 88k (người xem)",
+      "quyet_dinh": "dong",
+      "khi_nao": "Giá cứ treo kéo cao thì không chơi được; 88 rất mong manh → nên vào SL",
+      "gio": null,
+      "trich": "Nó cứ treo, cứ kéo cao như vậy thì sao mà chơi được. 88 rất mong manh; thực tế 87.000 là đỉnh rồi, kéo lên 88 chỉ thêm 800 giá nữa thôi, không ăn thua. SL vào"
+    },
+    {
+      "lenh": "Tài khoản đã ăn được nhịp vừa rồi",
+      "quyet_dinh": "giu",
+      "khi_nao": "Phòng thủ, không FOMO các nhịp tăng cuối; bản thân không làm gì, chờ điều chỉnh",
+      "gio": null,
+      "trich": "Mình không làm gì ở đây, vẫn chờ thị trường điều chỉnh."
+    },
+    {
+      "lenh": "DCA BTC/ETH theo ngày",
+      "quyet_dinh": "giu",
+      "khi_nao": "Mua theo ngày quá lợi ở vùng 6x đảo lên xuống",
+      "gio": null,
+      "trich": "Nhịp vừa rồi anh em mua theo ngày (DCA) thì quá lợi. Mình cũng gom được ít BTC và ETH nhờ mua theo ngày, ở vùng 6x cứ đảo lên đảo xuống, kệ nó vẫn gom được từ 70 về 60."
+    }
+  ],
+  "tin_tuc": [
+    {
+      "su_kien": "Fear & Greed",
+      "thoi_diem": "hôm qua 78, hôm nay 71",
+      "nguon": "khac",
+      "so_lieu": "78 → 71 (vẫn vùng xanh)",
+      "anh_huong_view": "Vùng xanh thì nên sợ hãi, kiểm soát FOMO (không có nghĩa là short)",
+      "gio": null,
+      "trich": "Fear & Greed hôm nay về 71, hôm qua 78 rất xanh; có sự giảm hưng phấn nhẹ nhưng vẫn là vùng xanh. Nguyên tắc của mình khá rõ: vùng xanh thì chúng ta vẫn nên sợ hãi vì đám đông FOMO"
+    },
+    {
+      "su_kien": "Lịch tin",
+      "thoi_diem": "tuần này",
+      "nguon": "lich_kinh_te",
+      "so_lieu": "Không có tin",
+      "anh_huong_view": "Tuần này tin (chính trị) để đẩy nốt sóng; tuần sau chưa biết",
+      "gio": null,
+      "trich": "Tuần này tin để đẩy nốt sóng; tuần sau ra sao không biết được."
+    },
+    {
+      "su_kien": "Thanh lý",
+      "thoi_diem": "hôm qua",
+      "nguon": "khac",
+      "so_lieu": "~200 (ít)",
+      "anh_huong_view": "Hai phe FOMO và chặn đầu đấm qua lại",
+      "gio": null,
+      "trich": "Hôm qua thanh lý chỉ khoảng 200, ít."
+    },
+    {
+      "su_kien": "USDT.D",
+      "thoi_diem": "hiện tại",
+      "nguon": "khac",
+      "so_lieu": "Có thể rướn về 6.1 rồi hồi",
+      "anh_huong_view": "'Bom nổ chậm' nếu anh em FOMO",
+      "gio": null,
+      "trich": "Mọi người nên quan sát tiếp USDT.D. Thằng này là bom nổ chậm cho thị trường nếu anh em FOMO"
+    }
+  ],
+  "nghi_van_nhan_v2": null
+}

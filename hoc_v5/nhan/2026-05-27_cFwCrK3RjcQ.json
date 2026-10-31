@@ -1,0 +1,416 @@
+{
+  "buoi": "2026-05-27_cFwCrK3RjcQ",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/zip_clean/2026-05-27_cFwCrK3RjcQ.txt",
+  "gia_btc_luc_noi": 75800,
+  "dau_buoi": {
+    "thien_huong_h4": "GIAM",
+    "gio": "[00:10:25]",
+    "trich": "giá tăng nhưng tinh thần của thị trường đại đa số vẫn yếu. Cho nên như tiêu đề livestream của ngày hôm nay anh em đã thấy là mình để luôn tiêu đề là hồi rất yếu, hồi không nổi."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "GIAM",
+    "do_chac": "cao",
+    "gio": "[00:59:36]",
+    "trich": "Đóng nến H4 tiếp tục rồi. H1 H4 tiếp tục là xấu. Thế thôi cũng không cần phải chờ đợi làm gì nữa. Xu hướng với lại mọi thứ thì nó vẫn bảo lưu theo góc nhìn lúc nãy của mình thôi."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {
+    "huong": "GIAM",
+    "dich": 75000
+  },
+  "duong_di": [
+    {
+      "huong": "GIAM",
+      "dich": 75000
+    },
+    {
+      "huong": "GIAM",
+      "dich": [
+        70000,
+        71000
+      ]
+    }
+  ],
+  "dich_chinh": [
+    70000,
+    71000
+  ],
+  "han_gio": null,
+  "vo_hieu": {
+    "gia": 78000,
+    "khung": "H4",
+    "so_nen": 1,
+    "chieu": "dong_tren",
+    "cau": "[00:18:48] Cho nên nếu muốn long bắt buộc phải chờ giá đóng H4 ở trên 78 thì mới dám long. Còn lại ở dưới vùng này thì cứ phải tuân thủ xu hướng. Long là phải đặt trên đoạn này thì mới dám long. Cho dù giá có lên gần đến đây, lên đến khoảng 77 vẫn phải ngồi im. Chờ confirm giá trên 78 thì mới long"
+  },
+  "lenh": [
+    {
+      "chieu": "short",
+      "vao": null,
+      "tp": null,
+      "sl": null,
+      "trang_thai": "dang_giu"
+    },
+    {
+      "chieu": "long",
+      "vao": 78000,
+      "tp": null,
+      "sl": null,
+      "trang_thai": "de_xuat_moi"
+    }
+  ],
+  "hanh_dong": "giu_lenh",
+  "khung_lon": {
+    "D1": "GIAM: cây nến bán đêm qua 78 → 75-76 nhấn chìm nỗ lực tăng 3 ngày; giá dưới các MA, MA sắp cắt xuống; có thể là vai đầu vai đang nằm ở neckline 75 — thủng 75 thì về 70-71 (Fibo 0.5, trendline hỗ trợ); nến ngày đóng dưới 70 thì mất hẳn xu hướng tăng, vào downtrend",
+    "W1": "GIAM: cặp nến tuần với cây bán nhấn chìm, lực bán áp đảo; phải về 72-73 và có nhịp hồi mới ngóc đầu được; chưa tới hỗ trợ quan trọng nên không long"
+  },
+  "pha_vo_gia": null,
+  "nhin_lai_view_truoc": {
+    "view_truoc": "GIAM",
+    "giu_hay_doi": "giu",
+    "vi_sao": "Tuần nghỉ live giá chỉ sideway 74-78 (rộng 70-80), ngày 25 giá 77 vẫn kẹp dưới, chưa thấy lực đổi cấu trúc; đêm qua một cây nến D1 bán 78→75-76 nhấn chìm nỗ lực tăng 3 ngày, giá dưới MA, H4 tiếp tục tạo đỉnh thấp → bảo lưu xu hướng giảm",
+    "gio": "[00:16:40]",
+    "trich": "Thấy nỗ lực tăng rất nhiều trong vòng 3 ngày nhưng chỉ cần một cây nến xảy ra đâu đó lúc đêm ngày hôm qua cho đến sáng ngày hôm nay, nhấn chìm luôn tất cả những nỗ lực trước đó và gãy luôn, đâm xuyên qua và đi sâu xuống. Các bạn thấy xu hướng ngày hôm nay thì mình vẫn tiếp tục bảo lưu quan điểm là xu hướng thị trường là xu hướng giảm."
+  },
+  "trendline": [
+    {
+      "khung": "D1",
+      "loai": "khac",
+      "noi_tu": "Neckline mô hình vai đầu vai trên D1, đang nằm ở vùng hỗ trợ ~75k",
+      "diem_neo": [],
+      "gia_duong_luc_noi": 75000,
+      "trang_thai": "dang_giu",
+      "dieu_kien_pha": "đâm xuyên thủng vùng 75",
+      "ket_luan_huong": "GIAM",
+      "gio": "[00:15:03]",
+      "trich": "Đoạn này vẫn có thể nhìn nhận là một vai đầu vai. Có khả năng xảy ra vai đầu vai này. Và vì sao nó chưa gãy? Bởi vì nó đang nằm ở neckline này, nằm ở vùng hỗ trợ này. Nếu nó đâm xuyên thủng ở vùng 75 thì rất dễ nó gãy về dưới."
+    },
+    {
+      "khung": "D1",
+      "loai": "ho_tro_tang",
+      "noi_tu": "Trendline hỗ trợ bên dưới vùng 71k trên D1 (không nêu điểm neo)",
+      "diem_neo": [],
+      "gia_duong_luc_noi": null,
+      "trang_thai": "chua_pha",
+      "dieu_kien_pha": "nến ngày đóng dưới 70 → mất hẳn xu hướng tăng",
+      "ket_luan_huong": "GIAM",
+      "gio": "[00:16:07]",
+      "trich": "Nếu nó xuyên qua khỏi vùng này thì khả năng rất cao ít nhất nó về 71.000. 71.000 là khả quan về dưới này. Dưới này cũng là một vùng hỗ trợ nữa, trendline này. Nó về đến đây theo xu hướng. Còn nếu nến đóng xuyên dưới 70 thì sẽ cực kỳ xấu chứ không phải xấu bình thường nữa."
+    }
+  ],
+  "trich_them": [
+    {
+      "gio": "[00:08:48]",
+      "cau": "Trong tháng năm vừa qua chúng ta thấy một tháng nó cũng đi sideway thôi, không có sell quá nặng nhưng cũng không phải một tháng tăng trưởng. Nó chỉ dao động quanh vùng từ 78 cho đến 74, 75 cứ lòng vòng trong vùng này. Rộng hơn thì là từ 70 đến 80"
+    },
+    {
+      "gio": "[00:18:17]",
+      "cau": "Các bạn thấy từ hôm trước đến đỉnh này, đáy này, đỉnh này, đáy này, đỉnh này, đáy này, đáy này, đỉnh này. Tiếp tục đáy. Và hiện tại đêm ngày hôm qua tiếp tục tạo đỉnh thấp. Bây giờ chỉ thiếu một đáy thấp thôi. Vùng này nếu nó phải bật lên đây, nếu vùng này không gãy nữa và từ đây nó bật lên qua khỏi 78.000 thì may ra mới phục hồi đi lên tiếp được"
+    },
+    {
+      "gio": "[00:19:53]",
+      "cau": "Đoạn này chẳng qua nó đang khựng lại một tí ở Fibo thì để xem thử nó có làm được trò gì không. Nhưng giá vẫn đang nằm dưới Fibo 0.5 này. Thủng tiếp khoảng 75.000 thì chắc là phá đáy đi về dưới này luôn. 71, 72 rất dễ về."
+    },
+    {
+      "gio": "[00:20:58]",
+      "cau": "Mình nói luôn là thị trường hiện ở vùng giá này không cho một tín hiệu nào dù nhỏ nhất để mình có cơ sở long. Cho nên một là nếu sợ nó hồi thì ở ngoài, hai là thuận xu hướng."
+    },
+    {
+      "gio": "[00:28:09]",
+      "cau": "Thực tế đối với hiện tại thì chúng ta nhìn nó ở góc độ là điều chỉnh thôi. Không thể nào confirm nó đi vào nhịp gãy được."
+    },
+    {
+      "gio": "[00:43:59]",
+      "cau": "Ví dụ vì sao ở đây giá Bitcoin khá xấu thì lúc sáng mình vẫn cho anh em đánh ở vùng này bởi vì chúng ta nhìn qua khung lớn, khung lớn nó đã gãy, nó có điều kiện ở xu hướng cho nên mới dám đánh kiểu đó."
+    }
+  ],
+  "kho": "Lệnh short 'lúc sáng cho anh em đánh' không nêu giá vào/TP/SL, cũng không nói đã đóng → ghi dang_giu, hanh_dong giu_lenh là suy từ đó (ông chỉ nói 'một là ở ngoài, hai là thuận xu hướng'). Câu [00:28:09] gọi nhịp hiện tại là 'điều chỉnh, chưa confirm gãy' nhưng xu hướng H4/D1 vẫn khẳng định giảm. Hai trendline D1 không có điểm neo.",
+  "nen_volume": [
+    {
+      "khung": "W1",
+      "nen": "cặp nến tuần, cây nến bán nhấn chìm và đi xuống",
+      "volume": null,
+      "ket_luan": "lực bán áp đảo; phải về 72-73 có nhịp hồi mới ngóc đầu được; không long",
+      "gio": "[00:14:31]",
+      "trich": "Những cặp nến tuần như thế này thì vẫn tiếp tục xu hướng trước đó, cây nến bán này là một nhấn chìm và đi xuống. Đối với khung tuần vẫn thấy lực bán đang rất áp đảo."
+    },
+    {
+      "khung": "D1",
+      "nen": "một cây nến bán đêm qua từ 78 về 75-76 (~2000 giá), cực kỳ xấu, nhấn chìm nỗ lực tăng 3 ngày, đâm xuyên",
+      "volume": null,
+      "ket_luan": "vẫn bảo lưu xu hướng giảm, không long",
+      "gio": "[00:15:03]",
+      "trich": "chúng ta đã có một cây nến bán vào đêm ngày hôm qua từ vùng 78 bán về vùng 75, 76, 2000 giá và có một cây nến ngày cực kỳ xấu."
+    },
+    {
+      "khung": "D1",
+      "nen": "giá xuyên qua cụm hai đường MA; cần một cây cực mạnh bẻ MA đi lên",
+      "volume": null,
+      "ket_luan": "nếu không có cây mạnh, MA sẽ cắt xuống, xu hướng giảm confirm trên nhiều khung",
+      "gio": "[00:17:13]",
+      "trich": "Bật cái này, nó xuyên qua rồi, các bạn thấy cụm hai đường này gãy như thế này. Tầm này mà không kéo lên được một cây cực kỳ mạnh để bẻ đường MA này kéo đi lên thì gần như sau đó giá sẽ kéo MA đi xuống cắt qua nhau tiếp."
+    },
+    {
+      "khung": "H4",
+      "nen": "nằm dưới MA, tiếp tục đỉnh thấp, chỉ thiếu một đáy thấp",
+      "volume": null,
+      "ket_luan": "cấu trúc giảm H4; muốn long phải chờ H4 đóng trên 78",
+      "gio": "[00:17:45]",
+      "trich": "Nến H4 này cũng tương tự. H4 cũng nằm dưới MA hết. H4 đoạn này để xem thử có hỗ trợ được không. Nói chung thấy nó cũng khó bởi vì nó đã tạo ra cấu trúc giảm tiếp ở trên H4"
+    },
+    {
+      "khung": "H1/M5",
+      "nen": "H1 lững khững đi ngang; M5 đáy giảm dần, đỉnh thấp dần; có râu nến H1 có vẻ kéo lên",
+      "volume": null,
+      "ket_luan": "không vì râu H1 mà nhảy long, tổng thể không có tín hiệu long",
+      "gio": "[00:20:27]",
+      "trich": "5 phút này nó vẫn chưa thể hiện ra được một cái gì khá hơn. Vẫn là xu hướng giảm liên tục. Đáy giảm dần và đỉnh thấp dần. Xu hướng rõ như ban ngày vậy thì kỳ vọng làm cái gì? Ví dụ các bạn nhìn vào H1 vẫn thấy khả năng nhìn cái râu nến này có khả năng kéo lên, nhảy vào đi long"
+    },
+    {
+      "khung": null,
+      "nen": "về dưới lại được hỗ trợ đỡ lên",
+      "volume": "số lượng bán đã ít dần đi",
+      "ket_luan": "lý do giá chưa gãy liền",
+      "gio": "[00:08:17]",
+      "trich": "liên tục ở dưới này khi nó về thì nó lại nhận được sự hỗ trợ cho nên giá nó lại đi lên là chuyện đương nhiên. Còn những ngày trước thì nó hỗ trợ nhưng lực bán mạnh quá. Giai đoạn này thì số lượng bán cũng đã ít dần đi cho nên giá không gãy nhiều."
+    },
+    {
+      "khung": "H1/H4",
+      "nen": "H4 tiếp tục đóng xấu",
+      "volume": null,
+      "ket_luan": "bảo lưu view giảm",
+      "gio": "[00:59:36]",
+      "trich": "Đóng nến H4 tiếp tục rồi. H1 H4 tiếp tục là xấu."
+    }
+  ],
+  "cach_lam": [
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "dinh_day_cu",
+      "chi_tiet": "Mô hình vai đầu vai trên D1, neckline ở vùng hỗ trợ 75",
+      "ket_qua": "đang nằm ở neckline; thủng 75 → về ~70",
+      "gio": "[00:15:03]",
+      "trich": "Đoạn này vẫn có thể nhìn nhận là một vai đầu vai. Có khả năng xảy ra vai đầu vai này. Và vì sao nó chưa gãy? Bởi vì nó đang nằm ở neckline này"
+    },
+    {
+      "hanh_dong": "do",
+      "cong_cu": "fibo_thoai_lui",
+      "chi_tiet": "Kéo Fibo trên khung ngày",
+      "ket_qua": "70-71 = vùng Fibo 0.5",
+      "gio": "[00:15:36]",
+      "trich": "Fibo kéo ở trên khung ngày nữa thì cũng hợp lý. Nó về đâu đó khoảng 70, 71. 70, 71 thì vừa khéo ở vùng 0.5 Fibo."
+    },
+    {
+      "hanh_dong": "ke",
+      "cong_cu": "trendline",
+      "chi_tiet": "Trendline hỗ trợ dưới vùng 71 trên D1",
+      "ket_qua": "vùng hỗ trợ tiếp theo dưới 71; đóng ngày dưới 70 = hết xu hướng tăng",
+      "gio": "[00:16:07]",
+      "trich": "Dưới này cũng là một vùng hỗ trợ nữa, trendline này. Nó về đến đây theo xu hướng."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "ema",
+      "chi_tiet": "Cụm MA trên D1 và H4",
+      "ket_qua": "giá dưới các MA cả D1 lẫn H4 → xu hướng giảm",
+      "gio": "[00:17:45]",
+      "trich": "Hiện tại giá nằm dưới các đường MA thì nến ngày là xu hướng giảm. Chúng ta không nên long đối với một hình thái thị trường như thế này. Tuyệt đối. Nến H4 này cũng tương tự. H4 cũng nằm dưới MA hết"
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "dinh_day_cu",
+      "chi_tiet": "Đếm đỉnh/đáy H4 từ hôm trước tới nay",
+      "ket_qua": "đỉnh thấp dần, thiếu một đáy thấp; vượt 78 mới phục hồi",
+      "gio": "[00:18:17]",
+      "trich": "Các bạn thấy từ hôm trước đến đỉnh này, đáy này, đỉnh này, đáy này, đỉnh này, đáy này, đáy này, đỉnh này. Tiếp tục đáy. Và hiện tại đêm ngày hôm qua tiếp tục tạo đỉnh thấp."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "fibo_thoai_lui",
+      "chi_tiet": "Giá so với Fibo 0.5 hiện tại",
+      "ket_qua": "khựng ở Fibo nhưng dưới 0.5; thủng 75 → 71-72",
+      "gio": "[00:19:53]",
+      "trich": "Đoạn này chẳng qua nó đang khựng lại một tí ở Fibo thì để xem thử nó có làm được trò gì không. Nhưng giá vẫn đang nằm dưới Fibo 0.5 này"
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "Gap CME",
+      "ket_qua": "trên: 78, 83, 90; dưới: 70, 67 — không đổi",
+      "gio": "[00:22:39]",
+      "trich": "Gap trên nằm ở 78 vẫn còn, 83 thì còn và 90 vẫn còn. Gap dưới là 70 vẫn còn, 67 vẫn còn."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "hyblock",
+      "chi_tiet": "Hyblock: phe long FOMO những ngày trước đang bị quét",
+      "ket_qua": "quét gần hết màu xanh; nếu quét tiếp long thì về 75.000",
+      "gio": "[00:24:16]",
+      "trich": "Bây giờ tầm này là bắt đầu đi quét những màu xanh này và quét gần hết rồi. Vùng giá hiện tại thì khá ít khối lượng lệnh được mở ra. Nếu tầm này mà nó quét tiếp long thì khả năng nó về đến 75.000."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "heatmap",
+      "chi_tiet": "Liquid/biểu đồ thanh lý",
+      "ket_qua": "cực kỳ yếu, tạo trong ngắn hạn → ít giá trị",
+      "gio": "[00:10:25]",
+      "trich": "Liquid thanh khoản những nhịp này thì đối với Bitcoin cũng cực kỳ yếu. Những vùng này bây giờ cũng không có nhiều giá trị lắm."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "Fear & Greed; Altcoin season index; DOM/USDT.D",
+      "ket_qua": "F&G 25; Altcoin season index 33 (Bitcoin season); DOM giảm, USDT.D sideway nhưng cap USDT rất xấu",
+      "gio": "[00:24:50]",
+      "trich": "Altcoin season index 33. Chỉ số này vẫn đang nằm dưới, thuộc về vùng Bitcoin season."
+    }
+  ],
+  "vung_nguoi_do": [
+    {
+      "loai": "ho_tro",
+      "tu": 74000,
+      "den": 74000,
+      "gio": "[00:05:02]",
+      "trich": "Chủ yếu có một pha giảm về 74 hôm trước còn lại nó vẫn đi trong vùng này"
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 78000,
+      "den": 78000,
+      "gio": "[00:08:48]",
+      "trich": "Nó chỉ dao động quanh vùng từ 78 cho đến 74, 75 cứ lòng vòng trong vùng này. Rộng hơn thì là từ 70 đến 80."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 72000,
+      "den": 73000,
+      "gio": "[00:14:31]",
+      "trich": "Đến khi lực bán về đâu đó khoảng 72, 73 thì chúng ta sẽ phải quan sát nhịp này."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 75000,
+      "den": 75000,
+      "gio": "[00:15:03]",
+      "trich": "Nếu nó đâm xuyên thủng ở vùng 75 thì rất dễ nó gãy về dưới."
+    },
+    {
+      "loai": "dich",
+      "tu": 70000,
+      "den": 71000,
+      "gio": "[00:15:36]",
+      "trich": "Nó về đâu đó khoảng 70, 71. 70, 71 thì vừa khéo ở vùng 0.5 Fibo."
+    },
+    {
+      "loai": "dich",
+      "tu": 71000,
+      "den": 71000,
+      "gio": "[00:16:07]",
+      "trich": "Nếu nó xuyên qua khỏi vùng này thì khả năng rất cao ít nhất nó về 71.000."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 70000,
+      "den": 70000,
+      "gio": "[00:16:07]",
+      "trich": "Còn nếu nến đóng xuyên dưới 70 thì sẽ cực kỳ xấu chứ không phải xấu bình thường nữa. Nến ngày mà đóng dưới 70 thì gần như sẽ mất luôn xu hướng tăng"
+    },
+    {
+      "loai": "vo_hieu",
+      "tu": 78000,
+      "den": 78000,
+      "gio": "[00:18:48]",
+      "trich": "Cho nên nếu muốn long bắt buộc phải chờ giá đóng H4 ở trên 78 thì mới dám long."
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 77000,
+      "den": 77000,
+      "gio": "[00:18:48]",
+      "trich": "Cho dù giá có lên gần đến đây, lên đến khoảng 77 vẫn phải ngồi im."
+    },
+    {
+      "loai": "dich",
+      "tu": 71000,
+      "den": 72000,
+      "gio": "[00:19:53]",
+      "trich": "Thủng tiếp khoảng 75.000 thì chắc là phá đáy đi về dưới này luôn. 71, 72 rất dễ về."
+    },
+    {
+      "loai": "dich",
+      "tu": 75000,
+      "den": 75000,
+      "gio": "[00:24:16]",
+      "trich": "Nếu tầm này mà nó quét tiếp long thì khả năng nó về đến 75.000."
+    }
+  ],
+  "view_trung_han": [
+    {
+      "khung": "W1",
+      "huong": "GIAM",
+      "dich": [
+        72000,
+        73000
+      ],
+      "han": null,
+      "mat_view_khi": "về 72-73 mà bắt đầu có nhịp hồi lên thì mới có khả năng ngóc đầu",
+      "gio": "[00:14:31]",
+      "trich": "Đối với khung tuần vẫn thấy lực bán đang rất áp đảo. Đến khi lực bán về đâu đó khoảng 72, 73 thì chúng ta sẽ phải quan sát nhịp này. Nếu về đây bắt đầu có những nhịp hồi lên thì lúc đó khả năng mới ngóc đầu lên được."
+    },
+    {
+      "khung": "D1",
+      "huong": "GIAM",
+      "dich": [
+        70000,
+        71000
+      ],
+      "han": null,
+      "mat_view_khi": "kéo lên được một cây D1 cực mạnh bẻ MA đi lên (ngược lại, D1 đóng dưới 70 = mất hẳn xu hướng tăng, vào downtrend)",
+      "gio": "[00:17:13]",
+      "trich": "Tầm này mà không kéo lên được một cây cực kỳ mạnh để bẻ đường MA này kéo đi lên thì gần như sau đó giá sẽ kéo MA đi xuống cắt qua nhau tiếp. Mà một khi đã cắt qua nhau thì tiếp tục xu hướng giảm được confirm ở trên nhiều khung thời gian."
+    },
+    {
+      "khung": "M1",
+      "huong": "PHAN_VAN",
+      "dich": [
+        60000,
+        90000
+      ],
+      "han": "tháng 6",
+      "mat_view_khi": null,
+      "gio": "[00:27:01]",
+      "trich": "Trong tháng 6, BTC về 60 là bao nhiêu phần trăm và lên 9x là bao nhiêu phần trăm, mình nghĩ là 50-50 đối với việc giá đứng ở vùng giá này."
+    }
+  ],
+  "vung_tranh": [
+    {
+      "tu": null,
+      "den": 78000,
+      "vi_sao": "Không long khi giá chưa đóng H4 trên 78, kể cả hồi lên tới 77 vẫn phải ngồi im; tuần/ngày/H4 đều giảm, không có tín hiệu nhỏ nhất để long",
+      "gio": "[00:18:48]",
+      "trich": "Còn lại ở dưới vùng này thì cứ phải tuân thủ xu hướng. Long là phải đặt trên đoạn này thì mới dám long. Cho dù giá có lên gần đến đây, lên đến khoảng 77 vẫn phải ngồi im."
+    }
+  ],
+  "giu_dong": [],
+  "tin_tuc": [
+    {
+      "su_kien": "PCE",
+      "thoi_diem": "7:30 tối mai",
+      "nguon": "lich_kinh_te",
+      "so_lieu": null,
+      "anh_huong_view": "tin khá quan trọng; thứ 6-7-CN không có tin nên 3 ngày đó sẽ chạy chung một xu hướng do tin tối mai quyết định; cẩn thận lúc ra tin",
+      "gio": "[00:11:30]",
+      "trich": "Tối ngày mai thì chúng ta mới có tin PCE. PCE ở giai đoạn này sẽ là một tin khá quan trọng. Cho nên khả năng tối mai thị trường sẽ có những sự thay đổi. Và anh em để ý lịch tin này thứ sáu, thứ bảy, chủ nhật không có, đến tối thứ hai mới có lại. Cho nên khả năng là ngày thứ sáu, thứ bảy, chủ nhật sau tin tối mai thị trường sẽ chạy chung một xu hướng. Ba ngày này mình nghĩ khả năng là chạy chung một xu hướng và nó sẽ được quyết định bởi tin tức tối ngày mai"
+    },
+    {
+      "su_kien": "CME giao dịch crypto 24/7",
+      "thoi_diem": "29/5 (tháng 6)",
+      "nguon": "bao",
+      "so_lieu": "vẫn có bảo trì ~2 giờ",
+      "anh_huong_view": "gap cuối tuần sẽ hạn chế nhiều nhưng vẫn có thể có ít gap",
+      "gio": "[00:58:20]",
+      "trich": "Tin này đã có từ trước rồi. 29 tháng 5. Chi tiết quan trọng về dịch vụ là phạm vi áp dụng cho toàn bộ danh mục phái sinh tiền điện tử, BTC, ETH, các hệ sinh thái khác. Lịch bảo trì sàn sẽ có thời gian bảo trì ngắn khoảng 2 giờ, vẫn có bảo trì thì vẫn có gap thôi. Cung cấp khả năng quản lý rủi ro cho các nhà đầu tư, loại bỏ hoàn toàn các khoảng trống giá gap cuối tuần. Nói chung nó sẽ hạn chế được phần gap rất nhiều nhưng mình nghĩ vẫn có một ít"
+    }
+  ]
+}

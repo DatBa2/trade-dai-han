@@ -1,0 +1,95 @@
+{
+ "buoi": "2026-07-29__TlYbqPT8nU",
+ "ngay": "2026-07-30",
+ "gio_vn": "01:00",
+ "gia_btc_luc_noi": 63972,
+ "nhan_dinh": [
+  {
+   "khung": "H4",
+   "huong": "TANG",
+   "do_chac": "thap",
+   "dich": [65700, 66000],
+   "han": "khoảng 2 ngày sau tin FED, tới hết thứ Sáu 31/07",
+   "han_gio": 48,
+   "vo_hieu_khi": "H4 đóng dưới 63.400 (thủng vai phải 63.5 + Fibo 0.618 nhịp 62.74→64.75)",
+   "kich_ban_phu": "tin ra quét hai đầu: cây H4 03:00 có thể thọc về 63.6-63.8 backtest rồi mới chạy; qua 66 thì mới nói tới 67 (EMA89 D1)",
+   "duong_di": [
+    {"huong": "GIAM", "dich": 63700},
+    {"huong": "TANG", "dich": 65800}
+   ],
+   "doi_y": "sáng 29/07 PHÂN VÂN 62-64, chờ H4 đóng trên 64 để đánh đuổi lên; chiều 29/07 hai cây H4 đã đóng trên 64 (64.56, 64.51) → chuyển sang hồi lên",
+   "ly_do": [
+    "đúng điều kiện buổi sáng đặt ra: 2 cây H4 liên tiếp (11h, 15h) đóng trên 64 = confirm nhịp comeback",
+    "đáy H4 nâng dần 62.74 → 63.5/63.6, cấu trúc vai đầu vai ngược nhỏ, neckline 64.1-64.2 đã bị đóng qua",
+    "cây H4 19h đóng 63.97 chỉ là về backtest sát 64, H1 01h đã lấy lại 64.27; cụm EMA34/89/200 H4 chụm 64.3-64.4 (0.17%) đang bị giá kéo qua",
+    "D1 28/07 rút chân 1.6% đóng xanh trong dải EMA34 D1; tin FED chỉ tác động 1-2 tiếng rồi trả về momentum, momentum H4 hiện là lên",
+    "phía trên heatmap 64-64.5 đã quét xong, cụm thanh lý tiếp theo ở 66 (phe short) → đích quét"
+   ],
+   "trich": null
+  },
+  {
+   "khung": "D1",
+   "huong": "TANG",
+   "do_chac": "thap",
+   "dich": [66000, 67000],
+   "han": "vài ngày tới đầu tuần sau",
+   "han_gio": 120,
+   "vo_hieu_khi": "D1 đóng dưới 62.000 (thủng hỗ trợ cứng 62-62.5, Fibo 0.5 nhịp hồi)",
+   "kich_ban_phu": "chỉ là hồi kỹ thuật trong nhịp điều chỉnh; D1 phải đóng trên 64-64.4 (EMA34 D1) mới quay lại plan 70",
+   "duong_di": null,
+   "doi_y": null,
+   "ly_do": [
+    "nến búa D1 28/07 giữ được trên 62.5, D1 29/07 đang đóng quanh 64 trong dải EMA34 D1",
+    "đáy D1 tháng 7 vẫn nâng: 57.8 → 61.3 → 61.8 → 62.5 → 62.7",
+    "EMA89 D1 67.05 + neckline 67 là trần hồi gần nhất chưa test"
+   ],
+   "trich": null
+  },
+  {
+   "khung": "W1",
+   "huong": "GIAM",
+   "do_chac": "cao",
+   "dich": [40000, 50000],
+   "han": "chu kỳ downtrend tới 2027",
+   "han_gio": null,
+   "vo_hieu_khi": "nến tuần đóng trên trendline giảm khung tuần / dải EMA34 W1 ~72K",
+   "kich_ban_phu": "tháng 7 đóng xanh vẫn chỉ là nhịp hồi; hồi tối đa 70-72 rồi gãy tiếp",
+   "duong_di": null,
+   "doi_y": null,
+   "ly_do": [
+    "giá dưới EMA34/89 tuần, EMA34 tuần đã cắt xuống EMA89 tuần",
+    "tuần này vẫn đỏ -2.2%, 4 tuần xanh trước thân yếu",
+    "chu kỳ 4 năm: downtrend từ đỉnh 126K mới đi khoảng một nửa"
+   ],
+   "trich": null
+  }
+ ],
+ "vung_gia": {
+  "khang_cu": [64750, 65800, 66000, 67000],
+  "ho_tro": [63750, 63500, 62700, 62000]
+ },
+ "lenh": [
+  {
+   "chieu": "LONG",
+   "loai": "limit",
+   "vao": 63700,
+   "tp": [64900, 65600],
+   "sl": 63150,
+   "trang_thai": "de_xuat_moi"
+  }
+ ],
+ "hanh_dong": "dung_ngoai_cho_entry",
+ "giu_view": false,
+ "ly_do_doi_view": "Đổi từ PHÂN VÂN (sáng 29/07) sang TĂNG hồi kỹ thuật vì (a) đúng mốc buổi sáng đặt ra: 2 cây H4 11h và 15h đóng trên 64 (64.56/64.51); cây 19h về 63.97 chỉ là backtest sát mốc, H1 01h đã lấy lại 64.27. Tin FED (c) chỉ quét 1-2 tiếng, không đổi momentum.",
+ "rau": {
+  "tren": "64.752 (H4 mở 15:00 29/07, đỉnh nhịp hồi; trước đó 64.719 H4 19:00)",
+  "duoi": "62.741 (H4 mở 19:00 28/07, râu dưới 1.13%, cũng là râu D1 28/07 1.6%)",
+  "test_lai": "Râu trên 64.75: CÓ — chỉ là râu ngắn, heatmap 64.5 đã quét, chặng 2 đi qua để tới 66 (R3 phía trên trống tới 65.7). Râu dưới 62.741: KHÔNG trong nhịp này — đã có đáy cao hơn 63.5-63.6 và Fibo 0.5-0.618 nhịp mới (63.75/63.51) chắn ở giữa (5.3)."
+ },
+ "vung_on": [
+  {"loai": "LONG", "khoang": [63500, 63900], "ly_do": ["Fibo 0.5-0.618 nhịp H4 62.74→64.75 (63.75/63.51)", "vai phải đáy H4 63.5-63.6", "mốc 64 vừa phá đổi vai thành hỗ trợ (backtest)", "cạnh dưới dải EMA34 D1 63.45"]},
+  {"loai": "SHORT", "khoang": [65700, 66300], "ly_do": ["đỉnh H4 65.75/65.8 chưa bị vượt", "kháng cự 66 bị bán 5 tuần", "cụm thanh lý phe short 66", "Fibo 0.618 nhịp giảm 66.95→62.74 (65.34)~ cạnh trên dải EMA34 D1 65.2"]}
+ ],
+ "pha_vo_gia": "Cây H4 19h đóng 63.97 về dưới 64 là cú giả: mới 1 cây, đóng chỉ thiếu ~30 giá, phiên Mỹ ngay trước tin FED (G2 + G6 + G9), H1 01h đã đóng lại trên 64. Cú vượt 64 lúc 11h-15h là thật (2 cây H4 đóng trên).",
+ "loi_binh": "Sáng nay mình nói H4 đóng trên 64 thì confirm nhịp comeback, chiều nay hai cây H4 đóng trên rồi anh em. Cây 19h về 63.97 chỉ là về backtest trước tin thôi, tin chỉ tác động một hai tiếng rồi trả về momentum. Đây vẫn là hồi kỹ thuật trong downtrend, long vol nhỏ ở 63.7 khi về backtest, SL 63.15, đủ mồm 64.9 thì chốt, tối đa cũng chỉ 65.8-66. H4 đóng dưới 63.4 là view sai, không cãi."
+}

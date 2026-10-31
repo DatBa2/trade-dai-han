@@ -1,0 +1,36 @@
+{
+  "buoi": "BOT_2026-10-29_2300_ALT",
+  "ngay": "2026-10-29",
+  "gio_vn": "23:05",
+  "ghi_chu_thoi_diem": "sau nến H4 19:00–23:00 đóng thật",
+  "nhan_dinh": [
+    {
+      "coin": "ETH", "khung": "H4", "huong": "GIAM", "do_chac": "vua", "gia_luc_noi": 2367,
+      "dich": 2300, "han": "24 giờ", "han_gio": 24,
+      "vo_hieu_khi": "2 cây H4 đóng trên 2.400 (luật chính người đó nêu 28/10)",
+      "duong_di": [{"huong": "TANG", "dich": 2395}, {"huong": "GIAM", "dich": 2300}],
+      "doi_y": null,
+      "kich_ban_phu": "thủng đáy phẳng 2.280 thì về 2.100–2.200 (mốc người đó chờ hôm 29/10)",
+      "ly_do": ["đỉnh H4 thấp dần 2.526 → 2.418 → 2.392, đáy phẳng ~2.290 = tam giác giảm",
+                "2.385–2.400 dồn cản: MA89 H4 2.390, MA89 D1 2.385, đỉnh 29/10 2.392",
+                "ETH/BTC giảm 30 ngày liền 0.0321 → 0.0290: ETH yếu hơn BTC",
+                "RSI D1 38,9, khung ngày vẫn xấu; BTC.D 59,6% cao"],
+      "lenh": [{"chieu": "SHORT", "loai": "limit", "vao": 2395, "tp": [2310, 2290], "sl": 2430, "trang_thai": "de_xuat_moi"}],
+      "trich": "ETH không khá hơn Bitcoin đâu anh em, chưa có hai cây H4 lên lại trên 2.400 thì mình vẫn nhìn xuống."
+    },
+    {
+      "coin": "ZEC", "khung": "H4", "huong": "TANG", "do_chac": "thap", "gia_luc_noi": 1361,
+      "dich": 1400, "han": "24 giờ", "han_gio": 24,
+      "vo_hieu_khi": "H4 đóng dưới MA200 H4 ~1.280",
+      "duong_di": [{"huong": "GIAM", "dich": 1330}, {"huong": "TANG", "dich": 1400}],
+      "doi_y": null,
+      "kich_ban_phu": "giữ được 1.400 thì mục tiêu xa 1.484–1.494 (đỉnh 30/09, mốc người đó nêu 30/09)",
+      "ly_do": ["đỉnh và đáy H4 cao dần (đáy 1.119 → 1.176 → 1.231, đỉnh 1.268 → 1.330 → 1.362), nến H4 xanh phá đỉnh 1.330",
+                "giá trên cả MA34/89/200 H4; khung ngày MA89 1.040, MA200 725 → xu hướng lớn tăng",
+                "RSI H1 74,7 quá mua + OI 4h +10% = FOMO mở vị thế → không long đuổi, chờ về test 1.325–1.330 (đỉnh cũ đổi vai + Fibo 0.618)",
+                "1.358 và 1.484 là 2 mốc người đó tự nêu hôm 30/09"],
+      "lenh": [{"chieu": "LONG", "loai": "limit", "vao": 1330, "tp": [1400, 1480], "sl": 1275, "trang_thai": "de_xuat_moi"}],
+      "trich": "Con Z thì nó thích đâu là nó đi đó anh em ạ, đừng FOMO lúc RSI căng thế này, chờ nó về test lại 1.330 rồi hẵng tính."
+    }
+  ]
+}

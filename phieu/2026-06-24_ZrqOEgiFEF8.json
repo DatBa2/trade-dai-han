@@ -1,0 +1,55 @@
+{
+  "buoi": "2026-06-24_ZrqOEgiFEF8",
+  "ngay": "2026-06-24",
+  "gio_vn": "10:00",
+  "gia_btc_luc_noi": 61400,
+  "nhan_dinh": [
+    {
+      "khung": "H4",
+      "huong": "GIAM",
+      "do_chac": "cao",
+      "dich": [57000, 60000],
+      "han": "hôm nay; thủng 62.000 thì tuột nhanh",
+      "han_gio": 24,
+      "vo_hieu_khi": "nến 15/30 phút đóng trên 63.000 thì đừng short (có thể quét SL lên 64 trước); lên Fibo 618 vùng 63-64 là rủi ro",
+      "kich_ban_phu": "có thể hồi M5 lên 63 / quét SL 64 rồi mới gãy tiếp; nếu H1 thủng 62.000 thì tuột rất nhanh về 60 thậm chí 59",
+      "ly_do": [
+        "H4 phá thủng vùng hỗ trợ 63-64, mất xu hướng tăng, xu hướng chủ đạo là giảm",
+        "Fibo hồi không vượt nổi 100%, mất nhịp mất đà; Fibo giảm cho 60.000 và 57.000",
+        "DOM và USDT.D kéo lên, DXY vọt, vàng tiếp tục gãy (vàng đi trước BTC)",
+        "hồi kỹ thuật yếu, không có volume; mùa World Cup thanh khoản mỏng nên bị cuốn theo xu hướng"
+      ],
+      "trich": "Xu hướng thị trường rõ ràng là cái xu hướng giảm. Cứ thuận xu hướng tìm điểm mà short thôi. ... Fibo giảm 60.000 và 57.000 cho nên anh em thận trọng.",
+      "doi_y": null,
+      "duong_di": null
+    },
+    {
+      "khung": "D1",
+      "huong": "GIAM",
+      "do_chac": "cao",
+      "dich": 49000,
+      "han": null,
+      "han_gio": null,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": "đáy có thể cao hơn 20.000 (không cứng nhắc); dưới 50.000 bắt đầu mua ít, dưới 40.000 là vùng discount",
+      "ly_do": ["cây nến ngày đỏ xuyên thủng đáy trước 63.000", "mô hình khung tháng: đáy downtrend thường giảm ít nhất ~70% từ đỉnh nên 40.000 khả thi, về 4x/5x không khó"],
+      "trich": "Cái câu chuyện mà nó về 5x hay là 4x không quá khó. ... mình nghĩ là con số 40.000 là khả thi.",
+      "doi_y": null,
+      "duong_di": null
+    }
+  ],
+  "vung_gia": {"khang_cu": [63000, 64000], "ho_tro": [60000, 62000]},
+  "lenh": [],
+  "nhin_lai_truoc": "Hôm qua chốt lệnh trước giờ đóng H4 ngay entry, hợp lý vì đêm đó giá vòng lên. Quan điểm hôm qua (chờ phá vùng 63-64 rồi đánh theo hướng phá) đã đúng: H4 thủng 63. Kỳ vọng hồi lên 65-69 hôm trước đã tiêu tan.",
+  "cong_cu": ["D1", "H4", "H1", "M5", "Fibo 618/giảm", "MA", "heatmap liquidation", "DOM", "USDT.D", "DXY", "vàng đi trước BTC", "khung tháng/tuần"],
+  "tin_tuc": [{"tin": "PCE ngày mai (tin duy nhất tuần)", "danh_gia": "không quá quan trọng, chỉ né giờ ra tin; mùa đá bóng thanh khoản thấp"}],
+  "thoi_quen": ["thuận xu hướng, chờ hồi lên MA rồi đánh tiếp", "theo dõi vàng để suy BTC, vàng ngóp ngóp thì thoát long", "scalping thì phải follow thị trường, ranh giới 63.000 nến 15-30p", "chia nhiều lệnh với vàng, chốt scalping", "mẹo mua spot: chờ cây bán mạnh rồi nhịp dump thứ hai mới mua", "chia vốn mua dần ETH từ 1300 trở xuống"],
+  "cau_cua_mieng": ["Cứ thuận xu hướng thôi.", "Quan trọng chúng ta có muốn tin hay không thôi.", "Chúng ta hy vọng nhiều quá thì đôi khi là nó giảm mà chúng ta không muốn tin vào sự thật thôi.", "Về 40 dễ như trở bàn tay."],
+  "altcoin": [
+    {"coin": "altcoin chung", "huong": "GIAM", "ghi": "DOM lên, altcoin sập mặt, con nào cũng đáy; không đụng spot altcoin, chỉ BTC DCA nhỏ"},
+    {"coin": "ETH", "huong": "GIAM", "ghi": "no hope; vùng yêu thích mua từ 1300 trở xuống, quét 900 thì nhắm mắt mua"},
+    {"coin": "SOL", "huong": "GIAM", "ghi": "Diamond khung tuần, đáy mùa này khoảng 20-18 nếu BTC 40"},
+    {"coin": "vàng", "huong": "GIAM", "ghi": "gãy 4000 về 38-39; scalping, hay vòng lên xuống"}
+  ],
+  "ghi_chu": "gio_vn mặc định. Giá 'Về 61k4' ở đầu buổi. Không có lệnh BTC mới nêu rõ; 'còn lệnh sell 126 con' không rõ coin nên bỏ."
+}

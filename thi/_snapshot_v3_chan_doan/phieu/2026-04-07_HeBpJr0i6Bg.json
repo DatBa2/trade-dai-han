@@ -1,0 +1,95 @@
+{
+  "buoi": "2026-04-07_HeBpJr0i6Bg",
+  "ngay": "2026-04-07",
+  "gio_vn": "10:00",
+  "gia_btc_luc_noi": 68500,
+  "nhan_dinh": [
+    {
+      "khung": "H4",
+      "huong": "TANG",
+      "do_chac": "vua",
+      "dich": [76000, 78000],
+      "han": "tháng 4 có nhịp hồi; ngắn hạn chờ về 67.000-68.000 rồi lên",
+      "han_gio": 72,
+      "vo_hieu_khi": "thủng 66.000 (an toàn) hoặc 65.000 thì xu hướng tăng kết thúc, mới có cơ sở short",
+      "kich_ban_phu": "hôm nay có thể dump về 67.000 lấp gap CME rồi mới lên; nếu M5 vượt 68.000 thì mô hình hai đáy lên test 69-70; nếu thủng 65 thì đánh đuổi giảm về 4x",
+      "ly_do": [
+        "đã break khỏi trend giảm, đỉnh đáy cao dần, nền giá 2 tháng ở 66-70",
+        "nến D1 đỏ hôm qua chỉ là bị bán ở vùng cản, không phải tín hiệu xấu",
+        "xác suất lên 74-76 (MA xanh, đỉnh) rất cao, qua 76 thì 78 dễ",
+        "không có lý do để short ở vùng này; Fear & Greed 11, đám đông view về 50"
+      ],
+      "trich": "Mình nghĩ giai đoạn này rất có khả năng phục hồi ... Cứ giảm xuống tìm điểm để mà đánh lên. Mình thấy là cái cửa này nó vẫn sáng.",
+      "doi_y": null,
+      "duong_di": [
+        {"huong": "GIAM", "dich": [67000, 68000]},
+        {"huong": "TANG", "dich": 78000}
+      ]
+    },
+    {
+      "khung": "D1",
+      "huong": "TANG",
+      "do_chac": "vua",
+      "dich": null,
+      "han": "chờ nến ngày hôm nay đóng để quyết định xu hướng ngắn hạn",
+      "han_gio": 24,
+      "vo_hieu_khi": "nến ngày cắm xuống dưới 66.000 thì phủ quyết nến tăng trước đó",
+      "kich_ban_phu": "cần test lại và break lên tiếp mới đủ điều kiện (điều kiện cần là break trend giảm đã có)",
+      "ly_do": ["break khỏi trend giảm, mô hình hai đáy/cốc tay cầm", "volume bán không cao so với những ngày trước"],
+      "trich": "Điều kiện cần là break ra là đã đủ rồi. Đã đẹp rồi. Còn bây giờ chúng ta thiếu cái điều kiện đủ nữa thôi. Test lại và break lên tiếp.",
+      "doi_y": null,
+      "duong_di": null
+    },
+    {
+      "khung": "chung",
+      "huong": "GIAM",
+      "do_chac": "vua",
+      "dich": [40000, 50000],
+      "han": "sau nhịp hồi tháng 4; tháng 5-9 đỏ hoặc sideway; tháng 6 thị trường đứng im vì World Cup",
+      "han_gio": null,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": "có thể sau CPI dump về 64 quét rồi 62, hồi 65 rồi xuống 5x",
+      "ly_do": ["thị trường vẫn downtrend, trong downtrend vẫn có nhịp hồi", "đám đông view tăng khi giá lên 80"],
+      "trich": "tất nhiên là thị trường nó vẫn downtrend nhưng mà trong downtrend nó vẫn có những cái nhịp hồi",
+      "doi_y": null,
+      "duong_di": [
+        {"huong": "TANG", "dich": 78000},
+        {"huong": "GIAM", "dich": [40000, 50000]}
+      ]
+    }
+  ],
+  "vung_gia": {"khang_cu": [69000, 70000, 74000, 76000, 78000], "ho_tro": [65000, 66000, 67000, 68000]},
+  "lenh": [
+    {"chieu": "LONG", "loai": "limit", "vao": [67000, 68000], "tp": null, "sl": 65000,
+     "trang_thai": "de_xuat_moi",
+     "trich": "Mình thì chắc là mình đánh cả ở đây lẫn là 68 hoặc là 67."},
+    {"chieu": "LONG", "loai": "market (long lẻ)", "vao": 68500, "tp": null, "sl": null,
+     "trang_thai": "dang_giu",
+     "trich": "lúc nãy mình có cho anh em đánh một cái lẻ long FOMO ... test cái row này"}
+  ],
+  "nhin_lai_truoc": "Lệnh long chiều hôm qua trên livestream (SL dưới 68.650) lên 70k3, nhiều người chốt ở 70.000 là ngon; hôm qua ăn TAO 30%.",
+  "cong_cu": ["D1", "H4", "M5", "MA", "Fibo 0.5", "gap CME 67.000", "heatmap liquidation", "volume", "Fear & Greed", "mô hình hai đáy / cốc tay cầm"],
+  "tin_tuc": [
+    {"tin": "CPI tối thứ sáu (dự báo 1.0% m/m, lạm phát 2.4 lên 3.4)", "danh_gia": "chỉ là cột mốc hợp lý hóa đường giá; nhìn động thái trước tin: nếu tăng mạnh trước tin thì dump sau, nếu sideway thì sau ~12 tiếng hấp thụ tin sẽ tăng lại"},
+    {"tin": "Hạn chót tối hậu thư Trump-Iran 8h sáng", "danh_gia": "không có kịch bản gì, Trump sẽ lấp liếm và tiếp tục câu chuyện cũ"},
+    {"tin": "World Cup tháng 6-7", "danh_gia": "khoảng 1-3 tháng trước đó thị trường thường đứng im, volume chuyển sang bóng đá"}
+  ],
+  "thoi_quen": [
+    "không cho anh em cầm lệnh quá đêm ngày thứ hai vì rủi ro",
+    "đặt limit ở vùng hỗ trợ có SL ngắn dưới 65-66",
+    "nhìn động thái giá trước tin để đoán đường đi sau tin",
+    "đám đông view một chiều thì thận trọng"
+  ],
+  "cau_cua_mieng": [
+    "Lát lên 69 về 67 lên 7x đi mà được như vẽ thì thôi làm họa sĩ chứ trader gì nữa.",
+    "Mọi thứ nó đứng im thì chúng ta cũng đứng im thôi.",
+    "Downtrend mà không có tin xấu thì sao vui được."
+  ],
+  "altcoin": [
+    {"coin": "ETH", "huong": "TANG", "ghi": "đồng thuận với nhịp BTC, sóng này tối đa 2006"},
+    {"coin": "SOL", "huong": "GIAM", "ghi": "D1 rất xấu, dài hạn có thể về 8-40 đô nhưng ngắn hạn đừng short vì BTC hồi"},
+    {"coin": "dầu", "huong": "TANG", "ghi": "ngoài BTC, tăng, tìm entry long khi điều chỉnh H4"},
+    {"coin": "vàng", "huong": "GIAM", "ghi": "điều chỉnh tiếp, test 3900-4000 mới có thể tạo đáy"}
+  ],
+  "ghi_chu": "Phần cuối (xăng, đô la, Vinamilk, sàn Việt Nam) là bên lề. 'Short 47/46/42' trong đoạn cuối là cổ phiếu, không phải BTC."
+}

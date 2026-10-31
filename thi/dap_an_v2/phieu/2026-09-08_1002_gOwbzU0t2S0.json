@@ -1,0 +1,150 @@
+{
+ "buoi": "2026-09-08_1002_gOwbzU0t2S0",
+ "ngay": "2026-09-08",
+ "gio_vn": "10:02",
+ "gia_btc_luc_noi": 78200,
+ "nhan_dinh": [
+  {
+   "khung": "H4",
+   "huong": "GIAM",
+   "do_chac": "vua",
+   "dich": [
+    76000,
+    77000
+   ],
+   "han": null,
+   "han_gio": null,
+   "vo_hieu_khi": null,
+   "vo_hieu_cau_truc": null,
+   "kich_ban_phu": null,
+   "duong_di": null,
+   "doi_y": null,
+   "ly_do": [],
+   "trich": "Chốt BTC: như lúc nãy mình nói, anh em nên xử lý những lệnh sale ở vùng hỗ trợ cứng của BTC trong nhịp này, quanh vùng 77–76.",
+   "nhan_v1": "GIAM"
+  },
+  {
+   "khung": "D1",
+   "huong": "GIAM",
+   "do_chac": "vua",
+   "dich": [
+    76000,
+    77000
+   ],
+   "han": "từ giờ đến hết tuần",
+   "han_gio": 168,
+   "vo_hieu_khi": null,
+   "kich_ban_phu": "đi ngang cho RSI từ 62 về quanh 50 để xóa áp lực phân kỳ rồi mới đi tiếp",
+   "ly_do": [
+    "mô hình hai đỉnh, phân kỳ cả volume lẫn RSI",
+    "RSI còn 62, xa vùng 50",
+    "nến ngày này rất xấu, nhịp không an toàn"
+   ],
+   "trich": "Sau kết quả đóng cây nến ngày này, trên khung ngày vẫn tiếp tục là một nhịp không an toàn.",
+   "doi_y": null,
+   "duong_di": null
+  }
+ ],
+ "vung_gia": {
+  "khang_cu": [
+   80000,
+   82000
+  ],
+  "ho_tro": [
+   76000,
+   77000
+  ]
+ },
+ "lenh": [
+  {
+   "chieu": "LONG",
+   "vao": [
+    76000,
+    77000
+   ],
+   "tp": [],
+   "sl": null,
+   "trang_thai": "de_xuat_moi"
+  },
+  {
+   "chieu": "LONG",
+   "vao": 75000,
+   "tp": [],
+   "sl": null,
+   "trang_thai": "de_xuat_moi"
+  },
+  {
+   "chieu": "SHORT",
+   "vao": [
+    82000,
+    83000
+   ],
+   "tp": [],
+   "sl": null,
+   "trang_thai": "de_xuat_moi"
+  }
+ ],
+ "nhin_lai_truoc": null,
+ "cong_cu": [
+  "D1",
+  "H4",
+  "H1",
+  "MA34",
+  "MA89",
+  "MA200",
+  "RSI",
+  "volume",
+  "vùng volume hỗ trợ 77-76",
+  "BTC.D",
+  "USDT.D",
+  "Fear and Greed",
+  "thanh lý"
+ ],
+ "tin_tuc": [
+  {
+   "tin": "Tin lãi suất thứ năm và thứ sáu tuần này",
+   "danh_gia": "nghỉ live từ ngày mai đến hết tuần, gặp lại thứ hai 14; cập nhật trên Telegram"
+  }
+ ],
+ "thoi_quen": [
+  "không giao dịch ở vùng lưng chừng, chỉ đánh hai đầu rủi ro thấp",
+  "về hỗ trợ không vội mua, xem phản ứng giá rồi mới quyết",
+  "luôn có plan cho mọi trường hợp để không bị động",
+  "xử lý lệnh sale ở vùng hỗ trợ cứng 77-76",
+  "khung nhỏ chỉ nhìn xu hướng, không tìm entry",
+  "DCA hàng ngày trong downtrend, bán trong uptrend",
+  "đặt mục tiêu tiền thay vì mục tiêu giá"
+ ],
+ "cau_cua_mieng": [
+  "Làm gì làm, Bitcoin vẫn là người quyết định cuộc chơi.",
+  "Còn tiền là còn cơ hội, hết tiền là hết cơ hội.",
+  "Phá chỗ nào tính chỗ đó."
+ ],
+ "altcoin": [
+  {
+   "coin": "altcoin chung",
+   "huong": "PHAN_VAN",
+   "ghi": "BTC nhả dominance cho altcoin chạy; USDT.D phân kỳ có thể hồi, khi đó cả BTC lẫn alt đều xấu; LINK/BNB/WLD hết sóng, không FOMO"
+  },
+  {
+   "coin": "ETH",
+   "huong": "PHAN_VAN",
+   "ghi": "bị cản, đừng sale đừng bay, mặc kệ"
+  }
+ ],
+ "ghi_chu": "Không nêu giá BTC hiện tại rõ (đang quanh 78-79, vừa test râu 80). Tiêu đề 'đừng FOMO short' nhưng nội dung nghiêng về hồi 77-76 trước; người nói không mở lệnh mới, chỉ nói xử lý lệnh sale ở 77-76. Dự báo cuối năm: nhịp tăng này gần như cuối cùng của năm, sau đó đi ngang. Số 78.[?] ở phần thanh lý mơ hồ, không dùng.",
+ "hanh_dong": "dung_ngoai_cho_entry",
+ "chang_ke_tiep": {
+  "huong": "GIAM",
+  "dich": [
+   76000,
+   77000
+  ]
+ },
+ "khung_lon_v2": {
+  "D1": "GIAM",
+  "W1": null
+ },
+ "pha_vo_gia": "Không gọi tên phá vỡ giả cho BTC; chỉ nhắc 'BTC micro trên sàn CME quét xuống 75k trong 1 phút rồi giật lên' và thanh lý 'giá có thể quét luôn cả hai đầu là chuyện bình thường'.",
+ "nguon_nhan": "dap_an_v2 (Opus 5.5 rút mù 31/10)"
+}

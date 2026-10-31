@@ -1,0 +1,202 @@
+[
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[0].trich",
+  "trich": "Mình nghĩ trong ngắn hạn sẽ có những nhịp điều chỉnh về đâu đó khoảng 90.000. ... chắc là phiên Mỹ tối nay đạp về 90 rồi sau đó lại kéo lên test tiếp vùng 96 hoặc 99.",
+  "giay": 1944,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=xwJagQCx1gY&t=1944s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[1].trich",
+  "trich": "Nếu nó lên được vùng 0.5 này, khoảng 9200, thì chơi làm lệnh short. Còn nếu không thì phải chờ về vùng 90 chúng ta lại đánh long.",
+  "giay": 3202,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=xwJagQCx1gY&t=3202s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[2].trich",
+  "trich": "Nhịp tiếp theo nếu nó gãy thì khả năng là gãy về 73 74, và mình nói trong năm 2026 thị trường sẽ giảm khá nặng nề.",
+  "giay": 2116,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=xwJagQCx1gY&t=2116s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "lenh[0].trich",
+  "trich": "Nhịp này chắc short về đến 90 luôn. Anh em thích thì cứ chia nhỏ đánh short nhẹ xuống cho vui thôi.",
+  "giay": 4333,
+  "do_giong": 0.636,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=xwJagQCx1gY&t=4333s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "lenh[1].trich",
+  "trich": "Anh em nên an toàn thì chờ ở quanh 90 hoặc thậm chí là 89.000 gì đó, stop loss dưới râu 89.000.",
+  "giay": 2298,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=xwJagQCx1gY&t=2298s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[0].trich",
+  "trich": "trong bản đồ thanh lý có một vùng 90. Khả năng nếu muốn long lại thì sẽ chờ về 90.",
+  "giay": 1020,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=xwJagQCx1gY&t=1020s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[1].trich",
+  "trich": "H4 để xem thử nó có qua được Fibo 50 hay không thôi. Nếu qua được Fibo 50 thì chọn điểm back test rồi đánh lên lại.",
+  "giay": 1008,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=xwJagQCx1gY&t=1008s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[2].trich",
+  "trich": "có khả năng lên được vùng 96 cho đến 100... vùng này sẽ lên test MA34 ở khung tuần.",
+  "giay": 1828,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=xwJagQCx1gY&t=1828s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[3].trich",
+  "trich": "Vùng khả quan vẫn là vùng 99-100, sẽ khá đẹp. Còn nếu sóng yếu thì nó sẽ dừng lại quanh 95-96.",
+  "giay": 1883,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=xwJagQCx1gY&t=1883s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[4].trich",
+  "trich": "Nếu sóng yếu thì nó sẽ dừng lại quanh 95-96. Cho nên ở vùng 95-96 này chúng ta không vội đi short mà phải chờ.",
+  "giay": 1888,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=xwJagQCx1gY&t=1888s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[5].trich",
+  "trich": "gap ở 88 này mình nghĩ sẽ lấp sau khi nó lên được 96 hoặc 98.",
+  "giay": 1930,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=xwJagQCx1gY&t=1930s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[6].trich",
+  "trich": "Thêm cái liquid này nữa là ba yếu tố kết hợp 90. Trong ngắn hạn có những nhịp điều chỉnh về đâu đó khoảng 90.000.",
+  "giay": 1939,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=xwJagQCx1gY&t=1939s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[7].trich",
+  "trich": "Nhịp tiếp theo nếu nó gãy thì khả năng là gãy về 73 74",
+  "giay": 2116,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=xwJagQCx1gY&t=2116s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[8].trich",
+  "trich": "hôm trước mình có đo Fibo rồi. Những vùng 100 cũng là Fibo 0.5",
+  "giay": 2158,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=xwJagQCx1gY&t=2158s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[9].trich",
+  "trich": "H4 mà đóng dưới 92.000, tức đóng dưới Fibo 0.5, thì khả năng chưa chắc đã lên hẳn được, vẫn yếu.",
+  "giay": 2330,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=xwJagQCx1gY&t=2330s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[10].trich",
+  "trich": "chờ ở quanh 90 hoặc thậm chí là 89.000... stop loss ở dưới 90.000 hoặc dưới râu này là 89.000",
+  "giay": 2300,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=xwJagQCx1gY&t=2300s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[11].trich",
+  "trich": "chờ lên đến 92.00 gì đó chúng ta vào lại. Nếu lên đó bắt đầu có cây nến đỏ là chờ vào thôi.",
+  "giay": 2616,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=xwJagQCx1gY&t=2616s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[12].trich",
+  "trich": "Nhịp này chắc short về đến 90 luôn.",
+  "giay": 2778,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=xwJagQCx1gY&t=2778s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[13].trich",
+  "trich": "Nếu nó lên được vùng 0.5 này, khoảng 9200, thì chơi làm lệnh short. Còn nếu không thì phải chờ về vùng 90 chúng ta lại đánh long.",
+  "giay": 3202,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=xwJagQCx1gY&t=3202s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[14].trich",
+  "trich": "Chờ lên đến độ 921 922 gì đó, cũng gần gần đây.",
+  "giay": 4259,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=xwJagQCx1gY&t=4259s",
+  "anh": []
+ }
+]

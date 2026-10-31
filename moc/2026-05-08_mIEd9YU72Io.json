@@ -1,0 +1,200 @@
+{
+  "buoi": "2026-05-08_mIEd9YU72Io",
+  "ngay": "2026-05-08",
+  "gia_btc_luc_noi": 79000,
+  "moc": [
+    {
+      "gia": 79800,
+      "gia_tren": null,
+      "vai_tro": "entry",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": "00:06:19",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Short 79k8 này thì lãi rồi, 79k7 79k8"
+    },
+    {
+      "gia": 78800,
+      "gia_tren": 79000,
+      "vai_tro": "tp",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": "00:06:19",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Cứ short về đâu đó khoảng 79 hoặc 78k8 thì tối đa về cái vùng đó chúng ta chốt được"
+    },
+    {
+      "gia": 82000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [
+        "MA200 D1",
+        "Fibo thoái lui 0.618",
+        "gap 83 sắp lấp xong",
+        "kháng cự price action"
+      ],
+      "moc_gio": "00:19:19",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "vùng trên này là vùng hợp lưu rất nhiều cản, vừa MA200 ở trên khung ngày, vừa Fibo thoái lui 0.618, vừa là cái gap này"
+    },
+    {
+      "gia": 83000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "gap 83 còn thiếu ~500-1000 giá chưa lấp hết"
+      ],
+      "moc_gio": "00:22:10",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "cái gap 83 này nó vẫn còn 1000 giá nữa mới lấp"
+    },
+    {
+      "gia": 90000,
+      "gia_tren": 91000,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "gap 90"
+      ],
+      "moc_gio": "00:31:32",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Lên đây mà thấy không ổn thì sẽ chừa gap 90 lại cho mùa sau, cho năm 2028"
+    },
+    {
+      "gia": 80000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "MA34 H4 (từ hỗ trợ thành kháng cự)",
+        "điều kiện H4 đóng trên mới có cửa lên 83/90"
+      ],
+      "moc_gio": "00:25:31",
+      "tai_san": "BTC",
+      "chac": false,
+      "trich": "H4 đóng cửa trên vùng 80.00 cho đến 80.005, tức là trên MA34 thì mới có cửa để lên 90, hay có cửa để lên 83"
+    },
+    {
+      "gia": 78000,
+      "gia_tren": 79000,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "Fibo thoái lui 0.618 quanh 78.000",
+        "MA H4",
+        "cụm thanh lý long còn nhiều",
+        "gap nhỏ 78.000"
+      ],
+      "moc_gio": "00:27:09",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "78 cho đến 79. Đây là vùng vừa là Fibo ... vừa là MA vừa là Fibo thoái lui. Cộng với đó là dữ liệu Liquid"
+    },
+    {
+      "gia": 78000,
+      "gia_tren": null,
+      "vai_tro": "vo_hieu",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "vùng hỗ trợ 78"
+      ],
+      "moc_gio": "00:29:21",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "nếu H4 đóng thủng vùng 78 thì mình đánh giá khoảng 65% là không ổn rồi"
+    },
+    {
+      "gia": 74000,
+      "gia_tren": null,
+      "vai_tro": "vo_hieu",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [],
+      "moc_gio": "00:29:21",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "thực sự confirm thì phải gãy khỏi khung ngày, gãy khỏi vùng 74.000 này"
+    },
+    {
+      "gia": 70000,
+      "gia_tren": 71000,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [
+        "gap 70"
+      ],
+      "moc_gio": "00:29:53",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "đi xuống khoảng 70.000. Nó phải về quanh 70 71 gì đó mới tính tiếp được"
+    },
+    {
+      "gia": 78000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "M30",
+      "can_cu": [
+        "gap nhỏ 78"
+      ],
+      "moc_gio": "00:30:56",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "gap chúng ta vẫn còn một gap nhỏ ở 78.000 ... về trạm Fibo 0.618 là ở quanh 78.000, sau đó rút lên thì cũng vừa lấp gap nhỏ này"
+    },
+    {
+      "gia": 62000,
+      "gia_tren": 65000,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [],
+      "moc_gio": "00:17:11",
+      "tai_san": "BTC",
+      "chac": false,
+      "trich": "ở vùng sáu mấy này, 62, 65, khả năng nó lên trên này là có ... stop loss của chúng ta cũng ngắn"
+    },
+    {
+      "gia": 67000,
+      "gia_tren": null,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": null,
+      "can_cu": [
+        "gap CME 67"
+      ],
+      "moc_gio": "00:33:45",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "gap 78, gap 70, gap 67, gap 90, gap 22 nữa"
+    },
+    {
+      "gia": 50000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "W1",
+      "can_cu": [],
+      "moc_gio": "00:50:03",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "mình nghĩ tháng 8 Bitcoin sẽ có giá dưới 50.000. Mình có linh cảm như vậy"
+    }
+  ]
+}

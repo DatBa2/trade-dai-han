@@ -1,0 +1,21 @@
+{
+  "luc_vn": "2026-10-29 23:11",
+  "gia": {"BTC": 81857, "ETH": 2373.6, "ZEC": 1390.4},
+  "bot_cap_nhat": [
+    {"coin": "ETH", "giu_nguyen": true, "ghi": "đang đi đúng chặng 1 (hồi lên 2.395); giữ GIẢM vừa, đích 2.300, vô hiệu 2 cây H4 trên 2.400"},
+    {"coin": "ZEC", "khung": "H4", "huong": "TANG", "do_chac": "thap", "dich": 1484, "han_gio": 24,
+     "duong_di": [{"huong": "GIAM", "dich": 1358}, {"huong": "TANG", "dich": 1484}],
+     "vo_hieu_khi": "H4 đóng dưới 1.330",
+     "doi_y": "23:05 bot nói về 1.330 rồi lên 1.400 → 5 phút sau ZEC lên thẳng 1.398 không về 1.330: SAI chặng 1, limit long 1.330 không khớp",
+     "lenh": [{"chieu": "LONG", "loai": "limit", "vao": 1360, "tp": [1440, 1480], "sl": 1325, "trang_thai": "de_xuat_moi"}],
+     "trich": "Đủ ăn thì chốt anh em, ai có long thì 1.400 chốt bớt; RSI H1 gần 80 rồi, đừng FOMO, chờ về 1.358 đổi vai rồi tính."}
+  ],
+  "doc_lap_cua_claude": [
+    {"coin": "BTC", "huong": "TANG", "do_chac": "thap", "dich": 82500, "han_gio": 24, "vo_hieu_khi": "H4 đóng lại dưới 81.000 (MA89 H4)",
+     "ly_do": "GDP vượt dự báo + Nasdaq +0,8% (risk-on); đáy H4 cao dần 79.220→79.378→79.505→79.710 ép vào đỉnh 81.8–82.0 = tam giác tăng; nến H4 volume 2,3x đóng sát đỉnh; short đang bị thanh lý ở cả BTC/ETH/ZEC. Cản 82.3–82.9 (Fibo 0.382, MA200 H4, MA34 D1) có thể chặn, nên đích chỉ 82.500"},
+    {"coin": "ETH", "huong": "TANG", "do_chac": "thap", "dich": 2400, "han_gio": 24, "vo_hieu_khi": "H4 đóng dưới 2.340",
+     "ly_do": "ETH chạy theo BTC; nhưng ETH/BTC giảm 30 ngày, tam giác giảm H4, tài khoản long/short 2,24 (đã long đông, ít nhiên liệu squeeze) → tăng yếu hơn BTC, cùng lắm chạm cản 2.390–2.420; muốn cầm hàng thì BTC tốt hơn ETH"},
+    {"coin": "ZEC", "huong": "TANG", "do_chac": "vua", "dich": 1450, "han_gio": 24, "vo_hieu_khi": "H4 đóng dưới 1.330",
+     "ly_do": "squeeze rõ: tài khoản long/short 0,55 (đông short), 3 phút thanh lý ~34.000 hợp đồng short, OI +10%/4h cùng giá tăng, taker mua 1,20; xu hướng H4/D1 tăng. Rủi ro: +13% trong 16 giờ, RSI H1 ~80 → râu xả 5–8% rất dễ xảy ra, không đuổi giá"}
+  ]
+}

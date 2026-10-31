@@ -1,0 +1,42 @@
+{
+  "buoi": "2026-10-27_1002_2RB3G-MYjhE",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/lam_sach/2026-10-27_1002_2RB3G-MYjhE.md",
+  "gia_btc_luc_noi": 80200,
+  "dau_buoi": {
+    "thien_huong_h4": "GIAM",
+    "gio": null,
+    "trich": "H4 Bitcoin đang đi đỉnh, đáy bằng nhau dần thì có xu hướng đi xuống... Xu hướng thị trường vẫn đang là điều chỉnh, và target của chúng ta vẫn là vùng 78.000, 77 78. Mục tiêu của mình nhịp này vẫn là 77 78."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "GIAM",
+    "do_chac": "cao",
+    "gio": null,
+    "trich": "Nến H4 đóng đỏ, vẫn tiếp tục view giữ thôi; gia tăng xác suất gãy sớm."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {"huong": "GIAM", "dich": [77000, 78100]},
+  "duong_di": [
+    {"huong": "GIAM", "dich": [77000, 78100]}
+  ],
+  "dich_chinh": [77000, 78100],
+  "han_gio": 110,
+  "vo_hieu": null,
+  "lenh": [
+    {"chieu": "SHORT", "vao": null, "tp": [78000, 77000], "sl": null, "trang_thai": "dang_giu"}
+  ],
+  "hanh_dong": "giu_lenh",
+  "khung_lon": {"D1": "PHAN_VAN", "W1": null},
+  "pha_vo_gia": "Nếu giá break lên trên 82.000 thì 'nhịp này là nhịp quét thanh khoản chứ không phải nhịp phá cao' rồi mới rớt; vùng 80 hiện tại 'còn dụ buy', giá hạ dần 'để ru ngủ phe buy'.",
+  "trich_them": [
+    {"gio": null, "cau": "Nhưng trước mắt profit của mình dừng ở 77 đến 78.000: khoảng 78.000 hoặc 77.000 là happy, là ok. Mục tiêu là hi vọng thị trường giảm trước tin lãi suất, sau tin lãi suất có những pha đi lên để kill, và sau đó nữa mới giảm tiếp."},
+    {"gio": null, "cau": "RSI H4 hiện tại có phân kỳ nhẹ, chạm 30 là bật lên. Nhịp này RSI có thể lên một nhịp nữa chạm 50 rồi mới rớt, nghĩa là giá ngắn hạn vẫn có xác suất kéo lên khoảng 81 rồi sau đó mới sập xuống; nhưng sập vẫn là xu hướng chính."},
+    {"gio": null, "cau": "Khi RSI sâu như vậy thì chúng ta chốt lãi sale, chờ nhịp hồi lên rồi tiến tiếp, kiểu gì cũng có nhịp hồi."},
+    {"gio": null, "cau": "H4 theo nguyên tắc trade của mình thì rõ ràng là xu hướng giảm, confirm rồi: đỉnh sau thấp hơn đỉnh trước, giá nằm dưới 34, 34 dưới 89, 89 dưới 200, tất cả mọi thứ. Đi kiểu này tỉ lệ rất cao là nó về test tiếp vùng MA màu xanh, quanh 77.000 đến 78.000."},
+    {"gio": null, "cau": "Vùng bên dưới khá trống trải, khả năng rất cao phải về đến vùng 77-78 mới có hỗ trợ."},
+    {"gio": null, "cau": "Cho nên xu hướng hiện tại của thị trường mình nghĩ vẫn là xu hướng giảm, và từ giờ đến cuối tháng mình sẽ không buy."},
+    {"gio": null, "cau": "Nếu break lên trên thì bắt đầu quét thanh khoản luôn khoảng trên 82.000 rồi mới rớt xuống. Nhịp này là nhịp quét thanh khoản chứ không phải nhịp phá cao."},
+    {"gio": null, "cau": "Vùng mục tiêu lúc nãy mình nói từ 77.000 đến 78.100 gì đó."}
+  ],
+  "kho": "File không có mốc giờ. Không nói giá vào/SL của lệnh sale đang giữ (chỉ suy ra từ 'profit của mình dừng ở 77 đến 78.000' và 'chốt lãi sale' ở RSI quá bán) nên vao/sl = null. Không có mốc vô hiệu rõ: kể cả quét lên trên 82k vẫn coi là quét thanh khoản rồi rớt. Hạn: hi vọng giảm trước tin Fed (~39 giờ), không buy tới cuối tháng (~110 giờ) — lấy mốc cuối tháng. Có khả năng hồi ngắn lên ~81k trước, nhưng sau nến H4 đỏ thì nghiêng gãy sớm."
+}

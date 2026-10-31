@@ -1,0 +1,51 @@
+{
+  "buoi": "2026-10-02_1001_AxRfx12h9Z0",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/lam_sach/2026-10-02_1001_AxRfx12h9Z0.md",
+  "gia_btc_luc_noi": 85000,
+  "dau_buoi": {
+    "thien_huong_h4": "GIAM",
+    "gio": null,
+    "trich": "Hiện tại như lúc sáng, mình đang có một lệnh sale nhỏ ở vùng dưới này để test xem thế nào. Tí nữa thì bị nhích SL. Nếu nhích SL vùng này thì sẽ chờ entry mới nhá. Về cơ bản ngày hôm nay mình vẫn đánh chủ lực là sale nếu thị trường đi kiểu như vậy."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "GIAM",
+    "do_chac": "thap",
+    "gio": null,
+    "trich": "Trần ở đây chắc thêm được nghìn giá nữa. H4 giờ đi xuống thì không hai đỉnh, nó chỉ là một nhịp sóng trong sóng thôi. Nếu nó trả về một cây nến đỏ chiều nay thì sau 3 giờ anh em mới sale được. ... Mình vẫn thấy thị trường hôm nay vẫn chua, không phải một nhịp tăng bền, nên anh em nên thận trọng, không nên FOMO quá."
+  },
+  "doi_y_giua_buoi": true,
+  "ly_do_doi_y": "Đầu buổi đánh chủ lực sale, kỳ vọng về 81–82. Sau khi H4 đóng xanh trên 85 và giá quét qua SL lệnh sale ở ~85, người nói bỏ sale ngắn hạn ('các lệnh sale hiện tại là không ổn', 'khỏi sale luôn'), cho rằng còn lên thêm ~1000 giá; chỉ sale lại nếu có nến H4 đỏ. Vẫn giữ nhận định nhịp tăng không bền, có thể qua thứ hai tuần sau mới gãy về 82 → hướng chính vẫn nghiêng giảm nhưng chặng gần đảo sang tăng.",
+  "chang_ke_tiep": {"huong": "TANG", "dich": [86000, 86600]},
+  "duong_di": [
+    {"huong": "TANG", "dich": [86000, 86600]},
+    {"huong": "GIAM", "dich": 82000}
+  ],
+  "dich_chinh": 82000,
+  "han_gio": 96,
+  "vo_hieu": {
+    "gia": 86600,
+    "khung": "H4",
+    "so_nen": 1,
+    "chieu": "dong_tren",
+    "cau": "Còn nếu nó đóng trên 85 như bây giờ thì tiếp tục có cửa lên test lại vùng Fibo 0.66 [?] 85.500 [?], rồi vượt qua thằng này thì tiếp tục test ở 86.600 [?], vượt qua 86 mấy này anh em mới nghĩ đến câu chuyện ở trên cao. Trong quá trình đó, nếu từng mốc như vậy được chinh phục thì xác suất lên vùng 90 91 92 93 ngày càng gia tăng."
+  },
+  "lenh": [
+    {"chieu": "SHORT", "vao": null, "tp": [], "sl": 85000, "trang_thai": "da_dong"},
+    {"chieu": "LONG", "vao": 82000, "tp": [], "sl": 80000, "trang_thai": "de_xuat_moi"}
+  ],
+  "hanh_dong": "dung_ngoai_cho_entry",
+  "khung_lon": {"D1": "TANG", "W1": null},
+  "pha_vo_gia": "Nhịp lên hiện tại có thể chỉ là 'nhịp test râu' của râu tin PCE hôm kia — nếu bị từ chối và rớt dưới 85/84 thì cấu trúc điều chỉnh giữ nguyên; giá quét qua SL phe sale ở ~85 ('có thể quét qua SL đoạn này nó sẽ đảo xuống'); thị trường quét hai đầu liên tục; nghi 'dụ cho anh em cứ chờ ở dưới (82) rồi nó đi thẳng'.",
+  "trich_them": [
+    {"gio": null, "cau": "H4 đóng trên 85 là có sự confirm nhá, vì nó qua được vùng Fibo 0.5 này và qua được cản trước đó, tức là confirm cho nhịp sóng đẩy tiếp. ... Đặc biệt đoạn này mình vẫn cần một nhịp về 81 thì có vẻ ok hơn."},
+    {"gio": null, "cau": "Còn nếu tiếp tục bị từ chối ở đây và đặc biệt rớt xuống dưới 85.000 và 84.000 [?] thì đó là tín hiệu khá xấu, và khả năng nhịp này chỉ là nhịp đi lên để test cái râu này."},
+    {"gio": null, "cau": "Khi cấu trúc đẩy lên như mình nói, thứ nhất nó đóng trên 85, rồi vượt qua 85.600 [?] và giả sử đóng H1 ở trên đó, hoặc hai cây H1 ở trên đó, thì lúc đó chúng ta không cố giữ các lệnh sale nữa nhá."},
+    {"gio": null, "cau": "Vùng dưới thì chúng ta nói quá nhiều rồi: vùng hỗ trợ cứng vẫn là 82. Mình vẫn chờ để bắt ở 82; ... chúng ta sẵn sàng cắt khoảng 2000 giá là đẹp."},
+    {"gio": null, "cau": "H4 xanh: như vậy khả năng là confirm đứng ở trên này rồi. Thế thì anh em xác định các lệnh sale hiện tại là không ổn rồi. ... Tốt nhất ai đang sale thì cài sẵn SL vào đó; ai chưa sale thì cũng chưa nên vội nhá."},
+    {"gio": null, "cau": "85.000 rồi đấy. Quét qua SL đoạn này rồi thì ngồi nhìn thôi. Có thể quét qua SL đoạn này nó sẽ đảo xuống, nhưng vẫn phải cài vào và ngồi nhìn nhá."},
+    {"gio": null, "cau": "H4 này chắc còn một con nữa mút chỉ. Đi như thế này thì khỏi sale luôn nhá. Altcoin cũng không đánh được mà Bitcoin cũng không đánh nổi. Đoạn này thật chua."},
+    {"gio": null, "cau": "Còn bằng không thì cứ chờ Bitcoin gãy. Có thể qua thứ hai tuần sau nó mới gãy về 82. Đến lúc đó chúng ta tính nhá."},
+    {"gio": null, "cau": "Bitcoin đi trong vùng này thì nếu trade phải đánh linh hoạt cả hai đầu."}
+  ],
+  "kho": "Transcript không có mốc giờ. Buổi khó nhất lô: đầu buổi nghiêng sale, giữa buổi H4 đóng trên 85 (người nói từng gọi đây là 'confirm cho nhịp sóng đẩy tiếp'), lệnh sale nhỏ bị quét SL ~85, chuyển sang 'khỏi sale', 'đánh linh hoạt hai đầu', 'nhiều kịch bản'; nhưng câu cuối vẫn 'không phải một nhịp tăng bền', 'trần thêm nghìn giá', chờ H4 đỏ để sale, 82 có thể tới sau thứ hai → gán GIAM độ chắc thấp với chặng kế tiếp TANG ~86–86.6 (số 86.600 có [?]). Nếu chấm thuần theo nến H4 cuối buổi có thể coi là TANG ngắn hạn. Lệnh long 82 là kế hoạch chờ, SL ~2000 giá suy ra 80.000. Giá đầu buổi ~84.5k, cuối buổi 85k."
+}

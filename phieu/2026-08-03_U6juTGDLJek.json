@@ -1,0 +1,93 @@
+{
+  "buoi": "2026-08-03_U6juTGDLJek",
+  "ngay": "2026-08-03",
+  "gio_vn": "10:00",
+  "gia_btc_luc_noi": 63000,
+  "nhan_dinh": [
+    {
+      "khung": "H4",
+      "huong": "GIAM",
+      "do_chac": "cao",
+      "dich": [60000, 61000],
+      "han": "trong tuần này",
+      "han_gio": 168,
+      "vo_hieu_khi": "đóng H1/30 phút thủng 63.000 là đi xuống luôn (xác nhận plan); không có điều kiện nào được nói là view sai",
+      "kich_ban_phu": "có thể quét lên 64.000 lấy thanh khoản rồi mới gãy; 62.000 test hai lần không giữ được, nếu giữ thì hồi tối đa 64.000 rồi rớt tiếp; ở 60.000 nếu có cặp nến xanh mới có thể thành vai đầu vai ngược lớn (may ra)",
+      "ly_do": [
+        "H4 MA cross và xa dần, nhịp hồi chỉ là hồi lên test MA",
+        "62.000 là Fibo 0.5 hợp lưu Fibo mở rộng 1, nhưng đã test hai lần",
+        "60.000 là Fibo mở rộng 1.618 và vùng out (chốt lãi) cho nhịp giảm, chưa phải vùng in",
+        "USDT.D đang khỏe đi lên, nếu đi lên thì thị trường đi xuống",
+        "chỉ nên đánh xuống, không thấy dấu hiệu nào để long"
+      ],
+      "trich": "Nhịp này thì trước mắt là mình view giá nó có khả năng về test lại vùng 60.000 này. ... Chúng ta tạm thời bỏ qua những view đánh lên, tập trung vào những view đánh xuống là thuận xu hướng thị trường thôi.",
+      "doi_y": null,
+      "duong_di": null
+    },
+    {
+      "khung": "D1",
+      "huong": "GIAM",
+      "do_chac": "cao",
+      "dich": [60000, 61000],
+      "han": "tuần này",
+      "han_gio": 168,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": "nếu hồi lên cũng chủ yếu để tìm điểm đánh xuống",
+      "ly_do": [
+        "đáy sau thấp hơn đáy trước, phá các vùng hỗ trợ và kênh giá tăng",
+        "không có lý do để view lên"
+      ],
+      "trich": "Khung ngày giá nó vẫn tiếp tục tạo một xu hướng đi xuống, đáy sau thấp hơn đáy trước và phá vỡ những vùng hỗ trợ.",
+      "doi_y": null,
+      "duong_di": null
+    },
+    {
+      "khung": "W1",
+      "huong": "GIAM",
+      "do_chac": "vua",
+      "dich": null,
+      "han": "chu kỳ đáy: từ giờ đến đầu năm sau (tham khảo mùa trước tháng 10-11); mình đoán nhiều khả năng 50.000-55.000",
+      "han_gio": null,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": "kịch bản giống tháng 8/2022: hồi lên rồi bị đấm một cây tuần 20-25% (ví dụ 60.000 về 47.000-49.000); có thể về 50.000; không đoán đáy mà DCA chia nhỏ",
+      "ly_do": [
+        "nến tuần đỏ nhấn chìm cả ba cây nến tăng tháng 7, ba về một",
+        "so sánh chu kỳ 2022: hai đáy rồi lại bị đạp sâu để cướp hàng"
+      ],
+      "trich": "Cây nến tuần này nhấn chìm luôn cả hai tuần ba tuần nỗ lực tăng trước đó. Đi ba về một, phủ quyết luôn tất cả lực tăng.",
+      "doi_y": null,
+      "duong_di": null
+    }
+  ],
+  "vung_gia": {"khang_cu": [63000, 64000], "ho_tro": [60000, 62000]},
+  "lenh": [
+    {"chieu": "SHORT", "loai": "chờ hồi lên", "vao": [63000, 63100], "tp": [60000, 61000], "sl": null,
+     "trang_thai": "de_xuat_moi",
+     "trich": "Bây giờ đối với các anh em nào không có lệnh thì có thể chờ hồi lên vùng 63.000 này. Tối thiểu là các bạn sẽ phải chờ 63.100 đến 63.000."},
+    {"chieu": "SHORT", "loai": "đang giữ", "vao": null, "tp": [60000], "sl": null,
+     "trang_thai": "dang_giu",
+     "trich": "Thủng 63 thì tốt rồi. H1 đóng như này thì đúng plan, anh em mình cứ giữ thôi."}
+  ],
+  "nhin_lai_truoc": "Hôm qua cho anh em sell, dự đoán đúng nến tuần đỏ; chờ sell ở 64.000 hôm trước nhưng giá chỉ lên tối đa 63.000 nên không khớp.",
+  "cong_cu": ["W1", "D1", "H4", "H1", "MA", "Fibo thoái lui", "Fibo mở rộng 1/1.618", "USDT.D", "delta", "heatmap", "vai đầu vai ngược", "so sánh chu kỳ 2022"],
+  "tin_tuc": [],
+  "thoi_quen": [
+    "thuận xu hướng: chỉ đánh xuống khi D1 H4 giảm",
+    "60.000 là vùng out chứ chưa phải vùng in, vào long phải chờ xác nhận cần và đủ",
+    "không đoán đáy, DCA chia nhỏ, view dài hạn, trụ lì hơn đám đông",
+    "thứ hai hay kéo bố láo để trap nên cẩn thận",
+    "không FOMO ở giá hiện tại mà chờ hồi lên vùng kháng cự",
+    "giải ngân altcoin khoảng 30% vốn khi BTC về khoảng 50.000"
+  ],
+  "cau_cua_mieng": [
+    "Thằng nào lì hơn thằng đó thắng.",
+    "Đừng hỏi mình đáy nó có thể về đâu, mình mà biết thì mình ngồi đây với các bạn làm gì.",
+    "Hãy nhớ những kịch bản mà thị trường luôn sẵn sàng để lấy mất hàng của các bạn."
+  ],
+  "altcoin": [
+    {"coin": "ETH", "huong": "GIAM", "ghi": "rất xấu, xấu hơn BTC; cụm nến H4 xấu, không nên buy, không chơi ngược BTC"},
+    {"coin": "USDT.D", "huong": "TANG", "ghi": "đang rất khỏe đi lên, nghĩa là thị trường đi xuống; BTC.D sideway không rõ"},
+    {"coin": "altcoin chung", "huong": "GIAM", "ghi": "chưa có dấu hiệu ngon ăn; nếu BTC về 50.000 thì altcoin rơi về mức rất thấp"}
+  ],
+  "ghi_chu": "gio_vn mặc định 10:00. Phần vàng, bạc, dầu, XRP/SOL, kiến thức vai đầu vai, bán gà bỏ qua. Cuối buổi giá gãy 63.000 và nói đúng plan."
+}

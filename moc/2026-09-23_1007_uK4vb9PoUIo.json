@@ -1,0 +1,224 @@
+{
+  "buoi": "2026-09-23_1007_uK4vb9PoUIo",
+  "ngay": "2026-09-23",
+  "gia_btc_luc_noi": 86000,
+  "moc": [
+    {
+      "gia": 87000,
+      "gia_tren": 88000,
+      "vai_tro": "khang_cu",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "đỉnh cũ 78.300 [?] (nghi 88.300)",
+        "view channel hôm qua"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": false,
+      "trich": "Kháng cự: 77-78 (đặc biệt đỉnh cũ 78.300 [?]); nếu break và đóng vượt qua thì target 88, 90 và 93"
+    },
+    {
+      "gia": 88000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "target sau khi vượt đỉnh cũ"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "nếu break và đóng vượt qua thì target 88, 90 và 93"
+    },
+    {
+      "gia": 90000,
+      "gia_tren": 93000,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "target sau khi vượt đỉnh cũ"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "target 88, 90 và 93... View lên 93 [?]"
+    },
+    {
+      "gia": 85000,
+      "gia_tren": 86000,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "hỗ trợ gần",
+        "view channel hôm qua"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Hỗ trợ gần: 85 đến 86. Hôm qua nó về hỗ trợ này là bật lên"
+    },
+    {
+      "gia": 82000,
+      "gia_tren": 83000,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "hỗ trợ cứng",
+        "vùng MA H4 (back test)"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "vùng hỗ trợ cứng tiếp theo là 82 đến 83... back test về lại vùng MA là không loại trừ"
+    },
+    {
+      "gia": 87000,
+      "gia_tren": null,
+      "vai_tro": "dinh_cu",
+      "huong": null,
+      "khung": null,
+      "can_cu": [
+        "đỉnh cũ"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "thực tế 87.000 là đỉnh rồi, kéo lên 88 chỉ thêm 800 giá nữa thôi"
+    },
+    {
+      "gia": 86000,
+      "gia_tren": 87000,
+      "vai_tro": "khang_cu",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "vùng kháng cự trên"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Hiện vẫn nằm trong vùng 86 đến 87. Phá kháng cự bên trên mới lên được các vùng cao hơn"
+    },
+    {
+      "gia": 84000,
+      "gia_tren": 85000,
+      "vai_tro": "tp",
+      "huong": "GIAM",
+      "khung": "M15",
+      "can_cu": [
+        "breakout đáy dưới"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "chờ một điểm breakout ở dưới này mới chắc chắn... rồi đánh về khoảng 85 hoặc 84 rồi tính tiếp"
+    },
+    {
+      "gia": 80000,
+      "gia_tren": null,
+      "vai_tro": "vo_hieu",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "thủng 85 rồi 82 rồi 80",
+        "đáy cũ 6x"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Điều kiện về 6x sẽ quay lại khi giá quay về dưới vùng 80.000... thủng 80 thì mới có view về 6x"
+    },
+    {
+      "gia": 60000,
+      "gia_tren": 69999,
+      "vai_tro": "day_cu",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "đáy cũ 6x"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "6x là vùng đáy cũ"
+    },
+    {
+      "gia": 87000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "quét râu",
+        "cụm thanh lý / heatmap",
+        "USDT.D Fibo 0.618"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "nó rướn quét qua khỏi râu này, ví dụ quét lên 87.000 rồi mới đi xuống, phù hợp với USDT.D"
+    },
+    {
+      "gia": 84000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý / heatmap dày dưới 84"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "quét lên đâu đó khoảng 87.000, nhưng vùng dưới 84 vẫn dày"
+    },
+    {
+      "gia": 88000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý / heatmap (bản đồ khác)",
+        "team sale mở giáp 88"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": false,
+      "trich": "lên đến 88.000: team sale mở giáp dày 88 và 88.000; bên dưới kéo đến tận 83.700 [?]"
+    },
+    {
+      "gia": 83700,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý / heatmap (bản đồ khác)"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": false,
+      "trich": "bên dưới kéo đến tận 83.700 [?]"
+    },
+    {
+      "gia": 50000,
+      "gia_tren": 60000,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "kế hoạch dự phòng, chỉ khi thủng 82 và 80"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "bây giờ nó về 82 là mình bắt đầu cân nhắc xác suất nó về 50 hay 60... thủng 80 lại tăng tiếp"
+    }
+  ]
+}

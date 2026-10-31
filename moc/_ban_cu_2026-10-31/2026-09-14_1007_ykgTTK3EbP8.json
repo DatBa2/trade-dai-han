@@ -1,0 +1,246 @@
+{
+  "buoi": "2026-09-14_1007_ykgTTK3EbP8",
+  "ngay": "2026-09-14",
+  "gia_btc_luc_noi": 77500,
+  "moc": [
+    {
+      "gia": 79800,
+      "gia_tren": null,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": "H4",
+      "can_cu": [
+        "râu nến quét stop sót sau tin CPI"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "Giá quét lên 79.800, gần đến 80.000... với mục đích quét stop loss của những lệnh sót ở trên"
+    },
+    {
+      "gia": 76000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "vùng hỗ trợ cứng",
+        "râu nến quét sau CPI",
+        "team long kê SL 76.000"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "Sáng nay giá phản ứng ở vùng hỗ trợ cứng quanh 76.000... Giá liên tục được giữ ở vùng 76, đây là vùng hỗ trợ rất cứng."
+    },
+    {
+      "gia": 82000,
+      "gia_tren": 83000,
+      "vai_tro": "khang_cu",
+      "huong": "TANG",
+      "khung": "W1",
+      "can_cu": [
+        "cản khung tuần"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "vùng 82–83 là vùng cản. chờ nến confirm trên 83.000"
+    },
+    {
+      "gia": 83000,
+      "gia_tren": null,
+      "vai_tro": "vo_hieu",
+      "huong": "GIAM",
+      "khung": "W1",
+      "can_cu": [
+        "nến tuần đóng trên 83.000"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "muốn kỳ vọng một cú đi lên thì phải thấy nến tuần đóng trên 83.000"
+    },
+    {
+      "gia": 90000,
+      "gia_tren": 92000,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "W1",
+      "can_cu": [
+        "nhịp từ 83 lên 92"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "tối ưu nhịp từ 83 lên 92, thậm chí 90 thôi cũng ngon rồi"
+    },
+    {
+      "gia": 77500,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "GIAM",
+      "khung": "W1",
+      "can_cu": [
+        "hỗ trợ trước đó bị nến tuần phá"
+      ],
+      "moc_gio": null,
+      "chac": false,
+      "trich": "hình thái nến bắt đầu ở 80 rồi trả về 76.000, phá luôn vùng hỗ trợ trước đó ở 77.500"
+    },
+    {
+      "gia": 74000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "GIAM",
+      "khung": "W1",
+      "can_cu": [
+        "MA tuần (không nói số)"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "Nến tuần này sẽ gặp hỗ trợ ở đường MA, tức 74.000"
+    },
+    {
+      "gia": 72000,
+      "gia_tren": 73000,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "W1",
+      "can_cu": [],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "hoặc thậm chí khoảng 72–73.000"
+    },
+    {
+      "gia": 72000,
+      "gia_tren": 74000,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "Thủng 76 thì đánh về hai vùng: 74 đến 72, và 70 đến 68"
+    },
+    {
+      "gia": 68000,
+      "gia_tren": 70000,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "Thủng 76 thì đánh về hai vùng: 74 đến 72, và 70 đến 68"
+    },
+    {
+      "gia": 73000,
+      "gia_tren": null,
+      "vai_tro": "tp",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "Nếu thủng 76 thì chờ ở vùng 73; có vị thế bán thì tranh thủ chốt TP quanh vùng này."
+    },
+    {
+      "gia": 76000,
+      "gia_tren": null,
+      "vai_tro": "vo_hieu",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "thủng 76 để sale"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "Muốn sale thì chờ nó thủng qua 76."
+    },
+    {
+      "gia": 79000,
+      "gia_tren": 80000,
+      "vai_tro": "entry",
+      "huong": "GIAM",
+      "khung": "H1",
+      "can_cu": [
+        "râu nến 79.000 sau CPI"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "Vùng 79 đến 80 là vùng anh em có thể quan sát để chọn làm entry sale"
+    },
+    {
+      "gia": 79000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "râu nến 79.000 (sau CPI)"
+      ],
+      "moc_gio": null,
+      "chac": false,
+      "trich": "nó lên quanh 79–80 để test... nếu không test râu 79 thì khả năng khi có tin lãi suất nó sẽ test râu này"
+    },
+    {
+      "gia": 77000,
+      "gia_tren": 79000,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": "H1",
+      "can_cu": [
+        "vùng 50/50 lưng chừng"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "vùng từ 79 đến 77 này rất là 50/50"
+    },
+    {
+      "gia": 78000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý / heatmap (mới hình thành)"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "Vùng hỗ trợ tiếp theo là 76.000, trên cao là 78.000. Vùng 78.000 này chỉ vừa mới hình thành"
+    },
+    {
+      "gia": 76000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý / heatmap (long kê SL)"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "vẫn kê SL 76.000"
+    },
+    {
+      "gia": 80000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "Delta / thanh lý hai đầu"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "Bên này những vùng vẫn hai đầu 80 và 76"
+    },
+    {
+      "gia": 40000,
+      "gia_tren": 50000,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "W1",
+      "can_cu": [],
+      "moc_gio": null,
+      "chac": false,
+      "trich": "Fed... Bitcoin liệu còn về được vùng 4x 5x không? (người xem hỏi, người nói: về thì cũng về nhưng còn lâu)"
+    }
+  ]
+}

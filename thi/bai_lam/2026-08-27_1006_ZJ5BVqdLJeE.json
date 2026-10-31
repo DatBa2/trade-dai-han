@@ -1,0 +1,98 @@
+{
+ "buoi": "2026-08-27_1006_ZJ5BVqdLJeE",
+ "ngay": "2026-08-27",
+ "gio_vn": "10:06",
+ "gia_btc_luc_noi": 78838,
+ "nhan_dinh": [
+  {
+   "khung": "H4",
+   "huong": "PHAN_VAN",
+   "do_chac": "thap",
+   "dich": null,
+   "han": "đến sau tin Jackson Hole tối thứ Sáu 28/08 21:00",
+   "han_gio": 36,
+   "vo_hieu_khi": "chờ H4 đóng trên 79.300 (vượt cản MA ngày/tuần 79.050-79.150 + đỉnh 79.245) thì tính long lên 81-82K; chờ H4 đóng dưới 77.500 (thủng hai đáy 77.615/77.854 + dải EMA34 H4) thì tính short về 76K",
+   "kich_ban_phu": null,
+   "duong_di": null,
+   "doi_y": null,
+   "ly_do": [
+    "giá kẹp ngay giữa cản 79.000-79.150 (EMA610 D1 + EMA89 tuần) và hỗ trợ 77.600-77.900 (hai đáy H4 + dải EMA34 H4), biên chỉ 2%",
+    "chưa có cây H4 nào đóng qua mốc nào: đóng cao nhất 79.087, thấp nhất 78.012",
+    "cú thủng xuống 77.615 lúc tin PCE chỉ là râu rồi rút lên → nghiêng nhẹ lên nhưng chưa có nến xác nhận",
+    "thị trường chờ tin Jackson Hole, biên độ hẹp lại, 50-50 thì không tham gia"
+   ],
+   "trich": null
+  },
+  {
+   "khung": "D1",
+   "huong": "PHAN_VAN",
+   "do_chac": "thap",
+   "dich": null,
+   "han": "đến khi D1 đóng thoát vùng 75.5-81.3K",
+   "han_gio": null,
+   "vo_hieu_khi": "chờ D1 đóng trên 81.300 (vượt râu từ chối 81.280, mở đường 83K rồi 92-94K) / D1 đóng dưới 75.500 (thủng đáy D1 75.560, về backtest 72-74K)",
+   "kich_ban_phu": null,
+   "duong_di": null,
+   "doi_y": null,
+   "ly_do": [
+    "D1 đóng 79.031, nằm ngay dưới EMA610 D1 79.146 - cản kết hợp ngày và tuần",
+    "D1 thứ Ba râu trên 2.9%, D1 thứ Tư râu dưới 1.2% → hai phe giằng co",
+    "RSI D1 80 vẫn căng, hạn chế FOMO long"
+   ],
+   "trich": null
+  },
+  {
+   "khung": "W1",
+   "huong": "GIAM",
+   "do_chac": "thap",
+   "dich": 52300,
+   "han": "chu kỳ downtrend, đáy 2027",
+   "han_gio": null,
+   "vo_hieu_khi": "nến tuần đóng qua 93.000-95.000 thì downtrend mới kết thúc",
+   "kich_ban_phu": "vượt 82-83K thì nhịp hồi tuần có thể lên 92-94K trước khi gãy",
+   "duong_di": null,
+   "doi_y": null,
+   "ly_do": [
+    "vùng 79-82K là cản khung tuần, nến tuần đang có râu trên 3%",
+    "EMA34/89 tuần vẫn cắt xuống, giá chưa vượt hẳn EMA89 tuần",
+    "Fibo mở rộng khung tuần góc nhìn giảm vẫn cho 52.3K"
+   ],
+   "trich": null
+  }
+ ],
+ "vung_gia": {
+  "khang_cu": [79150, 80250, 81300, 83000],
+  "ho_tro": [77850, 77600, 76000, 74000]
+ },
+ "lenh": [],
+ "hanh_dong": "dung_ngoai_vi_lap_lung",
+ "giu_view": true,
+ "ly_do_doi_view": "Giữ view buổi 26/08 (sideway chờ tin, ngồi ngoài): không có H4 nào đóng qua 79.3K hay dưới 77.5K, biên 77.6-79.2K vẫn giữ. Cú râu 77.615 lúc tin PCE không phải nến đóng nên không đổi view. Tin lớn Jackson Hole chưa ra, không phải đầu tuần/đầu tháng.",
+ "rau": {
+  "tren": "79.173 (H4 mở 03:00 27/08); 79.245 (H4 mở 07:00 26/08); râu D1 81.280 (25/08)",
+  "duoi": "78.553 (H4 mở 07:00 27/08); 77.615 (H4 mở 19:00 26/08, lúc tin PCE)",
+  "test_lai": "Râu D1 81.280 CÓ: râu dài D1 chưa được test (R1), trùng đỉnh H4 80.925 + cụm thanh lý 80-81K (R2) - chỉ tính khi H4 đã đóng trên 79.3K. Râu 77.615 KHÔNG: vùng 77.6-77.9 đã bị test 2 lần (77.854 rồi 77.615), râu vừa quét xong SL long lúc tin (5.3)."
+ },
+ "vung_on": [
+  {
+   "loai": "LONG",
+   "khoang": [77500, 77900],
+   "ly_do": [
+    "hai đáy H4 77.615 và 77.854",
+    "dải trên EMA34 H4 77.569 + Fibo 0.786 nhịp hồi 77.948",
+    "cụm thanh lý 78K + râu 77.9K người đó đã nêu làm điểm long"
+   ]
+  },
+  {
+   "loai": "SHORT",
+   "khoang": [80900, 81300],
+   "ly_do": [
+    "đỉnh H4 80.925 + râu D1 81.280 (đỉnh tuần)",
+    "cụm thanh lý short 80-81K",
+    "cản khung tuần 80-82K người đó đã nêu"
+   ]
+  }
+ ],
+ "pha_vo_gia": "Cú thủng đáy 77.854 xuống 77.615 tối qua là GIẢ: chỉ râu, H4 đóng 78.012 trên vùng (G1), xảy ra ngay giờ tin PCE (G6), phiên Mỹ 19-23h (G9), quét đúng SL phe long dưới đáy cũ (G4). Không đổi view vì cú này.",
+ "loi_binh": "View từ hôm qua không thay đổi gì nhiều anh em, giá vẫn đi ngang 77.6 đến 79.2 chờ Jackson Hole. Tối qua tin PCE nó chọc xuống 77.6 rồi rút chân, đó là cây dụ short thôi. Nhưng trên đầu là MA ngày với MA89 tuần ở 79, long không được short không xong thì làm gì? Xem livestream. H4 đóng lên trên 79.3 thì mình tính long lên 81-82, đóng thủng 77.5 thì mới tính short, còn giờ 50-50 là mình không tham gia, cầm tiền không ai chết hết."
+}

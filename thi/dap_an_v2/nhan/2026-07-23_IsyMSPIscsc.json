@@ -1,0 +1,49 @@
+{
+  "buoi": "2026-07-23_IsyMSPIscsc",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/zip_clean/2026-07-23_IsyMSPIscsc.txt",
+  "gia_btc_luc_noi": 65300,
+  "dau_buoi": {
+    "thien_huong_h4": "TANG",
+    "gio": "[00:25:45]",
+    "trich": "H4 thì hiện tại nó vẫn rất là giữ cấu trúc sóng tăng này. Giá vẫn nằm trên MA các thứ các kiểu vẫn rất là đều. Mình thì mình nghĩ là giá khả năng nó vẫn muốn rướn lên 68 này. Nó phải quét một phát ở cái đoạn này. Cùng lắm râu nến ở đây rồi gãy xuống thì mới sâu được. Còn ở đây mình thấy là giá nó vẫn không có gãy sâu đâu."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "TANG",
+    "do_chac": "thap",
+    "gio": "[00:59:40]",
+    "trich": "Nhân tiện cây H4 nóng như này thì long gì được. Như này thì chờ nó dump phát xuống như thế này, còn không thì nó phải hồi được cây như này, kéo được cây H4 xanh lại như [01:00:13] vậy thì may ra. ... [01:10:17] H4 này thì tạm thời đừng long."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {"huong": "GIAM", "dich": 65000},
+  "duong_di": [
+    {"huong": "GIAM", "dich": 65000},
+    {"huong": "TANG", "dich": [66000, 68000]}
+  ],
+  "dich_chinh": [66000, 68000],
+  "han_gio": null,
+  "vo_hieu": {
+    "gia": 64000,
+    "khung": "H4",
+    "so_nen": 1,
+    "chieu": "dong_duoi",
+    "cau": "Còn nếu giá thủng để xác nhận mất xu hướng của đoạn này thì mình nghĩ sẽ phải xuống dưới 64, dưới 64 hoặc 63.000 này thì mới gãy xu hướng tăng được. Còn lại về bản chất những nhịp này mình thấy vẫn đang điều chỉnh thôi."
+  },
+  "lenh": [
+    {"chieu": "LONG", "vao": 65000, "tp": [], "sl": null, "trang_thai": "de_xuat_moi"},
+    {"chieu": "SHORT", "vao": 66000, "tp": [65000, 65500], "sl": null, "trang_thai": "de_xuat_moi"}
+  ],
+  "hanh_dong": "dung_ngoai_cho_entry",
+  "khung_lon": {"D1": "TANG", "W1": "GIAM"},
+  "pha_vo_gia": "Muốn chờ giá 'kill stop loss của các ông long hỗ trợ' (về ~65.000, 'vẫn còn quá nhiều' long chưa bị kill) rồi mới vào; phía trên nói giá có thể rướn quét 68 bằng râu rồi mới gãy sâu. Mốc 65.500 thủng sáng nay là 'cột mốc phá vỡ ra khỏi nhịp hồi ngày hôm qua'.",
+  "trich_them": [
+    {"gio": "[00:24:08]", "cau": "Hiện tại ở đây nó đã bị từ chối ở ngay cái vùng kháng cự cho nên là chúng ta sẽ phải cẩn trọng tuyệt đối. Hiện [00:24:43] tại ở vùng này là mình không có long nữa."},
+    {"gio": "[00:26:16]", "cau": "Thì đối với cái vùng này thì hoàn toàn có thể là nó đi về tiếp cái vùng 65 thì mình vẫn đang kỳ vọng nó phải 65. ... Nhưng mà tất cả những cái nhịp nó đi xuống ở đây nó đều mang tính chất là những cái nhịp điều chỉnh thôi chứ chưa phải là những cái nhịp gãy xu hướng tăng đâu. Cho nên nếu mà anh em có bán xuống thì cũng đánh nho nhỏ thôi."},
+    {"gio": "[00:27:22]", "cau": "Còn lại nếu chúng ta đánh lên đánh bay thì thực tế trước mắt mình nghĩ vùng 65.000 này là vùng chúng ta chờ. [00:27:56] 65.000 này là vùng chúng ta chờ phản ứng giá ở đây nếu muốn tìm vị thế đi lên."},
+    {"gio": "[00:31:09]", "cau": "Từ giờ đến cuối tuần và khả năng là từ giờ đến lúc FED ra lãi suất, đến ngày 30, thị trường sẽ nhập nhằng trong biên độ khoảng 64 cho đến khoảng 68."},
+    {"gio": "[00:32:55]", "cau": "Kiểu vậy khả năng chắc phải có một cú dump nhẹ về khoảng 500 giá. 65.000 thì được khoảng thêm 300 giá từ giờ ... 65.500 cho đến 65.000 là vùng các anh em đang sell thì có thể cân nhắc làm vùng TP. ... Long đoạn này rủi ro, mặc dù thuận xu hướng nhưng tốt nhất là nên chờ."},
+    {"gio": "[00:39:05]", "cau": "Trước khi nó gãy về, tệ lắm cũng phải 65.000 thì mình nghĩ khả năng hồi lên được đó hơi khó. Còn nếu nó về dưới này rồi sau đó hồi lên thì hợp lý, thậm chí còn cao hơn nữa."},
+    {"gio": "[00:43:19]", "cau": "Nếu muốn short mình nghĩ vẫn quanh 66 thì hợp lý hơn."}
+  ],
+  "kho": "Ranh giới TANG/GIAM: cấu trúc H4 vẫn tăng (đích ngược lên 66-68, biên 64-68 tới ngày FED 30/7) nhưng việc trước mắt là điều chỉnh về 65.000, H4 nến xấu, 'tạm thời đừng long', sell nhỏ được. Gán TANG (độ chắc thấp) theo chặng cuối; chặng kế là GIAM 65.000. Long ở 65 không nêu TP/SL; short ở 66 trả lời câu hỏi người xem."
+}

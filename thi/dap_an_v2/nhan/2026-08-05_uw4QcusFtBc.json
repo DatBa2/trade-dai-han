@@ -1,0 +1,51 @@
+{
+  "buoi": "2026-08-05_uw4QcusFtBc",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/zip_clean/2026-08-05_uw4QcusFtBc.txt",
+  "gia_btc_luc_noi": 64000,
+  "dau_buoi": {
+    "thien_huong_h4": "GIAM",
+    "gio": "[00:07:03]",
+    "trich": "Bởi vì cho dù nó hồi nhưng biên độ này mình cảm giác nó vẫn không đủ sự an toàn, cũng không đủ phê, cũng không tạo ra được một con sóng ổn định. Cho nên mình vẫn chọn phương án là dò đường thuận xu hướng."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "GIAM",
+    "do_chac": "vua",
+    "gio": "[00:28:28]",
+    "trich": "Như hôm qua mình nói plan nó vẫn giữ nguyên là gì? Nó phải đóng nến trên 65.000 thì mình mới đánh lên. Còn nếu không ở đây thì mình vẫn tiếp tục view nó về 60.000, không thay đổi gì hết ... Fibo hiện tại đang hồi lên vùng 0.5 thì xác suất là gãy về tiếp vùng 1.618 rất cao. Hết chuyện."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {"huong": "GIAM", "dich": 60000},
+  "duong_di": [
+    {"huong": "GIAM", "dich": 63000},
+    {"huong": "GIAM", "dich": 60000}
+  ],
+  "dich_chinh": 60000,
+  "han_gio": null,
+  "vo_hieu": {
+    "gia": 65000,
+    "khung": "H4",
+    "so_nen": 1,
+    "chieu": "dong_tren",
+    "cau": "Nó phải đóng nến trên 65.000 thì mình mới đánh lên."
+  },
+  "lenh": [
+    {"chieu": "SHORT", "vao": 64000, "tp": [60000], "sl": 65000, "trang_thai": "dang_giu"}
+  ],
+  "hanh_dong": "giu_lenh",
+  "khung_lon": {"D1": "PHAN_VAN", "W1": "GIAM"},
+  "pha_vo_gia": "Cú quét lên 64.000 (vùng liquid + trendline cản) được coi là pha quét; thị trường downtrend 'pump một phát ... kill' hai đầu. Có thể quét liquid dưới trước rồi mới pump nếu muốn break lên.",
+  "trich_them": [
+    {"gio": "[00:04:44]", "cau": "Mình nghĩ là trong hết ngày hôm nay chúng ta sẽ có câu trả lời cho xu hướng của thị trường. Liệu rằng có lên được và chinh phục được cột mốc là 70 hay 72.000 hay là tiếp tục thất bại và đi xuống."},
+    {"gio": "[00:05:25]", "cau": "đây nếu break được D1 thì lên được 71 77 khá ngon, ít nhất là cũng 71, nhưng đó là điều kiện, còn hiện tại thì vẫn chưa qua được khỏi đoạn này. Cho nên đó là điều kiện với câu chuyện là break lên trên khỏi 65. Còn nếu không thì sẽ fail và vẫn tiếp tục câu chuyện như ngày hôm qua."},
+    {"gio": "[00:27:56]", "cau": "Hôm qua anh em nào bắt sell thì cũng đã có những entry 6400. Bây giờ chúng ta cứ ngồi im thôi. Hoặc anh em nào thích chốt lãi cứ chốt lãi không có vấn đề gì hết."},
+    {"gio": "[00:29:33]", "cau": "chúng ta sẽ phải chờ nó phá lên được khỏi 65.000 đóng nến ở trên đó và confirm thì chúng ta mới đánh đuổi đi lên đến 70. Còn bằng 0 thì thôi vẫn là tiếp tục giữ xu hướng mà vẫn có xác suất đi xuống"},
+    {"gio": "[00:32:22]", "cau": "Sau đó nếu đoạn này nó chỉ cần gãy khỏi cái trendline, gãy khỏi 63 là bắt đầu đi xuống, đi xuống dưới này một phát là rụng ngay về dưới này."},
+    {"gio": "[00:32:54]", "cau": "Đây chính là cái rủi ro giá break lên, đi lên. Xác suất này cũng rất là cao chứ không phải là không cao. Thành ra chúng ta vẫn phải thận trọng."},
+    {"gio": "[00:40:37]", "cau": "Thực tế đoạn này anh em muốn big short thì sẽ phải DCA lên đến tận 65. Còn cao hơn 65.003 13500 thì mới cắt."},
+    {"gio": "[00:41:44]", "cau": "Khả năng test đỉnh 67 mấy điều chỉnh mình nghĩ là không bởi vì nếu nó test ở vùng này thì chắc là nó sẽ lên luôn cái vùng 70 đến 72"},
+    {"gio": "[00:59:07]", "cau": "Thằng BTC này mình nhìn màu nó vẫn muốn đi lên. Không hiểu vì sao nó cứ lên nó bị đạp xuống một phát. Nhưng đoạn này nó vẫn đang đứng, giữ được."},
+    {"gio": "[00:26:00]", "cau": "Còn giữ lệnh short 125 không? Còn chứ 124.000 124.500 gì đó. Còn để khi nào thị trường nó tạo đáy mình sẽ quay cái lệnh đó cho anh em xem."}
+  ],
+  "kho": "Giá ở sát cản 64-65k, người nói thừa nhận xác suất break lên 'cũng rất là cao' và cuối buổi thấy BTC 'vẫn muốn đi lên' nhưng không đổi plan (vẫn giữ sell, view 60k). Không nói khung nến cho mốc 65.000 nên ghi H4/1. SL cắt lệnh bị phụ đề làm hỏng ('65.003 13500'), ghi 65000. Lệnh short dài hạn 124-124.5k (khung lớn) không đưa vào lenh H4."
+}

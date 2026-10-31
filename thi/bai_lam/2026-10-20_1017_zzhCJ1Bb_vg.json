@@ -1,0 +1,103 @@
+{
+ "buoi": "2026-10-20_1017_zzhCJ1Bb_vg",
+ "ngay": "2026-10-20",
+ "gio_vn": "10:17",
+ "gia_btc_luc_noi": 82133,
+ "nhan_dinh": [
+  {
+   "khung": "H4",
+   "huong": "TANG",
+   "do_chac": "vua",
+   "dich": [84000, 84000],
+   "han": "1–2 ngày, tới hết thứ Tư 21/10",
+   "han_gio": 48,
+   "vo_hieu_khi": "Nến H4 đóng dưới 80.600 (thủng ba đáy 80.68–80.81, mất vùng 80)",
+   "kich_ban_phu": "Có thể còn quét lại 81.5–81.7 một lần nữa trong phiên Âu rồi mới đi; chưa đóng H4 trên 83.2 thì còn râu qua lại",
+   "duong_di": [{"huong": "TANG", "dich": 83200}, {"huong": "TANG", "dich": 84000}],
+   "doi_y": null,
+   "ly_do": [
+    "Giữ view 19/10: không có lý do để sale, mục tiêu 84–86; mốc sai 'mất 80' chưa xảy ra",
+    "Nhịp điều chỉnh ~1.000–2.000 giá đã chờ hôm qua đã xong: từ 83.17 về 81.2, chạm đúng Fibo 0.786 nhịp 80.68 → 83.17 rồi rút chân, cây H4 07:00 đóng ngay đỉnh",
+    "Đáy H4 vẫn cao dần 79.78 → 80.68 → 81.2, không tạo đáy thấp hơn",
+    "Giá đứng trên EMA200 H4 82.01 và trong dải EMA34, chỉ còn EMA89 82.61 chắn → qua là trống tới 83–84",
+    "Cụm thanh lý short 83–84 mới tạo chưa bị lụm → giá sẽ đi lên quét"
+   ],
+   "trich": null
+  },
+  {
+   "khung": "D1",
+   "huong": "TANG",
+   "do_chac": "vua",
+   "dich": 86000,
+   "han": "3–7 ngày",
+   "han_gio": 168,
+   "vo_hieu_khi": "Nến D1 đóng dưới 81.000",
+   "kich_ban_phu": "Trước họp Fed 29/10 có thể đi ngang 81–84 vài ngày",
+   "duong_di": null,
+   "doi_y": null,
+   "ly_do": [
+    "Giữ view 19/10: khung ngày vẫn xu hướng tăng, ba lần test 80–81 đều giữ",
+    "D1 19/10 đóng 81.944 trên mốc 81, hôm nay rút chân từ 81.2",
+    "Giá giữ trên EMA34 D1 (81.92), EMA89 D1 77.7 còn xa bên dưới",
+    "Đích 86 = Fibo 0.786 sóng ngày 87.4 → 79.8 (85.77) + đỉnh 86–87"
+   ],
+   "trich": null
+  },
+  {
+   "khung": "W1",
+   "huong": "TANG",
+   "do_chac": "vua",
+   "dich": [90000, 93000],
+   "han": "2–4 tuần",
+   "han_gio": 504,
+   "vo_hieu_khi": "Nến tuần đóng dưới 80.000",
+   "kich_ban_phu": "Lên 90–93 chỉ là hồi tối đa trong downtrend lớn; đóng trên 100K mới hết downtrend",
+   "duong_di": null,
+   "doi_y": null,
+   "ly_do": [
+    "Giữ view: nến tuần trước đóng đẹp giữ 80 và 82",
+    "Giá trên dải EMA34 tuần và EMA89 tuần 79.5"
+   ],
+   "trich": null
+  }
+ ],
+ "vung_gia": {
+  "khang_cu": [82600, 83200, 84000, 86000],
+  "ho_tro": [81700, 81200, 80700, 80000]
+ },
+ "lenh": [
+  {"chieu": "LONG", "loai": "limit", "vao": 81800, "tp": [82950, 83850], "sl": 80550, "trang_thai": "de_xuat_moi"}
+ ],
+ "hanh_dong": "vao_long",
+ "giu_view": true,
+ "ly_do_doi_view": "Không có (a)–(d): không nến H4 nào đóng dưới 80, D1 đóng trên 81; nhịp điều chỉnh về 81.2 đúng là cú chỉnh ~1.000 giá hôm qua chờ để vào lại, không phải tín hiệu đổi hướng.",
+ "rau": {
+  "tren": "83.168 (H4 mở 11:00 19/10) — đỉnh nhịp hồi hôm qua, chưa chạm 84",
+  "duoi": "81.200 (H4 mở 07:00 20/10) — rút chân 0.9%, chạm Fibo 0.786 rồi đóng ngay đỉnh nến",
+  "test_lai": "Râu trên 83.17: CÓ — là chặng đầu của đích, trùng mép trên dải EMA34 D1 82.99 + đỉnh 82.93 + cụm thanh lý short 83–84 chưa bị lụm. Râu dưới 81.2: KHÔNG — vừa test xong và rút chân ngay, nến đóng sát đỉnh; phía dưới còn EMA34 H4 81.7 đỡ."
+ },
+ "vung_on": [
+  {
+   "loai": "LONG",
+   "khoang": [81200, 81900],
+   "ly_do": [
+    "Fibo 0.618–0.786 nhịp H4 80.68 → 83.17 (81.63 / 81.21)",
+    "Mép dưới dải EMA34 H4 81.68 + EMA34 D1 81.92",
+    "Đáy H4 81.74–81.76 đêm qua + râu rút chân 81.2",
+    "EMA200 H4 82.01 ngay phía trên làm sàn"
+   ]
+  },
+  {
+   "loai": "SHORT",
+   "khoang": [83900, 84500],
+   "ly_do": [
+    "Ba râu đỉnh H4 84.15 / 84.17 / 84.36",
+    "Neckline hai đỉnh D1 ~84",
+    "Fibo 0.618 sóng ngày 87.4 → 79.8 ở 84.49",
+    "Chỉ là vùng chốt lời long, không short ngược xu hướng ngày"
+   ]
+  }
+ ],
+ "pha_vo_gia": "Cú chọc xuống 81.2 sáng nay là cây dụ short: chỉ có râu, thân đóng lại 82.13 sát đỉnh nến (G1), quét đúng SL phe long dưới đáy 81.74 (G4), 1 cây duy nhất (G2). Không đổi view.",
+ "loi_binh": "View từ hôm qua không thay đổi gì nhiều anh em: hôm qua mình nói đừng long FOMO, chờ điều chỉnh khoảng 1.000 giá rồi tính, và nó về đúng 81.2, chạm Fibo rồi rút chân cái là đóng ngay đỉnh. Đáy vẫn cao dần, giữ 80 tốt, không có lý do gì để sale cả. Vùng 81.5–81.9 mình long vol vừa phải, SL dưới 80.5, chốt non 83 rồi 83.8, đủ mồm thì chốt. Qua được MA89 H4 ở 82.6 là đường lên 84 khá trống."
+}

@@ -1,0 +1,359 @@
+{
+  "buoi": "2026-06-08_WZ8PpZ9VA4Q",
+  "ngay": "2026-06-08",
+  "gia_btc_luc_noi": 63000,
+  "moc": [
+    {
+      "gia": 52000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "W1",
+      "can_cu": [
+        "mô hình vai đầu vai khung tuần: biên độ từ đỉnh về trendline cổ = khoảng cách từ trendline xuống đáy",
+        "vùng hỗ trợ cứng"
+      ],
+      "moc_gio": "00:13:37",
+      "chac": true,
+      "trich": "Rõ ràng đây là đáy 52. 52 rõ ràng là một vùng hỗ trợ cứng"
+    },
+    {
+      "gia": 67000,
+      "gia_tren": 69000,
+      "vai_tro": "khang_cu",
+      "huong": "TANG",
+      "khung": "W1",
+      "can_cu": [],
+      "moc_gio": "00:14:10",
+      "chac": true,
+      "trich": "hồi căng mình nghĩ 67 69 là hết sức"
+    },
+    {
+      "gia": 55000,
+      "gia_tren": 58000,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "W1",
+      "can_cu": [
+        "Fibo 0.618 (đang test chưa xong)",
+        "đã thủng Fibo 0.5"
+      ],
+      "moc_gio": "00:14:41",
+      "chac": true,
+      "trich": "thủng khỏi Fibo 0.5 và đang test Fibo 0.618... Không thể nào tránh khỏi vùng 58 hay 55"
+    },
+    {
+      "gia": 40000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "W1",
+      "can_cu": [
+        "Fibo 0.786"
+      ],
+      "moc_gio": "00:15:48",
+      "chac": true,
+      "trich": "Ở đây chúng ta có Fibo 0.786 là ở 40.000"
+    },
+    {
+      "gia": 32000,
+      "gia_tren": 33000,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "W1",
+      "can_cu": [
+        "dưới Fibo 0.786 như nhịp ngày xưa"
+      ],
+      "moc_gio": "00:15:48",
+      "chac": true,
+      "trich": "Nếu như ngày xưa thì nó sẽ về loanh quanh khoảng 33 32.000"
+    },
+    {
+      "gia": 30000,
+      "gia_tren": 35000,
+      "vai_tro": "entry",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": "00:16:21",
+      "chac": true,
+      "trich": "kỳ vọng trung bình giá Bitcoin mình mua được khoảng từ 30 cho đến 35.000"
+    },
+    {
+      "gia": 120000,
+      "gia_tren": null,
+      "vai_tro": "tp",
+      "huong": "TANG",
+      "khung": "W1",
+      "can_cu": [
+        "chốt 1/2 từ đỉnh cũ cộng lên ~30%",
+        "mùa sau"
+      ],
+      "moc_gio": "00:16:21",
+      "chac": false,
+      "trich": "mùa sau chốt lãi khoảng tầm 120"
+    },
+    {
+      "gia": 50000,
+      "gia_tren": 70000,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": "W1",
+      "can_cu": [
+        "biên sideway đến khoảng tháng 10, hỗ trợ cực cứng"
+      ],
+      "moc_gio": "00:17:28",
+      "chac": true,
+      "trich": "giá sẽ lòng vòng trong biên từ 50 cho đến 70"
+    },
+    {
+      "gia": 71000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "TANG",
+      "khung": "W1",
+      "can_cu": [
+        "Fibo 0.5 (hồi tối đa)",
+        "MA D1 ở 70.000-71.000 trùng Fibo 0.5"
+      ],
+      "moc_gio": "00:19:06",
+      "chac": true,
+      "trich": "Cùng lắm nó hồi lên Fibo là 71. Chúng ta ghi lại vùng 71 này là vùng Fibo 0.5"
+    },
+    {
+      "gia": 60000,
+      "gia_tren": 61000,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "đáy ngắn hạn, test đáy lần 2"
+      ],
+      "moc_gio": "00:21:18",
+      "chac": true,
+      "trich": "Test hai lần rồi có thể test ở vùng 60 61 này là chuyện bình thường"
+    },
+    {
+      "gia": 67000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "MA89 H4",
+        "test MA34 H4 trước đó"
+      ],
+      "moc_gio": "00:22:55",
+      "chac": true,
+      "trich": "Lần này hoàn toàn có thể nó lên test MA89, đâu đó khoảng 67.000"
+    },
+    {
+      "gia": 61000,
+      "gia_tren": null,
+      "vai_tro": "entry",
+      "huong": "TANG",
+      "khung": "M5",
+      "can_cu": [
+        "Fibo 0.618 hoặc 0.5 khung nhỏ M5"
+      ],
+      "moc_gio": "00:23:25",
+      "chac": true,
+      "trich": "cây này giúp anh em mình khớp được entry là 61.000 đêm ngày hôm qua. Fibo 618 hay 0.5"
+    },
+    {
+      "gia": 63000,
+      "gia_tren": null,
+      "vai_tro": "sl",
+      "huong": "GIAM",
+      "khung": "M5",
+      "can_cu": [
+        "Fibo 0.618 M5",
+        "cản H4"
+      ],
+      "moc_gio": "00:25:34",
+      "chac": true,
+      "trich": "chạm Fibo 618 rút xuống... SL khi nến đóng trên 63.000 khỏi Fibo này"
+    },
+    {
+      "gia": 64000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "râu nến 64.000"
+      ],
+      "moc_gio": "00:27:10",
+      "chac": true,
+      "trich": "đôi khi nó bay test lại râu 64.000 này"
+    },
+    {
+      "gia": 61000,
+      "gia_tren": 61700,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "đáy cũ"
+      ],
+      "moc_gio": "00:27:44",
+      "chac": true,
+      "trich": "Cùng lắm về đây 61.000-61.700 lại đi lên tiếp"
+    },
+    {
+      "gia": 65000,
+      "gia_tren": 67000,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [],
+      "moc_gio": "00:27:44",
+      "chac": true,
+      "trich": "đi lên đây 65-67.000 là hợp lý"
+    },
+    {
+      "gia": 62000,
+      "gia_tren": null,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": null,
+      "can_cu": [
+        "gap CME nhỏ ở 62.000"
+      ],
+      "moc_gio": "00:29:55",
+      "chac": true,
+      "trich": "Gap nhỏ xíu 62.000... nó test về 61.000 thì cũng hợp lý"
+    },
+    {
+      "gia": 20000,
+      "gia_tren": null,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": "D1",
+      "can_cu": [
+        "gap CME dưới"
+      ],
+      "moc_gio": "00:29:20",
+      "chac": true,
+      "trich": "Gap dưới bây giờ chỉ còn là 20.000 thôi"
+    },
+    {
+      "gia": 61000,
+      "gia_tren": 62000,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý / heatmap 62.000-61.000"
+      ],
+      "moc_gio": "00:35:26",
+      "chac": true,
+      "trich": "Thanh lý chúng ta có là 62.000 61.000. Trong ngắn hạn khả năng nó về đến đó"
+    },
+    {
+      "gia": 72000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": "00:35:26",
+      "chac": false,
+      "trich": "Không thấy cửa lên được 72"
+    },
+    {
+      "gia": 52000,
+      "gia_tren": 53000,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": "00:39:11",
+      "chac": true,
+      "trich": "nếu mà rớt thì có thể rớt về 52 53. Sâu hơn nữa sẽ về 40... 30... 20"
+    },
+    {
+      "gia": 70000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": "00:39:11",
+      "chac": true,
+      "trich": "Cao hơn 67 sẽ là 70, 69"
+    },
+    {
+      "gia": 60000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": "00:53:00",
+      "chac": true,
+      "trich": "hỗ trợ của nó sẽ là ở vùng 60.000. Nếu thủng 60.000 thì sẽ đi về 55, 53"
+    },
+    {
+      "gia": 50000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": "00:53:00",
+      "chac": true,
+      "trich": "Bitcoin đang chờ về 50.000"
+    },
+    {
+      "gia": 62700,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "GIAM",
+      "khung": "M5",
+      "can_cu": [
+        "Fibo M5"
+      ],
+      "moc_gio": "01:06:11",
+      "chac": true,
+      "trich": "chỉ cần băng qua khỏi 62.700 này thì sẽ rụng về vùng 61.000 hoặc 62.000"
+    },
+    {
+      "gia": 62000,
+      "gia_tren": null,
+      "vai_tro": "tp",
+      "huong": "GIAM",
+      "khung": "M5",
+      "can_cu": [
+        "râu nến ~62.000"
+      ],
+      "moc_gio": "01:06:42",
+      "chac": true,
+      "trich": "kéo TP1 ở 62.000, TP2 ở 62.000... entry ở 62.300"
+    },
+    {
+      "gia": 63200,
+      "gia_tren": null,
+      "vai_tro": "entry",
+      "huong": "GIAM",
+      "khung": "M5",
+      "can_cu": [
+        "Fibo 0.5 M5"
+      ],
+      "moc_gio": "01:10:19",
+      "chac": true,
+      "trich": "Short từ 63k2, SL 63k5 lúc nãy, lệnh này chính xác (short ngay Fibo 0.5)"
+    },
+    {
+      "gia": 61000,
+      "gia_tren": 62000,
+      "vai_tro": "entry",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": "00:55:40",
+      "chac": true,
+      "trich": "Chờ nó về lại vùng 62, 61.000 rồi chơi (long)"
+    }
+  ]
+}

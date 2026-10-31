@@ -1,0 +1,101 @@
+{
+ "buoi": "2026-08-07_N-7XihrObp8",
+ "ngay": "2026-08-07",
+ "gio_vn": "11:00",
+ "gia_btc_luc_noi": 64294,
+ "nhan_dinh": [
+  {
+   "khung": "H4",
+   "huong": "PHAN_VAN",
+   "do_chac": "vua",
+   "dich": null,
+   "han": "chờ tới sau Non-farm tối nay (19:30), xem cây H4 23h và 03h sáng mai",
+   "han_gio": 20,
+   "vo_hieu_khi": "hết phân vân khi H4 đóng trên 65.100 (phá hẳn trần 65.000 → tính long) hoặc H4 đóng dưới 63.900 (gãy cụm MA + hỗ trợ 64.000 → tính short); râu chọc qua không tính",
+   "kich_ban_phu": null,
+   "duong_di": null,
+   "doi_y": "hôm qua TĂNG thấp đích 65.000; giá đã chạm 65.000 ba lần (xong đích) nhưng không đóng qua được, D1 đóng đỏ, nay lùi về sát 64.000 trước Non-farm → chuyển sang đứng ngoài chờ nến xác nhận",
+   "ly_do": [
+    "đích 65.000 hôm qua đã tới: ba cây H4 (11h, 15h, 19h 06/08) chạm 64.989–65.000 rồi đều bị đạp, không cây nào đóng trên 65",
+    "giá kẹt trong hộp hẹp 64.000–65.000 suốt 6 cây H4, đúng hai mốc đã nêu (đóng trên 65 mới gọi là phá; gãy hẳn 64 thì short lại)",
+    "EMA34/89/200 H4 chụm sát 64.060–64.120 (0,10%) = đi ngang, MA không còn chỉ hướng; giá đang nằm ngay trên cụm này",
+    "D1 hôm qua đóng đỏ có râu trên 65.000 sau hai cây xanh → không FOMO long, nhưng đáy H4 vẫn cao dần (62.268 → 63.881 → 64.173) nên chưa có cơ sở short",
+    "tối nay Non-farm: trước tin không vào lệnh mới, giá ở giữa hai cụm liquid 65.000 và 63.000–64.000"
+   ],
+   "trich": null
+  },
+  {
+   "khung": "D1",
+   "huong": "PHAN_VAN",
+   "do_chac": "thap",
+   "dich": null,
+   "han": "chờ D1 đóng hôm nay và thứ Bảy",
+   "han_gio": 48,
+   "vo_hieu_khi": "D1 đóng trên 65.000 (phá cây đỏ, mở đường cờ 70.000–71.000) hoặc D1 đóng dưới 63.300 (thủng dải EMA34 D1, về lại 62.000)",
+   "kich_ban_phu": null,
+   "duong_di": null,
+   "doi_y": "hôm qua D1 TĂNG thấp chờ đóng trên 65.000; D1 06/08 không đóng được trên 65 mà đóng đỏ",
+   "ly_do": [
+    "D1 06/08 đóng đỏ -0,5%, râu trên đúng 65.000, chưa phá được cây đỏ 31/07",
+    "giá vẫn trong dải EMA34 D1 (63.300–64.900), dưới EMA89 D1 ~66.500",
+    "khung ngày vẫn đi ngang 62.000–66.000"
+   ],
+   "trich": null
+  },
+  {
+   "khung": "W1",
+   "huong": "GIAM",
+   "do_chac": "vua",
+   "dich": [50000, 55000],
+   "han": "đáy chu kỳ khoảng tháng 9–10/2026",
+   "han_gio": null,
+   "vo_hieu_khi": "nến tuần đóng trên 71.500 (lấy lại dải EMA34 tuần)",
+   "kich_ban_phu": "giống 8/2022: hồi lên rồi bị đấm một cây tuần 20–25%",
+   "duong_di": null,
+   "doi_y": null,
+   "ly_do": [
+    "nến tuần 27/07 đỏ nhấn chìm ba tuần tăng tháng 7",
+    "giá dưới toàn bộ dải EMA34 tuần và EMA89 tuần",
+    "so chu kỳ 2022: vùng này chưa phải đáy, mọi nhịp lên chỉ là hồi"
+   ],
+   "trich": null
+  }
+ ],
+ "vung_gia": {
+  "khang_cu": [65000, 65400, 66000],
+  "ho_tro": [64000, 63000, 62000]
+ },
+ "lenh": [],
+ "hanh_dong": "dung_ngoai_vi_lap_lung",
+ "giu_view": false,
+ "ly_do_doi_view": "(b) Đích 65.000 của view tăng hôm qua đã tới (ba lần râu chạm 65.000) nhưng không đóng qua; D1 06/08 đóng đỏ; giá lùi về sát mốc 64.000 → lấp lửng ngay giữa hai mốc công tắc 64.000/65.000, cộng Non-farm tối nay nên chuyển sang chờ nến xác nhận.",
+ "rau": {
+  "tren": "65.000–65.027 — râu trên H4 03h, 11h, 15h ngày 06/08 (ba lần chạm cùng một chỗ)",
+  "duoi": "64.173 — râu dưới H4 19h 06/08, ngay trên cụm MA H4 và mốc 64.000",
+  "test_lai": "Râu trên 65.000: CÓ — chạm 3 lần, SL phe short dồn ngay trên số tròn 65.000 và liquid 65.300, kiểu gì tin Non-farm cũng quét lên đó (R2). Râu dưới 64.173: CÓ — chỉ cách 64.000 (cụm MA H4 + cản cũ 6 râu đổi vai thành hỗ trợ) chưa tới 200 giá, liquid 63.900–64.000 chưa bị quét (R2). Hai râu là hai đầu hộp, chưa biết quét đầu nào trước nên không vào giữa."
+ },
+ "vung_on": [
+  {
+   "loai": "LONG",
+   "khoang": [63800, 64100],
+   "ly_do": [
+    "cụm EMA34/89/200 H4 chụm 64.060–64.120 + đáy dải EMA34 H4 ~63.850",
+    "kháng cự cũ 64.000 (6 râu mới phá ở cây thứ 7) đổi vai thành hỗ trợ",
+    "râu H4 63.881 (05/08) + liquid 64.000",
+    "chỉ vào khi có nến rút chân + volume sau tin, không limit trước Non-farm"
+   ]
+  },
+  {
+   "loai": "SHORT",
+   "khoang": [65100, 65500],
+   "ly_do": [
+    "trần 65.000 bị chạm 3 lần + trendline giảm H4 nối đỉnh 66.955 → 65.750 → 65.424",
+    "đỉnh H4 65.424 (31/07) + liquid 65.300",
+    "dải trên EMA34 D1 ~64.900–65.000",
+    "chỉ short khi có cây quét lên rồi rút râu, không đóng giữ được trên 65"
+   ]
+  }
+ ],
+ "pha_vo_gia": "Chưa có cú phá nào thật: 65.000 bị chọc 3 lần đều chỉ bằng râu, thân đóng lại dưới (G1), không có cây H4 nào đóng qua (G2), lần chọc 19h rơi đúng phiên Mỹ quét hai đầu (G9). Cú nào xảy ra trong 1–2 giờ quanh Non-farm cũng coi là quét (G6), phải chờ cây H4 đóng sau tin.",
+ "loi_binh": "Hôm nay thứ Sáu lại có Non-farm anh em. Hôm qua nó lên đúng 65 ba lần mà không đóng nổi cây nào trên 65, giờ lùi về sát 64, giá nằm ngay giữa 64 với 65, long không được short không xong thì làm gì? Xem livestream. H4 đóng lên trên 65 thì mình tính lên tiếp theo cờ, còn đóng thủng 64 thì mình short lại về 63; giờ 50-50 với tin trước mặt thì mình không tham gia. Thà rớt nước miếng còn hơn lau nước mắt, cuối tuần anh em xử lý lệnh cho gọn."
+}

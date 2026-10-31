@@ -1,0 +1,23 @@
+{
+  "buoi": "2026-02-03_ewRoIMVREvw",
+  "ngay": "2026-02-03",
+  "gia_btc_luc_noi": 78000,
+  "moc": [
+    {"gia": 77000, "gia_tren": null, "vai_tro": "entry", "huong": "TANG", "khung": "H4", "can_cu": ["Fibo (chờ ở Fibo)", "điểm vào lệnh hôm qua 75-76K"], "moc_gio": "00:03:20", "chac": true, "trich": "không nên vào market mà hãy chờ ở Fibo. Chờ ở cái vùng này 77.000, còn một ít ở 76"},
+    {"gia": 80000, "gia_tren": 81000, "vai_tro": "tp", "huong": "TANG", "khung": "H4", "can_cu": ["MA34 H4"], "moc_gio": "00:09:51", "chac": true, "trich": "MA34 ở trên khung H4 vẫn đang chờ để test thì tối thiểu nó sẽ lên được cái vùng này 80 81"},
+    {"gia": 79100, "gia_tren": null, "vai_tro": "khang_cu", "huong": "TANG", "khung": null, "can_cu": ["đỉnh sáng 03/02", "không back hai đỉnh"], "moc_gio": "00:05:32", "chac": true, "trich": "Nhịp lúc sáng nó lên đến 79k1. Mình tính nếu nó không có back hai đỉnh này thì khả năng nó lên được luôn"},
+    {"gia": 62000, "gia_tren": 65000, "vai_tro": "dich", "huong": "GIAM", "khung": "D1", "can_cu": ["giá nằm xa MA D1", "mô hình cờ khung ngày"], "moc_gio": "00:09:19", "chac": true, "trich": "mục tiêu của mình đoạn này thì vẫn là về 65 cho đến 62"},
+    {"gia": 83000, "gia_tren": 84000, "vai_tro": "entry", "huong": "GIAM", "khung": "D1", "can_cu": ["giá nằm xa MA D1, hồi test MA"], "moc_gio": "00:09:19", "chac": true, "trich": "hi vọng nó hồi cao tí chúng ta có entry để short. Mình nghĩ là lên khoảng 84 83 là cũng đẹp rồi"},
+    {"gia": 76000, "gia_tren": 77000, "vai_tro": "entry", "huong": "TANG", "khung": "H4", "can_cu": ["Fibo 0.618 và 0.5", "cụm thanh lý bên dưới"], "moc_gio": "00:20:48", "chac": true, "trich": "769 đến 76.00. Khít với Fibo luôn... Chờ ở vùng 76.00 quanh vùng Fibo 618 với 0.5"},
+    {"gia": 79000, "gia_tren": null, "vai_tro": "khang_cu", "huong": "TANG", "khung": "H1", "can_cu": ["cản bên tay trái (vùng cản cũ)"], "moc_gio": "00:10:21", "chac": true, "trich": "H1 đóng cao hơn 79.000 thì khả năng nó sẽ chạm được vùng 80 quanh 81. Nếu không qua thì không có động lực lên"},
+    {"gia": 81000, "gia_tren": null, "vai_tro": "dich", "huong": "TANG", "khung": "H1", "can_cu": ["Fibo mở rộng từ điểm back 76.000 (H1 hoặc M30)", "gap CME 79.600-81.000"], "moc_gio": "00:12:25", "chac": true, "trich": "nó về đến khoảng 76.00, sau đó bật lên thì Fibo mở rộng: ngưỡng đầu tiên nó sẽ gặp là lên đến 81.00"},
+    {"gia": 84000, "gia_tren": null, "vai_tro": "dich", "huong": "TANG", "khung": "H1", "can_cu": ["Fibo mở rộng nếu test về 76K"], "moc_gio": "00:12:25", "chac": true, "trich": "Còn nếu mà lên căng hơn nữa thì nó sẽ lên được khoảng độ 84.000. Với điều kiện là nó test về đây"},
+    {"gia": 82000, "gia_tren": 85000, "vai_tro": "dich", "huong": "TANG", "khung": "H1", "can_cu": ["Fibo ngang (nếu không back)"], "moc_gio": "00:12:57", "chac": true, "trich": "Fibo ngang đến đây thì nó cũng sẽ lên được khoảng đâu đó là 82 và 85"},
+    {"gia": 90000, "gia_tren": null, "vai_tro": "khang_cu", "huong": "GIAM", "khung": "W1", "can_cu": ["xu hướng khung tuần và khung ngày"], "moc_gio": "00:13:28", "chac": true, "trich": "mà vượt qua được khỏi cái vùng 90 thì gần như là khó hơn lên trời"},
+    {"gia": 72000, "gia_tren": null, "vai_tro": "vo_hieu", "huong": "GIAM", "khung": "D1", "can_cu": ["kịch bản: về 62 rồi hồi 72 rồi về 50"], "moc_gio": "00:13:28", "chac": false, "trich": "Trừ khi nó về đến 62 sau đó nó hồi nhẹ lên đến khoảng độ 72 rồi lại về tiếp 50"},
+    {"gia": 50000, "gia_tren": null, "vai_tro": "dich", "huong": "GIAM", "khung": "D1", "can_cu": [], "moc_gio": "00:13:28", "chac": false, "trich": "rồi lại về tiếp 50. Kiểu như thế thì coi như chúng ta đánh nhịp sau rồi"},
+    {"gia": 80000, "gia_tren": null, "vai_tro": "khang_cu", "huong": null, "khung": null, "can_cu": ["cụm thanh lý / heatmap"], "moc_gio": "00:20:16", "chac": true, "trich": "Tầm này 79 80. 80 là liquid trên. Bên dưới còn khá nhiều"},
+    {"gia": 79600, "gia_tren": 81000, "vai_tro": "dich", "huong": "TANG", "khung": "H1", "can_cu": ["gap CME (từ vùng không có nến tới vùng không có nến)"], "moc_gio": "00:34:20", "chac": true, "trich": "Gap này phải tính từ vùng 79k6 cho đến vùng 81k"},
+    {"gia": 40000, "gia_tren": null, "vai_tro": "entry", "huong": "TANG", "khung": null, "can_cu": [], "moc_gio": "00:45:15", "chac": true, "trich": "ETH giá mấy gom được? Bao giờ Bitcoin về 40.000 là gom"}
+  ]
+}

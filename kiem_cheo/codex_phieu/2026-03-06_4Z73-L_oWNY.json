@@ -1,0 +1,39 @@
+{
+  "buoi": "2026-03-06_4Z73-L_oWNY",
+  "gia_btc_luc_noi": null,
+  "dau_buoi": {
+    "huong_h4": "TANG",
+    "trich": "[00:07:07] H4 thì ngược lại, chúng ta thấy H4 vẫn tiếp tục xu hướng tăng. Đỉnh đáy vẫn kéo lên và giá nằm trên MA"
+  },
+  "cuoi_buoi": {
+    "huong_h4": "TANG",
+    "trich": "[00:21:38] Về 69 bật lên thì mình nghĩ cửa lên Fibo này ở 75.000 vẫn cao ... [00:56:14] Còn lại thị trường thì như lúc nãy mình nhận định với anh em, không thay đổi nhiều lắm."
+  },
+  "doi_y_giua_buoi": false,
+  "huong_lon": {
+    "D1": "GIAM",
+    "W1": null,
+    "chu_ky": "GIAM"
+  },
+  "hanh_dong": "dung_ngoai_cho_entry",
+  "duong_di": [
+    {
+      "huong": "GIAM",
+      "dich": 69000,
+      "khung": "H1"
+    },
+    {
+      "huong": "TANG",
+      "dich": 75000,
+      "khung": "H4"
+    }
+  ],
+  "dich_chinh": 75000,
+  "moc_sai": {
+    "gia": 68000,
+    "dieu_kien": "Thủng 68.000 là khả năng mất nhịp hồi rất cao; thủng tiếp 67.000/67.xxx là end game [00:21:07–00:21:38]. H1 đóng xuyên 70.000 thì hủy bắt long ngay 70.000, chờ vùng thấp hơn [00:10:24]."
+  },
+  "pha_vo_gia": null,
+  "do_chac": "vua",
+  "ghi_chu": "Đã đọc hết transcript. Giá trong vùng 70.000–71.000, không xác định tick nên null. H4 tăng đối nghịch D1/chu kỳ giảm; vẫn gọi short là ngược xu hướng ngắn, chỉ chờ long khi có nến/cấu trúc tốt. Cuối nói nến xấu và ngồi im nhưng không rút lại view H4 tăng, không dùng hành động chờ để gán PHAN_VAN. Kịch bản đẹp chỉnh 69.000→75.000; limit bắt râu 68.800–69.000 chỉ ăn hồi 70.000/500 giá rồi SL entry, khác long theo nhịp hồi lớn.75.000 cần hỗ trợ giữ; không gán 80.000 làm đích chính vì nói cần tuần nữa/MA tuần dịch theo thời gian. W1 chỉ bàn việc MA phía trên dịch dần, chưa có hướng riêng đủ rõ nên null."
+}

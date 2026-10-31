@@ -1,0 +1,72 @@
+{
+  "buoi": "2026-06-10_38z3ITqKMkM",
+  "ngay": "2026-06-10",
+  "gio_vn": "10:00",
+  "gia_btc_luc_noi": 61500,
+  "nhan_dinh": [
+    {
+      "khung": "H4",
+      "huong": "GIAM",
+      "do_chac": "cao",
+      "dich": [58000, 60000],
+      "han": "hôm nay (trước tin CPI tối)",
+      "han_gio": 24,
+      "vo_hieu_khi": "H4/M30 đóng trên Fibo 0.5 H4 (61.650) rồi M30 qua 62.300 tạo đỉnh cao hơn thì mới tìm long",
+      "kich_ban_phu": "tệ nhất đi luôn về 53; nếu về 59-60 xuất hiện H4/H1 đảo chiều thì đánh hai đáy",
+      "ly_do": ["H4 đóng dưới Fibo 0.5 (61.650) là gần như sập, 90% về test 60.000", "nến ngày xấu, cụm đảo chiều hôm qua fail", "hồi từ 59 lên 64 đã là nhịp hồi ngon rồi, lực mua yếu", "trendline M30 vẫn là xu hướng giảm"],
+      "trich": "Nếu H4 đóng dưới Fibo 0.5 này thì mọi người bỏ tay ra khỏi nút long... gần như về test 60.000 nghìn mấy là chắc.",
+      "doi_y": null,
+      "duong_di": null
+    },
+    {
+      "khung": "D1",
+      "huong": "GIAM",
+      "do_chac": "vua",
+      "dich": [58000, 59000],
+      "han": "ngắn hạn, về quét râu 58",
+      "han_gio": null,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": "hai đáy D1 ở 58-60 rồi bật lên 69-70 (nếu hai đáy hợp lệ); long swing thật sự ở 49-53 vùng gap",
+      "ly_do": ["vùng đáy 58-60, khả năng rất cao quét râu 58", "Fear and Greed 9"],
+      "trich": "Khả năng rất cao về quét chứa râu 58. Cực kỳ cao là quét chứa râu 58.",
+      "doi_y": null,
+      "duong_di": [
+        {"huong": "GIAM", "dich": [58000, 59000]},
+        {"huong": "TANG", "dich": 69000}
+      ]
+    },
+    {
+      "khung": "chung",
+      "huong": "GIAM",
+      "do_chac": "vua",
+      "dich": [49000, 53000],
+      "han": "từ giờ đến cuối năm là thời gian khó khăn của downtrend",
+      "han_gio": null,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": null,
+      "ly_do": ["uptrend đã qua, vào downtrend", "1 đồng vốn trong downtrend bằng 10 đồng trong uptrend, giữ tiền chờ mua"],
+      "trich": "Xác định những ngày đồng hành đẹp đã qua rồi, uptrend qua rồi.",
+      "doi_y": null,
+      "duong_di": null
+    }
+  ],
+  "vung_gia": {"khang_cu": [61650, 62300, 63000], "ho_tro": [58000, 60000]},
+  "lenh": [
+    {"chieu": "SHORT", "loai": "vol nhỏ + DCA lên", "vao": 61700, "tp": null, "sl": 62300,
+     "trang_thai": "dang_giu",
+     "trich": "Vốn nhỏ và DCA lên trên, mình có entry short ở trên vùng 61.7 rồi."},
+    {"chieu": "SHORT", "loai": "limit", "vao": 63000, "tp": [61000, 61550], "sl": null,
+     "trang_thai": "da_chot",
+     "trich": "Lệnh trước đó entry 63.00, mình chốt hết ở vùng 61.00, 61.550."},
+    {"chieu": "SHORT", "loai": "nhồi thêm", "vao": 62000, "tp": [60850], "sl": null,
+     "trang_thai": "da_chot",
+     "trich": "Sau đó tối cho anh em một lệnh short nữa ở vùng 62. Sáng hôm nay chốt hết ở vùng 60.850."}
+  ],
+  "nhin_lai_truoc": "Cụm nến đảo chiều D1 hôm thứ hai (xác suất đảo chiều 85%) bị fail, chỉ là nhịp quét liquid short. Short vùng 63.000 hôm qua ăn hai phát, TP sâu nhất 60.900, giá chạm 60.758: 'coi như hôm qua là một ngày thành công'.",
+  "cong_cu": ["H4", "D1", "M30", "Fibo 0.5/0.618", "trendline", "gap CME", "liquidation heatmap", "Fear and Greed", "USDT.D", "volume"],
+  "tin_tuc": [{"tin": "CPI tối nay 19:30 (core 0.3 dự kiến, cần ra 0.1 mới tăng)", "danh_gia": "thị trường đứng chờ tin; ra 0.25-0.4 là toác"}, {"tin": "Chiến tranh Mỹ-Iran", "danh_gia": "vàng cắm đầu"}],
+  "thoi_quen": ["vùng giá chỉ là điều kiện cần, điều kiện đủ là lực và hình thái nến", "không long khi H4 đóng dưới Fibo, chờ tín hiệu đảo chiều ở hỗ trợ", "không tư vấn lệnh đã vào rồi", "trước tin đứng ngoài chờ", "DCA vốn nhỏ khi short ngược nhịp"],
+  "cau_cua_mieng": ["Chết là chết vì kỳ vọng.", "Đừng có cưới vợ về rồi hỏi mình anh ơi đêm tân hôn em phải làm cái gì.", "Trap là thuyết âm mưu."],
+  "altcoin": [{"coin": "altcoin chung", "huong": "GIAM", "ghi": "không chơi altcoin lúc này; HYPE, Z, LAB có thể DCA short; WLD khỏe không short"}, {"coin": "dầu", "huong": "TANG", "ghi": "hai đáy kẹp EMA, mua chia nhỏ"}, {"coin": "vàng", "huong": "GIAM", "ghi": "chờ hồi lên 4212-4300 short, có thể về 4000"}],
+  "ghi_chu": "Đầu buổi long 61k9 'nên cắt'. '6300' hiểu 63.000, '6200' hiểu 62.000. Giữa buổi nói sau khi đóng H4 'có đi luôn về 53 hay không mình không biết'."
+}

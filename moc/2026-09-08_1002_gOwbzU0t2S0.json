@@ -1,0 +1,174 @@
+{
+  "buoi": "2026-09-08_1002_gOwbzU0t2S0",
+  "ngay": "2026-09-08",
+  "gia_btc_luc_noi": 78500,
+  "moc": [
+    {
+      "gia": 80000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [
+        "râu nến ngày hôm qua test vùng 80"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Hôm qua có nhịp test lại vùng 80 trong râu ngày hôm qua, rồi có một nhịp xuống test vùng 78–79"
+    },
+    {
+      "gia": 78000,
+      "gia_tren": 79000,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": "D1",
+      "can_cu": [
+        "đáy nhịp xuống hôm qua"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "có một nhịp xuống test vùng 78–79, và hiện tại vẫn đứng ở đây"
+    },
+    {
+      "gia": 76000,
+      "gia_tren": 77000,
+      "vai_tro": "ho_tro",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [
+        "vùng hỗ trợ có volume (vùng vàng)",
+        "đáy cũ 77.000",
+        "MA89 H4"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Vùng 77.000 cho đến 76.000 sẽ là vùng chốt chặn... Vùng hỗ trợ có volume nằm ở 77 đến 76.000 (vùng mình vẽ màu vàng)"
+    },
+    {
+      "gia": 72000,
+      "gia_tren": 73000,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [
+        "thủng 76.000"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Nếu thủng 76 thì gần như về đâu đó khoảng 72–73 không quá khó, thậm chí thấp hơn."
+    },
+    {
+      "gia": 77000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "MA34 H4 thành kháng cự",
+        "test lại MA89 H4"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Trên H4, MA34 bây giờ đóng vai trò là cản... Tối thiểu nó sẽ đưa giá về nền khoảng 77.000, chạm test lại MA89"
+    },
+    {
+      "gia": 78000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "trống thanh khoản bên dưới"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Bên này trống thanh khoản, đi một phát thì về đâu đó khoảng 78.000 là không quá khó."
+    },
+    {
+      "gia": 75000,
+      "gia_tren": null,
+      "vai_tro": "entry",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "gãy xuyên 77-76 thì tham gia quanh 75"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Nếu nó gãy xuyên qua và cắm xuống thì chúng ta tham gia quanh vùng 75."
+    },
+    {
+      "gia": 76000,
+      "gia_tren": 77000,
+      "vai_tro": "tp",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "vùng hỗ trợ cứng của BTC"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "anh em nên xử lý những lệnh sale ở vùng hỗ trợ cứng của BTC trong nhịp này, quanh vùng 77–76."
+    },
+    {
+      "gia": 78000,
+      "gia_tren": null,
+      "vai_tro": "tp",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý / heatmap"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": false,
+      "trich": "Trên này có một vùng ở 78.000, sát với 78.000 theo view hiện tại... nếu có sale thì mình cân nhắc xử lý lệnh ở khoảng 78.[?] đến 78.000"
+    },
+    {
+      "gia": 82000,
+      "gia_tren": 83000,
+      "vai_tro": "khang_cu",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Chờ vùng nào chờ đi: chờ 82, nếu lên 82–83 gì đó có lên thì tốt; còn không thì chờ nó gãy khỏi 75 này."
+    },
+    {
+      "gia": 75000,
+      "gia_tren": null,
+      "vai_tro": "vo_hieu",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "còn không thì chờ nó gãy khỏi 75 này."
+    },
+    {
+      "gia": 75000,
+      "gia_tren": null,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": "M1",
+      "can_cu": [
+        "BTC micro CME quét xuống 75k trong 1 phút"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "BTC micro trên sàn CME quét xuống 75k trong 1 phút rồi giật lên."
+    }
+  ]
+}

@@ -1,0 +1,327 @@
+{
+  "buoi": "2026-06-05_a6-MmsaBAfA",
+  "ngay": "2026-06-05",
+  "gia_btc_luc_noi": 62500,
+  "moc": [
+    {
+      "gia": 61000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "râu nến D1 ngày hôm qua (04/06)"
+      ],
+      "moc_gio": "00:07:36",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Nếu đóng nến ngày mà phủ nhận luôn râu nến 61.000 thì là xấu"
+    },
+    {
+      "gia": 64000,
+      "gia_tren": null,
+      "vai_tro": "entry",
+      "huong": "GIAM",
+      "khung": "M30",
+      "can_cu": [
+        "MA89 M30"
+      ],
+      "moc_gio": "00:09:40",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "short phản ứng ở MA89 30 phút thì còn may ra, ví dụ nó hồi lên 64.000"
+    },
+    {
+      "gia": 70000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "vùng Fibo trong tuần sau"
+      ],
+      "moc_gio": "00:20:09",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Những ngày này kiểu gì cũng phải lên test lại quanh vùng Fibo trong tuần sau... lên khoảng 70 là đẹp"
+    },
+    {
+      "gia": 64000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "cản",
+        "điều kiện đóng nến ngày trên 64"
+      ],
+      "moc_gio": "00:22:14",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Nếu tối nay nó kéo lên trên được 64 thì mới có cửa hy vọng"
+    },
+    {
+      "gia": 69000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": "00:22:14",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "thứ tư CPI, nó sẽ kéo lên đâu đó khoảng 69"
+    },
+    {
+      "gia": 54000,
+      "gia_tren": 55000,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": "00:23:15",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Tất nhiên nó vẫn có khả năng gãy về 54-55"
+    },
+    {
+      "gia": 62650,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "Fibo 0.618 kéo từ đáy lên đỉnh nhịp tăng gần nhất, khung H4"
+      ],
+      "moc_gio": "00:24:17",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Fibo 0.618 nằm ở vùng giá 62.650 như hiện tại... kéo lên trên Fibo được thì có cửa"
+    },
+    {
+      "gia": 67700,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "Fibo mở rộng",
+        "vùng cản",
+        "cụm stop loss phe short 67.200-67.000"
+      ],
+      "moc_gio": "00:25:19",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "67.700 là tối đa rồi... vùng này sẽ có rất nhiều stop loss ở 67.200, 67.000"
+    },
+    {
+      "gia": 64000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "Fibo 0.5"
+      ],
+      "moc_gio": "00:26:21",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "vòng về vùng 0.5 này, vòng về lại 64"
+    },
+    {
+      "gia": 62000,
+      "gia_tren": null,
+      "vai_tro": "vo_hieu",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "đóng nến H4",
+        "vùng hỗ trợ cứng"
+      ],
+      "moc_gio": "00:27:22",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "H4 mà đóng thủng 62.000 là coi như hết cứu"
+    },
+    {
+      "gia": 62500,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "vùng hỗ trợ cứng"
+      ],
+      "moc_gio": "00:27:22",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "62.500 bây giờ đang là vùng hỗ trợ cứng"
+    },
+    {
+      "gia": 63000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "đóng nến H4 trên 63.000"
+      ],
+      "moc_gio": "00:28:23",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "đóng thêm cây H4 nữa lên trên khỏi 63.000 thì lại thêm một tí hy vọng"
+    },
+    {
+      "gia": 61700,
+      "gia_tren": null,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý (stop loss phe long mở ở 62.3)"
+      ],
+      "moc_gio": "00:31:01",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "hiện tại tụi này vẫn giữ stop loss ở 61.7. Khả năng vẫn bị lụm"
+    },
+    {
+      "gia": 61000,
+      "gia_tren": 62000,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý / heatmap"
+      ],
+      "moc_gio": "00:33:08",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Nếu nó gãy một phát rồi sẽ phải về quét lại 62 hoặc 61.000. Nhịp này khá trùng khớp với liquid"
+    },
+    {
+      "gia": 62800,
+      "gia_tren": null,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý / heatmap"
+      ],
+      "moc_gio": "00:35:20",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "62.800 này lúc sáng... về chưa đến 1000 giá là đã đi mất gần 1 triệu đô"
+    },
+    {
+      "gia": 68000,
+      "gia_tren": 69000,
+      "vai_tro": "entry",
+      "huong": "GIAM",
+      "khung": "W1",
+      "can_cu": [
+        "Fibo mở rộng"
+      ],
+      "moc_gio": "00:51:10",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Nhịp này mà hồi lên đâu đó khoảng 68, 69 short về 52, 53 là ngon"
+    },
+    {
+      "gia": 52000,
+      "gia_tren": 53000,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "W1",
+      "can_cu": [
+        "Fibo mở rộng (đã về mức 0.5 rồi bật)"
+      ],
+      "moc_gio": "00:51:10",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "BTC Fibo mở rộng này kéo về 52.000... nhịp này khả năng là về 52, 53 thật"
+    },
+    {
+      "gia": 23000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "W1",
+      "can_cu": [
+        "Fibo mở rộng khung tuần"
+      ],
+      "moc_gio": "00:51:10",
+      "tai_san": "BTC",
+      "chac": false,
+      "trich": "52.000, 23.000 anh em. Quá là nét (sau tự đo lại mùa trước thấy không đủ chứng minh)"
+    },
+    {
+      "gia": 126000,
+      "gia_tren": null,
+      "vai_tro": "dinh_cu",
+      "huong": null,
+      "khung": "W1",
+      "can_cu": [
+        "đỉnh cũ 126.000"
+      ],
+      "moc_gio": "00:53:48",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Bitcoin đi từ đỉnh 126.000, nó chia đôi hiện tại"
+    },
+    {
+      "gia": 20000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "W1",
+      "can_cu": [],
+      "moc_gio": "00:52:46",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "view Bitcoin về 20.000 từ lúc nó nằm ở 120.000"
+    },
+    {
+      "gia": 35000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "view cuối năm 2026"
+      ],
+      "moc_gio": "00:57:30",
+      "tai_san": "BTC",
+      "chac": false,
+      "trich": "cuối năm nay Bitcoin chắc đâu đó vùng 35"
+    },
+    {
+      "gia": 25000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "view tháng 4/2027"
+      ],
+      "moc_gio": "00:57:30",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "tháng tư năm 2027 nhấn một phát về 25.000 tạo đáy"
+    },
+    {
+      "gia": 22000,
+      "gia_tren": null,
+      "vai_tro": "day_cu",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "râu nến đáy chu kỳ view"
+      ],
+      "moc_gio": "00:57:30",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "râu nến thì khoảng 22"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "buoi": "2026-06-03_OVGlvdAXMKo",
+  "ngay": "2026-06-03",
+  "gio_vn": "10:00",
+  "gia_btc_luc_noi": 66000,
+  "nhan_dinh": [
+    {
+      "khung": "H4",
+      "huong": "TANG",
+      "do_chac": "vua",
+      "dich": [67500, 69000],
+      "han": "hôm nay, phiên Mỹ; hồi chậm, mất khoảng thời gian dài mới lên lại 70",
+      "han_gio": 24,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": "sideway 65.800-66.000 rồi kéo lên, hoặc quét xuống một cây (65.600-65.700) rồi hồi; không hồi thì vẫn có thể giảm tiếp, cùng lắm về 60, khó về 50 trong tuần này",
+      "ly_do": ["giá nằm rất xa MA H4 và mọi khung, M30 đã test xa nên ít nhất lên 67.500", "M5 đã test toàn bộ cụm MA nên dễ test MA200", "heatmap hai block đỏ rực, khối lượng short khoảng 700.000", "tối nay nonfarm có thể hỗ trợ giá lên quét short", "Fear and Greed về 11, DOM gãy xa nên cũng dễ hồi"],
+      "trich": "kỳ vọng của ngày hôm nay cá nhân mình đánh giá là có nhịp hồi lên. ... Đầu tiên là 67.500. Sau đó nếu lực tốt vào phiên Mỹ, mình nghĩ nó sẽ lên khoảng 69.",
+      "doi_y": null,
+      "duong_di": [
+        {"huong": "GIAM", "dich": 65600},
+        {"huong": "TANG", "dich": [67500, 69000]}
+      ]
+    },
+    {
+      "khung": "D1",
+      "huong": "GIAM",
+      "do_chac": "cao",
+      "dich": null,
+      "han": null,
+      "han_gio": null,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": "nến ngày rất kinh khủng nên đi đâu cũng được kể cả hồi",
+      "ly_do": ["vai đầu vai khung ngày", "bám đường MA tụt xuống liên tục", "hai gap 70 và 66-67 đã lấp xong, còn nhiều gap bên trên"],
+      "trich": "Khung ngày xuất hiện vai đầu vai ... xu hướng thị trường vẫn tiếp tục là gãy.",
+      "doi_y": null,
+      "duong_di": null
+    },
+    {
+      "khung": "W1",
+      "huong": "GIAM",
+      "do_chac": "cao",
+      "dich": null,
+      "han": null,
+      "han_gio": null,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": null,
+      "ly_do": ["khung tuần thể hiện rõ downtrend", "MA200 tuần đã xong nhiệm vụ đỡ nhịp 65-82"],
+      "trich": "Khung tuần thể hiện rõ ràng xu hướng downtrend này không trượt đi phát nào.",
+      "doi_y": null,
+      "duong_di": null
+    },
+    {
+      "khung": "chung",
+      "huong": "GIAM",
+      "do_chac": "vua",
+      "dich": [20000, 40000],
+      "han": "dài hạn, vùng gom chủ đạo 40.000 đến 20.000",
+      "han_gio": null,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": null,
+      "ly_do": ["downtrend, plan từ khi 120K là về 20.000-40.000", "đang gom spot chia vốn, dưới 50.000 bắt đầu gom, 20.000 gần như tất tay"],
+      "trich": "Plan của mình là 40 cho đến 20 là vùng gom chủ đạo. Còn dưới 50 nghìn là bắt đầu gom.",
+      "doi_y": null,
+      "duong_di": null
+    }
+  ],
+  "vung_gia": {"khang_cu": [67500, 69000], "ho_tro": [65600, 66000]},
+  "lenh": [
+    {"chieu": "LONG", "loai": "limit (xổ số, test)", "vao": [66000, 65800], "tp": null, "sl": 64800,
+     "trang_thai": "da_chot", "trich": "Lệnh xổ số lúc sáng mình cho anh em long ... Lãi đúng 1R. ... nhịp này chia vị thế cách khoảng 500 giá, SL dưới vị thế thấp nhất khoảng 1000 giá."},
+    {"chieu": "SHORT", "loai": "bot", "vao": null, "tp": [72000], "sl": null,
+     "trang_thai": "da_chot", "trich": "Mình short từ 80, 82 bot ở trên đó mình chốt về 72 rồi."},
+    {"chieu": "LONG", "loai": "bot biên", "vao": [63000, 72500], "tp": null, "sl": null,
+     "trang_thai": "de_xuat_moi", "trich": "Bot đánh hồi lên. Kéo ra vùng dưới khoảng 63.000. Kéo lên vùng trên khoảng 72, 73.000. Đánh biên đó."}
+  ],
+  "nhin_lai_truoc": "Short từ 80-82 bằng bot chốt ở 72 là đúng plan nhưng không ăn được đoạn 72 xuống 66; không short ở 74 vì 5 lý do hồi, giờ chấp nhận. Fear and Greed: mua vùng 10-11, bán khi lên 50 là đúng. Short LAB trung bình 10 chốt 15 ăn 50%.",
+  "cong_cu": ["W1", "D1", "H4", "M30", "M5", "MA34/89/200", "Fibo 0.5", "gap CME", "heatmap hai block", "liquidation", "Fear and Greed", "RSI", "funding", "BTC.D", "USDT.D"],
+  "tin_tuc": [{"tin": "nonfarm tối nay", "danh_gia": "sẽ ok, hỗ trợ giá đi lên để quét short"}, {"tin": "MicroStrategy chuẩn bị bán tiếp", "danh_gia": "không có ai mua mà không bán, đừng tin lời quỹ lớn"}, {"tin": "World Cup", "danh_gia": "thị trường có thể không thanh khoản, đứng im"}],
+  "thoi_quen": ["không short ở đáy, nhưng không short không có nghĩa là long", "long ngược xu hướng: vốn nhỏ, chia 3 vị thế cách 500 giá, SL 1000 giá dưới vị thế thấp nhất, không gồng, không DCA vô cớ", "chốt bot ở vùng plan, không tham", "spot: chia vốn quan trọng hơn giá, DCA", "TP1 sớm khi có lãi để không bị kéo về SL"],
+  "cau_cua_mieng": ["Chase the moon, lose the moon.", "Càng gồng là càng chết.", "Tiền của chúng ta đừng nghe thằng khác nói."],
+  "altcoin": [
+    {"coin": "altcoin chung", "huong": "GIAM", "ghi": "BTC xả thì altcoin theo; DOM xa rồi hồi thì altcoin nát; USDT.D mô hình cờ có thể lên 10%; hạn chế đụng altcoin hôm nay"},
+    {"coin": "LAB", "huong": "GIAM", "ghi": "xong nhiệm vụ, sẽ gãy dần về 5 rồi dưới 1 đô; short TB 10 chốt 15"},
+    {"coin": "ZEC", "huong": "GIAM", "ghi": "H4 không qua Fibo 0.68, đoán sẽ giảm"},
+    {"coin": "BNB", "huong": "GIAM", "ghi": "hy vọng về 400-500"},
+    {"coin": "ETH", "huong": "GIAM", "ghi": "không cứng, spot phải DCA về 800 nếu cầm"}
+  ],
+  "ghi_chu": "Bản làm sạch không có giờ live; gio_vn mặc định 10:00. Vàng yếu sập 3900, canh từng trăm giá. Giữa buổi quên đóng cả lệnh long test nhầm."
+}

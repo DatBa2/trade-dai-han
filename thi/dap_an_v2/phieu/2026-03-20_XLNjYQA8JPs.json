@@ -1,0 +1,78 @@
+{
+  "buoi": "2026-03-20_XLNjYQA8JPs",
+  "ngay": "2026-03-20",
+  "gio_vn": "10:00",
+  "gia_btc_luc_noi": 70300,
+  "nhan_dinh": [
+    {
+      "khung": "H4",
+      "huong": "TANG",
+      "do_chac": "vua",
+      "dich": [71000, 72000],
+      "han": "nhịp hồi trong ngày hôm nay, khoảng 11-12 giờ đến 2 giờ chiều",
+      "han_gio": 24,
+      "vo_hieu_khi": "thủng 68.400 thì xác suất lên còn 20%; thủng 65.000 thì xác suất lên còn 5%, hết sóng",
+      "kich_ban_phu": "có thể quét râu về 68.000 (Fibo 68k tròn + quét SL) rồi dịt lên, đẹp nhất là hai đáy; MA34 H4 sắp cắt xuống MA89 thì khó lên; đóng H4 dưới 71 khả năng cao, tối có thể về test 68.4",
+      "ly_do": [
+        "35% khả năng break lên 80, vùng hỗ trợ trine, D1 chưa test MA89",
+        "vai đầu vai ngược M30, M5 đáy cao dần đỉnh đi ngang, break 70.6 lên 71.5",
+        "gap 71 đã lấp, còn gap 80",
+        "lực mua còn yếu, volume giảm khi giá lên nên chỉ scalping ăn 71-72, đừng tham"
+      ],
+      "trich": "Khả năng rất cao nhịp này lên được 71 đến 72. Vai đầu vai ngược khá là đẹp.",
+      "doi_y": null,
+      "duong_di": null
+    },
+    {
+      "khung": "D1",
+      "huong": "GIAM",
+      "do_chac": "vua",
+      "dich": null,
+      "han": null,
+      "han_gio": null,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": "vẫn có thể lên nhưng chưa biết từ điểm nào, đừng đoán đáy; view chỉ tới vùng 80",
+      "ly_do": ["ba cây nến bán, xu hướng hiện tại là xu hướng bán", "lực bán rất mạnh, lực hồi còn yếu", "đừng big long, đừng bắt đáy, chỉ follow thị trường"],
+      "trich": "xu hướng hiện tại là xu hướng bán, xu hướng đi xuống... lực bán nó rất là mạnh, lực hồi nó còn yếu.",
+      "doi_y": null,
+      "duong_di": null
+    },
+    {
+      "khung": "chung",
+      "huong": "GIAM",
+      "do_chac": "vua",
+      "dich": null,
+      "han": "2026-2027 không có uptrend (xác suất dưới 15%), tệ nhất 3 năm nữa mới uptrend",
+      "han_gio": null,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": null,
+      "ly_do": ["Fear and Greed 11, thị trường hoảng loạn", "đa số đều view xuống 4x-5x nên không nên lấy đó làm cơ sở"],
+      "trich": "2026 và 2027 không bao giờ có chuyện up trend... xác suất xảy ra up trend trong hai cái năm này theo cá nhân mình đánh giá là dưới 15%",
+      "doi_y": null,
+      "duong_di": null
+    }
+  ],
+  "vung_gia": {"khang_cu": [71000, 72000], "ho_tro": [68000, 69000]},
+  "lenh": [
+    {"chieu": "LONG", "loai": "limit", "vao": 69000, "tp": [71000, 72000], "sl": null,
+     "trang_thai": "de_xuat_moi",
+     "trich": "Mình cho anh em bắt ở 69.000... lệnh limit đó anh em cũng đừng hy vọng lắm."},
+    {"chieu": "LONG", "loai": "FOMO vol nhỏ", "vao": 70300, "tp": [71000, 71400], "sl": 70000,
+     "trang_thai": "de_xuat_moi",
+     "trich": "Mọi người có thể thích thì cứ buy một kèo long ở giá bây giờ đi. SL dưới 70, vốn nhỏ thôi bởi vì đánh ngược xu hướng."},
+    {"chieu": "SHORT", "loai": "đang giữ dài hạn", "vao": 125000, "tp": null, "sl": null,
+     "trang_thai": "dang_giu",
+     "trich": "Short 125.000 mình còn chứ, chốt làm gì cái lệnh đó."}
+  ],
+  "nhin_lai_truoc": "Hôm qua ăn được lệnh sell; dự báo quét 69 xong hồi ngược đã đúng; vàng về 4550 đúng như cảnh báo trước.",
+  "cong_cu": ["H4", "D1", "M30", "M5", "Fibo", "MA34/89", "gap CME", "USDT.D", "heatmap liquidation", "Fear and Greed", "vai đầu vai ngược"],
+  "tin_tuc": [{"tin": "thứ sáu không có tin đến thứ ba tuần sau", "danh_gia": "thị trường tự chạy, nguy hiểm cuối tuần ném bom đạn"}],
+  "thoi_quen": ["không đoán đáy, follow thị trường: thị trường đi 10 bước mình đi 8", "chờ hai đáy xác nhận rồi mới long", "hạn chế short ở vùng hỗ trợ", "đóng hai lệnh long-short chéo khi giá về điểm cân bằng", "không bao giờ hết spot"],
+  "cau_cua_mieng": ["Biết là giá nó sẽ chạy nhưng không phải lúc nào cũng đánh được.", "Râu sinh ra là để test.", "Chúng ta chỉ là những vi trùng rất nhỏ ở trong đại dương."],
+  "altcoin": [
+    {"coin": "ETH", "huong": "TANG", "ghi": "chờ quanh 2050; spot sóng hồi giữ lên 2000"},
+    {"coin": "SOL", "huong": "TANG", "ghi": "có thể lên 97, nếu hơn 98-105"},
+    {"coin": "BTC.D", "huong": null, "ghi": "Altcoin season index 47"}
+  ],
+  "ghi_chu": "Vàng về 4550 bật lên, chia nhỏ buy 4xxx, chốt trên 5000; dầu hai lần test 118 rụng. Header không ghi giờ."
+}

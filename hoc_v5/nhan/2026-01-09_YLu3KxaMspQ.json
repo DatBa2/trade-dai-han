@@ -1,0 +1,428 @@
+{
+  "buoi": "2026-01-09_YLu3KxaMspQ",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/zip_clean/2026-01-09_YLu3KxaMspQ.txt",
+  "gia_btc_luc_noi": 91000,
+  "dau_buoi": {
+    "thien_huong_h4": "TANG",
+    "gio": "[00:01:59]",
+    "trich": "BTC thì tạm thời trong cái nhịp này mình nghĩ các bạn đừng có vội phô long. Mình nghĩ kiểu gì cũng phải về test lại cái râu này thì may ra mới long lại được."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "TANG",
+    "do_chac": "vua",
+    "gio": "[00:52:44]",
+    "trich": "BTC mình thấy không thay đổi nhiều đâu các bạn ơi. Nhưng H4 thì đóng không qua rồi cho nên vẫn tiếp tục câu chuyện chờ H4 90 cho đến 89."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {
+    "huong": "GIAM",
+    "dich": [
+      89000,
+      90000
+    ]
+  },
+  "duong_di": [
+    {
+      "huong": "GIAM",
+      "dich": [
+        89000,
+        90000
+      ]
+    },
+    {
+      "huong": "TANG",
+      "dich": 96000
+    }
+  ],
+  "dich_chinh": 96000,
+  "han_gio": null,
+  "vo_hieu": null,
+  "lenh": [
+    {
+      "chieu": "LONG",
+      "vao": [
+        89000,
+        90000
+      ],
+      "tp": 96000,
+      "sl": null,
+      "trang_thai": "de_xuat_moi"
+    },
+    {
+      "chieu": "LONG",
+      "vao": 91600,
+      "tp": null,
+      "sl": null,
+      "trang_thai": "de_xuat_moi"
+    }
+  ],
+  "hanh_dong": "dung_ngoai_cho_entry",
+  "khung_lon": {
+    "D1": "Nến ngày rút râu, khá ổn; EMA89 và EMA200 D1 chưa được test → nhịp này khả năng lên 95-96, về kỹ thuật có thể 98-99 nhưng khó. Sau đó về lấp gap 2 (88) rồi đi xa.",
+    "W1": "View dài hạn giảm 'giảm luôn chứ không phải giảm bình thường'; khoảng Tết âm lịch (tháng 2) giao dịch vùng đầu 7 (~75k) rồi còn xuống sâu hơn."
+  },
+  "pha_vo_gia": "Vùng 91 dễ là trap long FOMO, dễ bị quét stop loss trước khi tăng; có thể quét sâu về 88 (Fibo 0.618) chỉ nhấp nhẹ gap 2 rồi mới lên.",
+  "nhin_lai_view_truoc": {
+    "view_truoc": "GIAM",
+    "giu_hay_doi": "giu",
+    "vi_sao": "Gap 1 (90-91) đã lấp xong đúng kịch bản hôm qua (chạm đích chặng 90); giá đang đi đúng kịch bản 'về gap 1 → lên test → về gap 2' nên giữ kịch bản, chuyển sang chặng hồi lên 96 (nhãn H4 từ GIAM sang TANG nhưng người nói coi là cùng một kịch bản).",
+    "gio": "[00:11:08]",
+    "trich": "Nó đi như cái này thì có thể là đang đi theo kịch bản hôm qua chúng ta nói: về đến gap đầu, về gap một. Sau đó đi lên test rồi đi về lại gap hai và đi về luôn. Mình vẫn nghĩ vậy."
+  },
+  "trendline": [
+    {
+      "khung": "H1",
+      "loai": "khac",
+      "noi_tu": "Không nói điểm neo; chỉ nói nếu đánh back test trendline khung 30 phút thì cho cùng kết quả với Fibo 0.5 (~90k) — vùng chờ test để long. (Người nói dùng khung 30 phút, ghi H1 vì enum không có M30.)",
+      "diem_neo": [],
+      "gia_duong_luc_noi": null,
+      "trang_thai": "chua_pha",
+      "dieu_kien_pha": null,
+      "ket_luan_huong": "TANG",
+      "gio": "[00:14:17]",
+      "trich": "Nếu đánh theo back test nhịp này khung nhỏ 30 phút, nếu đánh trendline thì khả năng cũng chung một kết quả. Nhiều phương pháp vẫn cho chung một kết quả thì có thể là anh em chúng ta chờ ở đây cho chắc kèo."
+    }
+  ],
+  "nen_volume": [
+    {
+      "khung": "H4",
+      "nen": "Râu nến H4 (rút chân về 89.5)",
+      "volume": null,
+      "ket_luan": "Phải chờ test lại râu mới tính long",
+      "gio": "[00:03:00]",
+      "trich": "Chúng ta thấy cái râu nến H4 này cứ phải là chờ test thì mới tính được, còn ở đây mà vội quá cũng không ok đâu."
+    },
+    {
+      "khung": "H4",
+      "nen": "H4 đóng trên 91.5k",
+      "volume": null,
+      "ket_luan": "Nếu đóng trên 915 thì có thể long đuổi",
+      "gio": "[00:04:43]",
+      "trich": "Nến H4 đóng trên 915. Nếu H4 đóng trên vùng 915 thì có thể là long đuổi được."
+    },
+    {
+      "khung": "H4",
+      "nen": "Nến H4 phải đóng cửa qua MA",
+      "volume": null,
+      "ket_luan": "Không đóng qua MA thì về test lại vùng dưới 89-90",
+      "gio": "[00:09:17]",
+      "trich": "Nhưng điều kiện để thị trường tăng đó là BTC phải đóng cửa qua H4 MA. Nếu không đóng qua được MA thì kiểu gì cũng phải về test lại cái vùng ở dưới 890 này."
+    },
+    {
+      "khung": "D1",
+      "nen": "Nến ngày rút chân (rút râu) lên",
+      "volume": null,
+      "ket_luan": "Khá ổn; trong ngày hay có nhịp về test loanh quanh râu (~89k), sau đó lên 95-96",
+      "gio": "[00:12:10]",
+      "trich": "Ở đây chúng ta có một cây nến ngày là cây rút chân lên. Thông thường đối với thị trường những cây nến như này thì kiểu gì trong ngày cũng hay có nhịp về test loanh quanh cái râu. Không nhất thiết là nó sẽ test ngay đáy râu."
+    },
+    {
+      "khung": "H1",
+      "nen": "Chờ nến 30 phút tại 89-90",
+      "volume": null,
+      "ket_luan": "Về 89-90 phải xem tín hiệu nến 30 phút mới vào",
+      "gio": "[00:34:17]",
+      "trich": "Mình đang chờ ở quanh 89 đến 90 nhưng chờ về đó xem tín hiệu đã. 90k1 long entry đẹp không? Thực tế entry khả dụng nhất thời điểm bây giờ, nhưng về đó muốn đẹp hay không thì phải xem đã. Nến 30 phút thôi."
+    },
+    {
+      "khung": "H4",
+      "nen": "H4 đóng không qua",
+      "volume": null,
+      "ket_luan": "Tiếp tục chờ H4 về 90-89",
+      "gio": "[00:52:44]",
+      "trich": "Nhưng H4 thì đóng không qua rồi cho nên vẫn tiếp tục câu chuyện chờ H4 90 cho đến 89."
+    }
+  ],
+  "cach_lam": [
+    {
+      "hanh_dong": "do",
+      "cong_cu": "fibo_thoai_lui",
+      "chi_tiet": "Fibo 0.5 của nhịp sóng ngắn",
+      "ket_qua": "Hôm qua về 89.5k đúng Fibo 0.5 rồi đi lên",
+      "gio": "[00:09:17]",
+      "trich": "Hôm qua về đến 89k5 về đúng ngay Fibo 0.5 của nhịp sóng ngắn này, nó đi lên rồi."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "ema",
+      "chi_tiet": "EMA89 và EMA200 khung D1 chưa được test",
+      "ket_qua": "Còn lên được 95-96, kỹ thuật 98-99",
+      "gio": "[00:11:39]",
+      "trich": "Nến ngày này thì rút râu, khá là ổn nhưng EMA89 này cũng chưa được test và EMA200 cũng tương tự."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "ema",
+      "chi_tiet": "H4: đường MA 610, MA màu cam, MA màu xanh",
+      "ket_qua": "Mục tiêu nhịp này 96.000",
+      "gio": "[00:13:46]",
+      "trich": "H4 vẫn là muốn lên, cái đường MA 610 này. Cái đường màu cam này, cái đường MA màu xanh này, vùng này là mình nghĩ sẽ phải test, mục tiêu của chúng ta nhịp này sẽ lên được đến đó. Lên đây, 96.000."
+    },
+    {
+      "hanh_dong": "do",
+      "cong_cu": "fibo_thoai_lui",
+      "chi_tiet": "Fibo 0.5 nhịp trên khung 30 phút",
+      "ket_qua": "~90.000",
+      "gio": "[00:14:17]",
+      "trich": "Trong 30 phút xem nào. Cũng hợp lý, Fibo 0.5 của cái nhịp này là đâu đó 90.00 cho đến 90.00."
+    },
+    {
+      "hanh_dong": "ke",
+      "cong_cu": "trendline",
+      "chi_tiet": "Back test trendline khung 30 phút",
+      "ket_qua": "Cùng kết quả với Fibo (~90k)",
+      "gio": "[00:14:17]",
+      "trich": "Nếu đánh theo back test nhịp này khung nhỏ 30 phút, nếu đánh trendline thì khả năng cũng chung một kết quả."
+    },
+    {
+      "hanh_dong": "ke",
+      "cong_cu": "khac",
+      "chi_tiet": "Gap CME",
+      "ket_qua": "Gap 1 (91-90) đã fill xong; gap 2 (88) còn",
+      "gio": "[00:14:49]",
+      "trich": "Hiện tại cái gap đầu tiên đã được lấp xong. Gap 91 này 90 đã được fill xong"
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "heatmap",
+      "chi_tiet": "Liquidation map",
+      "ket_qua": "Vùng liquid 89k",
+      "gio": "[00:20:13]",
+      "trich": "Để xem Liquid nghe bảo có vùng ở 89. Có vùng 89 maybe. Có 89 thì đẹp, biết đâu nó về 89 thì êm."
+    },
+    {
+      "hanh_dong": "do",
+      "cong_cu": "fibo_thoai_lui",
+      "chi_tiet": "Fibo 0.618 nếu quét sâu",
+      "ket_qua": "88.000",
+      "gio": "[00:20:44]",
+      "trich": "Maybe nó về lại dưới này thì sẽ quét về đến tận Fibo 618. Nó sẽ về test lại vùng 8800 này."
+    }
+  ],
+  "vung_nguoi_do": [
+    {
+      "loai": "vao",
+      "tu": 91500,
+      "den": 91500,
+      "gio": "[00:04:43]",
+      "trich": "Nếu H4 đóng trên vùng 915 thì có thể là long đuổi được."
+    },
+    {
+      "loai": "vao",
+      "tu": 91600,
+      "den": 91600,
+      "gio": "[00:34:47]",
+      "trich": "Một là chờ H4 đóng qua 91k6 thì long"
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 89500,
+      "den": 89500,
+      "gio": "[00:09:17]",
+      "trich": "Hôm qua về đến 89k5 về đúng ngay Fibo 0.5"
+    },
+    {
+      "loai": "dich",
+      "tu": 95000,
+      "den": 96000,
+      "gio": "[00:11:39]",
+      "trich": "nó vẫn có thể lên được vùng 95 96 hoặc thậm chí cao hơn là 98 99."
+    },
+    {
+      "loai": "dich",
+      "tu": 98000,
+      "den": 99000,
+      "gio": "[00:11:39]",
+      "trich": "hoặc thậm chí cao hơn là 98 99. Nhưng 99 này thì mình không chắc lắm."
+    },
+    {
+      "loai": "dich",
+      "tu": 96000,
+      "den": 96000,
+      "gio": "[00:13:46]",
+      "trich": "mục tiêu của chúng ta nhịp này sẽ lên được đến đó. Lên đây, 96.000."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 90000,
+      "den": 90000,
+      "gio": "[00:14:17]",
+      "trich": "Fibo 0.5 của cái nhịp này là đâu đó 90.00"
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 91000,
+      "den": 91000,
+      "gio": "[00:14:17]",
+      "trich": "Vùng 91 này mình vào thì thấy dễ bị trap lắm"
+    },
+    {
+      "loai": "dich",
+      "tu": 75000,
+      "den": 75000,
+      "gio": "[00:15:20]",
+      "trich": "Cái vùng 75 này, vùng hỗ trợ này."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 89000,
+      "den": 89000,
+      "gio": "[00:20:13]",
+      "trich": "Liquid nghe bảo có vùng ở 89."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 88000,
+      "den": 88000,
+      "gio": "[00:20:44]",
+      "trich": "Nó sẽ về test lại vùng 8800 này."
+    },
+    {
+      "loai": "vao",
+      "tu": 89000,
+      "den": 90000,
+      "gio": "[00:34:17]",
+      "trich": "Mình đang chờ ở quanh 89 đến 90 nhưng chờ về đó xem tín hiệu đã."
+    }
+  ],
+  "view_trung_han": [
+    {
+      "khung": "D1",
+      "huong": "TANG",
+      "dich": [
+        95000,
+        96000
+      ],
+      "han": null,
+      "mat_view_khi": null,
+      "gio": "[00:11:39]",
+      "trich": "Đoạn này nó lên, khả năng mình nghĩ nó vẫn có thể lên được vùng 95 96 hoặc thậm chí cao hơn là 98 99."
+    },
+    {
+      "khung": "W1",
+      "huong": "GIAM",
+      "dich": 75000,
+      "han": "khoảng tháng hai, khoảng Tết âm lịch",
+      "mat_view_khi": null,
+      "gio": "[00:15:20]",
+      "trich": "Nhịp khoảng tháng hai, khoảng tết âm lịch mình nghĩ chắc chúng ta sẽ giao dịch ở vùng giá đầu 7 của Bitcoin. Cái vùng 75 này, vùng hỗ trợ này."
+    },
+    {
+      "khung": "M1",
+      "huong": "GIAM",
+      "dich": null,
+      "han": "thị trường đầu tư điều chỉnh 1-2 năm",
+      "mat_view_khi": null,
+      "gio": "[00:19:41]",
+      "trich": "View chung dài hạn của BTC là giảm luôn chứ không phải giảm bình thường nữa."
+    }
+  ],
+  "vung_tranh": [
+    {
+      "tu": 91000,
+      "den": 91000,
+      "vi_sao": "Vào ở 91 dễ bị trap, dễ long FOMO, dễ bị quét stop loss trước khi tăng",
+      "gio": "[00:14:17]",
+      "trich": "Vùng 91 này mình vào thì thấy dễ bị trap lắm, dễ bị long FOMO, dễ bị quét stop loss trước khi tăng."
+    },
+    {
+      "tu": null,
+      "den": null,
+      "vi_sao": "Không short từ giờ đến hết thứ hai tuần sau: short sớm mà giá tăng thì vừa mất sóng tăng vừa có entry xấu",
+      "gio": "[00:56:00]",
+      "trich": "Thị trường này hạn chế short bởi vì nếu các bạn muốn short thì sẽ có rất nhiều entry để short, nhưng nếu chúng ta short bây giờ mà short sớm, nó tăng lên thì vừa mất nhịp sóng tăng vừa vào một entry xấu thì thành ra không tối ưu theo cả hai đường."
+    }
+  ],
+  "giu_dong": [
+    {
+      "lenh": "Lệnh long scalping BTC",
+      "quyet_dinh": "dong",
+      "khi_nao": "Phải thoát trước tin phiên Mỹ; scalping đến trưa hoặc chiều là té",
+      "gio": "[00:23:13]",
+      "trich": "Lệnh long có nên thoát trước tin không? Chắc chắn là phải thoát. Các lệnh scalping như vậy đến tầm trưa hoặc chiều là té chứ đâu có cầm lâu được."
+    },
+    {
+      "lenh": "Long BTC 89.5k (người xem, x500)",
+      "quyet_dinh": "dong",
+      "khi_nao": "Vùng giá hiện tại (~91k) TP được rồi",
+      "gio": "[00:35:48]",
+      "trich": "Còn nếu theo giá thì vùng này mình nghĩ là TP cũng được rồi."
+    },
+    {
+      "lenh": "Lệnh cuối tuần (alt scalp)",
+      "quyet_dinh": "giu",
+      "khi_nao": "Thứ bảy-chủ nhật chạy chung một nhịp nên giữ qua 2 ngày, không cần clear từng ngày; xử lý trước ~5:00 chiều chủ nhật",
+      "gio": "[00:55:28]",
+      "trich": "Những ngày cuối tuần thì lưu ý mọi người đánh những nhịp liên tục hai ngày chứ không nhất thiết phải clear ngày. Bởi vì cuối tuần thì thông thường nó chạy chung một nhịp, hai ngày thứ bảy, chủ nhật chạy chung một nhịp sóng. Cho nên chúng ta không cần phải nhảy ra trước tránh rủi ro, với lại ăn được cái sóng nó tốt hơn. Bởi vì cuối tuần thanh khoản kém. Và xử lý lệnh trước tối ngày chủ nhật, trước độ khoảng 5:00 chiều ngày chủ nhật anh em nên xử lý các lệnh"
+    }
+  ],
+  "tin_tuc": [
+    {
+      "su_kien": "Tin thứ sáu phiên Mỹ",
+      "thoi_diem": "tối nay (thứ sáu) 8:00-10:00 tối",
+      "nguon": "lich_kinh_te",
+      "so_lieu": null,
+      "anh_huong_view": "Phòng thủ, né vùng tin; thoát lệnh scalping trước tin; hôm nay không đánh mạnh",
+      "gio": "[00:21:16]",
+      "trich": "Tin tức thì tất nhiên thứ sáu sẽ là một cái ma trận về tin tức, miễn sao anh em phòng thủ thật chắc ở vùng từ khoảng 8:00 tối cho đến 10:00 tối. Vùng tin thì chúng ta né là ok."
+    },
+    {
+      "su_kien": "Phán quyết thuế của Trump",
+      "thoi_diem": "hôm nay",
+      "nguon": "bao",
+      "so_lieu": null,
+      "anh_huong_view": "Không nêu",
+      "gio": "[00:34:47]",
+      "trich": "Hôm nay có phán quyết thuế của Trump."
+    },
+    {
+      "su_kien": "Vĩ mô: Fed giảm lãi suất nhưng không bơm tiền, địa chính trị căng",
+      "thoi_diem": "năm 2026",
+      "nguon": "khac",
+      "so_lieu": null,
+      "anh_huong_view": "Lý do cho view dài hạn giảm 1-2 năm",
+      "gio": "[00:31:51]",
+      "trich": "Cộng với đó là động thái lãi suất của FED cũng giảm. FED giảm lãi suất nhưng tiền thì không được bơm ra."
+    }
+  ],
+  "trich_them": [
+    {
+      "gio": "[00:09:17]",
+      "cau": "điều kiện để thị trường tăng đó là BTC phải đóng cửa qua H4 MA. Nếu không đóng qua được MA thì kiểu gì cũng phải về test lại cái vùng ở dưới 890 này."
+    },
+    {
+      "gio": "[00:11:39]",
+      "cau": "Đoạn này nó lên, khả năng mình nghĩ nó vẫn có thể lên được vùng 95 96 hoặc thậm chí cao hơn là 98 99. Nhưng 99 này thì mình không chắc lắm."
+    },
+    {
+      "gio": "[00:13:46]",
+      "cau": "vùng này là mình nghĩ sẽ phải test, mục tiêu của chúng ta nhịp này sẽ lên được đến đó. Lên đây, 96.000. Còn lại trong ngắn hạn thì anh em cứ nên chờ khoảng loanh quanh 8990 gì đó rồi mình mới chờ long lên."
+    },
+    {
+      "gio": "[00:14:49]",
+      "cau": "Hiện tại cái gap đầu tiên đã được lấp xong. Gap 91 này 90 đã được fill xong thì khả năng nhịp này nó không fill hẳn mà sẽ đi lên, sau đó mới về lấp tiếp, rồi hồi lên một cú nhẹ rồi đi xa luôn."
+    },
+    {
+      "gio": "[00:15:20]",
+      "cau": "Nhịp khoảng tháng hai, khoảng tết âm lịch mình nghĩ chắc chúng ta sẽ giao dịch ở vùng giá đầu 7 của Bitcoin."
+    },
+    {
+      "gio": "[00:20:44]",
+      "cau": "Maybe nó về lại dưới này thì sẽ quét về đến tận Fibo 618. Nó sẽ về test lại vùng 8800 này."
+    },
+    {
+      "gio": "[00:21:47]",
+      "cau": "Hôm nay bias long. Mình nghĩ hôm nay chúng ta chờ điều chỉnh và long lên thôi. Không chơi short."
+    },
+    {
+      "gio": "[00:34:47]",
+      "cau": "BTC có hai hướng. Một là chờ H4 đóng qua 91k6 thì long, hai là chờ test sâu rồi long lên. Đúng chính xác, tổng hợp thông tin như vậy là đúng."
+    },
+    {
+      "gio": "[00:56:00]",
+      "cau": "còn lại từ giờ đến tuần sau thì mình nghĩ anh em hạn chế short cái đã."
+    }
+  ],
+  "kho": "Giá lúc nói ~91k (nói H4 đóng trên 91.5/91.6 thì long đuổi; [00:27:51] 'BTC đang 93' có lẽ lỗi phụ đề). Kịch bản nhiều chặng: test râu 89-90 → lên 96 (đích 'nhịp này') → về gap 2 (88) → Tết ~75k. Chọn đích chính H4 = 96 vì người nói gọi rõ 'mục tiêu nhịp này' và bias long tới tuần sau; các chặng giảm sau là view D1/W1. Trendline chỉ nhắc thoáng ở khung 30 phút, không neo."
+}

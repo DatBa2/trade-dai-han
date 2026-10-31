@@ -1,0 +1,182 @@
+[
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[0].trich",
+  "trich": "Cho nên khả năng của đoạn này mình nghĩ nó vẫn hồi. Mình đánh giá theo cảm nhận cá nhân thôi.",
+  "giay": 600,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=c6WnN4Q9EXo&t=600s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[1].trich",
+  "trich": "Xu hướng lớn mình nói đi nói lại là nó sẽ gãy. Target của chúng ta là 62.",
+  "giay": 224,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=c6WnN4Q9EXo&t=224s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "lenh[0].trich",
+  "trich": "Tầm này mình nghĩ vẫn cứ tìm điểm mà long. Chia nhỏ vốn ra 10 phần hoặc 5 phần, long dần, đòn bẩy X5 X10 gì đấy, từ đây về 74, 73 thôi.",
+  "giay": 1706,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=c6WnN4Q9EXo&t=1706s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[0].trich",
+  "trich": "Khung ngày thì vẫn còn target về 62 65. Cùng lắm đoạn này hồi quang phản chiếu lên tí rồi lại rớt về dưới này",
+  "giay": 460,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=c6WnN4Q9EXo&t=460s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[1].trich",
+  "trich": "để confirm long đúng ra phải chờ nến H1 đóng qua khỏi vùng 78000 7900 này",
+  "giay": 326,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=c6WnN4Q9EXo&t=326s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[2].trich",
+  "trich": "Chờ H4 tối thiểu là lên lại được vùng 79 hoặc 81 gì đó. 79 hoặc 81 thì mới chơi được",
+  "giay": 448,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=c6WnN4Q9EXo&t=448s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[3].trich",
+  "trich": "vùng 73 này nó quét xuống và đi lên lại rất nhanh... đám short vào từ vùng 74 cho đến 73 chắc chắn sẽ bị thanh lý",
+  "giay": 557,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=c6WnN4Q9EXo&t=557s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[4].trich",
+  "trich": "để short thì đoạn này vẫn phải hồi lên 79 hoặc 80 hoặc thậm chí 84 là căng. Lên đó mới là những vùng đẹp để chúng ta short",
+  "giay": 729,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=c6WnN4Q9EXo&t=729s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[5].trich",
+  "trich": "Fibo nó sẽ kéo lên 85 này. Đẹp nhất nó lên đến 85 này là vừa lấp hết gap",
+  "giay": 742,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=c6WnN4Q9EXo&t=742s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[6].trich",
+  "trich": "Chúng ta vẫn còn gap của ngày hôm qua. Gap 84 81 này",
+  "giay": 748,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=c6WnN4Q9EXo&t=748s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[7].trich",
+  "trich": "Hồi đến thì mình nói khoảng tầm 80, mình nghĩ chắc khoảng từ 80 cho đến 83",
+  "giay": 1108,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=c6WnN4Q9EXo&t=1108s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[8].trich",
+  "trich": "Hôm qua có một vùng ở 76.56 nhưng nó quét qua luôn. Bây giờ chỉ còn một ít ở 77.000 thôi. Một nhóm nhỏ ở 74.000",
+  "giay": 900,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=c6WnN4Q9EXo&t=900s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[9].trich",
+  "trich": "Một nhóm nhỏ ở 74.000 thì nhóm này thực sự không đáng kể lắm",
+  "giay": 911,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=c6WnN4Q9EXo&t=911s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[10].trich",
+  "trich": "chia nhỏ vốn ra 10 phần hoặc 5 phần, long dần, đòn bẩy X5 X10, từ đây về 74, 73 thôi",
+  "giay": 1718,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=c6WnN4Q9EXo&t=1718s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[11].trich",
+  "trich": "Đô để đó chờ BTC về 20 đến 40",
+  "giay": 1051,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=c6WnN4Q9EXo&t=1051s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[12].trich",
+  "trich": "TP1 chốt bớt rồi lên vùng khoảng 78, 79 chốt tiếp. 78c8 chốt tiếp",
+  "giay": 2515,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=c6WnN4Q9EXo&t=2515s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[13].trich",
+  "trich": "Rồi lên H4 79k2 chốt tiếp",
+  "giay": 2525,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=c6WnN4Q9EXo&t=2525s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[14].trich",
+  "trich": "Rồi lên 81 chốt tiếp",
+  "giay": 2529,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=c6WnN4Q9EXo&t=2529s",
+  "anh": []
+ }
+]

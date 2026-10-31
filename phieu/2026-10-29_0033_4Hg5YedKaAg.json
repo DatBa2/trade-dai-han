@@ -1,0 +1,173 @@
+{
+  "buoi": "2026-10-29_0033_4Hg5YedKaAg",
+  "ngay": "2026-10-29",
+  "gio_vn": "00:33",
+  "gia_btc_luc_noi": 81000,
+  "nhan_dinh": [
+    {
+      "khung": "H4",
+      "huong": "GIAM",
+      "do_chac": "vua",
+      "dich": 78000,
+      "han": "đêm nay / qua tháng 12 cho cả nhịp",
+      "han_gio": 24,
+      "vo_hieu_khi": "nến H4 sau (3:00) vượt qua được 1/2 cây nến bán trước và vùng cản Fibo",
+      "kich_ban_phu": "hồi lên test 81.000 / Fibo 0.618 / có thể 82.000 rồi mới giảm; PCE ra 0.2 thì ngày mai kéo lên khoảng 82.500; bài phát biểu quá đẹp thì không về 78",
+      "ly_do": [
+        "H4 đóng nến rất xấu",
+        "lực bán là lực chủ đạo, lên chỉ để lấy thanh khoản và quét Fibo 0.5 của nhịp giảm",
+        "khung ngày bị chặn ngay đường MA",
+        "H4 test MA rồi quay về dưới MA34",
+        "thị trường sợ Fed tăng lãi suất tháng 12 (~80-90%)"
+      ],
+      "trich": "mình vẫn giữ quan điểm là xu hướng giảm, mình không đánh ngược xu hướng ở đoạn này nữa.",
+      "doi_y": null,
+      "duong_di": [
+        {
+          "huong": "TANG",
+          "dich": 82000
+        },
+        {
+          "huong": "GIAM",
+          "dich": 78000
+        }
+      ]
+    },
+    {
+      "khung": "D1",
+      "huong": "GIAM",
+      "do_chac": "thap",
+      "dich": [
+        77000,
+        78000
+      ],
+      "han": "nhịp này chắc phải qua tháng 12 mới xong",
+      "han_gio": null,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": "điều chỉnh về 78 rồi sideway, bật lên test lại 83 (Fibo 0.5 tổng thể) rồi đi xuống tạo vai đầu vai D1, tuột về sáu mấy nghìn",
+      "ly_do": [
+        "kịch bản sóng mình nghĩ: về 78, hồi, rồi vai đầu vai trên khung ngày",
+        "plan 2027 Fed giữ lãi suất cao"
+      ],
+      "trich": "Thực tế đoạn này mình nghĩ nó điều chỉnh về vùng 78 rồi sideway, bật lên test lại vùng đó, 83; rồi lại đi xuống thì lúc này có một mô hình vai đầu vai trên khung ngày.",
+      "doi_y": null,
+      "duong_di": [
+        {
+          "huong": "GIAM",
+          "dich": 78000
+        },
+        {
+          "huong": "TANG",
+          "dich": 83000
+        },
+        {
+          "huong": "GIAM",
+          "dich": null
+        }
+      ]
+    },
+    {
+      "khung": "M15",
+      "huong": "GIAM",
+      "do_chac": "vua",
+      "dich": null,
+      "han": "trước/quanh giờ ra tin",
+      "han_gio": 2,
+      "vo_hieu_khi": "2 nến 5 phút đóng dưới vùng 81.000 thì chỉ phục hồi tới Fibo",
+      "kich_ban_phu": "lên Fibo 0.5 rồi rớt; sau tin giá đứng im rồi gãy",
+      "ly_do": [
+        "M15 chạy hai đáy, thường lên test lại 81.000 (nói 80% nếu không có tin)",
+        "vùng Fibo nên xác suất lên test cực cao",
+        "không tăng lãi suất thì ngắn hạn có nhịp tăng nhỏ"
+      ],
+      "trich": "Thông thường mô hình này sẽ lên test lại vùng 81.000; nếu không có tin về mặt kỹ thuật thì 80% là nó sẽ test",
+      "doi_y": "đầu buổi M15 hai đáy, 80% lên test 81.000 → sau tin giá đứng im rồi gãy, nến đỏ thì dễ về 78.000 sáng mai",
+      "duong_di": [
+        {
+          "huong": "TANG",
+          "dich": 81000
+        },
+        {
+          "huong": "GIAM",
+          "dich": null
+        }
+      ]
+    }
+  ],
+  "vung_gia": {
+    "khang_cu": [
+      81000,
+      82500
+    ],
+    "ho_tro": [
+      77000,
+      78000
+    ]
+  },
+  "lenh": [],
+  "nhin_lai_truoc": "Sáng khớp được tất cả entry trong vùng 80-81.000, chốt bớt rồi; chưa khớp đến 80.000. Nhịp bay lúc chiều là đi kỹ thuật, không phải bay trước tin.",
+  "cong_cu": [
+    "H4",
+    "M15",
+    "M5",
+    "Fibo 0.5",
+    "Fibo 0.618",
+    "MA34",
+    "trendline",
+    "volume 5 phút",
+    "vàng",
+    "Glassnode"
+  ],
+  "tin_tuc": [
+    {
+      "tin": "FOMC tháng 10 giữ lãi suất 3.75-4%",
+      "danh_gia": "không bất ngờ; giữ lãi suất là tin đẹp nhưng lực tăng không có vì thị trường sợ tháng 12"
+    },
+    {
+      "tin": "Thị trường định giá ~80-90% Fed tăng lãi suất tháng 12",
+      "danh_gia": "đây là lý do giá giảm; không có công thức cố định lãi suất tăng/giữ thì giá lên/xuống"
+    },
+    {
+      "tin": "Một thống đốc (Cook) bỏ phiếu ủng hộ tăng 25 điểm",
+      "danh_gia": "bắt đầu có lý do để hợp lý hoá"
+    },
+    {
+      "tin": "GDP và PCE ngày mai",
+      "danh_gia": "PCE 0.4-0.5 thì BTC mất đà tăng; 0.2 thì kéo lên khoảng 82.500"
+    },
+    {
+      "tin": "Glassnode: holder dài hạn ~4 triệu BTC mua 85-118K",
+      "danh_gia": "hồi lên 85.000 có thể gặp lực bán hoà vốn"
+    }
+  ],
+  "thoi_quen": [
+    "đánh tin không kéo SL về entry vì chắc chắn bị quét; hoặc xác định ăn, hoặc giữ volume nhỏ và SL xa (trên 83.000)",
+    "trước tin xử lý bớt vị thế, giữ entry tốt",
+    "không setup kèo trong buổi tin, chỉ view cùng mọi người",
+    "chờ nến H4 đóng mới khẳng định",
+    "không đánh ngược xu hướng",
+    "cảnh báo FOMO khi đánh tin"
+  ],
+  "cau_cua_mieng": [
+    "Đừng có thông minh quá, nó không tốt đâu.",
+    "Nhưng đừng FOMO quá, đánh tin khá nguy hiểm."
+  ],
+  "altcoin": [
+    {
+      "coin": "WLD",
+      "huong": "GIAM",
+      "ghi": "tuột từ 5.9 về 4.2, không có nhịp hồi"
+    },
+    {
+      "coin": "NEAR",
+      "huong": "GIAM",
+      "ghi": "mô hình H4 cực kỳ xấu, chờ gãy hẳn rồi tính"
+    },
+    {
+      "coin": "ETH",
+      "huong": "GIAM",
+      "ghi": "đang chờ về 2001-2002"
+    }
+  ],
+  "ghi_chu": "Hướng giảm là quan điểm chốt cuối buổi; D1 vai đầu vai là kịch bản 'mình nghĩ' nên độ chắc thấp. Số 78.00[?]/80.00[?]/81.00[?] suy ra tròn nghìn. Không có lệnh mới ('bữa nay không có kèo gì hết')."
+}

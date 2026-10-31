@@ -1,0 +1,424 @@
+{
+  "buoi": "2026-08-14_1004_xK38gQ-G6uA",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/lam_sach/2026-08-14_1004_xK38gQ-G6uA.md",
+  "gia_btc_luc_noi": 63400,
+  "dau_buoi": {
+    "thien_huong_h4": "GIAM",
+    "gio": null,
+    "trich": "Xu hướng hiện tại của thị trường rõ ràng là xu hướng giảm, cho nên các vị thế hiện tại mình full 100% (short) là hợp lý."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "GIAM",
+    "do_chac": "vua",
+    "gio": null,
+    "trich": "Xu hướng hiện tại vẫn chủ đạo là xu hướng short, nhưng short FOMO thì phải thận trọng, rất nguy hiểm vì dễ đi lên để kill."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {
+    "huong": "GIAM",
+    "dich": [
+      62000,
+      63000
+    ]
+  },
+  "duong_di": [
+    {
+      "huong": "GIAM",
+      "dich": [
+        62000,
+        63000
+      ]
+    },
+    {
+      "huong": "TANG",
+      "dich": [
+        64000,
+        64400
+      ]
+    },
+    {
+      "huong": "GIAM",
+      "dich": [
+        50000,
+        60000
+      ]
+    }
+  ],
+  "dich_chinh": [
+    50000,
+    60000
+  ],
+  "han_gio": null,
+  "vo_hieu": null,
+  "lenh": [
+    {
+      "chieu": "SHORT",
+      "vao": null,
+      "tp": [
+        63100,
+        62000
+      ],
+      "sl": null,
+      "trang_thai": "dang_giu"
+    },
+    {
+      "chieu": "SHORT",
+      "vao": 62500,
+      "tp": [],
+      "sl": null,
+      "trang_thai": "de_xuat_moi"
+    },
+    {
+      "chieu": "LONG",
+      "vao": [
+        62000,
+        63000
+      ],
+      "tp": [],
+      "sl": null,
+      "trang_thai": "de_xuat_moi"
+    }
+  ],
+  "hanh_dong": "chot_loi",
+  "khung_lon": {
+    "D1": "GIAM",
+    "W1": null
+  },
+  "pha_vo_gia": "Cảnh báo pha pump lên kill short (tối thiểu trên 64, vùng 64.000–64.400) trước khi gãy thực sự đầu tuần sau; không short đuổi đoạn 63.7–63.8k.",
+  "nhin_lai_view_truoc": {
+    "view_truoc": "GIAM",
+    "giu_hay_doi": "giu",
+    "vi_sao": "Hôm qua chờ short 63.700, TP 62.800. Nến ngày hôm qua rút râu hai đầu (lên 64, đêm về 62.000) – ông đọc là lưỡng lự dành cho phe bán; xu hướng giảm rõ nên vị thế short full là hợp lý. Chỉ thêm cảnh báo pha pump kill short trước khi gãy thật, nên chốt lời ở râu 62-63.",
+    "gio": "[00:48:42]",
+    "trich": "Hôm qua có một cây nến rút râu hai đầu, kéo lên tận 64 và đêm qua kéo về 62.000. Chúng ta thấy sự lưỡng lự rất rõ ở đây, và mình nghĩ đó là lưỡng lự dành cho phe bán ... (và [00:49:26]: Xu hướng hiện tại của thị trường rõ ràng là xu hướng giảm, cho nên các vị thế hiện tại mình full 100% (short) là hợp lý.)"
+  },
+  "trendline": [],
+  "nen_volume": [
+    {
+      "khung": "D1",
+      "nen": "Nến rút râu hai đầu: lên tận 64, đêm qua về 62.000",
+      "volume": null,
+      "ket_luan": "Lưỡng lự dành cho phe bán: bán muốn xuống nhưng phe mua vẫn nỗ lực giữ giá, chưa buông",
+      "gio": "[00:48:42]",
+      "trich": "Hôm qua có một cây nến rút râu hai đầu, kéo lên tận 64 và đêm qua kéo về 62.000. Chúng ta thấy sự lưỡng lự rất rõ ở đây, và mình nghĩ đó là lưỡng lự dành cho phe bán: phe bán muốn đi xuống nhưng nỗ lực giữ giá của phe mua vẫn còn, chứ không hẳn là buông bỏ để gãy về dưới."
+    },
+    {
+      "khung": "H4",
+      "nen": "Cây H4 đêm qua để râu ở 62.000 sau khi xuyên 62.500 và 62.000 (vùng hỗ trợ căng 62.000-62.800 [?])",
+      "volume": null,
+      "ket_luan": "Gần như chắc chắn về test lại vùng râu 63.000-62.000 trong ngày",
+      "gio": "[00:50:06]",
+      "trich": "Nó kéo xuyên thủng 62.500 [?] và 62.000, mình không cho là đơn giản, và bằng cách đó nó thể hiện một râu nến ở đây. Khi có râu nến H4 như vậy thì gần như chắc chắn nó sẽ về test vùng này, loanh quanh cái râu này khoảng 63.000 cho đến 62.000."
+    },
+    {
+      "khung": "H4",
+      "nen": "Kiểu tạo cây H4 có râu dưới như vậy",
+      "volume": null,
+      "ket_luan": "Rất dễ có pha test râu rồi pump kill short trước khi gãy thật",
+      "gio": "[00:50:56]",
+      "trich": "Xác suất xảy ra pha đi xuống test râu, sau đó là một cú pump lên kill short trước khi gãy thực sự. Cái này rất dễ xảy ra với kiểu tạo cây nến H4 như thế này."
+    },
+    {
+      "khung": "M30",
+      "nen": "H1 và M30 liên tục tạo xu hướng giảm, bám M30 là xuống; điểm đóng nến M30 ở 63.096",
+      "volume": null,
+      "ket_luan": "Có thể tiếp tục test xuống; zone chốt short 63.100-62.000",
+      "gio": "[00:52:13]",
+      "trich": "Trên H1 cũng như M30 nó liên tục tạo xu hướng giảm, cứ bám M30 là giá xuống. ... Với các lệnh short, anh em nên chốt từ 63.100 [?] (nguyên văn \"63.001\"), tức là ở điểm đóng nến M30 này 63.096"
+    },
+    {
+      "khung": "H4",
+      "nen": "Hai cây H4 hôm qua: kéo lên 64 rồi về 62-63",
+      "volume": null,
+      "ket_luan": "Thực tế chỉ biên ~1000 giá",
+      "gio": "[01:08:20]",
+      "trich": "Hai cây H4 hôm qua: kéo lên 64 rồi kéo về 62, 63 chứ thực tế có 1000 giá chứ bao nhiêu đâu."
+    }
+  ],
+  "cach_lam": [
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "Web 'chiến trận' bò-gấu: tường mua/tường bán và order book",
+      "ket_qua": "Hai phe bằng nhau -> vùng giá cân bằng; ngắn hạn giá rất yếu, kỳ vọng chiều nay test xuống",
+      "gio": "[00:05:07]",
+      "trich": "Hiện tại tỉ lệ giữa tường mua và tường bán đang bằng nhau, order book cũng bằng nhau nốt. Vùng giá này là vùng khá cân bằng giữa hai phe."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "nen",
+      "chi_tiet": "Nến ngày rút râu hai đầu",
+      "ket_qua": "Lưỡng lự dành cho phe bán",
+      "gio": "[00:48:50]",
+      "trich": "Chúng ta thấy sự lưỡng lự rất rõ ở đây, và mình nghĩ đó là lưỡng lự dành cho phe bán"
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "nen",
+      "chi_tiet": "Râu dưới H4 ở 62.000",
+      "ket_qua": "Về test vùng râu 63.000-62.000 trong ngày",
+      "gio": "[00:50:16]",
+      "trich": "Khi có râu nến H4 như vậy thì gần như chắc chắn nó sẽ về test vùng này, loanh quanh cái râu này khoảng 63.000 cho đến 62.000. Mình nghĩ trong ngày hôm nay nó sẽ về test."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "nen",
+      "chi_tiet": "Điểm đóng nến M30 63.096 làm mốc chốt lời",
+      "ket_qua": "Zone chốt short 63.100-62.000",
+      "gio": "[00:52:28]",
+      "trich": "anh em nên chốt từ 63.100 [?] (nguyên văn \"63.001\"), tức là ở điểm đóng nến M30 này 63.096, làm tròn là 63.100 [?], cho đến vùng 62.000, đây là zone nên chốt lãi."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "heatmap",
+      "chi_tiet": "Liquid: trên 64.000 có bóng + râu dài, rất dày (SL phe short đỏ trú ở đó); dưới chỉ quét đôi ~63.500, muốn quét tiếp phải thủng đuôi 62.000; đoạn hiện tại -> 63.700/63.800 không cản, không thanh khoản (ô tô vàng)",
+      "ket_qua": "Pump tối thiểu lên trên 64 hoặc 64.000-64.400 [?]; không short đoạn hiện tại -> 63.7/63.8",
+      "gio": "[00:54:37]",
+      "trich": "Một là vùng liquid nó sẽ cố đi lên kill, ở đây thấy là trên 64.000. Hai là theo cái cat tray của mình, khi mấy anh em đỏ này bị kill hết, bị lụm hết thì lúc đó mới là kill sóng short. ... tối thiểu mình nghĩ quét lên trên 64 hoặc đến vùng 64.000–64.400 [?], bởi vùng này dồn lại rất nhiều stop loss của các anh em màu đỏ"
+    },
+    {
+      "hanh_dong": "do",
+      "cong_cu": "fibo_thoai_lui",
+      "chi_tiet": "Giá phản ứng ở Fibo 0.5",
+      "ket_qua": "Từ đây xuống đỡ liên tục, không gãy tuột; đến trưa lòng vòng quanh 63.000",
+      "gio": "[00:58:35]",
+      "trich": "Giá phản ứng ngay ở vùng Fibo 0.5 rồi. Đoạn từ đây về dưới nó đỡ liên tục chứ không gãy tuột một phát đâu. Từ giờ đến trưa giá cứ lòng vòng trong vùng 63.000 này chứ không tụt hẳn"
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "BTC.D hai đáy; USDT.D dễ phá lên",
+      "ket_qua": "USDT.D lên 9-9.5% thì thị trường về các vùng đang chờ (thấp hơn)",
+      "gio": "[01:00:33]",
+      "trich": "Bitcoin Dom có hai đáy, anh em nhá. ... USDT.D mới là con đau đầu: xu hướng của nó rất dễ để phá lên, và mình nói khi nó lên đến 9% hay 9.5 thì thị trường sẽ về đâu các bạn tự biết rồi, về những vùng mà chúng ta đang chờ."
+    },
+    {
+      "hanh_dong": "ve",
+      "cong_cu": "khac",
+      "chi_tiet": "Vẽ sẵn biên đánh xuống và vùng SL phía trên (không nêu giá)",
+      "ket_qua": "Muốn đánh xuống chỉ trong biên này",
+      "gio": "[01:06:39]",
+      "trich": "Vùng này nếu anh em muốn đánh xuống thì cũng chỉ trong biên này, SL ở trên vùng này mình vẽ sẵn ở đây rồi."
+    }
+  ],
+  "vung_nguoi_do": [
+    {
+      "loai": "ho_tro",
+      "tu": 62000,
+      "den": 62800,
+      "gio": "[00:49:56]",
+      "trich": "Vùng này là vùng hỗ trợ khá căng, nó trụ giá khá ác ở vùng 62.000–62.800 [?] này."
+    },
+    {
+      "loai": "tp",
+      "tu": 62000,
+      "den": 63000,
+      "gio": "[00:51:24]",
+      "trich": "Thành ra các vị thế short nên chốt loanh quanh cái râu nến này, 62.000 cho đến 63.000, mình nghĩ anh em nên húp."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 62500,
+      "den": 62500,
+      "gio": "[00:51:47]",
+      "trich": "Trường hợp nó gãy hẳn thì nó phải thủng luôn dưới 62.500 [?] (nguyên văn \"62.000 năm\"). Khi nó thủng confirm về dưới đó thì chúng ta đuổi sẽ ok hơn."
+    },
+    {
+      "loai": "tp",
+      "tu": 62000,
+      "den": 63100,
+      "gio": "[00:52:28]",
+      "trich": "Với các lệnh short, anh em nên chốt từ 63.100 [?] (nguyên văn \"63.001\") ... cho đến vùng 62.000, đây là zone nên chốt lãi."
+    },
+    {
+      "loai": "vao",
+      "tu": 62000,
+      "den": 63000,
+      "gio": "[00:54:08]",
+      "trich": "Cho nên nếu nó về đây anh em có thể đánh lên, nhưng phải xác định là ngược xu hướng: đánh lên rất rủi ro, đi volume thì volume nhỏ, nếu không ổn là phải cắt ngay lập tức chứ không cố gồng. (long ngược xu hướng ở vùng râu 62-63)"
+    },
+    {
+      "loai": "dich",
+      "tu": 64000,
+      "den": 64400,
+      "gio": "[00:55:22]",
+      "trich": "tối thiểu mình nghĩ quét lên trên 64 hoặc đến vùng 64.000–64.400 [?], bởi vùng này dồn lại rất nhiều stop loss của các anh em màu đỏ, họ trú ngủ ở đây."
+    },
+    {
+      "loai": "dich",
+      "tu": 63500,
+      "den": 63500,
+      "gio": "[00:55:55]",
+      "trich": "Vùng dưới thì nó sẽ cố quét đôi khoảng 63.500, cũng phù hợp view của chúng ta."
+    },
+    {
+      "loai": "dich",
+      "tu": 50000,
+      "den": 60000,
+      "gio": "[00:57:20]",
+      "trich": "Trước mắt mình chỉ thấy 5x là rõ lồ lộ. Nhưng để về được vùng 5x, nó phải đấm anh em ra khỏi những vị thế short đã thì mới cho về."
+    },
+    {
+      "loai": "vao",
+      "tu": 62500,
+      "den": 62500,
+      "gio": "[01:02:15]",
+      "trich": "Bitcoin dưới 62.500 [?] (nguyên văn \"62.000 năm\") thì short đuổi được không? Mình nghĩ là được."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 62000,
+      "den": 63000,
+      "gio": "[01:08:55]",
+      "trich": "Không tính là bao nhiêu giá, mà là nó phải xuyên thủng được vùng nào. Ví dụ ở đây nó xuyên thủng được 63.000 và 62.000 kia thì mới gọi là panic được."
+    }
+  ],
+  "view_trung_han": [
+    {
+      "khung": "D1",
+      "huong": "GIAM",
+      "dich": [
+        50000,
+        60000
+      ],
+      "han": "gãy thực sự đầu tuần sau, sau pha pump kill short cuối tuần",
+      "mat_view_khi": null,
+      "gio": "[00:57:11]",
+      "trich": "Xu hướng thị trường đoạn này mình nghĩ là nó hết thời gian rồi. Kịch bản lên 66, 68 hay 70 càng ngày càng xa vời. Trước mắt mình chỉ thấy 5x là rõ lồ lộ. Nhưng để về được vùng 5x, nó phải đấm anh em ra khỏi những vị thế short đã thì mới cho về."
+    },
+    {
+      "khung": "D1",
+      "huong": "GIAM",
+      "dich": null,
+      "han": "tối thứ sáu kéo lên, thứ bảy điều chỉnh nhẹ, cuối tuần sideway, chủ nhật có thể kéo thêm vài pha rồi mới sập thực sự",
+      "mat_view_khi": null,
+      "gio": "[00:59:10]",
+      "trich": "Tối nay vào phiên Mỹ tối thứ sáu nó hay kéo lên. Tối nay mà kéo lên thì ngày mai nó điều chỉnh nhẹ nhẹ. Qua hai ngày cuối tuần nó đi sideway, đến khoảng chủ nhật có thể kéo lên tiếp một vài pha tăng nữa với mục đích xử lý hết đám màu đỏ ở bên này. Rồi sau đó mới sập thực sự."
+    },
+    {
+      "khung": "M1",
+      "huong": "GIAM",
+      "dich": null,
+      "han": null,
+      "mat_view_khi": "Nếu không có panic thì mua đuổi khi bắt đầu vào sóng uptrend",
+      "gio": "[01:21:55]",
+      "trich": "> Hỏi: Nếu DCA thì giữ lại 20–30% để chờ panic ...? — Được. Yên tâm đi, sẽ có panic, cứ tự tin vào. Còn không thì khi nào bắt đầu vào sóng uptrend thì chúng ta mua đuổi."
+    }
+  ],
+  "vung_tranh": [
+    {
+      "tu": null,
+      "den": null,
+      "vi_sao": "Cố giữ sell ở vùng hiện tại đòi ăn tham về 60/5x thì khó; chờ thủng confirm 62.500 rồi đuổi",
+      "gio": "[00:51:55]",
+      "trich": "Còn câu chuyện cố giữ sell ở vùng hiện tại mà đòi ăn tham về 60 hay năm mấy nghìn thì mình nghĩ sẽ hơi khó. Đó là điều cực kỳ quan trọng anh em cần lưu ý hôm nay, bởi vì hôm nay là thứ sáu."
+    },
+    {
+      "tu": null,
+      "den": null,
+      "vi_sao": "Vùng hiện tại cực kỳ khó chơi, nhập nhằng hỗ trợ",
+      "gio": "[00:53:01]",
+      "trich": "Còn khi nó thủng xuyên qua dưới thì chúng ta đuổi, tính sau ... Vùng hiện tại là vùng cực kỳ khó chơi, vùng nhập nhằng hỗ trợ."
+    },
+    {
+      "tu": null,
+      "den": 63800,
+      "vi_sao": "Không short từ giá hiện tại đến 63.700/63.800: không cản, không thanh khoản, vút một phát là bị thịt",
+      "gio": "[00:56:14]",
+      "trich": "Một khi nó lên, anh em đừng bắt short từ vùng hiện tại cho đến vùng 63.700 hoặc 63.800 [?] (nguyên văn \"63.007\", \"63.00800\"). Đừng vào short nữa, vì một khi nó vút một phát là không có thằng nào cả."
+    },
+    {
+      "tu": null,
+      "den": null,
+      "vi_sao": "Short FOMO rất nguy hiểm vì dễ bị kéo lên kill",
+      "gio": "[00:58:31]",
+      "trich": "Xu hướng hiện tại vẫn chủ đạo là xu hướng short, nhưng short FOMO thì phải thận trọng, rất nguy hiểm vì dễ đi lên để kill."
+    }
+  ],
+  "giu_dong": [
+    {
+      "lenh": "Short BTC đang giữ",
+      "quyet_dinh": "dong",
+      "khi_nao": "Chốt lãi toàn bộ ở zone 63.100-62.000 (vùng râu H4) để phòng pha pump kill short",
+      "gio": "[00:52:51]",
+      "trich": "Nếu là mình thì mình sẽ chốt lãi toàn bộ các lệnh short Bitcoin ở vùng này."
+    },
+    {
+      "lenh": "Các lệnh short nói chung",
+      "quyet_dinh": "dong",
+      "khi_nao": "Có lãi thì chốt; chờ thị trường kill xong đám short rồi vào lại",
+      "gio": "[00:57:03]",
+      "trich": "Thứ hai, số lượng lệnh short bây giờ đang rất nhiều nên đánh short cũng phải thận trọng, có lãi thì nên chốt. Chốt đến khi nó kill xong đám này thì chúng ta vào lại."
+    },
+    {
+      "lenh": "Long ngược xu hướng ở 62-63",
+      "quyet_dinh": "dong",
+      "khi_nao": "Không ổn là cắt ngay lập tức, không gồng",
+      "gio": "[00:54:18]",
+      "trich": "đánh lên rất rủi ro, đi volume thì volume nhỏ, nếu không ổn là phải cắt ngay lập tức chứ không cố gồng."
+    },
+    {
+      "lenh": "Vốn spot DCA chừa chờ panic",
+      "quyet_dinh": "giu",
+      "khi_nao": "Giữ vốn chờ panic (ông chừa nhiều hơn 20-30%); không có panic thì mua đuổi khi vào uptrend",
+      "gio": "[01:21:55]",
+      "trich": "Mình đây còn chừa vốn để mua panic rất nhiều, chứ không chỉ 20–30%."
+    }
+  ],
+  "tin_tuc": [
+    {
+      "su_kien": "PPI Mỹ (đã ra tối 13/8)",
+      "thoi_diem": "tối qua 13/8",
+      "nguon": "lich_kinh_te",
+      "so_lieu": "PPI: tháng trước 0.4, dự kiến 0.3, ra 0.2; PPI lõi: dự kiến 0.2, ra 0.0 [?] (xấu hơn tháng trước một xíu)",
+      "anh_huong_view": "Tin tạm ổn, không quá xấu nhưng không gọi là tốt; kết hợp CPI hôm trước, không đổi view giảm",
+      "gio": "[01:01:10]",
+      "trich": "Hôm qua có tin lạm phát PPI, ra thấp hơn dự kiến. Tháng trước là 0.4, tháng này dự kiến 0.3, ra 0.2: đây là tin tốt. Còn PPI lõi tháng này dự kiến 0.2, ra 0.0 [?]: tốt hơn so với tâm lý nhưng lại xấu hơn tháng trước một xíu. Về bản chất mình đánh giá là tin tạm ổn, không quá xấu, nhưng gọi là tin tốt thì không được."
+    },
+    {
+      "su_kien": "Lịch tin tuần sau",
+      "thoi_diem": "tuần 17-21/8",
+      "nguon": "lich_kinh_te",
+      "so_lieu": null,
+      "anh_huong_view": "Tuần sau không có tin tức gì; tối nay (14/8) cũng không có tin quan trọng",
+      "gio": "[01:01:51]",
+      "trich": "Kết hợp với tin CPI tối hôm trước. Tuần sau không có tin tức gì."
+    }
+  ],
+  "trich_them": [
+    {
+      "gio": null,
+      "cau": "Khi có râu nến H4 như vậy thì gần như chắc chắn nó sẽ về test vùng này, loanh quanh cái râu này khoảng 63.000 cho đến 62.000. Mình nghĩ trong ngày hôm nay nó sẽ về test."
+    },
+    {
+      "gio": null,
+      "cau": "Thành ra các vị thế short nên chốt loanh quanh cái râu nến này, 62.000 cho đến 63.000, mình nghĩ anh em nên húp."
+    },
+    {
+      "gio": null,
+      "cau": "Trước mắt khả năng sẽ có một pha lên để kill trước khi nó gãy thực sự vào đầu tuần sau; đến đầu tuần sau mình nghĩ mới gãy thực sự."
+    },
+    {
+      "gio": null,
+      "cau": "Trường hợp nó gãy hẳn thì nó phải thủng luôn dưới 62.500 [?] (nguyên văn \"62.000 năm\"). Khi nó thủng confirm về dưới đó thì chúng ta đuổi sẽ ok hơn."
+    },
+    {
+      "gio": null,
+      "cau": "tối thiểu mình nghĩ quét lên trên 64 hoặc đến vùng 64.000–64.400 [?], bởi vùng này dồn lại rất nhiều stop loss của các anh em màu đỏ"
+    },
+    {
+      "gio": null,
+      "cau": "Kịch bản lên 66, 68 hay 70 càng ngày càng xa vời. Trước mắt mình chỉ thấy 5x là rõ lồ lộ. Nhưng để về được vùng 5x, nó phải đấm anh em ra khỏi những vị thế short đã thì mới cho về."
+    },
+    {
+      "gio": null,
+      "cau": "Cho nên nếu nó về đây anh em có thể đánh lên, nhưng phải xác định là ngược xu hướng: đánh lên rất rủi ro, đi volume thì volume nhỏ"
+    },
+    {
+      "gio": null,
+      "cau": "Hôm qua có một cây nến rút râu hai đầu ... mình nghĩ đó là lưỡng lự dành cho phe bán"
+    }
+  ],
+  "kho": "Transcript không có mốc giờ. Đường đi 3 chặng (test râu 62–63k → pump kill short 64–64.4k → gãy thật đầu tuần sau); đích chính chỉ nói '5x' nên ghi [50000,60000]. Giá lúc nói ước 63.1–63.7k (trên vùng chốt 63.1k, dưới 63.7k). Hành động chính là chốt lời short; long ở 62–63k chỉ là tùy chọn ngược xu hướng volume nhỏ."
+}

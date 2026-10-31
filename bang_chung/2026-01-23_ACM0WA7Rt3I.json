@@ -1,0 +1,123 @@
+[
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[0].trich",
+  "trich": "Chắc lên đến khoảng 91 trước mắt ... Lời khuyên của mình chân tình ở thời điểm bây giờ là hạn chế short.",
+  "giay": 200,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=ACM0WA7Rt3I&t=200s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[1].trich",
+  "trich": "Dài hạn vẫn rất là xấu, vẫn đã phá trendline đang back test lên.",
+  "giay": 409,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=ACM0WA7Rt3I&t=409s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "lenh[0].trich",
+  "trich": "Hiện tại thì mình vẫn đang long. ... Lên 91 rồi bắt đầu là TP1. 90.00 là TP1.",
+  "giay": 190,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=ACM0WA7Rt3I&t=190s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "lenh[1].trich",
+  "trich": "Riêng cái lệnh Bitcoin, lệnh short của mình từ 125.000 từ bữa đến giờ cứ liên tục là dương phí funding.",
+  "giay": 2836,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=ACM0WA7Rt3I&t=2836s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[0].trich",
+  "trich": "Chắc lên đến khoảng 91 trước mắt... Đến trên đó chúng ta sẽ chốt lệnh long",
+  "giay": 200,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=ACM0WA7Rt3I&t=200s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[1].trich",
+  "trich": "Hôm qua anh em nào bắt long ở 88.000 thì khá là tốt rồi (nó về đúng Fibo 0.5 và Fibo 618 là bật lên)",
+  "giay": null,
+  "do_giong": 0.593,
+  "nguon_gio": "khong_tim_thay",
+  "url": null,
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[2].trich",
+  "trich": "muốn short thì anh em sẽ phải chờ lên test MA này ở khoảng tầm 91 đến 93",
+  "giay": 427,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=ACM0WA7Rt3I&t=427s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[3].trich",
+  "trich": "Khả năng là cũng 91 này. MA200 ở trên H1 là khoảng 91.000",
+  "giay": 465,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=ACM0WA7Rt3I&t=465s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[4].trich",
+  "trich": "Cao hơn nữa thì sẽ là khoảng 93... Đây là hai vùng có khả năng cao lên được nhất",
+  "giay": 470,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=ACM0WA7Rt3I&t=470s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[5].trich",
+  "trich": "Liquid thì chúng ta có vùng ở 91. Khung lớn hơn thì cũng có ở 91",
+  "giay": 759,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=ACM0WA7Rt3I&t=759s",
+  "anh": [
+   {
+    "file": "so_tay/khung/ACM0WA7Rt3I_001224.jpg",
+    "giay": 744,
+    "lech": -15
+   },
+   {
+    "file": "so_tay/khung/ACM0WA7Rt3I_001300.jpg",
+    "giay": 780,
+    "lech": 21
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[6].trich",
+  "trich": "Lên 91 rồi bắt đầu là TP1. 90.00 là TP1",
+  "giay": 2780,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=ACM0WA7Rt3I&t=2780s",
+  "anh": []
+ }
+]

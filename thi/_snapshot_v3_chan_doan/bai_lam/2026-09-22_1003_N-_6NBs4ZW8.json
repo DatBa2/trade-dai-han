@@ -1,0 +1,100 @@
+{
+ "buoi": "2026-09-22_1003_N-_6NBs4ZW8",
+ "ngay": "2026-09-22",
+ "gio_vn": "10:03",
+ "gia_btc_luc_noi": 85697,
+ "nhan_dinh": [
+  {
+   "khung": "H4",
+   "huong": "TANG",
+   "do_chac": "vua",
+   "dich": [89500, 90000],
+   "han": "2–3 ngày (đến hết thứ Năm 24/09)",
+   "han_gio": 72,
+   "vo_hieu_khi": "2 cây H4 đóng dưới 83.000 (về lại dưới vùng phá 82–83, thủng Fibo 0.5–0.618 nhịp 80.1→87.4)",
+   "kich_ban_phu": "chặng 1 điều chỉnh backtest 83.5–84.5 xả quá mua, quét long FOMO, rồi mới đi tiếp lên lấp gap 90",
+   "duong_di": [
+    {"huong": "GIAM", "dich": 84000},
+    {"huong": "TANG", "dich": 89800}
+   ],
+   "doi_y": null,
+   "ly_do": [
+    "mốc sai của view giảm hôm qua đã kích hoạt: D1 21/09 đóng 86.6 trên 83.000, hôm nay vẫn giữ trên 83",
+    "không phải kịch bản quét 84–85 rồi tụt: 4 cây H4 liên tiếp đóng trên 83, thân dày có volume",
+    "giá trên cả EMA34/89/200 H4, EMA34 dốc lên mạnh (H2) → không short, đừng cản tàu",
+    "RSI H4 76, F&G 78 tham lam cực độ, cây H4 07:00 đỏ -1%: quá mua, cần nhịp backtest trước",
+    "đích gap CME 90 + khung tuần 90–93 đã nêu; TP non trước số tròn 90"
+   ],
+   "trich": null
+  },
+  {
+   "khung": "D1",
+   "huong": "TANG",
+   "do_chac": "vua",
+   "dich": [90000, 93000],
+   "han": "trong tuần này đến đầu tuần sau",
+   "han_gio": 168,
+   "vo_hieu_khi": "nến D1 đóng dưới 82.500 (thủng lại vùng phá 82–83)",
+   "kich_ban_phu": "D1 hôm nay có thể đỏ điều chỉnh, test lại 83–84 rồi mới đi tiếp",
+   "duong_di": [
+    {"huong": "GIAM", "dich": 83800},
+    {"huong": "TANG", "dich": 90000}
+   ],
+   "doi_y": null,
+   "ly_do": [
+    "D1 21/09 thân +6.7% phá đỉnh 82.3 và đỉnh D1 82.8 (05/2026)",
+    "giá trên EMA34/89/200/610 D1",
+    "điều kiện hai nến D1 trên 83 đang được hoàn thành"
+   ],
+   "trich": null
+  },
+  {
+   "khung": "W1",
+   "huong": "TANG",
+   "do_chac": "vua",
+   "dich": [90000, 93000],
+   "han": "1–2 tuần",
+   "han_gio": 336,
+   "vo_hieu_khi": "nến tuần đóng lại dưới 82.000 (chỉ là test đỉnh)",
+   "kich_ban_phu": "khung lớn vẫn là hồi trong chu kỳ giảm; tới 90–93 là vùng chốt, không phải đảo chiều chu kỳ",
+   "duong_di": null,
+   "doi_y": null,
+   "ly_do": [
+    "hai nến tuần xanh liên tiếp, tuần này đã vượt cản 82–83",
+    "giá trên EMA89 tuần 79.0",
+    "gap 90 phía trên chưa lấp"
+   ],
+   "trich": null
+  }
+ ],
+ "vung_gia": {
+  "khang_cu": [87400, 90000, 93000],
+  "ho_tro": [84500, 83800, 82800, 81000]
+ },
+ "lenh": [
+  {"chieu": "LONG", "loai": "limit", "vao": 83900, "tp": [86900, 89700], "sl": 82700, "trang_thai": "de_xuat_moi"}
+ ],
+ "hanh_dong": "dung_ngoai_cho_entry",
+ "giu_view": false,
+ "ly_do_doi_view": "(a) Nến đóng qua mốc sai đã báo: view giảm H4 hôm qua sai khi qua 83.000 với nến ngày đóng trên 83 — D1 21/09 đóng 86.618 và D1 hôm nay vẫn trên 83; đồng thời (b) đích 82–85 đã chạm. Chuyển sang theo view tuần TĂNG 90–93, H4 tăng (hồi kỹ thuật lớn), chờ backtest.",
+ "rau": {
+  "tren": "87.399 (H4 03:00 22/09) — đỉnh mới",
+  "duoi": "85.309 (H4 07:00 22/09); xa hơn chân cây bùng nổ 81.715 (H4 15:00 21/09)",
+  "test_lai": "Vùng 83.5–84.5 CÓ test: cây H4 15:00 21/09 kéo thẳng 81.7→85.3 để lại vùng trống thanh khoản (R3), trùng Fibo 0.5 nhịp 80.1→87.4 (83.77) + vùng phá 82–83 đổi vai. Râu đỉnh 87.4 CÓ test ở chặng 2 trên đường lên 90 (SL phe short vừa vào đặt trên đó)."
+ },
+ "vung_on": [
+  {"loai": "LONG", "khoang": [83500, 84500], "ly_do": [
+   "Fibo 0.382–0.5 nhịp H4 80.133→87.399 (84.62/83.77)",
+   "vùng cản 82–83 vừa phá đổi vai + đỉnh 82.3/82.8 cũ",
+   "vùng trống thanh khoản của cây H4 bùng nổ 15:00 21/09",
+   "Fibo 0.382 nhịp D1 74.96→87.4 = 82.65 ngay dưới làm đệm SL"
+  ]},
+  {"loai": "SHORT", "khoang": [89800, 90800], "ly_do": [
+   "gap CME 90",
+   "đích tuần 90–93 = vùng chốt",
+   "số tròn 90 — chỉ có 2–3 căn cứ, vùng quan sát, không limit short"
+  ]}
+ ],
+ "pha_vo_gia": "Cú phá 82–83 là phá THẬT: không chỉ râu, D1 đóng 86.6 thân +6.7%, 4 cây H4 liên tiếp đóng trên 83, volume vượt, phía trên trống tới gap 90. Không phải kịch bản quét 84–85 rồi tụt. Cây H4 đỏ 07:00 chỉ là nhịp xả quá mua, chưa thủng 85.",
+ "loi_binh": "Hôm qua mình nói qua 83 với nến ngày đóng trên thì 90–93, giờ nó đóng 86.6 rồi anh em, view giảm ngắn hạn sai thì bỏ, cẩn tắc vô áy náy. Khung tuần đẹp như này thì đừng cố cản tàu, bỏ tay ra khỏi nút short. Nhưng RSI quá mua, tham lam 78, giá 85.7 lưng chừng thì không FOMO; chờ nó backtest về 83.5–84.5 rồi long, SL dưới 82.7, TP 86.9 rồi 89.7 trước gap 90. Đây vẫn là hồi kỹ thuật lớn trong chu kỳ giảm, đủ mồm thì chốt."
+}

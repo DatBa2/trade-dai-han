@@ -1,0 +1,456 @@
+[
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[0].trich",
+  "trich": "Thị trường hiện tại xu hướng của nó vẫn là xu hướng tăng cho nên chúng ta cứ bám theo cái này ... BTC chưa sập được thì chúng ta không nên đi short, đơn giản vậy thôi.",
+  "giay": 724,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=usKAHnR-_VI&t=724s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[1].trich",
+  "trich": "Nếu mà giá vượt qua được cái đoạn này thì 78 và 83 82 là điều khá là khả thi. Thế cho nên ... các bạn hạn chế short.",
+  "giay": 986,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=usKAHnR-_VI&t=986s",
+  "anh": [
+   {
+    "file": "so_tay/khung/usKAHnR-_VI_001630.jpg",
+    "giay": 990,
+    "lech": 4
+   }
+  ]
+ },
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[2].trich",
+  "trich": "Xu hướng 20.000 đó là xu hướng dài hạn thì vẫn thế thôi, vẫn giữ nguyên không có vấn đề.",
+  "giay": 554,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=usKAHnR-_VI&t=554s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[3].trich",
+  "trich": "Cái vùng 75k4 này là chốt được. 75k4 này nên chốt bởi vì chúng ta đánh scalping.",
+  "giay": 914,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=usKAHnR-_VI&t=914s",
+  "anh": [
+   {
+    "file": "so_tay/khung/usKAHnR-_VI_001630.jpg",
+    "giay": 990,
+    "lech": 76
+   }
+  ]
+ },
+ {
+  "nguon": "phieu",
+  "truong": "lenh[0].trich",
+  "trich": "mình đang có một lệnh long scalp ... định TP ở 7500. Nhưng mà nó thiếu 200 giá nữa không được và nó quay đầu luôn. ... Chắc cài SL ở dưới này, tầm 74 K3.",
+  "giay": 859,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=usKAHnR-_VI&t=859s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "lenh[1].trich",
+  "trich": "chờ điều chỉnh về dưới cái vùng khoảng quanh 71 này thì tìm điểm long. Thế thôi. Còn lại cái vùng ở giữa này thì lưng chừng khá là khó chơi.",
+  "giay": 1217,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=usKAHnR-_VI&t=1217s",
+  "anh": [
+   {
+    "file": "so_tay/khung/usKAHnR-_VI_001930.jpg",
+    "giay": 1170,
+    "lech": -47
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[0].trich",
+  "trich": "limit các lệnh chờ long ở cái vùng 73 nhưng nó không có về",
+  "giay": 648,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=usKAHnR-_VI&t=648s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[1].trich",
+  "trich": "mình định TP ở 7500",
+  "giay": 867,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=usKAHnR-_VI&t=867s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[2].trich",
+  "trich": "Cái vùng 75k4 này là chốt được",
+  "giay": 914,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=usKAHnR-_VI&t=914s",
+  "anh": [
+   {
+    "file": "so_tay/khung/usKAHnR-_VI_001630.jpg",
+    "giay": 990,
+    "lech": 76
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[3].trich",
+  "trich": "giá vượt qua được cái đoạn này thì 78 và 83 82 là điều khá là khả thi",
+  "giay": 987,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=usKAHnR-_VI&t=987s",
+  "anh": [
+   {
+    "file": "so_tay/khung/usKAHnR-_VI_001630.jpg",
+    "giay": 990,
+    "lech": 3
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[4].trich",
+  "trich": "78 và 83 82",
+  "giay": 989,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=usKAHnR-_VI&t=989s",
+  "anh": [
+   {
+    "file": "so_tay/khung/usKAHnR-_VI_001630.jpg",
+    "giay": 990,
+    "lech": 1
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[5].trich",
+  "trich": "hôm qua kỳ vọng nó sẽ về đến 73... chỉ về 73.4",
+  "giay": 1014,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=usKAHnR-_VI&t=1014s",
+  "anh": [
+   {
+    "file": "so_tay/khung/usKAHnR-_VI_001630.jpg",
+    "giay": 990,
+    "lech": -24
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[6].trich",
+  "trich": "về test lại đường MA89 đồng thời test lại cái đáy này là 70.000 tức là về khoảng tầm 71 vừa khớp Fibo",
+  "giay": 1085,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=usKAHnR-_VI&t=1085s",
+  "anh": [
+   {
+    "file": "so_tay/khung/usKAHnR-_VI_001930.jpg",
+    "giay": 1170,
+    "lech": 85
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[7].trich",
+  "trich": "test lại cái đáy này là 70.000",
+  "giay": 1087,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=usKAHnR-_VI&t=1087s",
+  "anh": [
+   {
+    "file": "so_tay/khung/usKAHnR-_VI_001930.jpg",
+    "giay": 1170,
+    "lech": 83
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[8].trich",
+  "trich": "Nó lên đúng ngay đường Fibo 0.5 là 78 luôn. Đó là chạy mô hình cờ",
+  "giay": 1194,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=usKAHnR-_VI&t=1194s",
+  "anh": [
+   {
+    "file": "so_tay/khung/usKAHnR-_VI_001930.jpg",
+    "giay": 1170,
+    "lech": -24
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[9].trich",
+  "trich": "nó cũng không qua được khỏi cái đỉnh 75.000 này thì sẽ rất là xấu",
+  "giay": 1151,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=usKAHnR-_VI&t=1151s",
+  "anh": [
+   {
+    "file": "so_tay/khung/usKAHnR-_VI_001930.jpg",
+    "giay": 1170,
+    "lech": 19
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[10].trich",
+  "trich": "đóng nến qua khỏi 75.000 xong là lên 75.600 và lên tiếp",
+  "giay": 1205,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=usKAHnR-_VI&t=1205s",
+  "anh": [
+   {
+    "file": "so_tay/khung/usKAHnR-_VI_001930.jpg",
+    "giay": 1170,
+    "lech": -35
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[11].trich",
+  "trich": "nó gãy khỏi 73.000 này, chúng ta đuổi về đến tận khoảng 71",
+  "giay": 1321,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=usKAHnR-_VI&t=1321s",
+  "anh": [
+   {
+    "file": "so_tay/khung/usKAHnR-_VI_002230.jpg",
+    "giay": 1350,
+    "lech": 29
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[12].trich",
+  "trich": "short đuổi về đến tận khoảng 71",
+  "giay": 1323,
+  "do_giong": 0.857,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=usKAHnR-_VI&t=1323s",
+  "anh": [
+   {
+    "file": "so_tay/khung/usKAHnR-_VI_002230.jpg",
+    "giay": 1350,
+    "lech": 27
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[13].trich",
+  "trich": "một gap ở 70 69",
+  "giay": 1340,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=usKAHnR-_VI&t=1340s",
+  "anh": [
+   {
+    "file": "so_tay/khung/usKAHnR-_VI_002230.jpg",
+    "giay": 1350,
+    "lech": 10
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[14].trich",
+  "trich": "một gap ở 67 là ở đằng dưới",
+  "giay": 1342,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=usKAHnR-_VI&t=1342s",
+  "anh": [
+   {
+    "file": "so_tay/khung/usKAHnR-_VI_002230.jpg",
+    "giay": 1350,
+    "lech": 8
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[15].trich",
+  "trich": "đằng trên thì chúng ta có gap ở 80 và 90",
+  "giay": 1346,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=usKAHnR-_VI&t=1346s",
+  "anh": [
+   {
+    "file": "so_tay/khung/usKAHnR-_VI_002230.jpg",
+    "giay": 1350,
+    "lech": 4
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[16].trich",
+  "trich": "gap ở 80 và 90",
+  "giay": 1348,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=usKAHnR-_VI&t=1348s",
+  "anh": [
+   {
+    "file": "so_tay/khung/usKAHnR-_VI_002230.jpg",
+    "giay": 1350,
+    "lech": 2
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[17].trich",
+  "trich": "thị trường đẩy căng nhất thì có lẽ là không quá được 93.000",
+  "giay": 1423,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=usKAHnR-_VI&t=1423s",
+  "anh": [
+   {
+    "file": "so_tay/khung/usKAHnR-_VI_002230.jpg",
+    "giay": 1350,
+    "lech": -73
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[18].trich",
+  "trich": "vùng liquid ví dụ như là 76.000, 75.000... lên quét 7500 trước rồi mới về 74 hay 71",
+  "giay": 1439,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=usKAHnR-_VI&t=1439s",
+  "anh": [
+   {
+    "file": "so_tay/khung/usKAHnR-_VI_002230.jpg",
+    "giay": 1350,
+    "lech": -89
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[19].trich",
+  "trich": "OI được mở ra rất nhiều quanh vùng 74.000 cho đến 74.900",
+  "giay": 1537,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=usKAHnR-_VI&t=1537s",
+  "anh": [
+   {
+    "file": "so_tay/khung/usKAHnR-_VI_002630.jpg",
+    "giay": 1590,
+    "lech": 53
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[20].trich",
+  "trich": "đâm xuyên thì đi xuống tận 71 này. Đây là vùng hỗ trợ cứng",
+  "giay": 1554,
+  "do_giong": 0.929,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=usKAHnR-_VI&t=1554s",
+  "anh": [
+   {
+    "file": "so_tay/khung/usKAHnR-_VI_002630.jpg",
+    "giay": 1590,
+    "lech": 36
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[21].trich",
+  "trich": "vùng 74.600 này nó không là hỗ trợ nữa",
+  "giay": 1588,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=usKAHnR-_VI&t=1588s",
+  "anh": [
+   {
+    "file": "so_tay/khung/usKAHnR-_VI_002630.jpg",
+    "giay": 1590,
+    "lech": 2
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[22].trich",
+  "trich": "cây nến này đóng qua được cái đoạn 75.620 thì nhịp này ổn",
+  "giay": 1622,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=usKAHnR-_VI&t=1622s",
+  "anh": [
+   {
+    "file": "so_tay/khung/usKAHnR-_VI_002630.jpg",
+    "giay": 1590,
+    "lech": -32
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[23].trich",
+  "trich": "Chắc cài SL ở dưới này, tầm 74 K3",
+  "giay": 4203,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=usKAHnR-_VI&t=4203s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[24].trich",
+  "trich": "không lên được khoảng 75k4 làm TP1",
+  "giay": 4134,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=usKAHnR-_VI&t=4134s",
+  "anh": []
+ }
+]

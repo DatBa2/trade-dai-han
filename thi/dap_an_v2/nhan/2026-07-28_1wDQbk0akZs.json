@@ -1,0 +1,44 @@
+{
+  "buoi": "2026-07-28_1wDQbk0akZs",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/zip_clean/2026-07-28_1wDQbk0akZs.txt",
+  "gia_btc_luc_noi": 63200,
+  "dau_buoi": {
+    "thien_huong_h4": "GIAM",
+    "gio": "[00:05:21]",
+    "trich": "Chỉ có duy nhất ở đây chúng ta phải confirm lại với nhau là xu hướng D1 là gãy tăng tạo thành một cái xu hướng bán. Xu hướng H4 là đâm xuyên thủng khỏi MA và cross đi xuống dưới và cũng là một cái xu hướng giảm."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "GIAM",
+    "do_chac": "vua",
+    "gio": "[00:34:34]",
+    "trich": "Đoạn này mình thấy đi như vậy có vẻ hơi xấu rồi. Sáng giờ nhìn M5 đáy. Đoạn này nó cứ dập dình như vậy mình nghĩ khó [00:35:07] lên lắm. ... Nó xuống trước tin rồi lên. Maybe, nếu xuống sâu trước tin thì có thể lên."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {"huong": "GIAM", "dich": [62000, 62500]},
+  "duong_di": [
+    {"huong": "GIAM", "dich": [62000, 62500]}
+  ],
+  "dich_chinh": [62000, 62500],
+  "han_gio": null,
+  "vo_hieu": null,
+  "lenh": [
+    {"chieu": "LONG", "vao": [64600, 64800], "tp": [], "sl": 64200, "trang_thai": "da_dong"},
+    {"chieu": "SHORT", "vao": 64000, "tp": [62000, 60000], "sl": null, "trang_thai": "de_xuat_moi"}
+  ],
+  "hanh_dong": "dung_ngoai_cho_entry",
+  "khung_lon": {"D1": "GIAM", "W1": "GIAM"},
+  "pha_vo_gia": "Đêm trước giá 'còn lên quét trên này 65.000 một phát nữa' rồi trả về dính SL long; các râu dưới M5 liên tiếp 'Râu này không tin được đâu ... Bảy cái râu rồi nó cũng đi thêm nghìn giá nữa'. Cảnh báo ngược: về 62/60 có thể 'chơi cái trò vai đầu vai ngược ở đáy này mà nó bật lên một phát nữa thì toang'.",
+  "trich_them": [
+    {"gio": "[00:01:29]", "cau": "Cập nhật lại cái vị thế long của mình ngày hôm qua đã bị dính stop loss ở cái vùng 64.000 này rồi. Hiện tại thì giá nó đi thêm khoảng 1000 giá nữa. Nhưng mà đối với cái mô hình này thì chúng ta không thể nào mà đi long tiếp được."},
+    {"gio": "[00:02:06]", "cau": "thị trường nó vẫn bị đạp bởi cái xu hướng thì coi như là cái plan đó của [00:02:40] chúng ta không thành công. Chúng ta phải chấp nhận cái thực tế đó là kế hoạch đó đã bị thất bại."},
+    {"gio": "[00:06:23]", "cau": "Tầm này chúng ta xem thử nếu mà Fibo mở rộng nó sẽ cho giá về đâu? 62.000 và 60.000 ... H4 thủng đáy này tạo thành cấu trúc giảm rồi. Cùng lắm ở đây chúng ta sẽ chờ một cái nhịp hồi lên để sell xuống."},
+    {"gio": "[00:06:56]", "cau": "Hồi vẫn là hồi Fibo lên quanh khoảng cái vùng này 64. Mình không nghĩ là nó có thể kéo hồi lên được đến 64.000. Sợ hơi khó đối với cái lực này."},
+    {"gio": "[00:11:23]", "cau": "trong trường hợp đẹp nhất là nó hồi lên 64 thì chúng [00:11:54] ta short được về đến 62.000 và TP tiếp gồng tối đa là về 60.000 thì tốt nhất là những cái vùng dưới này là không nên mở thêm những cái vị thế short."},
+    {"gio": "[00:14:43]", "cau": "Nói chung vùng này mình nghĩ để mà sập hẳn BTC mà nó sập hẳn thì mình nghĩ là chắc phải 62k. Nếu mà thủng 62k thì khả năng là nó về 60.5"},
+    {"gio": "[00:23:05]", "cau": "Tầm này chắc là đi luôn vì 62.500 là mới hồi lên quá. Đối với Fibo như này thì khó mà hồi."},
+    {"gio": "[00:23:38]", "cau": "Nếu mà M5 này mà mình nghĩ là nó thủng khỏi 63.000 thì short đuổi về được. Thủng 63.000 thì chắc short đuổi được."},
+    {"gio": "[00:42:10]", "cau": "Hỗ trợ hiện tại là 62.500, từ 61 đến 62.500."}
+  ],
+  "kho": "Buổi lật view so với hôm trước (long bị SL, D1 nhấn chìm) nhưng trong buổi không đổi ý: H4 giảm, chờ hồi lên ~64 để short về 62-62.5, gồng tối đa 60 (60.5 nếu thủng 62). Không nói mốc vô hiệu cho view giảm. Cuối buổi có câu 'Maybe' xuống trước tin FED rồi lên. Lệnh long đã đóng: giá vào suy từ vùng chờ hôm trước (64.600-64.800), SL 64.200."
+}

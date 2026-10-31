@@ -1,0 +1,141 @@
+{
+  "buoi": "2026-01-27_Q2qX5gIvNC8",
+  "ngay": "2026-01-27",
+  "gia_btc_luc_noi": 88000,
+  "moc": [
+    {
+      "gia": 87000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "M30",
+      "can_cu": [
+        "Fibo 0.618 nhịp lên-về hôm qua"
+      ],
+      "moc_gio": "00:20:42",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "đúng ngay vùng Fibo 618 là 87.000 và đi lên"
+    },
+    {
+      "gia": 89000,
+      "gia_tren": 91000,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "Fibo mở rộng",
+        "gap 89-91 đang lên lấp"
+      ],
+      "moc_gio": "00:21:14",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "theo đường Fibo mở rộng thì sẽ lên đến khoảng 89. Nó có thể lên đến 89.000 hoặc thậm chí là 91.000"
+    },
+    {
+      "gia": 98000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [],
+      "moc_gio": "00:23:50",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "có khả năng đây là một cặp đảo chiều. Có khả năng nó sẽ lên tận 98 thì chúng ta mà short lơ ngơ là chết ngay"
+    },
+    {
+      "gia": 88000,
+      "gia_tren": null,
+      "vai_tro": "sl",
+      "huong": "GIAM",
+      "khung": "M30",
+      "can_cu": [],
+      "moc_gio": "00:27:33",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "về đây đi lên test, SL của mình là 88.000, sau đó là giảm xuống luôn"
+    },
+    {
+      "gia": 89000,
+      "gia_tren": null,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý / heatmap"
+      ],
+      "moc_gio": "00:32:47",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Liquid trên này vẫn có một đống ở 89, nhưng rất nhiều liquid ở 87"
+    },
+    {
+      "gia": 86000,
+      "gia_tren": 87000,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý / heatmap"
+      ],
+      "moc_gio": "00:35:37",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "những vùng liquid này cũng như bên kia khoảng 87, 86 gì đó"
+    },
+    {
+      "gia": 87000,
+      "gia_tren": 88000,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "cụm thanh lý",
+        "vùng cản"
+      ],
+      "moc_gio": "00:36:17",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Dưới này có một vùng ở 88 đến 87 trùng với vùng liquid này thì khả năng nó quét về dưới này cũng cao"
+    },
+    {
+      "gia": 90200,
+      "gia_tren": 90700,
+      "vai_tro": "khang_cu",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "H4 phải đóng trên 90K2, thậm chí 90K7"
+      ],
+      "moc_gio": "01:03:43",
+      "tai_san": "BTC",
+      "chac": false,
+      "trich": "Nếu H4 ngồi trên 90K2, thậm chí phải trên hẳn 90K7 (điều kiện để long altcoin)"
+    },
+    {
+      "gia": 40000,
+      "gia_tren": null,
+      "vai_tro": "entry",
+      "huong": "TANG",
+      "khung": "W1",
+      "can_cu": [],
+      "moc_gio": "00:52:58",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Còn tối ưu thì 40.000"
+    },
+    {
+      "gia": 20000,
+      "gia_tren": null,
+      "vai_tro": "entry",
+      "huong": "TANG",
+      "khung": "W1",
+      "can_cu": [],
+      "moc_gio": "00:52:58",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Giá rẻ thì 20.000 đối với mình là quá rẻ"
+    }
+  ]
+}

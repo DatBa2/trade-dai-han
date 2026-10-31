@@ -1,0 +1,681 @@
+{
+  "buoi": "2026-06-08_WZ8PpZ9VA4Q",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/zip_clean/2026-06-08_WZ8PpZ9VA4Q.txt",
+  "gia_btc_luc_noi": 62800,
+  "dau_buoi": {
+    "thien_huong_h4": "GIAM",
+    "gio": "[00:08:16]",
+    "trich": "Chúng ta có một nến tuần thì không thể nào xấu hơn được. Cho nên các bạn cũng đừng quá kỳ vọng vào nhịp tăng trưởng tuần này. Tất cả chỉ là hồi phục trong ngắn hạn thôi. Đối với một đà giảm như thế này thì ít nhất nó sẽ phải kéo một vài nến tuần xấu. May ra cái râu này sẽ được test lại thôi."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "GIAM",
+    "do_chac": "vua",
+    "gio": "[01:06:11]",
+    "trich": "nguyên tắc: nếu băng qua được khỏi khúc này, chỉ cần băng qua khỏi 62.700 này thôi thì sẽ rụng về luôn vùng 61.000 hoặc 62.000. Về đây chúng ta sẽ tìm entry để đánh lên là đẹp. Về đến cái râu này khoảng 62.000, loanh quanh vùng đó chúng ta tìm điểm để đánh hồi là ok."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {
+    "huong": "GIAM",
+    "dich": [
+      61000,
+      62000
+    ]
+  },
+  "duong_di": [
+    {
+      "huong": "GIAM",
+      "dich": [
+        61000,
+        62000
+      ]
+    },
+    {
+      "huong": "TANG",
+      "dich": [
+        65000,
+        67000
+      ]
+    },
+    {
+      "huong": "GIAM",
+      "dich": [
+        52000,
+        53000
+      ]
+    }
+  ],
+  "dich_chinh": [
+    52000,
+    53000
+  ],
+  "han_gio": null,
+  "vo_hieu": {
+    "gia": 72000,
+    "khung": "H4",
+    "so_nen": 1,
+    "chieu": "dong_tren",
+    "cau": "72 này mình nghĩ không đến giá cao nó lên được đâu. Khó phết. Không thấy cửa lên được 72."
+  },
+  "lenh": [
+    {
+      "chieu": "short",
+      "vao": 63200,
+      "tp": [
+        61000,
+        62000
+      ],
+      "sl": 63500,
+      "trang_thai": "dang_giu"
+    },
+    {
+      "chieu": "long",
+      "vao": [
+        61000,
+        62000
+      ],
+      "tp": [
+        65000,
+        67000
+      ],
+      "sl": null,
+      "trang_thai": "de_xuat_moi"
+    },
+    {
+      "chieu": "short",
+      "vao": [
+        67000,
+        72000
+      ],
+      "tp": [
+        52000,
+        53000
+      ],
+      "sl": null,
+      "trang_thai": "de_xuat_moi"
+    }
+  ],
+  "hanh_dong": "dung_ngoai_cho_entry",
+  "khung_lon": {
+    "D1": "Xuất hiện bộ 3 nến phục hồi rất mạnh -> khả năng hồi ngắn hạn cao, không short hôm nay; MA D1 ở 70-71 trùng Fibo 0.5.",
+    "W1": "Nến tuần cực xấu, tạo đáy thấp hơn -> downtrend không bàn cãi; mất trend tăng tạo vai đầu vai, TP theo vai đầu vai về 52; hồi tối đa Fibo 0.5 ~71; dự đoán sideway 50-70 tới khoảng tháng 10."
+  },
+  "pha_vo_gia": null,
+  "nhin_lai_view_truoc": {
+    "view_truoc": "GIAM",
+    "giu_hay_doi": "giu",
+    "vi_sao": "Đầu tuần xem lại khung tuần: nến tuần đóng cực xấu, tạo đáy thấp hơn, thân nến phá vùng hỗ trợ giữ 5 tuần liên tiếp -> giữ view giảm về 52; ngắn hạn chỉ hồi (bộ nến D1 phục hồi, Fear&Greed về 8).",
+    "gio": "[00:10:55]",
+    "trich": "Rõ ràng đối với một cây nến tuần xấu như thế này thì chúng ta cũng không quá kỳ vọng vào điều tốt đẹp sẽ xảy ra trong thời gian ngắn sắp đến. Cây nến tuần này lại tạo ra một đáy thấp hơn. Thì rõ ràng chúng ta đang ở downtrend không bàn cãi gì nữa"
+  },
+  "trendline": [
+    {
+      "khung": "W1",
+      "loai": "ho_tro_tang",
+      "noi_tu": "Đường trend tăng của cả nhịp uptrend trên khung tuần (giá bám theo đi lên rồi mất trend); không nêu điểm neo cụ thể",
+      "diem_neo": [
+        {
+          "ngay": null,
+          "gia": null
+        }
+      ],
+      "gia_duong_luc_noi": null,
+      "trang_thai": "vua_pha",
+      "dieu_kien_pha": "Đã mất trend từ trước (phá xuống), sau đó tạo vai đầu vai",
+      "ket_luan_huong": "GIAM",
+      "gio": "[00:12:28]",
+      "trich": "Bám theo đường trend này đi lên, mất trend tạo một mô hình vai đầu vai và đi xuống. Hiện tại tạo đáy thấp dần và đỉnh thấp dần thì gọi là downtrend."
+    },
+    {
+      "khung": "W1",
+      "loai": "khac",
+      "noi_tu": "Trendline (đường cổ) của mô hình vai đầu vai khung tuần; TP = khoảng cách từ đỉnh xuống trendline, đo ra đáy 52; không nêu giá đường cổ",
+      "diem_neo": [
+        {
+          "ngay": null,
+          "gia": null
+        }
+      ],
+      "gia_duong_luc_noi": null,
+      "trang_thai": "vua_pha",
+      "dieu_kien_pha": "Đã gãy xuống dưới đường cổ",
+      "ket_luan_huong": "GIAM",
+      "gio": "[00:13:02]",
+      "trich": "Chúng ta có một trendline ở đây, một mô hình vai đầu vai như vậy và gãy xuống. Thông thường đối với những mô hình vai đầu vai thì biên độ TP sẽ bằng khoảng cách từ đỉnh về trendline. Khoảng cách từ đỉnh về trendline sẽ bằng TP. Tức là từ trendline kéo xuống nó sẽ cho chúng ta một take profit. Tức là biên độ đi từ trên này về đây nó sẽ bằng với biên từ đây về đây, từ trendline xuống đáy. Đó là cách chúng ta xác định đáy trong kỹ thuật vai đầu vai. Nếu như vậy thì rõ ràng đây là đáy 52."
+    }
+  ],
+  "nen_volume": [
+    {
+      "khung": "W1",
+      "nen": "Nến tuần cực xấu, tạo đáy thấp hơn; thân nến phá vùng hỗ trợ đã giữ 5 tuần liên tục (tháng 2-4)",
+      "volume": "lực bán cực kỳ kinh khủng (không nêu số volume)",
+      "ket_luan": "Downtrend không bàn cãi; tuần này chỉ hồi phục ngắn hạn, râu tuần sẽ được test lại",
+      "gio": "[00:19:06]",
+      "trich": "Nhìn thân nến này, các bạn nhìn râu nến thì có thể là test nhưng thân nến này đã phá vỡ vùng hỗ trợ quan trọng. Vùng này các bạn biết là nó hỗ trợ cho nến 1 tuần, 2 tuần, 3 tuần, 4, 5 tuần liên tục trong tháng tư vừa rồi, tháng 2, tháng 3, tháng 4, mà vùng này chỉ cần một cây nến là nó phá qua. Lực bán ở đây cực kỳ kinh khủng, đừng quá kỳ vọng gì."
+    },
+    {
+      "khung": "D1",
+      "nen": "Bộ 3 nến phục hồi: một nến bán xuống full lực bán, một nến rút lên nhỏ, kẹp lại một nến xanh",
+      "volume": "nến đỏ full lực bán; nến xanh lực mua cũng tốt",
+      "ket_luan": "Khả năng phục hồi ngắn hạn rất cao; không short hôm nay",
+      "gio": "[00:20:15]",
+      "trich": "Nó bao gồm ba cây nến. Một cây nến bán xuống full lực bán, một nến rút lên nhỏ và sau đó kẹp lại một nến xanh, lực mua cũng tốt. Bộ này là một trong những bộ nến đảo chiều mình đánh giá là rất mạnh."
+    },
+    {
+      "khung": "H4",
+      "nen": "H4 test MA34 rồi khựng lại; MA đã test nhiều lần",
+      "volume": null,
+      "ket_luan": "Short tiếp ở MA34 phải nghi ngờ vì đường test nhiều lần giảm uy tín; có thể lên test MA89 ~67.000",
+      "gio": "[00:22:21]",
+      "trich": "Chúng ta đi vào H4, test MA34 ở khung H4 cho nên hiện tại giá khựng lại. Hôm qua có ông TP ở 6400 khớp đúng ngay cái đỉnh quay xuống, ngay đường MA này rớt xuống rất đẹp. Nhưng test MA như này để short tiếp thì cũng phải hơi nghi ngờ một xíu. Bởi vì nguyên tắc của chúng ta là một đường mà đã test một vài lần thì mức độ uy tín của nó sẽ bị giảm đi."
+    },
+    {
+      "khung": "M15",
+      "nen": "Một gậy 5 phút phóng từ 61 lên 64 (khung thực tế M5)",
+      "volume": null,
+      "ket_luan": "Gãy phá xu hướng một gậy",
+      "gio": "[00:23:59]",
+      "trich": "Gãy phá xu hướng một gậy luôn. Một gậy 5 phút phóng một phát từ 61 lên đến 64 luôn."
+    },
+    {
+      "khung": "H4",
+      "nen": "Điều kiện long tiếp: H4 đóng qua khỏi MA",
+      "volume": null,
+      "ket_luan": "Chưa đóng qua thì không long FOMO, giá quay về test Fibo/đáy ~61",
+      "gio": "[00:24:34]",
+      "trich": "Bây giờ anh em muốn long tiếp thì các bạn sẽ phải chờ H4 đóng qua khỏi MA này mới chơi. Còn không nó sẽ quay về test lại tiếp tục bài Fibo."
+    },
+    {
+      "khung": "M15",
+      "nen": "Nến 5 phút chạm Fibo 618 ~63.000 rồi rút xuống; điều kiện long đuổi là M5 đóng trên 63.000 (khung thực tế M5)",
+      "volume": null,
+      "ket_luan": "Không qua được thì cắm xuống về ~61.000",
+      "gio": "[00:25:34]",
+      "trich": "nó test lên đâu đó 63.00 chạm Fibo 618 và rút xuống thì khả năng là không qua được. Anh em vẽ Fibo ra là thấy. Nhịp này rõ ràng không qua được Fibo, nó sẽ cắm xuống. Điều kiện tối thiểu để muốn long đuổi là nó sẽ phải vượt qua khỏi Fibo này, 5 phút phải đóng ở trên, giao dịch ở trên vùng 6300 này"
+    },
+    {
+      "khung": "H4",
+      "nen": "Nếu H4 đóng doji đỏ (vẫn bị bán)",
+      "volume": null,
+      "ket_luan": "Sẽ bị áp lực; giá mới hồi tới Fibo 0.5",
+      "gio": "[00:39:46]",
+      "trich": "H4 này mà đóng một cây doji đỏ tức là vẫn bị bán ở đây thì mình nghĩ sẽ bị áp lực. Đây là giá mới hồi lên đến vùng Fibo 0.5 thôi."
+    },
+    {
+      "khung": "M15",
+      "nen": "M5 vẫn tạo đáy cao hơn, kéo mô hình tăng (khung thực tế M5)",
+      "volume": null,
+      "ket_luan": "Short chưa êm",
+      "gio": "[00:48:41]",
+      "trich": "M5 này mình thấy short cũng chưa êm. Giá nó vẫn tạo ra những đáy cao."
+    },
+    {
+      "khung": "H4",
+      "nen": "H4 chắc chắn đóng dưới MA; M5 đóng đỏ",
+      "volume": null,
+      "ket_luan": "Xấu, khả năng rụng tiếp về 61-62 rồi tìm entry long",
+      "gio": "[01:04:18]",
+      "trich": "Cây M5 này mà đóng đỏ là khả năng là đi tiễn em lên đường. H4 đóng thì đâu có gì bất ngờ, chắc chắn là đóng dưới đường MA này rồi."
+    }
+  ],
+  "cach_lam": [
+    {
+      "hanh_dong": "ke",
+      "cong_cu": "trendline",
+      "chi_tiet": "Trendline tăng khung tuần + đường cổ vai đầu vai; TP = khoảng cách đỉnh đầu tới trendline",
+      "ket_qua": "Đáy 52 (trùng hỗ trợ cứng)",
+      "gio": "[00:13:02]",
+      "trich": "Thông thường đối với những mô hình vai đầu vai thì biên độ TP sẽ bằng khoảng cách từ đỉnh về trendline. Khoảng cách từ đỉnh về trendline sẽ bằng TP. Tức là từ trendline kéo xuống nó sẽ cho chúng ta một take profit. Tức là biên độ đi từ trên này về đây nó sẽ bằng với biên từ đây về đây, từ trendline xuống đáy. Đó là cách chúng ta xác định đáy trong kỹ thuật vai đầu vai. Nếu như vậy thì rõ ràng đây là đáy 52."
+    },
+    {
+      "hanh_dong": "do",
+      "cong_cu": "fibo_thoai_lui",
+      "chi_tiet": "Fibo khung tuần của cả nhịp uptrend",
+      "ket_qua": "Đã thủng 0.5, đang test 0.618 -> 58/55, sâu hơn 52; 0.786 = 40.000; hồi tối đa 0.5 = 71.000",
+      "gio": "[00:14:41]",
+      "trich": "anh em thấy nó thủng khỏi Fibo 0.5 và bây giờ đang test Fibo 0.618 mà chưa test xong thì kiểu gì cũng sẽ xuống dưới này. Không thể nào tránh khỏi vùng 58 hay 55. Và sâu hơn nữa sẽ là 52"
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "ema",
+      "chi_tiet": "MA khung ngày",
+      "ket_qua": "MA D1 ở 70.000-71.000 trùng Fibo 0.5",
+      "gio": "[00:21:18]",
+      "trich": "Chúng ta thấy khung ngày vẫn là MA nằm ở 71.000, 70.000 đến 71 thì nó trùng với Fibo lúc nãy chúng ta đánh dấu ở đây, Fibo 0.5."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "ema",
+      "chi_tiet": "MA34 và MA89 khung H4",
+      "ket_qua": "Đang test MA34; MA89 ~67.000",
+      "gio": "[00:22:55]",
+      "trich": "Lần này hoàn toàn có thể nó lên test MA89, cũng không chừng đâu đó khoảng 67.000."
+    },
+    {
+      "hanh_dong": "ve",
+      "cong_cu": "fibo_thoai_lui",
+      "chi_tiet": "Fibo khung 5 phút cho nhịp hồi ngắn",
+      "ket_qua": "Fibo 0.5/0.618 ~63.000 là cản; short ở Fibo 0.5",
+      "gio": "[00:25:34]",
+      "trich": "Anh em vẽ Fibo ra là thấy. Nhịp này rõ ràng không qua được Fibo, nó sẽ cắm xuống."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "Gap CME",
+      "ket_qua": "Gap dưới 20.000 còn; gap nhỏ 62.000, có thể test 61.000",
+      "gio": "[00:29:55]",
+      "trich": "Gap nhỏ xíu 62.000 này. Nhỏ quá, được một tí ở 62.000. Test về đây thì cũng đẹp. 61.000."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "Chỉ số Fear & Greed",
+      "ket_qua": "Về 8 -> rất khó short",
+      "gio": "[00:31:34]",
+      "trich": "Fear & Greed hôm nay về 8. Tuyệt vời. Chỉ số này không thể nào short được đâu."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "heatmap",
+      "chi_tiet": "Liquidation map",
+      "ket_qua": "Thanh lý 61.000, 62.000 (ngắn hạn); 72 (dài hạn, khó lên)",
+      "gio": "[00:34:50]",
+      "trich": "Thanh lý chúng ta có là 62.000 61.000. Trong ngắn hạn khả năng nó về đến đó. Trong dài hạn chúng ta có đến 72 luôn hả? 72 này mình nghĩ không đến giá cao nó lên được đâu."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "hyblock",
+      "chi_tiet": "Hyblock ('hai block'): khối lượng short",
+      "ket_qua": "Short từ ~1 triệu giảm còn ~200.000 khi giá chỉ 59->64 -> short đòn bẩy lớn bị xử lý, lực tăng không bền",
+      "gio": "[00:33:14]",
+      "trich": "tuần trước chúng ta có đâu đó khoảng 1 triệu khối lượng Bitcoin short rất lớn. Nhưng những ngày cuối tuần vừa rồi thực tế giá nó không đi nhiều, nó đi từ 59 lên đến 64, khoảng 5000 6000 giá, khoảng 10%, phục hồi khoảng 10% không nhiều. Anh em thấy nó đi lên không nhiều nhưng khối lượng này đã giảm cực kỳ lớn, từ 1 triệu bây giờ chỉ còn khoảng 200.000."
+    }
+  ],
+  "vung_nguoi_do": [
+    {
+      "loai": "dich",
+      "tu": 52000,
+      "den": 52000,
+      "gio": "[00:13:37]",
+      "trich": "Nếu như vậy thì rõ ràng đây là đáy 52. 52 mình thấy cũng khá hợp lý bởi vì 52 này rõ ràng là một vùng hỗ trợ cứng."
+    },
+    {
+      "loai": "dich",
+      "tu": 67000,
+      "den": 69000,
+      "gio": "[00:14:10]",
+      "trich": "Ví dụ hồi căng mình nghĩ 67 69 là hết sức."
+    },
+    {
+      "loai": "dich",
+      "tu": 55000,
+      "den": 58000,
+      "gio": "[00:14:41]",
+      "trich": "Không thể nào tránh khỏi vùng 58 hay 55. Và sâu hơn nữa sẽ là 52 không thể nào tránh được."
+    },
+    {
+      "loai": "dich",
+      "tu": 40000,
+      "den": 40000,
+      "gio": "[00:15:48]",
+      "trich": "Ở đây chúng ta có Fibo 0.786 là ở 40.000."
+    },
+    {
+      "loai": "vao",
+      "tu": 30000,
+      "den": 35000,
+      "gio": "[00:16:21]",
+      "trich": "Trung bình giá 30 đến 35 mình kỳ vọng sẽ mua được ở vùng này."
+    },
+    {
+      "loai": "tp",
+      "tu": 120000,
+      "den": 120000,
+      "gio": "[00:16:21]",
+      "trich": "30 đến 35 và mùa sau chốt lãi khoảng tầm 120."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 50000,
+      "den": 70000,
+      "gio": "[00:17:28]",
+      "trich": "từ giờ đến khoảng mùa thu tức là khoảng tháng 10 thì mình nghĩ giá sẽ đi lòng vòng quanh từ vùng 50 cho đến 70."
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 71000,
+      "den": 71000,
+      "gio": "[00:18:01]",
+      "trich": "Phục hồi lên Fibo maximum là 71.000."
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 70000,
+      "den": 71000,
+      "gio": "[00:21:18]",
+      "trich": "khung ngày vẫn là MA nằm ở 71.000, 70.000 đến 71"
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 60000,
+      "den": 61000,
+      "gio": "[00:21:18]",
+      "trich": "Test hai lần rồi có thể test ở vùng 60 61 này là chuyện bình thường."
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 67000,
+      "den": 67000,
+      "gio": "[00:22:55]",
+      "trich": "nó lên test MA89, cũng không chừng đâu đó khoảng 67.000."
+    },
+    {
+      "loai": "vao",
+      "tu": 61000,
+      "den": 61000,
+      "gio": "[00:23:25]",
+      "trich": "cây này giúp anh em mình khớp được entry là 61.000 đêm ngày hôm qua."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 61000,
+      "den": 61000,
+      "gio": "[00:24:34]",
+      "trich": "nó sẽ về test lại đáy này. Đâu đó khoảng tầm 6100 hoặc quanh vùng này thì mới có điểm chơi tiếp."
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 63000,
+      "den": 63000,
+      "gio": "[00:25:34]",
+      "trich": "5 phút phải đóng ở trên, giao dịch ở trên vùng 6300 này thì may ra mới lên tiếp được."
+    },
+    {
+      "loai": "sl",
+      "tu": 63000,
+      "den": 63000,
+      "gio": "[00:26:05]",
+      "trich": "anh em sẽ short theo kiểu vào ở đây, SL khi nến đóng trên 63.000 khỏi Fibo này."
+    },
+    {
+      "loai": "dich",
+      "tu": 64000,
+      "den": 64000,
+      "gio": "[00:27:10]",
+      "trich": "Đôi khi nó bay nó test lại râu 64.000 này cũng có, lên lại 64.000 này."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 61000,
+      "den": 61700,
+      "gio": "[00:27:44]",
+      "trich": "Cùng lắm về đây 61.000-61.700 lại đi lên tiếp, phá tiếp đỉnh, test lại vùng ở trên này cũng hợp lý hoặc đi lên đây 65-67.000 là hợp lý."
+    },
+    {
+      "loai": "dich",
+      "tu": 65000,
+      "den": 67000,
+      "gio": "[00:27:44]",
+      "trich": "hoặc đi lên đây 65-67.000 là hợp lý."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 60000,
+      "den": 60000,
+      "gio": "[00:53:00]",
+      "trich": "Hiện tại đối với Bitcoin hỗ trợ của nó sẽ là ở vùng 60.000. Nếu thủng 60.000 thì sẽ đi về 55, 53 luôn"
+    },
+    {
+      "loai": "dich",
+      "tu": 54000,
+      "den": 54000,
+      "gio": "[00:53:31]",
+      "trich": "thủng 60 59 này là chắc chắn sẽ về đâu đó dưới này 54."
+    },
+    {
+      "loai": "vao",
+      "tu": 61000,
+      "den": 62000,
+      "gio": "[00:54:32]",
+      "trich": "Tầm này muốn long thì mình nghĩ bắt buộc phải chờ ở 62 cho đến 61, vùng đó thôi."
+    },
+    {
+      "loai": "vao",
+      "tu": 67000,
+      "den": 72000,
+      "gio": "[00:55:04]",
+      "trich": "nếu short thì anh em phải mở vùng từ 67 lên đến khoảng 72, vùng short đẹp từ 67 đến 72."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 62700,
+      "den": 62700,
+      "gio": "[01:06:11]",
+      "trich": "chỉ cần băng qua khỏi 62.700 này thôi thì sẽ rụng về luôn vùng 61.000 hoặc 62.000."
+    },
+    {
+      "loai": "vao",
+      "tu": 62000,
+      "den": 62000,
+      "gio": "[01:06:11]",
+      "trich": "Về đến cái râu này khoảng 62.000, loanh quanh vùng đó chúng ta tìm điểm để đánh hồi là ok. 62.000 đẹp."
+    },
+    {
+      "loai": "vao",
+      "tu": 63200,
+      "den": 63200,
+      "gio": "[01:10:19]",
+      "trich": "Short từ 63k2, SL 63k5 lúc nãy, lệnh này chính xác."
+    },
+    {
+      "loai": "sl",
+      "tu": 63500,
+      "den": 63500,
+      "gio": "[01:10:19]",
+      "trich": "Short từ 63k2, SL 63k5"
+    }
+  ],
+  "view_trung_han": [
+    {
+      "khung": "W1",
+      "huong": "GIAM",
+      "dich": 52000,
+      "han": "tuần này đấm thêm ~7000 giá là về 52",
+      "mat_view_khi": null,
+      "gio": "[00:13:37]",
+      "trich": "Tuần trước nó đã về được đến 59 rồi, 5900 này. Tuần này đấm thêm khoảng 7000 giá nữa là về 52. Đơn giản."
+    },
+    {
+      "khung": "D1",
+      "huong": "TANG",
+      "dich": [
+        70000,
+        71000
+      ],
+      "han": "ngắn hạn (hồi phản chiếu)",
+      "mat_view_khi": null,
+      "gio": "[00:21:18]",
+      "trich": "Cùng lắm nó sẽ hồi lên, test ở trên này. Chúng ta thấy khung ngày vẫn là MA nằm ở 71.000, 70.000 đến 71 thì nó trùng với Fibo lúc nãy"
+    },
+    {
+      "khung": "M1",
+      "huong": "PHAN_VAN",
+      "dich": [
+        50000,
+        70000
+      ],
+      "han": "sideway tới khoảng tháng 10; cuối năm/đầu năm sau mới nhấn sâu hơn",
+      "mat_view_khi": null,
+      "gio": "[00:16:56]",
+      "trich": "Giá sẽ lòng vòng trong biên từ 50 cho đến 70 khá nhiều và mình nghĩ nó sẽ đi sideway từ đây cho đến khoảng tháng 10 năm nay. Nó sẽ loanh quanh trong vùng này. Để phá đáy về những vùng thấp hơn nữa thì mình nghĩ chắc sẽ phải có những cú nhấn vào cuối năm hay đầu năm sau"
+    },
+    {
+      "khung": "M1",
+      "huong": "GIAM",
+      "dich": [
+        30000,
+        35000
+      ],
+      "han": "mùa downtrend này (giá mua trung bình kỳ vọng)",
+      "mat_view_khi": null,
+      "gio": "[00:16:21]",
+      "trich": "Mùa này đối với nến như này thì mình vẫn kỳ vọng trung bình giá Bitcoin mình mua được khoảng từ 30 cho đến 35.000, đó là kỳ vọng của mình."
+    }
+  ],
+  "vung_tranh": [
+    {
+      "tu": null,
+      "den": null,
+      "vi_sao": "Không short ở vùng giá hiện tại (~62-63k): short đáy, thị trường còn hồi ít nhất trong ngày hôm nay",
+      "gio": "[00:19:42]",
+      "trich": "Nhưng để short ở đây thì cũng không nên. Short ở đây là có chừng short đáy. Thị trường vẫn còn đang hồi ít nhất là trong ngày hôm nay."
+    },
+    {
+      "tu": null,
+      "den": null,
+      "vi_sao": "Không long FOMO khi H4 chưa đóng qua MA",
+      "gio": "[00:24:34]",
+      "trich": "Xu hướng H4 hiện tại để long FOMO thì cũng không được."
+    },
+    {
+      "tu": 61000,
+      "den": 63000,
+      "vi_sao": "Vùng nhập nhằng giữa 61 và Fibo 63.000 trên M5 -> kệ nó, chờ đóng trên 63 hoặc về 61",
+      "gio": "[00:25:34]",
+      "trich": "Còn không thì anh em cứ thả cửa cho nó tụt xuống về lại vùng khoảng 61.00 chúng ta chơi 61006. Chúng ta lại kiếm vị thế chơi mới. Còn vùng nhập nhằng này thì kệ nó."
+    },
+    {
+      "tu": 65000,
+      "den": 65000,
+      "vi_sao": "Short ở 65 hơi sớm vì lên được 65 thì sẽ đá lên tận 67",
+      "gio": "[00:55:04]",
+      "trich": "Nếu được 65 mình nghĩ nhưng 65 hơi sớm, bởi vì tầm này nếu nó lên được 65 mình nghĩ nó sẽ đá lên tận 67."
+    },
+    {
+      "tu": null,
+      "den": null,
+      "vi_sao": "Short FOMO sau khi giá đã rụng (vào muộn) là xấu",
+      "gio": "[01:09:45]",
+      "trich": "Short lúc nãy mới đẹp, tầm này mà anh em short FOMO thì hơi xấu."
+    }
+  ],
+  "giu_dong": [
+    {
+      "lenh": "Long đu ở vùng cao (vd 80)",
+      "quyet_dinh": "dong",
+      "khi_nao": "Tận dụng các nhịp hồi để thoát, chấp nhận một con số lỗ, giữ vốn làm lại",
+      "gio": "[00:08:49]",
+      "trich": "anh em nào lỡ đu long ở những điểm trên này thì bắt buộc phải tìm những nhịp hồi và thoát ra. Bất kể hồi lên đến đâu thì phải cảm thấy đủ và phải chấp nhận một con số"
+    },
+    {
+      "lenh": "Spot BTC tích lũy trung bình 30-35k",
+      "quyet_dinh": "chot_mot_phan",
+      "khi_nao": "Mùa sau chốt ~120; chốt 1/2 ở đỉnh cũ rồi lên thêm ~30% chốt tiếp",
+      "gio": "[00:16:21]",
+      "trich": "30 đến 35 và mùa sau chốt lãi khoảng tầm 120. Cứ chốt điện cũ, chốt 1/2 từ điện cũ cộng lên khoảng độ 30% nữa chốt tiếp."
+    },
+    {
+      "lenh": "Short scalp ở cản H4/Fibo M5",
+      "quyet_dinh": "dong",
+      "khi_nao": "Nến M5 đóng qua khỏi Fibo 63.000 thì out short",
+      "gio": "[00:26:05]",
+      "trich": "SL khi nến đóng trên 63.000 khỏi Fibo này. Tức là cứ nến M5 đóng qua khỏi cái này thì chúng ta out short."
+    },
+    {
+      "lenh": "Các lệnh short ngắn hạn",
+      "quyet_dinh": "dong",
+      "khi_nao": "Dính SL (2-300 giá) là cắt, không gồng",
+      "gio": "[00:28:18]",
+      "trich": "short tầm này anh em chỉ nên đánh những lệnh có stop loss ngắn như vậy, khoảng tầm 2 300 giá thôi. Đừng đánh nhiều. Lỡ mà dính stop loss là cắt bỏ chứ đừng có tiếc, đừng có gồng."
+    },
+    {
+      "lenh": "Short 63.200 (SL 63.500)",
+      "quyet_dinh": "giu",
+      "khi_nao": "Kéo TP1 62.000, dời SL về entry; đã lãi hơn 1R thì cứ thả",
+      "gio": "[01:09:45]",
+      "trich": "Ở đây SL đúng 200 giá 300 giá, bây giờ cũng lãi được hơn 1R rồi, cứ thả thôi."
+    }
+  ],
+  "tin_tuc": [
+    {
+      "su_kien": "Strategy (MSTR) công bố chiến lược/báo cáo 8K mua-bán Bitcoin; họp cổ đông 8/6",
+      "thoi_diem": "hôm nay thứ hai 8/6",
+      "nguon": "bao",
+      "so_lieu": "Tweet con số 32 (có lẽ số BTC vừa bán); lãnh đạo bán cổ phiếu",
+      "anh_huong_view": "Thị trường đang chờ xem bán tiếp hay mua vào; ông nghĩ họ họp để bán, rút tiền về",
+      "gio": "[00:37:38]",
+      "trich": "Lãnh đạo đã bán cổ phiếu, lãnh đạo bán cổ phiếu mà công ty đi bán Bitcoin tức là đang xả hàng cùng với nhau liên tục. Đang cần thêm nhiều tiền, họp chào mời. Tầm này mình nghĩ nó họp để nó bảo là tôi sẽ bán, nó rút tiền về."
+    },
+    {
+      "su_kien": "CPI",
+      "thoi_diem": "thứ tư tuần này",
+      "nguon": "lich_kinh_te",
+      "so_lieu": null,
+      "anh_huong_view": "Tin quan trọng nhất tuần nhưng không tác động lãi suất tháng này; thứ hai-thứ ba không có tin nên thị trường chạy chung một nhịp tới mai -> lý do không muốn short đoạn này",
+      "gio": "[00:38:10]",
+      "trich": "Ngoài ra tuần này chúng ta sẽ có tin vào ngày thứ tư là CPI. Đây là tin cực kỳ quan trọng của tuần này. Tuy nhiên mình nghĩ tin này sẽ không tác động đến câu chuyện lãi suất của tháng này. Tuần sau chúng ta sẽ có tin lãi suất nhưng gần như là giữ nguyên lãi suất thôi. Vấn đề là tuần này xem CPI có tốt lên hay tiếp tục lạm phát gia tăng. Thứ hai, thứ ba chúng ta sẽ không có tin cho nên mình nghĩ thị trường sẽ chạy chung một nhịp này cho đến ngày mai. Đó cũng là một trong những lý do vì sao mình không muốn quá short vào đoạn này."
+    },
+    {
+      "su_kien": "FOMC lãi suất",
+      "thoi_diem": "tuần sau",
+      "nguon": null,
+      "so_lieu": "gần như giữ nguyên lãi suất (nhận định của ông)",
+      "anh_huong_view": "Không nói tác động cụ thể",
+      "gio": "[00:38:10]",
+      "trich": "Tuần sau chúng ta sẽ có tin lãi suất nhưng gần như là giữ nguyên lãi suất thôi."
+    },
+    {
+      "su_kien": "World Cup (dòng tiền rút ra)",
+      "thoi_diem": "tuần này / mùa World Cup",
+      "nguon": "khac",
+      "so_lieu": null,
+      "anh_huong_view": "Đã dự kiến từ tháng 4 là mùa World Cup giá giảm; không đánh theo trend World Cup",
+      "gio": "[01:00:58]",
+      "trich": "Cái này chúng ta đã nói với nhau từ tháng tư chứ không phải đến bây giờ. Tháng tư chúng ta đã dự kiến trước là mùa World Cup này giá nó giảm rồi."
+    }
+  ],
+  "trich_them": [
+    {
+      "gio": "[00:10:23]",
+      "cau": "Hôm nay mình nghĩ thị trường sẽ có nhịp hồi, vẫn chưa gãy được trong ngày thứ hai này."
+    },
+    {
+      "gio": "[00:14:10]",
+      "cau": "Ví dụ hồi căng mình nghĩ 67 69 là hết sức."
+    },
+    {
+      "gio": "[00:14:41]",
+      "cau": "nó thủng khỏi Fibo 0.5 và bây giờ đang test Fibo 0.618 mà chưa test xong thì kiểu gì cũng sẽ xuống dưới này. Không thể nào tránh khỏi vùng 58 hay 55. Và sâu hơn nữa sẽ là 52 không thể nào tránh được."
+    },
+    {
+      "gio": "[00:21:50]",
+      "cau": "lưu ý của mình là anh em hạn chế short, chưa đến lúc cần short đâu. Ít nhất là trong ngày hôm nay. Hôm nay mình sẽ bỏ tay ra khỏi nút short."
+    },
+    {
+      "gio": "[00:22:21]",
+      "cau": "Chúng ta đi vào H4, test MA34 ở khung H4 cho nên hiện tại giá khựng lại. Hôm qua có ông TP ở 6400 khớp đúng ngay cái đỉnh quay xuống, ngay đường MA này rớt xuống rất đẹp. Nhưng test MA như này để short tiếp thì cũng phải hơi nghi ngờ một xíu. Bởi vì nguyên tắc của chúng ta là một đường mà đã test một vài lần thì mức độ uy tín của nó sẽ bị giảm đi. Một lần này, hai lần này, ba lần. Lần này hoàn toàn có thể nó lên test MA89, cũng không chừng đâu đó khoảng 67.000."
+    },
+    {
+      "gio": "[00:24:34]",
+      "cau": "Xu hướng H4 hiện tại để long FOMO thì cũng không được. Bây giờ anh em muốn long tiếp thì các bạn sẽ phải chờ H4 đóng qua khỏi MA này mới chơi. Còn không nó sẽ quay về test lại tiếp tục bài Fibo."
+    },
+    {
+      "gio": "[00:39:11]",
+      "cau": "Cao hơn nữa thì có thể là 67. Cao hơn 67 sẽ là 70, 69. Còn lại nếu mà rớt thì có thể rớt về 52 53. Sâu hơn nữa sẽ về 40. Sâu hơn nữa sẽ về 30. Rồi sâu hơn nữa sẽ về 20."
+    },
+    {
+      "gio": "[00:53:00]",
+      "cau": "Hiện tại đối với Bitcoin hỗ trợ của nó sẽ là ở vùng 60.000. Nếu thủng 60.000 thì sẽ đi về 55, 53 luôn"
+    },
+    {
+      "gio": "[00:55:04]",
+      "cau": "nếu nó lên được 65 mình nghĩ nó sẽ đá lên tận 67. Cho nên nếu short thì anh em phải mở vùng từ 67 lên đến khoảng 72, vùng short đẹp từ 67 đến 72. Test long BTC thì phải chờ thôi. Chờ nó về lại vùng 62, 61.000 rồi chơi."
+    },
+    {
+      "gio": "[01:10:19]",
+      "cau": "chờ quanh vùng từ 62.000 cho đến 61.000, chờ vùng đó. Short từ 63k2, SL 63k5 lúc nãy, lệnh này chính xác."
+    }
+  ],
+  "kho": "Ba tầng: ngắn hạn rụng về 61-62 để long hồi lên 65-67 (tối đa 71), khung tuần đích 52. Theo định nghĩa chặng cuối nên ghi GIAM; mốc 72 là vùng short trên cùng chứ không được nói là mốc vô hiệu. Lệnh short 63.2 là scalp ngắn."
+}

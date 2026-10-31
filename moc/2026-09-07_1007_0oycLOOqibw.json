@@ -1,0 +1,22 @@
+{
+  "buoi": "2026-09-07_1007_0oycLOOqibw",
+  "ngay": "2026-09-07",
+  "gia_btc_luc_noi": 79000,
+  "moc": [
+    {"gia": 80400, "gia_tren": null, "vai_tro": "khac", "huong": null, "khung": "M15", "can_cu": ["pha quét lên rồi rụng sau 5 phút sáng nay"], "moc_gio": null, "tai_san": "BTC", "chac": true, "trich": "Bitcoin vừa có một pha đi lên để quét ở 80.400 và nhanh chóng 5 phút sau lại rụng xuống."},
+    {"gia": 82000, "gia_tren": 83000, "vai_tro": "khang_cu", "huong": "TANG", "khung": "W1", "can_cu": ["cản khung tuần"], "moc_gio": null, "tai_san": "BTC", "chac": false, "trich": "nếu nó vượt qua được cái cản 83 này, 82.200 này ở trên khung tuần thì nó sẽ lên tiếp cái mốc tiếp theo là 93.000"},
+    {"gia": 92000, "gia_tren": 93000, "vai_tro": "dich", "huong": "TANG", "khung": "W1", "can_cu": ["Fibo 0.5 ở vùng 92.000 (không nói kéo từ đâu)"], "moc_gio": null, "tai_san": "BTC", "chac": true, "trich": "Chỉ cần đóng đến ngày mà qua được 82, 83 một phát thì nó sẽ rất dễ kéo tiếp lên vùng 92, 93... Fibo 0.5 ở vùng 92.000"},
+    {"gia": 79000, "gia_tren": null, "vai_tro": "ho_tro", "huong": "TANG", "khung": "D1", "can_cu": ["MA34 D1"], "moc_gio": null, "tai_san": "BTC", "chac": true, "trich": "giá vẫn đang giữ được và trụ ở trên vùng 79.000 và trên đường MA này... khá là xa đường MA34 ở khung ngày"},
+    {"gia": 82000, "gia_tren": 83000, "vai_tro": "vo_hieu", "huong": "GIAM", "khung": "D1", "can_cu": ["vùng sideway 77-82"], "moc_gio": null, "tai_san": "BTC", "chac": false, "trich": "chờ giá confirm phá qua được khỏi 8200 cho đến 83. Tức là phá qua được thằng trên này thì chúng ta sẽ bám đuổi nhịp sóng đi từ 83 lên đến 93"},
+    {"gia": 78000, "gia_tren": null, "vai_tro": "entry", "huong": "GIAM", "khung": "D1", "can_cu": ["MA (34 D1) kết hợp Fibo của nhịp trước"], "moc_gio": null, "tai_san": "BTC", "chac": false, "trich": "muốn đánh xuống thì phải chờ một cây nến ngày phá qua được khỏi 7800 này, phá qua cái MA này cộng với Fibo của nhịp trước đó"},
+    {"gia": 77000, "gia_tren": 82000, "vai_tro": "khac", "huong": null, "khung": "D1", "can_cu": ["vùng sideway rất khó chơi"], "moc_gio": null, "tai_san": "BTC", "chac": true, "trich": "vùng 82 cho đến vùng 77.000 này, vùng sideway này là một vùng rất là khó chơi"},
+    {"gia": 80000, "gia_tren": null, "vai_tro": "khang_cu", "huong": "GIAM", "khung": "H4", "can_cu": ["Fibo 0.5 của nhịp điều chỉnh hôm trước"], "moc_gio": null, "tai_san": "BTC", "chac": true, "trich": "80.000 là Fibo 0.5 của nhịp điều chỉnh hôm trước. Nó hồi lên chạm 80 và đang đi xuống."},
+    {"gia": 77000, "gia_tren": null, "vai_tro": "ho_tro", "huong": "GIAM", "khung": "H4", "can_cu": ["Fibo mở rộng", "đáy cũ 77.000"], "moc_gio": null, "tai_san": "BTC", "chac": false, "trich": "Fibo mở rộng: 74.600 hoặc 76.900, tức là 77.000. Nếu nó về 77.000 thì chúng ta quan sát xem hỗ trợ này nó có bật lên được hay không"},
+    {"gia": 74600, "gia_tren": null, "vai_tro": "dich", "huong": "GIAM", "khung": "H4", "can_cu": ["Fibo mở rộng"], "moc_gio": null, "tai_san": "BTC", "chac": false, "trich": "chúng ta lại tiếp tục sử dụng Fibo mở rộng: 74.600 hoặc 76.900"},
+    {"gia": 74000, "gia_tren": null, "vai_tro": "dich", "huong": "GIAM", "khung": "H4", "can_cu": ["phá đáy 77.000", "Fibo mở rộng"], "moc_gio": null, "tai_san": "BTC", "chac": true, "trich": "hoàn toàn test lại được vùng đáy dưới này là 77.000, hoặc phá đáy thì nó sẽ về đến 74.000"},
+    {"gia": 78000, "gia_tren": null, "vai_tro": "ho_tro", "huong": "GIAM", "khung": "H4", "can_cu": ["MA (34 H4) trùng Fibo 0.618"], "moc_gio": null, "tai_san": "BTC", "chac": true, "trich": "Hoặc nó chỉ dừng lại ở đường MA này, nếu trùng với Fibo 0.618. Nói chung điểm gần nhất là 78.000, chờ đường MA này kéo lên một xíu."},
+    {"gia": 75000, "gia_tren": null, "vai_tro": "ho_tro", "huong": "GIAM", "khung": "H4", "can_cu": [], "moc_gio": null, "tai_san": "BTC", "chac": true, "trich": "Đây là ba vùng hỗ trợ kế tiếp: một là 78, hai là 77, ba là 75."},
+    {"gia": 60000, "gia_tren": 65000, "vai_tro": "dich", "huong": "GIAM", "khung": "W1", "can_cu": [], "moc_gio": null, "tai_san": "BTC", "chac": false, "trich": "Nếu cây nến tuần này là một cây màu đỏ thì gần như confirm... điều chỉnh về vùng 6x (nói là khó sập nhanh về 60 hay 65)"},
+    {"gia": 76000, "gia_tren": null, "vai_tro": "dich", "huong": "GIAM", "khung": "H4", "can_cu": [], "moc_gio": null, "tai_san": "BTC", "chac": true, "trich": "Nhịp này đòi 76 thì khó hơn lên trời bạn ơi. Ăn ngắn thôi."}
+  ]
+}

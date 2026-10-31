@@ -1,0 +1,258 @@
+{
+  "buoi": "2026-04-09_gx-69-TVn_w",
+  "ngay": "2026-04-09",
+  "gia_btc_luc_noi": 70000,
+  "moc": [
+    {
+      "gia": 69000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "gap CME 69.000 (lấp gap)"
+      ],
+      "moc_gio": "00:05:22",
+      "chac": true,
+      "trich": "rất nhiều người đang chờ đợi nó về 69.000 tức là lấp gap"
+    },
+    {
+      "gia": 72000,
+      "gia_tren": null,
+      "vai_tro": "nhac_lai",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "râu nến quét SL đêm qua (đỉnh râu ~72.0xx)"
+      ],
+      "moc_gio": "00:12:39",
+      "chac": false,
+      "trich": "mình dự kiến nó hồi lên khoảng 72.002... quét lên tận 72.009"
+    },
+    {
+      "gia": 72000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": null,
+      "khung": "H1",
+      "can_cu": [
+        "râu nến đêm qua, quét stop loss"
+      ],
+      "moc_gio": "00:24:49",
+      "chac": true,
+      "trich": "nó tạo một cái râu ở ngay vùng 72.000 để quét stop loss"
+    },
+    {
+      "gia": 70000,
+      "gia_tren": 72000,
+      "vai_tro": "khang_cu",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "Fibo thoái lùi 0.5 và 0.618 (kẹp giữa)"
+      ],
+      "moc_gio": "00:25:22",
+      "chac": false,
+      "trich": "giá nó lọt giữa hai vùng là Fibo 0.5 và Fibo 0.618"
+    },
+    {
+      "gia": 70338,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "H1",
+      "can_cu": [
+        "râu nến (vùng râu)",
+        "gap hỗ trợ",
+        "MA34 H1 đang gặp"
+      ],
+      "moc_gio": "00:28:33",
+      "chac": true,
+      "trich": "70.338 là một vùng râu và đồng thời là một vùng hỗ trợ"
+    },
+    {
+      "gia": 69000,
+      "gia_tren": 70300,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "H1",
+      "can_cu": [
+        "vùng râu 70k3",
+        "gap CME 69.000-70.000",
+        "đám đông chờ lấp gap"
+      ],
+      "moc_gio": "00:29:04",
+      "chac": true,
+      "trich": "Trong cái zone từ 70k3 cho đến 69k này... có thể bật lên từ bất kỳ giá nào"
+    },
+    {
+      "gia": 67000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "gap CME 67.000"
+      ],
+      "moc_gio": "00:30:06",
+      "chac": true,
+      "trich": "quét về tận dưới cái gap 67.000 này mà nó bật lên"
+    },
+    {
+      "gia": 67500,
+      "gia_tren": null,
+      "vai_tro": "vo_hieu",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "đáy H4"
+      ],
+      "moc_gio": "00:31:45",
+      "chac": true,
+      "trich": "Thủng cái đáy H4 này, thủng khỏi 67.500. Đóng nến H4 thủng 67.500"
+    },
+    {
+      "gia": 67000,
+      "gia_tren": null,
+      "vai_tro": "vo_hieu",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "đóng 2 nến H4 đỏ dưới 67.000"
+      ],
+      "moc_gio": "00:32:17",
+      "chac": true,
+      "trich": "hai cây H4 màu đỏ đóng dưới 6700 là coi như hết"
+    },
+    {
+      "gia": 70000,
+      "gia_tren": 69000,
+      "vai_tro": "entry",
+      "huong": "TANG",
+      "khung": "M5",
+      "can_cu": [
+        "gap CME 69-70"
+      ],
+      "moc_gio": "00:32:17",
+      "chac": false,
+      "trich": "Chờ về những vùng ví dụ như 70.000, 6900 gì đó là bắt đầu chờ tìm điểm"
+    },
+    {
+      "gia": 73000,
+      "gia_tren": null,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý short / Hyblock (nghi dụ long)"
+      ],
+      "moc_gio": "00:34:22",
+      "chac": true,
+      "trich": "Vùng 73.000 đang thanh lý short rất nhiều... đang dụ long"
+    },
+    {
+      "gia": 68000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "volume đòn bẩy lớn trên heatmap / cụm thanh lý long"
+      ],
+      "moc_gio": "00:35:23",
+      "chac": true,
+      "trich": "volume đòn bảy lớn nằm ở đây, 6800"
+    },
+    {
+      "gia": 64000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý long dày lên"
+      ],
+      "moc_gio": "00:35:55",
+      "chac": true,
+      "trich": "đám này sẽ bị lụm ở 64 này... 64 này càng ngày càng dày"
+    },
+    {
+      "gia": 71000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": null,
+      "khung": null,
+      "can_cu": [
+        "OI options mở nhiều tại 71.000"
+      ],
+      "moc_gio": "00:36:26",
+      "chac": true,
+      "trich": "Open Interest option cái vùng 71.000 này được mở ra rất nhiều. Đây sẽ là một vùng cản và đây sẽ là một vùng hỗ trợ"
+    },
+    {
+      "gia": 69000,
+      "gia_tren": 70000,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "gap CME 69.000-70.000",
+        "nhiều lệnh chờ trên heatmap"
+      ],
+      "moc_gio": "00:36:57",
+      "chac": true,
+      "trich": "69 cho đến 70 này... đón đầu cái gap 70.000 với lại 69.000"
+    },
+    {
+      "gia": 69500,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "vùng giữ xu hướng; nhiều lệnh order"
+      ],
+      "moc_gio": "00:37:28",
+      "chac": true,
+      "trich": "cái vùng 69.500 là một vùng giữ cho xu hướng rất quan trọng"
+    },
+    {
+      "gia": 69000,
+      "gia_tren": null,
+      "vai_tro": "entry",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "gap CME 69.000",
+        "chờ nến H4 xanh nhỏ xác nhận"
+      ],
+      "moc_gio": "00:40:05",
+      "chac": true,
+      "trich": "6900 đúng khích luôn. Chạm 6900 sau đó confirm"
+    },
+    {
+      "gia": 71000,
+      "gia_tren": null,
+      "vai_tro": "entry",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": "00:47:40",
+      "chac": true,
+      "trich": "Mình vào lệnh ở trên kênh VIP... Ở trên 71.000"
+    },
+    {
+      "gia": 75000,
+      "gia_tren": 80000,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": null,
+      "can_cu": [
+        "đám short bị quét"
+      ],
+      "moc_gio": "00:08:31",
+      "chac": false,
+      "trich": "đi short đến khi nào nó lên quét hết ở 75 76 78 80"
+    }
+  ]
+}

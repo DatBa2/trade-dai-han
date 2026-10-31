@@ -1,0 +1,172 @@
+{
+  "buoi": "2026-02-11_MZ3XfAjYHqk",
+  "ngay": "2026-02-11",
+  "gia_btc_luc_noi": 68500,
+  "moc": [
+    {
+      "gia": 66000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "Fibo 0.5 (vùng 66.000 đến 64.000)"
+      ],
+      "moc_gio": "00:04:40",
+      "chac": true,
+      "trich": "Fibo 0.5 ở vùng 66.000 cho đến 64.000. Đặc biệt đầu tiên là Fibo 0.5 ở 66.000."
+    },
+    {
+      "gia": 64000,
+      "gia_tren": 66000,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "Fibo 0.5 / vùng Fibo"
+      ],
+      "moc_gio": "00:09:22",
+      "chac": true,
+      "trich": "muốn long thì phải chờ phản ứng ở 66 cho đến 65, 64 bởi vì đó là những vùng Fibo chúng ta xem"
+    },
+    {
+      "gia": 62000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "test lại vùng đáy phía dưới"
+      ],
+      "moc_gio": "00:05:12",
+      "chac": true,
+      "trich": "về đây mà đóng một cây nến thì nó sẽ đâm thẳng xuống... có thể nó sẽ về đến tận 62 test lại vùng ở dưới này"
+    },
+    {
+      "gia": 75000,
+      "gia_tren": null,
+      "vai_tro": "entry",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [
+        "fake out / quét stop loss các lệnh short"
+      ],
+      "moc_gio": "00:05:43",
+      "chac": true,
+      "trich": "nó có một pha giật lên khoảng 75.000, rồi ngày hôm sau đóng cây nến xanh ở 75 này, ngày hôm sau lại đóng một cây nến đỏ thì lúc đó mới short xuống"
+    },
+    {
+      "gia": 72000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "vùng cần quét stop loss lệnh short"
+      ],
+      "moc_gio": "00:06:48",
+      "chac": true,
+      "trich": "ít nhất là phải qua được vùng 72 này, cao hơn vùng 72 để quét stop loss những lệnh ở đây rồi sau đó nó mới cắm xuống"
+    },
+    {
+      "gia": 79800,
+      "gia_tren": 80000,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": null,
+      "can_cu": [
+        "gap CME"
+      ],
+      "moc_gio": "00:10:33",
+      "chac": false,
+      "trich": "Gap vẫn ở 7980, nhưng mình không biết khi nào nó lấp"
+    },
+    {
+      "gia": 93000,
+      "gia_tren": null,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": null,
+      "can_cu": [
+        "gap CME"
+      ],
+      "moc_gio": "00:12:06",
+      "chac": false,
+      "trich": "Gap 93 thì kéo xa ra có gì đâu... Phải kéo lên vùng 93 mới thấy được"
+    },
+    {
+      "gia": 67000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "cụm thanh lý / heatmap"
+      ],
+      "moc_gio": "00:13:12",
+      "chac": true,
+      "trich": "Liquid thì có một thằng ở 67.00, khả năng trong ngắn hạn đôi khi nó sẽ quét về đây rồi mới ngóc lên lại. Đôi khi nó đấm về 66"
+    },
+    {
+      "gia": 66000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "cụm thanh lý / heatmap (heatmap lệch volume)"
+      ],
+      "moc_gio": "00:17:56",
+      "chac": true,
+      "trich": "Vẫn dễ có một cú quét xuống ở đâu đó khoảng tầm 66 này. Rồi sau đó lại ngóc lên."
+    },
+    {
+      "gia": 40000,
+      "gia_tren": null,
+      "vai_tro": "day_cu",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": "00:30:01",
+      "chac": true,
+      "trich": "Vùng đáy Bitcoin mình nói rồi từ 40 đến 20. Quan điểm cá nhân"
+    },
+    {
+      "gia": 20000,
+      "gia_tren": null,
+      "vai_tro": "day_cu",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": "00:30:01",
+      "chac": true,
+      "trich": "Vùng đáy Bitcoin mình nói rồi từ 40 đến 20"
+    },
+    {
+      "gia": 70000,
+      "gia_tren": 71000,
+      "vai_tro": "khang_cu",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "vùng chốt lãi hôm thứ hai"
+      ],
+      "moc_gio": "00:08:51",
+      "chac": true,
+      "trich": "Lúc đó nó đang ở 70 71 gì đó. Rất nhiều người sẽ nổi lòng tham, họ sẽ không bán"
+    },
+    {
+      "gia": 74000,
+      "gia_tren": null,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": null,
+      "can_cu": [
+        "nến tháng đóng xanh giả định"
+      ],
+      "moc_gio": "00:27:53",
+      "chac": false,
+      "trich": "nếu nó đóng lên lại một cây màu xanh đóng nến ở khoảng 74.000 thì có nên vào hay không"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "buoi": "2026-03-25_byYCWvbkZyU",
+  "gia_btc_luc_noi": 70500,
+  "dau_buoi": {
+    "huong_h4": "TANG",
+    "trich": "[00:20:36] xu hướng tăng hiện tại vẫn được đảm bảo, vẫn được giữ. [00:23:41] Xu hướng hiện tại trong ngày hôm nay mình nghĩ khả năng nó vẫn là xu hướng có khả năng đi lên tiếp tục."
+  },
+  "cuoi_buoi": {
+    "huong_h4": "TANG",
+    "trich": "[01:08:47] Khung ngày nếu chúng ta nhìn lại thì khả năng từ đây nó break lên để kéo dần và đi dần qua tuần sau chắc là nó lên trên này cũng hợp lý. Xác suất để nó lên được cao cũng ổn lắm."
+  },
+  "doi_y_giua_buoi": false,
+  "huong_lon": {
+    "D1": "TANG",
+    "W1": null,
+    "chu_ky": "GIAM"
+  },
+  "hanh_dong": "dung_ngoai_cho_entry",
+  "duong_di": [
+    {
+      "huong": "GIAM",
+      "dich": 69000,
+      "khung": "H1"
+    },
+    {
+      "huong": "TANG",
+      "dich": 76000,
+      "khung": "H4"
+    },
+    {
+      "huong": "TANG",
+      "dich": 80000,
+      "khung": "D1"
+    },
+    {
+      "huong": "GIAM",
+      "dich": 64000,
+      "khung": "D1"
+    }
+  ],
+  "dich_chinh": 64000,
+  "moc_sai": {
+    "gia": 67000,
+    "dieu_kien": "Mất nền 67.000 thì nhịp tăng thất bại; lệnh bắt sâu SL66.998 [00:25:45]. Long riêng tại 69.000 có SL68.000 [00:26:52], không lẫn SL entry với vô hiệu toàn view."
+  },
+  "pha_vo_gia": null,
+  "do_chac": "cao",
+  "ghi_chu": "Đã đọc hết transcript. Giá 70.500 chuẩn hóa từ 70.000 năm [00:30:30]. H1 giảm nhưng H4/D1 tăng: chờ 69.000 hoặc 68.000 có nến đảo chiều rồi long, không limit mù; lệnh đêm trước 69.200 đã chốt 70.000–71.000. Chặng về 69.000 là nhánh entry ưu tiên, có thể chỉ lấp gap 70.000 hoặc break luôn không về. Đích hồi H4 trước 76.000, xa hơn 78.000/80.000. [00:38:54] nói rõ sau nhịp lên khoảng 80.000 sẽ tụt 64.000, nên ghi cả chặng giảm sau hồi và dich_chinh 64.000; đó là view dài hơn, không biến thành thiên hướng H4 giảm ngay. Không suy giá từ câu 51:25 dưới 400 vì không rõ tài sản/khung. [00:36:46–00:38:22] mô tả quét long rồi hút short đáy, nhưng không gọi rõ fake out/trap BTC nên pha_vo_gia=null."
+}

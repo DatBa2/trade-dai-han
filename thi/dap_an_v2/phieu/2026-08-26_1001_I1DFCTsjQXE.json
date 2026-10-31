@@ -1,0 +1,210 @@
+{
+ "buoi": "2026-08-26_1001_I1DFCTsjQXE",
+ "ngay": "2026-08-26",
+ "gio_vn": "10:01",
+ "gia_btc_luc_noi": 78800,
+ "nhan_dinh": [
+  {
+   "khung": "H4",
+   "huong": "TANG",
+   "do_chac": "thap",
+   "dich": [
+    81000,
+    82000
+   ],
+   "han": null,
+   "han_gio": null,
+   "vo_hieu_khi": null,
+   "vo_hieu_cau_truc": null,
+   "kich_ban_phu": null,
+   "duong_di": [
+    {
+     "huong": "GIAM",
+     "dich": [
+      77000,
+      78000
+     ]
+    },
+    {
+     "huong": "TANG",
+     "dich": [
+      81000,
+      82000
+     ]
+    }
+   ],
+   "doi_y": "Giá bật lên nhanh 'như tên lửa' qua mốc 79.000 (mốc SL short), có volume và cấu trúc tăng, H4 đóng xanh → hết lý do giữ short; chuyển sang đứng ngoài, chờ chỉnh về 77–78k tìm setup long, không short nữa.",
+   "ly_do": [],
+   "trich": "Nhịp này mình nghĩ nếu con Bit này không lên nổi thì khả năng là hỏng. Khả năng anh em mình mất ăn nhịp short rồi. Có cây H4 màu xanh hả? Rồi H4 màu xanh thì đúng là không nên short thật.",
+   "nhan_v1": "PHAN_VAN"
+  },
+  {
+   "khung": "H1",
+   "huong": "TANG",
+   "do_chac": "thap",
+   "dich": [
+    81000,
+    82000
+   ],
+   "han": null,
+   "han_gio": null,
+   "vo_hieu_khi": null,
+   "kich_ban_phu": "vùng 79 là cản MA ngày nên vẫn rủi ro; long an toàn hơn là chờ về 78.000 hoặc râu 77.900 tạo 2-3 đáy rồi breakout; long chỉ vốn nhỏ",
+   "ly_do": [
+    "giá bóp về hai đường MA34 và MA89 H1 là cấu trúc tiếp tục xu hướng đẹp, tái tích lũy",
+    "M15 breakout trendline khá đẹp",
+    "nhịp trước test Fibo 0.5-0.618 vùng 78"
+   ],
+   "trich": "Điểm tiếp theo nếu nó rướn thì mình nghĩ nó sẽ rướn lên đây, quanh 81, 82.",
+   "doi_y": null,
+   "duong_di": null
+  },
+  {
+   "khung": "D1",
+   "huong": "PHAN_VAN",
+   "do_chac": "thap",
+   "dich": null,
+   "han": null,
+   "han_gio": null,
+   "vo_hieu_khi": "nến ngày đóng qua 82-83 thì đừng short nữa, long đuổi được",
+   "kich_ban_phu": "vượt 82-83 thì lên 92-94 (Fibo 0.5 và cản 93.600)",
+   "ly_do": [
+    "nến ngày bị chặn ở EMA 79.000, cản kết hợp tuần và ngày, hạn chế FOMO long",
+    "MA test theo thứ tự 34 -> 89 -> 200 -> 600"
+   ],
+   "trich": "một khi nến đã vượt qua đoạn này thì các bạn đừng nên cố đi short thị trường, bởi vì nó có xác suất đi lên đến vùng 92, 93.",
+   "doi_y": null,
+   "duong_di": null
+  },
+  {
+   "khung": "W1",
+   "huong": "GIAM",
+   "do_chac": "thap",
+   "dich": 52300,
+   "han": null,
+   "han_gio": null,
+   "vo_hieu_khi": "nến tuần đóng qua 93.000-95.000 thì downtrend mới kết thúc",
+   "kich_ban_phu": "vượt 80-82 thì lên cản 93-94; nhiều người chờ backtest 70.000",
+   "ly_do": [
+    "vùng 80 là cản khung tuần rõ ràng",
+    "Fibo mở rộng khung tuần theo góc nhìn bearish xác suất về 52.300 vẫn còn",
+    "chưa đóng qua 93 thì chưa kết thúc downtrend"
+   ],
+   "trich": "Khi nào nó đóng qua khỏi vùng 93 đến 95 này thì mình nghĩ xu hướng downtrend của chúng ta mới có khả năng được gọi là kết thúc.",
+   "doi_y": null,
+   "duong_di": null
+  }
+ ],
+ "vung_gia": {
+  "khang_cu": [
+   79000,
+   82000
+  ],
+  "ho_tro": [
+   77000,
+   78000
+  ]
+ },
+ "lenh": [
+  {
+   "chieu": "SHORT",
+   "vao": null,
+   "tp": [
+    78000,
+    77000
+   ],
+   "sl": 79000,
+   "trang_thai": "da_dong"
+  },
+  {
+   "chieu": "LONG",
+   "vao": [
+    77000,
+    78000
+   ],
+   "tp": [],
+   "sl": null,
+   "trang_thai": "de_xuat_moi"
+  },
+  {
+   "chieu": "LONG",
+   "vao": 83000,
+   "tp": [
+    93000,
+    94000
+   ],
+   "sl": null,
+   "trang_thai": "de_xuat_moi"
+  }
+ ],
+ "nhin_lai_truoc": "Hôm qua ăn một nhịp sell nhẹ (short ~80.000 gần đỉnh, TP 79.000, TP2 ~78.800); long ở nhịp 78-79 cũng lãi. Cảnh báo nhịp điều chỉnh đúng.",
+ "cong_cu": [
+  "H4",
+  "H1",
+  "M15",
+  "M5",
+  "RSI H4",
+  "volume",
+  "MA34 H4",
+  "MA34/MA89 H1",
+  "EMA ngày",
+  "MA34/89/200/600",
+  "Fibo 0.5",
+  "Fibo mở rộng tuần",
+  "open interest",
+  "liquidation heatmap",
+  "Fear & Greed",
+  "BTC.D",
+  "USDT.D"
+ ],
+ "tin_tuc": [
+  {
+   "tin": "PCE tối nay 19:30",
+   "danh_gia": "dự kiến xấu (chỉ số tăng hơn tháng trước là xấu); nên cài TP SL hoặc giảm volume quanh giờ tin"
+  },
+  {
+   "tin": "Jackson Hole tối thứ sáu",
+   "danh_gia": "là bài phát biểu nên tuỳ lời nói; thị trường chờ tin nên khó đánh"
+  }
+ ],
+ "thoi_quen": [
+  "thị trường chờ tin thì ngồi ngoài",
+  "ưu tiên quản lý rủi ro, chỗ rủi ro cao thì đứng ngoài",
+  "không đoán đỉnh đáy, chỉ có plan vùng mua",
+  "SL theo nến đóng H1/M15/M30 qua cản",
+  "không limit ở trendline H4, chờ fake out rồi gãy mới đánh",
+  "H4 xanh thì phải tránh short",
+  "đánh market khi break, không chờ backtest"
+ ],
+ "cau_cua_mieng": [
+  "Đã sợ thì đừng có chơi, mà đã chơi thì đừng có sợ.",
+  "Cách xử lý nghi ngờ đó là đừng nghi ngờ nữa.",
+  "Thiếu tiền mới chết chứ cầm tiền không ai chết hết."
+ ],
+ "altcoin": [
+  {
+   "coin": "altcoin chung",
+   "huong": "GIAM",
+   "ghi": "yếu, chạy xong nhịp Bitcoin trong 2 ngày; BTC.D đi lên nên setup xấu"
+  },
+  {
+   "coin": "ETH",
+   "huong": "PHAN_VAN",
+   "ghi": "chưa đẹp, chờ về vùng Fibo ~2440 hoặc thấp hơn; theo dõi break lên"
+  },
+  {
+   "coin": "BTC.D/USDT.D",
+   "huong": "TANG",
+   "ghi": "cả hai đều có khả năng tăng; USDT.D nguy hiểm nếu ngóc lên"
+  }
+ ],
+ "ghi_chu": "Giá BTC lúc nói không nêu rõ (quanh 78.5-79.5). Cuối buổi người nói gần như bỏ view short vì H4 xanh, nên H4 chọn PHAN_VAN thay vì GIAM; đây là buổi khó chọn. Số 80.00/78.008/77.009 suy ra 80.000/78.800/77.900. Fear&Greed 74 -> 65.",
+ "hanh_dong": "dung_ngoai_cho_entry",
+ "chang_ke_tiep": null,
+ "khung_lon_v2": {
+  "D1": "GIAM",
+  "W1": "GIAM"
+ },
+ "pha_vo_gia": "Trendline H4: thường lên fake out một tí rồi mới gãy, nên không limit short mà chờ vài nến gãy mới đánh.",
+ "nguon_nhan": "dap_an_v2 (Opus 5.5 rút mù 31/10)"
+}

@@ -1,0 +1,49 @@
+{
+  "buoi": "2026-09-21_1001_I_U52BYUt0M",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/lam_sach/2026-09-21_1001_I_U52BYUt0M.md",
+  "gia_btc_luc_noi": 81900,
+  "dau_buoi": {
+    "thien_huong_h4": "GIAM",
+    "gio": null,
+    "trich": "Vào khung nhỏ hơn, ngắn hạn từ giờ đến trưa hoặc chiều, như lúc nãy mình có nhắn cho anh em trong nhóm: mình nghĩ khả năng rất cao sẽ có một nhịp lên test đâu đó khoảng 82.00 đến 82.00 [?], rồi nó mới gãy thực sự."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "GIAM",
+    "do_chac": "thap",
+    "gio": null,
+    "trich": "Mình xem Bitcoin H4 vừa đóng các bạn ơi. Thôi đóng cây này vẫn giữ view nhá. Vẫn chờ một cú quét lên khoảng 82.00 đến 82.00 [?] xem thử thế nào đối với góc nhìn ngắn hạn, chứ không tham gia vào vị thế hiện tại ở market đâu nhá."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {"huong": "TANG", "dich": [82000, 82500]},
+  "duong_di": [
+    {"huong": "TANG", "dich": [82000, 82500]},
+    {"huong": "GIAM", "dich": [80000, 81000]}
+  ],
+  "dich_chinh": [80000, 81000],
+  "han_gio": 120,
+  "vo_hieu": {
+    "gia": 83000,
+    "khung": "D1",
+    "so_nen": 2,
+    "chieu": "dong_tren",
+    "cau": "nếu nến tuần qua được vùng 83.000, hay chỉ cần nến ngày đóng được hai cây qua vùng 83.000, thì xác suất đạt được vùng từ khoảng 90 cho đến 93 sẽ khá cao."
+  },
+  "lenh": [
+    {"chieu": "SHORT", "vao": null, "tp": [], "sl": null, "trang_thai": "dang_giu"}
+  ],
+  "hanh_dong": "dung_ngoai_cho_entry",
+  "khung_lon": {"D1": "TANG", "W1": "TANG"},
+  "pha_vo_gia": "Cảnh báo fake out / phá cao ở 84–85: quét nhanh lên 84 hoặc 85 rồi rớt là nhịp phá cao đánh lừa cả thị trường (cả làng view 92–93) rồi mới điều chỉnh sâu; nếu giữ trên 83 được 1–2 ngày thì không phải phá cao. Tiêu đề buổi: cảnh báo bull trap.",
+  "trich_them": [
+    {"gio": null, "cau": "Chỉ nhích thêm một xíu nữa thôi: nếu nến tuần qua được vùng 83.000, hay chỉ cần nến ngày đóng được hai cây qua vùng 83.000, thì xác suất đạt được vùng từ khoảng 90 cho đến 93 sẽ khá cao."},
+    {"gio": null, "cau": "Bởi vì nếu nó không qua được 83 thì vẫn là test đỉnh, test cạn, và một nhịp phân kỳ trên đỉnh hoàn toàn có khả năng điều chỉnh về lại vùng dưới này."},
+    {"gio": null, "cau": "Còn nếu nó gãy thì chắc nó sẽ quét về khoảng 80.00 [?], tức là khoảng 1000 giá so với bây giờ. Nghiêng cho hai đầu luôn, chưa biết đầu nào. Nhưng xét về trung hạn, tức là trong tuần này, thể nào cũng sẽ có những pha kill long."},
+    {"gio": null, "cau": "Liquid vùng 80 vẫn nhiều hơn vùng trên, chứng tỏ xu hướng giá có thể điều chỉnh vẫn lớn."},
+    {"gio": null, "cau": "Nếu nó kéo lên 84 hoặc 85, sau đó mới rớt, thì nhịp 84 đó là nhịp phá cao và nó sẽ đánh lừa toàn bộ thị trường."},
+    {"gio": null, "cau": "Lúc nãy mình định cho anh em đánh Bitcoin lên nhưng đang kẹt lệnh short kia. Thôi cứ để đó."},
+    {"gio": null, "cau": "Nếu là mình muốn short thì mình sẽ short trên cái râu nến lúc sáng, chứ mình không short ở vùng giá hiện tại."},
+    {"gio": null, "cau": "Nói chung hiện tại trên khung tuần Bitcoin đang thể hiện một gương mặt cực kỳ tươi. Cho nên cứ cố đi cản tàu là điều không nên."}
+  ],
+  "kho": "Transcript không có mốc giờ. Khung tuần/ngày rất đẹp (TANG, cấm cản tàu) nhưng H4/H1 phân kỳ, nghiêng 'lên quét râu ~82 rồi gãy', trong tuần có pha kill long; người nói tự nhận 'nghiêng cho hai đầu' ở ngắn hạn nên độ chắc thấp. Số giá trong phụ đề lỗi ('82.00 đến 82.00 [?]', '80.00 [?]'): đích lên ~82–82.5 (râu sáng 82), đích xuống 'vùng 80' cách giá ~1000 → ghi khoảng [80000,81000]. Giá lúc nói ước ~81.9k ('82.000 hay 81.00 [?]'). Lệnh short đang kẹt không rõ giá vào. han_gio 120 = 'trong tuần này'."
+}

@@ -1,0 +1,365 @@
+{
+  "buoi": "2026-03-20_cxvXjQPayvY",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/zip_clean/2026-03-20_cxvXjQPayvY.txt",
+  "gia_btc_luc_noi": 69500,
+  "dau_buoi": {
+    "thien_huong_h4": "GIAM",
+    "gio": "[00:15:50]",
+    "trich": "BTC có vẻ đang có nhịp hồi. Đoạn này vì sao mình cho anh em chốt sớm? Bởi vì sợ nó hồi Fibo... Nhưng bị đấm H1 như thế này thì có vẻ khó, có vẻ căng. Về như này thì chắc phải về một phát 69.00. Liquid bên này vẫn còn đến tận 68000 mấy... Khả năng nó về đến 68.000 mấy, tầm này không có entry long các bạn."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "GIAM",
+    "do_chac": "vua",
+    "gio": "[01:16:17]",
+    "trich": "H4 thế này thì nói chung là phải chờ thêm cây H1 nữa thì mới xác định được. Cá nhân mình thì mình nghĩ là nó vẫn chưa lên được. Khả năng nó vẫn còn điều chỉnh về vùng dưới này để nó quét... 68.000 và 69. Đó là short ngắn hạn. Sâu hơn nữa thì vùng này quá căng rồi... 64 này trung hạn nó sẽ về thôi. Sớm thôi."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {
+    "huong": "GIAM",
+    "dich": [
+      68000,
+      69000
+    ]
+  },
+  "duong_di": [
+    {
+      "huong": "GIAM",
+      "dich": [
+        68000,
+        69000
+      ]
+    },
+    {
+      "huong": "GIAM",
+      "dich": 64000
+    }
+  ],
+  "dich_chinh": 68000,
+  "han_gio": null,
+  "vo_hieu": {
+    "gia": 70000,
+    "khung": "H1",
+    "so_nen": 1,
+    "chieu": "dong_tren",
+    "cau": "[00:25:50] Nó đóng được cây H1 này lên trên khỏi vùng 7000 thì may ra mới long FOMO được một phát... Ba cây M30 cũng không ăn thua, phải là cây H1."
+  },
+  "lenh": [
+    {
+      "chieu": "SHORT",
+      "vao": 70000,
+      "tp": [
+        69450,
+        68000
+      ],
+      "sl": 70000,
+      "trang_thai": "da_dong"
+    },
+    {
+      "chieu": "LONG",
+      "vao": 70000,
+      "tp": 73000,
+      "sl": 69000,
+      "trang_thai": "de_xuat_moi"
+    }
+  ],
+  "hanh_dong": "chot_loi",
+  "khung_lon": {
+    "D1": "không nói rõ; trung hạn nghiêng về 64k ('64 này trung hạn nó sẽ về thôi')",
+    "W1": "không nói"
+  },
+  "pha_vo_gia": "Lo BTC hồi qua trendline nhưng lên test vùng phía trên (~69.8-69.9k?) rồi rụng xuống, không qua được; gọi nhịp hồi là 'hồi quang phản chiếu' vì volume yếu.",
+  "nhin_lai_view_truoc": {
+    "view_truoc": "TANG",
+    "giu_hay_doi": "doi",
+    "vi_sao": "View long buổi sáng đã chạm đích (~71k) và chốt xong; sau đó H1 gãy từ 9:00-9:30 nên chuyển sang đánh view ngắn, để giá về.",
+    "gio": "[00:23:09]",
+    "trich": "Còn giữ view hồi sáng không? View hồi sáng là không. Thực sự đoạn này phải đánh view ngắn thôi các bạn. Như mình nói lúc sáng thì nó đã lên đến view đó rồi... Long ở vùng lúc sáng lên đến vùng khoảng 71.00 là chúng ta chốt là đúng rồi. Chốt ở đó xong thì bây giờ nó về thì phải để cho nó chạy."
+  },
+  "trendline": [
+    {
+      "khung": "H1",
+      "loai": "khang_cu_giam",
+      "noi_tu": "không nói điểm neo; trendline ngắn hạn phía trên nhịp giảm tối 20/3",
+      "diem_neo": [
+        {
+          "ngay": null,
+          "gia": null
+        }
+      ],
+      "gia_duong_luc_noi": null,
+      "trang_thai": "vua_pha",
+      "dieu_kien_pha": "giá hồi qua trendline + qua MA; H1 phải đóng trên 70k mới long",
+      "ket_luan_huong": null,
+      "gio": "[01:05:33]",
+      "trich": "BTC hồi qua trendline. Đi như thế này chắc chắn qua trendline nhưng mà chỉ ngại là nó lên test cái này nó rụng thôi. Lên test ở đây sau đó nó rụng xuống... Cứ chờ nó qua MA xem sao. BTC có cửa hồi, vai đầu vai ngược nhưng mà cũng không sáng lắm. H1 đánh như thế này là không được đâu."
+    }
+  ],
+  "trich_them": [
+    {
+      "gio": "[00:19:28]",
+      "cau": "Short đoạn này thấy hơi nguy hiểm. H4 thế này mình nghĩ anh em không nên short. Có hai lý do. Thứ nhất vùng này là vùng có khả năng tạo đáy và đi lên."
+    },
+    {
+      "gio": "[00:20:32]",
+      "cau": "lệnh lúc nãy mình cho anh em là ở 70, chúng ta short rồi. Bây giờ cũng lãi khoảng gần 1000 giá... Chúng ta kéo stop loss về entry giữ ở đó thì được."
+    },
+    {
+      "gio": "[00:54:30]",
+      "cau": "BTC thì khả năng không lên nổi... Nhịp một là lên khỏi Fibo 618 và nhịp hai may ra mới lên khỏi Fibo 50. Muốn đánh được mà nhịp một này nó dưới 70.000 thì vẫn không chơi được."
+    },
+    {
+      "gio": "[01:06:38]",
+      "cau": "À quên giá nằm dưới Fibo 0.5 này. Chắc chốt luôn lại BTC đi ngủ rồi anh em."
+    },
+    {
+      "gio": "[01:09:11]",
+      "cau": "Đôi khi chắc lên lại 70.000 rồi lại gãy xuống tiếp thì hỏng dễ lắm. Nói chung là như thế này thì không bay được, không long được đâu. Tình hình thế này chờ ngày mai."
+    }
+  ],
+  "kho": "Buổi chủ yếu nói vàng/dầu; BTC chỉ view ngắn H1. Có lúc nói 'vùng có khả năng tạo đáy và đi lên' (không nên short mới) nhưng kịch bản chính vẫn quét về 68-69k, trung hạn 64k. 'Chốt luôn lại BTC' không rõ là chốt lệnh short còn lại hay gì.",
+  "nen_volume": [
+    {
+      "khung": "H1",
+      "nen": "bị đấm H1 (nến H1 giảm mạnh)",
+      "volume": null,
+      "ket_luan": "nhịp hồi Fibo khó, chắc phải về 69k rồi 68k, không có entry long",
+      "gio": "[00:15:50]",
+      "trich": "Nhưng bị đấm H1 như thế này thì có vẻ khó, có vẻ căng. Về như này thì chắc phải về một phát 69.00."
+    },
+    {
+      "khung": "H1",
+      "nen": "cần cây H1 đóng trên 70k / trên Fibo; 3 cây M30 không đủ; H1 hồi thì H4 rút chân",
+      "volume": "để ý volume, M15 kéo lên khá căng, đứng mãi không gãy",
+      "ket_luan": "chỉ long FOMO khi H1 đóng trên 70k, SL 69k, TP 73k",
+      "gio": "[00:25:18]",
+      "trich": "Anh em để ý volume này. Đoạn này 15 kéo lên khá căng. Và đứng mãi ở vùng này không chịu gãy. Nếu cây H1 này kéo lên được trên thằng Fibo là khả năng có hồi lên ngon... Ba cây M30 cũng không ăn thua, phải là cây H1. H1 hồi thì H4 rút chân."
+    },
+    {
+      "khung": "M5",
+      "nen": "M5 đi xuống, chờ tạo vai đầu vai",
+      "volume": null,
+      "ket_luan": "hồi quang phản chiếu, không hồi nổi; ngồi im chờ",
+      "gio": "[00:59:43]",
+      "trich": "Thôi đi thế này có vẻ là không hồi nổi rồi anh em ạ. Hồi quang phản chiếu rồi. Tầm này thì khả năng là chờ M5 tạo vai đầu vai rồi tín hiệu... M5 nó đi xuống như này thì cũng khó lắm."
+    },
+    {
+      "khung": "M15",
+      "nen": "nhịp hồi lên",
+      "volume": "nhìn volume lên không nổi",
+      "ket_luan": "chưa có lực, hồi quang phản chiếu; không FOMO, chờ",
+      "gio": "[01:20:25]",
+      "trich": "M15 hả? Không, giữ chờ thôi chứ không FOMO quá. Chưa có lực đâu các bạn ơi. Đừng có vội làm cái gì. Lực này hồi quang phản chiếu, nhìn volume lên đâu có lên nổi luôn mà, chờ đi."
+    },
+    {
+      "khung": "M15",
+      "nen": "H1 23h đóng 70k thì phải chờ thêm cây 15 phút",
+      "volume": null,
+      "ket_luan": "cần thêm nến xác nhận mới long",
+      "gio": "[00:42:07]",
+      "trich": "23 giờ đóng 70.000 long ổn không? Phải 70.000. Nhìn thì phải chờ thêm cây 15 phút nữa cho chắc."
+    }
+  ],
+  "cach_lam": [
+    {
+      "hanh_dong": "do",
+      "cong_cu": "fibo_thoai_lui",
+      "chi_tiet": "H1, nhịp giảm tối 20/3: nhịp 1 lên Fibo 0.618, nhịp 2 lên Fibo 0.5",
+      "ket_qua": "dưới 70k (dưới Fibo) thì không chơi; giá nằm dưới Fibo 0.5",
+      "gio": "[00:54:30]",
+      "trich": "Nhịp một là lên khỏi Fibo 618 và nhịp hai may ra mới lên khỏi Fibo 50. Muốn đánh được mà nhịp một này nó dưới 70.000 thì vẫn không chơi được."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "heatmap",
+      "chi_tiet": "liquidation bên dưới",
+      "ket_qua": "liquid còn tới 68k mấy → khả năng về 68k",
+      "gio": "[00:15:50]",
+      "trich": "Liquid bên này vẫn còn đến tận 68000 mấy. 6800 này các bạn. Vùng này đã được mở ra rất dài thì khả năng nó về đến đây thật."
+    },
+    {
+      "hanh_dong": "ke",
+      "cong_cu": "trendline",
+      "chi_tiet": "trendline ngắn hạn trên nhịp giảm (H1)",
+      "ket_qua": "giá hồi qua trendline nhưng sợ test rồi rụng",
+      "gio": "[01:05:33]",
+      "trich": "BTC hồi qua trendline. Đi như thế này chắc chắn qua trendline nhưng mà chỉ ngại là nó lên test cái này nó rụng thôi."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "ema",
+      "chi_tiet": "chờ giá qua MA (H1)",
+      "ket_qua": "chưa qua MA, chưa long",
+      "gio": "[01:06:06]",
+      "trich": "Cứ chờ nó qua MA xem sao. BTC có cửa hồi, vai đầu vai ngược nhưng mà cũng không sáng lắm."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "nen",
+      "chi_tiet": "mô hình vai đầu vai ngược khung nhỏ",
+      "ket_qua": "có cửa hồi nhưng không sáng",
+      "gio": "[01:06:06]",
+      "trich": "BTC có cửa hồi, vai đầu vai ngược nhưng mà cũng không sáng lắm. H1 đánh như thế này là không được đâu."
+    }
+  ],
+  "vung_nguoi_do": [
+    {
+      "loai": "vao",
+      "tu": 70000,
+      "den": 70000,
+      "gio": "[00:20:32]",
+      "trich": "ví dụ lệnh lúc nãy mình cho anh em là ở 70, chúng ta short rồi."
+    },
+    {
+      "loai": "tp",
+      "tu": 69450,
+      "den": 69450,
+      "gio": "[00:22:07]",
+      "trich": "Vừa nãy mình có một lệnh cài thêm một TP ở 69450. Nó vừa khớp xong."
+    },
+    {
+      "loai": "tp",
+      "tu": 68000,
+      "den": 68000,
+      "gio": "[00:22:37]",
+      "trich": "Lệnh của anh em có entry đẹp cứ gồng về 68."
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 71000,
+      "den": 71000,
+      "gio": "[00:20:00]",
+      "trich": "khoảng một hai cây nến nữa sẽ có một cây pump lên rất dữ dội, pump vượt qua khỏi vùng 7100 luôn thì lúc đó anh em sẽ rất mệt"
+    },
+    {
+      "loai": "vo_hieu",
+      "tu": 70000,
+      "den": 70000,
+      "gio": "[00:25:50]",
+      "trich": "Nó đóng được cây H1 này lên trên khỏi vùng 7000 thì may ra mới long FOMO được một phát"
+    },
+    {
+      "loai": "sl",
+      "tu": 69000,
+      "den": 69000,
+      "gio": "[00:26:20]",
+      "trich": "thì có thể long FOMO được một nhịp và SL 69.00"
+    },
+    {
+      "loai": "tp",
+      "tu": 73000,
+      "den": 73000,
+      "gio": "[00:26:20]",
+      "trich": "Lệnh này mà long FOMO thì cài luôn TP ở vùng 73 cho hoành tráng."
+    },
+    {
+      "loai": "dich",
+      "tu": 68000,
+      "den": 69000,
+      "gio": "[01:16:47]",
+      "trich": "68.000 và 69. Đó là short ngắn hạn."
+    },
+    {
+      "loai": "dich",
+      "tu": 64000,
+      "den": 64000,
+      "gio": "[01:16:47]",
+      "trich": "64 này trung hạn nó sẽ về thôi. Sớm thôi."
+    }
+  ],
+  "view_trung_han": [
+    {
+      "khung": "D1",
+      "huong": "GIAM",
+      "dich": 64000,
+      "han": "trung hạn, 'không phải đêm ngày hôm nay nhưng mà sớm thôi'",
+      "mat_view_khi": null,
+      "gio": "[01:16:47]",
+      "trich": "Sâu hơn nữa thì vùng này quá căng rồi. Vùng này thì chắc dài hạn nó sẽ về. 64 này trung hạn nó sẽ về thôi. Sớm thôi. Không phải đêm ngày hôm nay nhưng mà sớm thôi."
+    }
+  ],
+  "vung_tranh": [
+    {
+      "tu": null,
+      "den": 70000,
+      "vi_sao": "dưới 70k (H1 chưa đóng trên 70k, giá dưới Fibo 0.5) thì không long; đêm nay không long",
+      "gio": "[00:54:30]",
+      "trich": "Muốn đánh được mà nhịp một này nó dưới 70.000 thì vẫn không chơi được. Bắt buộc phải chờ thêm một cây nến nữa thì may ra."
+    },
+    {
+      "tu": null,
+      "den": null,
+      "vi_sao": "vùng giá lúc nói (~69.4k): short mới nguy hiểm vì có thể tạo đáy đi lên; vào entry short bây giờ khá xấu",
+      "gio": "[00:19:28]",
+      "trich": "Short đoạn này thấy hơi nguy hiểm. H4 thế này mình nghĩ anh em không nên short. Có hai lý do. Thứ nhất vùng này là vùng có khả năng tạo đáy và đi lên... Còn tầm này nếu vào entry ở bây giờ thì khá xấu."
+    }
+  ],
+  "giu_dong": [
+    {
+      "lenh": "short BTC vào 70k (VIP)",
+      "quyet_dinh": "gong",
+      "khi_nao": "đã lãi ~1000 giá: kéo SL về entry, entry đẹp thì gồng về 68k",
+      "gio": "[00:20:32]",
+      "trich": "Bây giờ cũng lãi khoảng gần 1000 giá, chúng ta thoải mái chơi. Chúng ta kéo stop loss về entry giữ ở đó thì được... [00:22:37] Lệnh của anh em có entry đẹp cứ gồng về 68."
+    },
+    {
+      "lenh": "short BTC vào 70k – phần TP 69.450",
+      "quyet_dinh": "chot_mot_phan",
+      "khi_nao": "khớp TP cài sẵn 69.450",
+      "gio": "[00:22:07]",
+      "trich": "Vừa nãy mình có một lệnh cài thêm một TP ở 69450. Nó vừa khớp xong, vừa chốt lãi ở vùng TP này 69450."
+    },
+    {
+      "lenh": "short BTC còn lại",
+      "quyet_dinh": "dong",
+      "khi_nao": "giá nằm dưới Fibo 0.5, đi ngủ",
+      "gio": "[01:06:38]",
+      "trich": "À quên giá nằm dưới Fibo 0.5 này. Chắc chốt luôn lại BTC đi ngủ rồi anh em."
+    },
+    {
+      "lenh": "spot BTC",
+      "quyet_dinh": "chot_mot_phan",
+      "khi_nao": "đợt vừa rồi lên 74k là phải chốt bớt",
+      "gio": "[01:09:42]",
+      "trich": "spot BTC này bao nhiêu chốt được? Đợt vừa rồi mình nghĩ 74 là phải chốt rồi chứ. Phải chốt bớt một phần rồi chứ."
+    }
+  ],
+  "tin_tuc": [
+    {
+      "su_kien": "chiến sự (Mỹ – Iran / tin chiến tranh cuối tuần)",
+      "thoi_diem": "hai ngày cuối tuần tới (thị trường vàng đóng cửa)",
+      "nguon": null,
+      "so_lieu": null,
+      "anh_huong_view": "đêm nay không long (cả vàng lẫn tất cả) vì rủi ro tin chiến tranh bất lợi khi đóng cửa cuối tuần",
+      "gio": "[00:16:51]",
+      "trich": "Nếu muốn long là phải ngày mai, đêm ngày hôm nay không long được, cả vàng lẫn tất cả... cộng với tình hình hiện tại hai ngày tiếp theo thị trường vàng đóng cửa mà Mỹ đưa ra một tin chiến tranh nào đó bất lợi... Cho nên tuyệt đối thà lau nước miếng còn hơn rớt nước mắt."
+    },
+    {
+      "su_kien": "chiến tranh Iran kết thúc?",
+      "thoi_diem": null,
+      "nguon": null,
+      "so_lieu": null,
+      "anh_huong_view": "nếu kết thúc thì có lợi cho coin, nhưng còn lâu mới hết",
+      "gio": "[00:32:09]",
+      "trich": "Nếu chiến tranh Iran kết thúc thì ảnh hưởng có lợi hay có hại cho thị trường coin? Có lợi chứ. Cứ chiến tranh kết thúc hết là thị trường nó có lợi anh em. Nhưng còn lâu nó mới hết, yên tâm."
+    },
+    {
+      "su_kien": "BlackRock chuyển 544 BTC và gần 5000 ETH lên sàn",
+      "thoi_diem": "tối 20/3",
+      "nguon": "bao",
+      "so_lieu": "544 BTC, ~5000 ETH",
+      "anh_huong_view": "không dùng; khuyên đừng đọc tin, không nghĩ tin ảnh hưởng thị trường",
+      "gio": "[00:34:19]",
+      "trich": "Mình mới đọc trên bài: BlackRock chuyển 544 Bitcoin và gần 5000 ETH lên sàn. Nếu tin này chính xác thì họ bán, biết có lên 80 không hay đi xuống luôn. Lời khuyên của mình dành cho bạn là đừng có đi đọc tin nữa. Đau đầu lắm."
+    },
+    {
+      "su_kien": "tin đồn Mỹ kêu gọi rời Đài Loan / USD tự do lên 28k",
+      "thoi_diem": "tối 20/3",
+      "nguon": "bao",
+      "so_lieu": "đô 27.7 → 28 (sau kiểm lại vẫn 277)",
+      "anh_huong_view": "bác bỏ, tin cũ từ mấy ngày trước; không đổi view",
+      "gio": "[00:48:37]",
+      "trich": "Có tin đồn Mỹ kêu gọi rời khỏi Đài?... Đọc tin gì lạ vậy... Mình đã bảo đọc tin thì đọc cho ra hồn, còn không thì thôi."
+    }
+  ]
+}

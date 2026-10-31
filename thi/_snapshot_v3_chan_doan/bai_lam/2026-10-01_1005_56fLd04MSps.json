@@ -1,0 +1,101 @@
+{
+ "buoi": "2026-10-01_1005_56fLd04MSps",
+ "ngay": "2026-10-01",
+ "gio_vn": "10:05",
+ "gia_btc_luc_noi": 83766,
+ "nhan_dinh": [
+  {
+   "khung": "H4",
+   "huong": "PHAN_VAN",
+   "do_chac": "vua",
+   "dich": null,
+   "han": "chờ nến H4 đóng ra khỏi hộp, trước non-farm thứ Sáu 02/10",
+   "han_gio": 36,
+   "vo_hieu_khi": "chờ xác nhận: H4 đóng trên 85.700 (trên râu PCE) → tính long lên 87 rồi 90; H4 đóng dưới 82.000 → tính short về 80–81. Trong hộp 82–85 thì ngồi im",
+   "kich_ban_phu": null,
+   "duong_di": null,
+   "doi_y": null,
+   "ly_do": [
+    "giữ view 30/09: vùng bất động 83–85, chờ phá đầu nào theo đầu đó — chưa có H4 nào đóng ngoài hộp",
+    "PCE chọc 85.650 nhưng H4 đóng lại 84.134, cây sau đỏ về 83.594 → cú phá 85 là giả, hộp vẫn nguyên",
+    "giá nằm trong dải EMA34 H4 (83.333–84.189), EMA34 đi ngang, trên EMA89 H4 82.660 — kẹp giữa thì chờ",
+    "đáy H4 nâng dần 82.557 → 82.903 → 82.960 → 83.411 nhưng đỉnh 85 bị từ chối hai lần, hai phía ngang nhau",
+    "mai non-farm, đầu tháng hay quét hai đầu"
+   ],
+   "trich": null
+  },
+  {
+   "khung": "D1",
+   "huong": "GIAM",
+   "do_chac": "thap",
+   "dich": [82000, 82500],
+   "han": "3–5 ngày",
+   "han_gio": 96,
+   "vo_hieu_khi": "D1 đóng trên 85.700",
+   "kich_ban_phu": null,
+   "duong_di": null,
+   "doi_y": null,
+   "ly_do": [
+    "D1 30/09 râu trên 2.37% ở 85.650, thân doji đóng 83.618 — bị từ chối ở kháng cự 85",
+    "D1 đỉnh thấp dần sau 87.399 (87.283 → 85.259 → 85.200), thanh khoản yếu",
+    "giá còn xa EMA34 D1 79.897 (+4.8%), điều chỉnh về hỗ trợ 82 vẫn chưa xong"
+   ],
+   "trich": null
+  },
+  {
+   "khung": "W1",
+   "huong": "TANG",
+   "do_chac": "vua",
+   "dich": [90000, 92000],
+   "han": "vài tuần",
+   "han_gio": 336,
+   "vo_hieu_khi": "nến tuần đóng dưới 82.000",
+   "kich_ban_phu": null,
+   "duong_di": null,
+   "doi_y": null,
+   "ly_do": [
+    "82–83 là hỗ trợ cứng khung tuần, cả tuần xuống là bật, chưa thủng",
+    "nến tháng 9 đóng xanh 83.618 (+6.4%), ba tháng xanh liên tiếp, đóng trên 82",
+    "giá trên EMA89 tuần 79.170 và dải EMA34 tuần"
+   ],
+   "trich": null
+  }
+ ],
+ "vung_gia": {
+  "khang_cu": [84500, 85000, 85700, 87000],
+  "ho_tro": [83000, 82500, 82000, 80000]
+ },
+ "lenh": [],
+ "hanh_dong": "dung_ngoai_vi_lap_lung",
+ "giu_view": true,
+ "ly_do_doi_view": "Giữ view 30/09. Đầu tháng đã xem lại nến tháng: tháng 9 đóng xanh trên 82, khung tuần vẫn đẹp — không có gì đổi. PCE chỉ tạo râu 85.650 rồi đóng lại trong hộp (phá giả), không có H4 nào đóng qua 85 hay dưới 82.",
+ "rau": {
+  "tren": "85.650 — nến H4 30/09 19:00 (râu tin PCE, râu trên 1.81%)",
+  "duoi": "83.411 — nến H4 01/10 07:00; đáy cấu trúc gần nhất 82.903–82.960 (H4 29/09 23:00 và 30/09 11:00)",
+  "test_lai": "Râu trên 85.650 CÓ — râu tin dài chưa test, trùng kháng cự 85 + đỉnh 85.200–85.259 + cụm thanh lý 85 (R1, R2), nhưng chỉ khi hộp được phá lên. Râu dưới 83.411 KHÔNG — ngắn, nằm ngay trong dải EMA34 H4; còn hai đáy 82.903–82.960 là chỗ SL phe long, sát EMA89 H4, hay bị quét trước khi chọn hướng."
+ },
+ "vung_on": [
+  {
+   "loai": "SHORT",
+   "khoang": [85000, 85700],
+   "ly_do": [
+    "râu tin PCE 85.650 (H4 30/09)",
+    "đỉnh H4 85.200 / 85.259 bị từ chối nhiều lần",
+    "kháng cự 85 người đó nêu (trên 85 mới confirm tăng)",
+    "cụm thanh lý / heatmap dày 85"
+   ]
+  },
+  {
+   "loai": "LONG",
+   "khoang": [82000, 82600],
+   "ly_do": [
+    "EMA89 H4 82.660",
+    "hỗ trợ cứng khung tuần 82–83 (trendline tuần 82)",
+    "Fibo 0.382 nhịp D1 74.956→87.399 = 82.646",
+    "đáy H4 82.557 + Max Pain long 82.100 + vùng chủ lực 81.5–82.5 người đó nêu 30/09"
+   ]
+  }
+ ],
+ "pha_vo_gia": "Cú vượt 85 lúc PCE (H4 30/09 19:00, râu 85.650) là PHÁ VỠ GIẢ: chỉ râu, thân đóng 84.134 dưới 85 (G1), ngay sau tin (G6), phiên Mỹ 19–23h (G9), cây sau đỏ về 83.594 (G2). Không đổi view vì cú này.",
+ "loi_binh": "View từ hôm qua không thay đổi gì nhiều anh em. Tối qua PCE chọc lên 85.6 là cây dụ long thôi, râu dài, thân đóng lại dưới 85, cây sau đỏ luôn — ai đuổi theo là bị úp. Đầu tháng xem nến tháng 9 vẫn xanh, khung tuần vẫn đẹp, nhưng H4 vẫn kẹp trong hộp 82 đến 85. Long không được short không xong thì làm gì? Xem livestream — đóng H4 trên 85.7 thì mình tính lên, thủng 82 thì tính xuống, còn giờ 50-50 là mình không tham gia."
+}

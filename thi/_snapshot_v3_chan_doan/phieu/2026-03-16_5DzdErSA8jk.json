@@ -1,0 +1,152 @@
+{
+  "buoi": "2026-03-16_5DzdErSA8jk",
+  "ngay": "2026-03-16",
+  "gio_vn": "10:00",
+  "gia_btc_luc_noi": 74500,
+  "nhan_dinh": [
+    {
+      "khung": "H4",
+      "huong": "TANG",
+      "do_chac": "thap",
+      "dich": [
+        78000,
+        80000
+      ],
+      "han": "trong tuần này nếu muốn chinh phục 80 thì khả năng rất cao, không thì nhường nhịp khác",
+      "han_gio": 168,
+      "vo_hieu_khi": "thủng 69.000 mới đứt sóng; còn giữ vùng 7x thì còn sóng",
+      "kich_ban_phu": "điều chỉnh về 71.000-71.800 (lấp gap 71) rồi lên tiếp; quét về 70.800; gãy luôn đêm nay thì hơi khó",
+      "ly_do": [
+        "mô hình đỉnh bằng đáy dốc lên có xu hướng break lên, không nên short",
+        "H4 treo cột cờ nhìn nguy hiểm nhưng cùng lắm điều chỉnh về 71.000-71.800",
+        "heatmap có đống lệnh chờ short phía trên, thị trường có thể lụm thêm phát nữa (74.800-74.900) trước khi gãy",
+        "ngắn hạn M30 hai đỉnh + phân kỳ, Fibo 0.618 ở 74.000, nhưng sập ở đây thì cả làng nhảy vào long"
+      ],
+      "trich": "Tầm này mình thấy không nên short thì rõ ràng phải chờ long. Chờ long nghĩa là nếu nó đâm xuống dưới này chúng ta chờ và đánh lên.",
+      "doi_y": "đầu buổi thấy M30 hai đỉnh phân kỳ, có thể rụng về 71.600 cho ăn short; cuối buổi vẫn khuyên không short, chờ long khi điều chỉnh",
+      "duong_di": [
+        {
+          "huong": "GIAM",
+          "dich": [
+            71000,
+            71800
+          ]
+        },
+        {
+          "huong": "TANG",
+          "dich": [
+            78000,
+            80000
+          ]
+        }
+      ]
+    },
+    {
+      "khung": "chung",
+      "huong": "GIAM",
+      "do_chac": "thap",
+      "dich": null,
+      "han": null,
+      "han_gio": null,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": null,
+      "ly_do": [
+        "vẫn ở downtrend, vẫn có áp lực xu hướng đi xuống",
+        "Fear & Greed liên tục ở 9, không mua coin ở vùng này"
+      ],
+      "trich": "Đó là vào mùa uptrend, còn bây giờ dù sao đi nữa chúng ta vẫn đang ở downtrend.",
+      "doi_y": null,
+      "duong_di": null
+    }
+  ],
+  "vung_gia": {
+    "khang_cu": [
+      74600,
+      74900
+    ],
+    "ho_tro": [
+      70800,
+      71800
+    ]
+  },
+  "lenh": [
+    {
+      "chieu": "LONG",
+      "loai": "BTC/ETH scalping vol nhỏ",
+      "vao": null,
+      "tp": [
+        75000,
+        76000
+      ],
+      "sl": 72000,
+      "trang_thai": "da_cat",
+      "trich": "Bản chất lệnh đó là thấy thị trường ngứa mắt quá vào gõ một cái thôi. ... mình định thủng khoảng đoạn 72.000 mấy này thì out."
+    },
+    {
+      "chieu": "LONG",
+      "loai": "scalp ETH x20-x25 tài khoản nhỏ (TP ETH 2314)",
+      "vao": null,
+      "tp": null,
+      "sl": null,
+      "trang_thai": "da_cat",
+      "trich": "Lệnh này thì stop loss chắc độ khoảng 20 giá thôi. ... Đánh cho vui cùng anh em"
+    }
+  ],
+  "nhin_lai_truoc": "Mấy hôm trước ăn nhiều; hôm nay lệnh long nhỏ bị âm, livestream mất 1 triệu mấy, quyết định té đi ngủ.",
+  "cong_cu": [
+    "M5",
+    "M15",
+    "M30",
+    "H1",
+    "H4",
+    "Fibo 0.618",
+    "EMA M30",
+    "MA200",
+    "heatmap Coinglass",
+    "gap 71.000"
+  ],
+  "tin_tuc": [
+    {
+      "tin": "Văn bản Bộ Tài chính về 5 sàn crypto trong nước (3 đủ điều kiện, 2 chưa)",
+      "danh_gia": "không bất ngờ, dần hướng đến có sàn được cấp phép"
+    },
+    {
+      "tin": "ETH mở khóa lượng lớn ngày mai",
+      "danh_gia": "không ảnh hưởng, giá chạy trước tin"
+    }
+  ],
+  "thoi_quen": [
+    "vào lệnh nhỏ báo rủi ro khi entry xấu, đòn bẩy x10",
+    "scalping SL gần, thủng là thoát, không cố chấp",
+    "tối thứ hai không có uy tín, long entry xấu thì chốt",
+    "không tin ai hết, mình không bán thứ gì cần niềm tin",
+    "không trả lời câu hỏi dự đoán kiểu yes/no mà chỉ lên plan hai kịch bản"
+  ],
+  "cau_cua_mieng": [
+    "Mình mà biết trước thì đi mua vé số.",
+    "Ở trong thị trường này lời khuyên của mình là anh em đừng tin ai hết."
+  ],
+  "altcoin": [
+    {
+      "coin": "ETH",
+      "huong": "TANG",
+      "ghi": "qua TP1 2000-2200, tiếp 2400, 2600; scalp lên 2314"
+    },
+    {
+      "coin": "BNB",
+      "huong": "TANG",
+      "ghi": "target 725 nhưng đang ra vai đầu vai H1, có thể đảo về 664"
+    },
+    {
+      "coin": "LINK",
+      "huong": "TANG",
+      "ghi": "10.5 TP1, 11.5 TP2"
+    },
+    {
+      "coin": "altcoin chung",
+      "huong": "TANG",
+      "ghi": "meme (WIF, BOME, PEPE, DOGE) dẫn sóng, WLD khỏe; nhưng chủ yếu đẩy làm thanh khoản; không mua coin ở vùng này"
+    }
+  ],
+  "ghi_chu": "Live tối thứ hai (~23:00); gio_vn để 10:00 theo hướng dẫn. Giá 74500 ước từ 'SL short 74.600', 'Fibo 0.618 ở 74'. 'Khoảng 78.000' ở phút 25 là mốc BTC hỗ trợ cho ASTAR. 'Nến ngày kết thúc điểm 79' là câu hỏi ý khán giả, không rõ chủ live xác nhận."
+}

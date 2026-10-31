@@ -1,0 +1,14 @@
+2026-06-04_aPyIQ0I9e68	/Users/badat/linhtinh/trade_dai_han/transcripts/zip_clean/2026-06-04_aPyIQ0I9e68.txt
+2026-06-05_a6-MmsaBAfA	/Users/badat/linhtinh/trade_dai_han/transcripts/zip_clean/2026-06-05_a6-MmsaBAfA.txt
+2026-06-08_WZ8PpZ9VA4Q	/Users/badat/linhtinh/trade_dai_han/transcripts/zip_clean/2026-06-08_WZ8PpZ9VA4Q.txt
+2026-06-09_UmnCq7p4NlU	/Users/badat/linhtinh/trade_dai_han/transcripts/zip_clean/2026-06-09_UmnCq7p4NlU.txt
+2026-06-10_38z3ITqKMkM	/Users/badat/linhtinh/trade_dai_han/transcripts/zip_clean/2026-06-10_38z3ITqKMkM.txt
+2026-06-11_Xix-qwmyPkE	/Users/badat/linhtinh/trade_dai_han/transcripts/zip_clean/2026-06-11_Xix-qwmyPkE.txt
+2026-06-12_x75V4Kb1fj4	/Users/badat/linhtinh/trade_dai_han/transcripts/zip_clean/2026-06-12_x75V4Kb1fj4.txt
+2026-06-15_yyy2aP8nOHc	/Users/badat/linhtinh/trade_dai_han/transcripts/zip_clean/2026-06-15_yyy2aP8nOHc.txt
+2026-06-23_w3K-VXD_Tns	/Users/badat/linhtinh/trade_dai_han/transcripts/zip_clean/2026-06-23_w3K-VXD_Tns.txt
+2026-06-24_ZrqOEgiFEF8	/Users/badat/linhtinh/trade_dai_han/transcripts/zip_clean/2026-06-24_ZrqOEgiFEF8.txt
+2026-06-25_gy-YwzytUiA	/Users/badat/linhtinh/trade_dai_han/transcripts/zip_clean/2026-06-25_gy-YwzytUiA.txt
+2026-06-26_UzjWDBAiahs	/Users/badat/linhtinh/trade_dai_han/transcripts/zip_clean/2026-06-26_UzjWDBAiahs.txt
+2026-06-29_wyCTvVbTVPE	/Users/badat/linhtinh/trade_dai_han/transcripts/zip_clean/2026-06-29_wyCTvVbTVPE.txt
+2026-06-30_h3mwuQrqabM	/Users/badat/linhtinh/trade_dai_han/transcripts/zip_clean/2026-06-30_h3mwuQrqabM.txt

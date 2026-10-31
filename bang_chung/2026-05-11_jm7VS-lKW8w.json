@@ -1,0 +1,240 @@
+[
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[0].trich",
+  "trich": "Tệ cũng phải về vùng 80, mình nghĩ vùng 80 sẽ là vùng quan sát trước mắt. Quan sát đã chứ chưa vào được đâu. Còn nếu xấu nữa thì nó về đến tận 78 hoặc 77.000.",
+  "giay": 1832,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=jm7VS-lKW8w&t=1832s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[1].trich",
+  "trich": "Vùng này long cũng chưa được mà short cũng chưa xong, cho nên phải ngồi ngoài chờ.",
+  "giay": 3719,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=jm7VS-lKW8w&t=3719s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[2].trich",
+  "trich": "Vùng này là một vùng hết sức thận trọng. Cực kỳ nguy hiểm. Và kết quả chúng ta sẽ biết được xu hướng sau cây nến tuần này.",
+  "giay": 1239,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=jm7VS-lKW8w&t=1239s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[3].trich",
+  "trich": "Điều kiện để big short là nó xử lý xong hết tất cả target của nhịp long.",
+  "giay": 4258,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=jm7VS-lKW8w&t=4258s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "lenh[0].trich",
+  "trich": "Mình đoán canh short được ở quanh vùng 81.000, SL đâu đó trên 81.600, 81.700 gì đó, chắc đẹp.",
+  "giay": 3835,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=jm7VS-lKW8w&t=3835s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "lenh[1].trich",
+  "trich": "Nếu long thì mình đang canh ở vùng 77 đến 78.",
+  "giay": 3795,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=jm7VS-lKW8w&t=3795s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[0].trich",
+  "trich": "đo từ vùng 97 về đến vùng sâu nhất của giai đoạn vừa rồi là 59.800. Thì đây sẽ là Fibo 0.618 ... Vừa là MA, vừa là Fibonacci, vừa là kháng cự theo price action ... Vừa là lấp gap 82",
+  "giay": 926,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=jm7VS-lKW8w&t=926s",
+  "anh": [
+   {
+    "file": "so_tay/khung/jm7VS-lKW8w_001501.jpg",
+    "giay": 901,
+    "lech": -25
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[1].trich",
+  "trich": "đo từ vùng 97 về đến vùng sâu nhất của giai đoạn vừa rồi là 59.800",
+  "giay": 926,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=jm7VS-lKW8w&t=926s",
+  "anh": [
+   {
+    "file": "so_tay/khung/jm7VS-lKW8w_001501.jpg",
+    "giay": 901,
+    "lech": -25
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[2].trich",
+  "trich": "vùng sâu nhất của giai đoạn vừa rồi là 59.800",
+  "giay": 928,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=jm7VS-lKW8w&t=928s",
+  "anh": [
+   {
+    "file": "so_tay/khung/jm7VS-lKW8w_001501.jpg",
+    "giay": 901,
+    "lech": -27
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[3].trich",
+  "trich": "Chúng ta có một xu hướng điều chỉnh từ vùng 120 từ đỉnh",
+  "giay": 1369,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=jm7VS-lKW8w&t=1369s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[4].trich",
+  "trich": "Gap này thì nó nằm ở đâu đó khoảng 83.000. Chưa xong nhưng mà thiếu một tí nữa",
+  "giay": 495,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=jm7VS-lKW8w&t=495s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[5].trich",
+  "trich": "Bên Liquid thì chúng ta có một vùng ở 83, nhưng vùng này mình không tin tưởng lắm ... Nếu nó lên được đây mình nghĩ là short được",
+  "giay": 2184,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=jm7VS-lKW8w&t=2184s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[6].trich",
+  "trich": "râu nến tuần này nó quét lên đến khoảng 84. Quét lên 84 sau đó nó gãy xuống cũng được",
+  "giay": 1176,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=jm7VS-lKW8w&t=1176s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[7].trich",
+  "trich": "92 thì có lẽ là điểm tối đa của nhịp hồi lần này",
+  "giay": 527,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=jm7VS-lKW8w&t=527s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[8].trich",
+  "trich": "Tệ cũng phải về vùng 80 ... Hỗ trợ 80 này sẽ yếu hơn",
+  "giay": 1832,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=jm7VS-lKW8w&t=1832s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[9].trich",
+  "trich": "Một là vùng 80. Hai là vùng 77.000. 77 chứ không phải 78. MA200 ở trên H4 ... gap nhỏ ở 78.000 ... chờ 78.300 cho đến 77.000",
+  "giay": 1880,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=jm7VS-lKW8w&t=1880s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[10].trich",
+  "trich": "Gap nhỏ này ở 78.000. 78.0003. Thế thì nếu giá nó quét về đến 78.0003 thì nó sẽ clear được hai cái gap",
+  "giay": 1931,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=jm7VS-lKW8w&t=1931s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[11].trich",
+  "trich": "khi giá về đến MA200 là 77.000 thì lúc này ở trên khung ngày chúng ta sẽ mất đi cấu trúc sóng tăng ... quan sát phản ứng của cây nến ngày ở quanh vùng 76-77",
+  "giay": 1758,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=jm7VS-lKW8w&t=1758s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[12].trich",
+  "trich": "Nó lên được vùng 81.000 này, vùng MA34 hoặc cụm này ... mình sẽ canh một entry để short",
+  "giay": 3645,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=jm7VS-lKW8w&t=3645s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[13].trich",
+  "trich": "canh short được ở quanh vùng 81.000, SL đâu đó trên 81.600, 81.700",
+  "giay": 3837,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=jm7VS-lKW8w&t=3837s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[14].trich",
+  "trich": "để kết thúc nhịp hồi lớn này thực sự thì sẽ dưới 70.000. Dưới 70.000 thì mình nghĩ mọi thứ sẽ xong",
+  "giay": 4115,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=jm7VS-lKW8w&t=4115s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[15].trich",
+  "trich": "Từ giờ đến gần World Cup có thể giá về 50.000 luôn cũng có",
+  "giay": 4167,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=jm7VS-lKW8w&t=4167s",
+  "anh": []
+ }
+]

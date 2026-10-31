@@ -1,0 +1,329 @@
+{
+  "buoi": "2026-07-15_-T8Wu5b89B4",
+  "ngay": "2026-07-15",
+  "gia_btc_luc_noi": 64000,
+  "moc": [
+    {
+      "gia": 65000,
+      "gia_tren": null,
+      "vai_tro": "entry",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": "00:11:44",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Short ở 65.000, SL ở đâu? SL entry thôi (người xem hỏi)"
+    },
+    {
+      "gia": 63000,
+      "gia_tren": null,
+      "vai_tro": "vo_hieu",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "gãy cấu trúc sóng tăng H4"
+      ],
+      "moc_gio": "00:12:16",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "về lại vùng đâu đó khoảng 63 thì mới xác nhận nhịp này fake out để về dưới này"
+    },
+    {
+      "gia": 64000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "cản rất lớn, nến D1 đã phá"
+      ],
+      "moc_gio": "00:22:01",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "cây này phá những cản trước đó. Vùng 64 là một cản rất lớn"
+    },
+    {
+      "gia": 61000,
+      "gia_tren": null,
+      "vai_tro": "vo_hieu",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "hỗ trợ D1 / H4"
+      ],
+      "moc_gio": "00:22:01",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Nó cần gãy khỏi vùng 6100 này thì mới ok"
+    },
+    {
+      "gia": 66000,
+      "gia_tren": 67000,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "MA H4 bẻ lên, giá đóng trên MA200 H4",
+        "trendline H4"
+      ],
+      "moc_gio": "00:23:03",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "khả năng cực kỳ cao nhịp này tiếp tục đi lên thêm một khúc nữa khoảng 67 66"
+    },
+    {
+      "gia": 66000,
+      "gia_tren": 67000,
+      "vai_tro": "entry",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "trendline H4"
+      ],
+      "moc_gio": "00:26:12",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Nếu muốn short thực sự thì anh em phải chờ 66 đến 67 H4"
+    },
+    {
+      "gia": 62000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "trendline H4",
+        "test MA200 H4 rồi break lên"
+      ],
+      "moc_gio": "00:26:43",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Test về 62 một phát rồi mới break lên và đi tiếp"
+    },
+    {
+      "gia": 63000,
+      "gia_tren": 64000,
+      "vai_tro": "entry",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [],
+      "moc_gio": "00:27:46",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "hai vùng khả thi: một là 63.00 cho đến 64.00, hai là 62.000"
+    },
+    {
+      "gia": 62000,
+      "gia_tren": 62300,
+      "vai_tro": "entry",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "vùng dưới"
+      ],
+      "moc_gio": "00:27:14",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "chờ về vùng dưới này 62.00 đến 62.300. SL rất gần khoảng 500 giá, 61.00"
+    },
+    {
+      "gia": 61000,
+      "gia_tren": null,
+      "vai_tro": "sl",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [],
+      "moc_gio": "00:27:14",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "stop loss rất gần, chỉ khoảng 500 giá thôi, 61.00. Thủng vào thằng này là chạy"
+    },
+    {
+      "gia": 66000,
+      "gia_tren": 67000,
+      "vai_tro": "tp",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [],
+      "moc_gio": "00:28:20",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "nếu long thì tối đa cũng phải chốt lãi ở 66 67"
+    },
+    {
+      "gia": 66000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "USDT.D về 8.1"
+      ],
+      "moc_gio": "00:29:30",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "đẹp nhất là USDT.D về 8.1 thì chắc BTC lên được 66"
+    },
+    {
+      "gia": 63000,
+      "gia_tren": null,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": "M15",
+      "can_cu": [
+        "cụm thanh lý Coinglass"
+      ],
+      "moc_gio": "00:30:41",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Coinglass hôm qua quét được vùng 63.000... vẫn tiếp tục hai đầu 63.000 với 65.000"
+    },
+    {
+      "gia": 65000,
+      "gia_tren": null,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": "M15",
+      "can_cu": [
+        "cụm thanh lý Coinglass"
+      ],
+      "moc_gio": "00:30:41",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "hai đầu 63.000 với 65.000"
+    },
+    {
+      "gia": 63800,
+      "gia_tren": null,
+      "vai_tro": "entry",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [],
+      "moc_gio": "00:31:18",
+      "tai_san": "BTC",
+      "chac": false,
+      "trich": "SL 63K8 hay đợi H4 dưới 63K8? Thực tế đó là vùng entry (người xem hỏi), SL đợi H4 thủng"
+    },
+    {
+      "gia": 64000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "M5",
+      "can_cu": [
+        "break và back test M5 vùng 64.000"
+      ],
+      "moc_gio": "00:33:27",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Back test ngay vùng 64.000 lúc nãy đang phân tích. 5 phút như vậy thì tốt nhất là không nên short nữa"
+    },
+    {
+      "gia": 61600,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "Fibo (vùng Fibo ở dưới)"
+      ],
+      "moc_gio": "00:51:26",
+      "tai_san": "BTC",
+      "chac": false,
+      "trich": "về 61.000, mốc 6160 là đẹp"
+    },
+    {
+      "gia": 61600,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "Fibo (vùng Fibo ở dưới)"
+      ],
+      "moc_gio": "00:51:26",
+      "tai_san": "BTC",
+      "chac": false,
+      "trich": "chờ nó về đến vùng Fibo... về 61.000, mốc 6160 là đẹp. Hai vùng hôm qua nói"
+    },
+    {
+      "gia": 61000,
+      "gia_tren": null,
+      "vai_tro": "nhac_lai",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "Fibo"
+      ],
+      "moc_gio": "00:51:26",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "về 61.000 ... Hai vùng hôm qua nói mọi người, thật tiếc là nó không về"
+    },
+    {
+      "gia": 66000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "mô hình cờ"
+      ],
+      "moc_gio": "00:52:27",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "nó đi lên trên này và phá lên được thì đi tiếp mô hình cờ và tăng lên tiếp khoảng 66"
+    },
+    {
+      "gia": 64000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "GIAM",
+      "khung": "M30",
+      "can_cu": [
+        "Fibo, mô hình vai đầu vai"
+      ],
+      "moc_gio": "00:52:58",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Kịch bản hai là bị bán xuống trong vùng từ 64.000 này... thành mô hình vai đầu vai"
+    },
+    {
+      "gia": 63000,
+      "gia_tren": 64000,
+      "vai_tro": "entry",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [],
+      "moc_gio": "00:52:58",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "đẹp nhất nếu nó về 64 hoặc 63.000 này"
+    },
+    {
+      "gia": 62000,
+      "gia_tren": null,
+      "vai_tro": "entry",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [],
+      "moc_gio": "00:52:58",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "thứ hai nữa là về đến vùng 62. Đó là hai vùng mình chờ và đánh"
+    },
+    {
+      "gia": 50000,
+      "gia_tren": null,
+      "vai_tro": "entry",
+      "huong": "TANG",
+      "khung": "W1",
+      "can_cu": [],
+      "moc_gio": "00:41:34",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "BTC dưới 50 ... thực tế cũng mua ít ít được rồi"
+    }
+  ]
+}

@@ -1,0 +1,242 @@
+[
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[0].trich",
+  "trich": "Target... nếu thị trường không thủng khỏi vùng 66, 68 này thì mình nghĩ vẫn giữ nguyên target cũ là 78 cho đến 80.",
+  "giay": 3138,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=mBEBKzBb4kU&t=3138s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[1].trich",
+  "trich": "Đoạn này anh em hỏi đánh chiều nào thì mình nghĩ vẫn đánh hai chiều thôi, cả long cả short.",
+  "giay": 2775,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=mBEBKzBb4kU&t=2775s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "lenh[0].trich",
+  "trich": "Mình cho anh em Long từ đêm ngày hôm qua nó đã khớp entry bây giờ đang lãi rồi. SL 69.000, 69900.",
+  "giay": 1294,
+  "do_giong": 0.826,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=mBEBKzBb4kU&t=1294s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "lenh[1].trich",
+  "trich": "điều kiện là stop loss ở 70.000, thủng là cắt, M5 mà đóng dưới cái này là anh em phải thoát gấp.",
+  "giay": 2916,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=mBEBKzBb4kU&t=2916s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[0].trich",
+  "trich": "thị trường gãy từ vùng 96 về đến 62, mình đã đo target của mô hình cờ này về 62 là ngay vùng đáy",
+  "giay": 1656,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=mBEBKzBb4kU&t=1656s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[1].trich",
+  "trich": "vút lên một phát chiều nay chúng ta thấy giá lên trên 72 thì chứng tỏ lực mua siêu to khổng lồ",
+  "giay": 2249,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=mBEBKzBb4kU&t=2249s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[2].trich",
+  "trich": "Đôi khi nó hồi lên đến 72.200 này. Nó hồi lên đây rồi nó rụng tiếp",
+  "giay": 2517,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=mBEBKzBb4kU&t=2517s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[3].trich",
+  "trich": "nếu xét sóng dài này thì Fibo 0.5 nằm ở ngay vùng 68 này",
+  "giay": 2579,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=mBEBKzBb4kU&t=2579s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[4].trich",
+  "trich": "nhịp sóng ngắn ở H1 đang ở Fibo 0.5... hồi nhẹ lên khoảng 72 sau đó lại dump về 68, 69",
+  "giay": 2589,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=mBEBKzBb4kU&t=2589s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[5].trich",
+  "trich": "hồi nhẹ lên khoảng 72 sau đó lại dump về 68, 69 cũng bình thường",
+  "giay": 2598,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=mBEBKzBb4kU&t=2598s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[6].trich",
+  "trich": "nó điều chỉnh tiếp về 2,3%. Nó về đến 69k5 đúng không? Là vừa khít luôn. Vừa khít để quét stop loss",
+  "giay": 2693,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=mBEBKzBb4kU&t=2693s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[7].trich",
+  "trich": "nếu nó không thủng khỏi 71.000 thì vẫn có cửa đi lên tiếp",
+  "giay": 2796,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=mBEBKzBb4kU&t=2796s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[8].trich",
+  "trich": "giữ tiếp lên đến khoảng 71.600 cho đến khoảng 72.000, chốt lại đối với lệnh scalping",
+  "giay": 2806,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=mBEBKzBb4kU&t=2806s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[9].trich",
+  "trich": "bắt buộc đối với scalping là phải SL ở dưới vùng 70 này, nó thủng thì cấu trúc M5 bị phá vỡ",
+  "giay": 2822,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=mBEBKzBb4kU&t=2822s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[10].trich",
+  "trich": "Target nếu thị trường không thủng khỏi vùng 66, 68 này thì vẫn giữ nguyên target cũ là 78 cho đến 80",
+  "giay": 3138,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=mBEBKzBb4kU&t=3138s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[11].trich",
+  "trich": "vẫn giữ nguyên target cũ là 78 cho đến 80",
+  "giay": 3145,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=mBEBKzBb4kU&t=3145s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[12].trich",
+  "trich": "Hôm qua nó về lấp gap 71 rồi, gap nhỏ này đã húp xong",
+  "giay": 3153,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=mBEBKzBb4kU&t=3153s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[13].trich",
+  "trich": "Heatmap: 72 này. 72, 73 luôn... đám liquid mới tạo ra, hy vọng nó quét lên được 72",
+  "giay": 3230,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=mBEBKzBb4kU&t=3230s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[14].trich",
+  "trich": "Còn một đám nho nhỏ ở vùng 70 thôi. Vùng 71.000 hôm qua cũng bị húp rồi",
+  "giay": 3352,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=mBEBKzBb4kU&t=3352s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[15].trich",
+  "trich": "có một đám rất lớn ở 64... nếu thủng 65 này thì khả năng thị trường đảo chiều luôn, về down trend tiếp",
+  "giay": 3416,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=mBEBKzBb4kU&t=3416s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[16].trich",
+  "trich": "những đợt vừa rồi có những đám dài hạn nằm ở 75, thị trường kéo lên 76 quét hết",
+  "giay": 3404,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=mBEBKzBb4kU&t=3404s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[17].trich",
+  "trich": "Nếu nó lên quét ở trên 72 thì bạn có thể tìm điểm short... Nó lên test MA34 ở H1 thì may ra mới có điểm short",
+  "giay": 4369,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=mBEBKzBb4kU&t=4369s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[18].trich",
+  "trich": "nó rút lên trên Fibo, tức trên 70, thì lại có cơ sở để đi lên. Target 2 nằm ở trên 72",
+  "giay": 4397,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=mBEBKzBb4kU&t=4397s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[19].trich",
+  "trich": "70k8 SL 70k3 không đánh ở đó cũng rất dễ bị stop loss",
+  "giay": 4182,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=mBEBKzBb4kU&t=4182s",
+  "anh": []
+ }
+]

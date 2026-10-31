@@ -1,0 +1,98 @@
+{
+  "buoi": "2026-05-18_phLlmyf_8-w",
+  "ngay": "2026-05-18",
+  "gio_vn": "10:00",
+  "gia_btc_luc_noi": 76000,
+  "nhan_dinh": [
+    {
+      "khung": "H4",
+      "huong": "GIAM",
+      "do_chac": "cao",
+      "dich": [71000, 72000],
+      "han": "chưa nói rõ; ngắn hạn hôm nay có thể có nhịp hồi/sideway",
+      "han_gio": null,
+      "vo_hieu_khi": "chưa nói; plan chờ long 76.000 bỏ nếu H4 đóng thủng 76.000",
+      "kich_ban_phu": "hôm nay có thể dump 76.200 rồi rút lên 78 (quét liquid) nhưng không long; nếu không hồi H4 mà xấu thêm thì chịu",
+      "ly_do": [
+        "cấu trúc giảm trên H4, xu hướng chính là giảm, ưu tiên short",
+        "MA H4 bắt đầu đảo chiều, giá xa MA, 30 phút mô hình cờ giảm",
+        "gap mới 78.000-79.000 chưa lấp; hai đáy 76.600 đang test",
+        "USDT.D bật lên từ hỗ trợ"
+      ],
+      "trich": "Tạo cấu trúc giảm trên H4, xu hướng chính là giảm, ưu tiên short. Vùng mục tiêu là về quanh 78, test vùng 77.",
+      "doi_y": null,
+      "duong_di": [
+        {"huong": "GIAM", "dich": 76200},
+        {"huong": "TANG", "dich": [78500, 79000]},
+        {"huong": "GIAM", "dich": [75000, 76000]}
+      ]
+    },
+    {
+      "khung": "W1",
+      "huong": "GIAM",
+      "do_chac": "cao",
+      "dich": [71000, 72000],
+      "han": null,
+      "han_gio": null,
+      "vo_hieu_khi": "về 72 mà giữ được và đi lên thì mới có nhịp tăng; thủng 72 thì downtrend sâu hơn",
+      "kich_ban_phu": "nếu về 72 và phục hồi thì chỉ là nhịp điều chỉnh",
+      "ly_do": [
+        "vai đầu vai, đỉnh đáy sau thấp hơn trước, hồi lên test cản ngay Fibo 0.5/0.618 (83) rồi rụng",
+        "cặp nến tuần nhấn chìm phủ nhận lực tăng, MA tuần cross",
+        "nhịp tăng vừa rồi coi như đã xong"
+      ],
+      "trich": "Trên khung tuần của chúng ta đang là xu hướng giảm cực kỳ rõ. Confirm đảo chiều cực kỳ rõ.",
+      "doi_y": null,
+      "duong_di": null
+    },
+    {
+      "khung": "D1",
+      "huong": "GIAM",
+      "do_chac": "vua",
+      "dich": [71000, 72000],
+      "han": null,
+      "han_gio": null,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": "hồi lên chỉ để quét thanh khoản short",
+      "ly_do": ["MA34 D1 bị xuyên thủng một nến, không còn là hỗ trợ", "đang gặp MA nhưng bản chất vẫn muốn đi xuống tiếp"],
+      "trich": "Nếu các bạn dựa vào việc nó đang gặp MA ở khung ngày để long lên là chết, là sai.",
+      "doi_y": null,
+      "duong_di": null
+    }
+  ],
+  "vung_gia": {"khang_cu": [78500, 79000], "ho_tro": [71000, 72000]},
+  "lenh": [
+    {"chieu": "SHORT", "loai": "chờ hồi (limit/phản ứng)", "vao": [78500, 79000], "tp": [76000, 75000], "sl": null,
+     "trang_thai": "de_xuat_moi",
+     "trich": "Nếu giá hồi lên được khoảng vùng 79.000 cũng là vị thế đẹp để chúng ta tìm vị thế và short ở trên H1 này."},
+    {"chieu": "LONG", "loai": "chỉ bắt hồi có điều kiện", "vao": 76000, "tp": null, "sl": null,
+     "trang_thai": "de_xuat_moi",
+     "trich": "Nếu bắt long hồi thì phải có điều kiện: phải có một cú dump. Ví dụ nó dump về 76, sau đó thấy nó hồi lên rất nhanh thì có thể mình bắt long hồi, ăn xong hồi."},
+    {"chieu": "SHORT", "loai": "bot short", "vao": null, "tp": null, "sl": null,
+     "trang_thai": "dang_giu",
+     "trich": "Hiện tại mình check con bot thì thấy vẫn đang lãi nhiều... đang lãi 36%."}
+  ],
+  "nhin_lai_truoc": "Đã cảnh báo chốt lãi ở 81-82, chốt gần sạch spot lướt (LINK 10.5, ETH 2380 mấy), còn 1% dài hạn; từ ngày 13/15 báo cấu trúc giảm H4, ưu tiên short, mục tiêu 78-77 đúng; lệnh short 78k5 hôm qua bị quét SL.",
+  "cong_cu": ["Fibo 0.5/0.618", "MA34 H4", "gap CME 78/83/90", "heatmap liquid", "Fear & Greed", "USDT.D", "BTC.D", "cấu trúc đỉnh đáy tuần", "bot short"],
+  "tin_tuc": [{"tin": "Tuần này không có tin quan trọng; chủ tịch FED mới đang đưa quan điểm", "danh_gia": "phải tìm hiểu phong cách chủ tịch mới, không dùng khuôn Powell"}],
+  "thoi_quen": [
+    "chốt lãi quyết liệt ở vùng cản theo plan có sẵn, không suy nghĩ lại",
+    "short thuận xu hướng chờ hồi lên cản, không FOMO short khi giá xa MA",
+    "chỉ bắt long hồi khi có cú dump quét xong long",
+    "vùng giữa không có kèo thì ngồi ngoài ('vùng đói ăn')",
+    "swing 2-3 lệnh/tuần, tài khoản scalp tách riêng"
+  ],
+  "cau_cua_mieng": [
+    "Chúng ta không biết đâu là đỉnh mà chỉ biết đâu là đủ.",
+    "Chưa chốt thì thị trường chốt giúp.",
+    "Chủ quan là chết."
+  ],
+  "altcoin": [
+    {"coin": "ETH", "huong": "GIAM", "ghi": "gãy support, nếu chạy cờ giảm nữa thì về 1100-1200; hai MA sắp cắt"},
+    {"coin": "SOL", "huong": "GIAM", "ghi": "giảm mạnh, có thể về 12-13 đô"},
+    {"coin": "TON", "huong": "GIAM", "ghi": "hồi tối đa 2 đô rồi gãy tiếp"},
+    {"coin": "USDT.D", "huong": "TANG", "ghi": "bật từ hỗ trợ, phá xu hướng giảm thì thị trường quay đầu"},
+    {"coin": "SUI", "huong": "GIAM", "ghi": "BTC chia đôi thì altcoin tệ lắm chia đôi, SUI về khoảng 0.3 cũng hợp lý"}
+  ],
+  "ghi_chu": "Tên file không có giờ, gio_vn đặt 10:00. Đọc '76.200'. 'bảy mươi sáu nghìn hai' = 76.200. Vàng: hạn chế sell, tăng test MA200. Phần cuối nhiều câu hỏi đáp altcoin dài hạn."
+}

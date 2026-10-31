@@ -1,0 +1,356 @@
+{
+  "buoi": "2026-02-27_9wE4YYq3P6Y",
+  "ngay": "2026-02-27",
+  "gia_btc_luc_noi": 67800,
+  "moc": [
+    {
+      "gia": 67000,
+      "gia_tren": 68000,
+      "vai_tro": "khang_cu",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [
+        "vùng bán dày phía trên"
+      ],
+      "moc_gio": "00:28:27",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "vùng trên này rõ ràng là một vùng bán khá dày cho nên lực bán liên tục xuất hiện thì giá bị chững lại ở vùng 67 68 này"
+    },
+    {
+      "gia": 69000,
+      "gia_tren": null,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý nhỏ / Coinglass"
+      ],
+      "moc_gio": "00:24:09",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Coinglass... những vùng liquid nhỏ. Ví dụ như 69.000, 67.000 hoặc là 68.000"
+    },
+    {
+      "gia": 66000,
+      "gia_tren": null,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý nhỏ / Coinglass"
+      ],
+      "moc_gio": "00:24:09",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Ở dưới này thì có những vùng như là 66.000"
+    },
+    {
+      "gia": 65000,
+      "gia_tren": 66000,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "Fibo 0.5",
+        "vùng hỗ trợ của nến bên trái"
+      ],
+      "moc_gio": "00:29:34",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Fibo cho chúng ta kết quả ở 66.000 và 65.000... bắt ở các vùng Fibo 0.5 và kết hợp vùng hỗ trợ của nến bên tay trái"
+    },
+    {
+      "gia": 67000,
+      "gia_tren": null,
+      "vai_tro": "vo_hieu",
+      "huong": "TANG",
+      "khung": "H1",
+      "can_cu": [],
+      "moc_gio": "00:30:10",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Nếu H1 hoặc H4 đóng thủng thấp hơn 67 này thì mình tin rằng giá sẽ quay về được vùng 66 cho đến 65"
+    },
+    {
+      "gia": 64000,
+      "gia_tren": null,
+      "vai_tro": "sl",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [],
+      "moc_gio": "00:30:41",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Nếu giá H4 đóng thấp hơn 64.000 thì tất cả các lệnh long mình khuyên anh em hãy thoát"
+    },
+    {
+      "gia": 68000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "MA89 H4",
+        "MA34 H4",
+        "đỉnh H4 stop loss lệnh short"
+      ],
+      "moc_gio": "00:31:12",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "giết những lệnh short đặt stop loss ở trên cây H4 là 6800... lên test đúng đường MA89 ở khung H4 đồng thời trùng với MA34"
+    },
+    {
+      "gia": 70000,
+      "gia_tren": null,
+      "vai_tro": "tp",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [],
+      "moc_gio": "00:31:47",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "tối đa của nhịp này chúng ta hãy ăn ở khoảng quanh 70"
+    },
+    {
+      "gia": 70000,
+      "gia_tren": 73000,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": "H4",
+      "can_cu": [
+        "vùng hỗn chiến"
+      ],
+      "moc_gio": "00:31:47",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "từ vùng 70 cho đến 73, 74 này anh em đừng có đánh. 3000 giá chết chóc"
+    },
+    {
+      "gia": 73000,
+      "gia_tren": 74000,
+      "vai_tro": "vo_hieu",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "MA200 (nói MA34, 89, 200)"
+      ],
+      "moc_gio": "00:32:21",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Khi thấy giá break lên được khỏi vùng 73 này, chúng ta mới chơi. Nó lên được đây thì khả năng nó lên được 80"
+    },
+    {
+      "gia": 80000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "gap CME 80"
+      ],
+      "moc_gio": "00:32:21",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "chúng ta chỉ cần ăn được nhịp từ 74 lên đến 80"
+    },
+    {
+      "gia": 64000,
+      "gia_tren": null,
+      "vai_tro": "vo_hieu",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "đáy thấp H4"
+      ],
+      "moc_gio": "00:32:55",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "nó thủng về hẳn khỏi 64.000 này bắt đầu chúng ta có thể short về dưới này"
+    },
+    {
+      "gia": 67000,
+      "gia_tren": 68000,
+      "vai_tro": "entry",
+      "huong": "TANG",
+      "khung": "H1",
+      "can_cu": [
+        "break lại"
+      ],
+      "moc_gio": "00:32:55",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "break lên lại trên vùng 67 68 gì đây thì chúng ta có thể đánh đuổi lên đến vùng 70"
+    },
+    {
+      "gia": 69000,
+      "gia_tren": null,
+      "vai_tro": "tp",
+      "huong": "TANG",
+      "khung": "H1",
+      "can_cu": [
+        "mô hình hai đáy H1 kẹp MA34 và MA89"
+      ],
+      "moc_gio": "00:33:58",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "mình sẽ TP ở 69.000 thôi. Hoặc là chừa ít vốn thì gồng lên đến 70 mình chốt"
+    },
+    {
+      "gia": 66000,
+      "gia_tren": null,
+      "vai_tro": "sl",
+      "huong": "TANG",
+      "khung": "H1",
+      "can_cu": [
+        "đáy bên trái"
+      ],
+      "moc_gio": "00:34:31",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "nó sẽ phải thủng đến 66.000 này thì chúng ta sẽ cân nhắc, hoặc là thủng cái đáy bên này 66.000"
+    },
+    {
+      "gia": 73000,
+      "gia_tren": 74000,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "M30",
+      "can_cu": [
+        "mô hình cờ M30/H1"
+      ],
+      "moc_gio": "00:36:14",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Nếu nhịp này chạy đúng mô hình cờ nó sẽ đẩy giá lên đến 74 luôn... phá lên khỏi vùng 73"
+    },
+    {
+      "gia": 80000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "gap CME"
+      ],
+      "moc_gio": "00:38:23",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Gap thì vẫn còn là gap 80 với gap 93. Gap dưới thì 20"
+    },
+    {
+      "gia": 93000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "gap CME"
+      ],
+      "moc_gio": "00:38:23",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "gap 80 với gap 93"
+    },
+    {
+      "gia": 20000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "gap CME"
+      ],
+      "moc_gio": "00:38:23",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Gap dưới thì 20"
+    },
+    {
+      "gia": 66000,
+      "gia_tren": 66500,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý long chưa quét hết"
+      ],
+      "moc_gio": "00:40:02",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "giá có khả năng gãy xuống vùng 6665"
+    },
+    {
+      "gia": 66800,
+      "gia_tren": null,
+      "vai_tro": "sl",
+      "huong": "TANG",
+      "khung": "H1",
+      "can_cu": [],
+      "moc_gio": "00:45:40",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "nếu nó thủng xấu về 66k8 thì cắt, rồi chờ về 66k3, nếu có tín hiệu đẹp thì mới vào lại"
+    },
+    {
+      "gia": 66300,
+      "gia_tren": null,
+      "vai_tro": "entry",
+      "huong": "TANG",
+      "khung": "H1",
+      "can_cu": [],
+      "moc_gio": "00:45:40",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "chờ về 66k3, nếu có tín hiệu đẹp thì mới vào lại"
+    },
+    {
+      "gia": 69000,
+      "gia_tren": null,
+      "vai_tro": "tp",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": "00:53:49",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Chốt ở quanh vùng 69 hoặc cùng lắm là 70 là phải cút"
+    },
+    {
+      "gia": 73000,
+      "gia_tren": null,
+      "vai_tro": "tp",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": "00:53:49",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "giữ lại khoảng 30% volume thôi và chờ lên đến khoảng 73 chốt"
+    },
+    {
+      "gia": 70500,
+      "gia_tren": null,
+      "vai_tro": "tp",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": "01:01:20",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "gồng lên khoảng 70.500 chốt tiếp 20% nữa"
+    },
+    {
+      "gia": 69400,
+      "gia_tren": null,
+      "vai_tro": "tp",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": "01:03:45",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Bitcoin 69k4 TP1"
+    }
+  ]
+}

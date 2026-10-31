@@ -1,0 +1,351 @@
+{
+  "buoi": "2026-08-25_1003_nSxBbLai2mE",
+  "ngay": "2026-08-25",
+  "gia_btc_luc_noi": 81000,
+  "moc": [
+    {
+      "gia": 82000,
+      "gia_tren": 83000,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "bình chọn khán giả",
+        "quét thanh khoản stop loss phía trên"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "82, 83 cho câu chuyện ngắn hạn... lên quét 83 để kill cản"
+    },
+    {
+      "gia": 78000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "xu hướng/vùng break hôm qua"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "Khi nó đã break ra khỏi 78 thì sẽ đánh lên 79"
+    },
+    {
+      "gia": 79000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "Khi nó đã break ra khỏi 78 thì sẽ đánh lên 79"
+    },
+    {
+      "gia": 77000,
+      "gia_tren": null,
+      "vai_tro": "vo_hieu",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "plan Telegram sáng hôm qua"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "nếu gãy xuống dưới 77 thì chúng ta đánh về 75"
+    },
+    {
+      "gia": 75000,
+      "gia_tren": null,
+      "vai_tro": "nhac_lai",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "plan Telegram hôm qua"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "gãy xuống dưới 77 thì chúng ta đánh về 75"
+    },
+    {
+      "gia": 80000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": null,
+      "khung": null,
+      "can_cu": [
+        "số tròn / vùng break"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "Giá break ra khỏi 80.000 thì tinh thần thị trường rất FOMO"
+    },
+    {
+      "gia": 59000,
+      "gia_tren": 65000,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": null,
+      "can_cu": [
+        "kịch bản sideway 5%"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "Bitcoin sideway vùng 59 đến 65 rồi đi lên vòng mới... khoảng 5%"
+    },
+    {
+      "gia": 20000,
+      "gia_tren": 30000,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "W1",
+      "can_cu": [
+        "kỳ vọng đáy cá nhân"
+      ],
+      "moc_gio": null,
+      "chac": false,
+      "trich": "không về được vùng đáy như mình kỳ vọng là 30, hay 20"
+    },
+    {
+      "gia": 65000,
+      "gia_tren": 67000,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "chỉ về test lại vùng 67, 65 rồi lòng vòng"
+    },
+    {
+      "gia": 76000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "M30",
+      "can_cu": [
+        "MA200 M30"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "MA200 của 30 phút là 76.000"
+    },
+    {
+      "gia": 73000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "H1",
+      "can_cu": [
+        "MA200 H1"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "MA200 của H1 đến tận 73.000, rất sâu"
+    },
+    {
+      "gia": 76000,
+      "gia_tren": 77000,
+      "vai_tro": "ho_tro",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "râu 77.000",
+        "cụm thanh lý long"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "nếu rụng một phát thì về luôn 76... thấp hơn cái râu 77.000"
+    },
+    {
+      "gia": 80000,
+      "gia_tren": null,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý short"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "Có một vùng dày... short rất nhiều và hiện tại nó đã kill 80 rồi"
+    },
+    {
+      "gia": 59000,
+      "gia_tren": 62000,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý / heatmap"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "Thanh khoản đại đa số bây giờ dồn ở 59 với 62"
+    },
+    {
+      "gia": 66000,
+      "gia_tren": null,
+      "vai_tro": "vo_hieu",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "vượt qua 66.000 thì tuyệt đối đừng short nữa"
+    },
+    {
+      "gia": 70000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "trendline",
+        "back test sau break"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "FOMO thì chắc cũng phải chờ back test, back test non non tí thì khoảng tầm 70"
+    },
+    {
+      "gia": 40000,
+      "gia_tren": 49999,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "đáy kỳ vọng tháng 9-11"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "đáy 4x sẽ được tạo ra"
+    },
+    {
+      "gia": 40000,
+      "gia_tren": 50000,
+      "vai_tro": "entry",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "kế hoạch mua mạnh cá nhân"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "mua mạnh từ vùng dưới 50, 4 đến 5 là mua gần như ok hàng"
+    },
+    {
+      "gia": 20000,
+      "gia_tren": 30000,
+      "vai_tro": "entry",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": null,
+      "chac": false,
+      "trich": "short về 3, về 2 thì dồn tiếp"
+    },
+    {
+      "gia": 60000,
+      "gia_tren": 69999,
+      "vai_tro": "entry",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "Còn ở 6x thì có mua nhưng mua ít"
+    },
+    {
+      "gia": 83000,
+      "gia_tren": null,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": "H4",
+      "can_cu": [
+        "gap CME"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "Gap 83 lấp rồi, 78 lấp xong rồi"
+    },
+    {
+      "gia": 78000,
+      "gia_tren": null,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": "H4",
+      "can_cu": [
+        "gap CME"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "78 lấp xong rồi"
+    },
+    {
+      "gia": 90000,
+      "gia_tren": null,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": null,
+      "can_cu": [
+        "gap CME / bình chọn"
+      ],
+      "moc_gio": null,
+      "chac": false,
+      "trich": "Còn gap 90 nữa thôi... 90 hết rồi"
+    },
+    {
+      "gia": 20000,
+      "gia_tren": null,
+      "vai_tro": "khac",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [
+        "gap CME D1 lớn"
+      ],
+      "moc_gio": null,
+      "chac": false,
+      "trich": "mình vẫn có một gap 20 này, to tổ bố luôn. Khung D1... rủi ro đi về 7 [?] 20"
+    },
+    {
+      "gia": 79000,
+      "gia_tren": 80000,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "M5",
+      "can_cu": [
+        "lệnh short"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "về 80, 79 gì đó. Nó mà dump một phát thì cũng phải về 79 là ít"
+    },
+    {
+      "gia": 79500,
+      "gia_tren": 79900,
+      "vai_tro": "tp",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "lệnh short, SL về entry"
+      ],
+      "moc_gio": null,
+      "chac": false,
+      "trich": "Gồng về khoảng 79 đầu... 79K5 gì đó"
+    },
+    {
+      "gia": 60000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "W1",
+      "can_cu": [
+        "support nhiều lần"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "Nếu gặp support nhiều 60.000"
+    }
+  ]
+}

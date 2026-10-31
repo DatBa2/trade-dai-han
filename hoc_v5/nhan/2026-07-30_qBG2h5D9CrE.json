@@ -1,0 +1,432 @@
+{
+  "buoi": "2026-07-30_qBG2h5D9CrE",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/zip_clean/2026-07-30_qBG2h5D9CrE.txt",
+  "gia_btc_luc_noi": 64000,
+  "dau_buoi": {
+    "thien_huong_h4": "PHAN_VAN",
+    "gio": "[00:19:21]",
+    "trich": "Bây giờ chúng ta cần có một đỉnh break qua khỏi đoạn này và đóng nến H4 cao hơn 64.500 thì lúc đó mọi thứ mới ổn, mới có xác suất đi tiếp lên trên. Còn không thì vẫn là câu chuyện giảm. Thực tế ở đây sau khi tạo đáy ngắn hạn ở vùng 63.000 này thì bây giờ [00:19:53] nó đang bị kẹp trong một biên đi sideway."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "PHAN_VAN",
+    "do_chac": "thap",
+    "gio": "[00:54:59]",
+    "trich": "Các bạn cố gắng bám view này thôi. Mình vẫn bám theo view này để chờ sự bứt phá khỏi xu hướng [00:55:29] sideway hiện tại, khỏi nhịp bị kẹp ở đây. Còn nó đi hướng nào thì mình sẽ follow hướng đó. Tầm này cũng không đi dự đoán làm gì cho mệt bởi vì mọi thứ có khả năng tác động cũng đi qua rồi."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": null,
+  "duong_di": null,
+  "dich_chinh": null,
+  "han_gio": null,
+  "vo_hieu": null,
+  "lenh": [
+    {
+      "chieu": "SHORT",
+      "vao": 64600,
+      "tp": [],
+      "sl": 64600,
+      "trang_thai": "dang_giu"
+    },
+    {
+      "chieu": "LONG",
+      "vao": 64500,
+      "tp": [
+        66000
+      ],
+      "sl": null,
+      "trang_thai": "de_xuat_moi"
+    },
+    {
+      "chieu": "SHORT",
+      "vao": 63500,
+      "tp": [
+        62000,
+        60000
+      ],
+      "sl": null,
+      "trang_thai": "de_xuat_moi"
+    }
+  ],
+  "hanh_dong": "dung_ngoai_vi_lap_lung",
+  "khung_lon": {
+    "D1": "PHAN_VAN",
+    "W1": "GIAM"
+  },
+  "pha_vo_gia": "Vùng sideway 63.000-64.500 là chỗ 'thị trường dìu anh em đi vào cơn mê' (long FOMO khi nhấp lên, cắt khi rớt và ngược lại); nếu quét lên 65 'sau đó tụt về lại thì cũng vô nghĩa' (phải đóng nến); hai cây H1 tăng sau tin FED là volume phiên Mỹ 'chứ không phải thể hiện giá trị nội tại của thị trường là nó muốn tăng'. Nói 'lái' chỉ khi quét lên 66-67 rồi gãy xuống.",
+  "nhin_lai_view_truoc": {
+    "view_truoc": "Đêm 29/7 sau tin FED: chưa đưa plan, chờ nến H4; nghiêng giảm (nhịp bay yếu, muốn lên phải về 62.000, short 65.000-65.400); có lệnh short 64.600",
+    "giu_hay_doi": "giu",
+    "vi_sao": "64.500 chưa vượt thì xu hướng chưa đổi, vẫn xác suất điều chỉnh; 3 phiếu FED muốn tăng lãi 'hợp lý theo view'. Điểm mới: đáy tạm thời cao lên (63.000) nên chuyển sang chờ phá biên sideway; nhịp chạy đêm tin là tự nhiên, không phải lái.",
+    "gio": "[00:18:46]",
+    "trich": "Quan điểm của mình: nếu vùng 64.500 chưa thực sự được khuất phục, chưa thực sự vượt qua thì mọi thứ chưa thay đổi nhiều về xu hướng hiện tại, vẫn đang là câu chuyện có khả năng xác suất điều chỉnh. Ở đây có một điểm khác hơn so với xu hướng ngày hôm qua mà anh em cần lưu ý: đáy đã được tạo một đáy tạm thời cao lên."
+  },
+  "trendline": [],
+  "nen_volume": [
+    {
+      "khung": "D1",
+      "nen": "Sau tin nến ngày đóng rất lưỡng lự, bị chặn ở MA34",
+      "volume": null,
+      "ket_luan": "64.500 chưa vượt thì xu hướng chưa đổi, vẫn xác suất điều chỉnh",
+      "gio": "[00:18:46]",
+      "trich": "Sau tin ngày hôm qua nến đóng cửa một khung rất lưỡng lự, nến ngày này vẫn bị chặn lại ở đường MA34."
+    },
+    {
+      "khung": "H4",
+      "nen": "Đáy tạm thời cao lên ở 63.000; cần một đỉnh break và nến H4 đóng cao hơn 64.500",
+      "volume": null,
+      "ket_luan": "Đóng trên 64.500 mới có xác suất lên; không thì vẫn là câu chuyện giảm; hiện bị kẹp sideway",
+      "gio": "[00:19:21]",
+      "trich": "Bây giờ chúng ta cần có một đỉnh break qua khỏi đoạn này và đóng nến H4 cao hơn 64.500 thì lúc đó mọi thứ mới ổn, mới có xác suất đi tiếp lên trên. Còn không thì vẫn là câu chuyện giảm."
+    },
+    {
+      "khung": "H4",
+      "nen": "Điều kiện phá vỡ: một nến H4 đóng trên 64.500; điều kiện xác nhận: thêm một nến nữa (hai nến qua 64.500)",
+      "volume": null,
+      "ket_luan": "Hoàn tất thì sẵn sàng đi lên, target 1 khoảng 66.000, có quyền kỳ vọng cao hơn",
+      "gio": "[00:22:38]",
+      "trich": "Còn nếu nó muốn phá lên thì chúng ta phải thấy một cây H4 đóng trên 64.500. Đó là điều kiện phá vỡ. Điều kiện xác nhận là thêm một cây nến nữa, tức là hai cây nến phá qua 64.500 là coi như điều kiện hoàn tất và sẵn sàng đi lên."
+    },
+    {
+      "khung": "H1",
+      "nen": "Chờ break H1 theo hướng nào cũng được",
+      "volume": null,
+      "ket_luan": "Break hướng nào đi theo hướng đó; linh hoạt, cố chấp là chết",
+      "gio": "[00:21:34]",
+      "trich": "Đối với H1 mình thấy các bạn nên chờ break H1 sau đó sẽ dễ chơi. Break hướng nào cũng được, hướng nào chúng ta đi theo hướng đó."
+    },
+    {
+      "khung": null,
+      "nen": "Nếu quét lên 65.000 phải đóng nến; lên rồi tụt về lại thì vô nghĩa",
+      "volume": null,
+      "ket_luan": "Râu quét không có giá trị nếu không đóng nến",
+      "gio": "[00:27:59]",
+      "trich": "Trong trường hợp nó muốn quét thì khả năng là sẽ quét lên đến 65. Lên 65 thì nó sẽ qua được 6400 này. Nhưng với điều kiện sẽ phải đóng nến. Còn lên trên này sau đó tụt về lại thì cũng vô nghĩa."
+    },
+    {
+      "khung": null,
+      "nen": "Thủng 63.500 có đóng nến",
+      "volume": null,
+      "ket_luan": "Đi xuống giảm",
+      "gio": "[00:36:15]",
+      "trich": "Thủng bao nhiêu sẽ đi về xuống giảm? 63k5 đóng nến."
+    },
+    {
+      "khung": "H4",
+      "nen": "H4 đóng xanh nhưng vẫn dưới xu hướng; hai cây H1 tăng (cây H4 vừa rồi) sau tin lãi suất",
+      "volume": "Volume phiên Mỹ sau tin lãi suất, không phải giá trị nội tại",
+      "ket_luan": "Không phải thị trường thực sự muốn tăng",
+      "gio": "[00:47:50]",
+      "trich": "H4 đóng xanh nhưng vẫn dưới xu hướng, chỉ được một cái là cây nến H4 sáng ngày hôm nay kéo lên thôi. Nhưng như lúc sáng mình nói thì khả năng rất cao hai cây nến tăng này của H1, tức là cây H4 vừa rồi, thể hiện cho volume của phiên Mỹ sau tin lãi suất chứ không phải thể hiện giá trị nội tại của thị trường là nó muốn tăng."
+    }
+  ],
+  "cach_lam": [
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "ema",
+      "chi_tiet": "MA34 khung ngày",
+      "ket_qua": "Nến ngày bị chặn ở MA34",
+      "gio": "[00:18:46]",
+      "trich": "nến ngày này vẫn bị chặn lại ở đường MA34."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "dinh_day_cu",
+      "chi_tiet": "Đáy ngắn hạn 63.000 và đỉnh 64.500 tạo biên sideway",
+      "ket_qua": "Bị kẹp; sắp đóng nến tháng nên xác suất cực cao bóp dần trong biên; chờ phá rồi theo",
+      "gio": "[00:19:21]",
+      "trich": "Thực tế ở đây sau khi tạo đáy ngắn hạn ở vùng 63.000 này thì bây giờ nó đang bị kẹp trong một biên đi sideway."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "USDT.D đi ngang bóp dần (hỗ trợ đi lên, trên đi xuống)",
+      "ket_qua": "Nếu USDT.D break sớm hơn BTC thì biết dần hướng BTC; thường chạy trước BTC khoảng 15 phút",
+      "gio": "[00:25:19]",
+      "trich": "Anh em có thể nhìn thằng này, nếu nó break sớm hơn Bitcoin thì chúng ta có thể biết dần được hướng của Bitcoin. Bởi vì thông thường một vài trường hợp thì thằng USDT.D này chạy trước BTC khoảng 15 phút gì đó một cây nến."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "Gap nhỏ trên H1",
+      "ket_qua": "Đêm qua đã lấp; lâu nay không có gap nên mất chỉ báo này",
+      "gio": "[00:25:51]",
+      "trich": "H1 có một gap nhỏ sáng hôm nay, lúc đêm qua nó về lấp mất chỗ này rồi. Gap vùng này lâu lắm. Từ hôm đó nó không cho gap nữa, gần như tín hiệu gap này chúng ta bị mù luôn"
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "Fear and Greed",
+      "ket_qua": "28, đánh giá là cao",
+      "gio": "[00:26:23]",
+      "trich": "Fear and Greed vẫn là 28, mình đánh giá là cao."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "heatmap",
+      "chi_tiet": "Liquid: tổng thanh lý 24h và các cụm hai đầu",
+      "ket_qua": "360 triệu/24h (khá ở downtrend); hai đầu 63.000 và 64.000-65.000, chưa biết quét đầu nào",
+      "gio": "[00:26:23]",
+      "trich": "Liquid xem bữa giờ thị trường lụm bao nhiêu. 24 giờ là 360 triệu, không phải quá lớn nhưng cũng là con số khá ở downtrend. Vẫn là hai đầu thôi. 63.000 và 64.000, 65.000. Hai đầu chưa biết quét đầu nào."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "hyblock",
+      "chi_tiet": "Nhóm vị thế vẫn nghiêng short (~100.000)",
+      "ket_qua": "Nếu muốn quét thì quét lên 65.000, nhưng phải đóng nến",
+      "gio": "[00:27:27]",
+      "trich": "Vẫn đỏ này. Đám này vẫn nghiêng về short, mặc dù số lượng không nhiều khoảng 100.000 thôi nhưng vẫn đang nghiêng phải short. Trong trường hợp nó muốn quét thì khả năng là sẽ quét lên đến 65."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "volume",
+      "chi_tiet": "Volume hai cây H1 tăng sau tin",
+      "ket_qua": "Là volume phiên Mỹ, không phải giá trị nội tại",
+      "gio": "[00:47:50]",
+      "trich": "hai cây nến tăng này của H1, tức là cây H4 vừa rồi, thể hiện cho volume của phiên Mỹ sau tin lãi suất"
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "heatmap",
+      "chi_tiet": "Cụm thanh khoản 63.100",
+      "ket_qua": "Còn cách khoảng nghìn giá, xa",
+      "gio": "[00:54:59]",
+      "trich": "Thanh khoản 63K1 thì khoảng nghìn giá nữa, xa lắm rồi."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "Nhìn vàng để đoán nhịp",
+      "ket_qua": "Khi mọi tác động đã qua, chỉ còn vàng giúp hình dung nhịp điệu",
+      "gio": "[00:55:29]",
+      "trich": "Chỉ có một thứ có khả năng giúp chúng ta dự đoán được là nhìn vào con vàng. Nhìn vào con vàng thì có thể hình dung ra một vài nhịp điệu của tụi nó."
+    }
+  ],
+  "vung_nguoi_do": [
+    {
+      "loai": "sl",
+      "tu": 64600,
+      "den": 64600,
+      "gio": "[00:11:04]",
+      "trich": "Hôm qua bắt short 64k6, hiện tại đối với entry đó mình nghĩ cứ stop loss entry hoặc chỗ TP1."
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 64500,
+      "den": 64500,
+      "gio": "[00:19:21]",
+      "trich": "đóng nến H4 cao hơn 64.500 thì lúc đó mọi thứ mới ổn, mới có xác suất đi tiếp lên trên. Còn không thì vẫn là câu chuyện giảm."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 63000,
+      "den": 63000,
+      "gio": "[00:19:21]",
+      "trich": "sau khi tạo đáy ngắn hạn ở vùng 63.000 này thì bây giờ nó đang bị kẹp trong một biên đi sideway."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 62000,
+      "den": 62000,
+      "gio": "[00:22:06]",
+      "trich": "nếu các bạn sell thì vẫn quan điểm như các lần trước: 62.000 và 60.000 sẽ là hai vùng hỗ trợ."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 60000,
+      "den": 60000,
+      "gio": "[00:22:06]",
+      "trich": "nếu các bạn sell thì vẫn quan điểm như các lần trước: 62.000 và 60.000 sẽ là hai vùng hỗ trợ."
+    },
+    {
+      "loai": "dich",
+      "tu": 66000,
+      "den": 66000,
+      "gio": "[00:22:38]",
+      "trich": "Nếu nó phá qua được 64.500 này target sẽ đâu đó khoảng 66.000 là target 1."
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 65000,
+      "den": 65000,
+      "gio": "[00:27:59]",
+      "trich": "Trong trường hợp nó muốn quét thì khả năng là sẽ quét lên đến 65. ... Nhưng với điều kiện sẽ phải đóng nến."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 63500,
+      "den": 63500,
+      "gio": "[00:36:15]",
+      "trich": "Thủng bao nhiêu sẽ đi về xuống giảm? 63k5 đóng nến."
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 64000,
+      "den": 64000,
+      "gio": "[00:52:53]",
+      "trich": "Có thêm quả thấy cản lớn 64 không qua nổi."
+    }
+  ],
+  "view_trung_han": [
+    {
+      "khung": "D1",
+      "huong": "PHAN_VAN",
+      "dich": null,
+      "han": "ít nhất qua đóng nến tháng (31/7); chờ phá biên 63.000-64.500 rồi theo hướng đó",
+      "mat_view_khi": null,
+      "gio": "[00:19:53]",
+      "trich": "Anh em lưu ý bây giờ chúng ta đang ở ngày 30, thêm một ngày mai nữa thì đóng nến tháng, xác suất cực kỳ cao là thị trường sẽ bóp dần trong biên này. ... Khi thị trường bóp dần và đi ngang hẹp như vậy thì cách tốt nhất là chờ nó phá ra rồi chơi. Nó phá hướng nào chúng ta đi hướng đó."
+    }
+  ],
+  "vung_tranh": [
+    {
+      "tu": 63000,
+      "den": 64500,
+      "vi_sao": "Biên sideway: long FOMO khi nhấp lên rồi cắt khi rớt và ngược lại; 'thị trường dìu anh em đi vào cơn mê'; đánh hướng nào cũng không đúng, chờ phá vỡ",
+      "gio": "[00:20:28]",
+      "trich": "Còn vùng này theo cá nhân mình đánh giá là bắt đầu thị trường dìu anh em đi vào cơn mê rồi. ... Ví dụ các bạn short thấy nó nhấp lên đây thì bán thoát lệnh, xong nó lại rơi xuống, và ngược lại các ông long vừa thấy nó nhấp lên đây thì FOMO nhảy vào long, long xong nó rớt xuống dưới này sợ quá lại cắt short ra."
+    },
+    {
+      "tu": null,
+      "den": null,
+      "vi_sao": "Đánh tin với biên vài trăm giá sẽ bị kill; phải nới biên ít nhất 2000 giá",
+      "gio": "[00:10:30]",
+      "trich": "Đối với tin mà các bạn đánh thì phải lưu ý: phải nới biên độ ra. Nếu vẫn đánh giống biên bình thường vài trăm giá thì chắc chắn bị kill ngay. Đánh tin phải trong một biên ít nhất 2000 giá thì mới an toàn."
+    },
+    {
+      "tu": null,
+      "den": null,
+      "vi_sao": "Tin GDP/PCE tối nay 7:30: anh em dễ lơ là sau tin FED, tin này có thể đấm",
+      "gio": "[00:26:55]",
+      "trich": "Tối nay vẫn có tin vào lúc 7:30, thận trọng. Đôi khi hôm qua tin quan trọng thì thị trường biết anh em phòng thủ nên không chơi. Đến hôm nay thì tin này các bạn sẽ bị lơ là đi, có thể tin tối hôm nay sẽ đấm các bạn."
+    },
+    {
+      "tu": null,
+      "den": null,
+      "vi_sao": "Không giữ lệnh qua tin",
+      "gio": "[00:54:26]",
+      "trich": "Kinh nghiệm như tối qua khi nói không giữ lệnh nào qua tin, đúng rồi. Đó là một kinh nghiệm khá cơ bản, tức là không đánh tin."
+    },
+    {
+      "tu": null,
+      "den": null,
+      "vi_sao": "Thị trường đứng (không có sóng) mà cố đấm ăn xôi thì càng chết",
+      "gio": "[00:56:45]",
+      "trich": "Thị trường nó muốn im nhưng chúng ta không ngừng được. Cho nên phải kiểm soát điều đó, càng lao vào khúc thị trường đứng mà chúng ta lại cứ cố đấm ăn xôi thì càng chết phản tác dụng."
+    }
+  ],
+  "giu_dong": [
+    {
+      "lenh": "Short BTC 64.600 (từ hôm qua)",
+      "quyet_dinh": "giu",
+      "khi_nao": "Giữ nhưng dời SL về entry hoặc về chỗ TP1",
+      "gio": "[00:11:04]",
+      "trich": "Hôm qua bắt short 64k6, hiện tại đối với entry đó mình nghĩ cứ stop loss entry hoặc chỗ TP1."
+    }
+  ],
+  "tin_tuc": [
+    {
+      "su_kien": "FED giữ nguyên lãi suất 3.5-3.75 (lần thứ 5 liên tiếp năm 2026); 3 thành viên bất đồng muốn tăng 0,25%",
+      "thoi_diem": "đêm 29/7",
+      "nguon": "khac",
+      "so_lieu": "9 đồng thuận, 3 bất đồng đề xuất tăng 0,25%",
+      "anh_huong_view": "Hợp lý theo view; ngắn hạn có thể hưng phấn nhẹ vì rủi ro tưởng tượng không đến, nhưng nguy hiểm thật vẫn còn",
+      "gio": "[00:11:36]",
+      "trich": "Đầu tiên là tin lãi suất ngày hôm qua: giữ nguyên lãi suất 3.5 đến 3.75, và đây là lần giữ lãi suất liên tiếp thứ năm của năm 2026 ... Nhưng hôm qua có một thông tin rất quan trọng là trong hội đồng của FED xuất hiện ba thành viên, tỉ lệ là 9 chín người đồng thuận nhưng ba người không đồng thuận với việc giữ nguyên lãi suất và đề xuất tăng lên 0,25%."
+    },
+    {
+      "su_kien": "Phát biểu chủ tịch FED Kevin Warsh: mục tiêu lạm phát 2% là cứng, sẵn sàng tăng lãi suất nếu cần",
+      "thoi_diem": "đêm 29/7",
+      "nguon": "khac",
+      "so_lieu": "CPI hiện 3.5, mục tiêu 2%",
+      "anh_huong_view": "Rất cứng (diều hâu), cứng hơn Powell: nói là làm, chấp nhận hậu quả thị trường để đưa lạm phát về 2%",
+      "gio": "[00:13:19]",
+      "trich": "nhưng quan điểm của chủ tịch FED lần này thì ông này rất cứng, cứng hơn cả Powell ngày xưa. ... Và nói luôn lãi suất là công cụ quan trọng và sẵn sàng tăng lãi suất nếu cần thiết để đưa con số này về 2%."
+    },
+    {
+      "su_kien": "FED giảm hướng dẫn trước, đi sau dữ liệu",
+      "thoi_diem": "đêm 29/7",
+      "nguon": "khac",
+      "so_lieu": null,
+      "anh_huong_view": "Thị trường phải 'chơi theo bóng thay vì nhìn trọng tài' -> chờ thị trường tự chọn hướng rồi theo, không đoán trước",
+      "gio": "[00:16:01]",
+      "trich": "Giai đoạn này FED làm ngược lại, tức là ngồi im chờ, không chỉ dẫn, để thị trường đi trước và sau đó tùy theo diễn biến FED điều chỉnh chính sách linh hoạt để cân bằng lại sau. (và [00:23:43]: thị trường sẽ phải học cách chơi theo bóng thay vì nhìn trọng tài. FED là trọng tài.)"
+    },
+    {
+      "su_kien": "Đầu tư AI tăng 20%; chứng khoán Mỹ chỉ số chung xấu; lãi suất trái phiếu cao nhất 20 năm",
+      "thoi_diem": null,
+      "nguon": "khac",
+      "so_lieu": "AI +20%; lợi suất trái phiếu cao nhất 20 năm",
+      "anh_huong_view": "Tác động khó đoán, không ngon ăn",
+      "gio": "[00:14:58]",
+      "trich": "Đầu tư AI tăng 20%, rất tốt, nhưng tác động rất khó đoán. ... Nhưng đằng sau đó chỉ số chung của toàn bộ thị trường là xấu. ... Lãi suất trái phiếu ở mức cao nhất 20 năm. Lãi suất trái phiếu cao cũng không ngon ăn lắm."
+    },
+    {
+      "su_kien": "Chứng khoán Mỹ (US30, Nasdaq) gãy tiếp đêm qua",
+      "thoi_diem": "đêm 29/7",
+      "nguon": "khac",
+      "so_lieu": null,
+      "anh_huong_view": "Chứng khoán Mỹ xấu thì crypto cũng không bền",
+      "gio": "[00:02:12]",
+      "trich": "Nói chung là chứng khoán mà gãy thì mình e rằng thị trường Crypto cũng không bền. ... Thị trường chứng khoán của Mỹ khá là xấu. Khi tụi này xấu thì bên Crypto anh em mình cũng không ổn lắm."
+    },
+    {
+      "su_kien": "Tin GDP và PCE",
+      "thoi_diem": "7:30 tối 30/7",
+      "nguon": "lich_kinh_te",
+      "so_lieu": null,
+      "anh_huong_view": "Kỳ vọng tin này giúp giá break khỏi sideway; thận trọng vì dễ lơ là",
+      "gio": "[00:26:55]",
+      "trich": "tối hôm nay còn có tin GDP với PCE ha. Tối nay vẫn có tin vào lúc 7:30, thận trọng. ... Kỳ vọng là dựa vào tin này thì nó sẽ break ra khỏi xu hướng sideway hiện tại."
+    },
+    {
+      "su_kien": "Đóng nến tháng 7",
+      "thoi_diem": "31/7",
+      "nguon": "khac",
+      "so_lieu": null,
+      "anh_huong_view": "Xác suất cực cao thị trường bóp dần trong biên sideway",
+      "gio": "[00:19:53]",
+      "trich": "thêm một ngày mai nữa thì đóng nến tháng, xác suất cực kỳ cao là thị trường sẽ bóp dần trong biên này."
+    },
+    {
+      "su_kien": "Lãi suất và lệnh spot",
+      "thoi_diem": null,
+      "nguon": null,
+      "so_lieu": null,
+      "anh_huong_view": "Spot dài hạn không target theo lãi suất; lãi suất chỉ để tối ưu điểm vào",
+      "gio": "[00:32:36]",
+      "trich": "Vì sao đánh spot mà lại target theo lãi suất? Mình chưa hiểu lắm. Spot thì phải dài hạn, dài hạn đâu liên quan gì đến lãi suất. Lãi suất chẳng qua chúng ta tối ưu entry, tối ưu điểm vào thôi."
+    }
+  ],
+  "trich_them": [
+    {
+      "gio": "[00:18:46]",
+      "cau": "Sau tin ngày hôm qua nến đóng cửa một khung rất lưỡng lự, nến ngày này vẫn bị chặn lại ở đường MA34. Quan điểm của mình: nếu vùng 64.500 chưa thực sự được khuất phục, chưa thực sự vượt qua thì mọi thứ chưa thay đổi nhiều về xu hướng hiện tại, vẫn đang là câu chuyện có khả năng xác suất điều chỉnh."
+    },
+    {
+      "gio": "[00:19:53]",
+      "cau": "Chúng ta kỳ vọng sau tin thị trường sẽ có thay đổi nhưng tỉ lệ cực kỳ cao là thị trường sẽ bóp dần [00:20:28] trong đoạn này. Khi thị trường bóp dần và đi ngang hẹp như vậy thì cách tốt nhất là chờ nó phá ra rồi chơi. Nó phá hướng nào chúng ta đi hướng đó."
+    },
+    {
+      "gio": "[00:22:06]",
+      "cau": "nếu các bạn sell thì vẫn quan điểm như các lần trước: 62.000 và 60.000 sẽ là [00:22:38] hai vùng hỗ trợ. Còn nếu nó muốn phá lên thì chúng ta phải thấy một cây H4 đóng trên 64.500. Đó là điều kiện phá vỡ. Điều kiện xác nhận là thêm một cây nến nữa, tức là hai cây nến phá qua 64.500 là coi như điều kiện hoàn tất và sẵn sàng đi lên. Nếu nó phá qua được 64.500 này target sẽ đâu đó khoảng 66.000 là target 1."
+    },
+    {
+      "gio": "[00:36:15]",
+      "cau": "Thủng bao nhiêu sẽ đi về xuống giảm? 63k5 đóng nến."
+    },
+    {
+      "gio": "[00:35:06]",
+      "cau": "Giá hôm nay quét về 62k3 rồi tăng lên 64k8? Có thể, nhưng chưa biết nó quét khu vực nào trước. Hoặc là như vậy hoặc là nó lên quét 64.00 trước rồi sau đó mới gãy xuống 62k3 cũng được."
+    },
+    {
+      "gio": "[00:11:04]",
+      "cau": "Hôm qua bắt short 64k6, hiện tại đối với entry đó mình nghĩ cứ stop loss entry hoặc chỗ TP1."
+    },
+    {
+      "gio": "[00:47:50]",
+      "cau": "H4 đóng xanh nhưng vẫn dưới xu hướng, chỉ được một cái là cây nến H4 sáng ngày hôm nay kéo lên thôi. Nhưng như lúc sáng mình nói thì khả năng rất cao hai cây nến tăng này của H1, tức là cây H4 vừa rồi, thể hiện cho volume của phiên Mỹ sau tin lãi [00:48:22] suất chứ không phải thể hiện giá trị nội tại của thị trường là nó muốn tăng."
+    }
+  ],
+  "kho": "Rõ ràng là chờ phá biên sideway 63.000-64.500 (lên: 2 nến H4 đóng trên 64.500 → 66.000; xuống: đóng dưới 63.500 → 62.000/60.000) nên gán PHAN_VAN; tuy vậy nền vẫn hơi nghiêng giảm ('Còn không thì vẫn là câu chuyện giảm', nhịp tăng sau tin không thực chất). Lệnh short 64.600 hôm qua chỉ khuyên dời SL về entry/TP1, không rõ còn giữ. Giá lúc nói ước từ câu 'Thanh khoản 63K1 thì khoảng nghìn giá nữa'."
+}

@@ -1,0 +1,242 @@
+[
+ {
+  "nguon": "dap_an_v2",
+  "truong": "dau_buoi.trich",
+  "trich": "View của mình lúc sáng vẫn là sideway, lực bán và sóng giảm vẫn chiếm chủ đạo, chưa thấy dấu hiệu nào đảo chiều... Còn cứ ở vùng này thì view giảm không thay đổi.",
+  "giay": 1076,
+  "do_giong": 1.0,
+  "nguon_gio": "vtt",
+  "url": "https://www.youtube.com/watch?v=Gu1XtyNNH6I&t=1076s",
+  "anh": []
+ },
+ {
+  "nguon": "dap_an_v2",
+  "truong": "cuoi_buoi.trich",
+  "trich": "Ngắn hạn đôi khi còn quét lên để đi xuống. Bản chất mình nghĩ nó sẽ quét lên để đi xuống... Bitcoin tiếp tục đóng nến xanh; đóng nến xanh như này thì hơi đẹp cho phe mua (fair buy [?]). Cho nên với các lệnh sell anh em nên thận trọng và kỹ càng một tí... chứ không phải cứ view giảm là cắm đầu sell.",
+  "giay": 3066,
+  "do_giong": 1.0,
+  "nguon_gio": "vtt",
+  "url": "https://www.youtube.com/watch?v=Gu1XtyNNH6I&t=3066s",
+  "anh": []
+ },
+ {
+  "nguon": "dap_an_v2",
+  "truong": "trich_them[0]",
+  "trich": "Từ giờ đến khi break ra thì nó vẫn đi lòng vòng: vùng dưới 79.00[?], vùng trên 81.00[?]. Break đầu nào chưa biết; nó phá khỏi vùng nào thì tính trên khung ngày và H4.",
+  "giay": null,
+  "do_giong": 0.541,
+  "nguon_gio": "khong_tim_thay",
+  "url": null,
+  "anh": []
+ },
+ {
+  "nguon": "dap_an_v2",
+  "truong": "trich_them[1]",
+  "trich": "Nếu đảo chiều ở đây thì phải đóng trên 81.500 hoặc trên 82 thì mới thôi không view giảm nữa, có thể trung hòa hoặc chờ tín hiệu rõ nét hơn để vào lại xu hướng tăng.",
+  "giay": 1060,
+  "do_giong": 0.895,
+  "nguon_gio": "vtt",
+  "url": "https://www.youtube.com/watch?v=Gu1XtyNNH6I&t=1060s",
+  "anh": []
+ },
+ {
+  "nguon": "dap_an_v2",
+  "truong": "trich_them[2]",
+  "trich": "Những nhịp hồi này có khả năng lên được 82, nhưng mình không đánh theo nhịp hồi này vì đây chỉ là nhịp hồi.",
+  "giay": 1161,
+  "do_giong": 1.0,
+  "nguon_gio": "vtt",
+  "url": "https://www.youtube.com/watch?v=Gu1XtyNNH6I&t=1161s",
+  "anh": []
+ },
+ {
+  "nguon": "dap_an_v2",
+  "truong": "trich_them[3]",
+  "trich": "Hôm qua giá có động lực lên... Nhưng xu hướng thị trường không cho phép mình ngược chiều để bay lên, nên phải tuân thủ.",
+  "giay": 1235,
+  "do_giong": 1.0,
+  "nguon_gio": "vtt",
+  "url": "https://www.youtube.com/watch?v=Gu1XtyNNH6I&t=1235s",
+  "anh": []
+ },
+ {
+  "nguon": "dap_an_v2",
+  "truong": "trich_them[4]",
+  "trich": "H4 khả năng đóng được ở đây rồi; H4 đóng ở đây thì đôi khi còn những nhịp quét khoảng 81.00[?] hoặc 82, vẫn phải dự phòng kịch bản quét 82.",
+  "giay": 3095,
+  "do_giong": 0.906,
+  "nguon_gio": "vtt",
+  "url": "https://www.youtube.com/watch?v=Gu1XtyNNH6I&t=3095s",
+  "anh": []
+ },
+ {
+  "nguon": "dap_an_v2",
+  "truong": "trich_them[5]",
+  "trich": "Hôm nay khả năng cao thị trường đi lòng vòng trong một biên khoảng 500 giá, tối đa chắc khoảng 500 giá thôi.",
+  "giay": 1973,
+  "do_giong": 0.957,
+  "nguon_gio": "vtt",
+  "url": "https://www.youtube.com/watch?v=Gu1XtyNNH6I&t=1973s",
+  "anh": []
+ },
+ {
+  "nguon": "dap_an_v2",
+  "truong": "trich_them[6]",
+  "trich": "Vùng này mình vẫn giữ vì không có thay đổi gì nhiều trên khung lớn. (về view BTC 4x, 5x)",
+  "giay": 2020,
+  "do_giong": 0.8,
+  "nguon_gio": "vtt",
+  "url": "https://www.youtube.com/watch?v=Gu1XtyNNH6I&t=2020s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[0].trich",
+  "trich": "Ngắn hạn đôi khi còn quét lên để đi xuống. Bản chất mình nghĩ nó sẽ quét lên để đi xuống.",
+  "giay": 3066,
+  "do_giong": 1.0,
+  "nguon_gio": "vtt",
+  "url": "https://www.youtube.com/watch?v=Gu1XtyNNH6I&t=3066s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[1].trich",
+  "trich": "View của mình lúc sáng vẫn là sideway, lực bán và sóng giảm vẫn chiếm chủ đạo, chưa thấy dấu hiệu nào đảo chiều.",
+  "giay": 1048,
+  "do_giong": 0.875,
+  "nguon_gio": "vtt",
+  "url": "https://www.youtube.com/watch?v=Gu1XtyNNH6I&t=1048s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[2].trich",
+  "trich": "Dài hạn vẫn tăng nhưng cần những nhịp điều chỉnh rồi tăng thì đẹp.",
+  "giay": 2140,
+  "do_giong": 1.0,
+  "nguon_gio": "vtt",
+  "url": "https://www.youtube.com/watch?v=Gu1XtyNNH6I&t=2140s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[0].trich",
+  "trich": "Vùng 7980 là vùng hỗ trợ, hội tụ khá nhiều hỗ trợ ... Fibo 0.618 ... MA34 trên khung ngày ... MA89",
+  "giay": 840,
+  "do_giong": 1.0,
+  "nguon_gio": "vtt",
+  "url": "https://www.youtube.com/watch?v=Gu1XtyNNH6I&t=840s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[1].trich",
+  "trich": "nó gặp cản là Fibo 0.5: lúc trước là hỗ trợ, bây giờ trở thành kháng cự ở vùng 81.000",
+  "giay": 858,
+  "do_giong": 1.0,
+  "nguon_gio": "vtt",
+  "url": "https://www.youtube.com/watch?v=Gu1XtyNNH6I&t=858s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[2].trich",
+  "trich": "Dưới này hỗ trợ là 78.00[?], MA89",
+  "giay": 886,
+  "do_giong": 1.0,
+  "nguon_gio": "vtt",
+  "url": "https://www.youtube.com/watch?v=Gu1XtyNNH6I&t=886s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[3].trich",
+  "trich": "80 là vùng giá chẵn, và giá chẵn luôn mang tâm lý thị trường",
+  "giay": 902,
+  "do_giong": 0.929,
+  "nguon_gio": "vtt",
+  "url": "https://www.youtube.com/watch?v=Gu1XtyNNH6I&t=902s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[4].trich",
+  "trich": "phải đóng trên 81.500 hoặc trên 82 thì mới thôi không view giảm nữa",
+  "giay": 1062,
+  "do_giong": 0.933,
+  "nguon_gio": "vtt",
+  "url": "https://www.youtube.com/watch?v=Gu1XtyNNH6I&t=1062s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[5].trich",
+  "trich": "thanh khoản ở 82.000, Fibo cũng là 82.000. Rất nhiều người long để TP ở 82.000",
+  "giay": 1111,
+  "do_giong": 1.0,
+  "nguon_gio": "vtt",
+  "url": "https://www.youtube.com/watch?v=Gu1XtyNNH6I&t=1111s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[6].trich",
+  "trich": "ăn bớt, chốt thêm một phần và kéo stop loss về entry; có thể kỳ vọng TP lên 82",
+  "giay": 1211,
+  "do_giong": 0.895,
+  "nguon_gio": "vtt",
+  "url": "https://www.youtube.com/watch?v=Gu1XtyNNH6I&t=1211s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[7].trich",
+  "trich": "Bây giờ còn một vùng thanh lý ở 79.000, vừa mới tạo ra nên thận trọng",
+  "giay": 1276,
+  "do_giong": 0.941,
+  "nguon_gio": "vtt",
+  "url": "https://www.youtube.com/watch?v=Gu1XtyNNH6I&t=1276s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[8].trich",
+  "trich": "Thoát lệnh long ở 79K4 ngay đáy là sợ quá",
+  "giay": 2006,
+  "do_giong": 0.8,
+  "nguon_gio": "vtt",
+  "url": "https://www.youtube.com/watch?v=Gu1XtyNNH6I&t=2006s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[9].trich",
+  "trich": "rất nhiều người kỳ vọng chắc chắn sẽ break lên 86 rồi 90, nhưng đoạn này chưa đủ dữ liệu",
+  "giay": 1039,
+  "do_giong": 1.0,
+  "nguon_gio": "vtt",
+  "url": "https://www.youtube.com/watch?v=Gu1XtyNNH6I&t=1039s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[10].trich",
+  "trich": "Còn view Bitcoin về 4x, 5x nữa không? Vùng này mình vẫn giữ",
+  "giay": 2017,
+  "do_giong": 0.846,
+  "nguon_gio": "vtt",
+  "url": "https://www.youtube.com/watch?v=Gu1XtyNNH6I&t=2017s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[11].trich",
+  "trich": "H4 đóng ở đây thì đôi khi còn những nhịp quét khoảng 81 hoặc 82, vẫn phải dự phòng kịch bản quét 82",
+  "giay": 3098,
+  "do_giong": 0.913,
+  "nguon_gio": "vtt",
+  "url": "https://www.youtube.com/watch?v=Gu1XtyNNH6I&t=3098s",
+  "anh": []
+ }
+]

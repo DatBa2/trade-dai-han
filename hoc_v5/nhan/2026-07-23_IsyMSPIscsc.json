@@ -1,0 +1,425 @@
+{
+  "buoi": "2026-07-23_IsyMSPIscsc",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/zip_clean/2026-07-23_IsyMSPIscsc.txt",
+  "gia_btc_luc_noi": 65300,
+  "dau_buoi": {
+    "thien_huong_h4": "TANG",
+    "gio": "[00:25:45]",
+    "trich": "H4 thì hiện tại nó vẫn rất là giữ cấu trúc sóng tăng này. Giá vẫn nằm trên MA các thứ các kiểu vẫn rất là đều. Mình thì mình nghĩ là giá khả năng nó vẫn muốn rướn lên 68 này. Nó phải quét một phát ở cái đoạn này. Cùng lắm râu nến ở đây rồi gãy xuống thì mới sâu được. Còn ở đây mình thấy là giá nó vẫn không có gãy sâu đâu."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "TANG",
+    "do_chac": "thap",
+    "gio": "[00:59:40]",
+    "trich": "Nhân tiện cây H4 nóng như này thì long gì được. Như này thì chờ nó dump phát xuống như thế này, còn không thì nó phải hồi được cây như này, kéo được cây H4 xanh lại như [01:00:13] vậy thì may ra. ... [01:10:17] H4 này thì tạm thời đừng long."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {
+    "huong": "GIAM",
+    "dich": 65000
+  },
+  "duong_di": [
+    {
+      "huong": "GIAM",
+      "dich": 65000
+    },
+    {
+      "huong": "TANG",
+      "dich": [
+        66000,
+        68000
+      ]
+    }
+  ],
+  "dich_chinh": [
+    66000,
+    68000
+  ],
+  "han_gio": null,
+  "vo_hieu": {
+    "gia": 64000,
+    "khung": "H4",
+    "so_nen": 1,
+    "chieu": "dong_duoi",
+    "cau": "Còn nếu giá thủng để xác nhận mất xu hướng của đoạn này thì mình nghĩ sẽ phải xuống dưới 64, dưới 64 hoặc 63.000 này thì mới gãy xu hướng tăng được. Còn lại về bản chất những nhịp này mình thấy vẫn đang điều chỉnh thôi."
+  },
+  "lenh": [
+    {
+      "chieu": "LONG",
+      "vao": 65000,
+      "tp": [],
+      "sl": null,
+      "trang_thai": "de_xuat_moi"
+    },
+    {
+      "chieu": "SHORT",
+      "vao": 66000,
+      "tp": [
+        65000,
+        65500
+      ],
+      "sl": null,
+      "trang_thai": "de_xuat_moi"
+    }
+  ],
+  "hanh_dong": "dung_ngoai_cho_entry",
+  "khung_lon": {
+    "D1": "TANG",
+    "W1": "GIAM"
+  },
+  "pha_vo_gia": "Muốn chờ giá 'kill stop loss của các ông long hỗ trợ' (về ~65.000, 'vẫn còn quá nhiều' long chưa bị kill) rồi mới vào; phía trên nói giá có thể rướn quét 68 bằng râu rồi mới gãy sâu. Mốc 65.500 thủng sáng nay là 'cột mốc phá vỡ ra khỏi nhịp hồi ngày hôm qua'.",
+  "trich_them": [
+    {
+      "gio": "[00:24:08]",
+      "cau": "Hiện tại ở đây nó đã bị từ chối ở ngay cái vùng kháng cự cho nên là chúng ta sẽ phải cẩn trọng tuyệt đối. Hiện [00:24:43] tại ở vùng này là mình không có long nữa."
+    },
+    {
+      "gio": "[00:26:16]",
+      "cau": "Thì đối với cái vùng này thì hoàn toàn có thể là nó đi về tiếp cái vùng 65 thì mình vẫn đang kỳ vọng nó phải 65. ... Nhưng mà tất cả những cái nhịp nó đi xuống ở đây nó đều mang tính chất là những cái nhịp điều chỉnh thôi chứ chưa phải là những cái nhịp gãy xu hướng tăng đâu. Cho nên nếu mà anh em có bán xuống thì cũng đánh nho nhỏ thôi."
+    },
+    {
+      "gio": "[00:27:22]",
+      "cau": "Còn lại nếu chúng ta đánh lên đánh bay thì thực tế trước mắt mình nghĩ vùng 65.000 này là vùng chúng ta chờ. [00:27:56] 65.000 này là vùng chúng ta chờ phản ứng giá ở đây nếu muốn tìm vị thế đi lên."
+    },
+    {
+      "gio": "[00:31:09]",
+      "cau": "Từ giờ đến cuối tuần và khả năng là từ giờ đến lúc FED ra lãi suất, đến ngày 30, thị trường sẽ nhập nhằng trong biên độ khoảng 64 cho đến khoảng 68."
+    },
+    {
+      "gio": "[00:32:55]",
+      "cau": "Kiểu vậy khả năng chắc phải có một cú dump nhẹ về khoảng 500 giá. 65.000 thì được khoảng thêm 300 giá từ giờ ... 65.500 cho đến 65.000 là vùng các anh em đang sell thì có thể cân nhắc làm vùng TP. ... Long đoạn này rủi ro, mặc dù thuận xu hướng nhưng tốt nhất là nên chờ."
+    },
+    {
+      "gio": "[00:39:05]",
+      "cau": "Trước khi nó gãy về, tệ lắm cũng phải 65.000 thì mình nghĩ khả năng hồi lên được đó hơi khó. Còn nếu nó về dưới này rồi sau đó hồi lên thì hợp lý, thậm chí còn cao hơn nữa."
+    },
+    {
+      "gio": "[00:43:19]",
+      "cau": "Nếu muốn short mình nghĩ vẫn quanh 66 thì hợp lý hơn."
+    }
+  ],
+  "kho": "Ranh giới TANG/GIAM: cấu trúc H4 vẫn tăng (đích ngược lên 66-68, biên 64-68 tới ngày FED 30/7) nhưng việc trước mắt là điều chỉnh về 65.000, H4 nến xấu, 'tạm thời đừng long', sell nhỏ được. Gán TANG (độ chắc thấp) theo chặng cuối; chặng kế là GIAM 65.000. Long ở 65 không nêu TP/SL; short ở 66 trả lời câu hỏi người xem.",
+  "nhin_lai_view_truoc": {
+    "view_truoc": "TANG",
+    "giu_hay_doi": "giu",
+    "vi_sao": "Điều kiện đủ hôm qua (nến ngày đóng 7h sáng nay phải xanh) không đạt: nến bị bán xuống dưới 66.000, bị từ chối ở kháng cự → cẩn trọng tuyệt đối, không long nữa ở vùng này. Nhưng vẫn coi đây chỉ là nhịp phản ứng ở cản, H4 vẫn giữ cấu trúc tăng → giữ ý chờ 65.000 để tìm vị thế đi lên.",
+    "gio": "[00:24:08]",
+    "trich": "Thì hôm qua chúng ta cũng đã nói rồi, cái điều kiện cần của nó đó là nó đã được vượt qua 66.000. Nhưng mà điều kiện đủ đó là cái cây nến ngày hôm qua này tức là đóng vào 7:00 sáng ngày hôm nay phải là một cây nến xanh. ... Hiện tại ở đây nó đã bị từ chối ở ngay cái vùng kháng cự cho nên là chúng ta sẽ phải cẩn trọng tuyệt đối. Hiện tại ở vùng này là mình không có long nữa."
+  },
+  "trendline": [
+    {
+      "khung": "H1",
+      "loai": "khac",
+      "noi_tu": "Trendline trên H1 mà giá bị từ chối sau khi thủng mốc 65.500 (phá vỡ khỏi nhịp hồi hôm qua); không nêu điểm neo/hướng đường",
+      "diem_neo": [],
+      "gia_duong_luc_noi": null,
+      "trang_thai": "pha_roi_test_lai",
+      "dieu_kien_pha": "Đã thủng 65.500 và bị từ chối khi test lại trendline",
+      "ket_luan_huong": "GIAM",
+      "gio": "[00:26:16]",
+      "trich": "H1 thì chúng ta đang thấy là giá nó bị từ chối ở cái trendline này và sáng ngày hôm nay là đóng một cái H1 rất là xấu mà tiếp tục đi xuống. Thì đối với cái vùng này thì hoàn toàn có thể là nó đi về tiếp cái vùng 65 thì mình vẫn đang kỳ vọng nó phải 65."
+    }
+  ],
+  "nen_volume": [
+    {
+      "khung": "D1",
+      "nen": "Nến ngày (đóng 7h sáng nay) bị bán xuống dưới 66.000 — đỏ thay vì xanh",
+      "volume": null,
+      "ket_luan": "Bị từ chối ở kháng cự; điều kiện đủ không đạt → cẩn trọng, không long; nhưng chỉ là phản ứng ở cản",
+      "gio": "[00:23:37]",
+      "trich": "Thì đối với khung ngày ở cái đoạn này hôm qua chúng ta đóng một cây nến ngày này. Cây nến sáng ngày hôm nay là bị bán dưới 66.000. Thì thực tế cái đoạn này mà nó bị bán xuống là mình nghĩ nó cũng bình thường thôi."
+    },
+    {
+      "khung": "H4",
+      "nen": "H4 vẫn giữ cấu trúc sóng tăng, giá nằm trên MA; có thể râu quét 68",
+      "volume": null,
+      "ket_luan": "Chưa gãy sâu; H4/H1 đang điều chỉnh, đánh linh hoạt, không dài",
+      "gio": "[00:25:45]",
+      "trich": "H4 thì hiện tại nó vẫn rất là giữ cấu trúc sóng tăng này. Giá vẫn nằm trên MA các thứ các kiểu vẫn rất là đều. Mình thì mình nghĩ là giá khả năng nó vẫn muốn rướn lên 68 này. Nó phải quét một phát ở cái đoạn này. Cùng lắm râu nến ở đây rồi gãy xuống thì mới sâu được."
+    },
+    {
+      "khung": "H1",
+      "nen": "H1 đóng rất xấu, bị từ chối ở trendline",
+      "volume": null,
+      "ket_luan": "Về 65 (65.000-64.000), nhưng chỉ là điều chỉnh; sell thì nhỏ",
+      "gio": "[00:26:16]",
+      "trich": "sáng ngày hôm nay là đóng một cái H1 rất là xấu mà tiếp tục đi xuống."
+    },
+    {
+      "khung": null,
+      "nen": "Cây nến thủng 65.500 (mốc sáng nay)",
+      "volume": null,
+      "ket_luan": "Đánh dấu phá vỡ khỏi nhịp hồi hôm qua; còn ~500 giá dump về 65.000",
+      "gio": "[00:32:55]",
+      "trich": "Vùng đó là bắt đầu đánh dấu sự phá vỡ ra khỏi nhịp hồi ngày hôm qua, là vùng 65.500 của lúc sáng. Cây nến này thủng khỏi thằng này, đi qua khỏi 65.000 là đánh dấu cột mốc phá vỡ ra khỏi nhịp hồi ngày hôm qua và bị từ chối ở trend line này."
+    },
+    {
+      "khung": "H4",
+      "nen": "Cây H4 'nóng' (đỏ mạnh)",
+      "volume": null,
+      "ket_luan": "Không long; chờ dump xuống, hoặc phải có cây H4 xanh kéo lại",
+      "gio": "[00:59:40]",
+      "trich": "Nhân tiện cây H4 nóng như này thì long gì được. Như này thì chờ nó dump phát xuống như thế này, còn không thì nó phải hồi được cây như này, kéo được cây H4 xanh lại như vậy thì may ra."
+    }
+  ],
+  "cach_lam": [
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "nen",
+      "chi_tiet": "Điều kiện cần/đủ phá kháng cự 66.000 trên D1 (đóng vượt + nến sau xanh)",
+      "ket_qua": "Điều kiện đủ không đạt → bị từ chối",
+      "gio": "[00:24:08]",
+      "trich": "cái điều kiện cần của nó đó là nó đã được vượt qua 66.000. Nhưng mà điều kiện đủ đó là cái cây nến ngày hôm qua này tức là đóng vào 7:00 sáng ngày hôm nay phải là một cây nến xanh."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "ema",
+      "chi_tiet": "MA khung H4 (đường MA xanh nhỏ)",
+      "ket_qua": "Giá vẫn trên MA; hợp lý về chạm MA xanh nhỏ",
+      "gio": "[00:28:28]",
+      "trich": "Khả năng là nên chạm đường MA màu xanh nhỏ ở đây thì hợp lý hơn, kiểu như giai đoạn này."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "trendline",
+      "chi_tiet": "Trendline H1 giá bị từ chối",
+      "ket_qua": "Về 65",
+      "gio": "[00:26:16]",
+      "trich": "H1 thì chúng ta đang thấy là giá nó bị từ chối ở cái trendline này"
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "DOM, USDT.D, Fear & Greed",
+      "ket_qua": "DOM breakout đi lên (Altcoin xấu); USDT.D chạm hỗ trợ bật lên; F&G 31 (hôm qua 33) → nhập nhằng 31-40",
+      "gio": "[00:31:09]",
+      "trich": "Fear and Greed hôm nay vẫn là 31. Hôm qua 33, hôm nay vẫn 31. Đối với 31 này mình nghĩ giá sẽ nhập nhằng trong vùng từ 31 đến 40"
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "heatmap",
+      "chi_tiet": "Liquid phía dưới trùng Fibo 0.5",
+      "ket_qua": "65.003 / 65.000",
+      "gio": "[00:31:39]",
+      "trich": "Liquid 65.003 65.000. 65.003 là hợp lý. Vùng này lúc nãy chúng ta cũng có view đây là Fibo 0.5."
+    },
+    {
+      "hanh_dong": "do",
+      "cong_cu": "fibo_thoai_lui",
+      "chi_tiet": "Fibo 0.5 nhịp tăng",
+      "ket_qua": "~65.000",
+      "gio": "[00:32:14]",
+      "trich": "Vùng này lúc nãy chúng ta cũng có view đây là Fibo 0.5."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "heatmap",
+      "chi_tiet": "Lệnh long chưa bị kill (vùng xanh)",
+      "ket_qua": "Còn quá nhiều long → dump nhẹ ~500 giá về 65.000",
+      "gio": "[00:32:55]",
+      "trich": "Kiểu này không biết đã kill hết tụi long chưa? Chưa. Vẫn còn quá nhiều. Kiểu vậy khả năng chắc phải có một cú dump nhẹ về khoảng 500 giá."
+    },
+    {
+      "hanh_dong": "do",
+      "cong_cu": "khac",
+      "chi_tiet": "Kế hoạch gom spot mẫu: 50% BTC/50% ETH; mỗi bên 30k DCA hằng ngày (14h, 82 đô/ngày, 23/7/2026-23/7/2027) + 20k chờ 3 cú flush giảm 20-30% (10k/7k/3k)",
+      "ket_qua": "Lộ trình gom spot cơ bản",
+      "gio": "[00:50:23]",
+      "trich": "Trong đó 30k này chúng ta dùng để DCA tuần hoặc ngày. ... 20k này chúng ta sẽ chờ flush. Lấy 30.000 này, bây giờ chúng ta có vốn 30.000 mình chia cho 365 ngày là 82 đô một ngày."
+    }
+  ],
+  "vung_nguoi_do": [
+    {
+      "loai": "khang_cu",
+      "tu": 66000,
+      "den": 66000,
+      "gio": "[00:24:08]",
+      "trich": "cái điều kiện cần của nó đó là nó đã được vượt qua 66.000."
+    },
+    {
+      "loai": "dich",
+      "tu": 68000,
+      "den": 68000,
+      "gio": "[00:25:45]",
+      "trich": "Mình thì mình nghĩ là giá khả năng nó vẫn muốn rướn lên 68 này. Nó phải quét một phát ở cái đoạn này."
+    },
+    {
+      "loai": "dich",
+      "tu": 65000,
+      "den": 65000,
+      "gio": "[00:26:16]",
+      "trich": "hoàn toàn có thể là nó đi về tiếp cái vùng 65 thì mình vẫn đang kỳ vọng nó phải 65."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 64000,
+      "den": 65000,
+      "gio": "[00:26:48]",
+      "trich": "6500 hoặc là đây này. 6400 này. Cái vùng này rất là dễ về."
+    },
+    {
+      "loai": "vao",
+      "tu": 65000,
+      "den": 65000,
+      "gio": "[00:27:56]",
+      "trich": "65.000 này là vùng chúng ta chờ phản ứng giá ở đây nếu muốn tìm vị thế đi lên."
+    },
+    {
+      "loai": "vo_hieu",
+      "tu": 63000,
+      "den": 64000,
+      "gio": "[00:27:56]",
+      "trich": "Còn nếu giá thủng để xác nhận mất xu hướng của đoạn này thì mình nghĩ sẽ phải xuống dưới 64, dưới 64 hoặc 63.000 này thì mới gãy xu hướng tăng được."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 64000,
+      "den": 64000,
+      "gio": "[00:31:39]",
+      "trich": "thị trường sẽ nhập nhằng trong biên độ khoảng 64 cho đến khoảng 68."
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 68000,
+      "den": 68000,
+      "gio": "[00:31:39]",
+      "trich": "thị trường sẽ nhập nhằng trong biên độ khoảng 64 cho đến khoảng 68."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 65000,
+      "den": 65003,
+      "gio": "[00:31:39]",
+      "trich": "Liquid 65.003 65.000. 65.003 là hợp lý."
+    },
+    {
+      "loai": "tp",
+      "tu": 65000,
+      "den": 65500,
+      "gio": "[00:33:30]",
+      "trich": "65.500 cho đến 65.000 là vùng các anh em đang sell thì có thể cân nhắc làm vùng TP."
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 66000,
+      "den": 66000,
+      "gio": "[00:39:05]",
+      "trich": "H4 hôm nay có thể hồi lên đỉnh cũ hôm qua không? Tức là hồi lên đỉnh cũ hôm qua khoảng 66.000? Mình nghĩ là khó."
+    },
+    {
+      "loai": "vao",
+      "tu": 66000,
+      "den": 66000,
+      "gio": "[00:43:19]",
+      "trich": "Nếu muốn short mình nghĩ vẫn quanh 66 thì hợp lý hơn."
+    },
+    {
+      "loai": "vao",
+      "tu": 30000,
+      "den": 50000,
+      "gio": "[00:46:34]",
+      "trich": "mình vẫn tiếp tục kỳ vọng và chờ đợi để mua gom hàng ở vùng giá từ 50 cho đến khoảng 30. 20 thì càng tốt nhưng 20 chẳng qua là một nhịp flush thật lớn."
+    },
+    {
+      "loai": "tp",
+      "tu": 66000,
+      "den": 72000,
+      "gio": "[00:47:09]",
+      "trich": "Mình bán hết 30% này trong vùng giá từ 66 cho đến 72."
+    }
+  ],
+  "view_trung_han": [
+    {
+      "khung": "D1",
+      "huong": "PHAN_VAN",
+      "dich": [
+        64000,
+        68000
+      ],
+      "han": "từ giờ đến cuối tuần và đến ngày FED ra lãi suất (30/7)",
+      "mat_view_khi": "Xuống dưới 64 hoặc 63 thì mới gãy xu hướng tăng",
+      "gio": "[00:31:39]",
+      "trich": "Từ giờ đến cuối tuần và khả năng là từ giờ đến lúc FED ra lãi suất, đến ngày 30, thị trường sẽ nhập nhằng trong biên độ khoảng 64 cho đến khoảng 68. Mình nghĩ là quanh đó. Cho nên bây giờ các bạn đòi view dài hoặc khi nào break hoặc có lên được 70 hay không thì thực sự rất khó nói."
+    },
+    {
+      "khung": "M1",
+      "huong": "GIAM",
+      "dich": [
+        30000,
+        50000
+      ],
+      "han": "nhịp hồi còn lòng vòng (66-72); gom trong 1 năm 23/7/2026-23/7/2027",
+      "mat_view_khi": null,
+      "gio": "[00:46:01]",
+      "trich": "Quan điểm cá nhân của mình đánh giá giá vẫn có khả năng rớt xuống và mình vẫn tiếp tục kỳ vọng và chờ đợi để mua gom hàng ở vùng giá từ 50 cho đến khoảng 30. 20 thì càng tốt nhưng 20 chẳng qua là một nhịp flush thật lớn."
+    }
+  ],
+  "vung_tranh": [
+    {
+      "tu": null,
+      "den": null,
+      "vi_sao": "Không long ở vùng hiện tại sau khi bị từ chối ở kháng cự; H4 nóng thì tạm thời đừng long",
+      "gio": "[00:24:43]",
+      "trich": "Hiện tại ở vùng này là mình không có long nữa."
+    },
+    {
+      "tu": null,
+      "den": null,
+      "vi_sao": "Không short market ở giá hiện tại (muốn short thì quanh 66)",
+      "gio": "[00:43:19]",
+      "trich": "Nếu muốn short ở đây thì nên short Bitcoin ở giá market hay đợi nó backtest về một lần nữa ở gần vùng kháng cự? Sao lại đi short market được?"
+    },
+    {
+      "tu": 64000,
+      "den": 68000,
+      "vi_sao": "Biên nhập nhằng tới FED — rất khó chơi, bị xoay hai chiều; người mới nên đứng ngoài, không đánh dài",
+      "gio": "[00:28:28]",
+      "trich": "Cho nên vùng giá này các bạn sẽ thấy rất khó chơi và chúng ta sẽ đánh phụ thuộc theo thị trường và đánh linh hoạt hai chiều. Nhưng linh hoạt hai chiều thì giai đoạn này khó dành cho các anh em mới"
+    }
+  ],
+  "giu_dong": [
+    {
+      "lenh": "Lệnh sell nhỏ",
+      "quyet_dinh": "dong",
+      "khi_nao": "TP ở 65.500-65.000; đánh nhỏ, nhanh, ăn ngắn",
+      "gio": "[00:33:30]",
+      "trich": "Cho nên từ đây về đây khoảng 500 thì mình nghĩ 65.500 cho đến 65.000 là vùng các anh em đang sell thì có thể cân nhắc làm vùng TP."
+    },
+    {
+      "lenh": "Spot BTC 70% vốn mua ở 60.000 (người xem)",
+      "quyet_dinh": "chot_mot_phan",
+      "khi_nao": "DCA bán 30% trong vùng 66-72, giữ 40% BTC, 60% tiền chờ mua lại ở 50-30",
+      "gio": "[00:47:09]",
+      "trich": "Ví dụ bạn sợ mất đáy thì đưa portfolio của mình về đâu đó khoảng 40% là BTC. Tức là bây giờ của bạn đang 70 thì mình sẽ bán ra 30%. Mình bán hết 30% này trong vùng giá từ 66 cho đến 72."
+    },
+    {
+      "lenh": "Spot BTC gom DCA hằng ngày (kế hoạch mẫu)",
+      "quyet_dinh": "giu",
+      "khi_nao": "Mua đều 82 đô lúc 14h mỗi ngày trong 1 năm bất kể giá; phần 20k chờ 3 cú flush giảm 20-30%",
+      "gio": "[00:51:25]",
+      "trich": "Cứ mỗi ngày 14 giờ mình sẽ mua 82 đô Bitcoin. Đến tròn 1 năm sau mình sẽ có được 30.000 đô Bitcoin. Mình cũng không quan tâm về giá. Giá bao nhiêu cũng được, 100.000 mình cũng mua mà 10.000 mình cũng mua."
+    }
+  ],
+  "tin_tuc": [
+    {
+      "su_kien": "FOMC",
+      "thoi_diem": "ngày 30 (sẽ view lại tin vào thứ tư 29)",
+      "nguon": "lich_kinh_te",
+      "so_lieu": null,
+      "anh_huong_view": "Tin trống đến FED; thị trường nhập nhằng 64-68 đến ngày 30",
+      "gio": "[00:32:14]",
+      "trich": "Tin tức thì đợt này là trống hết cho nên chúng ta sẽ bỏ. Cho đến ngày 30 mình sẽ phân tích lại về tin. Ngày 29 thứ tư tuần sau, một tuần nữa chúng ta sẽ view lại về phần tin tức. Lúc đó mới có tin về FED mới cần quan tâm, còn bây giờ tới đó là clear."
+    },
+    {
+      "su_kien": "Quy định crypto Việt Nam từ 01/09",
+      "thoi_diem": "sau 01/09",
+      "nguon": "bao",
+      "so_lieu": null,
+      "anh_huong_view": "Không liên quan view giá; cứ giữ tài sản, khi bán thì về sàn Việt đóng thuế",
+      "gio": "[00:59:08]",
+      "trich": "Ví dụ bạn đang cầm một Bitcoin, cứ cầm ở đâu cũng được: ví lạnh, ví cứng, ví sàn khác, ví on-chain, tất cả đều được. Nhưng khi nào bán từ Bitcoin đổi thành USDT, từ USDT đổi thành Việt Nam đồng thì phải chuyển về sàn Việt để bán và đóng phí trên sàn đó."
+    }
+  ],
+  "nghi_van_nhan_v2": null
+}

@@ -1,0 +1,53 @@
+{
+  "buoi": "BOT_2026-10-29_2300",
+  "ngay": "2026-10-29",
+  "gio_vn": "22:54",
+  "ghi_chu_thoi_diem": "user bảo coi nến H4 19:00–23:00 đóng tại 22:54 (giá 81.705)",
+  "gia_btc_luc_noi": 81705,
+  "nhan_dinh": [
+    {
+      "khung": "H4",
+      "huong": "GIAM",
+      "do_chac": "thap",
+      "dich": 80500,
+      "han": "đến hết phiên Mỹ thứ Sáu",
+      "han_gio": 24,
+      "vo_hieu_khi": "2 cây H4 đóng trên 82.500, hoặc D1 đóng trên MA34 D1 ~82.900",
+      "kich_ban_phu": "thủng lại 81.000 ngay không cần quét thì về thẳng 80.500",
+      "duong_di": [{"huong": "TANG", "dich": 82500}, {"huong": "GIAM", "dich": 80500}],
+      "doi_y": "sáng 10:05 người đó: H4 GIAM cao về 77–78K → tin GDP kéo H4 đóng xanh trên cụm MA = chạm điều kiện vô hiệu của chính người đó; hạ đích về 80.500, hạ độ chắc xuống thấp",
+      "ly_do": ["H4 xanh full thân 80.165→81.705 sau GDP 3,4%, đóng trên MA34/MA89 H4 → không sale market",
+                "81.800–82.900 dồn cản: đỉnh H4 28/10 81.820, Fibo 0.382 82.283, MA200 H4 82.843, MA34 D1 82.927",
+                "chưa có 2 cây H4 đóng trên 82.000 thì chưa gọi là đảo chiều",
+                "short vừa bị thanh lý 9,7 BTC = nhịp đẩy lấy thanh khoản sau tin; sau tin 4–8 tiếng biến động rồi quay về cấu trúc",
+                "D1 vẫn nằm dưới MA34 D1, khung tuần vẫn xấu"],
+      "trich": "Tin ra thì nó quét lên lấy thanh khoản thôi anh em, chưa có hai cây H4 đóng trên 82 thì mình chưa gọi là đảo chiều nhá."
+    },
+    {
+      "khung": "D1",
+      "huong": "GIAM",
+      "do_chac": "thap",
+      "dich": null,
+      "han": "chờ nến D1 đóng 07:00 sáng mai",
+      "han_gio": null,
+      "vo_hieu_khi": "D1 đóng trên MA34 D1 ~82.900",
+      "kich_ban_phu": null,
+      "duong_di": null,
+      "doi_y": null,
+      "ly_do": ["MA34 D1 82.927 từ hỗ trợ thành kháng cự, giá vẫn bị nhốt giữa MA34 và MA89 D1 (77.369)"],
+      "trich": "Khung ngày vẫn chưa thoát được MA34 thì câu chuyện lớn vẫn chưa đổi."
+    }
+  ],
+  "vung_gia": {"khang_cu": [81800, 82900], "ho_tro": [80500, 81000]},
+  "lenh": [
+    {"chieu": "SHORT", "loai": "limit", "vao": 82700, "tp": [81000, 80500], "sl": 83300, "trang_thai": "de_xuat_moi",
+     "trich": "Không sale market lúc H4 xanh. Muốn sale thì limit ở râu xa sát MA34 ngày 82.7, SL trên 83.3, volume nhỏ."}
+  ],
+  "nhin_lai_truoc": "View sáng (H4 về 77–78K): SAI — GDP 3,4% vượt dự báo kéo giá lên 81.7K, chưa về được 79K. Đúng nửa đầu: H4 07:00 đóng đỏ dưới 80K như dự đoán.",
+  "cong_cu": ["H4", "D1", "MA34", "MA89", "MA200", "Fibo 0.382", "thanh lý", "funding", "OI", "F&G"],
+  "tin_tuc": [{"tin": "GDP Q3 3,4% (dự báo 3,1%), PCE lõi 3,1% đúng dự báo", "danh_gia": "tin tốt hơn dự kiến, thị trường quét short; xác suất Fed tăng tháng 12 vẫn là rủi ro"}],
+  "thoi_quen": ["chờ H4 đóng mới khẳng định", "H4 đóng xanh trên MA34/89 thì không sale market", "breakout phải 2 cây H4", "chỉ limit ở râu xa (MA34 D1)", "thứ Sáu dễ đảo chiều, cẩn thận bị ru ngủ"],
+  "cau_cua_mieng": ["Thị trường có thiếu gì cơ hội đâu nhá", "cứ theo đúng plan mà chơi"],
+  "altcoin": [{"coin": "ETH", "huong": "PHAN_VAN", "ghi": "2.365, ETH/BTC −0,24%, BTC.D 59,6% còn cao → altcoin chưa có cửa, không FOMO"}],
+  "du_lieu_dung": ["du_lieu/anh/2026-10-29_1900.json", "du_lieu/anh/2026-10-29_2252_them.json", "du_lieu/anh/2026-10-29_2300_coi_nhu_dong.json"]
+}

@@ -1,0 +1,50 @@
+{
+  "buoi": "2026-07-29__TlYbqPT8nU",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/zip_clean/2026-07-29__TlYbqPT8nU.txt",
+  "gia_btc_luc_noi": 64000,
+  "dau_buoi": {
+    "thien_huong_h4": "GIAM",
+    "gio": "[00:10:39]",
+    "trich": "hôm nay thì mình đang đánh giá tình hình thị trường rất xấu chứ không phải khá nữa. ... [00:11:12] Anh em nào thích đánh tin thì mình nghĩ nếu một trong hai cửa, long hay short, thì mình sẽ theo phe short. Nếu bắt buộc phải chọn một trong hai phe thì mình sẽ theo phe giảm. Mô hình của H4 rất xấu."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "GIAM",
+    "do_chac": "thap",
+    "gio": "[00:53:27]",
+    "trich": "Bây giờ là khả năng là chờ gãy xuống để mà đi đón theo cái cụ chủ tịch FED nữa rồi. ... [00:54:28] Chưa đâu. Đi như vậy chắc còn lên test lại cái râu này. [00:55:00] Tầm này thì nếu mà các bạn nào máu thì cứ chờ cái vùng trên cao này. Còn nếu mà muốn đánh lên thì tệ cũng 62.000."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {"huong": "TANG", "dich": [64700, 65000]},
+  "duong_di": [
+    {"huong": "TANG", "dich": [64700, 65000]},
+    {"huong": "GIAM", "dich": [62000, 62500]}
+  ],
+  "dich_chinh": [62000, 62500],
+  "han_gio": null,
+  "vo_hieu": {
+    "gia": 64700,
+    "khung": "H1",
+    "so_nen": 1,
+    "chieu": "dong_tren",
+    "cau": "Cho nên cái đoạn này các bạn muốn mà view nó lên cao nữa thì bắt buộc là sẽ phải chờ cái nến 64.700 này sẽ được đóng và vượt qua. ... [00:37:42] Thứ nhất là các bạn có thể chờ cái nến H1 xem thử nó có break out ra khỏi được cái đoạn này hay không. Nếu nó phá lên được thì thôi không có short nữa."
+  },
+  "lenh": [
+    {"chieu": "SHORT", "vao": 64550, "tp": [], "sl": null, "trang_thai": "da_dong"},
+    {"chieu": "SHORT", "vao": [65000, 65400], "tp": [], "sl": null, "trang_thai": "de_xuat_moi"},
+    {"chieu": "LONG", "vao": 62000, "tp": [], "sl": null, "trang_thai": "de_xuat_moi"}
+  ],
+  "hanh_dong": "dung_ngoai_cho_entry",
+  "khung_lon": {"D1": null, "W1": "GIAM"},
+  "pha_vo_gia": "Nhịp bay sau tin FED giữ nguyên lãi suất bị coi là tăng do tâm lý, 'Lực này là lực counter trend', 'nhìn yếu quá'; cảnh báo 'đừng có thấy rút râu như vậy mà đi short đuổi ... Dụ long hết rồi'; có câu 'Phá vỡ giả cái vùng sideway hôm nay lại bị bịp short'. Trước tin cho rằng xác suất quét râu sâu 'trên 80%'.",
+  "trich_them": [
+    {"gio": "[00:11:42]", "cau": "Đoạn này nếu đo Fibo thì mình thấy Fibo mở rộng vùng target vẫn là đâu đó phải 2000 năm thì mới thỏa mãn được, mới hợp lý được."},
+    {"gio": "[00:15:52]", "cau": "Lúc tối cũng cho anh em lệnh kia ăn được rồi. Bắt BTC ngay vùng Fibo, bắt ở 64.550 là gần như bắt ở vùng rất đỉnh."},
+    {"gio": "[00:26:20]", "cau": "Nhưng tăng rồi sau đó thì chưa chắc vì nhìn chart H4 này rất xấu. Điều kiện để nó tăng lên thì mình nghĩ H1 phải đóng trên 64.100, tức phải phá tiếp đỉnh này thì may ra khoảng nghìn giá nữa"},
+    {"gio": "[00:37:42]", "cau": "plan ngày tiếp theo thì tạm thời đoạn này thì mình sẽ không đưa ra được cái plan đâu. Phải chờ nến H4. ... Còn nếu mà nó không phá được mà đóng một cây nến đỏ giảm lại dưới 64 thì mình nghĩ là bắt đầu có short được."},
+    {"gio": "[00:38:13]", "cau": "Short ở cả đoạn này nếu mà anh em muốn qua đêm thì mình nghĩ là chắc sẽ phải bắt ở trên 65 đến 65.4."},
+    {"gio": "[00:48:35]", "cau": "Đi cái kiểu tăng này mình nhìn cái volume nhìn cây nến mình thấy là lực nó không có lực, nhìn yếu quá"},
+    {"gio": "[00:50:49]", "cau": "Mình nghĩ muốn lên thì chắc là vẫn phải [00:51:21] về lại cái vùng 6200 này mới ổn. Lên mới ổn được."}
+  ],
+  "kho": "Buổi live tin FED (giữ nguyên 3.75): sau tin nói 'không đưa ra được cái plan, phải chờ nến H4' nhưng vẫn nghiêng giảm (nhịp bay yếu, counter trend, muốn lên phải về 62.000 trước, short vùng 65-65.4) → GIAM độ chắc thấp. Mốc vô hiệu là điều kiện H1 (đóng trên 64.700), không phải H4. 'Fibo mở rộng ... 2000 năm' hiểu là 62.500 (không chắc). Giá lúc nói ~64.000 trước tin."
+}

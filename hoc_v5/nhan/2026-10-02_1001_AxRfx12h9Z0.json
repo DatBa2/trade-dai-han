@@ -1,0 +1,516 @@
+{
+  "buoi": "2026-10-02_1001_AxRfx12h9Z0",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/lam_sach/2026-10-02_1001_AxRfx12h9Z0.md",
+  "gia_btc_luc_noi": 85000,
+  "dau_buoi": {
+    "thien_huong_h4": "GIAM",
+    "gio": null,
+    "trich": "Hiện tại như lúc sáng, mình đang có một lệnh sale nhỏ ở vùng dưới này để test xem thế nào. Tí nữa thì bị nhích SL. Nếu nhích SL vùng này thì sẽ chờ entry mới nhá. Về cơ bản ngày hôm nay mình vẫn đánh chủ lực là sale nếu thị trường đi kiểu như vậy."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "GIAM",
+    "do_chac": "thap",
+    "gio": null,
+    "trich": "Trần ở đây chắc thêm được nghìn giá nữa. H4 giờ đi xuống thì không hai đỉnh, nó chỉ là một nhịp sóng trong sóng thôi. Nếu nó trả về một cây nến đỏ chiều nay thì sau 3 giờ anh em mới sale được. ... Mình vẫn thấy thị trường hôm nay vẫn chua, không phải một nhịp tăng bền, nên anh em nên thận trọng, không nên FOMO quá."
+  },
+  "doi_y_giua_buoi": true,
+  "ly_do_doi_y": "Đầu buổi đánh chủ lực sale, kỳ vọng về 81–82. Sau khi H4 đóng xanh trên 85 và giá quét qua SL lệnh sale ở ~85, người nói bỏ sale ngắn hạn ('các lệnh sale hiện tại là không ổn', 'khỏi sale luôn'), cho rằng còn lên thêm ~1000 giá; chỉ sale lại nếu có nến H4 đỏ. Vẫn giữ nhận định nhịp tăng không bền, có thể qua thứ hai tuần sau mới gãy về 82 → hướng chính vẫn nghiêng giảm nhưng chặng gần đảo sang tăng.",
+  "chang_ke_tiep": {
+    "huong": "TANG",
+    "dich": [
+      86000,
+      86600
+    ]
+  },
+  "duong_di": [
+    {
+      "huong": "TANG",
+      "dich": [
+        86000,
+        86600
+      ]
+    },
+    {
+      "huong": "GIAM",
+      "dich": 82000
+    }
+  ],
+  "dich_chinh": 82000,
+  "han_gio": 96,
+  "vo_hieu": {
+    "gia": 86600,
+    "khung": "H4",
+    "so_nen": 1,
+    "chieu": "dong_tren",
+    "cau": "Còn nếu nó đóng trên 85 như bây giờ thì tiếp tục có cửa lên test lại vùng Fibo 0.66 [?] 85.500 [?], rồi vượt qua thằng này thì tiếp tục test ở 86.600 [?], vượt qua 86 mấy này anh em mới nghĩ đến câu chuyện ở trên cao. Trong quá trình đó, nếu từng mốc như vậy được chinh phục thì xác suất lên vùng 90 91 92 93 ngày càng gia tăng."
+  },
+  "lenh": [
+    {
+      "chieu": "SHORT",
+      "vao": null,
+      "tp": [],
+      "sl": 85000,
+      "trang_thai": "da_dong"
+    },
+    {
+      "chieu": "LONG",
+      "vao": 82000,
+      "tp": [],
+      "sl": 80000,
+      "trang_thai": "de_xuat_moi"
+    }
+  ],
+  "hanh_dong": "dung_ngoai_cho_entry",
+  "khung_lon": {
+    "D1": "TANG",
+    "W1": null
+  },
+  "pha_vo_gia": "Nhịp lên hiện tại có thể chỉ là 'nhịp test râu' của râu tin PCE hôm kia — nếu bị từ chối và rớt dưới 85/84 thì cấu trúc điều chỉnh giữ nguyên; giá quét qua SL phe sale ở ~85 ('có thể quét qua SL đoạn này nó sẽ đảo xuống'); thị trường quét hai đầu liên tục; nghi 'dụ cho anh em cứ chờ ở dưới (82) rồi nó đi thẳng'.",
+  "trich_them": [
+    {
+      "gio": null,
+      "cau": "H4 đóng trên 85 là có sự confirm nhá, vì nó qua được vùng Fibo 0.5 này và qua được cản trước đó, tức là confirm cho nhịp sóng đẩy tiếp. ... Đặc biệt đoạn này mình vẫn cần một nhịp về 81 thì có vẻ ok hơn."
+    },
+    {
+      "gio": null,
+      "cau": "Còn nếu tiếp tục bị từ chối ở đây và đặc biệt rớt xuống dưới 85.000 và 84.000 [?] thì đó là tín hiệu khá xấu, và khả năng nhịp này chỉ là nhịp đi lên để test cái râu này."
+    },
+    {
+      "gio": null,
+      "cau": "Khi cấu trúc đẩy lên như mình nói, thứ nhất nó đóng trên 85, rồi vượt qua 85.600 [?] và giả sử đóng H1 ở trên đó, hoặc hai cây H1 ở trên đó, thì lúc đó chúng ta không cố giữ các lệnh sale nữa nhá."
+    },
+    {
+      "gio": null,
+      "cau": "Vùng dưới thì chúng ta nói quá nhiều rồi: vùng hỗ trợ cứng vẫn là 82. Mình vẫn chờ để bắt ở 82; ... chúng ta sẵn sàng cắt khoảng 2000 giá là đẹp."
+    },
+    {
+      "gio": null,
+      "cau": "H4 xanh: như vậy khả năng là confirm đứng ở trên này rồi. Thế thì anh em xác định các lệnh sale hiện tại là không ổn rồi. ... Tốt nhất ai đang sale thì cài sẵn SL vào đó; ai chưa sale thì cũng chưa nên vội nhá."
+    },
+    {
+      "gio": null,
+      "cau": "85.000 rồi đấy. Quét qua SL đoạn này rồi thì ngồi nhìn thôi. Có thể quét qua SL đoạn này nó sẽ đảo xuống, nhưng vẫn phải cài vào và ngồi nhìn nhá."
+    },
+    {
+      "gio": null,
+      "cau": "H4 này chắc còn một con nữa mút chỉ. Đi như thế này thì khỏi sale luôn nhá. Altcoin cũng không đánh được mà Bitcoin cũng không đánh nổi. Đoạn này thật chua."
+    },
+    {
+      "gio": null,
+      "cau": "Còn bằng không thì cứ chờ Bitcoin gãy. Có thể qua thứ hai tuần sau nó mới gãy về 82. Đến lúc đó chúng ta tính nhá."
+    },
+    {
+      "gio": null,
+      "cau": "Bitcoin đi trong vùng này thì nếu trade phải đánh linh hoạt cả hai đầu."
+    }
+  ],
+  "kho": "Transcript không có mốc giờ. Buổi khó nhất lô: đầu buổi nghiêng sale, giữa buổi H4 đóng trên 85 (người nói từng gọi đây là 'confirm cho nhịp sóng đẩy tiếp'), lệnh sale nhỏ bị quét SL ~85, chuyển sang 'khỏi sale', 'đánh linh hoạt hai đầu', 'nhiều kịch bản'; nhưng câu cuối vẫn 'không phải một nhịp tăng bền', 'trần thêm nghìn giá', chờ H4 đỏ để sale, 82 có thể tới sau thứ hai → gán GIAM độ chắc thấp với chặng kế tiếp TANG ~86–86.6 (số 86.600 có [?]). Nếu chấm thuần theo nến H4 cuối buổi có thể coi là TANG ngắn hạn. Lệnh long 82 là kế hoạch chờ, SL ~2000 giá suy ra 80.000. Giá đầu buổi ~84.5k, cuối buổi 85k.",
+  "nhin_lai_view_truoc": {
+    "view_truoc": "GIAM",
+    "giu_hay_doi": "giu",
+    "vi_sao": "Đầu buổi vẫn đánh chủ lực sale, vẫn cần một nhịp về 81-82 (hỗ trợ cứng 82-83 còn giữ). Giữa buổi H4 đóng xanh trên 85 (qua Fibo 0.5 + cản trendline) nên bỏ sale ngắn hạn, nhưng vẫn cho rằng nhịp tăng không bền, có thể qua thứ hai tuần sau mới gãy về 82",
+    "gio": null,
+    "trich": "Đặc biệt đoạn này mình vẫn cần một nhịp về 81 thì có vẻ ok hơn. Ngược lại đôi khi nhiều người chờ 81 quá thì nó lại không đẩy được, biết đâu được. Nhưng rõ ràng H4 đang có rất nhiều tín hiệu break đẹp"
+  },
+  "trendline": [
+    {
+      "khung": "H4",
+      "loai": "khang_cu_giam",
+      "noi_tu": "Cản trendline trên H4 trùng Fibo 0.5 quanh 85 (không nêu điểm neo)",
+      "diem_neo": [],
+      "gia_duong_luc_noi": 85000,
+      "trang_thai": "vua_pha",
+      "dieu_kien_pha": "H4 đóng trên 85 (trên Fibo 0.5 + qua cản trendline); cuối buổi H4 đóng xanh, 'confirm đứng ở trên này'",
+      "ket_luan_huong": "TANG",
+      "gio": null,
+      "trich": "Nếu H4 đóng qua được đoạn 85 này, tức đóng trên Fibo 0.5 cộng với qua cản của trendline, thì có khả năng kéo lên tiếp test lại đỉnh 86.600 [?] (gốc \"86.006\")."
+    }
+  ],
+  "nen_volume": [
+    {
+      "khung": "H1/H4",
+      "nen": "điều kiện lên 87: tối thiểu một cây H1 đóng trên 85.600 hoặc H4 đóng",
+      "volume": null,
+      "ket_luan": "87 còn hơi khó; hai đáy thường test ~86.700 nhưng phải vượt cụm Fibo 0.618/0.5",
+      "gio": null,
+      "trich": "mình nghĩ chắc phải chờ một cây H1 tối thiểu đóng trên 85.600 [?] (gốc \"85.00600\") hoặc H4 đóng thì may ra, còn 87 là hơi khó."
+    },
+    {
+      "khung": "H4",
+      "nen": "H4 đóng trên 85 = confirm (qua Fibo 0.5 + cản trước đó); bị từ chối và rớt dưới 85/84 = xấu",
+      "volume": null,
+      "ket_luan": "đóng trên → test 85.500, 86.600 rồi 90-93; đóng dưới → chỉ là nhịp test râu PCE, cấu trúc điều chỉnh giữ nguyên",
+      "gio": null,
+      "trich": "H4 đóng trên 85 là có sự confirm nhá, vì nó qua được vùng Fibo 0.5 này và qua được cản trước đó, tức là confirm cho nhịp sóng đẩy tiếp."
+    },
+    {
+      "khung": "H1",
+      "nen": "đóng 1-2 cây H1 trên 85.600",
+      "volume": null,
+      "ket_luan": "không cố giữ các lệnh sale nữa",
+      "gio": null,
+      "trich": "thứ nhất nó đóng trên 85, rồi vượt qua 85.600 [?] và giả sử đóng H1 ở trên đó, hoặc hai cây H1 ở trên đó, thì lúc đó chúng ta không cố giữ các lệnh sale nữa nhá."
+    },
+    {
+      "khung": "H1",
+      "nen": "H1 vẫn bị bán khá nhiều sau khi test râu",
+      "volume": "có một cây volume xanh",
+      "ket_luan": "ngắn hạn điều chỉnh về ~84.000 rồi kéo lên lại 85-85 mấy",
+      "gio": null,
+      "trich": "H1 vẫn bị bán khá nhiều. Nhịp này coi như lên test được cái râu này rồi, nhưng bị bán cũng khá nhiều. Ở đây có một cây volume xanh; cây này khả năng trong ngắn hạn nó sẽ có cú điều chỉnh về đâu đó khoảng 84.000 [?]"
+    },
+    {
+      "khung": "D1",
+      "nen": "một nến ngày màu xanh",
+      "volume": null,
+      "ket_luan": "lực đẩy lên tiếp là bình thường; tập trung H4",
+      "gio": null,
+      "trich": "Khung ngày: đầu tiên có một nến ngày màu xanh, nên sau đó có những lực đẩy lên tiếp là hết sức bình thường. Bây giờ cứ tập trung vào H4."
+    },
+    {
+      "khung": null,
+      "nen": "trên đỉnh nhỏ nhiều chấm xanh (FOMO long), rồi quay xuống cắn hết; phe bán vào thì đi ngang rồi lên kill",
+      "volume": "volume tăng khi người FOMO long vào",
+      "ket_luan": "giai đoạn này thị trường quét hai đầu, phải đánh linh hoạt cả hai đầu",
+      "gio": null,
+      "trich": "Rồi ở vùng nhỏ ngay trên đỉnh này có rất nhiều chấm xanh, người ta bắt đầu FOMO long vào rất nhiều; bằng chứng là volume tăng. Nó tăng xong rồi quay xuống cắn hết."
+    },
+    {
+      "khung": "H4",
+      "nen": "H4 đóng xanh giữ trên 85",
+      "volume": null,
+      "ket_luan": "các lệnh sale hiện tại không ổn; ai đang sale cài SL, ai chưa sale đừng vội",
+      "gio": null,
+      "trich": "H4 xanh: như vậy khả năng là confirm đứng ở trên này rồi. Thế thì anh em xác định các lệnh sale hiện tại là không ổn rồi."
+    },
+    {
+      "khung": "H4",
+      "nen": "nếu chiều nay trả về một cây nến đỏ",
+      "volume": null,
+      "ket_luan": "sau 3 giờ mới sale được; H4 đi sóng trong sóng chứ không phải hai đỉnh",
+      "gio": null,
+      "trich": "Nếu nó trả về một cây nến đỏ chiều nay thì sau 3 giờ anh em mới sale được. Nó đi sóng chứ không phải đi hai đỉnh"
+    }
+  ],
+  "cach_lam": [
+    {
+      "hanh_dong": "do",
+      "cong_cu": "fibo_thoai_lui",
+      "chi_tiet": "Fibo trên H4: giá kẹp giữa 0.618 và 0.5; mốc 0.66 ~85.500",
+      "ket_qua": "đóng trên 0.5 (~85) → test 85.500, 86.600",
+      "gio": null,
+      "trich": "Giá đang kẹp giữa Fibo 0.618 và Fibo 0.5, là vùng giá hơi khó chơi, mặc dù hiện tại có một vài tín hiệu tích cực."
+    },
+    {
+      "hanh_dong": "ve",
+      "cong_cu": "fibo_thoai_lui",
+      "chi_tiet": "Fibo khung lớn",
+      "ket_qua": "cản 0.5 nằm ở ~93 → vùng phân phối",
+      "gio": null,
+      "trich": "Nhìn biểu đồ là biết cản cứng nằm ở 93; vẽ Fibo ra cũng thấy cản 0.5 nằm ngay đó."
+    },
+    {
+      "hanh_dong": "ke",
+      "cong_cu": "trendline",
+      "chi_tiet": "Cản trendline H4 trùng Fibo 0.5 ~85",
+      "ket_qua": "H4 đóng xanh trên → confirm",
+      "gio": null,
+      "trich": "tức đóng trên Fibo 0.5 cộng với qua cản của trendline"
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "dinh_day_cu",
+      "chi_tiet": "Mô hình hai đáy, đỉnh cũ",
+      "ket_qua": "test ~86.700 / đỉnh 86.600",
+      "gio": null,
+      "trich": "Tất nhiên ở đây có thể đang chạy mô hình hai đáy. Hai đáy thì thông thường dễ test lại vùng khoảng 86.700 [?]"
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "BTC.D H4 kéo căng, USDT.D đứng; tỉ trọng vốn hóa (BTC 59,5%, ETH 10-11,5%, Total3 ~30%)",
+      "ket_qua": "dòng tiền đẩy BTC rút từ altcoin, không phải từ USDT.D → nhịp tăng chưa chắc bền",
+      "gio": null,
+      "trich": "Bitcoin tăng, BTC.D cũng tăng, USDT.D đứng, chứng tỏ dòng tiền đẩy Bitcoin đang được rút từ altcoin ra; nó bán altcoin để đẩy Bitcoin."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "Fear & Greed (chỉ để kiểm soát rủi ro)",
+      "ket_qua": "72, chưa điều chỉnh; về 50-60 mới hợp lý",
+      "gio": null,
+      "trich": "chỉ số phiên này vẫn trên vùng 70, đang 72. Nếu phiên này về khoảng 60 hoặc 50 thì hợp lý hơn"
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "hyblock",
+      "chi_tiet": "Hyblock",
+      "ket_qua": "ít thanh khoản, xanh đỏ xen kẽ → quét SL liên tục trong vùng",
+      "gio": null,
+      "trich": "Hai block: đợt này chắc cũng không có nhiều thanh khoản. Chắc đang xanh, đang quét từ đỏ lên xanh. Nó cứ xanh tí lại đỏ tí rồi lên, xanh tí gãy xuống đỏ tí lại lên: cứ quét stop loss liên tục trong vùng này"
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "Lợi suất US10 / US30; DXY",
+      "ket_qua": "US10 lập đỉnh rồi điều chỉnh (đỉnh lợi suất hay trùng đáy thị trường như 10/2022); DXY break khỏe",
+      "gio": null,
+      "trich": "Những nhịp tạo đỉnh của con này hay trùng với đỉnh của thị trường lắm; tức là khi con này đảo chiều đi xuống thì thị trường đi lên (tháng 10 năm 22 trùng với đáy)."
+    }
+  ],
+  "vung_nguoi_do": [
+    {
+      "loai": "khang_cu",
+      "tu": 85600,
+      "den": 85600,
+      "gio": null,
+      "trich": "phải chờ một cây H1 tối thiểu đóng trên 85.600 [?] (gốc \"85.00600\") hoặc H4 đóng thì may ra, còn 87 là hơi khó."
+    },
+    {
+      "loai": "dich",
+      "tu": 86700,
+      "den": 86700,
+      "gio": null,
+      "trich": "Hai đáy thì thông thường dễ test lại vùng khoảng 86.700 [?] (gốc \"86.0007\"/\"86.007\") này"
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 87000,
+      "den": 87000,
+      "gio": null,
+      "trich": "Hỏi có lên 87 không: mình nghĩ chắc phải chờ một cây H1 tối thiểu đóng trên 85.600 [?] (gốc \"85.00600\") hoặc H4 đóng thì may ra, còn 87 là hơi khó"
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 92000,
+      "den": 93000,
+      "gio": null,
+      "trich": "Cho nên nếu giá lên đến 92 93 thì vùng này trở thành vùng xả hàng rất mạnh, vùng phân phối rất lớn."
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 85000,
+      "den": 85000,
+      "gio": null,
+      "trich": "Nếu H4 đóng qua được đoạn 85 này, tức đóng trên Fibo 0.5 cộng với qua cản của trendline"
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 84000,
+      "den": 85000,
+      "gio": null,
+      "trich": "Còn nếu tiếp tục bị từ chối ở đây và đặc biệt rớt xuống dưới 85.000 và 84.000 [?] (gốc \"84.00\") thì đó là tín hiệu khá xấu"
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 85500,
+      "den": 85500,
+      "gio": null,
+      "trich": "tiếp tục có cửa lên test lại vùng Fibo 0.66 [?] 85.500 [?]"
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 86600,
+      "den": 86600,
+      "gio": null,
+      "trich": "rồi vượt qua thằng này thì tiếp tục test ở 86.600 [?], vượt qua 86 mấy này anh em mới nghĩ đến câu chuyện ở trên cao."
+    },
+    {
+      "loai": "dich",
+      "tu": 90000,
+      "den": 93000,
+      "gio": null,
+      "trich": "nếu từng mốc như vậy được chinh phục thì xác suất lên vùng 90 91 92 93 ngày càng gia tăng."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 81000,
+      "den": 81000,
+      "gio": null,
+      "trich": "Đặc biệt đoạn này mình vẫn cần một nhịp về 81 thì có vẻ ok hơn."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 82000,
+      "den": 83000,
+      "gio": null,
+      "trich": "Trước mắt vùng hỗ trợ cứng 82 83 vẫn giữ được giá"
+    },
+    {
+      "loai": "vao",
+      "tu": 82000,
+      "den": 82000,
+      "gio": null,
+      "trich": "Vùng dưới thì chúng ta nói quá nhiều rồi: vùng hỗ trợ cứng vẫn là 82. Mình vẫn chờ để bắt ở 82"
+    },
+    {
+      "loai": "dich",
+      "tu": 84000,
+      "den": 84000,
+      "gio": null,
+      "trich": "cây này khả năng trong ngắn hạn nó sẽ có cú điều chỉnh về đâu đó khoảng 84.000 [?]"
+    },
+    {
+      "loai": "vao",
+      "tu": 88000,
+      "den": 88000,
+      "gio": null,
+      "trich": "Còn không thì đánh từ 88 lên 92 cũng được: 4000 giá cũng bằng 82 lên 86, đúng không?"
+    },
+    {
+      "loai": "tp",
+      "tu": 92000,
+      "den": 92000,
+      "gio": null,
+      "trich": "đánh từ 88 lên 92 cũng được"
+    },
+    {
+      "loai": "sl",
+      "tu": 85000,
+      "den": 85000,
+      "gio": null,
+      "trich": "Lưu ý khi chờ: lệnh sale lúc nãy quét SL ở khoảng 85.000 [?] chăng?"
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 89000,
+      "den": 89000,
+      "gio": null,
+      "trich": "BTC có đạp hẳn lên 89, 89x là chuyện bình thường."
+    }
+  ],
+  "view_trung_han": [
+    {
+      "khung": "W1",
+      "huong": "TANG",
+      "dich": [
+        90000,
+        93000
+      ],
+      "han": null,
+      "mat_view_khi": "H4 bị từ chối, rớt dưới 85/84 → nhịp này chỉ test râu PCE, cấu trúc điều chỉnh giữ nguyên; 92-93 là vùng phân phối",
+      "gio": null,
+      "trich": "Khung lớn thì vẫn còn cửa đi lên, nhưng như lúc nãy mình nói, vùng 93 chứa nhiều rủi ro."
+    },
+    {
+      "khung": "D1",
+      "huong": "GIAM",
+      "dich": 82000,
+      "han": "có thể qua thứ hai tuần sau",
+      "mat_view_khi": null,
+      "gio": null,
+      "trich": "Còn bằng không thì cứ chờ Bitcoin gãy. Có thể qua thứ hai tuần sau nó mới gãy về 82. Đến lúc đó chúng ta tính nhá."
+    },
+    {
+      "khung": "M1",
+      "huong": "GIAM",
+      "dich": [
+        60000,
+        69999
+      ],
+      "han": "Q4",
+      "mat_view_khi": null,
+      "gio": null,
+      "trich": "Hỏi: Trong Q4 này có thể thấy Bitcoin 6x được không? Những câu trả lời của mình bây giờ cũng không có ý nghĩa nhiều lắm. Cá nhân mình vẫn giữ quan điểm: xác suất để về những vùng dưới đó vẫn còn nguyên."
+    }
+  ],
+  "vung_tranh": [
+    {
+      "tu": 84000,
+      "den": 85000,
+      "vi_sao": "Vùng giá hiện tại mới là vùng FOMO: vào hàng ở đây để ăn lên 93 là đi trước thị trường; không đuổi lên, chờ 82",
+      "gio": null,
+      "trich": "Anh em nên nhớ: vùng giá bây giờ của chúng ta mới là vùng FOMO, chứ không phải vùng 93."
+    },
+    {
+      "tu": 92000,
+      "den": 93000,
+      "vi_sao": "Vùng phân phối/phòng thủ, rất nhiều người chốt lãi → lên tới đó không tạo form rồi pullback",
+      "gio": null,
+      "trich": "Vùng 93 là vùng phân phối, vùng phòng thủ. Nếu giá lên 93 sẽ rất nhiều người chốt lãi trên đó."
+    },
+    {
+      "tu": 75000,
+      "den": 90000,
+      "vi_sao": "Khúc 75 → 90 không cố nhảy vào ăn, ngồi im đánh thận trọng",
+      "gio": null,
+      "trich": "Nhưng đối với cá nhân mình, mình không ăn khúc từ 75 lên đến 90. Khúc đó không phải khúc cứ cố nhảy vào ăn; lúc đó là ngồi im thở khẽ thôi"
+    },
+    {
+      "tu": 85000,
+      "den": null,
+      "vi_sao": "Càng lên (đóng trên 85, vượt 85.600) càng hạn chế sale, không nhồi sale",
+      "gio": null,
+      "trich": "Cho nên càng thấy nó lên thì chúng ta càng hạn chế sale bớt, chứ không phải càng lên càng nhồi vào sale nhá."
+    }
+  ],
+  "giu_dong": [
+    {
+      "lenh": "sale nhỏ test buổi sáng",
+      "quyet_dinh": "dong",
+      "khi_nao": "SL trên râu (~85) bị quét; chấp nhận, chờ entry mới",
+      "gio": null,
+      "trich": "Lệnh sale lúc sáng: mình sale để test xem nó có gãy đoạn này về vùng dưới hay không. Nó lại kéo đi lên nữa thì chịu. SL trên cái râu này, kéo lên đây nữa thì chịu, ngồi im thôi, chấp nhận bị thịt."
+    },
+    {
+      "lenh": "các lệnh sale đang có",
+      "quyet_dinh": "dong",
+      "khi_nao": "đóng 1-2 cây H1 trên 85.600 hoặc H4 xanh giữ trên 85 → không cố giữ, cài sẵn SL",
+      "gio": null,
+      "trich": "H4 xanh: như vậy khả năng là confirm đứng ở trên này rồi. Thế thì anh em xác định các lệnh sale hiện tại là không ổn rồi. 10 phút nữa đóng mà vẫn giữ được ở đây thì khả năng là không ổn. Tốt nhất ai đang sale thì cài sẵn SL vào đó"
+    },
+    {
+      "lenh": "sale kẹt 64 của người xem",
+      "quyet_dinh": "giu",
+      "khi_nao": "ngồi im thôi",
+      "gio": null,
+      "trich": "Có người sale kẹt ở 64 thì tầm này làm gì: ngồi im thôi."
+    },
+    {
+      "lenh": "spot ETH/BTC (DCA bot hàng ngày)",
+      "quyet_dinh": "giu",
+      "khi_nao": "gom hàng ngày, chưa mua chủ lực vì chưa tới vùng giá target",
+      "gio": null,
+      "trich": "ETH và BTC vừa rồi mình gom hàng ngày thôi (DCA bằng bot), không mua chủ lực ở các vùng giá dưới, vì chưa đến vùng giá chủ lực mình target mua."
+    }
+  ],
+  "tin_tuc": [
+    {
+      "su_kien": "NFP, thất nghiệp",
+      "thoi_diem": "7:30 tối nay (thứ sáu)",
+      "nguon": "lich_kinh_te",
+      "so_lieu": null,
+      "anh_huong_view": "thận trọng, chắc chắn lùa gà nhiều; thị trường chạy trước tin là bình thường",
+      "gio": null,
+      "trich": "Tối nay có tin non-farm cộng với tin thất nghiệp, 7:30 theo giờ Việt Nam. Lúc sáng mình vừa build con bot để nó tự động cập nhật tin trong nhóm chat cho anh em dễ follow, xem thử có chuẩn không và tốc độ lấy tin có tốt không. Nếu tốt mình sẽ cải tiến cho nó báo trước khoảng 30 phút hoặc đầu ngày. Trang Forex Factory bữa nay bị chặn IP Việt Nam rồi nên khó follow các tin này. Cho nên thận trọng tối nay, chắc chắn thị trường sẽ lùa gà khá nhiều"
+    },
+    {
+      "su_kien": "Lợi suất trái phiếu Mỹ US10/US30",
+      "thoi_diem": "hôm qua lập đỉnh, hôm nay điều chỉnh",
+      "nguon": "khac",
+      "so_lieu": null,
+      "anh_huong_view": "lợi suất cao → tổ chức lớn kéo tiền về trái phiếu, BTC/vàng gặp rủi ro; đỉnh lợi suất hay trùng điểm đảo chiều thị trường",
+      "gio": null,
+      "trich": "Lợi suất này phản ánh: nếu lợi suất cao thì dòng tiền của tổ chức lớn như BlackRock có xu hướng kéo quay về để gửi vào trái phiếu. Khi dòng tiền đó quay về thì tài sản rủi ro như BTC hay vàng sẽ gặp rủi ro"
+    },
+    {
+      "su_kien": "Chiến sự: Mỹ và đồng minh chuyển quân; Iran tuyên bố chơi tới cùng",
+      "thoi_diem": "mấy ngày trước",
+      "nguon": "khac",
+      "so_lieu": null,
+      "anh_huong_view": "không ai dám dự đoán chiến tranh kết thúc sớm",
+      "gio": null,
+      "trich": "nhiều kênh hay follow về chiến sự đưa tin Mỹ và phe đồng minh (hình như có Thổ Nhĩ Kỳ, mình không nhớ cụ thể nước nào) bắt đầu có những đợt chuyển quân vào, rất âm thầm. Bên cạnh đó vài ngày trước có thêm tin Iran tuyên bố chơi tới cùng"
+    },
+    {
+      "su_kien": "DXY break",
+      "thoi_diem": "đợt này",
+      "nguon": null,
+      "so_lieu": null,
+      "anh_huong_view": "Mỹ muốn lấy lại vị thế DXY; DXY tăng nhưng vàng vẫn khỏe",
+      "gio": null,
+      "trich": "DXY: đợt này DXY break, khỏe. Ngày xưa DXY còn đấm cho vàng với BTC chạy lên bờ xuống ruộng mà đợt này không ai coi nó ra gì. Nhưng thằng này từ từ: Mỹ đang muốn lấy lại vị thế của DXY đấy"
+    }
+  ],
+  "nghi_van_nhan_v2": null
+}

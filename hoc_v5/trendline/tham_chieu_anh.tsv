@@ -1,0 +1,11 @@
+buoi	video	giay	khung	loai	gia_ref	trang_thai	anh	ghi_chu
+2026-02-27_9wE4YYq3P6Y	9wE4YYq3P6Y	1770	H4	khang_cu_giam	66700	pha_roi_test_lai	so_tay/khung/9wE4YYq3P6Y_002930.jpg	neo rau dinh 71041.7 (Binance) qua dinh ~68.8k, neo phai 64404.8; doc pixel tai nen hien tai ~66.7k; gia 67073 da pha len va ve test lai
+2026-03-12_qJZk9q5A7rA	qJZk9q5A7rA	1650	H4	khang_cu_giam	71280	chua_pha	so_tay/khung/qJZk9q5A7rA_002730.jpg	neo rau dinh 74096.7 qua dinh ~71.9k; doc pixel ~71.3k; noi "qua khoi 71.000 va dong nen o tren"; gia 69392
+2026-05-27_cFwCrK3RjcQ	cFwCrK3RjcQ	1110	H4	khang_cu_giam	75170	da_pha	so_tay/khung/cFwCrK3RjcQ_001830.jpg	tu dinh ~82.0k (14/05) noi dinh thap dan; doc pixel ~75.2k; gia 75821 nam tren duong, cat len ~3 ngay truoc
+2026-06-25_gy-YwzytUiA	gy-YwzytUiA	930	D1	ho_tro_tang	58950	dang_giu	so_tay/khung/gy-YwzytUiA_001530.jpg	gan nam ngang hoi DOC XUONG noi 2 rau day ~59.1k -> ~59.0k; doc pixel ~58.95k; "khong danh gia cao trendline nay"
+2026-08-18__c0_SERWnz0	_c0_SERWnz0	570	D1	khang_cu_giam	64740	chua_pha	so_tay/khung/_c0_SERWnz0_000930.jpg	canh tren tam giac D1 tu rau dinh ~67.2k (21/07); doc pixel ~64.7k; gia 64088
+2026-08-18__c0_SERWnz0	_c0_SERWnz0	570	D1	ho_tro_tang	62710	dang_giu	so_tay/khung/_c0_SERWnz0_000930.jpg	canh duoi tam giac D1 tu day ~61k (dau 07); doc pixel ~62.7k
+2026-08-18__c0_SERWnz0	_c0_SERWnz0	1170	H4	khang_cu_giam	64870	chua_pha	so_tay/khung/_c0_SERWnz0_001930.jpg	H4 tu dinh truoc 25/07 qua rau dinh 65.5k (09/08); doc pixel ~64.87k; gia 64073
+2026-08-18__c0_SERWnz0	_c0_SERWnz0	2550	H4	ho_tro_tang	62525	dang_giu	so_tay/khung/_c0_SERWnz0_004230.jpg	canh duoi tam giac H4 tu day ~60k (07); doc pixel ~62.5k (canh tren ~64.9k = dong 1170)
+2026-09-04_eujLmRVw88k	eujLmRVw88k	330	H4	khang_cu_giam	77780	vua_pha	so_tay/khung/eujLmRVw88k_000530.jpg	canh tren la co giam tu dinh ~81.5k (25/08); doc pixel ~77.8k; nen cuoi vot len 80.9k
+2026-10-02_AxRfx12h9Z0	AxRfx12h9Z0	1110	H4	khang_cu_giam	83470	vua_pha	so_tay/khung/AxRfx12h9Z0_001830.jpg	tu rau dinh ~87.25k (22/09) noi dinh thap dan; doc pixel ~83.5k; gia 85197 vua pha len

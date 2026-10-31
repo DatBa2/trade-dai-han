@@ -1,0 +1,427 @@
+{
+  "buoi": "2026-01-08_jX-0Hgy1S0E",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/zip_clean/2026-01-08_jX-0Hgy1S0E.txt",
+  "gia_btc_luc_noi": 90800,
+  "dau_buoi": {
+    "thien_huong_h4": "GIAM",
+    "gio": "[00:01:20]",
+    "trich": "Hôm nay có lẽ nếu muốn long thì vẫn phải chờ dưới thấp nữa anh em ạ."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "GIAM",
+    "do_chac": "vua",
+    "gio": "[01:02:47]",
+    "trich": "Nến H4 đóng ở đây thì không long được rồi, chưa long được. H4 này đỏ."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {
+    "huong": "GIAM",
+    "dich": 90000
+  },
+  "duong_di": [
+    {
+      "huong": "GIAM",
+      "dich": 90000
+    },
+    {
+      "huong": "GIAM",
+      "dich": 88000
+    },
+    {
+      "huong": "TANG",
+      "dich": 96000
+    },
+    {
+      "huong": "GIAM",
+      "dich": null
+    }
+  ],
+  "dich_chinh": [
+    88000,
+    90000
+  ],
+  "han_gio": null,
+  "vo_hieu": {
+    "gia": 91000,
+    "khung": "H4",
+    "so_nen": 1,
+    "chieu": "dong_tren",
+    "cau": "nếu muốn long thì đoạn này ít nhất anh em phải chờ có một cây H4 đóng màu xanh lên trên khỏi MA34 tức là trên vùng giá 91.000 thì lúc đó chúng ta hẵng nghĩ đến câu chuyện long đuổi lên tiếp."
+  },
+  "lenh": [
+    {
+      "chieu": "SHORT",
+      "vao": 91000,
+      "tp": 90000,
+      "sl": null,
+      "trang_thai": "dang_giu"
+    },
+    {
+      "chieu": "LONG",
+      "vao": 90000,
+      "tp": 91000,
+      "sl": null,
+      "trang_thai": "de_xuat_moi"
+    }
+  ],
+  "hanh_dong": "giu_lenh",
+  "khung_lon": {
+    "D1": "Nến ngày đỏ + râu tạo cụm đảo chiều nến ngày rất đẹp (giảm); vẫn có thể còn một nhịp lên test MA89 D1 ~96k rồi mới sập hẳn.",
+    "W1": "Mọi nhịp hiện tại chỉ là sóng hồi/điều chỉnh để gãy tiếp; hành trình downtrend mới bắt đầu (50k, 40k… 20k còn ở dưới)."
+  },
+  "pha_vo_gia": "Râu H4 rút chân về 91 hôm qua được coi là trap: giá test lại 1-2 nến rồi thủng luôn qua râu.",
+  "nhin_lai_view_truoc": {
+    "view_truoc": "TANG",
+    "giu_hay_doi": "doi",
+    "vi_sao": "Râu H4/D1 ở 91 bị test lại rồi thủng luôn; nến D1 tạo cụm đảo chiều; H4 thủng MA34 ngay nhịp test đầu tiên (yếu bất thường) nên MA34 thành cản; 2 gap 90 và 88 chưa lấp → chuyển sang điều chỉnh tiếp, khoan long. Người nói coi đây là 'không có gì lạ' (hôm qua đã nói thủng 91 thì về 88).",
+    "gio": "[00:14:51]",
+    "trich": "Nhịp ngày hôm qua cái nến đỏ này đối với cá nhân mình thì không có gì mới lạ. Và ở đây cái râu này rõ ràng là trap. Hôm qua mình nói mọi người, H4 nó tạo cái râu này. Rút chân ở đây. Test lên đi lên một cây và bật volume lên. Chúng ta thấy lực mua với lực bán này thì rõ ràng lực bán áp đảo và cái râu nến này thì khả năng về test rất cao rồi. Và bây giờ không những nó test, nó chỉ test một hai nến này sau đó là thủng luôn đâm qua luôn. Bây giờ cái cửa lên là càng ngày càng hẹp lại."
+  },
+  "trendline": [],
+  "nen_volume": [
+    {
+      "khung": "M15",
+      "nen": "Cây volume M5 khi hồi lên",
+      "volume": "Có một cây volume M5 lớn",
+      "ket_luan": "Chưa gãy liền",
+      "gio": "[00:03:36]",
+      "trich": "Ở đây có một cây volume M5 này các bạn. Mình nghĩ là cũng chưa gãy liền đâu."
+    },
+    {
+      "khung": "H4",
+      "nen": "Râu rút chân H4 ở 91, test lên một cây",
+      "volume": "Bật volume lên; lực bán áp đảo lực mua",
+      "ket_luan": "Râu là trap, khả năng về test rất cao — và đã test 1-2 nến rồi thủng luôn",
+      "gio": "[00:14:51]",
+      "trich": "H4 nó tạo cái râu này. Rút chân ở đây. Test lên đi lên một cây và bật volume lên. Chúng ta thấy lực mua với lực bán này thì rõ ràng lực bán áp đảo và cái râu nến này thì khả năng về test rất cao rồi."
+    },
+    {
+      "khung": "D1",
+      "nen": "Nến ngày đỏ + nến trước tạo cụm đảo chiều",
+      "volume": null,
+      "ket_luan": "Cụm đảo chiều nến ngày rất đẹp → chưa long",
+      "gio": "[00:15:21]",
+      "trich": "Cây nến ngày như thế này thì tạo thành một cụm đảo chiều cực kỳ đẹp. Cụm này là cụm đảo chiều nến ngày rất đẹp."
+    },
+    {
+      "khung": "D1",
+      "nen": "Nến bán và cặp đảo chiều",
+      "volume": null,
+      "ket_luan": "Chưa sập hẳn, còn nhập nhằng; có thể còn nhịp lên 96 test MA89",
+      "gio": "[00:17:24]",
+      "trich": "D1 này. D1 cũng nến bán và cặp đảo chiều này. Mình nghĩ đoạn này nó có khả năng chạy như vậy. Mình nghĩ đoạn này cũng chưa phải là sập hẳn đâu."
+    },
+    {
+      "khung": "H4",
+      "nen": "Nhịp điều chỉnh đầu tiên đã thủng luôn MA34",
+      "volume": null,
+      "ket_luan": "Sóng tăng yếu bất thường, nhịp giảm không dừng ở đây; MA34 thành cản",
+      "gio": "[00:22:09]",
+      "trich": "khi nó đi nhịp đầu tiên nó điều chỉnh mà thủng luôn MA như này thì có vẻ nhịp này nó sẽ không dừng lại ở đây. Và MA34 này bây giờ sẽ trở thành một cái cản rồi."
+    },
+    {
+      "khung": "H4",
+      "nen": "Cần một cây H4 đóng xanh trên MA34 (trên 91.000)",
+      "volume": null,
+      "ket_luan": "Có thì mới long đuổi",
+      "gio": "[00:22:09]",
+      "trich": "nếu muốn long thì đoạn này ít nhất anh em phải chờ có một cây H4 đóng màu xanh lên trên khỏi MA34 tức là trên vùng giá 91.000"
+    },
+    {
+      "khung": "H1",
+      "nen": "H1 có thể tạo hai đáy",
+      "volume": null,
+      "ket_luan": "Đừng short đuổi, nó sẽ cố trap",
+      "gio": "[00:23:42]",
+      "trich": "H1 đi như vậy thì đừng có đi short đuổi bây giờ. Mình nghĩ cũng không phải là thơm lắm. Nhìn cái màu thằng này mình nghĩ là nó sẽ cố trap anh em. Nhìn thấy hai đáy là có khả năng hai đáy."
+    },
+    {
+      "khung": "H4",
+      "nen": "H4 đóng đỏ",
+      "volume": null,
+      "ket_luan": "Chưa long được",
+      "gio": "[01:02:47]",
+      "trich": "Nến H4 đóng ở đây thì không long được rồi, chưa long được. H4 này đỏ."
+    }
+  ],
+  "cach_lam": [
+    {
+      "hanh_dong": "ke",
+      "cong_cu": "khac",
+      "chi_tiet": "Gap CME (vẽ hôm qua, post Telegram)",
+      "ket_qua": "Gap 1: 91-90k; gap 2: 88k; chưa lấp xong",
+      "gio": "[00:15:53]",
+      "trich": "Lúc đó đang ở 91.00, gap 91 và 90.00. Gap 2 là 88."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "ema",
+      "chi_tiet": "MA34 trên H4",
+      "ket_qua": "Thủng ngay nhịp đầu → thành kháng cự ~91k",
+      "gio": "[00:16:54]",
+      "trich": "Bây giờ đường MA34 này sẽ trở thành cái cản. Trừ khi có một cây nến H4 đóng vượt lên lại thì lúc đó chúng ta hẵng tìm điểm đánh long."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "ema",
+      "chi_tiet": "MA89 và MA200 khung D1 (bản chất nhịp phục hồi phải chạm một trong hai)",
+      "ket_qua": "MA89 D1 ~96k cần được test",
+      "gio": "[00:17:56]",
+      "trich": "Bởi vì thực tế bản chất của nhịp phục hồi này cái nó cần đó là MA89 và MA200. Một trong hai thằng này nó cần được chạm đến để đảm bảo tính cung cầu của thị trường được cân bằng."
+    },
+    {
+      "hanh_dong": "do",
+      "cong_cu": "fibo_thoai_lui",
+      "chi_tiet": "Fibo nhịp tăng",
+      "ket_qua": "Fibo 0.5 = 87.000 (không đánh giá cao, chủ yếu gap quan trọng)",
+      "gio": "[00:20:00]",
+      "trich": "Anh em hỏi Fibo thì có thằng 87.000 này vẫn là Fibo 0.5. Nếu nó về đến gap 2, gap 88 thì mình nghĩ là nó sẽ về đến Fibo này. Nhưng Fibo này thì mình không đánh giá cao lắm."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "heatmap",
+      "chi_tiet": "Liquidation map",
+      "ket_qua": "Liquid 90.000 → TP short 90k",
+      "gio": "[00:56:09]",
+      "trich": "À quên check liquid rồi. Hôm qua ăn được nhiều liquid. 90.000, mình cũng đoán là như thế. Đường này 90.000 chốt TP 90.000."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "ema",
+      "chi_tiet": "Hợp lưu MA89 + MA200 trên khung 30 phút",
+      "ket_qua": "Vùng long ngắn, TP ~91k (1000 giá)",
+      "gio": "[01:02:47]",
+      "trich": "Trở về đây thì hợp lưu MA, vừa MA89 vừa đường MA200 ở trên khung 30 phút."
+    }
+  ],
+  "vung_nguoi_do": [
+    {
+      "loai": "ho_tro",
+      "tu": 90000,
+      "den": 91000,
+      "gio": "[00:15:53]",
+      "trich": "gap 91 và 90.00."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 88000,
+      "den": 88000,
+      "gio": "[00:15:53]",
+      "trich": "Gap 2 là 88."
+    },
+    {
+      "loai": "dich",
+      "tu": 96000,
+      "den": 96000,
+      "gio": "[00:17:24]",
+      "trich": "Mình nghĩ là nó có thể sẽ còn một nhịp lên được khoảng 96 nữa."
+    },
+    {
+      "loai": "dich",
+      "tu": 87000,
+      "den": 88000,
+      "gio": "[00:18:26]",
+      "trich": "nếu nó ít thì có thể nó về đến vùng 88, 87 sau đó nó lên đến khoảng 96 nó lại rụng luôn."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 87000,
+      "den": 87000,
+      "gio": "[00:20:00]",
+      "trich": "có thằng 87.000 này vẫn là Fibo 0.5."
+    },
+    {
+      "loai": "vo_hieu",
+      "tu": 91000,
+      "den": 91000,
+      "gio": "[00:22:09]",
+      "trich": "chờ có một cây H4 đóng màu xanh lên trên khỏi MA34 tức là trên vùng giá 91.000"
+    },
+    {
+      "loai": "vao",
+      "tu": 91000,
+      "den": 91000,
+      "gio": "[00:24:14]",
+      "trich": "vùng này mình có short một cái entry 91.00, 9100 gì đó"
+    },
+    {
+      "loai": "tp",
+      "tu": 90000,
+      "den": 90000,
+      "gio": "[00:56:09]",
+      "trich": "Đường này 90.000 chốt TP 90.000. Ăn ngắn thôi."
+    },
+    {
+      "loai": "vao",
+      "tu": 90000,
+      "den": 90000,
+      "gio": "[01:01:33]",
+      "trich": "chờ vùng đầu tiên quanh 90.000."
+    },
+    {
+      "loai": "vao",
+      "tu": 88000,
+      "den": 88000,
+      "gio": "[01:01:33]",
+      "trich": "nếu nến đẹp thì mới chơi, còn không thì chờ về khoảng vùng 88."
+    },
+    {
+      "loai": "tp",
+      "tu": 91000,
+      "den": 91000,
+      "gio": "[01:02:47]",
+      "trich": "Ăn ngắn khoảng 91, tức khoảng 1000 giá là chốt long chứ đừng đánh lâu quá."
+    }
+  ],
+  "view_trung_han": [
+    {
+      "khung": "D1",
+      "huong": "TANG",
+      "dich": 96000,
+      "han": null,
+      "mat_view_khi": null,
+      "gio": "[00:17:24]",
+      "trich": "Mình nghĩ là nó có thể sẽ còn một nhịp lên được khoảng 96 nữa. Tức là test đường MA89 này."
+    },
+    {
+      "khung": "W1",
+      "huong": "GIAM",
+      "dich": null,
+      "han": null,
+      "mat_view_khi": null,
+      "gio": "[00:11:44]",
+      "trich": "plan của mình là những nhịp này đều là những nhịp điều chỉnh, những nhịp phục hồi để chỉnh tiếp để gãy tiếp thôi."
+    },
+    {
+      "khung": "M1",
+      "huong": "GIAM",
+      "dich": [
+        20000,
+        60000
+      ],
+      "han": null,
+      "mat_view_khi": null,
+      "gio": "[00:39:44]",
+      "trich": "Chúng ta mới đang ở những vùng trên này thôi, 90 95.000, 87.000, 60.000, 50.000 còn chưa thấy. Dưới nữa mới là 40.000, 30.000, rồi 20.000, nó còn nằm sâu dưới."
+    }
+  ],
+  "vung_tranh": [
+    {
+      "tu": null,
+      "den": 91000,
+      "vi_sao": "Không long khi giá còn dưới 91k (dưới MA34 H4) mà chưa có H4 đóng xanh trên 91k; entry đẹp nhưng 'đáy hôm nay là đỉnh ngày mai'",
+      "gio": "[00:22:41]",
+      "trich": "Không cần phải lo đi bắt long ở thời điểm bây giờ kẻo nó lên 91.000 chúng ta không còn cơ hội. Trade đúng là phải chờ tín hiệu xác nhận."
+    }
+  ],
+  "giu_dong": [
+    {
+      "lenh": "Spot/alt đang kẹt (vd SOL mua 140)",
+      "quyet_dinh": "dong",
+      "khi_nao": "Cắt nếu số lỗ không ảnh hưởng tài chính; chỉ gồng khi đặt trước ngưỡng lỗ chấp nhận (vd -200$) và mục tiêu lãi (vd +500$), chạm bên nào xử lý bên đó",
+      "gio": "[00:12:47]",
+      "trich": "Ví dụ các bạn đang âm 50 đô thì nếu cắt lỗ 50 đô này không ảnh hưởng đến tài chính thì cắt. Hoặc các bạn muốn chấp nhận lỗ 200 đô để gồng lãi được 500 đô thì hãy gồng, chấp nhận nếu âm 200 đô thì cắt hoặc lãi 500 đô thì chốt."
+    },
+    {
+      "lenh": "Lệnh đang âm quá plan/cầm quá lâu (vd PIPPIN)",
+      "quyet_dinh": "dong",
+      "khi_nao": "Khi lỗ thu hẹp lại (vd từ -2000$ về -500/-300$) thì cắt luôn, không chờ về bờ; thấy về bờ thì out gấp",
+      "gio": "[00:49:14]",
+      "trich": "nguyên tắc của mình là một lệnh đã vào mà âm quá so với plan hoặc âm quá so với một khoảng thời gian nào đó, cầm quá lâu thì mình sẽ tìm cách thoát."
+    },
+    {
+      "lenh": "Short BTC 91k (đang lãi nhẹ)",
+      "quyet_dinh": "giu",
+      "khi_nao": "Giữ tới TP 90.000 (vùng liquid), ăn ngắn",
+      "gio": "[00:56:09]",
+      "trich": "Lệnh short của chúng ta vẫn đang lãi, lãi nhẹ chứ không sâu lắm. TP ở đâu nhỉ anh em? À quên check liquid rồi. Hôm qua ăn được nhiều liquid. 90.000, mình cũng đoán là như thế. Đường này 90.000 chốt TP 90.000. Ăn ngắn thôi."
+    },
+    {
+      "lenh": "Long BTC bắt ở vùng gap ~90k",
+      "quyet_dinh": "giu",
+      "khi_nao": "Không đặt SL cố định; theo 3 cây nến: 2 cây đóng đỏ dưới vùng thì out; xanh-đỏ-xanh thì chờ cây tiếp, đỏ thì out; đỏ-xanh-xanh thì giữ",
+      "gio": "[01:07:07]",
+      "trich": "Nếu bắt ở đây, SL phải chờ ba cây nến, bao gồm hai cây nến đóng đỏ ở dưới vùng này thì chúng ta out. Hoặc ví dụ một cây xanh, một cây đỏ, sau đó lại một cây xanh thì phải chờ thêm một cây nến tiếp theo; nếu tiếp theo là một cây nến đỏ thì chúng ta out. Còn cây đầu tiên đỏ, cây thứ hai xanh và cây thứ ba xanh thì giữ được."
+    },
+    {
+      "lenh": "Long BTC nếu ăn được từ 90k",
+      "quyet_dinh": "chot_mot_phan",
+      "khi_nao": "Té khoảng 1000 giá là phải TP1",
+      "gio": "[01:08:52]",
+      "trich": "Nếu về đây mà long ăn được thì cũng nên té khoảng 1000 giá là phải TP1."
+    }
+  ],
+  "tin_tuc": [
+    {
+      "su_kien": "NFP",
+      "thoi_diem": "hôm qua 8:15",
+      "nguon": "lich_kinh_te",
+      "so_lieu": "Thị trường không biến động nhiều (vàng chỉ 4454 về 4420)",
+      "anh_huong_view": "Không tác động nhiều",
+      "gio": "[00:30:01]",
+      "trich": "Tin tức hôm qua có tin non farm lúc 8:15, hôm qua thị trường không biến động quá nhiều."
+    },
+    {
+      "su_kien": "Trợ cấp thất nghiệp; nhiều tin thứ sáu",
+      "thoi_diem": "hôm nay thứ năm 8:30; ngày mai thứ sáu liên tục nhiều tin",
+      "nguon": "lich_kinh_te",
+      "so_lieu": null,
+      "anh_huong_view": "Tin tức phiên Mỹ cứ tránh",
+      "gio": "[00:31:03]",
+      "trich": "Hôm nay thứ năm, 8:30 vẫn có tin trợ cấp thất nghiệp. Ngày mai thứ sáu liên tục nhiều tin. Tin tức phiên Mỹ cứ tránh là được."
+    },
+    {
+      "su_kien": "Tin WLFI (quỹ của Trump), Trump bắt tổng thống Maduro (Venezuela)",
+      "thoi_diem": "hôm qua / lần trước",
+      "nguon": "bao",
+      "so_lieu": null,
+      "anh_huong_view": "Không đổi view BTC: muốn long vẫn chờ lấp gap",
+      "gio": "[01:00:29]",
+      "trich": "Hôm qua có tin thằng đồng sáng lập quỹ WLFI của Trump, hôm trước đánh một coin X4 X5, lần trước là tin Trump bắt tổng thống Maduro của Venezuela. Giờ muốn long Bitcoin thì mình nghĩ nên chờ lấp gap thôi."
+    }
+  ],
+  "trich_them": [
+    {
+      "gio": "[00:15:21]",
+      "cau": "Cây nến ngày như thế này thì tạo thành một cụm đảo chiều cực kỳ đẹp. Cụm này là cụm đảo chiều nến ngày rất đẹp."
+    },
+    {
+      "gio": "[00:16:54]",
+      "cau": "Bây giờ đường MA34 này sẽ trở thành cái cản. Trừ khi có một cây nến H4 đóng vượt lên lại thì lúc đó chúng ta hẵng tìm điểm đánh long."
+    },
+    {
+      "gio": "[00:17:24]",
+      "cau": "Mình nghĩ là nó có thể sẽ còn một nhịp lên được khoảng 96 nữa. Tức là test đường MA89 này."
+    },
+    {
+      "gio": "[00:18:26]",
+      "cau": "Có thể có hai điểm, nếu nó ít thì có thể nó về đến vùng 88, 87 sau đó nó lên đến khoảng 96 nó lại rụng luôn."
+    },
+    {
+      "gio": "[00:19:29]",
+      "cau": "tạm thời chúng ta chỉ kết luận với nhau là thị trường vẫn đang tiếp tục điều chỉnh cho nên chúng ta hẵng khoan đi long, chưa có tín hiệu nào long."
+    },
+    {
+      "gio": "[00:21:37]",
+      "cau": "khi nó đi nhịp đầu tiên nó điều chỉnh mà thủng luôn MA như này thì có vẻ nhịp này nó sẽ không dừng lại ở đây."
+    },
+    {
+      "gio": "[00:49:46]",
+      "cau": "Thủng 90 thì về 88. Thủng 89 về 88. Gap thì bản chất nó sinh ra rồi nó lấp thôi."
+    },
+    {
+      "gio": "[00:56:09]",
+      "cau": "Lệnh short của chúng ta vẫn đang lãi, lãi nhẹ chứ không sâu lắm. TP ở đâu nhỉ anh em? À quên check liquid rồi. Hôm qua ăn được nhiều liquid. 90.000, mình cũng đoán là như thế. Đường này 90.000 chốt TP 90.000. Ăn ngắn thôi."
+    },
+    {
+      "gio": "[01:01:33]",
+      "cau": "Có hai vùng lấp gap, chờ vùng đầu tiên quanh 90.000. Vùng này nó quét khoảng 90.000 nhưng phải chờ và xem nến, nếu nến đẹp thì mới chơi, còn không thì chờ về khoảng vùng 88."
+    },
+    {
+      "gio": "[01:08:52]",
+      "cau": "90.000 là một vùng anh em cần canh. Nếu về đây mà long ăn được thì cũng nên té khoảng 1000 giá là phải TP1."
+    }
+  ],
+  "kho": "Kịch bản nhiều chặng: về gap 90/88 (87 Fibo 0.5) → có thể lên 96 test MA89 D1 → rồi sập hẳn. Chọn GIAM vì đích có số rõ nhất và hành động hiện tại (giữ short, khoan long) hướng về gap 90/88; nhịp 96 chỉ là 'có thể'. Nếu coi 96 là đích chính thì sẽ thành TANG. Short 91k là lệnh của người nói, SL không nêu (ngầm là H4 đóng trên 91). Không nhắc trendline BTC."
+}

@@ -1,0 +1,45 @@
+{
+  "buoi": "2026-07-09_Fmb8AziZ6f4",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/zip_clean/2026-07-09_Fmb8AziZ6f4.txt",
+  "gia_btc_luc_noi": 62000,
+  "dau_buoi": {
+    "thien_huong_h4": "GIAM",
+    "gio": "[00:37:09]",
+    "trich": "Xu hướng H4 tiếp tục bị bán qua khỏi MA này, tức là thủng hỗ trợ cứng rồi, bây giờ là xu hướng giảm. Nhưng nhịp này giảm về đâu? Trước mắt chúng ta chỉ nên view về Fibo thôi, đừng view sâu hơn."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "GIAM",
+    "do_chac": "vua",
+    "gio": "[01:10:11]",
+    "trich": "H4 đóng rồi. Để xem H4 đóng thế nào. H4 này đóng đỏ dưới MA này thì vẫn là bị bán xuống. Xu hướng không có gì thay đổi, vẫn bị đạp, vẫn bị bán."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {"huong": "GIAM", "dich": 61000},
+  "duong_di": [
+    {"huong": "GIAM", "dich": 61000},
+    {"huong": "GIAM", "dich": 60500}
+  ],
+  "dich_chinh": 60500,
+  "han_gio": null,
+  "vo_hieu": null,
+  "lenh": [
+    {"chieu": "SHORT", "vao": [62000, 63000], "tp": [61000, 60500], "sl": null, "trang_thai": "dang_giu"}
+  ],
+  "hanh_dong": "giu_lenh",
+  "khung_lon": {"D1": "GIAM", "W1": null},
+  "pha_vo_gia": "[00:36:06] 'Những vùng này rất dễ bị trap short, tức là chúng ta bị lừa vào xu hướng nhiều quá. Sau đó nó vẫn hồi lên test lại những vùng trên rồi theo thời gian mới giảm xuống lại' (so với nhịp test MA200 H4 lần trước).",
+  "trich_them": [
+    {"gio": "[00:26:56]", "cau": "Tìm điểm short quanh vùng hiện tại, quanh sau hai thì mình nghĩ vẫn vào được scalping. Hiện tại mình đang chờ ở 6200 với 63."},
+    {"gio": "[00:35:34]", "cau": "Chúng ta nhìn xu hướng ngày này hoàn toàn dễ gãy... Giá test MA34 về khả năng rất dễ giảm xuống tiếp những vùng 5X... D1 ở đây không có gì cần bàn luận, xu hướng là xu hướng giảm."},
+    {"gio": "[00:37:42]", "cau": "Đoạn này anh em chỉ nên view về 61.00 và đâu đó là 60.00 Năm hai vùng này. Về đến hai vùng này thì lời khuyên của mình là anh em nên chốt các lệnh short... Về hai vùng này mà theo thời gian thấy vài cây H4 không gãy được khỏi 60 59 này thì khả năng hồi lên tiếp rất cao."},
+    {"gio": "[00:38:12]", "cau": "Thích nghi thị trường đoạn này thì mình vẫn đánh short scalping tiếp qua vùng 62 này đến khoảng 61.00 tức là khoảng 700 giá hoặc sâu hơn thì TP2 lúc có vị thế đẹp, kéo stop loss lên entry có thể gồng tối đa là 60.000 năm."},
+    {"gio": "[00:38:44]", "cau": "60.000 năm là mình sẽ chốt hết toàn bộ lệnh short sau đó chờ. Nếu thủng dưới 59 thì mình sẽ đánh từ 59 về khoảng 54, 53 hoặc thậm chí 50."},
+    {"gio": "[00:39:16]", "cau": "Nến ngày ở đây nó test về Fibo thì vẫn có khả năng hồi lên lại vùng 66 này."},
+    {"gio": "[00:40:55]", "cau": "Xu hướng hiện tại đoạn này chủ yếu vẫn là xu hướng giảm. Mình vẫn cài stop loss đàng hoàng... hạn chế đánh long, và vẫn chốt lãi quanh những vùng đầu tiên là 61.00 và thứ hai là 60.000."},
+    {"gio": "[00:42:03]", "cau": "Hiện tại mình vẫn short. Cứ short M5 test ở đây thì vẫn chốt đẹp rồi."},
+    {"gio": "[00:46:43]", "cau": "61.000 và 60.000. Đến vùng này nên chốt short là hợp lý, rất dễ hồi."},
+    {"gio": "[01:12:49]", "cau": "Xu hướng không có gì thay đổi. Cứ bám theo plan đầu live mà chơi."}
+  ],
+  "kho": "Không nói mốc sai cho view short (chỉ 'cài stop loss đàng hoàng') nên vo_hieu=null. Đích chốt 61.000 rồi 60.500 ('60.000 năm'), có chỗ nói 60.000; 54–50 chỉ khi thủng 59 (có điều kiện). Câu 'H4 này đóng đỏ dưới MA' ở cuối nằm giữa đoạn xem altcoin nhưng tiếp theo là 'cứ bám theo plan đầu live' nên coi là BTC. Giá vào short không nói rõ (chờ 62.000 và 63.000)."
+}

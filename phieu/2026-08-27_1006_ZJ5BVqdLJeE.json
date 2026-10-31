@@ -1,0 +1,134 @@
+{
+  "buoi": "2026-08-27_1006_ZJ5BVqdLJeE",
+  "ngay": "2026-08-27",
+  "gio_vn": "10:06",
+  "gia_btc_luc_noi": null,
+  "nhan_dinh": [
+    {
+      "khung": "H1",
+      "huong": "TANG",
+      "do_chac": "vua",
+      "dich": [
+        79000,
+        80000
+      ],
+      "han": "từ giờ đến trưa",
+      "han_gio": 6,
+      "vo_hieu_khi": "thủng 78.500 thì chạy luôn vì sẽ về 77-78",
+      "kich_ban_phu": "bị cản ở Fibo rồi đi xuống, về 79.4 rồi 78-77; khung nhỏ M5 xấu, nếu rụng thì rụng ở 79.400",
+      "ly_do": [
+        "H1 mô hình quen thuộc: điều chỉnh kẹp giữa hai đường H1 rồi bóp lại và break lên, xu hướng khá ngon",
+        "đã tạo đáy cao dần, cần vượt đỉnh 79.000 để phá cấu trúc giảm",
+        "khung lớn kéo giá về MA34 H4 rồi bật lên",
+        "từ giờ đến trưa chắc có pha quét lên 79.400"
+      ],
+      "trich": "vùng này mình rõ ràng không có sell, mình đang buy chạy cái mô hình này. Đang gặp cản cho nên nó sẽ chững ở đây. Nhưng nếu phá qua được đoạn này thì lên lại 80.00 [?], anh em biết TP ở đâu rồi.",
+      "doi_y": "đầu buổi nói khung nhỏ xấu, chuẩn bị té, lực yếu -> sau phân tích H1 mô hình bóp MA đẹp, mình đang buy và nghiêng lên 79-80",
+      "duong_di": null
+    },
+    {
+      "khung": "D1",
+      "huong": "PHAN_VAN",
+      "do_chac": "thap",
+      "dich": null,
+      "han": null,
+      "han_gio": null,
+      "vo_hieu_khi": "nến ngày đóng trên MA610 thì đừng sell nữa; muốn sell phải chờ nến quay về dưới đường",
+      "kich_ban_phu": "đóng nến ngày trên 82-83 thì test cản 93.000; cột mốc: giữ 78.500 -> qua 79 -> 80 -> 83 -> 93",
+      "ly_do": [
+        "giá vẫn dưới MA610 khung ngày",
+        "nói rõ không trả lời được yes/no, chỉ có 'nếu'",
+        "góc nhìn giống đầu tuần"
+      ],
+      "trich": "Còn nó có lên được không thì đừng bắt mình trả lời nhá, bởi vì mình không trả lời được câu hỏi yes no. Chúng ta chỉ biết là 'if' thôi.",
+      "doi_y": null,
+      "duong_di": null
+    }
+  ],
+  "vung_gia": {
+    "khang_cu": [
+      79000,
+      79500
+    ],
+    "ho_tro": [
+      77000,
+      78500
+    ]
+  },
+  "lenh": [
+    {
+      "chieu": "LONG",
+      "loai": "limit",
+      "vao": null,
+      "tp": [
+        79000
+      ],
+      "sl": null,
+      "trang_thai": "dang_giu",
+      "trich": "mình đang buy chạy cái mô hình này ... khi giá break lên và chạm đến cái vùng 79.00 này, một là các bạn TP1 ở đây, hai là các bạn kéo SL về entry."
+    }
+  ],
+  "nhin_lai_truoc": "Hôm qua có tin PCE (cao hơn tháng trước nhưng bằng dự kiến), thị trường không bất ngờ. Cắn được con vàng; sell vàng 4630 về 4400 TP 4600 là đủ, nhiều người kéo SL về entry rồi bị trả lại.",
+  "cong_cu": [
+    "H1",
+    "M5",
+    "M15",
+    "H4",
+    "MA610 ngày",
+    "MA34 H4",
+    "Fibo 0.5",
+    "Fibo 0.618",
+    "cấu trúc đỉnh đáy",
+    "liquidation heatmap",
+    "BTC.D",
+    "USDT.D",
+    "gap"
+  ],
+  "tin_tuc": [
+    {
+      "tin": "PCE hôm qua",
+      "danh_gia": "không tốt về chỉ số thô nhưng bằng dự kiến, tác động không đáng kể"
+    },
+    {
+      "tin": "Jackson Hole tối thứ sáu 21:00",
+      "danh_gia": "thị trường chắc chắn biến động, cá lòng tong nên núp chờ đại ca đấm nhau xong"
+    }
+  ],
+  "thoi_quen": [
+    "đánh từ M15/H1 trở lên, tránh nhiễu M5",
+    "đạt TP1 thì kéo SL về entry",
+    "chờ nến ngày đóng mới đổi quan điểm sell",
+    "né giờ tin",
+    "vàng không gồng dài, scalping",
+    "trade ít con, bám kỹ",
+    "thấy nến lực xấu thì chạy luôn khi thủng 78.500"
+  ],
+  "cau_cua_mieng": [
+    "Chúng ta chỉ biết là 'if' thôi: nếu cái này xảy ra thì dẫn đến cái kia.",
+    "Chúng ta là những con cá lòng tong thôi, cứ nằm im núp đi cho các đại ca đấm nhau tơi tả rồi chúng ta hãy tham gia vào.",
+    "FOMO mỗi con Bit là được rồi."
+  ],
+  "altcoin": [
+    {
+      "coin": "BTC.D/USDT.D",
+      "huong": "GIAM",
+      "ghi": "BTC.D xu hướng tăng khá xấu cho altcoin; USDT.D điều chỉnh xuống, nếu đóng H4 xanh tạo vai đầu vai ngược thì thị trường la oai oái"
+    },
+    {
+      "coin": "ETH",
+      "huong": "PHAN_VAN",
+      "ghi": "không long được, chờ break; đừng sell"
+    },
+    {
+      "coin": "altcoin chung",
+      "huong": "GIAM",
+      "ghi": "yếu, lên rồi trả; chờ backtest"
+    },
+    {
+      "coin": "vàng",
+      "huong": "PHAN_VAN",
+      "ghi": "chờ lấp gap rồi tính; nhịp tăng có thể xong nhưng sell chưa có xu hướng"
+    }
+  ],
+  "ghi_chu": "Các mốc 78.00/79.00/78.5 có [?] nhưng ngữ cảnh rõ (78.000/79.000/78.500). Giá BTC lúc nói không nêu; đang quanh 78.5-79. Vote: 36% lên 80, 34% về 76, 30% sideway. Nói khó về 70 trước tháng 9 (ý: nhịp này khó sập 70, cùng lắm vòng vèo). Lệnh tài sản khác BTC đã bỏ khỏi lenh: TP short 4583, nó giật về 4583.1 [?] thôi, chịu thôi. (lệnh vàng)"
+}

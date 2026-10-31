@@ -1,0 +1,184 @@
+{
+  "buoi": "2026-09-17_1002_1cUPKUmEnr4",
+  "ngay": "2026-09-17",
+  "gia_btc_luc_noi": 76500,
+  "moc": [
+    {
+      "gia": 75000,
+      "gia_tren": null,
+      "vai_tro": "tp",
+      "huong": "GIAM",
+      "khung": "M30",
+      "can_cu": [],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "TP1 ở vùng 75k, nó rướn về 75k đây"
+    },
+    {
+      "gia": 74600,
+      "gia_tren": null,
+      "vai_tro": "tp",
+      "huong": "GIAM",
+      "khung": "M30",
+      "can_cu": [],
+      "moc_gio": null,
+      "chac": false,
+      "trich": "TP2 ở 74.600 (phụ đề 74.006) nhưng nó không tới"
+    },
+    {
+      "gia": 76000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "MA34 D1",
+        "MA H4 hai đáy (một râu, hai râu)",
+        "bức tường 76.000"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "đường MA34 rất đẹp... Bức tường 76.000 này là tường khá chắc, hỗ trợ"
+    },
+    {
+      "gia": 78000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "cụm MA H4",
+        "cấu trúc sóng H4 bị phá",
+        "trendline phía trên",
+        "quét SL short trên 78.000"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "Khi nào nó qua lại được thằng 78, hoặc ít nhất kéo qua lại được cụm MA, 78.000 thì may ra... Trên này có trend line nữa, nếu nó lên đây thì cũng 78.000"
+    },
+    {
+      "gia": 77000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "GIAM",
+      "khung": "H1",
+      "can_cu": [
+        "Fibo (không nói kéo từ đâu)",
+        "kháng cự MA",
+        "cụm thanh lý / heatmap (short dương)"
+      ],
+      "moc_gio": null,
+      "chac": false,
+      "trich": "nhịp này hồi lên Fibo khoảng 77.2 đến 77.00. Vùng này cũng là kháng cự, kháng cự MA luôn"
+    },
+    {
+      "gia": 77000,
+      "gia_tren": 78000,
+      "vai_tro": "entry",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "vùng kháng cự Fibo+MA+trendline"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "Nếu bán xuống thì vùng entry... kháng cự trên 77.00 cho đến 78.000"
+    },
+    {
+      "gia": 76000,
+      "gia_tren": null,
+      "vai_tro": "vo_hieu",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "D1 thủng 76.000"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "đặc biệt xác nhận tín hiệu là khi D1 thủng 76.000, thì cột mốc tiếp theo có thể chờ là quanh 72.000"
+    },
+    {
+      "gia": 72000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "cột mốc tiếp theo có thể chờ là quanh 72.000"
+    },
+    {
+      "gia": 68000,
+      "gia_tren": 71000,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "Nếu thủng 71.000 thì sâu hơn, về khoảng 68; nhưng mình nghĩ 68 cũng hơi khó đỡ"
+    },
+    {
+      "gia": 62000,
+      "gia_tren": 63000,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "có khả năng tuột luôn về 62, 63"
+    },
+    {
+      "gia": 73000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "qua đầu tuần sau giá loanh quanh khoảng 73 thôi"
+    },
+    {
+      "gia": 75000,
+      "gia_tren": null,
+      "vai_tro": "vo_hieu",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "nến đóng dưới 75 thì có xác suất về 72 (ví dụ minh họa)"
+      ],
+      "moc_gio": null,
+      "chac": false,
+      "trich": "nếu nến đóng dưới 75 thì có xác suất về 72 (ví dụ nêu về kỷ luật plan)"
+    },
+    {
+      "gia": 77000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "cụm thanh lý / heatmap (kill short, bóng to)"
+      ],
+      "moc_gio": null,
+      "chac": false,
+      "trich": "rướn cao căng nhất khoảng 77.000... vẫn nằm trong biên 77.00"
+    },
+    {
+      "gia": 75000,
+      "gia_tren": null,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": null,
+      "can_cu": [
+        "râu quét đêm qua"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "quét 75, phục hồi theo thị trường, kéo lên tranh thủ kill short, rồi ngày mai mới sốt"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+ "buoi": "2026-08-19_1001_kfBEaOyHLkc",
+ "ngay": "2026-08-19",
+ "gio_vn": "10:01",
+ "gia_btc_luc_noi": 64331,
+ "nhan_dinh": [
+  {
+   "khung": "H4",
+   "huong": "GIAM",
+   "do_chac": "vua",
+   "dich": 63200,
+   "han": "1-2 ngày, hết thứ Năm 20/08",
+   "han_gio": 36,
+   "vo_hieu_khi": "H4 đóng trên 65.100 (vượt râu quét 65.066 + neckline W 65.000); D1 đóng trên 65.000 thì bỏ hẳn view short",
+   "kich_ban_phu": "chặng 1 có thể hồi lên 64.650-64.750 (Fibo 0.5-0.618 nhịp giảm H4) test lại rồi mới thủng cụm MA 64.000 về 63.200",
+   "duong_di": [
+    {"huong": "TANG", "dich": 64700},
+    {"huong": "GIAM", "dich": 63200}
+   ],
+   "doi_y": null,
+   "ly_do": [
+    "giữ view hôm qua: kill short quét lên rồi mới đi xuống - đã quét lên tới 65.066, đúng kịch bản chặng 1",
+    "râu chọc 65.000 nhưng không có H4 nào đóng trên (đóng cao nhất 64.860) → cú vượt 65K là quét short, mốc sai chưa chạm",
+    "H4 07:00 đóng đỏ thân dày, đóng sát đáy cây, về sát cụm MA H4 đang chụm 63.870-64.060",
+    "D1 vẫn dưới EMA89 D1 65.870, nến tuần chưa đổi xu hướng; đầu tuần xanh thì giữa tuần hay úp",
+    "dưới 64.000 là trống tới cụm thanh lý 63.000-63.300"
+   ],
+   "trich": null
+  },
+  {
+   "khung": "D1",
+   "huong": "PHAN_VAN",
+   "do_chac": "thap",
+   "dich": null,
+   "han": "đến khi D1 thoát biên",
+   "han_gio": null,
+   "vo_hieu_khi": "chờ D1 đóng trên 65.000 (thoát vùng bó hẹp, mở đường 66K rồi 71K) / D1 đóng dưới 62.000 (về 57-54K)",
+   "kich_ban_phu": null,
+   "duong_di": null,
+   "doi_y": null,
+   "ly_do": [
+    "D1 bó hẹp biên 62.000-65.000, nến D1 thứ Ba xanh nhỏ nhưng râu trên 65.066 bị từ chối",
+    "giá nằm trong dải EMA34 D1, dưới EMA89 D1 → nghiêng nhẹ phe giảm nhưng chưa thoát biên",
+    "nến xanh thứ Hai-thứ Ba là xử lý thanh khoản đầu tuần, chưa đủ tin"
+   ],
+   "trich": null
+  },
+  {
+   "khung": "W1",
+   "huong": "GIAM",
+   "do_chac": "vua",
+   "dich": 40000,
+   "han": "chu kỳ downtrend, đáy 2027",
+   "han_gio": null,
+   "vo_hieu_khi": "nến tuần đóng trên dải EMA34 tuần (~70.400)",
+   "kich_ban_phu": "nhịp hồi tuần tối đa 68-71K vẫn chỉ là hồi ngắn hạn",
+   "duong_di": null,
+   "doi_y": null,
+   "ly_do": [
+    "giá dưới EMA34, EMA89 và EMA200 tuần (67.970)",
+    "kẹp Fibo 0.5-0.618 tuần, downtrend lịch sử hay về 0.786 ~40K",
+    "đáy chu kỳ chưa xong"
+   ],
+   "trich": null
+  }
+ ],
+ "vung_gia": {
+  "khang_cu": [64700, 65000, 65500, 66000],
+  "ho_tro": [64000, 63600, 63200, 62000]
+ },
+ "lenh": [
+  {
+   "chieu": "SHORT",
+   "loai": "limit",
+   "vao": 64680,
+   "tp": [63250, 62650],
+   "sl": 65250,
+   "trang_thai": "de_xuat_moi"
+  }
+ ],
+ "hanh_dong": "giu_lenh",
+ "giu_view": true,
+ "ly_do_doi_view": "Giữ view GIẢM của buổi 18/08: mốc sai là H4/D1 đóng trên 65.000 chưa xảy ra (H4 đóng cao nhất 64.860, chỉ có râu 65.066). Chặng 1 quét lên đã xong, chặng 2 về 63K chưa tới nên chưa phải xong việc. Không có tin lớn, không phải đầu tuần.",
+ "rau": {
+  "tren": "65.066 (H4 mở 19:00 18/08) - râu quét neckline 65.000 phiên Mỹ",
+  "duoi": "64.278 (H4 mở 07:00 19/08); cụm râu dưới 64.039-64.090 (H4 07:00, 11:00, 19:00 ngày 18/08)",
+  "test_lai": "Râu 65.066 KHÔNG: vừa quét SL phe short xong, nằm ngược phía chặng 2, thân đóng đã rút về dưới 65K (5.3). Cụm râu 64.040-64.090 CÓ: trùng EMA200 H4 64.023 + dải trên EMA34 H4 64.056, nằm trên đường xuống đích - test lần nữa là thủng (hỗ trợ test nhiều lần thì yếu)."
+ },
+ "vung_on": [
+  {
+   "loai": "SHORT",
+   "khoang": [64600, 64800],
+   "ly_do": [
+    "Fibo 0.5-0.618 nhịp giảm H4 65.066→64.278 = 64.672-64.765",
+    "EMA34 dải trên D1 64.681",
+    "Fibo 0.5 D1 30 ngày 64.612 + đỉnh cũ 64.500-64.600 vùng quét short (11/08)",
+    "SL đặt trên râu quét 65.066 + neckline 65.000"
+   ]
+  },
+  {
+   "loai": "LONG",
+   "khoang": [63100, 63400],
+   "ly_do": [
+    "Fibo 0.786 nhịp tăng H4 62.716→65.066 = 63.219",
+    "EMA34 dải dưới D1 63.364",
+    "cụm thanh lý/heatmap 63.000-63.300 (nêu 18/08) → chỉ là vùng chốt short, quan sát, không limit long"
+   ]
+  }
+ ],
+ "pha_vo_gia": "Cú vượt 65.000 tối qua là GIẢ: chỉ râu chọc lên 65.066, thân H4 đóng 64.860 dưới 65K (G1), không có cây H4 nào đóng trên (G2), xảy ra phiên Mỹ 19-23h (G9), quét đúng SL phe short ở neckline 65K (G4). Không đổi view vì cú này.",
+ "loi_binh": "View từ hôm qua không thay đổi gì nhiều anh em: mình nói kill short rồi mới đi xuống, nó quét lên tới 65 rồi rút râu, không có cây H4 nào đóng trên 65 cả. Cây đó là cây dụ long thôi, phiên Mỹ quét hai đầu. Lệnh short hôm qua cứ giữ, ai chưa có thì chờ nó hồi lên 64.6-64.8 rồi short, SL trên 65.2, TP non 63.2. Giá đang nằm ngay cụm MA H4 nên đừng short đuổi ở đây, thà rớt nước miếng còn hơn lau nước mắt."
+}

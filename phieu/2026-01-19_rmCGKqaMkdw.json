@@ -1,0 +1,81 @@
+{
+  "buoi": "2026-01-19_rmCGKqaMkdw",
+  "ngay": "2026-01-19",
+  "gio_vn": "10:00",
+  "gia_btc_luc_noi": 92600,
+  "nhan_dinh": [
+    {
+      "khung": "D1",
+      "huong": "GIAM",
+      "do_chac": "vua",
+      "dich": [88000, 90000],
+      "han": "trung hạn, vài ngày đến tuần",
+      "han_gio": 72,
+      "vo_hieu_khi": "không nói mốc cụ thể; nói thủng vùng 90.000 hoặc test lại MA200 thì mới là dấu hiệu quay đầu rõ hơn",
+      "kich_ban_phu": "khoảng 20% xác suất còn một nhịp cuối lên test râu 98-99.000 (MA200 H4 + MA34 tuần) rồi mới dump; lên đó thì tìm điểm short",
+      "ly_do": [
+        "khung tuần có râu 97-98.000 test MA34 tuần (xưa là hỗ trợ nay là kháng cự), cũng là MA200 ngày",
+        "khung ngày chạm trendline kênh giá giảm, mô hình cờ, xu hướng phục hồi đã thành công quá (80x lên 96-97)",
+        "gap 88.000 chưa lấp, lý do xuống nhiều và dễ hơn lý do lên",
+        "DOM test rụng, USDT.D đang test MA89 nếu break 6.12% thì thị trường gãy về 7x"
+      ],
+      "trich": "Cho nên khả năng lên lại ở trên này chỉ có 20% xác suất thôi. ... Hoàn toàn chúng ta không thể nào cố chấp đi long ở đoạn này nữa.",
+      "doi_y": null,
+      "duong_di": null
+    },
+    {
+      "khung": "H4",
+      "huong": "GIAM",
+      "do_chac": "vua",
+      "dich": null,
+      "han": null,
+      "han_gio": null,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": "MA H4 trong nhịp phục hồi này không có ý nghĩa; MA200 H4 chỉ khẽ chạm chậm lại chứ không phải hỗ trợ đỡ giá",
+      "ly_do": ["giá rụng thẳng xuống MA200 không phản ứng ở MA34/MA89 theo thứ tự nên không phải hỗ trợ thật"],
+      "trich": "thằng 200 này chẳng qua là lịch xả từ trên 95 này về đây nó quá là xa ... đây không phải là hỗ trợ để đỡ giá.",
+      "doi_y": null,
+      "duong_di": null
+    },
+    {
+      "khung": "M5",
+      "huong": "TANG",
+      "do_chac": "thap",
+      "dich": [93000, 93000],
+      "han": "từ giờ đến chiều",
+      "han_gio": 6,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": "trước khi hồi có thể đi test râu 91.000 hoặc đáy sâu hơn; hồi lên 93.000 (MA34 30 phút) thì sell xuống TP Fibo 0.5 khoảng 92.800",
+      "ly_do": ["giá xa MA nên có nhịp phục hồi chạm MA15/MA34 ~93.000, bị chặn ở râu M5"],
+      "trich": "từ giờ đến chiều nó sẽ có những nhịp phục hồi lên chạm MA ... khoảng 93.000.",
+      "doi_y": null,
+      "duong_di": [
+        {"huong": "GIAM", "dich": 91000},
+        {"huong": "TANG", "dich": 93000}
+      ]
+    }
+  ],
+  "vung_gia": {"khang_cu": [93000, 98000], "ho_tro": [88000, 91000]},
+  "lenh": [
+    {"chieu": "SHORT", "loai": "scalp M5 dò", "vao": 95000, "tp": [92000, 91000], "sl": null,
+     "trang_thai": "dang_giu", "trich": "Hiện tại thì mình đang short ... lệnh short này mình sẽ chốt lãi ở khoảng 500 giá thôi, 9100 hoặc 91 9200."},
+    {"chieu": "SHORT", "loai": "chờ tín hiệu", "vao": 93000, "tp": [92800], "sl": null,
+     "trang_thai": "de_xuat_moi", "trich": "Đến tối nay nó lên đến 93.00 mà có tín hiệu chúng ta sell thì ... chỉ nên TP ở Fibonacci 50 này thôi. Tức là khoảng 92.8000 giá."}
+  ],
+  "nhin_lai_truoc": "Ăn hai lệnh 300%; view tuần trước test MA34 tuần râu 97-98 khá chuẩn; view giữ nguyên không đổi. Nói giai đoạn từ tháng 8 đến giờ view khá sát nhịp thị trường.",
+  "cong_cu": ["D1", "W1", "H4", "MA34/89/200", "Fibo 0.5", "gap 88.000", "BTC.D", "USDT.D", "heatmap liquidation", "Fear & Greed"],
+  "tin_tuc": [{"tin": "Hết thứ ba không có tin, thứ tư tổng thống phát biểu", "danh_gia": "nghỉ tin đến thứ tư"}],
+  "thoi_quen": [
+    "chỉ long scalp khi test râu 91.000 và có tín hiệu nến, không limit trước",
+    "ưu tiên thuận xu hướng, hạn chế long, không bênh long",
+    "short dò scalp M5 ăn ~500 giá rồi chốt, không tham",
+    "Fear & Greed dưới 25-30 mới mua spot; lướt 25-50 mua sau chốt trước",
+    "không đánh ngược xu hướng vàng bạc, không đụng altcoin khi DOM/USDT.D xấu"
+  ],
+  "cau_cua_mieng": ["Hơn nhau ở giai đoạn này là hơn nhau ở hành động thôi các bạn ạ.", "Không ai đi dự đoán được tương lai hết.", "Mình mua sau và chốt trước."],
+  "altcoin": [
+    {"coin": "altcoin chung", "huong": "GIAM", "ghi": "DOM test rụng, USDT.D sắp break lên; altcoin nát, bỏ khỏi plan; nên kiểm tra bán hết altcoin tồn"},
+    {"coin": "vàng/bạc", "huong": "TANG", "ghi": "xu hướng còn căng, đừng short"}
+  ],
+  "ghi_chu": "Giờ không ghi. Giá lấy từ 'BTC USDT Spot 92627'. Lệnh short vào ~95 (người dùng nói 'Short 95 bây giờ lãi'). Hướng chính D1/H4 GIAM; M5 là nhịp hồi scalp."
+}

@@ -1,0 +1,272 @@
+[
+ {
+  "nguon": "dap_an_v2",
+  "truong": "dau_buoi.trich",
+  "trich": "Kháng cự: 77-78 (đặc biệt đỉnh cũ 78.300 [?]); hiện có vẻ nó sẽ lên test lại đỉnh này. Nếu break và đóng vượt qua thì target 88, 90 và 93.",
+  "giay": 1023,
+  "do_giong": 0.812,
+  "nguon_gio": "vtt",
+  "url": "https://www.youtube.com/watch?v=uK4vb9PoUIo&t=1023s",
+  "anh": []
+ },
+ {
+  "nguon": "dap_an_v2",
+  "truong": "cuoi_buoi.trich",
+  "trich": "Kiểu này thì xác suất break khỏi vùng trên và đi lên sẽ cao hơn xác suất kịch bản đi xuống; cao hơn thôi chứ không chắc chắn. Theo thực nghiệm của mình trong thị trường, mình đánh giá khả năng đi lên cao hơn. ... An toàn thì tốt nhất chờ nó out ra khỏi vùng này; chắc trong ngày hôm nay hoặc tối sẽ có kết quả.",
+  "giay": 1606,
+  "do_giong": 0.783,
+  "nguon_gio": "vtt",
+  "url": "https://www.youtube.com/watch?v=uK4vb9PoUIo&t=1606s",
+  "anh": []
+ },
+ {
+  "nguon": "dap_an_v2",
+  "truong": "trich_them[0]",
+  "trich": "Nhưng mô hình này: đáy kéo cao dần và đỉnh đi ngang. Từ thứ hai đến giờ thị trường luôn muốn điều chỉnh nhưng đám đông vẫn tiếp tục mua ở vùng giá cao, nghĩa là đại đa số đang muốn đẩy giá lên.",
+  "giay": 1523,
+  "do_giong": 0.977,
+  "nguon_gio": "vtt",
+  "url": "https://www.youtube.com/watch?v=uK4vb9PoUIo&t=1523s",
+  "anh": []
+ },
+ {
+  "nguon": "dap_an_v2",
+  "truong": "trich_them[1]",
+  "trich": "H4 bắt đầu có xác suất (không chắc chắn) lên test đỉnh và hình thành mô hình hai đỉnh; và back test về lại vùng MA là không loại trừ, tức về lại hỗ trợ 82-83 vẫn còn xác suất.",
+  "giay": 1279,
+  "do_giong": 0.878,
+  "nguon_gio": "vtt",
+  "url": "https://www.youtube.com/watch?v=uK4vb9PoUIo&t=1279s",
+  "anh": []
+ },
+ {
+  "nguon": "dap_an_v2",
+  "truong": "trich_them[2]",
+  "trich": "Nếu muốn confirm chắc chắn để đảo chiều/điều chỉnh đi xuống và đánh short, nếu là mình thì chờ một điểm breakout ở dưới này mới chắc chắn, an toàn, rồi đánh về khoảng 85 hoặc 84 rồi tính tiếp",
+  "giay": 1485,
+  "do_giong": 0.927,
+  "nguon_gio": "vtt",
+  "url": "https://www.youtube.com/watch?v=uK4vb9PoUIo&t=1485s",
+  "anh": []
+ },
+ {
+  "nguon": "dap_an_v2",
+  "truong": "trich_them[3]",
+  "trich": "USDT.D: mình nghĩ xác suất rất cao nó rướn một nhịp về 6.1 để test Fibo 0.618 rồi mới phục hồi đi lên. Tức thị trường mình đoán còn một nhịp tăng nữa, chưa biết đến bao nhiêu; có thể nó rướn quét qua khỏi râu này, ví dụ quét lên 87.000 rồi mới đi xuống",
+  "giay": 1820,
+  "do_giong": 0.85,
+  "nguon_gio": "vtt",
+  "url": "https://www.youtube.com/watch?v=uK4vb9PoUIo&t=1820s",
+  "anh": []
+ },
+ {
+  "nguon": "dap_an_v2",
+  "truong": "trich_them[4]",
+  "trich": "Mình không làm gì ở đây, vẫn chờ thị trường điều chỉnh.",
+  "giay": 1910,
+  "do_giong": 1.0,
+  "nguon_gio": "vtt",
+  "url": "https://www.youtube.com/watch?v=uK4vb9PoUIo&t=1910s",
+  "anh": []
+ },
+ {
+  "nguon": "dap_an_v2",
+  "truong": "trich_them[5]",
+  "trich": "Đoạn này cần phòng thủ chứ không phải tấn công. ... Cuối nghĩa là nó đang đứng trước xác suất bị điều chỉnh rất cao. Thận trọng là không thừa.",
+  "giay": 1624,
+  "do_giong": 1.0,
+  "nguon_gio": "vtt",
+  "url": "https://www.youtube.com/watch?v=uK4vb9PoUIo&t=1624s",
+  "anh": []
+ },
+ {
+  "nguon": "dap_an_v2",
+  "truong": "trich_them[6]",
+  "trich": "Bitcoin vừa đóng một cây H4 khá xanh, nhưng vẫn không out ra khỏi view hiện tại; view vẫn thế, vẫn các vùng này.",
+  "giay": 3649,
+  "do_giong": 1.0,
+  "nguon_gio": "vtt",
+  "url": "https://www.youtube.com/watch?v=uK4vb9PoUIo&t=3649s",
+  "anh": []
+ },
+ {
+  "nguon": "dap_an_v2",
+  "truong": "trich_them[7]",
+  "trich": "Muốn nó gãy thì phải chứng kiến pha phá khỏi trendline này; còn không thì mọi người đừng cố đi cản tàu.",
+  "giay": 3994,
+  "do_giong": 0.955,
+  "nguon_gio": "vtt",
+  "url": "https://www.youtube.com/watch?v=uK4vb9PoUIo&t=3994s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[0].trich",
+  "trich": "Kiểu này thì xác suất break khỏi vùng trên và đi lên sẽ cao hơn xác suất kịch bản đi xuống; cao hơn thôi chứ không chắc chắn.",
+  "giay": 1552,
+  "do_giong": 0.75,
+  "nguon_gio": "vtt",
+  "url": "https://www.youtube.com/watch?v=uK4vb9PoUIo&t=1552s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[1].trich",
+  "trich": "Cuối nghĩa là nó đang đứng trước xác suất bị điều chỉnh rất cao. Thận trọng là không thừa.",
+  "giay": 1642,
+  "do_giong": 1.0,
+  "nguon_gio": "vtt",
+  "url": "https://www.youtube.com/watch?v=uK4vb9PoUIo&t=1642s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[0].trich",
+  "trich": "Kháng cự: 77-78 (đặc biệt đỉnh cũ 78.300 [?]); nếu break và đóng vượt qua thì target 88, 90 và 93",
+  "giay": 1026,
+  "do_giong": 0.636,
+  "nguon_gio": "vtt",
+  "url": "https://www.youtube.com/watch?v=uK4vb9PoUIo&t=1026s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[1].trich",
+  "trich": "nếu break và đóng vượt qua thì target 88, 90 và 93",
+  "giay": 1038,
+  "do_giong": 1.0,
+  "nguon_gio": "vtt",
+  "url": "https://www.youtube.com/watch?v=uK4vb9PoUIo&t=1038s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[2].trich",
+  "trich": "target 88, 90 và 93... View lên 93 [?]",
+  "giay": 1044,
+  "do_giong": 1.0,
+  "nguon_gio": "vtt",
+  "url": "https://www.youtube.com/watch?v=uK4vb9PoUIo&t=1044s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[3].trich",
+  "trich": "Hỗ trợ gần: 85 đến 86. Hôm qua nó về hỗ trợ này là bật lên",
+  "giay": 1050,
+  "do_giong": 0.812,
+  "nguon_gio": "vtt",
+  "url": "https://www.youtube.com/watch?v=uK4vb9PoUIo&t=1050s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[4].trich",
+  "trich": "vùng hỗ trợ cứng tiếp theo là 82 đến 83... back test về lại vùng MA là không loại trừ",
+  "giay": 1062,
+  "do_giong": 1.0,
+  "nguon_gio": "vtt",
+  "url": "https://www.youtube.com/watch?v=uK4vb9PoUIo&t=1062s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[5].trich",
+  "trich": "thực tế 87.000 là đỉnh rồi, kéo lên 88 chỉ thêm 800 giá nữa thôi",
+  "giay": 694,
+  "do_giong": 0.75,
+  "nguon_gio": "vtt",
+  "url": "https://www.youtube.com/watch?v=uK4vb9PoUIo&t=694s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[6].trich",
+  "trich": "Hiện vẫn nằm trong vùng 86 đến 87. Phá kháng cự bên trên mới lên được các vùng cao hơn",
+  "giay": 1094,
+  "do_giong": 0.9,
+  "nguon_gio": "vtt",
+  "url": "https://www.youtube.com/watch?v=uK4vb9PoUIo&t=1094s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[7].trich",
+  "trich": "chờ một điểm breakout ở dưới này mới chắc chắn... rồi đánh về khoảng 85 hoặc 84 rồi tính tiếp",
+  "giay": 1493,
+  "do_giong": 1.0,
+  "nguon_gio": "vtt",
+  "url": "https://www.youtube.com/watch?v=uK4vb9PoUIo&t=1493s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[8].trich",
+  "trich": "Điều kiện về 6x sẽ quay lại khi giá quay về dưới vùng 80.000... thủng 80 thì mới có view về 6x",
+  "giay": 1732,
+  "do_giong": 1.0,
+  "nguon_gio": "vtt",
+  "url": "https://www.youtube.com/watch?v=uK4vb9PoUIo&t=1732s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[9].trich",
+  "trich": "6x là vùng đáy cũ",
+  "giay": 1707,
+  "do_giong": 0.8,
+  "nguon_gio": "vtt",
+  "url": "https://www.youtube.com/watch?v=uK4vb9PoUIo&t=1707s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[10].trich",
+  "trich": "nó rướn quét qua khỏi râu này, ví dụ quét lên 87.000 rồi mới đi xuống, phù hợp với USDT.D",
+  "giay": 1842,
+  "do_giong": 0.818,
+  "nguon_gio": "vtt",
+  "url": "https://www.youtube.com/watch?v=uK4vb9PoUIo&t=1842s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[11].trich",
+  "trich": "quét lên đâu đó khoảng 87.000, nhưng vùng dưới 84 vẫn dày",
+  "giay": 2083,
+  "do_giong": 0.769,
+  "nguon_gio": "vtt",
+  "url": "https://www.youtube.com/watch?v=uK4vb9PoUIo&t=2083s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[12].trich",
+  "trich": "lên đến 88.000: team sale mở giáp dày 88 và 88.000; bên dưới kéo đến tận 83.700 [?]",
+  "giay": 2246,
+  "do_giong": 0.75,
+  "nguon_gio": "vtt",
+  "url": "https://www.youtube.com/watch?v=uK4vb9PoUIo&t=2246s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[13].trich",
+  "trich": "bên dưới kéo đến tận 83.700 [?]",
+  "giay": 2254,
+  "do_giong": 0.857,
+  "nguon_gio": "vtt",
+  "url": "https://www.youtube.com/watch?v=uK4vb9PoUIo&t=2254s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[14].trich",
+  "trich": "bây giờ nó về 82 là mình bắt đầu cân nhắc xác suất nó về 50 hay 60... thủng 80 lại tăng tiếp",
+  "giay": 1914,
+  "do_giong": 0.944,
+  "nguon_gio": "vtt",
+  "url": "https://www.youtube.com/watch?v=uK4vb9PoUIo&t=1914s",
+  "anh": []
+ }
+]

@@ -1,0 +1,113 @@
+{
+ "buoi": "2026-09-29_1002_3inGNRqb-UM",
+ "ngay": "2026-09-29",
+ "gio_vn": "10:02",
+ "gia_btc_luc_noi": 83078,
+ "nhan_dinh": [
+  {
+   "khung": "H4",
+   "huong": "GIAM",
+   "do_chac": "vua",
+   "dich": [82000, 82400],
+   "han": "hôm nay đến hết thứ Tư 30/09",
+   "han_gio": 48,
+   "vo_hieu_khi": "H4 đóng trên 84.400 (đóng lại trên dải EMA34 H4 và trên râu quét 84.374)",
+   "kich_ban_phu": "hồi ngắn test dải EMA34 H4 83.500–83.800 rồi mới đạp về 82",
+   "duong_di": [
+    {"huong": "TANG", "dich": 83600},
+    {"huong": "GIAM", "dich": 82200}
+   ],
+   "doi_y": null,
+   "ly_do": [
+    "giữ view 28/09: đích 82–82.400 chưa tới (đáy mới 82.557, mới chạm TP non 82.600)",
+    "H4 đóng dưới dải EMA34 H4 (83.405–84.228), EMA34 dốc xuống; nhịp hồi 84.374 bị từ chối ngay, đóng về 83.388",
+    "đỉnh thấp dần 85.200 → 84.374, phe bán giữ 84–85",
+    "82–82.400 hội tụ: EMA89 H4 82.341 + hỗ trợ tuần 82–83 + Fibo 0.382 nhịp D1 74.956→87.399 (82.646) + cụm thanh lý 82",
+    "USDT.D vẫn nhích lên (+0.17 điểm/7 ngày), Nasdaq đỏ"
+   ],
+   "trich": null
+  },
+  {
+   "khung": "D1",
+   "huong": "GIAM",
+   "do_chac": "vua",
+   "dich": [82000, 82400],
+   "han": "3–5 ngày (trong tuần này)",
+   "han_gio": 96,
+   "vo_hieu_khi": "D1 đóng trên 85.300 (trên các đỉnh 85.200–85.259)",
+   "kich_ban_phu": null,
+   "duong_di": null,
+   "doi_y": null,
+   "ly_do": [
+    "nến ngày thứ Hai đỏ -1.16%, ngày đỏ thì không đánh ngược",
+    "chuỗi D1 sau đỉnh 87.399 đi ngang yếu, thanh khoản thấp, đỉnh thấp dần",
+    "giá còn cách EMA34 D1 (79.430) +4.6%, điều chỉnh về hỗ trợ 82 là hợp lý"
+   ],
+   "trich": null
+  },
+  {
+   "khung": "W1",
+   "huong": "TANG",
+   "do_chac": "thap",
+   "dich": null,
+   "han": "tuần này",
+   "han_gio": 168,
+   "vo_hieu_khi": "nến tuần đóng dưới 82.000 (mất hỗ trợ tuần 82–83)",
+   "kich_ban_phu": null,
+   "duong_di": null,
+   "doi_y": null,
+   "ly_do": [
+    "nến tuần đã breakout (hai đáy, phá trendline), quét lên 87.399",
+    "82–83 là cản cũ đổi vai thành hỗ trợ tuần, giá trên EMA89 tuần 79.170",
+    "không chủ quan sale xuống sâu khi tuần chưa gãy"
+   ],
+   "trich": null
+  }
+ ],
+ "vung_gia": {
+  "khang_cu": [83800, 84400, 85200, 87000],
+  "ho_tro": [82400, 82000, 80000]
+ },
+ "lenh": [
+  {
+   "chieu": "SHORT",
+   "loai": "limit",
+   "vao": 83850,
+   "tp": [82650, 82150],
+   "sl": 84550,
+   "trang_thai": "de_xuat_moi"
+  }
+ ],
+ "hanh_dong": "dung_ngoai_cho_entry",
+ "giu_view": true,
+ "ly_do_doi_view": "Giữ view 28/09: chưa có H4 đóng lại trên dải EMA34 H4, đích 82–82.400 chưa tới (đáy 82.557), cú vọt 84.374 chỉ là râu phiên Mỹ đêm thứ Hai.",
+ "rau": {
+  "tren": "84.374 — nến H4 28/09 23:00 (râu trên 1.18%, thân gần như không đổi)",
+  "duoi": "82.557 — nến H4 28/09 19:00",
+  "test_lai": "Râu dưới 82.557 CÓ — trùng EMA89 H4 82.341 + hỗ trợ tuần 82–83 + Fibo 0.382 D1, SL phe long nằm sát dưới 82.5 nên còn bị quét về 82.2–82.4. Râu trên 84.374 KHÔNG ở chặng này — vừa bị từ chối, có dải EMA34 H4 chắn, chỉ hồi tới 83.6–83.8 là cùng."
+ },
+ "vung_on": [
+  {
+   "loai": "SHORT",
+   "khoang": [83800, 84300],
+   "ly_do": [
+    "dải EMA34 H4 83.405–84.228 (cản động, đang dốc xuống)",
+    "Fibo 0.5–0.618 nhịp giảm H4 85.200→82.557 = 83.878–84.190",
+    "râu quét 84.374 + kháng cự 84 người đó đã nêu",
+    "cụm thanh lý 84"
+   ]
+  },
+  {
+   "loai": "LONG",
+   "khoang": [82000, 82400],
+   "ly_do": [
+    "EMA89 H4 82.341",
+    "hỗ trợ tuần 82–83 (cản cũ đổi vai) người đó nhắc nhiều buổi",
+    "Fibo 0.382 nhịp D1 74.956→87.399 = 82.646, ngay trên vùng",
+    "cụm thanh lý 82, đáy fractal 82.557"
+   ]
+  }
+ ],
+ "pha_vo_gia": "Cú vọt lên 84.374 lúc 23:00 đêm thứ Hai là phá giả lên: chỉ râu (G1), phiên Mỹ/đêm thứ Hai (G5, G9), thân đóng 83.388 không đổi và cây sau đóng thấp hơn. Không đổi view vì cú này.",
+ "loi_binh": "View từ hôm qua không thay đổi gì nhiều anh em: về được 82.5 chạm TP non rồi nhưng vùng 82 đến 82.400 chưa tới. Cây vọt lên 84.3 đêm qua chỉ là cây quét phiên Mỹ thôi, râu dài, thân đóng không đổi, H4 vẫn đóng dưới MA34. Giá 83 đang ở giữa, không vào giữa — hồi lên 83.8–84 thì mình tìm short, TP non 82.600. Còn 82 là hỗ trợ tuần, về đó thì chờ phản ứng rồi mới tính, đừng cầm đèn chạy trước ô tô."
+}

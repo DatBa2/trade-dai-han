@@ -1,0 +1,48 @@
+{
+  "buoi": "2026-10-22_1009_yAEJBNZ56qs",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/lam_sach/2026-10-22_1009_yAEJBNZ56qs.md",
+  "gia_btc_luc_noi": 82000,
+  "dau_buoi": {
+    "thien_huong_h4": "GIAM",
+    "gio": null,
+    "trich": "Đoạn này mình nghĩ là trong ngắn hạn từ giờ đến trưa chắc sẽ có nhịp hồi, hồi nhẹ rồi mới đi tiếp. Anh em đang tập trung sale về 81 khá là ngon [81 n [?]]. Rớt về lại dưới cái vùng 82.000 n [?] là ok, coi như confirm. Entry 82k2 long lên thì mình đối với thị trường đi kiểu như này thì hạn chế long, mình thấy không đẹp để long."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "GIAM",
+    "do_chac": "vua",
+    "gio": null,
+    "trich": "Rõ ràng H4 như này thì tốt nhất là không nên đánh lên nữa. Đối với cá nhân mình thì mình sẽ chờ cơ hội trong những nhịp phục hồi... Còn nếu giữ được đây thì khả năng từ giờ đến khoảng 10, 12 giờ nó sẽ có nhịp hồi nhẹ đâu đó khoảng tầm 83.000 [?]. Hồi nhẹ lên đây, nếu có cơ hội thì bắt đầu chúng ta lại tìm một vị thế, cộng với các dữ liệu khác nhá."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {"huong": "TANG", "dich": 83000},
+  "duong_di": [
+    {"huong": "TANG", "dich": 83000},
+    {"huong": "GIAM", "dich": [81000, 81500]},
+    {"huong": "GIAM", "dich": 76000}
+  ],
+  "dich_chinh": 76000,
+  "han_gio": null,
+  "vo_hieu": null,
+  "lenh": [
+    {"chieu": "SHORT", "vao": 83000, "tp": [], "sl": null, "trang_thai": "de_xuat_moi"}
+  ],
+  "hanh_dong": "dung_ngoai_cho_entry",
+  "khung_lon": {"D1": "TANG", "W1": null},
+  "pha_vo_gia": "Nhịp kéo lên 84 (chạm Fibo 0.618) là fake out: 'giá nó cố kéo lên 84 để fake out... đóng nến H4 dưới 82.000 thì gần như là fake out' — lên để hợp lý hóa đường giá/hồi kỹ thuật rồi phá dần xuống.",
+  "trich_them": [
+    {"gio": null, "cau": "Nếu sáng hôm nay nó không có những nhịp bán như vậy, ví dụ nó đi sideway đi ngang, thì nhịp tăng này sẽ tiếp tục lên 86. Nhưng mà hiện tại nó trả về lại một nhịp bán khá là mạnh từ 84 về lại 82."},
+    {"gio": null, "cau": "Mình thì nghĩ ngược lại: mình nghĩ Bitcoin cần phải điều chỉnh mạnh để mà tăng một chút, chứ không phải là điều chỉnh một chút để mà tăng mạnh."},
+    {"gio": null, "cau": "Mình vẫn có linh cảm đoạn này giá nó cố kéo lên 84 để fake out. Mình vẫn thấy cái 84 này rất là dễ fake out. Và thực sự mình nói xong một cái thì nó chạy luôn."},
+    {"gio": null, "cau": "Nếu như thế này mà nó tiếp diễn sideway ở đây, tiếp tục cắm về và đóng nến H4 dưới 82.000 [?]... thì gần như là fake out."},
+    {"gio": null, "cau": "Nếu đầu tiên nó phá khỏi 82, sau đó nó phá dưới 81.500 (gốc \"81.000 năm\") thì xác suất cực kỳ cao nó sẽ về test lại vùng 76... Anh em nên lưu ý kịch bản đó rất là xấu."},
+    {"gio": null, "cau": "Sau khi cây H4 này xuất hiện thì chúng ta nên thận trọng cảnh giác hết sức. Đúng ra không có nhịp H4 này thì sẽ ok: chỉ cần nó sideway, đi từ từ thì mình nghĩ vẫn còn xác suất để lên test lại 76. Nhưng mà đối với kịch bản này thì càng ngày càng khó... Bây giờ chưa đủ dữ liệu để confirm xu hướng đâu ha."},
+    {"gio": null, "cau": "Đối với những mô hình hai đáy như thế này thì xác suất rất là cao nó sẽ lên test lại vùng 86 thì nó mới gãy... muốn biết trên khung ngày nó có tiếp tục được xu hướng tăng hay là đảo chiều luôn ở vùng 83 84 hay ở dưới 82 như hiện tại thì chúng ta phải chờ kết quả đến ngày mai thì mới chắc được."},
+    {"gio": null, "cau": "USDT.D, chỉ số này nó vút lên đấy. Bảo sao thị trường cắm đầu rồi... target của nó có thể là 7.2%. Khi nó lên đến 7.1, 7.2 thì có vẻ là thị trường sẽ nát gáo tiếp thôi."},
+    {"gio": null, "cau": "Cái này thì chịu. Không thể đoán như vậy được... H4 này thì khả năng là đóng đỏ rồi. Đóng đỏ full cây, hoặc tệ cũng đóng 83 gì đó thôi chứ không có hồi cao hơn được nữa đâu."},
+    {"gio": null, "cau": "Có vẻ là hồi không nổi luôn. RSI như vậy nhưng mà vẫn không hồi nổi. Có thể là nó sẽ xả thêm một nhịp nữa rồi mới hồi nhẹ."},
+    {"gio": null, "cau": "Hôm nay mình thấy là với mức độ như này, anh em team long thì sẽ phải ngồi chờ thôi. Đừng có vội, không vội được đâu."},
+    {"gio": null, "cau": "Thôi thị trường vậy rồi nhá. Anh em cứ bám theo đấy mà chờ đợi thôi, chứ bây giờ tầm này thì không có gì để mà vào được đâu. Tầm này bắt buộc phải chờ thôi. Còn chờ cái gì thì mọi người cũng biết rồi, như view ở đầu thôi nhá."}
+  ],
+  "kho": "File không có mốc giờ. Nghiêng xuống khá rõ (fake out 84, H4 đóng đỏ, USDT.D vút, 'không nên đánh lên nữa', chờ hồi ~83 để tìm vị thế) nhưng người nói vẫn nói 'chưa đủ dữ liệu để confirm xu hướng' và D1 còn tăng. Đích 76 là có điều kiện (phá 82 rồi phá 81.500); đích gần là 81 (anh em 'sale về 81'). Câu 'vẫn còn xác suất để lên test lại 76' nhiều khả năng là lỗi phụ đề của 86. Lệnh SHORT ~83.000 là suy từ 'chờ cơ hội trong những nhịp phục hồi... hồi nhẹ ~83.000... tìm một vị thế', không nêu TP/SL. Câu 'Đây là nhịp back test thôi... rồi lại đi lên tiếp' ở giữa buổi không rõ nói về BTC hiện tại hay chart 2022–23 nên không dùng. Không có câu vô hiệu kèm mốc."
+}

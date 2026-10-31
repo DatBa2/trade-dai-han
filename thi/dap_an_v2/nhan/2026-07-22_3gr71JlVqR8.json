@@ -1,0 +1,48 @@
+{
+  "buoi": "2026-07-22_3gr71JlVqR8",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/zip_clean/2026-07-22_3gr71JlVqR8.txt",
+  "gia_btc_luc_noi": 66200,
+  "dau_buoi": {
+    "thien_huong_h4": "TANG",
+    "gio": "[00:24:56]",
+    "trich": "Ngày hôm nay mình thấy vẫn nên bỏ tay ra khỏi lệnh short. Nến H4 thì chúng ta kéo vùng này ra tí. Kháng cự hiện tại ở đây nằm đâu đó khoảng tầm 66.000 cho đến 67.000 ... [00:27:00] Chúng ta có một đường 68.000 là MA600 của vùng này. Xác suất giá đi từ vùng bây giờ kéo một phát lên đến 68 là cực kỳ cao."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "TANG",
+    "do_chac": "cao",
+    "gio": "[00:58:58]",
+    "trich": "Anh em nhìn cây H4 này của Market này. Cây này thì không nên long FOMO đâu. Cây này nguy hiểm. Cây H4 này xấu. Chắc là về test MA. 65 hợp lý. ... [00:59:31] Liquid nằm ở 65 cũng một đống, đúng rồi, vùng đó nó hội tụ nhiều, mình nghĩ hợp lý rồi."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {"huong": "GIAM", "dich": 65000},
+  "duong_di": [
+    {"huong": "GIAM", "dich": 65000},
+    {"huong": "TANG", "dich": [67000, 68000]}
+  ],
+  "dich_chinh": [67000, 68000],
+  "han_gio": null,
+  "vo_hieu": {
+    "gia": 64000,
+    "khung": "H4",
+    "so_nen": 1,
+    "chieu": "dong_duoi",
+    "cau": "Nếu H4 tiếp theo đóng dưới 65K5, xu hướng tiếp theo sẽ về đâu? ... nếu H4 đóng dưới thì mình nghĩ cũng không có vấn đề gì. ... Khi nào nó đóng dưới đáy 64 kia, đóng dưới 64 thì thị trường mới có xác suất gãy. Còn trong vùng này nó vẫn là vùng hồi, vùng điều chỉnh."
+  },
+  "lenh": [
+    {"chieu": "LONG", "vao": 65000, "tp": [67000, 68000], "sl": null, "trang_thai": "de_xuat_moi"}
+  ],
+  "hanh_dong": "dung_ngoai_cho_entry",
+  "khung_lon": {"D1": "TANG", "W1": "GIAM"},
+  "pha_vo_gia": "Giá có thể 'rướn lên khoảng 67 hoặc 68 để quét stop loss những lệnh short'; ngược lại 65.000 là vùng thanh khoản 'đang muốn về để kill long FOMO'. Cũng cảnh báo nhịp kéo FOMO tiếp 'rồi sẽ cho anh em rụng luôn'.",
+  "trich_them": [
+    {"gio": "[00:04:06]", "cau": "Bitcoin thì đoạn này nó đang gặp kháng cự cho nên không có bất ngờ đâu. Vùng target mình báo anh em khoảng quanh 66 đến 67 thì bây giờ nó đã đạt được rồi. Ở đoạn này thì chúng ta không FOMO nhảy vào nữa."},
+    {"gio": "[00:23:23]", "cau": "Điều kiện thứ hai [00:23:54] đó là cây nến hôm nay, tức là đóng nến ngày sáng ngày mai nó phải là một cây nến xanh và đóng cao hơn vùng giá này thì từ giờ đến cuối tuần sau đó hoặc thậm chí qua tuần sau chúng ta sẽ thấy giá nó tiếp tục đi lên, thậm chí không loại trừ khả năng nó vút lên đến tận 72.000."},
+    {"gio": "[00:28:04]", "cau": "Nó phải thủng được 66.000 thì mới tuột về vùng 65.000. Còn nó cứ trụ trên 66 này mà các bạn nhồi short vào thì rất nguy hiểm."},
+    {"gio": "[00:30:08]", "cau": "Nhìn chung xu hướng thị trường vẫn đang giữ được thì hôm nay cứ tuân thủ thuận xu hướng. Đẹp nhất đoạn này là chờ nó hồi về quanh 65.000 mà chúng ta tìm vị thế buy thì mình nghĩ ổn. ... [00:30:43] Chờ về đây tìm tín hiệu để buy lên, target là 67 và 68."},
+    {"gio": "[00:35:10]", "cau": "Đẹp nhất là chờ điều chỉnh về quanh 65.000 ... chúng ta múc lên là hợp lý. Còn nếu FOMO market thì cũng hơi rén. Nếu có FOMO bây giờ thì SL khoảng 200 giá, tức là thủng 66.000"},
+    {"gio": "[00:40:56]", "cau": "Nhịp này khả năng nó kéo FOMO tiếp, kéo FOMO tiếp rồi sẽ cho anh em rụng luôn. Sợ rằng ở đây không có back test. [00:41:27] Back test bây giờ thì nặng quá. Nếu nói back test ở đây thì sẽ là một nhịp rất dài, giảm về 65 rồi chắc lên được 70, cứ chờ xem."},
+    {"gio": "[00:37:14]", "cau": "Mình nghĩ Bitcoin đang trên đà tìm đáy và đây [00:37:45] chỉ là một nhịp hồi trong một chu kỳ downtrend."}
+  ],
+  "kho": "Giá đã chạm vùng target 66-67 cũ; view chính vẫn tăng tiếp lên 67-68 nhưng muốn chờ hồi về 65.000 để mua, không FOMO. Không nêu hạn giờ cho đích 67-68 (72 chỉ là kịch bản mở rộng nếu D1 xác nhận). Giá lúc nói ước từ câu 'SL khoảng 200 giá, tức là thủng 66.000'."
+}

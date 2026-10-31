@@ -1,0 +1,264 @@
+{
+  "buoi": "2026-03-19_mBEBKzBb4kU",
+  "ngay": "2026-03-19",
+  "gia_btc_luc_noi": 71000,
+  "moc": [
+    {
+      "gia": 62000,
+      "gia_tren": null,
+      "vai_tro": "nhac_lai",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [
+        "target mô hình cờ giảm từ 96K"
+      ],
+      "moc_gio": "00:27:36",
+      "chac": true,
+      "trich": "thị trường gãy từ vùng 96 về đến 62, mình đã đo target của mô hình cờ này về 62 là ngay vùng đáy"
+    },
+    {
+      "gia": 72000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "hấp thụ lực bán nến D1 to và dài"
+      ],
+      "moc_gio": "00:37:26",
+      "chac": true,
+      "trich": "vút lên một phát chiều nay chúng ta thấy giá lên trên 72 thì chứng tỏ lực mua siêu to khổng lồ"
+    },
+    {
+      "gia": 72200,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [],
+      "moc_gio": "00:41:34",
+      "chac": true,
+      "trich": "Đôi khi nó hồi lên đến 72.200 này. Nó hồi lên đây rồi nó rụng tiếp"
+    },
+    {
+      "gia": 68000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "Fibo 0.5 sóng dài (khung H4)"
+      ],
+      "moc_gio": "00:42:35",
+      "chac": true,
+      "trich": "nếu xét sóng dài này thì Fibo 0.5 nằm ở ngay vùng 68 này"
+    },
+    {
+      "gia": 72000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "GIAM",
+      "khung": "H1",
+      "can_cu": [
+        "Fibo 0.5 sóng ngắn H1"
+      ],
+      "moc_gio": "00:43:06",
+      "chac": true,
+      "trich": "nhịp sóng ngắn ở H1 đang ở Fibo 0.5... hồi nhẹ lên khoảng 72 sau đó lại dump về 68, 69"
+    },
+    {
+      "gia": 68000,
+      "gia_tren": 69000,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "H1",
+      "can_cu": [
+        "Fibo 0.5 sóng dài H4"
+      ],
+      "moc_gio": "00:43:06",
+      "chac": true,
+      "trich": "hồi nhẹ lên khoảng 72 sau đó lại dump về 68, 69 cũng bình thường"
+    },
+    {
+      "gia": 69500,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "điều chỉnh 2,3% từ vùng 71.000 (so sánh nhịp 91K→89K cũ)"
+      ],
+      "moc_gio": "00:44:40",
+      "chac": true,
+      "trich": "nó điều chỉnh tiếp về 2,3%. Nó về đến 69k5 đúng không? Là vừa khít luôn. Vừa khít để quét stop loss"
+    },
+    {
+      "gia": 71000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "M5",
+      "can_cu": [
+        "vùng 71 hôm qua đã lấp gap CME"
+      ],
+      "moc_gio": "00:46:13",
+      "chac": true,
+      "trich": "nếu nó không thủng khỏi 71.000 thì vẫn có cửa đi lên tiếp"
+    },
+    {
+      "gia": 71600,
+      "gia_tren": 72000,
+      "vai_tro": "tp",
+      "huong": "TANG",
+      "khung": "M5",
+      "can_cu": [
+        "MA34 M30",
+        "cản H1",
+        "cản H4"
+      ],
+      "moc_gio": "00:46:44",
+      "chac": true,
+      "trich": "giữ tiếp lên đến khoảng 71.600 cho đến khoảng 72.000, chốt lại đối với lệnh scalping"
+    },
+    {
+      "gia": 70000,
+      "gia_tren": null,
+      "vai_tro": "sl",
+      "huong": "TANG",
+      "khung": "M5",
+      "can_cu": [
+        "cấu trúc M5 đáy sau đỉnh sau cao dần"
+      ],
+      "moc_gio": "00:46:44",
+      "chac": true,
+      "trich": "bắt buộc đối với scalping là phải SL ở dưới vùng 70 này, nó thủng thì cấu trúc M5 bị phá vỡ"
+    },
+    {
+      "gia": 66000,
+      "gia_tren": 68000,
+      "vai_tro": "vo_hieu",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [],
+      "moc_gio": "00:51:52",
+      "chac": true,
+      "trich": "Target nếu thị trường không thủng khỏi vùng 66, 68 này thì vẫn giữ nguyên target cũ là 78 cho đến 80"
+    },
+    {
+      "gia": 78000,
+      "gia_tren": 80000,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "gap CME 80"
+      ],
+      "moc_gio": "00:52:24",
+      "chac": true,
+      "trich": "vẫn giữ nguyên target cũ là 78 cho đến 80"
+    },
+    {
+      "gia": 71000,
+      "gia_tren": null,
+      "vai_tro": "khac",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "gap CME 71 đã lấp"
+      ],
+      "moc_gio": "00:52:24",
+      "chac": true,
+      "trich": "Hôm qua nó về lấp gap 71 rồi, gap nhỏ này đã húp xong"
+    },
+    {
+      "gia": 72000,
+      "gia_tren": 73000,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý / heatmap mới tạo"
+      ],
+      "moc_gio": "00:53:25",
+      "chac": true,
+      "trich": "Heatmap: 72 này. 72, 73 luôn... đám liquid mới tạo ra, hy vọng nó quét lên được 72"
+    },
+    {
+      "gia": 70000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": null,
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý / heatmap (đám nhỏ còn sót)"
+      ],
+      "moc_gio": "00:55:32",
+      "chac": true,
+      "trich": "Còn một đám nho nhỏ ở vùng 70 thôi. Vùng 71.000 hôm qua cũng bị húp rồi"
+    },
+    {
+      "gia": 64000,
+      "gia_tren": 65000,
+      "vai_tro": "vo_hieu",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "cụm thanh lý / heatmap dài hạn 64 (stop loss đặt dưới râu)"
+      ],
+      "moc_gio": "00:56:02",
+      "chac": true,
+      "trich": "có một đám rất lớn ở 64... nếu thủng 65 này thì khả năng thị trường đảo chiều luôn, về down trend tiếp"
+    },
+    {
+      "gia": 75000,
+      "gia_tren": 76000,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý / heatmap dài hạn đã bị quét lúc kéo 76"
+      ],
+      "moc_gio": "00:56:33",
+      "chac": true,
+      "trich": "những đợt vừa rồi có những đám dài hạn nằm ở 75, thị trường kéo lên 76 quét hết"
+    },
+    {
+      "gia": 72000,
+      "gia_tren": null,
+      "vai_tro": "entry",
+      "huong": "GIAM",
+      "khung": "H1",
+      "can_cu": [
+        "MA34 H1"
+      ],
+      "moc_gio": "01:12:40",
+      "chac": true,
+      "trich": "Nếu nó lên quét ở trên 72 thì bạn có thể tìm điểm short... Nó lên test MA34 ở H1 thì may ra mới có điểm short"
+    },
+    {
+      "gia": 70000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "Fibo H4",
+        "hỗ trợ H4"
+      ],
+      "moc_gio": "01:13:11",
+      "chac": true,
+      "trich": "nó rút lên trên Fibo, tức trên 70, thì lại có cơ sở để đi lên. Target 2 nằm ở trên 72"
+    },
+    {
+      "gia": 70300,
+      "gia_tren": 70800,
+      "vai_tro": "sl",
+      "huong": "TANG",
+      "khung": "M30",
+      "can_cu": [],
+      "moc_gio": "01:09:28",
+      "chac": false,
+      "trich": "70k8 SL 70k3 không đánh ở đó cũng rất dễ bị stop loss"
+    }
+  ]
+}

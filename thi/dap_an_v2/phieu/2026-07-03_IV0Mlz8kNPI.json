@@ -1,0 +1,163 @@
+{
+ "buoi": "2026-07-03_IV0Mlz8kNPI",
+ "ngay": "2026-07-03",
+ "gio_vn": "10:00",
+ "gia_btc_luc_noi": 61500,
+ "nhan_dinh": [
+  {
+   "khung": "H4",
+   "huong": "TANG",
+   "do_chac": "vua",
+   "dich": 64000,
+   "han": null,
+   "han_gio": 72,
+   "vo_hieu_khi": "nến H4 đóng dưới 61.000",
+   "vo_hieu_cau_truc": {
+    "gia": 61000,
+    "khung": "H4",
+    "so_nen": 1,
+    "chieu": "dong_duoi",
+    "cau": "Đóng H4 dưới 61 là không long nữa. Nếu H4 đóng ở đây mà đóng dưới 61 thì chúng ta ngồi ngoài nhìn thôi."
+   },
+   "kich_ban_phu": null,
+   "duong_di": [
+    {
+     "huong": "TANG",
+     "dich": [
+      62000,
+      63000
+     ]
+    },
+    {
+     "huong": "TANG",
+     "dich": [
+      64000,
+      65000
+     ]
+    }
+   ],
+   "doi_y": null,
+   "ly_do": [],
+   "trich": "Mình nghĩ từ giờ cho đến khi chắc cũng phải qua tuần sau thì chúng ta mới tìm short lại, tầm này cứ phải chờ nó vòng vèo, còn không thì phải chờ nó dưới 60 thì đi tìm short lại sau. Chứ ở trên vùng 61 này là mình không chơi short rồi.",
+   "nhan_v1": "TANG"
+  },
+  {
+   "khung": "M15",
+   "huong": "TANG",
+   "do_chac": "vua",
+   "dich": [
+    62000,
+    64000
+   ],
+   "han": "trong ngày",
+   "han_gio": 24,
+   "vo_hieu_khi": "M15 thủng 61.000 thì out",
+   "kich_ban_phu": null,
+   "ly_do": [
+    "M15 phục hồi tốt, kẹp MA",
+    "long nhấp nhả theo view"
+   ],
+   "trich": "M15 phục hồi tốt, kẹp MA. ... M15 thủng 61 là out.",
+   "doi_y": null,
+   "duong_di": null
+  }
+ ],
+ "vung_gia": {
+  "khang_cu": [
+   62000,
+   64000
+  ],
+  "ho_tro": [
+   60000,
+   61000
+  ]
+ },
+ "lenh": [
+  {
+   "chieu": "LONG",
+   "vao": null,
+   "tp": [
+    63000,
+    64000
+   ],
+   "sl": 61000,
+   "trang_thai": "dang_giu"
+  }
+ ],
+ "nhin_lai_truoc": "View hôm qua không short trên 61 là đúng; đóng hết short đêm qua, vài lệnh entry 62 bị quét SL entry (đã ăn TP1, TP2). View MA200 64 vẫn giữ.",
+ "cong_cu": [
+  "H4",
+  "D1",
+  "M15",
+  "MA34/89/200",
+  "Fibo",
+  "RSI",
+  "USDT.D",
+  "BTC.D",
+  "vàng"
+ ],
+ "tin_tuc": [
+  {
+   "tin": "Non farm tối qua tốt (lương, thất nghiệp)",
+   "danh_gia": "cớ hợp lý hoá đường giá, không quan trọng vì đang downtrend"
+  },
+  {
+   "tin": "Mỹ nghỉ lễ Quốc khánh ngày mai",
+   "danh_gia": "volume thấp, thị trường đứng; PMI thứ hai mới có tin"
+  }
+ ],
+ "thoi_quen": [
+  "đã đánh long ngược trend thì chốt nhanh, không gồng",
+  "gắn SL entry cho lệnh ăn ở giá cao",
+  "dùng vàng làm chỉ báo phụ: vàng tăng thì không short BTC",
+  "đòi mốc giá và thời gian cụ thể cho nhận định",
+  "không dự đoán altcoin còn lên được không"
+ ],
+ "cau_cua_mieng": [
+  "Quan trọng nhất là còn vốn thì còn cơ hội.",
+  "Đừng cố, cố quá là quá cố.",
+  "Đừng ngồi khấn thị trường đi ngược lại lệnh mình đang gồng."
+ ],
+ "altcoin": [
+  {
+   "coin": "ETH",
+   "huong": "TANG",
+   "ghi": "phục hồi, có thể chạm MA200 sớm, FOMO theo BTC"
+  },
+  {
+   "coin": "BNB",
+   "huong": "TANG",
+   "ghi": "break lên; backtest 548-552 thì ngon, TP 579-590"
+  },
+  {
+   "coin": "WLD",
+   "huong": "TANG",
+   "ghi": "lên 43 khỏe, nhưng mô hình có vẻ dụ long, không đoán được"
+  },
+  {
+   "coin": "SOL",
+   "huong": "TANG",
+   "ghi": "TP long vùng 79-80, gặp cản H4/D1 gần 86.4; không short"
+  },
+  {
+   "coin": "USDT.D",
+   "huong": "GIAM",
+   "ghi": "gãy xuống, về 8.2%"
+  }
+ ],
+ "ghi_chu": "Giá BTC lúc nói ước ~61-62k (nhắc lên 61.000 sáng, quét 62). gio_vn theo quy ước 10:00.",
+ "hanh_dong": "giu_lenh",
+ "chang_ke_tiep": {
+  "huong": "TANG",
+  "dich": [
+   62000,
+   63000
+  ]
+ },
+ "khung_lon_v2": {
+  "D1": "TANG",
+  "W1": null
+ },
+ "pha_vo_gia": "[00:16:16] cú gãy xuống dưới vùng 59–61 hôm trước: 'khoảng 70% vùng gãy ở đây là vùng fake breakout, tức phá vỡ giả', được xác nhận khi phá lên lại 61. [00:19:00] cảnh báo râu có thể vượt MA200 64 lên 68–69 (bẫy short sớm).",
+ "nguon_nhan": "dap_an_v2 (Opus 5.5 rút mù 31/10)"
+}

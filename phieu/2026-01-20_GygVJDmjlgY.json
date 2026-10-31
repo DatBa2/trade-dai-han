@@ -1,0 +1,63 @@
+{
+  "buoi": "2026-01-20_GygVJDmjlgY",
+  "ngay": "2026-01-20",
+  "gio_vn": "10:00",
+  "gia_btc_luc_noi": 92300,
+  "nhan_dinh": [
+    {
+      "khung": "H1",
+      "huong": "GIAM",
+      "do_chac": "vua",
+      "dich": [91000, 91800],
+      "han": "từ giờ đến chiều",
+      "han_gio": 6,
+      "vo_hieu_khi": "không nói mốc; nếu quét lên 93.000 mà lực mạnh thì xem lại",
+      "kich_ban_phu": "có thể quét lên 93.000 lấp gap nhỏ tạo đỉnh thấp hơn rồi rụng tiếp; về 91.000 quét râu nếu có lực bật thì cân nhắc long ăn sóng hồi",
+      "ly_do": [
+        "H1 đóng dưới 92.300 phá hỗ trợ ngắn hạn, đỉnh thấp đáy thấp, đáy gần nhất 92.003",
+        "vùng 92-93 giá bán chậm là do hỗ trợ (MA200 H4, MA34 D1), chưa phải lực mua áp đảo",
+        "H4 đóng thủng đáy; nến đỏ volume lớn khó hồi"
+      ],
+      "trich": "mình nghĩ là từ giờ đến chiều nó sẽ rơi về dưới này. ... Trước mắt là đối với lệnh short thì mình sẽ TP ở quanh 9100.",
+      "doi_y": null,
+      "duong_di": null
+    },
+    {
+      "khung": "D1",
+      "huong": "GIAM",
+      "do_chac": "vua",
+      "dich": [87000, 88000],
+      "han": "nếu nến ngày đóng thủng 90.000",
+      "han_gio": null,
+      "vo_hieu_khi": "nến ngày xanh có lực mua, comeback trên MA34 D1 thì còn hy vọng lên lại 98-100.000",
+      "kich_ban_phu": "thủng 90.000 thì thậm chí về 7x chứ không chỉ 87-88; hồi lên 93.000 rồi dump tiếp",
+      "ly_do": ["mô hình cờ giảm D1", "xu hướng điều chỉnh giảm, long rất rủi ro", "BTC.D và USDT.D đi lên"],
+      "trich": "Nếu hôm nay chỉ cần giá đóng nến D1, đóng nến ngày mà thủng ở 90 thì mình tin chắc rằng chúng ta sẽ thấy cái vùng giá 87 và 88.",
+      "doi_y": null,
+      "duong_di": null
+    }
+  ],
+  "vung_gia": {"khang_cu": [93000, 93400], "ho_tro": [91000, 92000]},
+  "lenh": [
+    {"chieu": "SHORT", "loai": "scalp", "vao": null, "tp": [91600, 91000], "sl": null,
+     "trang_thai": "dang_giu", "trich": "Mình vẫn đang giữ lệnh short về dưới này rồi mình chốt. ... 91.600 chốt, 91.700 chốt lãi được."},
+    {"chieu": "SHORT", "loai": "swing (kế hoạch)", "vao": [98000, 105000], "tp": null, "sl": null,
+     "trang_thai": "de_xuat_moi", "trich": "Short swing thì mình muốn đánh ở vùng từ khoảng 98 trở lên ... từ 98 cho đến khoảng 105."}
+  ],
+  "nhin_lai_truoc": "Lệnh long bạc hôm qua đã cho out. Kế hoạch long scalp test râu hôm qua chỉ hồi lên 93.378 (đúng là tối đa 93.000) nhưng hôm nay nhịp test râu khác nên không dùng tín hiệu long nữa, cập nhật lại.",
+  "cong_cu": ["D1", "H4", "H1", "M15", "MA34/89/200", "gap 93.000/88.000", "RSI phân kỳ", "volume H4", "heatmap liquidation", "Fear & Greed", "BTC.D", "USDT.D"],
+  "tin_tuc": [{"tin": "Hôm nay không có tin, mai thứ tư Trump phát biểu", "danh_gia": null}],
+  "thoi_quen": [
+    "không long FOMO khi giá bán chậm, cần lực mua áp đảo",
+    "đánh thuận xu hướng: chỉ scalp short, swing short chỉ từ 98.000 trở lên",
+    "long altcoin khi có funding âm, ăn nhỏ",
+    "cập nhật plan khi kịch bản hôm qua không thành công"
+  ],
+  "cau_cua_mieng": ["Mua ở giá cao và bán giá thấp.", "Hành động thế nào là quyền của mỗi người."],
+  "altcoin": [
+    {"coin": "ETH", "huong": "GIAM", "ghi": "nến ngày rất xấu, khó lên 3000"},
+    {"coin": "SOL", "huong": "GIAM", "ghi": "long 144 là long đỉnh, có thể về 90-100; chưa short, chờ nhịp hai của BTC"},
+    {"coin": "vàng/bạc", "huong": "TANG", "ghi": "đừng short; vàng vùng nguy hiểm không long đuổi"}
+  ],
+  "ghi_chu": "Giờ không ghi. Giá 92.300 là mốc H1 đóng nói trực tiếp."
+}

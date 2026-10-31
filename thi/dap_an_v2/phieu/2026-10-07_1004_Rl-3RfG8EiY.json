@@ -1,0 +1,141 @@
+{
+ "buoi": "2026-10-07_1004_Rl-3RfG8EiY",
+ "ngay": "2026-10-07",
+ "gio_vn": "10:04",
+ "gia_btc_luc_noi": 84000,
+ "nhan_dinh": [
+  {
+   "khung": "H4",
+   "huong": "GIAM",
+   "do_chac": "vua",
+   "dich": [
+    80000,
+    82000
+   ],
+   "han": null,
+   "han_gio": null,
+   "vo_hieu_khi": null,
+   "vo_hieu_cau_truc": null,
+   "kich_ban_phu": null,
+   "duong_di": null,
+   "doi_y": null,
+   "ly_do": [],
+   "trich": "Kết quả đã đúng: đóng trên 84.050 và dưới 84.300, vẫn nằm trong khoảng đó... Tất nhiên nến này vẫn là nến bán rất mạnh và lực bán vẫn rất trâu bò. Nhưng mình đoán nó sẽ test lên khoảng 84.00 [?], cứ chờ thôi. Lên trên này lại tìm điểm xem tình hình rồi tính tiếp.",
+   "nhan_v1": "GIAM"
+  },
+  {
+   "khung": "D1",
+   "huong": "GIAM",
+   "do_chac": "vua",
+   "dich": [
+    76000,
+    76000
+   ],
+   "han": null,
+   "han_gio": null,
+   "vo_hieu_khi": null,
+   "kich_ban_phu": "hỗ trợ D1 ở 82-83 có thể khựng một tí rồi đi tiếp",
+   "ly_do": [
+    "hai đỉnh D1, bị chặn ở 87",
+    "76.000 là MA89 D1 + hỗ trợ cung cầu, đẹp nhất",
+    "tâm lý 71 còn cao thì thị trường còn khổ"
+   ],
+   "trich": "Đẹp nhất là nó về lại khoảng 76.000: MA89 trên khung ngày là vùng hỗ trợ cứng",
+   "doi_y": null,
+   "duong_di": null
+  },
+  {
+   "khung": "M5",
+   "huong": "TANG",
+   "do_chac": "thap",
+   "dich": [
+    84000,
+    84000
+   ],
+   "han": "trong ngày",
+   "han_gio": null,
+   "vo_hieu_khi": null,
+   "kich_ban_phu": "lên đây thì tìm entry đánh xuống nếu cấu trúc M5 đẹp",
+   "ly_do": [
+    "M5 phá qua, chuẩn bị TP1 thêm 200 giá",
+    "dự đoán H4 đóng giữa 84.050-84.300 (đúng)"
+   ],
+   "trich": "maybe lên đây mình sẽ tìm entry để đánh xuống, nếu thị trường cho phép",
+   "doi_y": null,
+   "duong_di": null
+  }
+ ],
+ "vung_gia": {
+  "khang_cu": [
+   84000,
+   87000
+  ],
+  "ho_tro": [
+   80000,
+   83000
+  ]
+ },
+ "lenh": [],
+ "nhin_lai_truoc": "Hôm qua chốt scalping 86.000 ngay vùng đỉnh, 'hên'; sau đó giá gãy khoảng 4000 giá. Dự đoán H4 đóng 84.050-84.300 đúng.",
+ "cong_cu": [
+  "H4",
+  "MA89 H4",
+  "MA600 M30",
+  "MA34 M5",
+  "Fibo",
+  "volume profile",
+  "BTC.D",
+  "USDT.D",
+  "Fear and Greed",
+  "heatmap thanh lý (Hyblock)"
+ ],
+ "tin_tuc": [
+  {
+   "tin": "Họp FOMC 1:00 sáng mai (giờ VN)",
+   "danh_gia": "chỉ là họp, nhưng thị trường đói tin nên lấy cớ; đừng cầm lệnh qua đêm"
+  }
+ ],
+ "thoi_quen": [
+  "không cầm lệnh qua đêm trước tin",
+  "cảnh báo sớm từ khung nhỏ H1 trở xuống",
+  "có vị thế đánh lên thì TP hoặc kéo SL về entry",
+  "sell ngược xu hướng có lãi là chốt",
+  "đo lực bằng volume/OI/thanh lý, không đo bằng chart",
+  "heatmap dễ lừa",
+  "loại coin chạy khó chịu khỏi list"
+ ],
+ "cau_cua_mieng": [
+  "Thị trường càng nát thì mình càng vui.",
+  "Tuần này chưa có 7x đâu, đừng vội.",
+  "Cứ bình tĩnh thôi."
+ ],
+ "altcoin": [
+  {
+   "coin": "ETH",
+   "huong": "GIAM",
+   "ghi": "phân phối, tái phân phối; vài ngày quanh 2000, hồi 2635 rồi gãy, có thể về 1000-1200"
+  },
+  {
+   "coin": "BTC.D/USDT.D",
+   "huong": "TANG",
+   "ghi": "USDT.D confirm tăng; alt không đi theo BTC"
+  },
+  {
+   "coin": "Link",
+   "huong": "PHAN_VAN",
+   "ghi": "chờ 11"
+  }
+ ],
+ "ghi_chu": "Kế hoạch gom spot: mua lại ở 5x (59/57), mạnh nhất đầu 4x; quanh 57.000 có thể gom 30%. Mục tiêu 40.000 'hơi xa, cất'. Nghỉ live đến hết thứ hai. Hướng lệnh TP 86.000 suy từ ngữ cảnh (anh em sau đó nhảy vào sell), nên coi là long scalping. Số 84.00[?] hiểu là 84.000; 86.600[?] là 86.600.",
+ "hanh_dong": "dung_ngoai_cho_entry",
+ "chang_ke_tiep": {
+  "huong": "TANG",
+  "dich": null
+ },
+ "khung_lon_v2": {
+  "D1": "GIAM",
+  "W1": null
+ },
+ "pha_vo_gia": "Nến H4 cố đóng trên 84 / MA89 H4 có thể là để 'dụ lượng FOMO nhảy vào rồi sau đó mới điều chỉnh tiếp trong phiên chiều và phiên tối'.",
+ "nguon_nhan": "dap_an_v2 (Opus 5.5 rút mù 31/10)"
+}

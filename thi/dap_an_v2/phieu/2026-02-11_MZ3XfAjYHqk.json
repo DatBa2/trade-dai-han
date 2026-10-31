@@ -1,0 +1,67 @@
+{
+  "buoi": "2026-02-11_MZ3XfAjYHqk",
+  "ngay": "2026-02-11",
+  "gio_vn": "10:00",
+  "gia_btc_luc_noi": 68000,
+  "nhan_dinh": [
+    {
+      "khung": "H4",
+      "huong": "GIAM",
+      "do_chac": "vua",
+      "dich": [62000, 66000],
+      "han": "những ngày tới (chưa nói rõ)",
+      "han_gio": null,
+      "vo_hieu_khi": "H4 đóng xanh qua khỏi MA34 (mới long được); cây H4 đóng xanh là đảo chiều thì bỏ view short",
+      "kich_ban_phu": "về Fibo 0.5 (66.000-64.000) rút chân lên thì mới phá lên được; short chỉ nên chờ fake out quét lên trên 72.000 (vd 75.000) rồi đóng đỏ",
+      "ly_do": [
+        "H4 liên tục bị từ chối ở MA34",
+        "H1 đỉnh thấp dần, đáy đi ngang = lực bán liên tục xuất hiện, dễ thủng",
+        "xu hướng vẫn là giảm, các nhịp vừa rồi là nhịp hồi/điều chỉnh",
+        "Fear & Greed 11 nên hạn chế short, có khả năng kill short"
+      ],
+      "trich": "Xu hướng hiện tại vẫn là xu hướng giảm và những nhịp vừa rồi chúng ta vẫn giữ nguyên quan điểm đó là những nhịp điều chỉnh, nhịp phục hồi đi lên.",
+      "doi_y": null,
+      "duong_di": null
+    },
+    {
+      "khung": "chung",
+      "huong": "GIAM",
+      "do_chac": "vua",
+      "dich": [20000, 40000],
+      "han": "đến hết downtrend",
+      "han_gio": null,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": null,
+      "ly_do": ["vùng đáy Bitcoin cá nhân từ 40.000 đến 20.000", "phải gom xuống chứ không gom lên khi đang downtrend"],
+      "trich": "Vùng đáy Bitcoin mình nói rồi từ 40 đến 20. Quan điểm cá nhân của mình.",
+      "doi_y": null,
+      "duong_di": null
+    },
+    {
+      "khung": "M5",
+      "huong": "PHAN_VAN",
+      "do_chac": "vua",
+      "dich": null,
+      "han": null,
+      "han_gio": null,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": "vùng giữa 66-72 không nên trade, ngồi ngoài; long chỉ khi phản ứng ở Fibo 0.5 66-64 + nến đảo chiều; short chỉ sau fake out",
+      "ly_do": ["sideway đầu tuần, thị trường quét hai đầu, bẫy thỏ", "short nguy hiểm hơn long vì dễ bị trap"],
+      "trich": "Short đoạn này càng nguy hiểm hơn long, bởi vì nếu short ở đây thì rất dễ bị trap.",
+      "doi_y": null,
+      "duong_di": null
+    }
+  ],
+  "vung_gia": {"khang_cu": [72000, 75000], "ho_tro": [64000, 66000]},
+  "lenh": [
+    {"chieu": "LONG", "loai": "limit", "vao": [64000, 66000], "tp": null, "sl": null, "trang_thai": "de_xuat_moi", "trich": "nên cứ chờ ở limit, chờ ở Fibo 66 cho đến 64.000."},
+    {"chieu": "SHORT", "loai": "chờ fake out", "vao": [72000, 75000], "tp": null, "sl": null, "trang_thai": "de_xuat_moi", "trich": "nếu muốn short anh em phải chờ một cú quét lên, ít nhất là phải qua được vùng 72"}
+  ],
+  "nhin_lai_truoc": "Hôm thứ hai khuyên chốt lãi ở 70-71 nếu bắt đáy hôm thứ sáu; ai lên 70.000 chốt là đúng bài.",
+  "cong_cu": ["H4", "MA34", "Fibo 0.5", "H1 đỉnh đáy", "heatmap liquidation", "Fear & Greed", "gap CME", "khung tháng"],
+  "tin_tuc": [{"tin": "Tết Nguyên đán, thị trường châu Á nghỉ lễ", "danh_gia": "thanh khoản yếu; nếu sóng đầu Tết đã đẩy/xả thì đừng đánh ngược, nếu sideway thì có thể đi ngang cả Tết"}],
+  "thoi_quen": ["chờ H4 đóng xanh qua MA34 mới long", "short chờ fake out quét stop rồi mới vào", "vùng không rõ thì ngồi ngoài", "gom spot chia vốn, gom xuống không gom lên", "long ngược xu hướng thì đòn bẩy thấp, volume ít"],
+  "cau_cua_mieng": ["Gom xuống chứ ai gom lên.", "Khi người khác tham chúng ta ở ngoài, còn khi người khác sợ chúng ta vào mua.", "giống như những con thỏ vậy"],
+  "altcoin": [{"coin": "ETH", "huong": "GIAM", "ghi": "tương tự BTC, D1 xấu; gom spot dài hạn chia 4-5 lần, mỗi lần giảm khoảng 30%, trung bình giá khoảng 1300"}],
+  "ghi_chu": "Không nói giờ live. BTC khoảng 68-69k suy từ ví dụ entry 69.000. Bỏ qua phần hỏi đáp VN30, OKB, HYPE."
+}

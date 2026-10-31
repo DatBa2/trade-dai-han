@@ -1,0 +1,53 @@
+{
+  "buoi": "2026-08-11_1005_KvVvliql8xI",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/lam_sach/2026-08-11_1005_KvVvliql8xI.md",
+  "gia_btc_luc_noi": 64000,
+  "dau_buoi": {
+    "thien_huong_h4": null,
+    "gio": null,
+    "trich": "Bit có vẻ là nến đang lên rất là đẹp rồi. Đi kiểu này là chắc là không short được đâu, té thôi ... Nói chung nhìn vào cái nến thì mình nghĩ là dễ để long, rất là dễ để long. Tuy nhiên nhìn những cái cây nến lớn thì mình thấy vẫn đang hơi rủi ro, thành ra là đặt tí xem thử nó có lừa dụ long hay không."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "GIAM",
+    "do_chac": "thap",
+    "gio": null,
+    "trich": "H4 đóng một màu xanh rồi. H4 đóng ở đây thì vẫn tiếp tục câu chuyện là chờ nó lên trên này, nhá. Chờ nó lên được 64.500 rồi chắc là xoay sở trên khu vực đó. Nó lại không có volume này. Chờ nó lên 64.500 đi rồi tìm entry ở trên đó chơi. M15 này thì khả năng chắc lên được rồi. Còn long lên trên đó thì chắc mình sẽ không báo cho anh em đâu. Nếu các bạn là đánh thì tự đánh thôi, bởi vì kèo này không chắc chắn lắm."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {"huong": "TANG", "dich": 64500},
+  "duong_di": [
+    {"huong": "TANG", "dich": 64500},
+    {"huong": "GIAM", "dich": [63300, 63400]}
+  ],
+  "dich_chinh": [63300, 63400],
+  "han_gio": null,
+  "vo_hieu": {
+    "gia": 66800,
+    "khung": "D1",
+    "so_nen": 1,
+    "chieu": "dong_tren",
+    "cau": "Tuy nhiên anh em nào thuộc trường phái thận trọng thì vẫn phải chờ xác nhận nến ngày phá qua được khỏi vùng 66.500 cho đến 66.800, hoặc thậm chí cả 67.000, tức là phải đóng nến ở trên cái này thì mới gọi là an toàn nhá."
+  },
+  "lenh": [
+    {"chieu": "SHORT", "vao": null, "tp": [], "sl": null, "trang_thai": "da_dong"},
+    {"chieu": "SHORT", "vao": 64500, "tp": [63300], "sl": null, "trang_thai": "de_xuat_moi"},
+    {"chieu": "LONG", "vao": [63300, 63400], "tp": [], "sl": null, "trang_thai": "de_xuat_moi"}
+  ],
+  "hanh_dong": "dung_ngoai_cho_entry",
+  "khung_lon": {"D1": "PHAN_VAN", "W1": null},
+  "pha_vo_gia": "Đặt lệnh nhỏ thử xem 'có lừa dụ long hay không'; kịch bản xấu: lên test trendline ~66k rồi fake out thất bại dội về (cờ → 47.000); pump lên 64.500 để quét team short mới vào rồi reset; tin CPI có thể pump ngắn rồi đêm đâm xuống.",
+  "trich_them": [
+    {"gio": null, "cau": "Bản chất nó không phải là về test cái cây nến này, mà đây là cái Fibo 0.5. Nó chỉ đơn thuần là về test Fibo thôi, gặp Fibo là nó được hỗ trợ nó bật lên thôi."},
+    {"gio": null, "cau": "Ở đây thì nó sẽ tăng lên được khoảng 64.500, tuy nhiên lực bán ở trên những cái khung lớn đang khá là to, cho nên mình vẫn thận trọng, quan sát."},
+    {"gio": null, "cau": "Rõ ràng là đoạn này chúng ta chỉ có thể nhìn nhận thị trường đang đi sideway thôi, đi ngang theo cái biên của D1, và chúng ta chưa biết là nó sẽ break theo hướng nào."},
+    {"gio": null, "cau": "Mình chưa long bởi vì mình vẫn chưa đánh giá được nhịp xả đêm ngày hôm qua này đã bị suy yếu đi. Thực tế nhịp này mình đánh giá nó đang hồi kỹ thuật nhiều hơn. Cái lực mà nó xuyên qua đoạn này rất là mạnh."},
+    {"gio": null, "cau": "Còn thực sự cái điểm để bắt long phản ứng đẹp đẹp ở vùng này thì mình nghĩ là chờ thêm một phát nữa ở 63.400, tức là ở Fibo 0.618."},
+    {"gio": null, "cau": "M15 thì tạm thời đang đẹp. Khả năng nhịp này nó hồi tối đa được khoảng tầm 64.500. Mình nghĩ lên trên này chúng ta có thể tìm entry để đánh xuống tiếp."},
+    {"gio": null, "cau": "Hỏi: Nên ưu tiên theo xu hướng long hay short? — Mình nghĩ chúng ta chưa có một xu hướng rõ ràng và vẫn nên đánh linh hoạt thôi, không cụ thể quá."},
+    {"gio": null, "cau": "Hiện tại để khả thi nhất thì mình nghĩ nếu có một nhịp hồi lên khoảng 64.500 là có vẻ ok để chúng ta tìm entry short."},
+    {"gio": null, "cau": "Hiện tại thì không còn kịch bản Bitcoin về 60.000 nữa nhá. Bởi vì nếu bây giờ mà về 60.000 thì mình nghĩ là về luôn, về năm mấy, năm ba, năm tư luôn."},
+    {"gio": null, "cau": "Trong ngày hôm nay, nói chung trước mắt chúng ta có hai vùng để quan sát đánh ngắn hạn: 63.300 và 64.500. Chạm vùng nào chúng ta xem xét vùng đó nhá."}
+  ],
+  "kho": "Transcript không có mốc giờ. Người nói tự nhận 'chưa có xu hướng rõ ràng, đánh linh hoạt', '50-50' và chốt bằng 2 vùng đánh hai chiều 63.300/64.500 — sát PHAN_VAN. Gán GIAM/thấp vì các câu nghiêng rõ: nhịp lên chỉ là 'hồi kỹ thuật', 'khả thi nhất' là short ở 64.500, không báo long. Đích 63.300-63.400 là suy từ vùng liquid/Fibo 0.618 đối diện, không phải TP nói thẳng. Mốc D1 66.500-67.000 là điều kiện xác nhận đi lên 70 (dùng làm vo_hieu cho view giảm), không phải SL lệnh. Đầu buổi chỉ nói nến ngắn hạn lên đẹp, không nêu kịch bản chính nên để null."
+}

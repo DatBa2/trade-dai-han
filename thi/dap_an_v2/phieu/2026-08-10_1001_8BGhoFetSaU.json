@@ -1,0 +1,178 @@
+{
+ "buoi": "2026-08-10_1001_8BGhoFetSaU",
+ "ngay": "2026-08-10",
+ "gio_vn": "10:01",
+ "gia_btc_luc_noi": 65000,
+ "nhan_dinh": [
+  {
+   "khung": "H4",
+   "huong": "TANG",
+   "do_chac": "thap",
+   "dich": [
+    66000,
+    67000
+   ],
+   "han": null,
+   "han_gio": null,
+   "vo_hieu_khi": null,
+   "vo_hieu_cau_truc": null,
+   "kich_ban_phu": null,
+   "duong_di": [
+    {
+     "huong": "GIAM",
+     "dich": [
+      64000,
+      64400
+     ]
+    },
+    {
+     "huong": "TANG",
+     "dich": [
+      66000,
+      67000
+     ]
+    }
+   ],
+   "doi_y": "Đầu buổi nói nghiêng cửa giảm; sau khi phân tích lại (nến tuần xanh đóng trên Fibo 0.5 ~62.500, chân 63.000 được giữ, dạng vai đầu vai ngược; H4 cấu trúc phục hồi 'rất cứng'), chuyển sang cảnh báo phe short, coi sell là ngược xu hướng H4 và chờ về 64.300-64.400 để đánh lên.",
+   "ly_do": [],
+   "trich": "H4 của nó vẫn giữ xu hướng tăng cho nên tất cả những lệnh sell hiện tại là đang đánh ngược xu hướng. Anh em lưu ý.",
+   "nhan_v1": "TANG"
+  },
+  {
+   "khung": "D1",
+   "huong": "PHAN_VAN",
+   "do_chac": "vua",
+   "dich": null,
+   "han": null,
+   "han_gio": null,
+   "vo_hieu_khi": "D1 đóng trên 67.000 thì phe short phải rời tàu, chờ 71-72.000",
+   "kich_ban_phu": null,
+   "ly_do": [
+    "sideway biên rất hẹp, giới hạn cuối của phe short là 66-67.000",
+    "MA34 D1 gần như không có giá trị lúc này"
+   ],
+   "trich": "Nếu giá bật lên trên 67.000 mà đóng nến ngày thì chắc chắn các bạn bắt buộc phải rời khỏi tàu thôi.",
+   "doi_y": null,
+   "duong_di": null
+  },
+  {
+   "khung": "W1",
+   "huong": "PHAN_VAN",
+   "do_chac": "thap",
+   "dich": null,
+   "han": null,
+   "han_gio": null,
+   "vo_hieu_khi": null,
+   "kich_ban_phu": "trước đó kỳ vọng về 60.500; có thể vẫn lên test 68, 72 rồi mới gãy xuống",
+   "ly_do": [
+    "nến tuần xanh đóng trên 62.500 (Fibo 0.5), chân 63.000 giữ",
+    "dấu hiệu vai đầu vai ngược khung tuần, rủi ro cho short dài",
+    "vẫn giữ nhận định giai đoạn downtrend, chỉ cảnh báo đừng short ăn dài"
+   ],
+   "trich": "Mặc dù mình vẫn giữ nhận định về giai đoạn thị trường này, nhưng khi nhìn trên nến thì chúng ta vẫn phải thận trọng đối với những lệnh cứ đòi short ăn to, ăn lớn.",
+   "doi_y": null,
+   "duong_di": null
+  }
+ ],
+ "vung_gia": {
+  "khang_cu": [
+   66000,
+   67000
+  ],
+  "ho_tro": [
+   63000,
+   64600
+  ]
+ },
+ "lenh": [
+  {
+   "chieu": "SHORT",
+   "vao": null,
+   "tp": [
+    64600
+   ],
+   "sl": null,
+   "trang_thai": "da_dong"
+  },
+  {
+   "chieu": "LONG",
+   "vao": [
+    64300,
+    64400
+   ],
+   "tp": [
+    66000,
+    67000
+   ],
+   "sl": null,
+   "trang_thai": "de_xuat_moi"
+  }
+ ],
+ "nhin_lai_truoc": null,
+ "cong_cu": [
+  "tuần",
+  "D1",
+  "H4",
+  "H1",
+  "Fibo 0.5/0.618",
+  "MA34 D1",
+  "MA200 H1",
+  "liquid hai block",
+  "DOM",
+  "USDT.D"
+ ],
+ "tin_tuc": [
+  {
+   "tin": "CPI thứ tư (core m/m 0.1 vs -0.4)",
+   "danh_gia": "bằng dự đoán thì cực khó chịu, core tăng; sau CPI giá sẽ gãy; thứ hai thứ ba chưa nên short"
+  }
+ ],
+ "thoi_quen": [
+  "ăn ngắn chứ không ăn dài",
+  "không vào long market khi thanh lý long dày, chờ quét thanh khoản",
+  "cảnh báo short dài chứ không khuyên đánh lên hay xuống",
+  "không đánh coin lowcap sóng quá nhỏ, chỉ đánh trend thật có dòng tiền",
+  "H4 đóng nến kiểu dụ short thì thận trọng lệnh sell"
+ ],
+ "cau_cua_mieng": [
+  "Đừng vào lệnh xong rồi cứ tin vào cái thứ mình muốn tin thì càng chết nha.",
+  "Downtrend mà."
+ ],
+ "altcoin": [
+  {
+   "coin": "ETH",
+   "huong": "TANG",
+   "ghi": "rất khỏe, trendline cung đã break, chưa thấy lý do gãy"
+  },
+  {
+   "coin": "BNB",
+   "huong": "PHAN_VAN",
+   "ghi": "đi từ từ lên khó sập sâu, không nên short"
+  },
+  {
+   "coin": "LINK",
+   "huong": "PHAN_VAN",
+   "ghi": "sideway 8.0-8.5, chưa gãy"
+  },
+  {
+   "coin": "LTC",
+   "huong": "GIAM",
+   "ghi": "H4 xấu, chờ backtest 73-74 rồi tính"
+  }
+ ],
+ "ghi_chu": "Đầu buổi nói 'thiên về cửa giảm nhiều hơn cửa tăng', sau khi phân tích các khung chuyển thành cảnh báo cho phe short và H4 nghiêng tăng; cuối buổi 'vẫn giữ nguyên cái view'. Chọn H4 TANG thấp vì không có khuyên đánh hướng nào rõ ràng; quy tắc chưa rõ khi người nói tự mâu thuẫn nhẹ. Giá BTC không nói số rõ (quanh 65K suy ngữ cảnh). Mốc 62.500, 64.003 là [?].",
+ "hanh_dong": "dung_ngoai_cho_entry",
+ "chang_ke_tiep": {
+  "huong": "GIAM",
+  "dich": [
+   64000,
+   64400
+  ]
+ },
+ "khung_lon_v2": {
+  "D1": "PHAN_VAN",
+  "W1": "PHAN_VAN"
+ },
+ "pha_vo_gia": "Nến H4 đóng xanh có râu 'cực kỳ dụ short'; nếu thủng trendline thì 'đôi khi nó thủng kỹ thuật thôi' — quét về ~64.000 lấy stop loss phe long FOMO rồi rút râu lên vẫn giữ xu hướng tăng.",
+ "nguon_nhan": "dap_an_v2 (Opus 5.5 rút mù 31/10)"
+}

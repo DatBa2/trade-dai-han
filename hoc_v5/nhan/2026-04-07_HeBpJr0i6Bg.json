@@ -1,0 +1,153 @@
+{
+  "buoi": "2026-04-07_HeBpJr0i6Bg",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/zip_clean/2026-04-07_HeBpJr0i6Bg.txt",
+  "gia_btc_luc_noi": 68500,
+  "dau_buoi": {
+    "thien_huong_h4": "TANG",
+    "gio": "[00:02:21]",
+    "trich": "Vào long chờ ở 68 hay long giá hiện tại thì thích gì làm đó. Mỗi cái nó sẽ có một cái kết quả riêng thôi... Mình thì chắc là mình đánh cả ở đây lẫn là 68 hoặc là 67."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "TANG",
+    "do_chac": "vua",
+    "gio": "[00:59:12]",
+    "trich": "[00:57:42] Tầm này không có kèo luôn. BTC mà thấy lực còn đang yếu này... H4 thế này chắc là chưa biết đi hướng nào chứ khả năng về 67 cả năm quá... [00:59:12] Bitcoin đến D1 có thể về lại 67k3 đến 67k5 test lại giống mô hình cạnh bên không? Nãy giờ mình đang nói cái đó. 67k5 chứ, 67k5 về đây. Khả năng về test dưới này... [01:00:20] Lấp gap rồi mới long thì an toàn hơn."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {"huong": "GIAM", "dich": [67000, 67500]},
+  "duong_di": [
+    {"huong": "GIAM", "dich": [67000, 67500]},
+    {"huong": "TANG", "dich": [69000, 70000]},
+    {"huong": "TANG", "dich": 74000},
+    {"huong": "TANG", "dich": [76000, 78000]},
+    {"huong": "GIAM", "dich": 64000}
+  ],
+  "dich_chinh": 78000,
+  "han_gio": null,
+  "vo_hieu": {
+    "gia": 66000,
+    "khung": "D1",
+    "so_nen": 1,
+    "chieu": "dong_duoi",
+    "cau": "[00:12:35] Nếu cái nến này nó cắm xuống dưới này thì nó sẽ là xấu. Dưới 66 này nó phủ quyết đi cái cây nến tăng trước đó... [00:20:16] SL khi nào nó thủng khỏi, nếu an toàn thủng 66.000 hoặc là nếu mà tham lam hơn nữa thì phải thủng khỏi 65.000 thì lúc đó cái xu hướng tăng này nó sẽ kết thúc."
+  },
+  "lenh": [
+    {"chieu": "LONG", "vao": null, "tp": 70300, "sl": 68650, "trang_thai": "da_dong"},
+    {"chieu": "LONG", "vao": null, "tp": null, "sl": null, "trang_thai": "dang_giu"},
+    {"chieu": "LONG", "vao": [67000, 67500], "tp": [76000, 78000], "sl": [65000, 66000], "trang_thai": "de_xuat_moi"}
+  ],
+  "hanh_dong": "giu_lenh",
+  "khung_lon": {
+    "D1": "Nến D1 đỏ rút râu hai bên, thân rất hẹp (100-200 giá), lên 70k bị bán vì gặp cản MA — 'hết sức bình thường', chưa xấu; volume bán bình thường. Đã break trend giảm (điều kiện cần), cần test lại và break tiếp (điều kiện đủ); đỉnh đáy cao dần; mô hình cốc tay cầm/hai đáy; nền giá 61 ngày ở 60-70k. Đóng dưới 66k là phủ quyết nến tăng.",
+    "W1": "Downtrend dài hạn nhưng tháng 4 có nhịp hồi toàn thị trường (có thể nến tháng 4 xanh rồi tháng 5-9 đỏ); tháng 6 World Cup thị trường sẽ đứng. Sau đợt hồi này khả năng dump về 64k, quét qua 62k, hồi 65k rồi về năm mấy."
+  },
+  "pha_vo_gia": "Đêm qua giá về săn SL 68k của phe long đỉnh 69-70k rồi lên lại (stop hunt), sau đó test lại 'row' và trụ. Không biết break trend giảm có fake không nhưng điều kiện cần đã đủ; ông nói không có lý do short dù đoán fake breakout/quét thanh khoản.",
+  "nhin_lai_view_truoc": {
+    "view_truoc": "TANG",
+    "giu_hay_doi": "giu",
+    "vi_sao": "Lệnh long trên live hôm qua lên tới ~70.3k (gần TP 70.4k), nhiều người chốt được; nến D1 đỏ chỉ là bị bán ở vùng cản MA, chưa xuống dưới 66k nên không phủ quyết; D1 đã break trend giảm, đỉnh đáy cao dần.",
+    "gio": "[00:04:02]",
+    "trich": "Chúng ta SL ở dưới cái đoạn này 68.650 nó về đến đây cứ tưởng là SL rồi. Hai đáy ở đây khá là đẹp và break lên... Ở cái vùng 70.000 này là ăn là xứng đáng rồi... [00:13:05] Còn lại cây nến này thì tạm thời nó vẫn đang đẹp là ở cái lý do nó vẫn giữ được sau khi nó thoát ra khỏi cái trend giảm này, nó bắt đầu nó đi lại một cái xu hướng tăng."
+  },
+  "trendline": [
+    {
+      "khung": "D1",
+      "loai": "khang_cu_giam",
+      "noi_tu": "trend giảm khung ngày của nhịp vừa qua; giá đã break ra (chủ nhật/thứ hai 5-6/4), có thể về test lại",
+      "diem_neo": [{"ngay": null, "gia": null}],
+      "gia_duong_luc_noi": null,
+      "trang_thai": "vua_pha",
+      "dieu_kien_pha": "đã break (điều kiện cần); cần test lại và break lên tiếp (điều kiện đủ)",
+      "ket_luan_huong": "TANG",
+      "gio": "[00:14:43]",
+      "trich": "Có một cái tín hiệu tốt đó là nó break ra được khỏi cái trend giảm này. Đây là một cái tín hiệu cực kỳ quan trọng... Chúng ta không biết là nó có fake hay không nhưng mà cứ ở đây nó tạm thời điều kiện cần là break ra là đã đủ rồi. Đã đẹp rồi. Còn bây giờ chúng ta thiếu cái điều kiện đủ nữa thôi. Test lại và break lên tiếp... [00:13:37] có thể là nó sẽ về đây để nó test lại cái trendline ở cái đoạn này."
+    },
+    {
+      "khung": "H4",
+      "loai": "ho_tro_tang",
+      "noi_tu": "trendline tăng của nhịp phục hồi trên H4, vùng chờ long 67k (không nêu điểm neo)",
+      "diem_neo": [{"ngay": null, "gia": null}],
+      "gia_duong_luc_noi": 67000,
+      "trang_thai": "dang_giu",
+      "dieu_kien_pha": "thủng 66k (an toàn) hoặc 65k (tham lam) thì xu hướng tăng kết thúc",
+      "ket_luan_huong": "TANG",
+      "gio": "[00:19:43]",
+      "trich": "Về đến đây nó hoàn toàn là có thể là kéo về dưới này thì nó mới đi lên là 6700... Nếu về đến đây chúng ta hoàn toàn có thể đặt để cho một cái nhịp xu hướng tăng. Đừng có gãy khỏi cái trendline này là ok thôi. Loanh quanh ở đây SL khi nào nó thủng khỏi, nếu an toàn thủng 66.000 hoặc là nếu mà tham lam hơn nữa thì phải thủng khỏi 65.000."
+    }
+  ],
+  "trich_them": [
+    {"gio": "[00:15:49]", "cau": "Không ai đi short ở cái mô hình này hết... Short ở đây sẽ là cực kỳ nguy hiểm. Không có lý do gì để chúng ta short cho dù bất kỳ một cái lý thuyết nào, bất kỳ một cái thuyết âm mưu."},
+    {"gio": "[00:18:03]", "cau": "Đoạn này nó hoàn toàn nó có thể về những cái vùng này. Thì các bạn hãy chờ những cái vùng này rất là đẹp. 67 này... Stop chúng ta chỉ cần đặt ở dưới này thôi. Bởi vì một khi nó thủng khoảng cái vùng 65 này, 66 65 này là gần như là nó sẽ rơi về một cái vùng rất là xa."},
+    {"gio": "[00:22:59]", "cau": "Trong tháng tư thì cá nhân mình đánh giá là sẽ có nhịp hồi của toàn bộ thị trường... khả năng rất là cao tháng tư sẽ có nhịp hồi và hoàn toàn dễ đến cuối tháng tư là một cây nến tháng xanh rồi sau đó đến tháng 5 tháng 6... mới là một cái tháng đỏ."},
+    {"gio": "[00:30:39]", "cau": "Sau đợt này khả năng thị trường sẽ dump về 64 và quét qua luôn. Ví dụ nó dump về 62 sau đó hồi lên nhẹ lên 65 rồi sẽ lại dump tiếp về năm mấy... 78. 78 là bình thường. View 78 các bạn."},
+    {"gio": "[00:31:13]", "cau": "Đây 74 này. Fibo là 78 này... 76 lên được đường MA màu xanh của mình đây. Đồng thời đó là đỉnh ở trên này... Còn nếu nến đóng qua được khỏi vùng 76 này thì lên 78 rất dễ."},
+    {"gio": "[00:37:45]", "cau": "Điều duy nhất bây giờ là chờ nó vượt qua được cái cản này là ngon. 68.900 này đi như thế nào đó để đóng cây nến xanh qua được 69 này là êm."}
+  ],
+  "kho": "Ông long một 'lẻ long FOMO' trong live (giá vào không nêu) và chờ thêm ở 67-67.5k; cuối buổi nói 'chưa biết đi hướng nào' trên H4, khả năng về 67k → TANG vua với chặng kế GIAM 67k. Đích 78k là 'view 78' khi qua 76k.",
+  "nen_volume": [
+    {"khung": "D1", "nen": "nến D1 đỏ: nỗ lực lên 70k bị đạp xuống", "volume": "vol bán so với các ngày trước bình thường, không cao; trước đó volume mua rất nhiều", "ket_luan": "xét theo volume không phải xấu", "gio": "[00:09:53]", "trich": "Cái volume bán này so với những ngày trước thì cũng bình thường chứ không phải là cao đâu. Trước đó volume mua rất là nhiều. Cho nên nếu mà chúng ta xét theo cái vol bán này thì nó cũng không có phải là quá căng thẳng. Nếu xét theo volume thì nó không phải là xấu đâu."},
+    {"khung": "D1", "nen": "nến rút râu hai bên, biên rất hẹp (mở-đóng cách 100-200 giá), bị bán ở cản MA", "volume": null, "ket_luan": "bán ở cản là tự nhiên, không phải tín hiệu cảnh báo; muốn kết luận phải chờ thêm một nến", "gio": "[00:11:31]", "trich": "Cái D1 này chúng ta đóng một cái cây nến rút râu hai bên và đóng một cái biên rất là hẹp... Nhưng mà vì sao nó không phải là quá xấu? Bởi vì đây là cái vùng cản... Để mà kết luận xấu thì chúng ta cần phải chờ thêm một cây nến nữa."},
+    {"khung": "D1", "nen": "cặp nến đảo chiều lần trước (D1 đẹp rồi trả về lực bán)", "volume": null, "ket_luan": "đó mới là cặp xấu; hôm nay khác", "gio": "[00:10:58]", "trich": "cái nhịp trước này tạo ra một cái cặp nến như này là một cái cặp nến xấu bởi vì sao? Cây D1 trước đó rất là đẹp nhưng mà trả về lại một cái lực bán và có khả năng tạo ra một cái cặp đảo chiều."},
+    {"khung": "D1", "nen": "nếu nến cắm xuống dưới 66k", "volume": null, "ket_luan": "phủ quyết nến tăng trước đó → xấu", "gio": "[00:12:35]", "trich": "Nếu cái nến này nó cắm xuống dưới này thì nó sẽ là xấu. Dưới 66 này nó phủ quyết đi cái cây nến tăng trước đó."},
+    {"khung": "M5", "nen": "cây 'row' test lại, trụ được hai phát", "volume": "có một cây nến volume nhảy vào khá tốt; test lại chứng tỏ ít lực bán", "ket_luan": "vào lẻ long; M5 tệ cũng test lại 68k, qua 68k thì hai đáy lên 69-70k", "gio": "[00:22:28]", "trich": "Volume ở đây cũng có, đây lực bán này, đây có một cái cây nến volume nhảy vào khá là tốt này, cây row này volume khá là ok và test lại ở đây chứng tỏ ở đây là ít lực bán rồi."},
+    {"khung": null, "nen": "cần đóng một cây nến xanh qua 68.9-69k", "volume": null, "ket_luan": "qua được là êm", "gio": "[00:37:45]", "trich": "68.900 này đi như thế nào đó để đóng cây nến xanh qua được 69 này là êm. 68.900, 69.000 là quá ngon."},
+    {"khung": "H4", "nen": "H4 chưa rõ hướng", "volume": "lực còn yếu", "ket_luan": "không có kèo, khả năng về 67k", "gio": "[00:57:42]", "trich": "Tầm này không có kèo luôn. BTC mà thấy lực còn đang yếu này... H4 thế này chắc là chưa biết đi hướng nào chứ khả năng về 67 cả năm quá."}
+  ],
+  "cach_lam": [
+    {"hanh_dong": "quan_sat", "cong_cu": "volume", "chi_tiet": "so volume bán nến D1 với các ngày trước", "ket_qua": "bình thường, không cao", "gio": "[00:09:53]", "trich": "Cái volume bán này so với những ngày trước thì cũng bình thường chứ không phải là cao đâu."},
+    {"hanh_dong": "quan_sat", "cong_cu": "dinh_day_cu", "chi_tiet": "D1/khung nhỏ: đỉnh đáy cao dần; nền giá 61 ngày ở 66-70k", "ket_qua": "nỗ lực phục hồi; nền vững → thận trọng short", "gio": "[00:13:37]", "trich": "đỉnh đáy nó đang tạo ra những cái đỉnh đáy cao dần. Đáy này, đáy này, đỉnh này, đỉnh này... [00:16:58] 2 tháng trời, 61 ngày là 2 tháng. Nó nằm ở cái vùng 60 6 đến 70 này."},
+    {"hanh_dong": "ke", "cong_cu": "trendline", "chi_tiet": "trend giảm D1", "ket_qua": "đã break ra, chờ test lại", "gio": "[00:14:43]", "trich": "nó break ra được khỏi cái trend giảm này."},
+    {"hanh_dong": "ke", "cong_cu": "trendline", "chi_tiet": "trendline tăng H4", "ket_qua": "giữ trendline → long 67k, SL thủng 66k/65k", "gio": "[00:19:43]", "trich": "Đừng có gãy khỏi cái trendline này là ok thôi."},
+    {"hanh_dong": "quan_sat", "cong_cu": "heatmap", "chi_tiet": "stop loss heatmap; liquid 70-71k và 64k", "ket_qua": "đêm qua về săn SL 68k; 70k chắc chắn bị quét sớm muộn; 64k sẽ về sau đợt này", "gio": "[00:20:48]", "trich": "khi anh em nhìn vào cái stop loss heatmap ở trên này thì đêm ngày hôm qua bản chất của nó là gì? Về để săn stop loss 68.000 của các anh em đi farm long đỉnh ở cái vùng 69 70 thôi."},
+    {"hanh_dong": "do", "cong_cu": "fibo_thoai_lui", "chi_tiet": "vùng trụ 2 lần (row)", "ket_qua": "nằm ở Fibo 0.5", "gio": "[00:21:21]", "trich": "Nếu mà anh em đo Fibo ra thì cái vùng này cũng đang loanh quanh Fibo thì phải... Hai này nó cũng nằm ở Fibo 0.5 này."},
+    {"hanh_dong": "quan_sat", "cong_cu": "khac", "chi_tiet": "gap CME", "ket_qua": "gap 67k (CME 68k) → có thể về lấp rồi lên", "gio": "[00:24:40]", "trich": "Gap này hôm qua hình như có cái gap dưới này có một cái gap 6700 các bạn ơi. Maybe nhịp này nó về lấp gap rồi nó lên lại."},
+    {"hanh_dong": "quan_sat", "cong_cu": "dinh_day_cu", "chi_tiet": "H4 bỏ MA: vùng cản cũ 74k; bật MA: đường MA xanh 76k", "ket_qua": "74k, 76k (MA xanh + đỉnh), Fibo 78k", "gio": "[00:31:13]", "trich": "Bỏ MA đi. Đây là những vùng cản thì gần như chắc chắn giá sẽ lên test rất dễ... Đây 74 này. Fibo là 78 này. Nếu các bạn bật MA ra, đây có một đường MA màu xanh."},
+    {"hanh_dong": "do", "cong_cu": "fibo_mo_rong", "chi_tiet": "nhịp tăng H4", "ket_qua": "78k", "gio": "[00:31:13]", "trich": "Fibo là 78 này."},
+    {"hanh_dong": "quan_sat", "cong_cu": "khac", "chi_tiet": "Fear & Greed; tỷ giá đô P2P", "ket_qua": "F&G 11 dù vừa tăng; đô P2P 27k (từ 28k)", "gio": "[00:25:11]", "trich": "Fear and Greed 11 anh em. Một nhịp tăng như ngày hôm qua mà thị trường vẫn sợ."}
+  ],
+  "vung_nguoi_do": [
+    {"loai": "vao", "tu": 67000, "den": 68000, "gio": "[00:02:21]", "trich": "Mình thì chắc là mình đánh cả ở đây lẫn là 68 hoặc là 67."},
+    {"loai": "sl", "tu": 68650, "den": 68650, "gio": "[00:04:02]", "trich": "Chúng ta SL ở dưới cái đoạn này 68.650"},
+    {"loai": "tp", "tu": 70000, "den": 70300, "gio": "[00:04:32]", "trich": "Ở cái vùng 70.000 này là ăn là xứng đáng rồi. Lãi được hơn 50% giá và chốt ở đỉnh 70k3."},
+    {"loai": "vao", "tu": 67300, "den": 67300, "gio": "[00:08:18]", "trich": "Bitcoin 67k3 long lên là đẹp. Nếu mà về đó được thì long lên đẹp."},
+    {"loai": "vo_hieu", "tu": 66000, "den": 66000, "gio": "[00:12:35]", "trich": "Dưới 66 này nó phủ quyết đi cái cây nến tăng trước đó."},
+    {"loai": "vao", "tu": 67000, "den": 67000, "gio": "[00:18:03]", "trich": "Thì các bạn hãy chờ những cái vùng này rất là đẹp. 67 này."},
+    {"loai": "sl", "tu": 65000, "den": 66000, "gio": "[00:20:16]", "trich": "nếu an toàn thủng 66.000 hoặc là nếu mà tham lam hơn nữa thì phải thủng khỏi 65.000"},
+    {"loai": "khang_cu", "tu": 68000, "den": 68000, "gio": "[00:21:55]", "trich": "5 phút ở đây nó cũng phải lên test lại cái vùng 6800 này"},
+    {"loai": "dich", "tu": 69000, "den": 70000, "gio": "[00:22:28]", "trich": "nó mà vượt qua được khỏi cái vùng 6800 thì nó sẽ đi mô hình hai đáy là sẽ lên test lại khoảng 69 70."},
+    {"loai": "vao", "tu": 68000, "den": 68000, "gio": "[00:20:48]", "trich": "Chứ còn nếu mà hôm qua chúng ta chờ bắt ở 68.000 thì nó vẫn khớp"},
+    {"loai": "khang_cu", "tu": 70000, "den": 71000, "gio": "[00:30:07]", "trich": "Xem trong này vẫn có những liquid ở 60-70.000 thôi. Cái đám 70, 71 này."},
+    {"loai": "dich", "tu": 64000, "den": 64000, "gio": "[00:30:39]", "trich": "Sau đợt này khả năng thị trường sẽ dump về 64 và quét qua luôn."},
+    {"loai": "dich", "tu": 62000, "den": 62000, "gio": "[00:30:39]", "trich": "Ví dụ nó dump về 62 sau đó hồi lên nhẹ lên 65 rồi sẽ lại dump tiếp về năm mấy."},
+    {"loai": "khang_cu", "tu": 74000, "den": 74000, "gio": "[00:31:13]", "trich": "Đây 74 này."},
+    {"loai": "dich", "tu": 76000, "den": 76000, "gio": "[00:31:13]", "trich": "76 lên được đường MA màu xanh của mình đây. Đồng thời đó là đỉnh ở trên này."},
+    {"loai": "dich", "tu": 78000, "den": 78000, "gio": "[00:31:13]", "trich": "Fibo là 78 này... Còn nếu nến đóng qua được khỏi vùng 76 này thì lên 78 rất dễ."},
+    {"loai": "ho_tro", "tu": 67000, "den": 67000, "gio": "[00:31:47]", "trich": "Như ở đây 6700 này cũng là một vùng hỗ trợ cứng."},
+    {"loai": "khang_cu", "tu": 68900, "den": 69000, "gio": "[00:37:45]", "trich": "68.900, 69.000 là quá ngon."},
+    {"loai": "vao", "tu": 67300, "den": 67500, "gio": "[00:59:12]", "trich": "Bitcoin đến D1 có thể về lại 67k3 đến 67k5 test lại... 67k5 chứ, 67k5 về đây."}
+  ],
+  "view_trung_han": [
+    {"khung": "M1", "huong": "TANG", "dich": [76000, 78000], "han": "trong tháng 4 (nến tháng 4 có thể xanh)", "mat_view_khi": "thủng 66k (an toàn) / 65k", "gio": "[00:22:59]", "trich": "Trong tháng tư thì cá nhân mình đánh giá là sẽ có nhịp hồi của toàn bộ thị trường. Còn lại có thể tính thời điểm của nó xảy ra trước hoặc sau... hoàn toàn dễ đến cuối tháng tư là một cây nến tháng xanh rồi sau đó đến tháng 5 tháng 6 tháng 7 tháng 8 tháng 9 các thứ thì mới là một cái tháng đỏ."},
+    {"khung": "D1", "huong": "GIAM", "dich": 62000, "han": "sau đợt hồi này", "mat_view_khi": null, "gio": "[00:30:39]", "trich": "Sau đợt này khả năng thị trường sẽ dump về 64 và quét qua luôn. Ví dụ nó dump về 62 sau đó hồi lên nhẹ lên 65 rồi sẽ lại dump tiếp về năm mấy. Đó là vào nhịp down luôn."},
+    {"khung": "W1", "huong": "GIAM", "dich": null, "han": "nếu gãy 65-66k", "mat_view_khi": null, "gio": "[00:18:36]", "trich": "khi mà nó gãy xuống dưới này, chúng ta hoàn toàn có thể đánh đuổi theo cái xu hướng giảm về đến cái vùng bốn mấy là ăn đến tận 30 40% của cái Bitcoin."}
+  ],
+  "vung_tranh": [
+    {"tu": null, "den": null, "vi_sao": "H4 đã break, nền giá 2 tháng → short ở vùng giá hiện tại cực kỳ nguy hiểm (trừ short scalping)", "gio": "[00:15:49]", "trich": "Không ai đi short ở cái mô hình này hết. Không ai đi short ở cái nhịp thị trường như thế này hết. Short ở đây sẽ là cực kỳ nguy hiểm... [00:17:29] Short scalping thì mình không có vấn đề gì nhưng mà góc nhìn cứ cố để mà short dài hạn..."},
+    {"tu": 68000, "den": 68000, "vi_sao": "long 68k là hơi cao; đẹp hơn là 67.3k", "gio": "[00:08:18]", "trich": "Đang long 68k hơi cao. Bitcoin 67k3 long lên là đẹp."}
+  ],
+  "giu_dong": [
+    {"lenh": "long trên live hôm qua (SL 68.650, TP 70.4k)", "quyet_dinh": "dong", "khi_nao": "chốt ở 70k-70.3k là xứng đáng", "gio": "[00:04:32]", "trich": "Nhưng mà hôm qua về lên đến đây thì nhiều anh em cũng chốt được rồi. Ở cái vùng 70.000 này là ăn là xứng đáng rồi. Lãi được hơn 50% giá và chốt ở đỉnh 70k3."},
+    {"lenh": "limit long 68k tối qua (VIP)", "quyet_dinh": "dong", "khi_nao": "không cầm lệnh qua đêm vì thị trường ngày thứ hai rủi ro", "gio": "[00:20:48]", "trich": "Đúng ra là cái lệnh tối ngày hôm qua mình cho anh em limit là sẽ giữ về đây. Nhưng mà thôi thị trường ngày thứ hai nó rủi ro quá cho nên mình không cho anh em cầm lệnh quá đêm."},
+    {"lenh": "lẻ long 'FOMO' sáng nay (test row)", "quyet_dinh": "giu", "khi_nao": "rủi ro là tuột khỏi vùng này thì về 67k (vùng đang chờ thêm)", "gio": "[00:21:55]", "trich": "FOMO nói để anh em hiểu cái mức độ rủi ro của cái lệnh này thôi. Bởi vì nó vẫn còn một cái rủi ro đó là nó tuột khỏi cái vùng này thì nó sẽ kéo về đến cái vùng mà chúng ta đang chờ."},
+    {"lenh": "long vùng 67k theo trendline", "quyet_dinh": "dong", "khi_nao": "thủng 66k (an toàn) hoặc 65k (tham lam) thì xu hướng tăng kết thúc, lúc đó mới có cơ sở short", "gio": "[00:20:16]", "trich": "SL khi nào nó thủng khỏi, nếu an toàn thủng 66.000 hoặc là nếu mà tham lam hơn nữa thì phải thủng khỏi 65.000 thì lúc đó cái xu hướng tăng này nó sẽ kết thúc. Thì lúc đó chúng ta mới có cơ sở để vào short được."},
+    {"lenh": "vào long bây giờ (viewer hỏi)", "quyet_dinh": "giu", "khi_nao": "chia vốn; an toàn thì chờ lấp gap 67k rồi mới long", "gio": "[00:55:32]", "trich": "Giờ vào long được không các bạn? Chia vốn ra. Chia vốn thôi... [01:00:20] Lấp gap rồi mới long thì an toàn hơn. Nếu an toàn thì phải là chờ lấp gap."}
+  ],
+  "tin_tuc": [
+    {"su_kien": "Trump phát biểu", "thoi_diem": "12h đêm 6/4 (rạng sáng thứ ba)", "nguon": "lich_kinh_te", "so_lieu": null, "anh_huong_view": "thị trường lấy cớ để điều chỉnh đêm qua; hôm nay và mai trống tin", "gio": "[00:26:48]", "trich": "Đêm hôm qua, 12:00 sáng của ngày thứ ba tức là đêm ngày hôm qua, đại ca (Trump) đã phát biểu rồi... thì đêm hôm qua thị trường lấy cớ này nó điều chỉnh. Hôm nay và ngày mai sẽ trống tin tức."},
+    {"su_kien": "CPI Mỹ", "thoi_diem": "tối thứ sáu 10/4", "nguon": "lich_kinh_te", "so_lieu": "dự báo CPI m/m 1.0% (core 0.3%); lạm phát 2.4% → 3.4%", "anh_huong_view": "tin để hợp lý hóa đường giá: nếu trước tin tăng mạnh thì tin xấu sẽ dump; nếu trước tin sideway thì sau tin ~12h sẽ tăng lại, short sau tin phải coi chừng", "gio": "[00:27:24]", "trich": "Ví dụ anh em sẽ thấy trước khi xảy ra tin mà thị trường tăng mạnh thì đến ngày thứ sáu thị trường sẽ đi ngang hoặc sau thứ sáu, thứ bảy nó sẽ dump... Còn nếu từ giờ đến đó nó đi sideway thì sau thứ sáu cho dù tin tốt hay tin xấu đi nữa thì sau một khoảng thời gian hấp thụ xong tin khoảng độ khoảng 12 tiếng sau tin thị trường sẽ bắt đầu tăng lại."},
+    {"su_kien": "hạn chót tối hậu thư Trump – Iran", "thoi_diem": "8h sáng 8/4", "nguon": "bao", "so_lieu": null, "anh_huong_view": "không quan trọng, Trump sẽ lấp liếm; chiến tranh còn lâu", "gio": "[00:35:33]", "trich": "Sáng mai 8:00 hạn chót của tối hậu thư Trump Iran kịch bản sẽ như thế nào? Nói chung kịch bản không quan trọng. Cá nhân mình đánh giá là không có kịch bản gì hết... Bản chất của Trump là gây hỗn loạn và bán giải pháp."},
+    {"su_kien": "World Cup tháng 6-7 (Binance chạy chiến dịch)", "thoi_diem": "tháng 6-7/2026", "nguon": "khac", "so_lieu": null, "anh_huong_view": "crypto hay chạy trước sự kiện 2-3 tháng; tháng 6 thị trường sẽ đứng vì volume chuyển sang cá độ", "gio": "[00:24:06]", "trich": "lịch sử thị trường crypto nó cũng hay chạy trước cái thời điểm xảy ra các sự kiện đá bóng toàn cầu đâu đó khoảng độ 2 đến 3 tháng và ví dụ đến tháng 6 thì các bạn sẽ thấy là thị trường gần như đứng im."},
+    {"su_kien": "Fear & Greed; tỷ giá USD P2P", "thoi_diem": "7/4", "nguon": "khac", "so_lieu": "F&G 11; đô 27 (từ 28)", "anh_huong_view": "nhịp tăng mà vẫn sợ; đám đông view về 50k", "gio": "[00:25:11]", "trich": "Fear and Greed 11 anh em. Một nhịp tăng như ngày hôm qua mà thị trường vẫn sợ. Các bạn biết tâm lý của thị trường giai đoạn này đa phần ông nào cũng view về 50 hết rồi."}
+  ]
+}

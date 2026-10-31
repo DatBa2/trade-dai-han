@@ -1,0 +1,186 @@
+{
+  "buoi": "2026-03-03_xXKnEs9z81g",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/zip_clean/2026-03-03_xXKnEs9z81g.txt",
+  "gia_btc_luc_noi": 68400,
+  "dau_buoi": {
+    "thien_huong_h4": "TANG",
+    "gio": "[00:11:34]",
+    "trich": "Biết đâu được nó chạy mô hình cờ đây. Bởi vì theo cá nhân mình đo thì đoạn này nó chưa đủ biên của nó, cho nên mình đoán vẫn còn một nhịp phải lên được 70.000 nữa. Hoặc 71 nữa thì nó mới sập về dưới 68, 66 này."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "TANG",
+    "do_chac": "thap",
+    "gio": "[00:52:50]",
+    "trich": "Thấy mỗi long Bitcoin nhưng thấy nó yếu. Anh em thích thì long Bitcoin đi. Như lúc nãy mình nói, stop loss đâu đó vài trăm giá thôi, 2 300 giá. Tầm này đánh vậy thôi. Thủng đoạn này có gì đâu mà giữ nữa. Thủng 68 này là thôi không giữ nữa. Thủng 68 này là rụng về dưới tận 66 67."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {"huong": "TANG", "dich": [70000, 70500]},
+  "duong_di": [
+    {"huong": "TANG", "dich": [70000, 70500]}
+  ],
+  "dich_chinh": 70500,
+  "han_gio": 120,
+  "vo_hieu": {"gia": 66000, "khung": "H4", "so_nen": 1, "chieu": "dong_duoi", "cau": "Nhưng trong trường hợp có một pha H4 mà nó đâm thật sâu, gãy xuống đến tận vùng 66 chẳng hạn. Tức là nó thấp hơn đường MA34. Thì gần như nhịp tăng này mình nghĩ là kết thúc. Và lúc đó nó sẽ confirm cho nhịp là mô hình cờ trên khung ngày."},
+  "lenh": [
+    {"chieu": "LONG", "vao": 67500, "tp": null, "sl": null, "trang_thai": "da_dong"},
+    {"chieu": "LONG", "vao": 68800, "tp": [69800, 70400], "sl": 68500, "trang_thai": "da_dong"},
+    {"chieu": "LONG", "vao": null, "tp": 70500, "sl": 68000, "trang_thai": "de_xuat_moi"},
+    {"chieu": "LONG", "vao": 67000, "tp": null, "sl": 65800, "trang_thai": "de_xuat_moi"},
+    {"chieu": "SHORT", "vao": 69100, "tp": 67000, "sl": 69100, "trang_thai": "dang_giu"}
+  ],
+  "hanh_dong": "vao_long",
+  "khung_lon": {
+    "D1": "D1 lên test dần MA34; vùng 69-71 là cản, tranh chấp, hạn chế đánh, không long; nến D1 xanh hôm qua (thứ hai) chỉ là test MA34 + kill short (SL short 67.568) — thứ hai xanh không định hình tuần; qua được cản D1 phải cuối tuần hoặc tuần sau. Nếu H4 đâm về 66 dưới MA34 → xác nhận mô hình cờ D1 về 50-52 (tệ thì test râu 59).",
+    "W1": null
+  },
+  "pha_vo_gia": "Khung nhỏ thủng hỗ trợ (đường vàng 68.500), phá đáy tạo cấu trúc giảm làm lệnh long sáng dính SL — nhưng người đó nghi 'đang nhằng, khả năng nó đang dụ short'.",
+  "nhin_lai_view_truoc": {
+    "view_truoc": "TANG",
+    "giu_hay_doi": "giu",
+    "vi_sao": "Hôm qua giá lên đúng target cờ 70.000 rồi khựng ở MA H1; H4 sau cây pump volume tốt vẫn giữ được xu hướng tăng, bắt đầu hình thành kênh giá đi lên; hai lần đo Fibo mở rộng hội tụ 70.000-70.500 → vẫn đạt trong tuần. Chỉ thận trọng hơn vì nến D1 xanh thứ hai chỉ là test MA34/kill short, lực mua yếu.",
+    "gio": "[00:24:18]",
+    "trich": "Cho nên khả năng rất cao vùng này nó sẽ đạt được. 70.000 mấy. Cho nên các lệnh short thì hãy lưu ý điều này. Mình chưa biết nó gãy về đâu nhưng khả năng vùng 70.000 năm này mình nghĩ sẽ đạt được trong tuần. ... Hiện tại thị trường bắt đầu phục hồi."
+  },
+  "trendline": [
+    {
+      "khung": "H4",
+      "loai": "kenh",
+      "noi_tu": "Kênh giá đi lên trên H4 hình thành từ các đỉnh/đáy gần đây (không nêu điểm neo)",
+      "diem_neo": [],
+      "gia_duong_luc_noi": null,
+      "trang_thai": "dang_giu",
+      "dieu_kien_pha": "H4 đâm sâu về 66 (dưới MA34) thì nhịp tăng kết thúc",
+      "ket_luan_huong": "TANG",
+      "gio": "[00:22:46]",
+      "trich": "Bởi vì hiện tại trong H4 nó đang bắt đầu tạo được cấu trúc đi lên. Đang bắt đầu tạo được cấu trúc đi lên. Đỉnh đáy này, bắt đầu đoạn này mọi người thấy không? Bắt đầu hình thành kênh giá và đi lên."
+    },
+    {
+      "khung": "M15",
+      "loai": "khang_cu_giam",
+      "noi_tu": "Hai trendline giảm trên khung M1/M5 (enum không có M1/M5) đè nhịp hồi; không nêu điểm neo",
+      "diem_neo": [],
+      "gia_duong_luc_noi": null,
+      "trang_thai": "chua_pha",
+      "dieu_kien_pha": "Break qua (M1/M5) kèm volume mua",
+      "ket_luan_huong": "TANG",
+      "gio": "[00:25:20]",
+      "trich": "Nó break qua được nhịp này thì M1 này. Break qua được cái đoạn này thì chơi được. Một trendline, hai trendline. Đang thiếu volume mua. Volume bán nó nhảy vào rất nhanh."
+    },
+    {
+      "khung": "H1",
+      "loai": "kenh",
+      "noi_tu": "Mô hình cờ khung nhỏ (30 phút/H1) của nhịp hôm qua; đo target",
+      "diem_neo": [],
+      "gia_duong_luc_noi": null,
+      "trang_thai": "vua_pha",
+      "dieu_kien_pha": "Đã chạy xong target 70.000",
+      "ket_luan_huong": null,
+      "gio": "[00:21:44]",
+      "trich": "Ngoài ra thì đoạn này giá nhịp hôm trước hôm qua mình cũng biết khả năng lên rất cao, bởi vì nó chạy khá đẹp theo mô hình cờ này. Đúng theo target mô hình cờ là xong luôn. 70.000 là đúng luôn target của mô hình cờ."
+    },
+    {
+      "khung": "D1",
+      "loai": "kenh",
+      "noi_tu": "Mô hình cờ trên khung ngày (giả định nếu nhịp tăng fail); không nêu điểm neo",
+      "diem_neo": [],
+      "gia_duong_luc_noi": null,
+      "trang_thai": "chua_pha",
+      "dieu_kien_pha": "H4 đâm sâu về 66, thấp hơn MA34",
+      "ket_luan_huong": "GIAM",
+      "gio": "[00:29:11]",
+      "trich": "Tức là nó thấp hơn đường MA34. Thì gần như nhịp tăng này mình nghĩ là kết thúc. Và lúc đó nó sẽ confirm cho nhịp là mô hình cờ trên khung ngày. Về 50, năm mấy? 50, 51, 52 gì đó. Làm tròn thì cứ về 50."
+    }
+  ],
+  "nen_volume": [
+    {"khung": "M15", "nen": "Mô hình hai đáy M15 về Fibo + MA34 khung 15 phút", "volume": null, "ket_luan": "Long 68.800 SL 68.500 (xác suất lên TP >70%), SL thì thôi", "gio": "[00:09:00]", "trich": "Lệnh đó thực tế là mình đánh theo Fibo này, đánh theo MA34 ở khung 15 phút. Cộng với đó là khi về đây thì mình bắt"},
+    {"khung": "M30", "nen": "Trước đó có những nến bán; 30 phút vẫn trụ", "volume": "Có những volume bán", "ket_luan": "Vẫn dễ lên nếu giữ được 68.300", "gio": "[00:10:32]", "trich": "Bởi vì trước đó nó có những volume bán này. Nhưng mà khá là đẹp. Mình nghĩ tầm này nó vẫn dễ lên. 30 phút này nó vẫn trụ này. Nhưng mà nó phải giữ được ở vùng này. 68.300 này."},
+    {"khung": "M30", "nen": "Râu nến 30 phút ở 68.380 làm support; nếu cây 30 phút tiếp giữ được", "volume": null, "ket_luan": "Đánh lên tiếp nhưng giảm volume vì đã phá đáy (cấu trúc giảm)", "gio": "[00:11:04]", "trich": "Điểm support của nó sẽ là cái râu của cây nến này nhá. Râu nến này đang là 68.380. Nếu thêm cây 30 phút này giữ được thì mình nghĩ sẽ tiếp tục đánh lên."},
+    {"khung": "D1", "nen": "Nến D1 xanh khá đẹp hôm qua (thứ hai)", "volume": null, "ket_luan": "Chỉ là test: kill short (67.568) + test MA34 D1; test 34 thường cắm xuống tiếp → long cẩn thận", "gio": "[00:17:36]", "trich": "Mặc dù hôm qua chúng ta có một cây nến D1 màu xanh khá đẹp, nhưng cây này nó mang ý nghĩa là test thôi. Nó mang ý nghĩa là gì? Thứ nhất là kill short, FOMO. ... Và thứ hai nữa là cây nến này mang ý nghĩa là lên test lại đường MA34 ở trên khung D1."},
+    {"khung": "D1", "nen": "Nến xanh ngày thứ hai", "volume": null, "ket_luan": "Không định hình xu hướng tuần; thứ hai xanh có thể cả tuần gãy", "gio": "[00:18:38]", "trich": "Thông thường những cây nến màu xanh của ngày thứ hai không mang ý nghĩa nhiều về câu chuyện định hình xu hướng cho tuần đó. Mà nó chỉ mang ý nghĩa là xử lý hết những lệnh còn tồn đọng trong tuần cũ thôi."},
+    {"khung": "H4", "nen": "Cây H4 pump; lịch sử: sau nến mua mạnh volume lớn thường điều chỉnh từ từ lấy thanh khoản rồi đi lên", "volume": "Pump volume tốt", "ket_luan": "Xu hướng tăng vẫn có thể giữ nhưng chờ điểm bắt đẹp (có thể về Fibo H1)", "gio": "[00:19:41]", "trich": "H4 này, thì H4 này sau một cây pump volume tốt. Pump volume tốt như này thì tiếp tục là xu hướng tăng này vẫn có khả năng được giữ, nhưng phải chờ điểm để bắt thật đẹp."},
+    {"khung": "M5", "nen": "Hai đáy M5", "volume": "Thiếu volume mua, volume bán nhảy vào rất nhanh", "ket_luan": "Chưa đủ điều kiện scalp, chưa vội", "gio": "[00:24:50]", "trich": "M5 hai đáy anh em. 1522 đáy đẹp chưa này. Mình thiếu một cái là thiếu volume. Đoạn này nó thiếu volume. ... Chúng ta vẫn thiếu volume mua để đủ điều kiện vào scalping."},
+    {"khung": null, "nen": "Nếu thủng MA200 khung nhỏ và đóng nến", "volume": null, "ket_luan": "Tụt nhanh về 66-67", "gio": "[00:25:50]", "trich": "Còn thằng này mà thủng đoạn MA200 này thì chắc chắn đóng một phát tụt về dưới vùng 6667 rất nhanh."},
+    {"khung": null, "nen": "Giá lên nhưng chưa có lực mua nhảy vào", "volume": "Thiếu lực mua", "ket_luan": "Lên chỉ vì kill short để tới target Fibo", "gio": "[00:27:05]", "trich": "những lệnh như này thì mình vẫn phải cảnh báo mọi người là xu hướng của thị trường đang chưa được đẹp, bởi vì thiếu lực mua nhảy vào. Chưa có lực mua nhảy vào. Ở đây nó lên thì chỉ có lý do duy nhất là nó kill short thôi."},
+    {"khung": "H4", "nen": "Một pha H4 đâm thật sâu về 66 (dưới MA34) / cây nến bán xuống khi MA34-89 gặp nhau", "volume": null, "ket_luan": "Nhịp tăng kết thúc, phe bán trấn giữ → về 50-52 (tệ 59)", "gio": "[00:29:41]", "trich": "Xuất hiện một cây nến bán xuống có nghĩa là phe bán nó trấn giữ ở đây và nó không cho anh em tạo được một xu hướng phục hồi."},
+    {"khung": "M5", "nen": "Hai đáy M5 phải breakout 68.500", "volume": null, "ket_luan": "Có nhịp đi lên nếu break 68.500", "gio": "[00:31:13]", "trich": "Hai đáy M5 đi lên, khá đẹp. Với điều kiện là phải break out ra được khỏi đoạn 68.500 này mà tạo hai đáy thì ngon."},
+    {"khung": "M1", "nen": "M1 đã break; test MA200 M1", "volume": null, "ket_luan": "Qua 68.600 thì đi lên dần", "gio": "[00:35:27]", "trich": "Test xem MA200 của M1 một tí. M1 thì break rồi. Thì có thể là nó về test lại đây, rồi đi lên đây. Nếu nó qua được vùng 68.600 này là ok."},
+    {"khung": "M5", "nen": "Nến 5 phút chưa có gì; nếu đóng thêm một cây xanh M5 thì ok", "volume": "Chờ vol vào nhưng chưa có vol; lực bán áp đảo", "ket_luan": "Long nhỏ SL vài trăm giá; thủng 68 thì té", "gio": "[00:53:22]", "trich": "Còn lại đoạn này nếu đóng thêm một cây nến xanh M5 nữa thì khả năng lên cũng ok. Nhưng đoạn này ngược trend cho nên ví dụ nó lên khoảng qua được khỏi 68.6 thì anh em nên kéo stop loss về entry. ... Bây giờ đang chờ tí vol vào nhưng chưa có vol."}
+  ],
+  "cach_lam": [
+    {"hanh_dong": "do", "cong_cu": "fibo_thoai_lui", "chi_tiet": "Fibo + MA34 khung 15 phút cho lệnh sáng", "ket_qua": "Vào 68.800 (đúng ra 69.000), SL 68.500, TP1 69.800, TP2 70.400", "gio": "[00:09:30]", "trich": "Nhưng cho anh em bắt sớm ở entry 68.800 và stop loss ở 68.500 thì nó chỉ là 300 giá thôi."},
+    {"hanh_dong": "ke", "cong_cu": "khac", "chi_tiet": "Đường màu vàng = vùng hỗ trợ đặt SL", "ket_qua": "Thủng đường vàng thì đi sâu hơn", "gio": "[00:10:01]", "trich": "Và vì sao phải stop loss ở vùng như thế này? Bởi vì đây là vùng hỗ trợ này các bạn. Cái đường màu vàng này. Và một khi nó đâm xuyên thủng qua thằng này thì nó sẽ đi khá sâu hơn nữa."},
+    {"hanh_dong": "do", "cong_cu": "fibo_mo_rong", "chi_tiet": "Đo biên nhịp khung nhỏ", "ket_qua": "Chưa đủ biên → còn một nhịp lên 70-71 rồi mới sập về 68-66", "gio": "[00:11:34]", "trich": "Bởi vì theo cá nhân mình đo thì đoạn này nó chưa đủ biên của nó, cho nên mình đoán vẫn còn một nhịp phải lên được 70.000 nữa."},
+    {"hanh_dong": "quan_sat", "cong_cu": "heatmap", "chi_tiet": "Biểu đồ liquidation", "ket_qua": "SL short 67.568 đã bị quét hôm qua", "gio": "[00:17:36]", "trich": "67.568 này stop loss của phe short rất nhiều. Ở trên biểu đồ liquidation thì nó thể hiện rồi. Hôm qua nó đã quét hết."},
+    {"hanh_dong": "quan_sat", "cong_cu": "volume", "chi_tiet": "Backtest lịch sử các nến mua volume lớn trên H4", "ket_qua": "Sau đó điều chỉnh từ từ lấy thanh khoản rồi đi lên", "gio": "[00:20:12]", "trich": "Ví dụ như đây là một cây nến. Cây nến này kèm volume lớn này. Sau đó nó vẫn tăng tiếp, nhưng vẫn tiếp tục xuất hiện những lực bán. ... Nó sẽ điều chỉnh từ từ xuống. Rồi lại tiếp tục tăng lên."},
+    {"hanh_dong": "do", "cong_cu": "fibo_thoai_lui", "chi_tiet": "Fibo H1 (tắt MA) nhịp hôm qua", "ket_qua": "Bật ở 0.5-0.618; lần này có thể về 0.618 = 67.000, vùng 67-66", "gio": "[00:21:13]", "trich": "anh em thấy nó về đúng vùng Fibo 0.5 và 618 nó bật lên. Nhịp ngày hôm qua. Thì đoạn này hoàn toàn có thể là chúng ta đánh tiếp theo kiểu như vậy, có thể là nó về đến tận 0.618, 67.000. 67 đến 66 thì nó mới lên."},
+    {"hanh_dong": "ke", "cong_cu": "trendline", "chi_tiet": "Kênh giá đi lên trên H4 từ đỉnh/đáy gần đây", "ket_qua": "Cấu trúc đi lên; MA200 H1 ~71.500 dễ tới", "gio": "[00:22:46]", "trich": "Bắt đầu hình thành kênh giá và đi lên. Thì khả năng mình nghĩ MA200 ở H1 này là chuyện đơn để nó lên 71.000 năm."},
+    {"hanh_dong": "do", "cong_cu": "fibo_mo_rong", "chi_tiet": "Fibo mở rộng hai nhịp (nhịp trước và nhịp hôm qua), lock hai mức", "ket_qua": "70.500 và 75.000; hai lần đo hội tụ ở 70.000-70.500", "gio": "[00:23:17]", "trich": "Nó cho hai vùng target này. Để mình ghim thằng này lại luôn. 70.000 năm và 75.000. Thằng này là Fibo 1.618. Thằng này là Fibo 1.0."},
+    {"hanh_dong": "ke", "cong_cu": "trendline", "chi_tiet": "Khung M1/M5: một trendline, hai trendline đè nhịp", "ket_qua": "Phải break kèm volume mua mới scalp", "gio": "[00:25:20]", "trich": "Break qua được cái đoạn này thì chơi được. Một trendline, hai trendline."},
+    {"hanh_dong": "quan_sat", "cong_cu": "ema", "chi_tiet": "MA34 và MA89 khung H4 đang tụ lại", "ket_qua": "Giữ để cross lên thì đẹp; H4 đâm về 66 dưới MA34 → hết nhịp tăng", "gio": "[00:28:39]", "trich": "Đoạn này anh em để ý đường MA này. Hai đường này bắt đầu tụ lại với nhau rồi. Nếu giá tiếp tục giữ để hai đường cross lên nhau thì khá là đẹp."},
+    {"hanh_dong": "quan_sat", "cong_cu": "khac", "chi_tiet": "Gap CME; DOM; USDT.D; Fear & Greed", "ket_qua": "Gap 80, 93 (view 80 trước); DOM tăng break xu hướng giảm; USDT.D sideway", "gio": "[00:28:09]", "trich": "Gần như mọi thứ vẫn đang giữ nguyên. Gap vẫn nằm ở 80 và 93. Trước mắt chúng ta sẽ view cái 80 trước."},
+    {"hanh_dong": "quan_sat", "cong_cu": "heatmap", "chi_tiet": "CoinGlass Liquidation Heatmap", "ket_qua": "68.400 (sáng, đã lụm), 70.500 phía trên khớp Fibo; long ~400.000 BTC đòn bẩy lớn", "gio": "[00:31:44]", "trich": "Trên này có một vùng ở 70.500 luôn anh em, khớp luôn. ... Bởi vì đây là vùng hội tụ rất nhiều anh tài nằm ở đây. Cộng với đó là như lúc nãy mình nói Fibo nó cắm ở đây rồi."},
+    {"hanh_dong": "quan_sat", "cong_cu": "khac", "chi_tiet": "Vàng, bạc (tương quan)", "ket_qua": "Vàng bạc sập thì BTC tăng tiếp được; chiến tranh còn căng nên chưa sập", "gio": "[00:16:05]", "trich": "Đoạn này thì mình vẫn đang quan sát thử vàng bạc này bởi vì nếu vàng bạc này sập thì Bitcoin sẽ tăng tiếp được."}
+  ],
+  "vung_nguoi_do": [
+    {"loai": "vao", "tu": 67500, "den": 67500, "gio": "[00:06:57]", "trich": "Đánh lệnh dò. 67.000 năm entry. Rồi gồng đến tận lúc nó về đến tận 63.000 mấy cơ."},
+    {"loai": "khang_cu", "tu": 69000, "den": 70000, "gio": "[00:07:59]", "trich": "Hôm qua 69 70 và ngay đường MA600 ở cây H1 này, nó đóng và nó khựng ở đây."},
+    {"loai": "vao", "tu": 68800, "den": 68800, "gio": "[00:09:30]", "trich": "Nhưng cho anh em bắt sớm ở entry 68.800 và stop loss ở 68.500"},
+    {"loai": "sl", "tu": 68500, "den": 68500, "gio": "[00:09:30]", "trich": "và stop loss ở 68.500 thì nó chỉ là 300 giá thôi."},
+    {"loai": "tp", "tu": 69800, "den": 69800, "gio": "[00:10:01]", "trich": "Mình định cho anh em TP1 ở vùng 69.800 này là húp cũng đủ no rồi."},
+    {"loai": "tp", "tu": 70400, "den": 70400, "gio": "[00:10:01]", "trich": "Sau đó còn lại gồng TP2 ở 70.400."},
+    {"loai": "ho_tro", "tu": 68300, "den": 68300, "gio": "[00:10:32]", "trich": "Nhưng mà nó phải giữ được ở vùng này. 68.300 này."},
+    {"loai": "ho_tro", "tu": 68380, "den": 68380, "gio": "[00:11:04]", "trich": "Râu nến này đang là 68.380."},
+    {"loai": "dich", "tu": 70000, "den": 71000, "gio": "[00:11:34]", "trich": "mình đoán vẫn còn một nhịp phải lên được 70.000 nữa. Hoặc 71 nữa thì nó mới sập về dưới 68, 66 này."},
+    {"loai": "khang_cu", "tu": 69000, "den": 71000, "gio": "[00:17:06]", "trich": "Cho nên khi nó chạm đến vùng từ khoảng 69, 70, 71, vùng này anh em hạn chế đánh."},
+    {"loai": "ho_tro", "tu": 67568, "den": 67568, "gio": "[00:17:36]", "trich": "67.568 này stop loss của phe short rất nhiều."},
+    {"loai": "vao", "tu": 66000, "den": 67000, "gio": "[00:21:13]", "trich": "có thể là nó về đến tận 0.618, 67.000. 67 đến 66 thì nó mới lên. Thì đây cũng là một entry lưu ý."},
+    {"loai": "tp", "tu": 67000, "den": 67000, "gio": "[00:22:15]", "trich": "Đặc biệt là ví dụ như các bạn có hỏi là 69k1 này, thì đầu tiên là kéo SL về entry. Còn TP có thể là ở 67."},
+    {"loai": "dich", "tu": 71500, "den": 71500, "gio": "[00:22:46]", "trich": "Thì khả năng mình nghĩ MA200 ở H1 này là chuyện đơn để nó lên 71.000 năm."},
+    {"loai": "dich", "tu": 70500, "den": 70500, "gio": "[00:23:17]", "trich": "70.000 năm và 75.000. Thằng này là Fibo 1.618."},
+    {"loai": "dich", "tu": 75000, "den": 75000, "gio": "[00:23:17]", "trich": "70.000 năm và 75.000."},
+    {"loai": "dich", "tu": 70000, "den": 70500, "gio": "[00:24:18]", "trich": "Thì chúng ta thấy vùng 70.000 này gần như là nó hội tụ hai thằng Fibo này lại. ... khả năng vùng 70.000 năm này mình nghĩ sẽ đạt được trong tuần."},
+    {"loai": "ho_tro", "tu": 66000, "den": 67000, "gio": "[00:25:50]", "trich": "Còn thằng này mà thủng đoạn MA200 này thì chắc chắn đóng một phát tụt về dưới vùng 6667 rất nhanh."},
+    {"loai": "sl", "tu": 68000, "den": 68000, "gio": "[00:26:21]", "trich": "Đoạn này nếu anh em muốn long thì long vẫn được với điều kiện là stop loss dưới cái vùng 68001 này. Khoảng 250 giá thôi."},
+    {"loai": "khang_cu", "tu": 80000, "den": 80000, "gio": "[00:28:09]", "trich": "Gap vẫn nằm ở 80 và 93. Trước mắt chúng ta sẽ view cái 80 trước."},
+    {"loai": "vo_hieu", "tu": 66000, "den": 66000, "gio": "[00:29:11]", "trich": "Nhưng trong trường hợp có một pha H4 mà nó đâm thật sâu, gãy xuống đến tận vùng 66 chẳng hạn. Tức là nó thấp hơn đường MA34. Thì gần như nhịp tăng này mình nghĩ là kết thúc."},
+    {"loai": "dich", "tu": 50000, "den": 52000, "gio": "[00:29:11]", "trich": "Về 50, năm mấy? 50, 51, 52 gì đó. Làm tròn thì cứ về 50."},
+    {"loai": "ho_tro", "tu": 59000, "den": 59000, "gio": "[00:29:41]", "trich": "Tệ thì cũng 59 test lại cái râu này"},
+    {"loai": "vao", "tu": 67000, "den": 67000, "gio": "[00:30:11]", "trich": "Long 67 SL khoảng 65.800."},
+    {"loai": "sl", "tu": 65800, "den": 65800, "gio": "[00:30:11]", "trich": "Long 67 SL khoảng 65.800."},
+    {"loai": "ho_tro", "tu": 68400, "den": 68400, "gio": "[00:31:13]", "trich": "Sáng ngày hôm nay có một vùng ở 68.400. Thế thì khả năng nó về đây, nó lụm những stop loss ở 68.400."},
+    {"loai": "khang_cu", "tu": 68500, "den": 68500, "gio": "[00:31:13]", "trich": "Với điều kiện là phải break out ra được khỏi đoạn 68.500 này mà tạo hai đáy thì ngon."},
+    {"loai": "khang_cu", "tu": 70500, "den": 70500, "gio": "[00:31:44]", "trich": "Trên này có một vùng ở 70.500 luôn anh em, khớp luôn."},
+    {"loai": "khang_cu", "tu": 68600, "den": 68600, "gio": "[00:35:27]", "trich": "Nếu nó qua được vùng 68.600 này là ok. Qua được 68.600 này thì khả năng đi lên dần được."},
+    {"loai": "sl", "tu": 68000, "den": 68000, "gio": "[00:52:50]", "trich": "Thủng 68 này là thôi không giữ nữa. Thủng 68 này là rụng về dưới tận 66 67."}
+  ],
+  "view_trung_han": [
+    {"khung": "D1", "huong": "TANG", "dich": [70500, 75000], "han": "70.500 đạt trong tuần; vượt cản D1 phải cuối tuần hoặc tuần sau", "mat_view_khi": "H4 đâm sâu về 66, thấp hơn MA34 → nhịp tăng kết thúc, xác nhận cờ D1 về 50-52 (tệ thì test râu 59)", "gio": "[00:17:06]", "trich": "thì thực sự giai đoạn để cây nến ngày qua được vùng này không phải đơn giản. Nó không thể nào qua liền trong ngày một ngày hai được. Mình nghĩ để qua được cái này chắc cũng phải cuối tuần hoặc qua tuần sau thì nó mới lên được."},
+    {"khung": "M1", "huong": "GIAM", "dich": null, "han": null, "mat_view_khi": null, "gio": "[00:49:09]", "trich": "Bởi vì bây giờ dù sao đi nữa chúng ta vẫn đang down trend. Làm gì làm cứ nhớ bây giờ downtrend."}
+  ],
+  "vung_tranh": [
+    {"tu": 69000, "den": 71000, "vi_sao": "D1 đang test MA34 — vùng tranh chấp, cản, không thể long", "gio": "[00:17:06]", "trich": "Cho nên khi nó chạm đến vùng từ khoảng 69, 70, 71, vùng này anh em hạn chế đánh. Bởi vì vùng này nó sẽ khá là lằng nhằng, nó tranh chấp ở đoạn này và đây là cản nữa chúng ta không thể nào long."},
+    {"tu": 70500, "den": 70500, "vi_sao": "Short đặt SL ở 70.500 nên cân nhắc — vùng hội tụ thanh khoản + Fibo, dễ bị lụm", "gio": "[00:31:44]", "trich": "Bây giờ có ai đang short stop loss ở 70.500 không? Thì để ý cân nhắc. Bởi vì đây là vùng hội tụ rất nhiều anh tài nằm ở đây."},
+    {"tu": null, "den": null, "vi_sao": "Long khi thiếu volume mua (M5 hai đáy nhưng volume bán vào nhanh) — chưa vội", "gio": "[00:25:20]", "trich": "Thấy bắt đầu cũng đẹp rồi nhưng lực bán nó mạnh quá. Cho nên chưa vội."}
+  ],
+  "giu_dong": [
+    {"lenh": "Long dò 67.500 hôm qua (âm ~25%, giá về 63.000)", "quyet_dinh": "dong", "khi_nao": "Hồi lên entry thì thoát hòa, không cay cú", "gio": "[00:07:28]", "trich": "Rồi gồng đến tận lúc nó về đến tận 63.000 mấy cơ. Và hồi lên, tức là âm 4.000 và chúng ta hồi lên entry và thoát được ở vị thế entry thì đó đã là một sự thành công rồi, không bị dính stop loss."},
+    {"lenh": "Long 68.800 sáng nay (SL 68.500)", "quyet_dinh": "dong", "khi_nao": "Dính SL 300 giá thì thôi — trade theo rủi ro", "gio": "[00:09:30]", "trich": "Và đúng mô hình này thì bình thường anh em cứ đánh. Nó stop loss không sao hết. Thua thì thôi. SL thì thôi. Một lệnh không nghèo đi đâu."},
+    {"lenh": "Lệnh scalp khung nhỏ vs lệnh cầm dài", "quyet_dinh": "dong", "khi_nao": "Lệnh scalping M5/M15 thì đánh theo khung đó (SL ngắn), không biến thành lệnh cầm dài", "gio": "[00:10:32]", "trich": "Lệnh nào cầm dài thì phải xác định là cầm dài. Còn lệnh nào đánh scalping 5 phút và 15 phút hoặc khung nhỏ hơn thì cứ xác định là đánh như vậy thôi."},
+    {"lenh": "Short có lãi, vd 69.100", "quyet_dinh": "giu", "khi_nao": "Kéo SL về entry, TP ở 67 (H4 bắt đầu tạo cấu trúc đi lên)", "gio": "[00:22:15]", "trich": "như nến hiện tại thì các lệnh short có lãi thì anh em nên kéo stop loss về entry. Đặc biệt là ví dụ như các bạn có hỏi là 69k1 này, thì đầu tiên là kéo SL về entry. Còn TP có thể là ở 67."},
+    {"lenh": "Long scalp hiện tại", "quyet_dinh": "giu", "khi_nao": "Qua 68.600 thì kéo SL về entry; thủng 68 thì té", "gio": "[00:53:22]", "trich": "Nhưng đoạn này ngược trend cho nên ví dụ nó lên khoảng qua được khỏi 68.6 thì anh em nên kéo stop loss về entry. Qua được khỏi vùng này là kéo SL về entry ngay cho an toàn."},
+    {"lenh": "Long scalp hiện tại", "quyet_dinh": "dong", "khi_nao": "Gãy thủng 68 thì té", "gio": "[01:05:18]", "trich": "Lực bán vẫn còn áp lắm, cho nên nếu trụ được ở đây cứ đánh thôi. Gãy thủng vùng 68 này thì té."}
+  ],
+  "tin_tuc": [
+    {"su_kien": "Chiến tranh (Mỹ - Iran) căng thẳng", "thoi_diem": "hiện tại", "nguon": "bao", "so_lieu": null, "anh_huong_view": "Vàng bạc chưa sập được; nếu vàng bạc sập thì BTC tăng tiếp được; nhịp trước có tin chiến tranh nên về tới Fibo 0.786 (sự kiện bất thường)", "gio": "[00:16:05]", "trich": "nếu vàng bạc này sập thì Bitcoin sẽ tăng tiếp được. Và thường vàng bạc này sẽ chạy nhanh hơn một tí. Nhưng bây giờ tình hình chiến tranh vẫn đang căng thẳng quá cho nên vẫn chưa sập được."},
+    {"su_kien": "Tin tức chung / phiên Mỹ", "thoi_diem": "phiên Mỹ", "nguon": null, "so_lieu": null, "anh_huong_view": "Bỏ qua tin, chỉ tránh phiên Mỹ", "gio": "[00:32:15]", "trich": "Tin tức thì tầm này bỏ qua, tránh phiên Mỹ ra là được."}
+  ],
+  "trich_them": [
+    {"gio": "[00:04:22]", "cau": "Hệ thống của mình là kiểm soát theo rủi ro. Cho nên ưu tiên mọi thứ là xử lý theo rủi ro. Tức là thấy rủi ro là dừng. Thấy rủi ro là ở ngoài. Hoặc thấy rủi ro thì giảm volume."},
+    {"gio": "[00:12:04]", "cau": "Còn ở đây thì nó đang nhằng, khả năng nó đang dụ short. Đó là khung nhỏ nhá."},
+    {"gio": "[00:18:07]", "cau": "Dù sao đi nữa thì hiện tại chúng ta vẫn đang nằm ở downtrend. Chứ không phải nằm ở uptrend, cho nên đánh các kèo ngược xu hướng thì phải thận trọng hết sức."},
+    {"gio": "[00:24:50]", "cau": "Hiện tại thị trường bắt đầu phục hồi. Cho nên đẹp nhất là nó gãy về đây chúng ta chơi. nhưng thị trường cũng khá là bố láo. Nó biết anh em chờ ở đó thì chưa chắc nó đã về."},
+    {"gio": "[00:35:57]", "cau": "H4 xem sao. Chủ yếu nó lên thì mình nghĩ lý do duy nhất là lên để kill short thôi. Không có lý do gì khác. Cộng với TP của Fibo này thì gần như theo một cách rất tự nhiên."}
+  ],
+  "kho": "Nghiêng TANG (đích hội tụ Fibo 70.000-70.500 'đạt trong tuần' — han_gio ghi 120 là quy đổi 'trong tuần' từ thứ ba, gần đúng) nhưng do_chac thấp: lực mua yếu, lên chỉ vì kill short, D1 69-71 là cản, nến xanh thứ hai không định hình tuần; có thể về 66-67 (Fibo 0.618 H1) trước. Vô hiệu: H4 đâm về 66 dưới MA34 → cờ D1 về 50-52. Trendline M1/M5 ghi khung M15 do enum. 'MA600 ở cây H1' không rõ (có thể MA200)."
+}

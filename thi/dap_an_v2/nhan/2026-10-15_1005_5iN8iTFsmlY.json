@@ -1,0 +1,46 @@
+{
+  "buoi": "2026-10-15_1005_5iN8iTFsmlY",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/lam_sach/2026-10-15_1005_5iN8iTFsmlY.md",
+  "gia_btc_luc_noi": 81000,
+  "dau_buoi": {
+    "thien_huong_h4": "GIAM",
+    "gio": null,
+    "trich": "Mình chưa thấy xác suất tăng trở lại đâu nhá. Hiện tại tất cả các khung đều đang rất là bearish, rất xấu về xu hướng giảm... Mình đang nghĩ nó vẫn có xác suất về test lại vùng 80 hoặc 79, căng hơn thì chứ ở đây thì chưa thấy."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "GIAM",
+    "do_chac": "vua",
+    "gio": null,
+    "trich": "Bây giờ chúng ta đã có cây H4 đóng. H4 đóng cửa ở đây thì coi như là gãy, tiếp tục gãy, phá đáy. Chân bên này là 81.000 mà bây giờ đóng dưới 81 rồi... Nhịp này khả năng về 80.000."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {"huong": "GIAM", "dich": 80000},
+  "duong_di": [
+    {"huong": "GIAM", "dich": [79700, 80000]},
+    {"huong": "GIAM", "dich": [76000, 77000]}
+  ],
+  "dich_chinh": [76000, 77000],
+  "han_gio": null,
+  "vo_hieu": null,
+  "lenh": [
+    {"chieu": "SHORT", "vao": 81000, "tp": [], "sl": null, "trang_thai": "de_xuat_moi"}
+  ],
+  "hanh_dong": "dung_ngoai_cho_entry",
+  "khung_lon": {"D1": "GIAM", "W1": "PHAN_VAN"},
+  "pha_vo_gia": null,
+  "trich_them": [
+    {"gio": null, "cau": "Thị trường khá là đẹp, khá là ngon rồi. Để xem có gãy được cái đoạn này hay không nhá. Đoạn này mà gãy được thì ngon, nhịp này khá là sáng cửa. Tệ cũng 79, 80; 76, 77 cũng khá là tiềm năng."},
+    {"gio": null, "cau": "Trừ khi H4 đóng hai cây nến: một cây rút râu ở đây và một cây nến chiều nay đóng màu xanh thì mới ổn. Hiện tại lực bán vẫn còn rất mạnh, cộng với tin tức rất xấu, cho nên thị trường sẽ lợi dụng tin đó để nó đạp."},
+    {"gio": null, "cau": "Cho nên bây giờ: D1 điều chỉnh, H4 xu hướng giảm. Không có bất kỳ tín hiệu nào cho thấy xu hướng tăng có khả năng giữ được hoặc quay trở lại cho đến thời điểm bây giờ."},
+    {"gio": null, "cau": "Đặc biệt khi H4 đóng thấp hơn vùng 80, confirm thủng Fibo 0.5, thì gần như xác suất cực kỳ cao nó sẽ về Fibo 0.618."},
+    {"gio": null, "cau": "Cho nên những vùng giá có khả năng về và nên quan sát hỗ trợ: vùng thứ nhất từ 80.000 đến khoảng 79.007; vùng thứ hai từ 77 đến 76.000... Cho nên nếu anh em đánh bán xuống thì tối đa cũng chỉ nên ăn đến vùng 76, 77 thôi, rồi chờ thị trường phản ứng tin tiếp, đừng tham quá."},
+    {"gio": null, "cau": "Điểm đến tiếp theo là đường MA kế tiếp trên H4 ở 77.000. Vùng 77.000 là vùng hỗ trợ; trong trường hợp sâu nhất thì giá có thể về đến tận 77.000."},
+    {"gio": null, "cau": "Chịu bạn ơi. Trên vùng 81 thì được, nhưng vùng này đánh phải đánh nhanh nhá, vì ở đây nó rất dễ hồi."},
+    {"gio": null, "cau": "Mình nghĩ là về 79 rồi rút chân lên trên 80 thì vẫn ok, chứ không về được đến 78 đâu. Nếu rút chân thì chắc không về đến 78 mà rút trên 80."},
+    {"gio": null, "cau": "Nếu từ giờ đến tuần sau, khoảng thứ hai, mà giá không nhanh chóng lấy lại 84, 85 thì mục tiêu này càng xa."},
+    {"gio": null, "cau": "Tối nay ra tin, nếu đánh 7x thành sóng thì tốt, nhưng mình sợ không được, vì có tin thì thị trường sẽ phòng thủ, thường ít kéo về những vùng target đó."},
+    {"gio": null, "cau": "Anh em xem lại view, về cơ bản nó khá là xấu, thị trường vẫn khá xấu. Nhưng vùng này sát hỗ trợ ở dưới nên đánh thì phải canh nhá, phải canh khung nhỏ thật kỹ."}
+  ],
+  "kho": "File không có mốc giờ. Hướng GIAM rõ, nhưng đích chính khó chọn: đích gần 80.000–79.700 ('79.007' đọc là 79.700) được nói chắc hơn ('Nhịp này khả năng về 80.000'), còn 76–77 là 'tối đa'/'trường hợp sâu nhất'; trong hỏi đáp người nói lại nghi về được 78 và cuối buổi 'mình sợ không được' về 7x. Lệnh SHORT 'trên vùng 81' chỉ là trả lời hỏi đáp, đánh nhanh, không nêu TP/SL. Không có câu vô hiệu kèm mốc giá (chỉ 'hai cây H4 rút râu + xanh mới ổn')."
+}

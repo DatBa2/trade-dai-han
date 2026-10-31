@@ -1,0 +1,65 @@
+{
+  "buoi": "2026-07-29_2FMmTeLGCNY",
+  "ngay": "2026-07-29",
+  "gio_vn": "10:00",
+  "gia_btc_luc_noi": 63500,
+  "nhan_dinh": [
+    {
+      "khung": "H4",
+      "huong": "PHAN_VAN",
+      "do_chac": "thap",
+      "dich": [62000, 64000],
+      "han": "hôm nay, chờ tin lãi suất Fed 1h sáng",
+      "han_gio": 24,
+      "vo_hieu_khi": "H4 đóng trên 64.000 thì confirm nhịp comeback, đánh đuổi lên",
+      "kich_ban_phu": "lên quét 64.000 (heatmap chờ quét) rồi gãy xuống; hoặc về test 62.000-62.500 rồi tạo hai đáy/ba đáy đảo chiều đi lên",
+      "ly_do": [
+        "H4 vẫn là xu hướng giảm/nhịp điều chỉnh, ba đường MA H4 cụm lại chuẩn bị cắt, vùng 64.000-64.500 là cản lớn",
+        "đa khung nhập nhằng ngược nhau (D1 giữ nhịp hồi, H4 điều chỉnh), thị trường chưa biết đi đâu",
+        "chờ tin Fed nên volume giảm, biên độ nhỏ"
+      ],
+      "trich": "Còn là như cái vùng giá hiện tại thì gần như mình cũng bó tay chưa biết đến cái hướng nào.",
+      "doi_y": null,
+      "duong_di": null
+    },
+    {
+      "khung": "D1",
+      "huong": "PHAN_VAN",
+      "do_chac": "thap",
+      "dich": [62000, 64000],
+      "han": "nến ngày mai",
+      "han_gio": 24,
+      "vo_hieu_khi": "D1 đóng xuyên thủng 62.000-62.500 thì hỏng (thủng 60.000 là kết thúc, game về đầu năm sau)",
+      "kich_ban_phu": "nếu về 61.000-62.000 rút râu lên tạo vai đầu vai ngược thì cản 67.000, target 72-75.000 (đánh giá khả thi không cao trong downtrend); nếu D1 đóng trên MA/64.000 thì quay lại plan lên 70.000",
+      "ly_do": [
+        "nến D1 rút chân lên chỉ tạm tốt, chưa khẳng định được gì",
+        "62.000-62.500 là hỗ trợ cực cứng, trùng Fibo 0.5 nhịp hồi"
+      ],
+      "trich": "Không thể vì cái D1 như này chúng ta lại nhận định là nó có xác suất đi lên quá nhiều được.",
+      "doi_y": null,
+      "duong_di": null
+    }
+  ],
+  "vung_gia": {"khang_cu": [64000, 64500], "ho_tro": [62000, 62500]},
+  "lenh": [],
+  "nhin_lai_truoc": "Plan đi lên hôm trước bị rũ hơi sâu; limit 62.000 về 62.600 rút chân, đúng dự đoán Fibo có xác suất về 62.500, râu này có thể phải test lại.",
+  "cong_cu": ["D1", "H4", "H1", "MA", "Fibo 0.5", "vai đầu vai ngược", "heatmap Coinglass", "USDT.D", "BTC.D", "Fear and Greed", "Polymarket"],
+  "tin_tuc": [
+    {"tin": "Fed quyết định lãi suất 1h sáng (65% giữ nguyên, 34,3% tăng, không có giảm); chiến tranh Mỹ-Iran đẩy dầu từ 70 lên 92", "danh_gia": "giữ nguyên là tin tốt ngắn hạn (tâm lý thở phào), nhưng chỉ hiệu lực khoảng hai ngày; nếu giữ nguyên thị trường có khả năng tăng"}
+  ],
+  "thoi_quen": [
+    "chờ tín hiệu cụ thể mới hành động, nhận định chỉ là nhận định",
+    "không đỡ dao rơi, chờ cặp nến xanh có lực mua rồi mới follow",
+    "trước tin lớn đi volume dò, quản lý vốn chặt",
+    "ưu tiên chờ H4 đóng trên 64.000 xác nhận hơn là bắt đáy",
+    "chia nhỏ vốn mua dần, còn nhiều thời gian"
+  ],
+  "cau_cua_mieng": [
+    "Ở trong thị trường này mà các ông cứ cảm giác thì thôi chứ tiền mà cứ cảm giác thì chết rồi."
+  ],
+  "altcoin": [
+    {"coin": "ETH", "huong": "GIAM", "ghi": "phản ứng Fibo 0.618 quanh 1930, H4 xấu; thủng thì về 1727 rồi có thể 1000; scalp short chừa volume, nếu kéo lên trên 1900 thì nhấp thêm"},
+    {"coin": "BTC.D/USDT.D", "huong": "GIAM", "ghi": "USDT.D vai đầu vai ngược khỏe, sẵn sàng break lên = cảnh báo rủi ro thị trường; altcoin gãy hàng loạt"}
+  ],
+  "ghi_chu": "Không có giờ trong tên file nên gio_vn mặc định 10:00. Phần vàng, dầu, VN-Index bỏ qua."
+}

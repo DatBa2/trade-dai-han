@@ -1,0 +1,129 @@
+{
+  "buoi": "2026-06-23_w3K-VXD_Tns",
+  "ngay": "2026-06-23",
+  "gio_vn": "10:00",
+  "gia_btc_luc_noi": 64000,
+  "nhan_dinh": [
+    {
+      "khung": "H4",
+      "huong": "TANG",
+      "do_chac": "thap",
+      "dich": [
+        68000,
+        69000
+      ],
+      "han": "chưa nói; vùng 63-65 dập dìu, giao dịch đẹp nhất hôm nay và ngày mai",
+      "han_gio": null,
+      "vo_hieu_khi": "H4 đóng nến thủng 63.000 thì bỏ plan lên 69",
+      "kich_ban_phu": "nếu H4 đóng thủng 63.000 thì break down cờ về 50.000, short ở ~60 ăn 50, SL 62; lên 69 chưa vội short, có thể đẩy 72-73",
+      "ly_do": [
+        "H4 vẫn kéo đáy cao lên, trendline H4 break và đang backtest",
+        "Fibo dừng ở 1, test lại 0.5 rồi nhịp sau thường lên 1.618 ~ 69.000",
+        "râu nến ngày 65 rớt 63 là nến dễ trap, đừng cắm đầu short",
+        "nhưng đây vẫn là hồi quang phản chiếu trong downtrend, đà yếu"
+      ],
+      "trich": "Tạm thời giá cứ đừng đóng thủng vùng 63 thì plan lên 69 vẫn giữ nguyên. Khi nào H4 đóng thủng 63 gãy xuống thì lúc đó bỏ plan lên 69.",
+      "doi_y": null,
+      "duong_di": null
+    },
+    {
+      "khung": "D1",
+      "huong": "GIAM",
+      "do_chac": "vua",
+      "dich": null,
+      "han": "dập dìu đến hết World Cup, sau đó pump dump vài phát rồi sập",
+      "han_gio": null,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": "ngày vẫn đỉnh thấp xuống; trong vùng nhập nhằng 63-65 không short không long | đích dài hạn: 40.000-50.000",
+      "ly_do": [
+        "vẫn trong downtrend, các nhịp hồi đều yếu",
+        "dòng tiền đang ở World Cup, tài chính khác (vàng, chứng khoán Mỹ) xấu",
+        "chờ BTC sập về 50-40 mới xem altcoin"
+      ],
+      "trich": "dù sao chúng ta vẫn đang nằm trong down trend nên tất cả những nhịp hiện tại đều là hồi quang phản chiếu",
+      "doi_y": null,
+      "duong_di": null
+    }
+  ],
+  "vung_gia": {
+    "khang_cu": [
+      65000,
+      69000
+    ],
+    "ho_tro": [
+      63000,
+      64000
+    ]
+  },
+  "lenh": [
+    {
+      "chieu": "LONG",
+      "loai": "đang giữ",
+      "vao": 64500,
+      "tp": null,
+      "sl": null,
+      "trang_thai": "dang_giu",
+      "trich": "Đang long 64.500 thì ở đây 500 giá có gì đâu, có 1%."
+    },
+    {
+      "chieu": "LONG",
+      "loai": "chờ H4 xanh trên 65",
+      "vao": 65000,
+      "tp": [
+        68000
+      ],
+      "sl": null,
+      "trang_thai": "de_xuat_moi",
+      "trich": "nếu nó trả lại cho chúng ta một cây H4 màu xanh lên trên khoảng 65 thì lúc đó có thể long, bật khung nhỏ ra long scalping từ 65 lên 68"
+    }
+  ],
+  "nhin_lai_truoc": "Đêm qua có nhịp lên nhưng lực bán không lên nổi; SL mất một hai lệnh ngắn; ETH lên yếu chỉ 20 giá. Quan điểm hôm qua (không short, thủng 63.000 mới short) giữ nguyên.",
+  "cong_cu": [
+    "H4",
+    "D1",
+    "M5",
+    "Fibo 0.5/1.618",
+    "trendline",
+    "MA",
+    "heatmap",
+    "USDT.D",
+    "DOM",
+    "Fear and Greed"
+  ],
+  "tin_tuc": [
+    {
+      "tin": "Tuần này chỉ có PCE; cuối tuần đóng nến tháng",
+      "danh_gia": "tin không đáng kể; cuối tuần thận trọng vì nến tháng pump dump; World Cup làm dòng tiền crypto mỏng"
+    }
+  ],
+  "thoi_quen": [
+    "vùng nhập nhằng thì không long không short, chờ thị trường phá xu hướng",
+    "short phải có điều kiện cần (H4 đóng thủng 63.000) rồi mới phân tích điều kiện đủ",
+    "chốt 1/2 TP1 xong dời SL về entry",
+    "SL ngắn khi xu hướng không rõ, không gồng",
+    "cảnh báo không ăn thua với thị trường kẻo cháy tài khoản từ từ"
+  ],
+  "cau_cua_mieng": [
+    "Vùng này thực sự là vùng mình không chơi, không tham gia vào, rất xấu, cho cả hai phe long và short.",
+    "Cứ đừng đóng thủng vùng 63 thì plan lên 69 vẫn giữ nguyên.",
+    "Đừng cố đánh kẹp đầu."
+  ],
+  "altcoin": [
+    {
+      "coin": "altcoin chung",
+      "huong": "GIAM",
+      "ghi": "DOM tiếp tục kéo lên, USDT.D lên, không đụng altcoin; đợi BTC đáy"
+    },
+    {
+      "coin": "ETH",
+      "huong": "TANG",
+      "ghi": "giữ long entry 1732, TP 1830-1850"
+    },
+    {
+      "coin": "vàng",
+      "huong": "TANG",
+      "ghi": "vùng Fibo đẹp, có thể hồi/scalping, dump quét SL rồi hồi; sell chỉ ăn ngắn"
+    }
+  ],
+  "ghi_chu": "gio_vn mặc định. H4 TANG độ chắc thấp vì chủ yếu 'không short, chờ'; không đặt lệnh mới. '6970' hiểu 69-70. 'Short 72k5' là câu hỏi người xem."
+}

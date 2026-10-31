@@ -1,0 +1,126 @@
+{
+ "buoi": "2026-07-06_GRWl0b0z1nk",
+ "ngay": "2026-07-06",
+ "gio_vn": "10:06",
+ "gia_btc_luc_noi": 63304,
+ "nhan_dinh": [
+  {
+   "khung": "H4",
+   "huong": "TANG",
+   "do_chac": "thap",
+   "dich": [65000, 65600],
+   "han": "2–3 ngày, tới thứ Tư 08/07",
+   "han_gio": 60,
+   "vo_hieu_khi": "H4 đóng dưới 62.400 (thủng đáy H4 62.444 + dải EMA34 H4 62.3 + Fibo 0.5 D1 62.55)",
+   "kich_ban_phu": "hồi kỹ thuật: chặng 1 lùi về 62.8–63.0 test Fibo 0.618 nhịp 62.44 → 64.0, chặng 2 vượt MA200 H4 lên quét 65–65.6 (EMA34 D1 trên + Fibo 0.786) rồi mới hết hồi",
+   "duong_di": [
+    {"huong": "GIAM", "dich": 62800},
+    {"huong": "TANG", "dich": 65300}
+   ],
+   "doi_y": null,
+   "ly_do": [
+    "Giá trên EMA34 (62.0) và EMA89 (61.9) H4, EMA34 H4 dốc lên → không short",
+    "Nến tuần trước xanh +6.8% nhấn chìm tuần đỏ trước, đóng 63.64 trên mốc 63.0–63.3 → tuần xanh thì khung nhỏ hạn chế short",
+    "Thứ Hai: bỏ tay ra khỏi nút short; 5 nến D1 xanh liên tiếp, hôm qua xanh thì hôm nay không đánh ngược",
+    "Đã nói 'tìm short lại sau tuần sau', 'lên 64 là điểm dừng phe long, không phải điểm vào phe short'",
+    "Vẫn chỉ là hồi kỹ thuật: D1 dưới EMA89/200, W1 dưới toàn bộ EMA"
+   ],
+   "trich": null
+  },
+  {
+   "khung": "D1",
+   "huong": "GIAM",
+   "do_chac": "thap",
+   "dich": [60000, 61000],
+   "han": "7–10 ngày (sau khi hồi xong 65–66)",
+   "han_gio": 216,
+   "vo_hieu_khi": "D1 đóng trên 65.700 (trên dải EMA34 D1 65.14 + đỉnh 65.63/65.8)",
+   "kich_ban_phu": "D1 đang test dải EMA34 D1 62.96–65.14; hồi hết ở 65–66 rồi quay về backtest 60–61",
+   "duong_di": [
+    {"huong": "TANG", "dich": 65300},
+    {"huong": "GIAM", "dich": 60500}
+   ],
+   "doi_y": null,
+   "ly_do": [
+    "D1 vẫn dưới EMA89 (68.9) và EMA200 (75.7), EMA34 D1 còn dốc xuống",
+    "Giá đã hồi 0.58 sóng giảm 67.3 → 57.8, đang ở vùng Fibo 0.618 63.68 = bức tường",
+    "Chưa vượt đỉnh D1 67.3 → cấu trúc D1 vẫn đỉnh thấp"
+   ],
+   "trich": null
+  },
+  {
+   "khung": "W1",
+   "huong": "GIAM",
+   "do_chac": "vua",
+   "dich": [52000, 54000],
+   "han": "3–6 tuần (sau nhịp hồi tuần)",
+   "han_gio": 700,
+   "vo_hieu_khi": "nến tuần đóng trên 68.300 (EMA200 tuần 68.2)",
+   "kich_ban_phu": "tuần này hồi tiếp test 65–66, râu tối đa 68–69 (EMA200 tuần + EMA89 D1 + Fibo 1.618 69K) rồi mới gãy",
+   "duong_di": [
+    {"huong": "TANG", "dich": 66000},
+    {"huong": "GIAM", "dich": 54000}
+   ],
+   "doi_y": null,
+   "ly_do": [
+    "Tuần dưới EMA34/89/200 tuần, EMA34/89 tuần đã cắt xuống",
+    "Nến tháng 6 đỏ -20%, khung tháng chưa bao giờ quay đầu ngay tháng sau",
+    "Nến tuần xanh nhấn chìm chỉ là nhịp hồi trong downtrend"
+   ],
+   "trich": null
+  }
+ ],
+ "vung_gia": {
+  "khang_cu": [64000, 65200, 65650, 66000, 68300, 69000],
+  "ho_tro": [63000, 62450, 62000, 61000]
+ },
+ "lenh": [
+  {
+   "chieu": "LONG",
+   "loai": "limit",
+   "vao": 62850,
+   "tp": [63900, 64950],
+   "sl": 62150,
+   "trang_thai": "de_xuat_moi"
+  },
+  {
+   "chieu": "SHORT",
+   "loai": "limit",
+   "vao": 65450,
+   "tp": [63950, 62650],
+   "sl": 66350,
+   "trang_thai": "de_xuat_moi"
+  }
+ ],
+ "hanh_dong": "dung_ngoai_cho_entry",
+ "giu_view": true,
+ "ly_do_doi_view": "Giữ hướng hồi kỹ thuật từ 03/07. (b) Đích 64 (MA200 H4) đã chạm râu 64.000 sáng nay → chốt long, không short; (d) thứ Hai xem nến tuần: tuần trước xanh nhấn chìm, đóng trên 63.3 → nhịp hồi chưa xong, dời đích lên 65–65.6. Chưa có nến đóng dưới mốc sai 61K.",
+ "rau": {
+  "tren": "64.000 (H4 06/07 03:00, chạm đúng EMA200 H4 63.99 rồi rút)",
+  "duoi": "63.140 (H4 06/07 07:00); đáy cấu trúc 62.444 (H4 05/07 15:00)",
+  "test_lai": "Râu trên 64.0 CÓ — số tròn + EMA200 H4, SL phe short nằm ngay trên (R2), tuần xanh nên nhịp hồi sẽ quét qua. Râu dưới 62.444 KHÔNG — dải EMA34 H4 62.0–62.3 và Fibo 0.5 D1 62.55 chắn trên, chặng 1 chỉ về 62.8–63.0 (5.3)."
+ },
+ "vung_on": [
+  {
+   "loai": "LONG",
+   "khoang": [62400, 63000],
+   "ly_do": [
+    "Dải EMA34 H4 61.6–62.3 ngay dưới (H4)",
+    "Đáy H4 62.444 (H4)",
+    "Fibo 0.5 sóng giảm 30 ngày 62.55 đã vượt, đổi vai (D1)",
+    "Fibo 0.618–0.786 nhịp 62.44 → 64.0 = 63.04–62.78 (H4)"
+   ]
+  },
+  {
+   "loai": "SHORT",
+   "khoang": [65100, 65800],
+   "ly_do": [
+    "Mép trên dải EMA34 D1 65.14 (D1)",
+    "Fibo 0.786 sóng giảm 67.3 → 57.8 = 65.27 (D1)",
+    "Đỉnh H4 65.63 (22/06) + đỉnh tuần 65.8 (08/06) (H4/W1)"
+   ]
+  }
+ ],
+ "pha_vo_gia": "Chưa có phá vỡ: râu 64.000 chỉ chạm MA200 H4 rồi rút, thân chưa đóng qua, mình không tính là phá. Giá 63.3 ở giữa vùng long 62.4–63.0 và vùng short 65.1–65.8 → KHÔNG VÀO GIỮA.",
+ "loi_binh": "Hôm nay thứ Hai anh em, đầu tuần xem lại nến tuần: tuần trước xanh nhấn chìm 6.8%, nên khung nhỏ mình hạn chế short, bỏ tay ra khỏi nút short. Sáng nay chạm đúng 64 MA200 H4 như đã nói, ai long thì đủ mồm rồi chốt đi, 64 là chỗ dừng của phe long chứ không phải chỗ vào của phe short. Giờ chờ nó lùi về 62.8–63 test lại rồi long vol nhỏ, mục tiêu 65–65.6 là hết hồi, tới đó mình mới tìm short. Đây vẫn là hồi quang phản chiếu thôi, không phải lời khuyên đầu tư."
+}

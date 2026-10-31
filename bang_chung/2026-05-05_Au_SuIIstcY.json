@@ -1,0 +1,316 @@
+[
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[0].trich",
+  "trich": "Khả năng cao là sẽ lên được 82. 81.800 cho đến 82 bởi vì MA200 sẽ lên được cỡ vùng này thôi.",
+  "giay": 1025,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Au_SuIIstcY&t=1025s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[1].trich",
+  "trich": "Short là một câu chuyện chặng đường dài cho nên các bạn cũng không cần phải vội.",
+  "giay": 1139,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Au_SuIIstcY&t=1139s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[2].trich",
+  "trich": "Đóng thêm một cái râu nữa thì khả năng là rụng. Còn nếu cây nến full lực thì khả năng là sẽ lên được.",
+  "giay": 2453,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Au_SuIIstcY&t=2453s",
+  "anh": [
+   {
+    "file": "so_tay/khung/Au_SuIIstcY_004030.jpg",
+    "giay": 2430,
+    "lech": -23
+   }
+  ]
+ },
+ {
+  "nguon": "phieu",
+  "truong": "lenh[0].trich",
+  "trich": "Short của mình thì short thoải mái, cho nó chạy thêm 10.000 giá nữa cũng ok.",
+  "giay": 2387,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Au_SuIIstcY&t=2387s",
+  "anh": [
+   {
+    "file": "so_tay/khung/Au_SuIIstcY_004030.jpg",
+    "giay": 2430,
+    "lech": 43
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[0].trich",
+  "trich": "gap 80, 81 hiện tại đã được lấp xong",
+  "giay": 411,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Au_SuIIstcY&t=411s",
+  "anh": [
+   {
+    "file": "so_tay/khung/Au_SuIIstcY_000730.jpg",
+    "giay": 450,
+    "lech": 39
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[1].trich",
+  "trich": "Mình nghĩ là phải lên trên 81.000. Chắc khoảng 81.000 năm thì ok hơn",
+  "giay": 742,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Au_SuIIstcY&t=742s",
+  "anh": [
+   {
+    "file": "so_tay/khung/Au_SuIIstcY_001230.jpg",
+    "giay": 750,
+    "lech": 8
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[2].trich",
+  "trich": "Hoặc là ở đây lên 83 này các bạn. Fibo ở đây là 83. Fibo 0.618",
+  "giay": 748,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Au_SuIIstcY&t=748s",
+  "anh": [
+   {
+    "file": "so_tay/khung/Au_SuIIstcY_001230.jpg",
+    "giay": 750,
+    "lech": 2
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[3].trich",
+  "trich": "mục tiêu căng của nó thì như hôm trước mình nói nhiều lần là 83 và 90",
+  "giay": 956,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Au_SuIIstcY&t=956s",
+  "anh": [
+   {
+    "file": "so_tay/khung/Au_SuIIstcY_001430.jpg",
+    "giay": 870,
+    "lech": -86
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[4].trich",
+  "trich": "đa phần nằm ở khoảng 66, 68",
+  "giay": 938,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Au_SuIIstcY&t=938s",
+  "anh": [
+   {
+    "file": "so_tay/khung/Au_SuIIstcY_001430.jpg",
+    "giay": 870,
+    "lech": -68
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[5].trich",
+  "trich": "lên được 82. 81.800 cho đến 82 bởi vì MA200 sẽ lên được cỡ vùng này",
+  "giay": 1030,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Au_SuIIstcY&t=1030s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[6].trich",
+  "trich": "82 là đường MA màu tím này, MA200 của khung ngày",
+  "giay": 1269,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Au_SuIIstcY&t=1269s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[7].trich",
+  "trich": "83 là Fibo 0.618",
+  "giay": 1274,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Au_SuIIstcY&t=1274s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[8].trich",
+  "trich": "TP2 nằm ở đây 7980 là xong",
+  "giay": 1518,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Au_SuIIstcY&t=1518s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[9].trich",
+  "trich": "cây râu này nó về là 81.200 đúng không? Ở trên CME",
+  "giay": 1612,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Au_SuIIstcY&t=1612s",
+  "anh": [
+   {
+    "file": "so_tay/khung/Au_SuIIstcY_002730.jpg",
+    "giay": 1650,
+    "lech": 38
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[10].trich",
+  "trich": "Gap 90 này. 92 chứ. 92",
+  "giay": 1662,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Au_SuIIstcY&t=1662s",
+  "anh": [
+   {
+    "file": "so_tay/khung/Au_SuIIstcY_002730.jpg",
+    "giay": 1650,
+    "lech": -12
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[11].trich",
+  "trich": "một cái ở 70 này. 69, 70",
+  "giay": 1673,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Au_SuIIstcY&t=1673s",
+  "anh": [
+   {
+    "file": "so_tay/khung/Au_SuIIstcY_002730.jpg",
+    "giay": 1650,
+    "lech": -23
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[12].trich",
+  "trich": "một cái thấp hơn nữa ở 67 này",
+  "giay": 1675,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Au_SuIIstcY&t=1675s",
+  "anh": [
+   {
+    "file": "so_tay/khung/Au_SuIIstcY_002730.jpg",
+    "giay": 1650,
+    "lech": -25
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[13].trich",
+  "trich": "Nó phải về được đến 78.000 kìa nhưng nó chỉ về đến 78.500",
+  "giay": 1688,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Au_SuIIstcY&t=1688s",
+  "anh": [
+   {
+    "file": "so_tay/khung/Au_SuIIstcY_002730.jpg",
+    "giay": 1650,
+    "lech": -38
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[14].trich",
+  "trich": "Mình nghĩ là sẽ phải thủng 70",
+  "giay": 2016,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Au_SuIIstcY&t=2016s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[15].trich",
+  "trich": "một vùng thanh khoản rất lớn ở 81.000 200",
+  "giay": 2088,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Au_SuIIstcY&t=2088s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[16].trich",
+  "trich": "Nó vẫn lên gap 91, 92",
+  "giay": 1817,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Au_SuIIstcY&t=1817s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[17].trich",
+  "trich": "trống thanh khoản có thể biết đâu nó kéo lên được 86, 86 90",
+  "giay": 3864,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Au_SuIIstcY&t=3864s",
+  "anh": [
+   {
+    "file": "so_tay/khung/Au_SuIIstcY_010330.jpg",
+    "giay": 3810,
+    "lech": -54
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[18].trich",
+  "trich": "View cá nhân cuối năm về lấp gap 20.000 còn không? Vẫn còn",
+  "giay": 2878,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Au_SuIIstcY&t=2878s",
+  "anh": [
+   {
+    "file": "so_tay/khung/Au_SuIIstcY_004630.jpg",
+    "giay": 2790,
+    "lech": -88
+   }
+  ]
+ }
+]

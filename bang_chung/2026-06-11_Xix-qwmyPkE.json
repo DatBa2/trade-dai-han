@@ -1,0 +1,222 @@
+[
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[0].trich",
+  "trich": "Target giá có thể lên vùng 69.000, khá hợp lý. Trước mắt là khoảng 65 66 sau đó cao hơn thì 69.",
+  "giay": 761,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Xix-qwmyPkE&t=761s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[1].trich",
+  "trich": "Nếu hôm nay đóng thêm một cây nến ngày xanh nữa thì chúng ta có quyền kỳ vọng là hai đáy và bật lên.",
+  "giay": 1510,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Xix-qwmyPkE&t=1510s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[2].trich",
+  "trich": "Dù sao trung hạn hay dài hạn thì vẫn là xu hướng giảm. Bây giờ chúng ta chỉ việc phân tích những nhịp phục hồi ngắn hạn để đánh.",
+  "giay": 832,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Xix-qwmyPkE&t=832s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "lenh[0].trich",
+  "trich": "Vùng từ 62 về đến 61 là vùng anh em có thể chia ra để làm entry... TP quanh 65.000, hai là 69.000.",
+  "giay": 1638,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Xix-qwmyPkE&t=1638s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "lenh[1].trich",
+  "trich": "Short 74 79 82 TP60 chốt hết rồi. Ngon.",
+  "giay": 2174,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Xix-qwmyPkE&t=2174s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[0].trich",
+  "trich": "Hai đáy khung ngày để nó lên lại vùng khoảng 67 đến 69 là đẹp",
+  "giay": 726,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Xix-qwmyPkE&t=726s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[1].trich",
+  "trich": "Trước mắt là khoảng 65 66 sau đó cao hơn thì 69",
+  "giay": 767,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Xix-qwmyPkE&t=767s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[2].trich",
+  "trich": "nếu đẩy lên luôn 69 thì sóng này kết thúc sớm và tiếp tục sóng giảm về 53",
+  "giay": 813,
+  "do_giong": 0.944,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Xix-qwmyPkE&t=813s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[3].trich",
+  "trich": "Đường 61, 60.00 61 này vừa là Fibo 0.618 vừa là hỗ trợ luôn",
+  "giay": 1500,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Xix-qwmyPkE&t=1500s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[4].trich",
+  "trich": "Nếu H4 đóng dưới vùng 61 này... thủng vùng 618 này là coi như kết thúc",
+  "giay": 1573,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Xix-qwmyPkE&t=1573s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[5].trich",
+  "trich": "H4 đóng dưới 60.00 thì anh em nên nhảy khỏi các lệnh",
+  "giay": 1619,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Xix-qwmyPkE&t=1619s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[6].trich",
+  "trich": "confirm dưới 60 thì nó sẽ về những vùng rất sâu như 54 53",
+  "giay": 1606,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Xix-qwmyPkE&t=1606s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[7].trich",
+  "trich": "Vùng từ 62 về đến 61 là vùng có thể chia ra làm entry",
+  "giay": 1638,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Xix-qwmyPkE&t=1638s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[8].trich",
+  "trich": "quanh vùng 65.000, đáy của cặp nến đảo chiều này",
+  "giay": 1668,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Xix-qwmyPkE&t=1668s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[9].trich",
+  "trich": "69.000 (râu có thể quét 70)... MA200 H4, MA34 ngày, Fibo 0.5 từ 82 83 về 59 chắc chắn sẽ cản giá",
+  "giay": 1683,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Xix-qwmyPkE&t=1683s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[10].trich",
+  "trich": "Fibo trên khung lớn từ vùng 82 83 về đến 59",
+  "giay": 1697,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Xix-qwmyPkE&t=1697s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[11].trich",
+  "trich": "từ vùng 82 83 về đến 59",
+  "giay": 1699,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Xix-qwmyPkE&t=1699s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[12].trich",
+  "trich": "Đoạn này cần break lên khỏi 62.00 này là ok",
+  "giay": 1794,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Xix-qwmyPkE&t=1794s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[13].trich",
+  "trich": "gap hôm trước 61.000 đã lấp xong",
+  "giay": 1930,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Xix-qwmyPkE&t=1930s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[14].trich",
+  "trich": "trên này có đám 63 nữa, dày hơn nên thị trường vẫn có khả năng lên 63 trong ngắn hạn",
+  "giay": 1989,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Xix-qwmyPkE&t=1989s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[15].trich",
+  "trich": "Chắc chắn có những vùng dưới đây, 60 61 này",
+  "giay": 1978,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Xix-qwmyPkE&t=1978s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[16].trich",
+  "trich": "Nếu giá giảm nữa về cuối năm, giảm về khoảng 40.000",
+  "giay": 2703,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Xix-qwmyPkE&t=2703s",
+  "anh": []
+ }
+]

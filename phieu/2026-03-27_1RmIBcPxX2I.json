@@ -1,0 +1,85 @@
+{
+  "buoi": "2026-03-27_1RmIBcPxX2I",
+  "ngay": "2026-03-27",
+  "gio_vn": "10:00",
+  "gia_btc_luc_noi": 68500,
+  "nhan_dinh": [
+    {
+      "khung": "H4",
+      "huong": "GIAM",
+      "do_chac": "cao",
+      "dich": [53000, 67000],
+      "han": "qua tuần sau mới rõ xu hướng; từ giờ đến tuần sau nên ở ngoài",
+      "han_gio": null,
+      "vo_hieu_khi": "chưa có tín hiệu long; nếu ngày mai có nến xanh mới tính tới fake out",
+      "kich_ban_phu": "có thể quét thêm về 68.000 rồi hồi lên 70-71 (nơi short có điểm vào); có thể fake out rồi lên lại, hoặc gãy về 50-60 rồi mới lên; gap 80-81 phía trên vẫn chưa lấp nên trung hạn vẫn có thể lên lại",
+      "ly_do": [
+        "tất cả khung D1, H4, H1, M30, M5 cùng xu hướng giảm",
+        "nến D1 đóng xấu, bị từ chối ở vùng 72.000 (Fibo), không qua được đỉnh cũ 74.000",
+        "đã có đỉnh thấp dần, chỉ cần thêm một đáy thấp hơn là thành cấu trúc sóng giảm",
+        "BNB, SOL, ETH, WLD đều gãy; Fear and Greed 13"
+      ],
+      "trich": "Chốt lại một câu: ngày hôm nay mọi thứ rất xấu, bỏ tay ra khỏi nút long. Cho dù thị trường có hồi lên cũng bỏ tay ra khỏi nút long.",
+      "doi_y": null,
+      "duong_di": null
+    },
+    {
+      "khung": "D1",
+      "huong": "GIAM",
+      "do_chac": "cao",
+      "dich": 53000,
+      "han": null,
+      "han_gio": null,
+      "vo_hieu_khi": "chưa gãy khung ngày thì view chưa đổi; D1 đóng dưới 67.000 là phải chạy, gãy thì về 53.000",
+      "kich_ban_phu": "muốn long phải qua cuối tuần, qua tuần sau nếu có nhịp hồi mới tính; hồi chạm MA34 D1 rút râu thì short đẹp",
+      "ly_do": ["hỗ trợ bị test nhiều lần nên yếu dần", "nỗ lực kéo lên không đi kèm kết quả"],
+      "trich": "Đóng dưới 67.000 là cút.",
+      "doi_y": null,
+      "duong_di": null
+    },
+    {
+      "khung": "M5",
+      "huong": "GIAM",
+      "do_chac": "thap",
+      "dich": [68100, 68200],
+      "han": "scalping trong ngày",
+      "han_gio": 24,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": "hồi quét lên 70.500-71.000 có tín hiệu đẹp mới short; short FOMO ở giá hiện tại chốt quanh 68.000",
+      "ly_do": ["đang nằm ngay hỗ trợ khung lớn nên không có điểm limit đẹp", "tỉ lệ RR không ok lắm"],
+      "trich": "Đoạn này nếu short thì anh em phải xác định là scalping. Ví dụ nó về được 68k1, 68k2 cũng phải chốt. Đừng kỳ vọng cao quá.",
+      "doi_y": null,
+      "duong_di": null
+    }
+  ],
+  "vung_gia": {"khang_cu": [70000, 72000], "ho_tro": [67000, 68000]},
+  "lenh": [
+    {"chieu": "SHORT", "loai": "scalping", "vao": [70500, 71000], "tp": [68000], "sl": null,
+     "trang_thai": "de_xuat_moi",
+     "trich": "Nó về đến hai đáy này, sau đó sẽ hồi, quét lên khoảng 71 hoặc 70.500 thì lúc đó có thể tìm tín hiệu để short xuống."}
+  ],
+  "nhin_lai_truoc": "Long 69k hôm qua: khuyên không nên giữ vì xu hướng xấu; swing long hôm trước phải rời tàu khi thủng đáy H4 gần nhất. Hôm qua kỳ vọng hồi 73-76 nhưng không qua được đỉnh cũ 74.000.",
+  "cong_cu": ["D1", "H4", "H1", "M15", "M5", "MA34", "MA200", "Fibo 0.5", "gap", "liquid heatmap", "Fear and Greed", "cấu trúc đỉnh đáy"],
+  "tin_tuc": [
+    {"tin": "Max pain 75.000", "danh_gia": "không quan trọng, chỉ hiểu một chiều là chỗ thanh lý nhiều nhất chứ không phải giá bị kéo lên đó"}
+  ],
+  "thoi_quen": [
+    "đánh theo những gì thấy trên thị trường chứ không theo điều mình nghĩ",
+    "đủ setup thì phải vào lệnh, bị SL là chuyện bình thường, không vào mới là lỗi",
+    "70% thời gian là chờ; thị trường xấu thì ngồi ngoài",
+    "downtrend khó đánh, scalping short chốt ngắn",
+    "chờ confirm rồi mới đổi view, không đoán fake out"
+  ],
+  "cau_cua_mieng": [
+    "Bỏ tay ra khỏi nút long.",
+    "Đóng dưới 67.000 là cút.",
+    "Hãy nhìn những gì có ở trên thị trường chứ đừng đánh theo những gì mà chúng ta nghĩ.",
+    "Thuyền to thì sóng lớn."
+  ],
+  "altcoin": [
+    {"coin": "ETH/BNB/SOL/WLD", "huong": "GIAM", "ghi": "đều gãy, khung ngày xấu; không nên short những con đã rất sâu"},
+    {"coin": "VÀNG", "huong": "GIAM", "ghi": "xu hướng vẫn giảm, bật khẽ từ Fibo 0.5 (4351), cần quét về ~4200-4400 mới hồi ổn"},
+    {"coin": "DẦU", "huong": "TANG", "ghi": "pump dump, kiên nhẫn chia vốn buy dần rải sâu về 78-80"}
+  ],
+  "ghi_chu": "Giá lúc nói suy ra ~68.500 (từ 'hồi quét lên 70.500-71', 'về 68k1-68k2 chốt'). Phần đầu có đoạn tư vấn bán đất mua vàng, bỏ qua."
+}

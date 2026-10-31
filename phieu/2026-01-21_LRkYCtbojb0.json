@@ -1,0 +1,67 @@
+{
+  "buoi": "2026-01-21_LRkYCtbojb0",
+  "ngay": "2026-01-21",
+  "gio_vn": "10:00",
+  "gia_btc_luc_noi": 88800,
+  "nhan_dinh": [
+    {
+      "khung": "H4",
+      "huong": "TANG",
+      "do_chac": "cao",
+      "dich": [91000, 92000],
+      "han": "hôm nay, hồi nhanh vài nghìn giá; tối nay hoặc rạng sáng mai",
+      "han_gio": 24,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": "lên 89.000 rồi điều chỉnh về 88.000-88.800 (Fibo 0.5/0.618) tìm long TP 91-92; hoặc đóng M30 qua 90.000 thì đi mô hình V lên luôn; có tin 8:30 tối nay có thể quét SL lên rồi mới đấm xuống",
+      "ly_do": [
+        "gap 88.000 đã lấp, còn gap 93.000; vùng giao cắt MA34/89 H4 và liquid ở 91-93",
+        "cặp H4 đảo chiều xanh, giá xa MA chưa test MA89 M30 ~90-91",
+        "động lực giảm gần hết, đám đông đổ xô short nên hôm nay đổi chiến lược đánh hai đầu"
+      ],
+      "trich": "Mình nghĩ khả năng thị trường sẽ có nhịp hồi đến đâu đó khoảng từ 91 đến 92 rất là cao. ... anh em đừng có short sớm.",
+      "doi_y": null,
+      "duong_di": null
+    },
+    {
+      "khung": "D1",
+      "huong": "GIAM",
+      "do_chac": "cao",
+      "dich": 63000,
+      "han": "vài tuần đến vài tháng",
+      "han_gio": null,
+      "vo_hieu_khi": "nến ngày xanh đóng 93-94 thì quan sát thêm, có thể fake breakout lên 100.000 (xác suất 10-15%)",
+      "kich_ban_phu": "hồi lên 93.000 rồi sống tiếp; fail thì lên 100.000 quét SL short rồi mới sập; vai đầu vai tuần xác nhận thì về 55-60.000",
+      "ly_do": [
+        "nến ngày đóng 89 thủng trendline mô hình cờ giảm, volume lớn, thủng mọi hỗ trợ",
+        "mô hình cờ giảm khoảng 80% chạy tiếp, mục tiêu 63.000",
+        "khung tuần có thể thành vai đầu vai, 2026 là năm chu kỳ giảm"
+      ],
+      "trich": "Trong trường hợp nếu nó đi mô hình này thì 63. ... xu hướng mình nghĩ vẫn giảm.",
+      "doi_y": null,
+      "duong_di": null
+    }
+  ],
+  "vung_gia": {"khang_cu": [91000, 93000], "ho_tro": [86300, 88000]},
+  "lenh": [
+    {"chieu": "SHORT", "loai": "đã chốt", "vao": null, "tp": [88100], "sl": null,
+     "trang_thai": "da_chot", "trich": "Cái lệnh short đêm qua TP ở 88.100, coi như cũng ăn."},
+    {"chieu": "LONG", "loai": "kịch bản chờ", "vao": [88000, 88800], "tp": [91000, 92000, 93000], "sl": 86000,
+     "trang_thai": "de_xuat_moi", "trich": "Ví dụ tí nữa nó lên đến 89.007 sau đó giảm xuống thì các bạn chờ quanh vùng từ 88.008 cho đến 88.000 ... stop loss kéo xa xa dưới này tí, ví dụ 8600 ... TP1 9100, TP2 9200 300."}
+  ],
+  "nhin_lai_truoc": "Lệnh short đêm qua TP 88.100 ăn (không đúng râu, cách đáy ~300 giá); lệnh sáng hôm qua short 90.0 TP 91.0 xong; hai cây H1 sáng bắt long ăn thêm ~600 giá. Hôm qua dặn đừng long, đúng. Mình ăn non hơn thị trường.",
+  "cong_cu": ["D1", "W1", "H4", "M30", "MA34/89/200", "gap 88.000/93.000", "mô hình cờ giảm", "vai đầu vai", "Fibo 0.5/0.618", "heatmap liquidation", "Fear & Greed"],
+  "tin_tuc": [{"tin": "Tối nay 8:30 Trump phát biểu (Greenland)", "danh_gia": "có thể đẩy lên quét SL rồi đấm về; có thể bất ngờ lên 100.000 nhưng xác suất thấp; clear lệnh trước giờ này"}],
+  "thoi_quen": [
+    "TP1 phải ăn chắc, TP2 thả; ăn non hơn thị trường",
+    "hôm nay đánh linh hoạt hai đầu, nhỏ, giữ lãi hôm qua; không short đuổi khi giá xa MA",
+    "luôn nghi ngờ thị trường, không thần thánh gap/mô hình",
+    "tránh làm theo đám đông 101/100 thằng đều thấy short"
+  ],
+  "cau_cua_mieng": ["Sóng khó nhất là biết đủ biết dừng.", "Gió chiều nào xoay chiều đó miễn sao có tiền.", "Chúng ta là con cừu thôi, đằng sau luôn là một bầy sói."],
+  "altcoin": [
+    {"coin": "ETH", "huong": "GIAM", "ghi": "mua dài hạn 2000 còn hơi đắt; short ETH giảm sâu hơn LINK"},
+    {"coin": "vàng", "huong": "TANG", "ghi": "chạy sóng, vàng ~4800, chưa tới 5000"},
+    {"coin": "bạc", "huong": null, "ghi": "mất sóng, nhường vàng"}
+  ],
+  "ghi_chu": "Giờ không ghi. Giá 88.8k suy từ 'lên chạm 8900' lúc BTC đứng im; không nói trực tiếp. Hướng H4 là nhịp hồi ngắn, hướng lớn D1 GIAM."
+}

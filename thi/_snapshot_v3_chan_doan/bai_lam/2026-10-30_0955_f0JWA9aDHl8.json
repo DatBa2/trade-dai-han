@@ -1,0 +1,90 @@
+{
+ "buoi": "2026-10-30_0955_f0JWA9aDHl8",
+ "ngay": "2026-10-30",
+ "gio_vn": "09:55",
+ "gia_btc_luc_noi": 78225,
+ "nhan_dinh": [
+  {
+   "khung": "H4",
+   "huong": "GIAM",
+   "do_chac": "thap",
+   "dich": [76000, 76800],
+   "han": "qua cuối tuần, tới đầu tuần sau (khoảng thứ Ba 03/11)",
+   "han_gio": 96,
+   "vo_hieu_khi": "H4 đóng trên 81.100 (lấy lại dải MA34 H4 80.0–81.05)",
+   "kich_ban_phu": "cuối tuần đi ngang 77–80; có thể hồi lâu hơn lên 80.5 (Fibo 0.382 nhịp 87.2→76.5) trước khi test lại râu",
+   "duong_di": [
+    {"huong": "TANG", "dich": 79700},
+    {"huong": "GIAM", "dich": 76500}
+   ],
+   "doi_y": null,
+   "ly_do": [
+    "đích 77–78 đã tới (râu xuống 76.519) → xong việc, chốt; nhưng xu hướng H4 không đổi: giá dưới MA34, MA89, MA200 H4",
+    "cú pump PCE lên 81.97 bị bán ngay, đỉnh thứ ba 81.8–81.97 không qua được → vùng phân phối",
+    "D1 hôm qua đỏ -4.1% nhấn chìm, đóng dưới MA89 D1; râu 76.5 dài chưa test → còn quay lại test (tạo đáy thứ hai ở MA89 D1)",
+    "giá đang xa MA34 H4 ~3%, F&G rơi 51→30 → không short đuổi, phải có nhịp hồi lên vùng đáy cũ 79.4–80 mới có vị thế"
+   ],
+   "trich": null
+  },
+  {
+   "khung": "D1",
+   "huong": "GIAM",
+   "do_chac": "vua",
+   "dich": [75000, 76500],
+   "han": "khoảng 1 tuần (sang tuần đầu tháng 11)",
+   "han_gio": 168,
+   "vo_hieu_khi": "nến ngày đóng trên 81.000 (lấy lại dải MA34 D1 + Fibo 0.382)",
+   "kich_ban_phu": "test MA89 D1 hai lần tạo hai đáy 76.5–78 rồi mới có nhịp hồi lớn hơn lên 81–83",
+   "duong_di": [
+    {"huong": "TANG", "dich": 79700},
+    {"huong": "GIAM", "dich": 76000}
+   ],
+   "doi_y": null,
+   "ly_do": [
+    "nến D1 29/10 đỏ thân dày nhấn chìm cả tuần đi ngang 79–82",
+    "giá dưới MA34 D1, đang test MA89 D1 lần đầu; MA200 D1 76.46 + Fibo 0.382 sóng 57.8→87.4 (76.1) là đáy kế tiếp",
+    "tháng 10 đỏ -6.5% sau 2 tháng xanh, mùa vụ ủng hộ giảm"
+   ],
+   "trich": null
+  },
+  {
+   "khung": "W1",
+   "huong": "GIAM",
+   "do_chac": "vua",
+   "dich": 75000,
+   "han": "vài tuần; trung hạn 4x–5x tới 2027",
+   "han_gio": null,
+   "vo_hieu_khi": "nến tuần đóng trên 82.000",
+   "kich_ban_phu": "mô hình Diamond phân phối đỉnh tuần đo về 75–76; trung hạn còn 54",
+   "duong_di": null,
+   "doi_y": null,
+   "ly_do": [
+    "nến tuần này đang đỏ, thủng MA89 tuần 79.5, râu trên 82 dài",
+    "thoát mô hình Diamond phân phối đỉnh khung tuần",
+    "downtrend chu kỳ chưa đổi cấu trúc"
+   ],
+   "trich": null
+  }
+ ],
+ "vung_gia": {
+  "khang_cu": [79400, 79700, 80000, 80600, 81100],
+  "ho_tro": [77750, 77000, 76500, 76000]
+ },
+ "lenh": [
+  {"chieu": "SHORT", "loai": "limit", "vao": 79850, "tp": [77900, 76800], "sl": 80750, "trang_thai": "de_xuat_moi"}
+ ],
+ "hanh_dong": "chot_loi",
+ "giu_view": false,
+ "ly_do_doi_view": "ĐỔI vì (b) giá đã chạm đích 77–78 (đóng H4 78.007, râu 76.519) → xong việc, chốt lãi short; lập view mới từ khung lớn: hướng vẫn GIẢM nhưng đích chuyển sang test lại râu 76–76.5 (MA200 D1, mục tiêu tuần 75–76), vào lại short ở nhịp hồi 79.4–80, không short đuổi ở đáy.",
+ "rau": {
+  "tren": "gần nhất 78.282 (H4 07:00 30/10); râu đỉnh PCE 81.910–81.970 (H4 19:00 và 23:00 29/10)",
+  "duoi": "gần nhất 76.519 (H4 07:00 30/10, râu dưới 1.91%, nằm trong nến D1 30/10 đang chạy)",
+  "test_lai": "Râu dưới 76.519 CÓ test lại — râu dài chưa test, trùng MA200 D1 76.46 + Fibo 0.382 sóng D1 lớn 76.1 + đích tuần 75–76 (R1, R2); dưới 77 đi rất nhanh, trống thanh khoản (R3). Râu trên 81.9–81.97 KHÔNG — đỉnh 81.8–81.97 đã bị test 3 lần, hết giá trị, có cả cụm MA H4 chắn giữa (5.3)."
+ },
+ "vung_on": [
+  {"loai": "SHORT", "khoang": [79400, 80300], "ly_do": ["cụm đáy cũ H4 79.378 / 79.505 / 79.710 đổi vai thành cản (H4)", "MA610 D1 79.56 (D1) + MA89 tuần 79.51 (W1) vừa bị thủng", "1/2 thân cây H4 xả 03:00 (~79.4)", "mép dưới dải MA34 H4 ~80.0 (H4)"]},
+  {"loai": "LONG", "khoang": [76400, 77800], "ly_do": ["MA610 H4 77.75 (H4)", "MA200 D1 76.46 (D1)", "Fibo 0.382 sóng 57.8→87.4 = 76.1 (D1)", "râu 76.519 vừa rút chân; chỉ long hồi vol nhỏ, ăn non"]}
+ ],
+ "pha_vo_gia": "Cú pump PCE lên 81.91–81.97 là GIẢ: G6 (ngay sau tin PCE/GDP) + G9 (phiên Mỹ 19h) + G4 (quét SL phe short dưới 82 lần thứ ba) + G1 (không có H4 đóng trên 82) → sập -3.5%. Cú chọc thủng 77 sáng nay cũng chỉ là râu (G1), thân đóng lại 78.2, chưa có H4 đóng dưới 77 → chưa tính thủng.",
+ "loi_binh": "Hôm nay thứ Sáu anh em, đúng view từ tuần trước: về 77–78, nó còn quét xuống 76.5 rồi rút chân, lệnh sell thì chốt hết đi, đủ mồm thì chốt. Đã về đích rồi thì short ở đây khác nào hòa mình vào đám đông, làm sao biết đây là đáy — đáy chỉ tạo ra sau khi nó bay thôi, nhưng xu hướng H4 vẫn giảm, dưới cả MA34, 89, 200. Cuối tuần chờ nó hồi lên 79.4–80, vùng đáy cũ thành cản, có nến đỏ volume thì mình sale tiếp, mục tiêu test lại râu 76–76.5. Khung giữa 78 này không vào giữa, anh em hãy biết sợ nhá."
+}

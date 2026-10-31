@@ -1,0 +1,103 @@
+{
+  "buoi": "2026-05-04_VUUbKp4bFSU",
+  "ngay": "2026-05-04",
+  "gio_vn": "10:00",
+  "gia_btc_luc_noi": 80000,
+  "nhan_dinh": [
+    {
+      "khung": "H4",
+      "huong": "TANG",
+      "do_chac": "cao",
+      "dich": 81200,
+      "han": "trong ngày hôm nay (thứ hai); muốn short thì qua ngày mai tính",
+      "han_gio": 24,
+      "vo_hieu_khi": "M5/M15 điều chỉnh về 79.000-79.600 thì chờ tín hiệu mua, SL khi tín hiệu mua hết giá trị; không short khi gap chưa lấp",
+      "kich_ban_phu": "M5 có thể điều chỉnh về 79.000-79.500 (gap nhỏ 78.4-78.9) rồi bay; có thể có cây gậy cuối sáng thứ ba 9:00 rồi quay đầu; sau 81 còn gap 90, 92",
+      "ly_do": [
+        "H4 xu hướng tăng, giá nằm trên MA; toàn bộ H4 đóng xanh đẹp, không lý do short",
+        "gap CME 81.200 chưa lấp (mới tới 80.600), thị trường chạy kiểu lấp gap hai lần, trên 80% sẽ cố lên lấp",
+        "trendline kéo lên được khoảng 1.500 giá nữa chạm EMA200 D1 81-82; volume mua M5 tốt",
+        "target view hôm thứ bảy: support 75.000, TP1 79.600 đã hit, TP2 81.700"
+      ],
+      "trich": "Short chưa cần, bởi vì gap chưa lấp xong. Khi nào gap này lấp xong rồi mình mới tính đến câu chuyện short.",
+      "doi_y": null,
+      "duong_di": null
+    },
+    {
+      "khung": "D1",
+      "huong": "TANG",
+      "do_chac": "vua",
+      "dich": [81000, 82000],
+      "han": "trong ngày hôm nay",
+      "han_gio": 24,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": "RSI chưa quá mua, đừng vì phân kỳ khung tuần mà short; MA ngày cắt lên không có nhiều ý nghĩa",
+      "ly_do": ["đi tới EMA200 ngày 81-82 là không khó", "cản D1 vẫn có khả năng hit 81.000-82.000"],
+      "trich": "Đối với khung ngày thì ở đây chúng ta thấy nó vẫn có khả năng chạm một phát lên 81 82 bởi vì EMA200.",
+      "doi_y": null,
+      "duong_di": null
+    },
+    {
+      "khung": "W1",
+      "huong": "GIAM",
+      "do_chac": "thap",
+      "dich": null,
+      "han": "tháng 5 (sell in May), sau khi lên cản 81-83",
+      "han_gio": null,
+      "vo_hieu_khi": "qua khỏi 83.000-84.000 mới tiến đến 93.000",
+      "kich_ban_phu": "cản tuần 81 và 83; có lên 85 hay không thì bó tay",
+      "ly_do": [
+        "đến vùng kháng cự khung tuần, gần như cơ hội cuối để xử lý, đừng dựa vào nhịp tăng để view lên nữa",
+        "nến tuần đỏ giằng co, MA34/89 đã cross, vẫn trong downtrend",
+        "sell in May and go away"
+      ],
+      "trich": "Khung tuần ở đây mình nhắn nhủ anh em một thông điệp quan trọng nhất là chúng ta đã đến những vùng cản quan trọng rồi. Hãy hành động đi.",
+      "doi_y": null,
+      "duong_di": null
+    },
+    {
+      "khung": "chung",
+      "huong": "GIAM",
+      "do_chac": "vua",
+      "dich": null,
+      "han": "trung hạn; DCA mua khi dưới 52.000",
+      "han_gio": null,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": "chưa tính đến cho short đến khi gap xong; kích hoạt bot short trên 81 đến 85",
+      "ly_do": ["đừng quên đang ở downtrend", "Fear Greed 40 sau 9 lên 47 là đã FOMO"],
+      "trich": "Đừng quên rằng chúng ta đang ở downtrend. ... Chờ Bitcoin dưới 52.000 rồi tính.",
+      "doi_y": null,
+      "duong_di": null
+    }
+  ],
+  "vung_gia": {"khang_cu": [80500, 81200, 83000, 90000], "ho_tro": [79000, 78800, 78000, 75000]},
+  "lenh": [
+    {"chieu": "LONG", "loai": "scalp theo tín hiệu M5", "vao": [79000, 79600], "tp": [80000], "sl": "dưới 78.000 hoặc khi tín hiệu mua hết giá trị", "trang_thai": "de_xuat_moi",
+     "trich": "Nếu BTC về 79k6 thì SL không phải limit đâu, mình sẽ canh theo thằng 5 phút này. Nếu về đây mà thấy có tín hiệu mua thì mới vào."},
+    {"chieu": "SHORT", "loai": "bot/kế hoạch sau khi lấp gap", "vao": [81000, 85000], "tp": null, "sl": null, "trang_thai": "de_xuat_moi",
+     "trich": "Để xem những vùng bắt đầu kích hoạt chắc phải trên 81. 81 cho đến khoảng 85."}
+  ],
+  "nhin_lai_truoc": "Lệnh long sáng nay chốt TP 79.000-79.300 (đỉnh 79.400), giá quay về entry: TP đúng cản, không tiếc. Hôm thứ bảy post view: break H4, support 75.000, TP1 79.600, TP2 81.700 — đã hit target 1. Nhận định tháng 4 tăng + World Cup đúng, BTC tăng 20% từ 65.000.",
+  "cong_cu": ["gap CME BTC1 (81.200, 90, 92)", "H4 trendline", "EMA200 D1", "M5 volume", "Fibo", "heatmap liquidation", "Fear Greed", "dầu vàng", "USDT.D"],
+  "tin_tuc": [],
+  "thoi_quen": [
+    "TP đúng cản rồi không tiếc khi giá chạy tiếp; chốt lãi bớt dần",
+    "chưa short khi gap chưa lấp; short chỉ khi giá đi ngang/tạo cấu trúc đảo chiều ở đỉnh",
+    "hỏi 'đến vùng giá thì làm gì' thay vì 'sẽ tăng hay giảm'; chuẩn bị kế hoạch trước",
+    "vào lệnh theo tín hiệu M5 chứ không limit mù",
+    "ưu tiên BTC hơn altcoin; không bảo vệ vốn kiểu 'sẵn sàng mất'",
+    "DCA spot hai gói (theo ngày và theo mức giảm), một gói dự phòng"
+  ],
+  "cau_cua_mieng": [
+    "Đừng có đi đoán mà hãy nhớ đến những vùng giá chúng ta nên làm gì.",
+    "Không ai đánh thuế giấc mơ mà.",
+    "Bull trap có nghĩa là một cái bẫy tăng giá."
+  ],
+  "altcoin": [
+    {"coin": "ETH", "huong": "TANG", "ghi": "đã break, đẹp; tối đa 2500-2600 (MA200); nếu BTC điều chỉnh có thể đánh ETH thay BTC; chờ điều chỉnh nhẹ 30-40 giá"},
+    {"coin": "altcoin chung", "huong": "TANG", "ghi": "H4 đóng xanh đẹp; khung ngày vẫn có cửa nhưng phụ thuộc BTC; trong downtrend rất khó"},
+    {"coin": "SOL", "huong": "TANG", "ghi": "cao nhất khoảng 110 (khả thi khó)"},
+    {"coin": "ZEC", "huong": "TANG", "ghi": "đã x2 từ 200 lên 400+; khó bay lên nghìn"}
+  ],
+  "ghi_chu": "Giờ live không rõ (đặt 10:00). Giá lúc nói 79.600-80.000, gap CME 81.200 mới tới 80.600. Hôm nay không short, 'hết ngày hôm nay đừng short'."
+}

@@ -1,0 +1,326 @@
+[
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[0].trich",
+  "trich": "Cá nhân mình nếu anh em hỏi theo góc độ cá nhân thì mình nghiêng hơn vào kịch bản tăng. Mình vẫn nghĩ tháng tư là một tháng thị trường có những sự tăng trưởng.",
+  "giay": 2031,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Be-e74Mwx0U&t=2031s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[1].trich",
+  "trich": "Nếu bây giờ anh em muốn swing thì cứ chia giải ra. 91 81 vậy thôi. Cho nên mình không short ở đoạn này.",
+  "giay": 1914,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Be-e74Mwx0U&t=1914s",
+  "anh": [
+   {
+    "file": "so_tay/khung/Be-e74Mwx0U_003102.jpg",
+    "giay": 1862,
+    "lech": -52
+   }
+  ]
+ },
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[2].trich",
+  "trich": "Nến tháng này vẫn cực kỳ xấu. ... nhịp đẩy lên đó sẽ cực kỳ nhanh và sau đó nhanh chóng rụng xuống, về tệ cũng phải là 54 56 gì đó.",
+  "giay": 1689,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Be-e74Mwx0U&t=1689s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "lenh[0].trich",
+  "trich": "Đẹp nhất ở đoạn này là chờ test 68 của cái này. Tức là quanh khoảng 66.000 66.500 gì đó.",
+  "giay": 2360,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Be-e74Mwx0U&t=2360s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "lenh[1].trich",
+  "trich": "Hôm qua long 66.4 chốt 67.6. ... Hôm qua hai lần SL 50 TP 68, húp luôn hai lệnh ngon.",
+  "giay": 2580,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Be-e74Mwx0U&t=2580s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "lenh[2].trich",
+  "trich": "Lệnh cũng nhỏ. Được khoảng 15% nếu tính cả đòn bẩy. Cho nên cứ out rồi tìm entry khác.",
+  "giay": 418,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Be-e74Mwx0U&t=418s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[0].trich",
+  "trich": "Có vẻ muốn lên 69... Đây 69.000. Một đám short hiện tại đang mở ra và sẽ bị lụm ở 69.000",
+  "giay": 2534,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Be-e74Mwx0U&t=2534s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[1].trich",
+  "trich": "Short ở điểm 66 ngày hôm qua... đây là hỗ trợ. Nguyên tắc là không short ở hỗ trợ",
+  "giay": 819,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Be-e74Mwx0U&t=819s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[2].trich",
+  "trich": "sáng nay chúng ta đã TP được lệnh gồng 66.000 ngày hôm qua",
+  "giay": 1014,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Be-e74Mwx0U&t=1014s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[3].trich",
+  "trich": "Giá mở cửa ở 66.000, giá đóng cửa nến tháng ở 68.000, có râu trên khoảng 1000 giá",
+  "giay": 1487,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Be-e74Mwx0U&t=1487s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[4].trich",
+  "trich": "giá đóng cửa nến tháng ở 68.000... vẫn nằm dưới đường MA34 trên khung nến tháng là xấu",
+  "giay": 1489,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Be-e74Mwx0U&t=1489s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[5].trich",
+  "trich": "Trong cả quá trình giá đã nỗ lực lên đến 75.000 nhưng cuối cùng vẫn bị đạp xuống",
+  "giay": 1494,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Be-e74Mwx0U&t=1494s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[6].trich",
+  "trich": "giữ trên được thằng này thì có hồi lên được 83",
+  "giay": 1676,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Be-e74Mwx0U&t=1676s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[7].trich",
+  "trich": "kỳ vọng nhịp đẩy lên khoảng 81 chủ yếu để quét stop loss và lấp gap ở trên",
+  "giay": 1726,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Be-e74Mwx0U&t=1726s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[8].trich",
+  "trich": "rụng xuống, về tệ cũng phải là 54 56",
+  "giay": 1740,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Be-e74Mwx0U&t=1740s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[9].trich",
+  "trich": "cá nhân mình nghĩ sẽ sâu hơn, khoảng 40, test râu ở khoảng 30 20",
+  "giay": 1744,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Be-e74Mwx0U&t=1744s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[10].trich",
+  "trich": "test râu ở khoảng 30 20 thì đẹp",
+  "giay": 1748,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Be-e74Mwx0U&t=1748s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[11].trich",
+  "trich": "Mình chỉ short khi nến ngày nó thủng cái 65 66 này",
+  "giay": 1922,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Be-e74Mwx0U&t=1922s",
+  "anh": [
+   {
+    "file": "so_tay/khung/Be-e74Mwx0U_003102.jpg",
+    "giay": 1862,
+    "lech": -60
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[12].trich",
+  "trich": "nếu bây giờ anh em muốn swing thì cứ chia giải ra. 91 81",
+  "giay": 1914,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Be-e74Mwx0U&t=1914s",
+  "anh": [
+   {
+    "file": "so_tay/khung/Be-e74Mwx0U_003102.jpg",
+    "giay": 1862,
+    "lech": -52
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[13].trich",
+  "trich": "đánh theo mô hình này thì short ở vùng khoảng 69. Và SL đâu đó khoảng 72.000",
+  "giay": 1952,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Be-e74Mwx0U&t=1952s",
+  "anh": [
+   {
+    "file": "so_tay/khung/Be-e74Mwx0U_003102.jpg",
+    "giay": 1862,
+    "lech": -90
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[14].trich",
+  "trich": "SL đâu đó khoảng 72.000",
+  "giay": 1958,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Be-e74Mwx0U&t=1958s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[15].trich",
+  "trich": "nó có khả năng hồi theo Fibo này lên đến tận 91",
+  "giay": 2010,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Be-e74Mwx0U&t=2010s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[16].trich",
+  "trich": "66.000 không phải là một đáy. Mà đáy đoạn này sẽ là 65.000",
+  "giay": 2292,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Be-e74Mwx0U&t=2292s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[17].trich",
+  "trich": "kéo về đâu đó khoảng độ 66.000 67.000 rồi sau đó lại đi lên",
+  "giay": 2306,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Be-e74Mwx0U&t=2306s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[18].trich",
+  "trich": "Đẹp nhất là ở đoạn này, chờ test 68... quanh khoảng 66.000 66.500",
+  "giay": 2366,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Be-e74Mwx0U&t=2366s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[19].trich",
+  "trich": "6800 hoặc 69 cũng có mà về đến tận 6600 anh em. 6500 vẫn có",
+  "giay": 2423,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Be-e74Mwx0U&t=2423s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[20].trich",
+  "trich": "khoảng chiều nó có những nhịp về 66.300, 66.000 lúc đó có thể thử vào long",
+  "giay": 2497,
+  "do_giong": 0.944,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Be-e74Mwx0U&t=2497s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[21].trich",
+  "trich": "Xu hướng dài này thì nó sẽ về 64 nhưng cái đoạn này sẽ còn lâu",
+  "giay": 2558,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Be-e74Mwx0U&t=2558s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[22].trich",
+  "trich": "quét lên trên khỏi 71 72 hoặc quét lên trên 76 thì sẽ về 64",
+  "giay": 2570,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Be-e74Mwx0U&t=2570s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[23].trich",
+  "trich": "quét về 58 dưới này để tạo một đáy sâu hơn... chưa đủ cơ sở",
+  "giay": 2973,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=Be-e74Mwx0U&t=2973s",
+  "anh": []
+ }
+]

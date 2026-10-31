@@ -1,0 +1,350 @@
+{
+  "buoi": "2026-04-28_lZw7Ts1eLWo",
+  "ngay": "2026-04-28",
+  "gia_btc_luc_noi": 76700,
+  "moc": [
+    {
+      "gia": 76000,
+      "gia_tren": null,
+      "vai_tro": "nhac_lai",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "điều chỉnh về 7600 rồi hồi trong đêm (cảnh báo hôm qua)",
+        "gap 76.000"
+      ],
+      "moc_gio": "00:12:55",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "cảnh báo là việc nó điều chỉnh về đâu đó khoảng 7600 sau đó là dễ hồi trong đêm"
+    },
+    {
+      "gia": 79000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "GIAM",
+      "khung": "W1",
+      "can_cu": [
+        "Fibo (0.5 tuần)",
+        "nến tuần đỏ ở cản này thì xấu"
+      ],
+      "moc_gio": "00:19:01",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "nó vẫn không vượt qua được Fibo là vùng 79.000"
+    },
+    {
+      "gia": 79000,
+      "gia_tren": null,
+      "vai_tro": "tp",
+      "huong": "TANG",
+      "khung": "W1",
+      "can_cu": [
+        "target 1"
+      ],
+      "moc_gio": "00:22:18",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "target 1 79 thì chốt 79, target 2 80, target 3 83, target 4 90"
+    },
+    {
+      "gia": 80000,
+      "gia_tren": null,
+      "vai_tro": "tp",
+      "huong": "TANG",
+      "khung": "W1",
+      "can_cu": [
+        "target 2"
+      ],
+      "moc_gio": "00:22:18",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "target 2 80"
+    },
+    {
+      "gia": 83000,
+      "gia_tren": null,
+      "vai_tro": "tp",
+      "huong": "TANG",
+      "khung": "W1",
+      "can_cu": [
+        "target 3"
+      ],
+      "moc_gio": "00:22:18",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "target 3 83"
+    },
+    {
+      "gia": 90000,
+      "gia_tren": null,
+      "vai_tro": "tp",
+      "huong": "TANG",
+      "khung": "W1",
+      "can_cu": [
+        "target 4"
+      ],
+      "moc_gio": "00:22:18",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "target 4 90"
+    },
+    {
+      "gia": 20000,
+      "gia_tren": null,
+      "vai_tro": "day_cu",
+      "huong": "GIAM",
+      "khung": "W1",
+      "can_cu": [
+        "rủi ro lý thuyết trên chart/kỹ thuật, dùng kiểm soát rủi ro"
+      ],
+      "moc_gio": "00:25:01",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "dữ liệu nó cũng cho mình là có khả năng về 20.000"
+    },
+    {
+      "gia": 62000,
+      "gia_tren": null,
+      "vai_tro": "nhac_lai",
+      "huong": "GIAM",
+      "khung": "W1",
+      "can_cu": [
+        "view cũ khi giá ~100K"
+      ],
+      "moc_gio": "00:24:27",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "lúc đó cả thị trường mỗi mình nói là 62.000"
+    },
+    {
+      "gia": 70000,
+      "gia_tren": null,
+      "vai_tro": "vo_hieu",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "hỗ trợ liên tục",
+        "thủng 70.000 mất xu hướng tăng"
+      ],
+      "moc_gio": "00:29:26",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "thủng 70.000 thì khả năng là mất xu hướng tăng"
+    },
+    {
+      "gia": 77000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "MA34 H4 trở thành cản",
+        "cấu trúc đỉnh đáy thấp dần"
+      ],
+      "moc_gio": "00:30:58",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Giá nó lên đúng cản MA này rụng luôn, 77.000 là rớt"
+    },
+    {
+      "gia": 74000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "MA200 H4"
+      ],
+      "moc_gio": "00:31:33",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "khả năng là về 74. Về test MA200 là hợp lý"
+    },
+    {
+      "gia": 74000,
+      "gia_tren": 75000,
+      "vai_tro": "ho_tro",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "Fibo mở rộng (đỉnh, đáy, điểm hồi) nhịp thứ nhất"
+      ],
+      "moc_gio": "00:31:33",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Fibo mở rộng... 74.000 tức 75.000"
+    },
+    {
+      "gia": 72000,
+      "gia_tren": 74000,
+      "vai_tro": "ho_tro",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "Fibo mở rộng (đỉnh, đáy, điểm hồi) nhịp thứ hai"
+      ],
+      "moc_gio": "00:32:07",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Thứ hai chúng ta đo thử nhịp này... 72 74"
+    },
+    {
+      "gia": 73000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "Fibo ngược",
+        "MA"
+      ],
+      "moc_gio": "00:32:41",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Nó về đến 73.000 thì cũng hợp lý"
+    },
+    {
+      "gia": 75000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "GIAM",
+      "khung": "H1",
+      "can_cu": [
+        "MA H1",
+        "tệ lắm cũng về được"
+      ],
+      "moc_gio": "00:33:13",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Tệ lắm thì mình nghĩ cũng phải kéo về được 75... MA này của đường H1"
+    },
+    {
+      "gia": 77000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "M30",
+      "can_cu": [
+        "nếu M30 xanh hai đáy break lên"
+      ],
+      "moc_gio": "00:33:44",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "nếu break lên thì có thể đi lên được 77.000"
+    },
+    {
+      "gia": 77000,
+      "gia_tren": 78000,
+      "vai_tro": "entry",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý",
+        "option"
+      ],
+      "moc_gio": "00:34:47",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "nnếu đi short ở vùng 78.000 này thì có vẻ ok hơn. 77.000 cho đến 78.000"
+    },
+    {
+      "gia": 77000,
+      "gia_tren": null,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": null,
+      "can_cu": [
+        "gap nhỏ 77.000"
+      ],
+      "moc_gio": "00:34:47",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "đây cũng có một gap nhỏ ở 77.000"
+    },
+    {
+      "gia": 76000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "gap 76.000 chưa lấp (hôm qua về nhưng chưa lấp)"
+      ],
+      "moc_gio": "00:35:21",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "vẫn có một gap ở 76.000... tệ lắm cũng phải về một nhịp 76.000 nữa"
+    },
+    {
+      "gia": 80000,
+      "gia_tren": 82000,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "gap 80 chưa lấp (mới chạm)"
+      ],
+      "moc_gio": "00:35:21",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "gap 80 chúng ta vẫn chưa được lấp... vẫn còn một nhịp để đi lên 80 82"
+    },
+    {
+      "gia": 78000,
+      "gia_tren": 78500,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý / heatmap (quét lên)"
+      ],
+      "moc_gio": "00:37:35",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "78.000 cực kỳ dễ lên... 78.500 luôn"
+    },
+    {
+      "gia": 76000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý / heatmap"
+      ],
+      "moc_gio": "00:39:12",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Đây 76.000. Vùng 76.000 này vẫn dễ quét về"
+    },
+    {
+      "gia": 77000,
+      "gia_tren": 78000,
+      "vai_tro": "khang_cu",
+      "huong": "GIAM",
+      "khung": "H1",
+      "can_cu": [
+        "OI options (cản rất lớn)"
+      ],
+      "moc_gio": "00:40:20",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "vùng 77.000 này là một vùng cản rất lớn... H1 đóng xuyên 78 77.000 thì không short"
+    },
+    {
+      "gia": 81000,
+      "gia_tren": 83000,
+      "vai_tro": "entry",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [
+        "short swing"
+      ],
+      "moc_gio": "00:52:00",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Short swing thì thực tế mình vẫn chờ vùng từ 81 cho đến 83"
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "buoi": "2026-08-17_1006_tmR0aXnjOlA",
+  "ngay": "2026-08-17",
+  "gio_vn": "10:06",
+  "gia_btc_luc_noi": null,
+  "nhan_dinh": [
+    {
+      "khung": "H4",
+      "huong": "TANG",
+      "do_chac": "vua",
+      "dich": 64000,
+      "han": "từ giờ đến trưa",
+      "han_gio": 6,
+      "vo_hieu_khi": "đóng nến gãy khỏi hỗ trợ 63.000/62.000 thì thoát",
+      "kich_ban_phu": "nếu gãy một phát thì về 62.000; có thể về test 63.000 rồi mới lên (long chờ ở 63.000)",
+      "ly_do": [
+        "H4 đóng xanh phá hẳn vùng tích lũy nhỏ cuối tuần chỉ bằng một cây nến, lực mua khá tốt",
+        "short chưa có dấu hiệu, trừ khi H4 đóng đỏ chui lại vùng (bẫy)",
+        "liquid hai đầu: lên là 64.000, thủng là 62.000"
+      ],
+      "trich": "Đi kiểu này chắc là nó cứ từ từ đi lên thôi ... Short mình thấy không ổn đâu.",
+      "doi_y": null,
+      "duong_di": [
+        {
+          "huong": "GIAM",
+          "dich": 63000
+        },
+        {
+          "huong": "TANG",
+          "dich": 64000
+        }
+      ]
+    },
+    {
+      "khung": "D1",
+      "huong": "PHAN_VAN",
+      "do_chac": "thap",
+      "dich": null,
+      "han": null,
+      "han_gio": null,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": "thoát biên hướng nào theo hướng đó; đi ngang thì đừng cố đoán",
+      "ly_do": [
+        "D1 sideway trong biên khung ngày, nằm dưới MA nên nghiêng nhẹ về phe giảm",
+        "đi ngang thì không dự đoán được, chờ thoát biên"
+      ],
+      "trich": "D1 là đang đi sideway, đi ngang, nhưng mà nó nằm dưới cái MA cho nên đi ngang ở đây là nó vẫn nghiêng hơn một xíu về phe giảm.",
+      "doi_y": null,
+      "duong_di": null
+    },
+    {
+      "khung": "W1",
+      "huong": "GIAM",
+      "do_chac": "vua",
+      "dich": 40000,
+      "han": "chu kỳ downtrend",
+      "han_gio": null,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": "nhịp hồi có thể lên 68-71.000 (hoặc 70-73.000) nhưng vẫn là hồi ngắn hạn, không phải tăng",
+      "ly_do": [
+        "nến tuần vừa rồi cực kỳ xấu, bốn cụm nến tuần biên 1000-2000 giá",
+        "kẹp Fibo 0.5-0.618, lịch sử hay rơi về 0.786 = khoảng 40.000",
+        "đáy chưa xong, tối thiểu phải về 1-2 lần nữa"
+      ],
+      "trich": "Đáy của thị trường đối với cá nhân mình đánh giá là vẫn chưa xong.",
+      "doi_y": null,
+      "duong_di": null
+    }
+  ],
+  "vung_gia": {
+    "khang_cu": [
+      64000,
+      64000
+    ],
+    "ho_tro": [
+      62000,
+      63000
+    ]
+  },
+  "lenh": [
+    {
+      "chieu": "LONG",
+      "loai": "limit",
+      "vao": 63000,
+      "tp": null,
+      "sl": 62000,
+      "trang_thai": "de_xuat_moi",
+      "trich": "Nếu anh em muốn long thì chờ ở đây. SL thì ở dưới là 62.000. Thủng cái vùng này là té thôi."
+    }
+  ],
+  "nhin_lai_truoc": "Sáng nói với nhóm VIP chờ phiên Á quét lệnh sót, đúng: phiên Á có pha lên quét sót ngắn hạn. Lệnh sót cuối tuần nhóm bị phá tích lũy rồi đi lên (người nói nhận là hơi vội).",
+  "cong_cu": [
+    "D1",
+    "H4",
+    "H1",
+    "MA",
+    "trendline H1",
+    "Fibo 0.5/0.618/0.786 khung tuần",
+    "liquid heatmap",
+    "BTC.D",
+    "USDT.D",
+    "Fear and Greed"
+  ],
+  "tin_tuc": [],
+  "thoi_quen": [
+    "đi ngang thì không dự đoán, chờ thoát biên",
+    "hai phe nhập nhằng thì không chọn phe",
+    "đầu tuần xanh thì giữa tuần mới úp, không phó vào nhịp đầu tuần",
+    "day trader, hết ngày xử lý lệnh",
+    "DCA mua spot hàng ngày, sập sâu mua nhiều, chừa vốn cho vùng thấp hơn"
+  ],
+  "cau_cua_mieng": [
+    "Xổ số chưa? Lên là 64 mà thủng là 62.",
+    "Mua cái gì thì cứ Bitcoin, ETH nhắm mắt mà mua."
+  ],
+  "altcoin": [
+    {
+      "coin": "ETH",
+      "huong": "TANG",
+      "ghi": "đừng sale, dễ pump tiếp; onchain báo gom nhưng không nghĩa là đáy"
+    },
+    {
+      "coin": "WLD",
+      "huong": "TANG",
+      "ghi": "hai đáy D1 đẹp, đừng sale"
+    },
+    {
+      "coin": "BTC.D",
+      "huong": "PHAN_VAN",
+      "ghi": "vẫn rất xấu, USDT.D đi ngang còn áp lực lên"
+    }
+  ],
+  "ghi_chu": "Giá BTC không nói số rõ (quanh 63K suy ngữ cảnh). Hướng H4 TANG theo câu cuối buổi 'từ từ đi lên ... khoan sót'; đầu buổi nói thị trường sideway, đi ngang. Có đường đi nhỏ: về test 63.000 (long ở đó) rồi lên 64.000."
+}

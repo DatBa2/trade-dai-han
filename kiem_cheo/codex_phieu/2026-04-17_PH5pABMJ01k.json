@@ -1,0 +1,39 @@
+{
+  "buoi": "2026-04-17_PH5pABMJ01k",
+  "gia_btc_luc_noi": 75000,
+  "dau_buoi": {
+    "huong_h4": "TANG",
+    "trich": "[00:03:37] Mình đang nhắm đến TP 78 ở đợt này. Nhịp này mà TP 76 thì có vẻ cũng đơn giản. Kỳ vọng nó sẽ lên được 78."
+  },
+  "cuoi_buoi": {
+    "huong_h4": "TANG",
+    "trich": "[00:49:58] vẫn thấy cửa lên trong những ngày này. [00:52:02] nếu thị trường có những nhịp điều chỉnh, đặc biệt là điều chỉnh sâu thì mình nghĩ vẫn long được, vẫn tìm vị thế để long lên."
+  },
+  "doi_y_giua_buoi": false,
+  "huong_lon": {
+    "D1": "TANG",
+    "W1": null,
+    "chu_ky": "GIAM"
+  },
+  "hanh_dong": "giu_lenh",
+  "duong_di": [
+    {
+      "huong": "GIAM",
+      "dich": 73000,
+      "khung": "H1"
+    },
+    {
+      "huong": "TANG",
+      "dich": 78000,
+      "khung": "H4"
+    }
+  ],
+  "dich_chinh": 78000,
+  "moc_sai": {
+    "gia": null,
+    "dieu_kien": null
+  },
+  "pha_vo_gia": null,
+  "do_chac": "cao",
+  "ghi_chu": "Đã đọc hết transcript. Giá 75.000 xấp xỉ từ tiêu đề/mức đang giao dịch. Người nói có lệnh BTC muốn giữ cao hơn [00:37:06], chưa chốt [00:43:03]; lệnh mới phải chờ 73.000–74.000, có chỗ sâu 72.000–73.000. Cuối [00:54:25] H4 xấu làm khả năng test 73.000 cao, nhưng đã nằm trong nhánh điều chỉnh từ đầu, không tuyên bố bỏ đích 78.000/đảo H4. Chọn giữ thiên hướng tăng, ghi nhịp giảm trước trong đường đi.78.000 là đích có xác suất trên 60%;80.000/83.000 chỉ khoảng 50%,90.000 chỉ 5–10%, không lấy 90.000 làm đích chính.78.700 là Fibo cản chính xác hơn ở một đoạn, đích hành động thường làm tròn 78.000. Không có mức SL hay điều kiện vô hiệu BTC cụ thể trong buổi; không tự lấy 73.000 là mốc sai."
+}

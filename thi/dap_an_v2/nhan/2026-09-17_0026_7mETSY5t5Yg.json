@@ -1,0 +1,48 @@
+{
+  "buoi": "2026-09-17_0026_7mETSY5t5Yg",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/lam_sach/2026-09-17_0026_7mETSY5t5Yg.md",
+  "gia_btc_luc_noi": 75500,
+  "dau_buoi": {
+    "thien_huong_h4": "GIAM",
+    "gio": null,
+    "trich": "Đoạn này tất nhiên với xu hướng thì các bạn không nên long, không nên buy, vì rõ ràng xác suất hiện tại là tăng lãi suất lên đến 90%, nên chúng ta không nên đi một vị thế đánh đổi lớn như vậy. Mình đang xem xét một vài vị thế để sell."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "GIAM",
+    "do_chac": "vua",
+    "gio": null,
+    "trich": "Cùng lắm kéo lên khoảng 77, Fibo ở đây, để quét thanh lý ở trên thì cũng bình thường. Cho dù đêm nay tăng cỡ nào thì đến ngày mai và những ngày tiếp theo mình nghĩ thị trường vẫn nằm trong trạng thái xấu. ... Cấu trúc thị trường mình thấy vẫn thế. Thậm chí tin còn hợp lý hóa cho đường giá thôi."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {"huong": "TANG", "dich": [76500, 77000]},
+  "duong_di": [
+    {"huong": "TANG", "dich": [76500, 77000]},
+    {"huong": "GIAM", "dich": [73700, 74700]}
+  ],
+  "dich_chinh": [73700, 74700],
+  "han_gio": null,
+  "vo_hieu": null,
+  "lenh": [
+    {"chieu": "SHORT", "vao": [76500, 77000], "tp": [74700, 73700], "sl": 78000, "trang_thai": "de_xuat_moi"},
+    {"chieu": "LONG", "vao": [72000, 72500], "tp": [], "sl": null, "trang_thai": "de_xuat_moi"},
+    {"chieu": "SHORT", "vao": 75000, "tp": [75000, 74000, 73000], "sl": null, "trang_thai": "da_dong"}
+  ],
+  "hanh_dong": "dung_ngoai_cho_entry",
+  "khung_lon": {"D1": null, "W1": null},
+  "pha_vo_gia": "Nhịp kéo lên quanh tin Fed được gọi là kỹ thuật/lấy thanh khoản, bẫy đám đông: 'Nó chỉ gãy khoảng tầm 1000 giá khi tin xấu ra, sau đó có pha kéo lên, và đại đa phần đám đông sẽ chết bởi pha kéo lên này... Sau đó nó sẽ đi xuống'; 'Tất cả nhịp tăng này mang tính kỹ thuật và lấy thanh khoản thôi'; có thể quét lên 77 (thậm chí 78–79) để quét short trước khi về 6x.",
+  "trich_them": [
+    {"gio": null, "cau": "Trong ngắn hạn anh em có thể limit. Mình đang có một setup ở khoảng 76.700, tức là cách giá bây giờ khoảng 1000 giá. ... SL thì thả ra một xíu; stop loss chắc chắn phải tính toán là trên 1000 giá."},
+    {"gio": null, "cau": "Một kịch bản rất khả thi ... đêm nay nó quét về đây, sau đó ngày mai lại lên trên này, rồi qua cuối tuần (thứ sáu) nó lại tiếp tục chạy đi xuống."},
+    {"gio": null, "cau": "Là tin nên có thể chọn phe, nhưng tuyệt đối mình không chọn phe lên. ... Đêm nay tuyệt đối không đánh lên."},
+    {"gio": null, "cau": "Có hai vùng TP, ít nhất vùng này rất dễ: 73.00 [?], 73.000 đi cũng có khả năng. TP2 nằm ở đó. Limit chờ quét về 73 để long, anh em lựa chọn entry khoảng 72.00 [?] (7200)."},
+    {"gio": null, "cau": "Limit 76 / 72 đợi tin ra thì tùy mọi người; mình chỉ đưa ra hướng, quyết định tùy mọi người. Mình thì xúc cả hai."},
+    {"gio": null, "cau": "Mình không chọn phe đó. Mình chọn phe xấu nhá."},
+    {"gio": null, "cau": "Nó quét SL của anh em mình rồi. Sao thị trường không chạy nhiều nhỉ? Thị trường này bão hòa trước tin rồi."},
+    {"gio": null, "cau": "Tạm thời với tin lãi suất như này anh em cứ bỏ tay khỏi nút long đi. Thế cho vuông."},
+    {"gio": null, "cau": "Chặng đường từ đây về 6x thì các bạn sẽ phải chứng kiến một pha đi lên để nó quét hết đống short này đã. ... Khoản ở bên này: hai vùng này có thể tí nữa nó quét về 64.000, rồi sau đó nửa đêm nay nó lại vòng lên 78.000, hay thậm chí 79.000 nữa."},
+    {"gio": null, "cau": "H1 đang hai đáy khá đẹp, nhưng cứ ở hai vùng này thôi. SL khoảng 1000 giá chịu được, khoảng 78. TP anh em kỳ vọng có hai vùng: một là 74.700; vùng thứ hai là 73.700 [?] - hình như 73.00 [?], Fibo mở rộng 1% về đó."},
+    {"gio": null, "cau": "Cơ bản mình chỉ muốn nhắc lại: tăng lãi suất 25 điểm là một tin xấu về trung hạn ở giai đoạn này của thị trường. Còn ngắn hạn thì thực tế không đáng kể."}
+  ],
+  "kho": "File không có mốc giờ; buổi đêm tin Fed (tăng 0.25). Hướng chọn 'phe xấu' rõ, nhưng ngắn hạn chờ quét lên 76.5–77 (có thể 78–79 theo thanh khoản) mới short, nên SL 78 chỉ là SL lệnh chứ không được nói là mốc đổi view → vo_hieu null. Lệnh short market trước tin: giá vào/SL phụ đề lỗi ('75.00', 'SL khoảng 7500, khoảng 300 giá') và có vẻ đã bị quét SL sau tin, ghi da_dong. Đồng thời đặt limit long ~72–72.5 ('xúc cả hai'). Câu 'quét về 64.000' có thể là lỗi phụ đề (giá đang ~75)."
+}

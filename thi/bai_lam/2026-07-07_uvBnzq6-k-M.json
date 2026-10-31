@@ -1,0 +1,113 @@
+{
+ "buoi": "2026-07-07_uvBnzq6-k-M",
+ "ngay": "2026-07-07",
+ "gio_vn": "10:04",
+ "gia_btc_luc_noi": 63191,
+ "nhan_dinh": [
+  {
+   "khung": "H4",
+   "huong": "GIAM",
+   "do_chac": "vua",
+   "dich": [62000, 62500],
+   "han": "1–2 ngày, tới hết thứ Tư 08/07",
+   "han_gio": 36,
+   "vo_hieu_khi": "H4 đóng trên 64.750 (vượt râu quét 64.706, đứng hẳn trên MA200 H4 + MA34 D1)",
+   "kich_ban_phu": "chặng 1 hồi lên test lại 63.8–64.0 (MA200 H4 + Fibo 0.5 cây đạp) quét long FOMO, chặng 2 về dải EMA34/89 H4 62.0–62.5",
+   "duong_di": [
+    {"huong": "TANG", "dich": 63850},
+    {"huong": "GIAM", "dich": 62200}
+   ],
+   "doi_y": null,
+   "ly_do": [
+    "Lên 64–65 dụ long đúng kịch bản phụ hôm qua: râu 64.706 chạm vùng MA34 D1 + MA200 H4 + Fibo rồi bị đạp",
+    "Cây H4 03:00 đóng 64.049 trên 64 chỉ 49 giá, cây 07:00 đỏ -1.34% đóng ngược về 63.19 → phá vỡ giả, không tính",
+    "D1 test MA34 D1 (64.1) rồi rụng như đã hỏi hôm qua 'test MA34 khung ngày và đi xuống luôn'",
+    "Downtrend: hạn chế long, phe long đông (F&G 27, long Hyperliquid nhiều)",
+    "Phía dưới trống tới dải EMA34/89 H4 62.0–62.8"
+   ],
+   "trich": null
+  },
+  {
+   "khung": "D1",
+   "huong": "GIAM",
+   "do_chac": "thap",
+   "dich": 61300,
+   "han": "5–7 ngày",
+   "han_gio": 144,
+   "vo_hieu_khi": "D1 đóng trên 65.200 (trên dải EMA34 D1 65.1)",
+   "kich_ban_phu": "đi ngang 62–64.7 vài ngày trong dải EMA34 D1 rồi mới về test râu 61.3",
+   "duong_di": null,
+   "doi_y": null,
+   "ly_do": [
+    "D1 đang trong dải EMA34 D1, bị đạp ở đường giữa 64.1; EMA34 D1 còn dốc xuống",
+    "D1 vẫn dưới EMA89 68.8 và EMA200 75.6",
+    "Râu D1 06/07 xuống 61.318 dài 3.7% chưa test lại, trùng Fibo 0.382 D1 61.43"
+   ],
+   "trich": null
+  },
+  {
+   "khung": "W1",
+   "huong": "PHAN_VAN",
+   "do_chac": "thap",
+   "dich": null,
+   "han": "chờ nến tuần đóng",
+   "han_gio": null,
+   "vo_hieu_khi": "nến tuần đóng trên 65.800 thì hồi tiếp 68–69; nến tuần đóng dưới 59.500 thì gãy về 54",
+   "kich_ban_phu": "nến tuần xanh sau tuần gãy có thể tạo hai đáy tuần 57.8–58.1, lòng vòng 58–65 trước khi gãy tiếp",
+   "duong_di": null,
+   "doi_y": null,
+   "ly_do": [
+    "Tuần trước xanh nhấn chìm, phân kỳ RSI tuần → short khung tuần rất rén",
+    "Nhưng tuần vẫn dưới EMA34/89/200 tuần, xu hướng lớn vẫn giảm",
+    "Giá 63.2 nằm giữa hai mốc tuần 59.5 và 65.8, chưa đóng ra khỏi"
+   ],
+   "trich": null
+  }
+ ],
+ "vung_gia": {
+  "khang_cu": [63950, 64100, 64700, 65200, 65700],
+  "ho_tro": [62600, 62100, 61400, 61300]
+ },
+ "lenh": [
+  {
+   "chieu": "SHORT",
+   "loai": "limit",
+   "vao": 63950,
+   "tp": [62450, 61450],
+   "sl": 64850,
+   "trang_thai": "de_xuat_moi"
+  }
+ ],
+ "hanh_dong": "dung_ngoai_cho_entry",
+ "giu_view": true,
+ "ly_do_doi_view": "Giữ view giảm từ 06/07. Cây H4 03:00 đóng 64.049 qua mốc 64 nhưng chỉ 1 cây, sát mốc, râu quét 64.7 rồi cây sau đạp ngược đóng 63.19 → phá vỡ giả, không đổi. Đích 62–62.9 hôm qua đã chạm (61.3) rồi vòng lên 64–65 đúng kịch bản phụ; giờ quay lại chặng giảm.",
+ "rau": {
+  "tren": "64.706 (H4 07/07 03:00, quét SL phe short trên 64 rồi rút)",
+  "duoi": "61.318 (H4 06/07 19:00, râu D1 06/07 dài 3.7%)",
+  "test_lai": "Râu trên 64.7 KHÔNG — vừa quét xong, cây sau đỏ đạp ngược, chặng hồi chỉ lên 63.8–64.0 test MA200 H4 (5.3). Râu dưới 61.3 CÓ ở chặng sau — râu dài D1 chưa test (R1) + trùng Fibo 0.382 D1 61.43 và mốc 61K (R2)."
+ },
+ "vung_on": [
+  {
+   "loai": "SHORT",
+   "khoang": [63750, 64300],
+   "ly_do": [
+    "EMA200 H4 63.95 (H4)",
+    "Đường giữa EMA34 D1 64.09 (D1)",
+    "Fibo 0.382–0.618 cây đạp 64.706 → 63.158 = 63.75–64.11 (H4)",
+    "Mốc 64 vừa phá giả, thân H4 64.05 (H4)"
+   ]
+  },
+  {
+   "loai": "LONG",
+   "khoang": [61900, 62600],
+   "ly_do": [
+    "Dải EMA34 H4 61.96–62.78 + EMA89 H4 62.07 (H4)",
+    "Fibo 0.618 nhịp tăng 61.318 → 64.706 = 62.61 (H4)",
+    "Fibo 0.5 sóng giảm 30 ngày 62.55 (D1) + số 62 đã nêu",
+    "Chỉ quan sát, ngược xu hướng — vol nhỏ nếu có tín hiệu"
+   ]
+  }
+ ],
+ "pha_vo_gia": "Cú vượt 64K lúc 3h sáng là PHÁ VỠ GIẢ: G2 mới 1 cây H4 đóng trên, chỉ hơn mốc 49 giá; G4 râu quét SL phe short lên 64.7 rồi rút; cây H4 kế tiếp đỏ -1.34% đóng ngược về 63.19, không giữ được backtest. View giữ như hôm qua. Giá 63.19 ở giữa vùng short 63.75–64.3 và vùng long 61.9–62.6 → KHÔNG VÀO GIỮA.",
+ "loi_binh": "Hôm nay thứ Ba anh em. Hôm qua mình nói chiều tối nó vòng lên 64–65 dụ long, thì đêm qua nó quét lên 64.7 rồi đấy, cây H4 đóng trên 64 có 49 giá rồi cây sau đạp xuống luôn, cây này là cây dụ long thôi. MA34 khung ngày test rồi rụng, downtrend thì hạn chế long, mình chờ nó hồi lên 63.9–64 test lại MA200 H4 rồi short, TP non 62.4 rồi 61.4. View sai khi H4 đóng trên 64.75, còn chưa thì cứ chờ. Thà rớt nước miếng còn hơn lau nước mắt."
+}

@@ -1,0 +1,216 @@
+[
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[0].trich",
+  "trich": "Hôm nay là ngày thứ hai quá là hợp lý để ngày hôm nay nó tăng lên. Tối nay đi vào phiên Mỹ ... nó có những pha quét lên trên khoảng 75.000 hoặc là 76.000 sau đó rồi nó mới gãy xuống.",
+  "giay": 1634,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=cgTktZyPPt4&t=1634s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[1].trich",
+  "trich": "Khung ngày có mô hình vai đầu vai rất rõ, xu hướng khung ngày vẫn là giảm.",
+  "giay": 1274,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=cgTktZyPPt4&t=1274s",
+  "anh": [
+   {
+    "file": "so_tay/khung/cgTktZyPPt4_002141.jpg",
+    "giay": 1301,
+    "lech": 27
+   }
+  ]
+ },
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[2].trich",
+  "trich": "Khung tuần cũng xấu, khung tháng cũng xấu. Fibo này, nhịp này hoàn toàn có thể đấm về 71.",
+  "giay": 1221,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=cgTktZyPPt4&t=1221s",
+  "anh": [
+   {
+    "file": "so_tay/khung/cgTktZyPPt4_002141.jpg",
+    "giay": 1301,
+    "lech": 80
+   }
+  ]
+ },
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[3].trich",
+  "trich": "Mong rằng thị trường tiếp tục những nhịp gãy, nhịp giảm về dưới 50.000 để chúng ta hoàn tất mục tiêu gom hàng Bitcoin.",
+  "giay": 1091,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=cgTktZyPPt4&t=1091s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "lenh[0].trich",
+  "trich": "Điều kiện đẹp nhất đó là phải chờ nến H4 có tín hiệu bán ... chúng ta ăn được từ 76 về đến 73 này cũng ngon mà nó an toàn.",
+  "giay": 1723,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=cgTktZyPPt4&t=1723s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[0].trich",
+  "trich": "Nó vẫn đi lòng vòng trong vùng từ 7400 về đến khoảng 73.00 sâu nhất",
+  "giay": 149,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=cgTktZyPPt4&t=149s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[1].trich",
+  "trich": "Cây nến tháng năm đóng cực kỳ chuẩn khi có râu nến quét lên đến vùng Fibo 83.000",
+  "giay": 1030,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=cgTktZyPPt4&t=1030s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[2].trich",
+  "trich": "Mong rằng thị trường tiếp tục những nhịp gãy, nhịp giảm về dưới 50.000 để chúng ta hoàn tất mục tiêu gom hàng Bitcoin",
+  "giay": 1091,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=cgTktZyPPt4&t=1091s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[3].trich",
+  "trich": "Thực tế mình nhìn cửa lên 84 này vẫn có cửa nhưng có lên được hay không thì thuộc về thị trường",
+  "giay": 1148,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=cgTktZyPPt4&t=1148s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[4].trich",
+  "trich": "Fibo này, nhịp này hoàn toàn có thể đấm về 71. Mình đang nói trên khung tuần",
+  "giay": 1224,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=cgTktZyPPt4&t=1224s",
+  "anh": [
+   {
+    "file": "so_tay/khung/cgTktZyPPt4_002141.jpg",
+    "giay": 1301,
+    "lech": 77
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[5].trich",
+  "trich": "hồi lên để test lại điểm cross của hai đường MA vàng và xanh... Fibo đâu đó khoảng 75.00, hợp lệ ở Fibo 0.5 đến 618... neckline... một gap nhỏ ở vùng 75.000",
+  "giay": 1314,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=cgTktZyPPt4&t=1314s",
+  "anh": [
+   {
+    "file": "so_tay/khung/cgTktZyPPt4_002141.jpg",
+    "giay": 1301,
+    "lech": -13
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[6].trich",
+  "trich": "Nhịp lúc sáng 9:00 sáng nay nó về test đúng vùng 73.00, sau đó kéo lên cũng đúng ngay vùng Fibo 0.618 và Fibo 0.5",
+  "giay": 1446,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=cgTktZyPPt4&t=1446s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[7].trich",
+  "trich": "Nhịp hồi này dùng Fibo mở rộng xem dẫn đến đâu... Có hai vùng: một là 75.00, hai là 76.00",
+  "giay": 1479,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=cgTktZyPPt4&t=1479s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[8].trich",
+  "trich": "Căng nhất nó quét râu nến chạm vùng 7600 để quét stop loss tất cả những lệnh short ở đây... Có một vùng ở 76.000",
+  "giay": 1498,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=cgTktZyPPt4&t=1498s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[9].trich",
+  "trich": "đường MA200 này nó sẽ kéo về đâu đó khoảng quanh vùng 72.600",
+  "giay": 1747,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=cgTktZyPPt4&t=1747s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[10].trich",
+  "trich": "chúng ta có thể vào luôn được ở entry 76... ăn được từ 76 về đến 73",
+  "giay": 1776,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=cgTktZyPPt4&t=1776s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[11].trich",
+  "trich": "chúng ta ăn được từ 76 về đến 73 này cũng ngon mà nó an toàn",
+  "giay": 1781,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=cgTktZyPPt4&t=1781s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[12].trich",
+  "trich": "trên này chúng ta vẫn còn những vùng gap cao. Ví dụ vùng 79 này... nó quét lên 79",
+  "giay": 1812,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=cgTktZyPPt4&t=1812s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[13].trich",
+  "trich": "Mua chia ra cho đến lúc mà Bitcoin nó về 40.000 là được",
+  "giay": 2770,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=cgTktZyPPt4&t=2770s",
+  "anh": []
+ }
+]

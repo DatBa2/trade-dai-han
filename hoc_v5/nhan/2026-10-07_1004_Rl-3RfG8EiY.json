@@ -1,0 +1,495 @@
+{
+  "buoi": "2026-10-07_1004_Rl-3RfG8EiY",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/lam_sach/2026-10-07_1004_Rl-3RfG8EiY.md",
+  "gia_btc_luc_noi": 84000,
+  "dau_buoi": {
+    "thien_huong_h4": "GIAM",
+    "gio": null,
+    "trich": "Sell ở đây có lãi thì chốt được rồi. Tất nhiên mình nghĩ nhịp này thị trường còn đi tiếp xuống dưới, nhưng đánh sell ngược xu hướng thì có lãi là chốt được rồi."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "GIAM",
+    "do_chac": "vua",
+    "gio": null,
+    "trich": "Kết quả đã đúng: đóng trên 84.050 và dưới 84.300, vẫn nằm trong khoảng đó... Tất nhiên nến này vẫn là nến bán rất mạnh và lực bán vẫn rất trâu bò. Nhưng mình đoán nó sẽ test lên khoảng 84.00 [?], cứ chờ thôi. Lên trên này lại tìm điểm xem tình hình rồi tính tiếp."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {
+    "huong": "TANG",
+    "dich": null
+  },
+  "duong_di": [
+    {
+      "huong": "GIAM",
+      "dich": [
+        80000,
+        82000
+      ]
+    }
+  ],
+  "dich_chinh": [
+    80000,
+    82000
+  ],
+  "han_gio": null,
+  "vo_hieu": null,
+  "lenh": [],
+  "hanh_dong": "dung_ngoai_cho_entry",
+  "khung_lon": {
+    "D1": "GIAM",
+    "W1": null
+  },
+  "pha_vo_gia": "Nến H4 cố đóng trên 84 / MA89 H4 có thể là để 'dụ lượng FOMO nhảy vào rồi sau đó mới điều chỉnh tiếp trong phiên chiều và phiên tối'.",
+  "trich_them": [
+    {
+      "gio": null,
+      "cau": "Trendline H4 này đã thủng mất rồi. Thủng thì chờ nó hồi lên, nhưng để hồi lên được 8400 cũng hơi căng... Nhịp này tiếp tục có xác suất về những vùng lúc nãy mình nói. Bây giờ 80 đến 82.000 vẫn là vùng đẹp, Fibo gãy tất cả."
+    },
+    {
+      "gio": null,
+      "cau": "Cho nên ngắn hạn có khả năng thị trường hồi lên đây. Trước đó nó làm hỗ trợ thì bây giờ có xác suất đóng vai trò kháng cự. Ngắn hạn có thể nó lên đây, và maybe lên đây mình sẽ tìm entry để đánh xuống, nếu thị trường cho phép."
+    },
+    {
+      "gio": null,
+      "cau": "Có thể nó đóng 84 để dụ lượng FOMO nhảy vào rồi sau đó mới điều chỉnh tiếp trong phiên chiều và phiên tối. Nhưng trước mắt ở vùng này thì hạn chế sell FOMO đã, vì khả năng nó đóng 84 rất cao."
+    },
+    {
+      "gio": null,
+      "cau": "Hỗ trợ của khung ngày là vùng 83. MA khung ngày là 81.00 [?], mình lấy giá tròn 82 cũng được... Đẹp nhất là nó về lại khoảng 76.000: MA89 trên khung ngày là vùng hỗ trợ cứng."
+    },
+    {
+      "gio": null,
+      "cau": "Trendline và hỗ trợ cũng đã gãy rồi... nên xác suất rơi về những vùng thấp hơn vẫn có."
+    },
+    {
+      "gio": null,
+      "cau": "Tối qua mình cho anh em bay scalping một phát, chốt ở 8600 luôn."
+    },
+    {
+      "gio": null,
+      "cau": "Hàng thì gom được ít, trade thì từ hôm qua đến giờ chưa có lệnh nào."
+    },
+    {
+      "gio": null,
+      "cau": "Tuần này chưa có 7x đâu, đừng vội; vừa thấy 84 đã đòi 7x, chặng đường từ đây về đầu bảy còn xa lắm."
+    },
+    {
+      "gio": null,
+      "cau": "Chốt lại từ đây đến cuối tuần thì không chốt được... Việc của chúng ta bây giờ là chờ thôi."
+    }
+  ],
+  "kho": "File không có mốc giờ. Hướng chính rõ (GIAM về 80–82), nhưng chặng hồi kế tiếp chỉ nêu là test lên vùng cản '84.00 [?]' / MA600 khung 30 phút — số trong phụ đề bị lỗi nên để dich null. Lệnh scalp LONG đêm trước đã chốt ở 86.000 (không rõ entry) nên không ghi vào 'lenh'; kế hoạch sell khi hồi chỉ là 'maybe', chưa có giá vào. Không có câu vô hiệu rõ ràng.",
+  "nhin_lai_view_truoc": {
+    "view_truoc": "Hôm trước: sideway 85-87, đóng H4 dưới 85 mới có tín hiệu rủi ro (về 83-84, thủng 82 về 81); khung ngày bị chặn 87, H1 đã xuất hiện lực bán",
+    "giu_hay_doi": "giu",
+    "vi_sao": "Kịch bản xấu đã diễn ra: gãy 85 và trendline chéo, giá về 83-84; ông nhắc lại đã cảnh báo khung ngày bị chặn 87 và nến H1 hôm qua có lực bán, lực tăng yếu dần -> tiếp tục view giảm về 80-82.",
+    "gio": "[00:10:39]",
+    "trich": "Khung ngày thì từ hôm trước mình đã cảnh báo rồi: nó vẫn bị chặn ở vùng 87. Hôm qua H4 vẫn cố kéo lên, nhưng trong H1 hôm qua mình đã nói là các cây nến H1 bắt đầu xuất hiện lực bán xuống. Mặc dù nó vẫn mò lên, nhưng lực tăng của những ngày trước yếu dần yếu dần."
+  },
+  "trendline": [
+    {
+      "khung": "H4",
+      "loai": "ho_tro_tang",
+      "noi_tu": "Trendline hỗ trợ chéo của mô hình tam giác đáy cao dần H4 (vẽ hôm trước); không nêu giá điểm neo",
+      "diem_neo": [
+        {
+          "ngay": null,
+          "gia": null
+        }
+      ],
+      "gia_duong_luc_noi": null,
+      "trang_thai": "vua_pha",
+      "dieu_kien_pha": "Đã thủng cùng với gãy vùng 85 (giá về 83-84)",
+      "ket_luan_huong": "Thủng thì chờ hồi lên (hồi được 84.000 cũng hơi căng), sau đó xác suất về 80-82.000; phá mô hình chỉ là phá cấu trúc nhịp tăng H4, không tự nó chứng minh lực mua yếu",
+      "gio": "[00:19:16]",
+      "trich": "Lúc nãy anh em hỏi đây cái trendline H4 này nó thủng mất rồi đó. Thủng mất rồi. ... Thủng thì chờ nó hồi lên nhưng mà để mà hồi lên được 8400 thì cũng hơi căng. ... Vậy thôi là nhịp này nó sẽ tiếp tục có xác suất về những cái vùng lúc nãy mình nói. ... 80 đến 82.000 vẫn là cái vùng đẹp."
+    }
+  ],
+  "nen_volume": [
+    {
+      "khung": "D1",
+      "nen": "Hai đỉnh D1, bị chặn ở vùng 87",
+      "volume": null,
+      "ket_luan": "Đã cảnh báo từ hôm trước; khung ngày đảo chiều",
+      "gio": "[00:10:39]",
+      "trich": "Hai đỉnh nhá. Khung ngày thì từ hôm trước mình đã cảnh báo rồi: nó vẫn bị chặn ở vùng 87."
+    },
+    {
+      "khung": "H1",
+      "nen": "Nến H1 hôm qua xuất hiện lực bán, giá vẫn mò lên nhưng lực tăng yếu dần",
+      "volume": null,
+      "ket_luan": "Từ H1 đã cảnh báo nhịp điều chỉnh; sóng khung lớn hình thành trong khung nhỏ",
+      "gio": "[00:10:58]",
+      "trich": "trong H1 hôm qua mình đã nói là các cây nến H1 bắt đầu xuất hiện lực bán xuống. Mặc dù nó vẫn mò lên, nhưng lực tăng của những ngày trước yếu dần yếu dần."
+    },
+    {
+      "khung": "H1",
+      "nen": "Tối qua còn quét lên 86.600 rồi gãy khoảng 4.000 giá (4-5%) tới sáng",
+      "volume": null,
+      "ket_luan": "Có pha điều chỉnh như sáng nay không dễ ăn",
+      "gio": "[00:11:44]",
+      "trich": "Tối qua thị trường còn có pha lên quét, nó vẫn cố quét tận 86.600. Từ đêm qua đến bây giờ nó gãy khoảng 4000 giá, chắc khoảng 4-5% của Bitcoin"
+    },
+    {
+      "khung": "H4",
+      "nen": "Nến H4 đang chạy, dự đoán đóng trên 84.000 (MA89, hỗ trợ)",
+      "volume": null,
+      "ket_luan": "Không chắc giữ được; có thể đóng 84 để dụ FOMO rồi điều chỉnh tiếp phiên chiều/tối -> hạn chế sell FOMO",
+      "gio": "[00:12:30]",
+      "trich": "Khoảng 40 phút nữa mình đoán nó sẽ đóng trên 84.000. Vì sao? Vì đây là hỗ trợ nên nó vẫn cố đóng trên 84. ... Có thể nó đóng 84 để dụ lượng FOMO nhảy vào rồi sau đó mới điều chỉnh tiếp trong phiên chiều và phiên tối."
+    },
+    {
+      "khung": "M5",
+      "nen": "Giá test vùng cản nhưng không rút lên nhanh (lực mua mạnh thì một nến 5 phút vút vài trăm giá)",
+      "volume": "lực bán rất lớn, trước đó là lực bán khủng",
+      "ket_luan": "Lực mua yếu; rủi ro rõ hơn là sell; vị thế buy thấy không ổn thì nhảy tàu",
+      "gio": "[00:18:08]",
+      "trich": "nhìn vậy thôi nhưng lực bán ở đây rất lớn, và trước đó là một lực bán khủng. Nếu đoạn này nó không rút lên nhanh nghĩa là lực mua yếu. Bình thường lực mua mạnh thì những cây này nó rút rất lẹ, vút một phát lên vài trăm giá trong một nến 5 phút."
+    },
+    {
+      "khung": "M5",
+      "nen": "Còn 100 giá tới 84.000 mà đi mãi không qua",
+      "volume": "khối lượng thanh lý đỏ nhiều nhưng chỉ là một cây panic sell nhẹ",
+      "ket_luan": "Khối lượng đỏ không tác động quá lớn đến cấu trúc ngắn hạn",
+      "gio": "[00:25:44]",
+      "trich": "Hiện tại mình thấy nó cố lắm rồi nhưng có vẻ không qua nổi vùng này: 84.000 chỉ có 100 giá thôi. ... Khối lượng đỏ này không tác động quá lớn đến cấu trúc ngắn hạn, vì nó vừa là một cây panic sell nhẹ."
+    },
+    {
+      "khung": "M5",
+      "nen": "5 phút phá qua được",
+      "volume": null,
+      "ket_luan": "Chuẩn bị TP1 thêm khoảng 200 giá; nhịp này kéo H4 đóng trên MA89",
+      "gio": "[00:36:56]",
+      "trich": "BTC đang hồi lên khá ở khung 5 phút, phá qua được rồi. Thế này thì chuẩn bị TP thôi; 5 phút phá qua được thì khả năng chuẩn bị TP1 thêm hai trăm giá nữa."
+    },
+    {
+      "khung": "H4",
+      "nen": "H4 đóng trên 84.050 và dưới 84.300 đúng dự đoán",
+      "volume": "vẫn là nến bán rất mạnh, lực bán rất trâu bò",
+      "ket_luan": "Đoán test lên khoảng 84.x rồi tìm điểm tính tiếp",
+      "gio": "[00:57:19]",
+      "trich": "Đóng H4 như này giống những điều đã dự đoán trước. Tất nhiên nến này vẫn là nến bán rất mạnh và lực bán vẫn rất trâu bò. Nhưng mình đoán nó sẽ test lên khoảng 84.00, cứ chờ thôi."
+    },
+    {
+      "khung": "H4",
+      "nen": "Volume profile: vùng 84 có volume lớn (lực mua, thanh khoản mạnh) nên giá đứng lại; phía trên ~85.x có vùng bán volume mạnh",
+      "volume": "volume profile",
+      "ket_luan": "Vùng volume mạnh mà nến rớt qua thì phe bán chiếm ưu thế",
+      "gio": "[00:54:49]",
+      "trich": "Ví dụ vùng 84 này, chúng ta thấy nó đứng đây rõ ràng có volume: vùng này có lực mua mạnh nên nó đứng lại ... Khi vùng này có volume mạnh và cây nến rớt qua thì chứng tỏ phe bán chiếm ưu thế."
+    }
+  ],
+  "cach_lam": [
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "nen",
+      "chi_tiet": "Quan sát phản ứng giá ở khung nhỏ (H1 -> 30m, 15m, 5m, 1m) để nhận diện sớm rủi ro của sóng khung lớn",
+      "ket_qua": "H1 đã cảnh báo nhịp điều chỉnh từ hôm qua",
+      "gio": "[00:11:19]",
+      "trich": "Sóng ở khung lớn được hình thành trong các khung nhỏ. Cho nên khi quan sát phản ứng giá ở các khung nhỏ từ H1 trở xuống 30 phút, 15 phút, 5 phút, 1 phút thì chúng ta nhận diện sớm được những rủi ro có thể xảy ra."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "ema",
+      "chi_tiet": "MA89 H4 ở vùng 84.000",
+      "ket_qua": "Không tin MA89 quá mạnh vì cấu trúc chạy MA trước đó đã chạy xong, MA bắt đầu nhiễu",
+      "gio": "[00:13:13]",
+      "trich": "Vì sao mình không tin MA89 này quá mạnh? Bởi vì cấu trúc chạy MA trước đó nó đã chạy xong mất rồi; những nhịp trước đó đã chạy MA rất đẹp rồi. Tầm này những cái MA này bắt đầu bị nhiễu dần."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "Hỗ trợ/kháng cự chuyển dần từ khung nhỏ lên khung lớn; H4 đã ăn gần hết sóng 60 -> 87",
+      "ket_qua": "Lực H4 yếu đi, thị trường chuyển dịch sang khung ngày -> phải view vùng khung ngày (82-83)",
+      "gio": "[00:14:11]",
+      "trich": "Theo cá nhân mình đánh giá, H4 đóng vai trò rất quan trọng trong toàn bộ nhịp sóng tăng từ 60 cho đến 87.000 vừa rồi, nó gần như đã ăn hết nhịp sóng rồi. Cho nên càng về sau thì lực của H4 càng yếu đi, thị trường sẽ có xu hướng chuyển dịch qua khung tiếp theo là khung ngày."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "ema",
+      "chi_tiet": "MA khung ngày ~81.x (phụ đề '81.00', làm tròn 82) đã bị dính một lần; MA89 khung ngày ~76.000",
+      "ket_qua": "Hỗ trợ ngày 82, ít nhất 83; về đây có thể khựng rồi đi tiếp; đẹp nhất về 76.000 (MA89 D1 + cung cầu)",
+      "gio": "[00:14:54]",
+      "trich": "Hỗ trợ của khung ngày là vùng 83. MA khung ngày là 81.00, mình lấy giá tròn 82 cũng được. ... Đẹp nhất là nó về lại khoảng 76.000: MA89 trên khung ngày là vùng hỗ trợ cứng; đồng thời cũng là vùng hỗ trợ cung cầu."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "ema",
+      "chi_tiet": "MA600 khung 30 phút: từ sóng tăng 6x rất hiếm khi giá băng qua (chỉ 1 lần đâm về 76.000); hôm nay bị thủng; hồi lên trùng MA34 khung 5 phút",
+      "ket_qua": "Thủng = dấu hiệu rủi ro; hồi lên đây có xác suất thành kháng cự -> maybe tìm entry đánh xuống nếu cấu trúc/nến 5 phút đẹp",
+      "gio": "[00:16:05]",
+      "trich": "Cho đến ngày hôm nay mới thấy lại đường MA này bị thủng, và một khi nó bị thủng thì đây cũng là dấu hiệu rủi ro. Cho nên ngắn hạn có khả năng thị trường hồi lên đây. Trước đó nó làm hỗ trợ thì bây giờ có xác suất đóng vai trò kháng cự."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "nen",
+      "chi_tiet": "Khung 5 phút test vùng cản 84.300 không qua, không rút nhanh",
+      "ket_qua": "Lực mua yếu, lực bán nhảy vào nhiều; quan sát thêm, giằng co ở khung nhỏ",
+      "gio": "[00:18:39]",
+      "trich": "Nhưng ở đây nó test mà có vẻ không qua được. Đoạn này mình quan sát thêm, và nếu có vị thế bay mà thấy không ổn thì phải nhảy tàu."
+    },
+    {
+      "hanh_dong": "do",
+      "cong_cu": "fibo_thoai_lui",
+      "chi_tiet": "Vùng đích 80-82.000 (hỗ trợ ngày + Fibo)",
+      "ket_qua": "80-82 vẫn là vùng đẹp",
+      "gio": "[00:19:46]",
+      "trich": "Bây giờ 80 đến 82.000 vẫn là vùng đẹp, Fibo gãy tất cả."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "BTC.D kéo lên; nhịp lên 86 tối qua chỉ có BTC tăng, altcoin không tăng; USDT.D confirm xu hướng đi lên",
+      "ket_qua": "Dòng tiền suy yếu -> xu hướng tăng không bền, y như rằng bị đấm",
+      "gio": "[00:21:09]",
+      "trich": "Nhịp tăng tối qua lúc nó lên 8600 chỉ có mỗi Bitcoin tăng. Altcoin không tăng thì dòng tiền không chạy vào. USDT.D thì confirm là xu hướng đi lên luôn. Mỗi lần thị trường tăng, Bitcoin tăng mà altcoin không tăng là y như rằng sau đó bị đấm"
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "Chỉ số tâm lý vẫn 71 (nhịp gãy sau 7:00 sáng, sau nến ngày)",
+      "ket_qua": "Mai chắc về đầu 6; chỉ số còn cao/xanh thì thị trường còn khổ; muốn thấy gãy về ~65",
+      "gio": "[00:22:02]",
+      "trich": "Chỉ số này có gãy về khoảng 65 không? Nếu chưa gãy thì còn mệt. Đây vẫn là 71. ... Ngày mai mình tin chắc chỉ số này sẽ về đầu sáu."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "heatmap",
+      "chi_tiet": "Thanh lý 4 giờ: 400 triệu long, 14 triệu short",
+      "ket_qua": "400-500 triệu chưa ăn thua so với lượng FOMO vừa rồi",
+      "gio": "[00:23:26]",
+      "trich": "Liquid: 4 giờ qua 400 triệu long và 14 triệu short. Nhưng 400-500 triệu này ăn thua gì với lực lượng FOMO vừa rồi, tầm này chưa ăn thua."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "hyblock",
+      "chi_tiet": "Heatmap treo các vùng khiến người xem ấn long; xem khung lớn ở Hyblock",
+      "ket_qua": "Heatmap dễ lừa nhất; đừng quên vùng thanh khoản phía dưới vẫn còn",
+      "gio": "[00:24:08]",
+      "trich": "Heatmap bây giờ mới là cái dễ lừa mọi người nhất. Nó treo mấy cái vùng này là bắt đầu long; thấy mấy vùng này là cứ ấn long. Nhưng đừng quên những vùng dưới nó vẫn còn. ... còn mình xem ở bên Hyblock cũng được."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "heatmap",
+      "chi_tiet": "Một rừng lệnh bắt đáy (SL ~82.x, phụ đề '82.00'); team short mở quanh 85, stop phía trên (phụ đề '86.00'/87.000)",
+      "ket_qua": "Bắt đáy sớm còn nhiều; team short đang lãi ~1.500 giá sẽ chốt nên thanh khoản short 87.000 không đánh giá cao",
+      "gio": "[00:26:10]",
+      "trich": "những người vừa nhảy vào bắt đáy sẽ đặt SL 82.00; vẫn là một đống khá dày ở đây. ... Cho nên vùng Liquid short ở 87.000, mình không đánh giá cao."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "nen",
+      "chi_tiet": "Dự đoán giá đóng nến H4 trên MA89: trong khoảng 84.050-84.300 (tập quan sát)",
+      "ket_qua": "Đúng: H4 đóng trong khoảng đó",
+      "gio": "[00:37:36]",
+      "trich": "Mình dự đoán nó sẽ đóng H4 ở vùng giá cao hơn 84.050 và thấp hơn 84.300. 20 phút nữa sẽ có kết quả."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "volume",
+      "chi_tiet": "Đo lực bằng khối lượng: ETF, volume mua bán, thanh lý, open interest, option, volume profile - không nhìn chart để nói lực",
+      "ket_qua": "Phá mô hình tam giác H4 chỉ là phá cấu trúc, chưa đủ cơ sở nói lực mua yếu; nhìn chart nói lực thì hay bị fake out",
+      "gio": "[00:52:31]",
+      "trich": "Vì xét lực thì phải có đơn vị tính lực. Trong thị trường này lực phải là volume, khối lượng. ... Đó là các giá trị để đo lực; chứ chúng ta không thể nhìn vào chart rồi nói đó là lực. Chính vì nhìn chart để nói là lực nên hay bị fake out."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "heatmap",
+      "chi_tiet": "Liquid khung lớn khoảng 3-3,6 triệu quanh 57.000",
+      "ket_qua": "Nếu quét về đây là vùng gom spot đẹp, tùy cấu trúc",
+      "gio": "[00:41:33]",
+      "trich": "Anh em phải nhớ mình vẫn follow một vùng liquid ở trên 57 này: khoảng 3 triệu, 3,6 triệu quanh 57.000. Mình nghĩ nếu nó quét về đây là một vùng gom đẹp, tùy theo cấu trúc thị trường."
+    }
+  ],
+  "vung_nguoi_do": [
+    {
+      "loai": "dich",
+      "tu": 40000,
+      "den": 40000,
+      "gio": "[00:06:11]",
+      "trich": "View của mình vẫn thế: 40.000 thì bây giờ hơi xa nên tạm cất cái đó đi, tính sau."
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 87000,
+      "den": 87000,
+      "gio": "[00:10:43]",
+      "trich": "Khung ngày thì từ hôm trước mình đã cảnh báo rồi: nó vẫn bị chặn ở vùng 87."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 84000,
+      "den": 84000,
+      "gio": "[00:12:14]",
+      "trich": "Ở H4, anh em thấy có đường MA89 ở vùng 84.000. ... Vì đây là hỗ trợ nên nó vẫn cố đóng trên 84."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 83000,
+      "den": 83000,
+      "gio": "[00:14:50]",
+      "trich": "Hỗ trợ của khung ngày là vùng 83."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 82000,
+      "den": 82000,
+      "gio": "[00:14:59]",
+      "trich": "MA khung ngày là 81.00, mình lấy giá tròn 82 cũng được. Hỗ trợ khung ngày là 82, ít nhất là 83.000."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 76000,
+      "den": 76000,
+      "gio": "[00:15:14]",
+      "trich": "Đẹp nhất là nó về lại khoảng 76.000: MA89 trên khung ngày là vùng hỗ trợ cứng; đồng thời cũng là vùng hỗ trợ cung cầu."
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 84300,
+      "den": 84300,
+      "gio": "[00:17:47]",
+      "trich": "Vùng cản là 84.00 3. Anh em trong nhóm nhìn lại cái TP lúc nãy mình cho cũng nằm ngay vùng này. Đây sẽ là vùng quan sát."
+    },
+    {
+      "loai": "dich",
+      "tu": 80000,
+      "den": 82000,
+      "gio": "[00:19:46]",
+      "trich": "Nhịp này tiếp tục có xác suất về những vùng lúc nãy mình nói. Bây giờ 80 đến 82.000 vẫn là vùng đẹp, Fibo gãy tất cả."
+    },
+    {
+      "loai": "vao",
+      "tu": 57000,
+      "den": 59000,
+      "gio": "[00:41:27]",
+      "trich": "Kế hoạch của mình là 5x thì mua lại. ... Nói chung chung 59, 57 là cũng ngon rồi."
+    }
+  ],
+  "view_trung_han": [
+    {
+      "khung": "D1",
+      "huong": "GIAM",
+      "dich": [
+        80000,
+        82000
+      ],
+      "han": "chưa view nổi đến cuối tuần; tuần này chưa có 7x",
+      "mat_view_khi": null,
+      "gio": "[00:19:46]",
+      "trich": "Trendline và hỗ trợ cũng đã gãy rồi, và như mình giải thích trước đó vì sao những vùng hỗ trợ trên H4 mình không đánh giá cao, nên xác suất rơi về những vùng thấp hơn vẫn có. (và: Bây giờ 80 đến 82.000 vẫn là vùng đẹp)"
+    },
+    {
+      "khung": "D1",
+      "huong": "GIAM",
+      "dich": 76000,
+      "han": null,
+      "mat_view_khi": null,
+      "gio": "[00:15:14]",
+      "trich": "Đẹp nhất là nó về lại khoảng 76.000: MA89 trên khung ngày là vùng hỗ trợ cứng ... Nhưng khi nó về đến đây thì thị trường lại có một cấu trúc khác"
+    },
+    {
+      "khung": "M1",
+      "huong": "GIAM",
+      "dich": 40000,
+      "han": "xa, tạm cất, tính sau; kế hoạch gom spot từ 5x, mạnh nhất đầu 4x",
+      "mat_view_khi": null,
+      "gio": "[00:06:11]",
+      "trich": "View của mình vẫn thế: 40.000 thì bây giờ hơi xa nên tạm cất cái đó đi, tính sau."
+    }
+  ],
+  "vung_tranh": [
+    {
+      "tu": null,
+      "den": null,
+      "vi_sao": "Không vội đòi 7x tuần này",
+      "gio": "[00:06:52]",
+      "trich": "Tuần này chưa có 7x đâu, đừng vội; vừa thấy 84 đã đòi 7x, chặng đường từ đây về đầu bảy còn xa lắm"
+    },
+    {
+      "tu": 84000,
+      "den": 84000,
+      "vi_sao": "Hạn chế sell FOMO ở vùng 84 vì khả năng H4 đóng trên 84 rất cao",
+      "gio": "[00:13:02]",
+      "trich": "Nhưng trước mắt ở vùng này thì hạn chế sell FOMO đã, vì khả năng nó đóng 84 rất cao."
+    },
+    {
+      "tu": null,
+      "den": null,
+      "vi_sao": "Bắt đáy/đánh lên sớm thì mệt vì lực bán còn rất khỏe",
+      "gio": "[00:20:13]",
+      "trich": "Còn lại ở đây lực bán vẫn đang rất khỏe, bắt sớm thì hơi mệt."
+    },
+    {
+      "tu": null,
+      "den": null,
+      "vi_sao": "Heatmap treo vùng làm người ta ấn long - dễ lừa",
+      "gio": "[00:24:13]",
+      "trich": "Heatmap bây giờ mới là cái dễ lừa mọi người nhất."
+    },
+    {
+      "tu": null,
+      "den": null,
+      "vi_sao": "Đêm nay có tin FOMC (1:00 sáng): đừng cầm lệnh qua đêm",
+      "gio": "[00:30:10]",
+      "trich": "Cho nên đêm nay tốt nhất đừng cầm lệnh qua đêm cho an toàn."
+    },
+    {
+      "tu": null,
+      "den": null,
+      "vi_sao": "Giá đứng một chỗ thì khó chơi",
+      "gio": "[00:30:20]",
+      "trich": "Kéo lên thì dễ chơi chứ nó cứ đứng ở đây thì hơi khó."
+    }
+  ],
+  "giu_dong": [
+    {
+      "lenh": "Scalp (bay) tối qua",
+      "quyet_dinh": "dong",
+      "khi_nao": "Chốt ở 86.000 ngay vùng đỉnh rồi đi ngủ, không follow tiếp",
+      "gio": "[00:07:20]",
+      "trich": "Tối qua mình cho anh em bay scalping một phát, chốt ở 8600 luôn. ... Cây này TP xong là đi ngủ luôn."
+    },
+    {
+      "lenh": "Sell của người xem vào từ 86.000 sau khi TP",
+      "quyet_dinh": "dong",
+      "khi_nao": "Có lãi thì chốt vì đánh sell ngược xu hướng (dù nghĩ thị trường còn đi tiếp xuống)",
+      "gio": "[00:08:25]",
+      "trich": "Sell ở đây có lãi thì chốt được rồi. Tất nhiên mình nghĩ nhịp này thị trường còn đi tiếp xuống dưới, nhưng đánh sell ngược xu hướng thì có lãi là chốt được rồi."
+    },
+    {
+      "lenh": "Vị thế mua (bay) ở vùng 84",
+      "quyet_dinh": "dong",
+      "khi_nao": "Thấy không ổn (5 phút không rút lên nhanh, lực bán lớn) thì nhảy tàu",
+      "gio": "[00:18:43]",
+      "trich": "Đoạn này mình quan sát thêm, và nếu có vị thế bay mà thấy không ổn thì phải nhảy tàu. Bây giờ rủi ro rõ hơn là sell."
+    },
+    {
+      "lenh": "Lỡ bắt sóng nhỏ đánh lên",
+      "quyet_dinh": "dong",
+      "khi_nao": "Nên TP hoặc kéo SL về entry cho an toàn",
+      "gio": "[00:20:03]",
+      "trich": "Cho nên view hiện tại: nếu anh em lỡ bắt sóng nhỏ, lỡ bắt đánh lên thì nên TP hoặc kéo SL về entry cho an toàn."
+    },
+    {
+      "lenh": "Lệnh nhóm có TP ở vùng ~84.300 (cho lúc sáng)",
+      "quyet_dinh": "chot_mot_phan",
+      "khi_nao": "5 phút phá qua -> chuẩn bị TP1 thêm khoảng 200 giá",
+      "gio": "[00:37:05]",
+      "trich": "5 phút phá qua được thì khả năng chuẩn bị TP1 thêm hai trăm giá nữa."
+    }
+  ],
+  "tin_tuc": [
+    {
+      "su_kien": "FOMC (tin họp/meeting)",
+      "thoi_diem": "1:00 sáng 8/10 giờ VN (18:00 GMT 7/10); ban đầu nhớ nhầm 8 giờ",
+      "nguon": "lich_kinh_te",
+      "so_lieu": null,
+      "anh_huong_view": "Không phải công bố quan trọng nhưng tuần này thị trường đói tin nên có thể lấy cớ; đêm nay đừng cầm lệnh qua đêm",
+      "gio": "[00:29:35]",
+      "trich": "Nói chung là đêm khuya hôm nay, rạng sáng mai có tin. Tất nhiên đây chẳng qua là tin họp thôi, không phải công bố gì quá quan trọng, nhưng tuần này thị trường đang đói tin nên khả năng nó vẫn follow theo tin này để lấy cớ."
+    }
+  ],
+  "nghi_van_nhan_v2": "Nhỏ (không rõ sai): chang_ke_tiep ghi TANG nhưng duong_di chỉ có một chặng GIAM 80-82, thiếu chặng hồi trước đó; trong buổi ông nói rõ có chặng hồi lên vùng MA600 M30/84.300 rồi mới tìm entry đánh xuống - [00:17:12] 'Cho nên hiện tại thì có khả năng trong ngắn hạn thị trường nó sẽ hồi lên đây ... maybe lên đây mình sẽ tìm entry để mình đánh xuống'."
+}

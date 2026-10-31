@@ -1,0 +1,92 @@
+{
+  "buoi": "2026-07-14_gpyn9kVPpn4",
+  "ngay": "2026-07-14",
+  "gio_vn": "10:00",
+  "gia_btc_luc_noi": 62000,
+  "nhan_dinh": [
+    {
+      "khung": "H4",
+      "huong": "GIAM",
+      "do_chac": "thap",
+      "dich": [59000, 61000],
+      "han": "trong ngày; trước mắt hồi lên 63.000 rồi mới giảm",
+      "han_gio": 24,
+      "vo_hieu_khi": "SL trên 64.000 (hoặc 63.000 tùy nến); H4 giữ hỗ trợ 61.000 và bật lên thì còn cấu trúc sóng tăng",
+      "kich_ban_phu": "đẹp nhất để phục hồi: về Fibo 618 ~60.000, trụ rồi bật lên tạo vai đầu vai ngược, lên trên 70 (xác suất thấp); đóng H4 trên 63.000 sau CPI tốt thì phục hồi",
+      "ly_do": [
+        "D1 nến thứ hai rất đỏ bán ở MA, có khả năng hai đỉnh; phe bán vẫn áp đảo",
+        "thủng 61.000 neckline thì xác suất rất cao về test 59-58 rồi sideway tái tích lũy",
+        "ngắn hạn H4 đóng xanh, dễ hồi 63.000 (gặp cản, vùng liquid) nên chia vốn short từ giá hiện tại lên 63.000",
+        "downtrend, không ưu tiên long"
+      ],
+      "trich": "Mình sẽ phân bổ vốn ra từ đây lên 63. ... Chờ lên đó tìm điểm short thôi, hoặc DCA chia nhỏ volume ra từ giờ lên đến 63 thôi.",
+      "doi_y": null,
+      "duong_di": [
+        {"huong": "TANG", "dich": 63000},
+        {"huong": "GIAM", "dich": [59000, 61000]}
+      ]
+    },
+    {
+      "khung": "D1",
+      "huong": "GIAM",
+      "do_chac": "vua",
+      "dich": [58000, 59000],
+      "han": null,
+      "han_gio": null,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": "về 60.000 đóng nến ngày trụ và bật lên tạo vai đầu vai ngược, lên trên 70.000 (xác suất thấp)",
+      "ly_do": ["nến ngày thứ hai rất đỏ, bán ở MA", "vùng 6x dằn co lâu, từng tái tích lũy 6 tháng"],
+      "trich": "Nến ngày này nó phản ứng ngay và có khả năng xảy ra mô hình hai đỉnh ở đây.",
+      "doi_y": null,
+      "duong_di": null
+    },
+    {
+      "khung": "M5",
+      "huong": "PHAN_VAN",
+      "do_chac": "thap",
+      "dich": [62000, 63000],
+      "han": "trong ngày",
+      "han_gio": 24,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": "M5 chưa phá đáy nên còn sideway/hồi lên 63.000; short chia vốn, TP 61.000/60.000/59.000",
+      "ly_do": ["M5/M30 hai đáy, test MA34, chưa phá cấu trúc", "chỉ vào short ít để giữ chỗ"],
+      "trich": "Vùng giá này không phải là một vị thế quá đẹp, chúng ta chỉ vào trước một ít để giữ chỗ.",
+      "doi_y": null,
+      "duong_di": null
+    }
+  ],
+  "vung_gia": {"khang_cu": [63000, 64000], "ho_tro": [60000, 61000]},
+  "lenh": [
+    {"chieu": "SHORT", "loai": "chia vốn DCA", "vao": [62000, 63000], "tp": [61000, 60000, 59000], "sl": 64000,
+     "trang_thai": "de_xuat_moi",
+     "trich": "mình sẽ chia volume từ giá hiện tại lên đến vùng 63. Stop loss đâu đó chắc phải trên 64, trên 64 hoặc là 63.000 tùy theo nến."},
+    {"chieu": "SHORT", "loai": "lệnh đêm qua", "vao": 63000, "tp": [62000, 61000], "sl": null,
+     "trang_thai": "dang_giu",
+     "trich": "Lệnh short đêm qua vẫn còn. Hôm qua về đến TP rồi mà cả ông tham thế. Còn không về đến 61 62 này chốt được rồi."}
+  ],
+  "nhin_lai_truoc": "Hôm qua short 63.000 khớp TP 62.000; có lệnh out lệnh cũ rồi lệnh mới, anh em đọc không kỹ chứ không phải miss lệnh. Thứ hai trap long râu 64.",
+  "cong_cu": ["D1", "H4", "M30", "M5", "MA34", "Fibo 0.618", "vai đầu vai ngược", "liquid", "USDT.D", "BTC.D", "Fear & Greed 22"],
+  "tin_tuc": [
+    {"tin": "CPI tối nay 7:30 (dự báo MoM 0.2, YoY 2.8)", "danh_gia": "ra đúng dự báo là tin tốt, có thể bật tăng; sợ ra mập mờ; giá giảm trước tin dễ phục hồi sau tin; nghi quét hai đầu"}
+  ],
+  "thoi_quen": [
+    "vùng khó đánh: đánh ngắn ăn ngắn, chia nhỏ vốn cả entry lẫn TP",
+    "quản lý vốn theo SL, mất 2-5% tài khoản, tối đa 10% mỗi lệnh",
+    "dùng hợp đồng tiêu chuẩn, từng lệnh xử lý riêng",
+    "plan action: nhận diện, kịch bản, phương án; không đoán thị trường",
+    "Fear & Greed: sợ hãi thì múc"
+  ],
+  "cau_cua_mieng": [
+    "Cứ FOMO đấm xuống mà sợ hãi thì múc lên. Đơn giản thế thôi.",
+    "Đừng bắt thị trường theo mình."
+  ],
+  "altcoin": [
+    {"coin": "BTC.D", "huong": "PHAN_VAN", "ghi": "đi ngang, không liên quan Bitcoin"},
+    {"coin": "USDT.D", "huong": "TANG", "ghi": "muốn đi lên, cấu trúc D1 đẹp để đi lên, nguy hiểm"},
+    {"coin": "ETH", "huong": "TANG", "ghi": "khó chết do vai trò hệ sinh thái"},
+    {"coin": "SOL", "huong": "GIAM", "ghi": "không thấy lý do phải tăng, cắm đầu"},
+    {"coin": "dầu", "huong": "TANG", "ghi": "break, đang swing, TP khi phá đỉnh trên 120"},
+    {"coin": "vàng", "huong": "GIAM", "ghi": "điều chỉnh xuống, swing vùng 35-38"}
+  ],
+  "ghi_chu": "gio_vn theo quy ước 10:00. '6100'=61.000; '5958'=59.000-58.000. Phần cuối nhiều nội dung ngoài trade (full time, bất động sản)."
+}

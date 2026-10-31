@@ -1,0 +1,52 @@
+{
+  "buoi": "2026-03-06_4Z73-L_oWNY",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/zip_clean/2026-03-06_4Z73-L_oWNY.txt",
+  "gia_btc_luc_noi": 70500,
+  "dau_buoi": {
+    "thien_huong_h4": "TANG",
+    "gio": "[00:09:17]",
+    "trich": "Kịch bản đẹp. Nếu vùng này đỡ được cho giá thì giá sẽ loanh quanh ở đây rồi sẽ tiếp tục đi lên tiếp. Và target của chúng ta ở vùng trên này vẫn là 75.000. Đó là lý thuyết thứ nhất. Lý thuyết thứ hai là gì? Nếu vùng hỗ trợ này không giữ được cho giá thì gần như xu hướng này của chúng ta khả năng kết thúc rất cao... Tầm này chỉ có ngồi chờ long thôi."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "TANG",
+    "do_chac": "thap",
+    "gio": "[00:57:19]",
+    "trich": "Ở thời điểm bây giờ mình thấy vẫn đang còn xấu lắm, chưa cần FOMO long lót gì đâu cho mệt người. Cứ yên vậy thôi."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {"huong": "GIAM", "dich": [68800, 69000]},
+  "duong_di": [
+    {"huong": "GIAM", "dich": [68800, 69000]},
+    {"huong": "TANG", "dich": 75000}
+  ],
+  "dich_chinh": 75000,
+  "han_gio": null,
+  "vo_hieu": {
+    "gia": 68000,
+    "khung": "H4",
+    "so_nen": 1,
+    "chieu": "dong_duoi",
+    "cau": "Đoạn này chỉ cần nó giữ được xu hướng, tức là mình nghĩ không thủng khỏi vùng 68 này. Trường hợp xấu nó thủng 68 và nó thủng luôn cả 67 nữa. Thủng 6700 này là coi như hết hy vọng... Giữ được ở vùng 69 đó chứ còn thủng 68 là gần như sẽ đi về thủng 67000 nữa là hết phim."
+  },
+  "lenh": [
+    {"chieu": "LONG", "vao": [68800, 69000], "tp": [70000], "sl": null, "trang_thai": "de_xuat_moi"}
+  ],
+  "hanh_dong": "dung_ngoai_cho_entry",
+  "khung_lon": {"D1": "GIAM", "W1": "GIAM"},
+  "pha_vo_gia": "Cây nến D1 đỏ 'cũng có thể là cú lừa, cú trap nhưng cái đó chúng ta không biết được' [00:06:01]; pha sáng nay thủng 70k6 làm nhiều người tưởng gãy hỗ trợ rồi kéo ngược lên ~1000 giá vượt đỉnh trước [00:24:48].",
+  "trich_them": [
+    {"gio": "[00:07:07]", "cau": "Tức là D1 là xu hướng giảm. Trước đó thì chúng ta ăn xu hướng hồi... H4 thì ngược lại, chúng ta thấy H4 vẫn tiếp tục xu hướng tăng."},
+    {"gio": "[00:07:41]", "cau": "Thế thì hiện tại H4 và D1 bị ngược nhau. Và khi một xu hướng này không được đồng thuận thì chúng ta bắt buộc phải chờ khi nào nó đồng thuận thì chúng ta mới chơi."},
+    {"gio": "[00:05:27]", "cau": "Nếu đóng cây nến ngày hôm nay, tức là sáng ngày mai phải là một cây nến ngày màu xanh hoặc ít nhất là nó cũng loanh quanh vùng 71 này chứ đừng đóng đỏ mà về dưới khoảng dưới 70 thì nhìn mọi thứ có vẻ không ổn tí nào."},
+    {"gio": "[00:10:56]", "cau": "Nếu đóng xuyên qua khỏi vùng này thì gần như H1 này không đỡ được và sẽ rụng về đâu đó khoảng tầm 68.000, 69 cho đến 68.000."},
+    {"gio": "[00:15:45]", "cau": "Đây thì có thể chờ bắt ở vùng 69 này. Limit luôn cũng được. Limit ở 69 này. 68k8 hoặc là 69... Nhưng nếu anh em bắt được cái râu này thì nó có thể sẽ hồi lên đâu đó khoảng 70 rồi nó mới rụng tiếp."},
+    {"gio": "[00:16:48]", "cau": "Còn đoạn này mình thấy mọi thứ đang rất xấu. Chưa phải là lúc để long được... Short thì đang hơi ngược cho nên cũng không, và long tốt nhất nên ngồi chờ thôi."},
+    {"gio": "[00:12:32]", "cau": "Xu hướng H4 này vẫn là xu hướng tăng. Bây giờ chúng ta chờ trong những khung nhỏ và chờ tín hiệu tăng rõ ràng một tí thì chúng ta mới dám vào long."},
+    {"gio": "[00:21:38]", "cau": "Miễn sao nó về đến đâu đó khoảng 69 rồi bật lên là đẹp. Về 69 bật lên thì mình nghĩ cửa lên Fibo này ở 75.000 vẫn cao bởi vì vùng bên này như anh em thấy cũng là một vùng trống... cần một nhịp về xuống rồi sau đó bật lên nữa là đẹp."},
+    {"gio": "[00:28:08]", "cau": "Giữ nến ngày trên 70.000 hết tuần này và tuần sau thì lên nổi 80? Mình nghĩ nếu giữ nến tuần ở đây thì tuần sau chắc lên 75 trước."},
+    {"gio": "[00:54:42]", "cau": "Bây giờ ở cả hai vùng đều có vùng thanh khoản 70.000 và thằng ở 71.000, cũng chưa biết nó sẽ đi lụm thằng nào trước. Nhưng đại khái vùng này giá nến đang rất xấu cho nên chúng ta cứ ngồi im thôi."},
+    {"gio": "[00:56:14]", "cau": "Còn lại thị trường thì như lúc nãy mình nhận định với anh em, không thay đổi nhiều lắm."}
+  ],
+  "kho": "Khó nhất trong lô: D1 giảm, H4 tăng, người nói nói rõ 'H4 và D1 bị ngược nhau... phải chờ đồng thuận', 'ngày mai mới biết', nêu 2 lý thuyết (đỡ → 75k / thủng → hết xu hướng hồi). Gán TANG độ chắc thấp vì lệnh duy nhất được gợi ý là long (limit 68k8-69k), 'tầm này chỉ có ngồi chờ long', 'short ở hỗ trợ là không được', 'cửa lên 75 vẫn cao', 'tuần sau chắc lên 75 trước'; nhưng cũng lặp lại 'mọi thứ đang rất xấu', và có câu bắt râu 69 'hồi lên khoảng 70 rồi nó mới rụng tiếp' — có thể chấm PHAN_VAN. Mốc vô hiệu: thủng 68k (67k = 'end game'); ngoài ra điều kiện D1 không đóng đỏ dưới 70k. Hạn 75k chỉ nói 'tuần sau' có điều kiện nên để null."
+}

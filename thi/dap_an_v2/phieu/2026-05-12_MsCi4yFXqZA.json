@@ -1,0 +1,72 @@
+{
+  "buoi": "2026-05-12_MsCi4yFXqZA",
+  "ngay": "2026-05-12",
+  "gio_vn": "10:00",
+  "gia_btc_luc_noi": 81500,
+  "nhan_dinh": [
+    {
+      "khung": "H4",
+      "huong": "PHAN_VAN",
+      "do_chac": "vua",
+      "dich": [78000, 82500],
+      "han": "hôm nay đứng im chờ tin CPI; tuần này nhiễu thứ ba-thứ năm, thứ sáu mới rõ xu hướng",
+      "han_gio": 24,
+      "vo_hieu_khi": "phá lên trên 84.000 thì confirm đi lên 90; short thoát khi phá kháng cự gần trên M5",
+      "kich_ban_phu": "khả năng cao đi sideway; điều chỉnh về lấp gap 78.000-77.000 rồi mới tăng; nếu CPI ra 3.7 thì đẩy về gap dưới 78, bearish thì về 70",
+      "ly_do": [
+        "đáy cao dần nhưng đỉnh thấp dần, đi chậm ở vùng cao là tín hiệu rủi ro",
+        "cây D1 rút chân ở MA200 không có uy tín, hay đi kèm nhịp đạp về test râu",
+        "gặp Fibo 1; heatmap quét hai đầu 80.000 và 82.700; hai block volume thấp",
+        "ngày có tin nên thị trường chờ tin"
+      ],
+      "trich": "Khả năng cao là vùng này BTC sẽ đi sideway, đi ngang là chắc luôn. Giai đoạn này không phải giai đoạn ngon ăn.",
+      "doi_y": null,
+      "duong_di": null
+    },
+    {
+      "khung": "M5",
+      "huong": "GIAM",
+      "do_chac": "thap",
+      "dich": [80300, 80500],
+      "han": "trong ngày",
+      "han_gio": 24,
+      "vo_hieu_khi": "phá lên khỏi vùng kháng cự trên M5 thì out",
+      "kich_ban_phu": "sau khi về 80.300 và có nến phục hồi thì có thể đánh lên 82.500 chốt",
+      "ly_do": ["short scalping theo thanh khoản/liquid, không limit, bám thị trường"],
+      "trich": "Nếu trong ngày hôm nay nó về được khoảng 80k3 thì có thể ăn đi cho nó khỏe.",
+      "doi_y": null,
+      "duong_di": null
+    }
+  ],
+  "vung_gia": {"khang_cu": [82500, 84000], "ho_tro": [77000, 80000]},
+  "lenh": [
+    {"chieu": "SHORT", "loai": "bám thị trường, không limit", "vao": 82300, "tp": [80300, 80500], "sl": null,
+     "trang_thai": "dang_giu",
+     "trich": "Hỏi: short có nên giữ lệnh không? 82k3? Mình nghĩ nếu trong ngày hôm nay nó về được khoảng 80k3 thì có thể ăn đi cho nó khỏe."},
+    {"chieu": "LONG", "loai": "tham khảo, chờ vùng an toàn", "vao": [74000, 78000], "tp": null, "sl": null,
+     "trang_thai": "de_xuat_moi",
+     "trich": "Các bạn có thể tham khảo vùng 74-78.000 trở xuống là bắt đầu cân nhắc."}
+  ],
+  "nhin_lai_truoc": "Lệnh short 81.000 hôm qua thiếu khoảng 200-300 giá thì TP (muốn về 79.800-79.900) rồi quay lên dính SL; chấp nhận, nếu chốt sớm được 700 giá.",
+  "cong_cu": ["MA200 D1", "MA34 H4", "Fibo 1 / 0.5 / 1.618", "gap CME 78 / 83.700 / 90", "heatmap", "hai block", "RSI", "Fear & Greed", "USDT.D"],
+  "tin_tuc": [{"tin": "CPI tối nay (dự báo 3.7), mai PPI, ngày kia bán lẻ", "danh_gia": "mình nghĩ ra bằng dự đoán ~3.7, thị trường đứng chờ tin; ngày 3-4-5 nhiễu, thứ sáu mới rõ"}],
+  "thoi_quen": [
+    "ngày có tin: đánh nhỏ, vốn thoải mái, vui vẻ, giải trí",
+    "không limit short, bám thị trường, phá lên là cắt",
+    "SL theo M5",
+    "chọn 1-2 altcoin, không tham nhiều con",
+    "chỉ đánh future ở thị trường quen"
+  ],
+  "cau_cua_mieng": [
+    "Giai đoạn này không phải giai đoạn ngon ăn.",
+    "Con coin nó chạy theo BTC mà, tụi nó đâu có tự quyết định được."
+  ],
+  "altcoin": [
+    {"coin": "BNB", "huong": "TANG", "ghi": "phá MA89, có thể lên 700-750 (MA200)"},
+    {"coin": "SOL", "huong": "TANG", "ghi": "chờ break cản, phá thì 110, không thì về 88 rồi lên; không short SOL"},
+    {"coin": "LINK", "huong": "TANG", "ghi": "điều chỉnh về 9.9-10 rồi lên 11.4"},
+    {"coin": "TON", "huong": "GIAM", "ghi": "hết sóng, đứt dần"},
+    {"coin": "USDT.D", "huong": "TANG", "ghi": "rất nguy hiểm"}
+  ],
+  "ghi_chu": "Tên file không có giờ, gio_vn đặt 10:00. Giá 81.500 suy từ short 82k3 và mốc 80k3 'về' (không nói thẳng). 'break lên khỏi 73 này, lên 74' là nói về mốc cờ [?]."
+}

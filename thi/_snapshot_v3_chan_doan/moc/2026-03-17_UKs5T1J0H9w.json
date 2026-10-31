@@ -1,0 +1,299 @@
+{
+  "buoi": "2026-03-17_UKs5T1J0H9w",
+  "ngay": "2026-03-17",
+  "gia_btc_luc_noi": 74500,
+  "moc": [
+    {
+      "gia": 75000,
+      "gia_tren": null,
+      "vai_tro": "tp",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "Fibo mở rộng 1.618 kéo từ đáy 62K lên đỉnh 69.9K rồi điều chỉnh về 62K, khung H4"
+      ],
+      "moc_gio": "00:17:59",
+      "chac": true,
+      "trich": "62 này, hồi lên 69.9 sau đó điều chỉnh về lại 62... Fibo 1.618 cho kết quả ở 75.000"
+    },
+    {
+      "gia": 70000,
+      "gia_tren": null,
+      "vai_tro": "khac",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "Fibo 1 của nhịp 62K→69.9K"
+      ],
+      "moc_gio": "00:17:59",
+      "chac": true,
+      "trich": "Lần đầu tiên nó chạm Fibo 1 là ở 70.000... điều chỉnh về lại 0.5"
+    },
+    {
+      "gia": 78000,
+      "gia_tren": 80000,
+      "vai_tro": "khang_cu",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [],
+      "moc_gio": "00:17:28",
+      "chac": true,
+      "trich": "Trên này nó còn một cái ngưỡng cuối ở loanh quanh khoảng 78 đến 80 nữa thôi"
+    },
+    {
+      "gia": 78800,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "TANG",
+      "khung": "W1",
+      "can_cu": [
+        "Fibo 0.5 kéo bỏ qua một cây nến, đơn Fibo của nhịp hồi (nến tuần)"
+      ],
+      "moc_gio": "00:22:40",
+      "chac": true,
+      "trich": "Fibo đơn thôi, 0.5 là ở 78.800... Fibo 0.618 là ở 83"
+    },
+    {
+      "gia": 83000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "TANG",
+      "khung": "W1",
+      "can_cu": [
+        "Fibo 0.618 nhịp hồi (cùng cách kéo với Fibo 0.5 ở 78.8K)"
+      ],
+      "moc_gio": "00:22:40",
+      "chac": true,
+      "trich": "Fibo 0.618 là ở 83. Mình sẽ lock hai cái này lại"
+    },
+    {
+      "gia": 93000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "W1",
+      "can_cu": [
+        "Fibo 0.5 đo cả con sóng dài"
+      ],
+      "moc_gio": "00:23:43",
+      "chac": true,
+      "trich": "đo cả cái con sóng dài này thì nó lên đến Fibo 50 là sẽ phải là 93"
+    },
+    {
+      "gia": 80000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "gap CME 80"
+      ],
+      "moc_gio": "00:23:43",
+      "chac": true,
+      "trich": "Trên này vẫn còn một cái gap nữa. Trước mắt là lên được 80 là coi như là kế hoạch"
+    },
+    {
+      "gia": 78000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "Fibo 0.5 (gần 78.8K)",
+        "MA89 D1"
+      ],
+      "moc_gio": "00:24:46",
+      "chac": true,
+      "trich": "78 gần Fibo 0.5. Là nó sẽ kết hợp với cái đường MA89... Vừa Fibo mà vừa MA"
+    },
+    {
+      "gia": 71000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "MA34 D1"
+      ],
+      "moc_gio": "00:25:17",
+      "chac": true,
+      "trich": "nó điều chỉnh một pha về lại 71 là chuyện bình thường. Tức là nó về nó test lại cái đường MA34"
+    },
+    {
+      "gia": 79000,
+      "gia_tren": null,
+      "vai_tro": "vo_hieu",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "đóng nến H4 hoặc D1 trên 79"
+      ],
+      "moc_gio": "00:25:47",
+      "chac": true,
+      "trich": "đóng nến H4 trên 79 hoặc là đóng nến D1 ở trên 79 thì... lên 80 hoặc 81"
+    },
+    {
+      "gia": 75000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "Fibo 1 của một nhịp sóng khác"
+      ],
+      "moc_gio": "00:27:20",
+      "chac": true,
+      "trich": "Fibo 1 là 75 và Fibo 2 lên đến 82"
+    },
+    {
+      "gia": 82000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "Fibo mở rộng 2 của nhịp sóng khác"
+      ],
+      "moc_gio": "00:27:20",
+      "chac": true,
+      "trich": "Fibo 1 là 75 và Fibo 2 lên đến 82"
+    },
+    {
+      "gia": 76000,
+      "gia_tren": null,
+      "vai_tro": "tp",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": "00:19:32",
+      "chac": true,
+      "trich": "những cái điểm nào, ví dụ 72, 74, 76 rồi 78 80"
+    },
+    {
+      "gia": 71200,
+      "gia_tren": 71500,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "H1",
+      "can_cu": [],
+      "moc_gio": "00:28:52",
+      "chac": true,
+      "trich": "Có thể nó về 71k2, 71k3 rồi nó mới lên lại... gãy đến về tận 71k5 thì vẫn không mất đà tăng"
+    },
+    {
+      "gia": 72300,
+      "gia_tren": 72500,
+      "vai_tro": "entry",
+      "huong": "TANG",
+      "khung": "M30",
+      "can_cu": [
+        "EMA200 khung 30 phút",
+        "Fibo"
+      ],
+      "moc_gio": "00:29:54",
+      "chac": true,
+      "trich": "khoảng 72.500 có một cái vùng hỗ trợ. Ngay cái đường EMA200 của 30 phút. 72.300, 72.500"
+    },
+    {
+      "gia": 74000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": null,
+      "khung": null,
+      "can_cu": [
+        "gap CME 74k4"
+      ],
+      "moc_gio": "00:32:59",
+      "chac": true,
+      "trich": "Khả năng nhịp này trong ngắn hạn nó về lấp nhẹ gap 74. 74k4"
+    },
+    {
+      "gia": 71800,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": null,
+      "khung": null,
+      "can_cu": [
+        "gap CME 71k8"
+      ],
+      "moc_gio": "00:32:59",
+      "chac": true,
+      "trich": "Vẫn còn gap ở 71k8, gap ngắn hạn"
+    },
+    {
+      "gia": 74800,
+      "gia_tren": null,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý / heatmap (hôm qua, đã bị quét)"
+      ],
+      "moc_gio": "00:33:31",
+      "chac": true,
+      "trich": "Hôm qua lúc livestream có một vùng liquid rất lớn nằm ở 74k8... quét lên tận 76.000"
+    },
+    {
+      "gia": 72000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": null,
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý / heatmap (yếu)"
+      ],
+      "moc_gio": "00:34:02",
+      "chac": true,
+      "trich": "Bây giờ có một vùng ở 72.000 nhưng vùng này đang còn yếu không ăn thua"
+    },
+    {
+      "gia": 72500,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý / heatmap (long khoảng 2.400 BTC)"
+      ],
+      "moc_gio": "00:36:07",
+      "chac": true,
+      "trich": "nó sẽ kéo về loanh quanh khoảng 72.500 là sẽ húp được kha khá"
+    },
+    {
+      "gia": 69000,
+      "gia_tren": 70000,
+      "vai_tro": "vo_hieu",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": "00:37:10",
+      "chac": true,
+      "trich": "sẽ phải thủng 69, 70. Gãy trong tăng là thủng vùng đó"
+    },
+    {
+      "gia": 71500,
+      "gia_tren": 72500,
+      "vai_tro": "entry",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "Fibo 0.618",
+        "Fibo 0.618 vùng 72-73"
+      ],
+      "moc_gio": "00:39:54",
+      "chac": true,
+      "trich": "ngồi chờ quanh đoạn khoảng 72.500 cho đến 71.500 thì đẹp. Về vùng 72, Fibo 73, Fibo 618 này, 72.500"
+    },
+    {
+      "gia": 40000,
+      "gia_tren": null,
+      "vai_tro": "day_cu",
+      "huong": "GIAM",
+      "khung": "W1",
+      "can_cu": [],
+      "moc_gio": "00:41:40",
+      "chac": true,
+      "trich": "40.000 view của mình đâu phải là đáy. 40.000 mới bắt đầu tạo đáy thôi"
+    }
+  ]
+}

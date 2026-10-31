@@ -1,0 +1,20 @@
+{
+  "buoi": "2026-01-28_2_a0RdwC1t8",
+  "ngay": "2026-01-28",
+  "gia_btc_luc_noi": 88500,
+  "moc": [
+    {"gia": 90000, "gia_tren": 91000, "vai_tro": "dich", "huong": "TANG", "khung": "H4", "can_cu": ["MA89 H4", "MA200 H4"], "moc_gio": "00:13:56", "tai_san": "BTC", "chac": true, "trich": "hoàn toàn có thể nó lên đến tận MA89 hoặc 200 ở vùng này, 90 hoặc 91 đấy"},
+    {"gia": 86000, "gia_tren": 87000, "vai_tro": "khac", "huong": null, "khung": "H4", "can_cu": ["đáy H4 hôm qua", "cụm thanh lý / heatmap"], "moc_gio": "00:14:30", "tai_san": "BTC", "chac": true, "trich": "nhiều người nhảy vào short ở vùng 87 này và short về đáy 86. Hơn nữa nó lại thể hiện một vùng liquidation ở trên 86.000"},
+    {"gia": 88700, "gia_tren": null, "vai_tro": "entry", "huong": "TANG", "khung": "M30", "can_cu": ["MA34 M30", "hỗ trợ M30", "chờ 2 đáy / 3 đáy M5"], "moc_gio": "00:17:03", "tai_san": "BTC", "chac": true, "trich": "nó phải gặp hỗ trợ 30 phút này, ví dụ khoảng 88.700, cũng là MA34 luôn"},
+    {"gia": 93000, "gia_tren": null, "vai_tro": "dich", "huong": "TANG", "khung": null, "can_cu": ["gap CME"], "moc_gio": "00:19:13", "tai_san": "BTC", "chac": true, "trich": "khả năng rất cao nó lên 93 để lấp gap"},
+    {"gia": 87000, "gia_tren": null, "vai_tro": "ho_tro", "huong": "TANG", "khung": null, "can_cu": ["cụm thanh lý / heatmap"], "moc_gio": "00:21:09", "tai_san": "BTC", "chac": true, "trich": "dưới này vẫn duy trì một vùng ở khoảng 87.000... Nếu quét về 87 thì rất đẹp để long"},
+    {"gia": 89000, "gia_tren": null, "vai_tro": "khac", "huong": null, "khung": null, "can_cu": ["cụm thanh lý / heatmap"], "moc_gio": "00:21:09", "tai_san": "BTC", "chac": true, "trich": "Liquid thì dưới này khoảng 87.000, trên này thì 89.000"},
+    {"gia": 88300, "gia_tren": null, "vai_tro": "sl", "huong": "TANG", "khung": null, "can_cu": [], "moc_gio": "00:27:01", "tai_san": "BTC", "chac": true, "trich": "Long ở 87.000 đã cắt một nửa, đưa SL về 88.300 ok không? Ok, ngon rồi"},
+    {"gia": 87000, "gia_tren": null, "vai_tro": "vo_hieu", "huong": "TANG", "khung": "H4", "can_cu": ["đáy H4"], "moc_gio": "00:30:50", "tai_san": "BTC", "chac": true, "trich": "Về cơ bản nếu đóng dưới 87.000 thì khả năng cao cũng đi luôn rồi"},
+    {"gia": 85000, "gia_tren": 86000, "vai_tro": "dich", "huong": "GIAM", "khung": "H4", "can_cu": [], "moc_gio": "00:30:50", "tai_san": "BTC", "chac": true, "trich": "confirm thì sẽ phải đóng dưới 86, 85, 8500"},
+    {"gia": 40000, "gia_tren": null, "vai_tro": "dich", "huong": "GIAM", "khung": null, "can_cu": [], "moc_gio": "00:47:30", "tai_san": "BTC", "chac": true, "trich": "khi nào có plan Bitcoin về dưới 40k... mình gần như tin tưởng tuyệt đối vào kế hoạch của mình"},
+    {"gia": 20000, "gia_tren": null, "vai_tro": "dich", "huong": "GIAM", "khung": null, "can_cu": [], "moc_gio": "00:53:50", "tai_san": "BTC", "chac": true, "trich": "mình vẫn plan về dưới này là 40.000 hoặc thậm chí là 20.000"},
+    {"gia": 125000, "gia_tren": null, "vai_tro": "entry", "huong": "GIAM", "khung": null, "can_cu": [], "moc_gio": "00:57:28", "tai_san": "BTC", "chac": false, "trich": "bây giờ ví dụ nó lên lại đến đó mình sẵn sàng short (nhắc lệnh short 125)"},
+    {"gia": 88000, "gia_tren": null, "vai_tro": "entry", "huong": "TANG", "khung": null, "can_cu": ["Sonic R"], "moc_gio": "00:41:49", "tai_san": "BTC", "chac": false, "trich": "BTC này chắc mình vẫn cứ chờ về dưới này đi, khoảng 8800 gì đó"}
+  ]
+}

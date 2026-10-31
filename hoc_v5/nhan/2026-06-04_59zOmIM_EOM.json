@@ -1,0 +1,521 @@
+{
+  "buoi": "2026-06-04_59zOmIM_EOM",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/zip_clean/2026-06-04_59zOmIM_EOM.txt",
+  "gia_btc_luc_noi": 63500,
+  "dau_buoi": {
+    "thien_huong_h4": "TANG",
+    "gio": "[00:08:07]",
+    "trich": "Cho nên mình vẫn bảo lưu quan điểm như ngày hôm qua thôi. Đối với những kiểu này thì tất nhiên là xu hướng nó tốt, xu hướng nó xả nhưng mà những rủi ro như này mình đã chứng kiến quá là nhiều rồi. Thị trường nó sẽ xuất hiện những điểm hồi loanh quanh ở đâu đây. Mặc dù mình không biết biên độ trên dưới nó bao nhiêu nhưng mà vùng này để ăn được một miếng short của thị trường thì khó lắm"
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "TANG",
+    "do_chac": "thap",
+    "gio": "[01:00:54]",
+    "trich": "Tầm này nếu nó không thủng 63 này thì chắc là nó đi lên luôn, cũng khó đoán phết. Cỡ này cũng đừng đoán cho mệt. Ngồi chờ thôi. Có thì chơi, không có thì chờ tiếp. Anh em chờ backtest rồi tính."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {
+    "huong": "GIAM",
+    "dich": 62000
+  },
+  "duong_di": [
+    {
+      "huong": "GIAM",
+      "dich": 62000
+    },
+    {
+      "huong": "TANG",
+      "dich": [
+        67000,
+        68000
+      ]
+    }
+  ],
+  "dich_chinh": [
+    67000,
+    68000
+  ],
+  "han_gio": null,
+  "vo_hieu": {
+    "gia": 60000,
+    "khung": "H4",
+    "so_nen": 1,
+    "chieu": "dong_duoi",
+    "cau": "[00:23:31] Ví dụ nó gãy 60 là phải thoát, kiểu như vậy có thể nó thoát sau đó chờ nếu nó trụ được 60 61 này nó hồi lên chúng ta lại vào lệnh mới"
+  },
+  "lenh": [
+    {
+      "chieu": "long",
+      "vao": 66000,
+      "tp": 67000,
+      "sl": null,
+      "trang_thai": "da_dong"
+    },
+    {
+      "chieu": "long",
+      "vao": 62000,
+      "tp": 67000,
+      "sl": 60000,
+      "trang_thai": "de_xuat_moi"
+    },
+    {
+      "chieu": "short",
+      "vao": 67000,
+      "tp": null,
+      "sl": null,
+      "trang_thai": "de_xuat_moi"
+    },
+    {
+      "chieu": "long",
+      "vao": null,
+      "tp": null,
+      "sl": null,
+      "trang_thai": "dang_giu"
+    }
+  ],
+  "hanh_dong": "dung_ngoai_cho_entry",
+  "khung_lon": {
+    "D1": "Giá test lại đáy, mọi thứ đi quá xa; điểm quan trọng D1 là 62.000 (điểm quay đầu của giá), 60 chỉ là râu; mỗi nhịp giảm mùa này 30-35% → kịch bản xấu từ 82 về 57 (30%) hoặc 53-54 (35%); giảm theo kiểu wave rồi về ~60 mới hồi thật sự trên D1",
+    "W1": "Phân kỳ tuần 'hên xui'; đỉnh chu kỳ đã là 126k, thường dump 72-80% → ~30k; không uptrend lại ngay, cùng lắm tới cuối năm sideway 50-60; gap 90 có thể để dành mùa uptrend sau"
+  },
+  "pha_vo_gia": null,
+  "nhin_lai_view_truoc": {
+    "view_truoc": "TANG",
+    "giu_hay_doi": "giu",
+    "vi_sao": "Giữ quan điểm hôm qua (chờ hồi, không short) dù đêm qua giá xả 66 → 61 (~7%) — ông đã thoát long 66 khi cây H4 11h trả về sau cây xanh đẹp. Lý do giữ: Coinglass >1 tỷ short chờ thanh lý (hiếm), phân kỳ H4 + volume lớn → hết lực xả, giá xa MA",
+    "gio": "[00:07:36]",
+    "trich": "Anh em thấy rất là hiếm khi mà CoinGlass bên này nó lên đến 1 tỷ volume. Mấy thường nó lên khoảng 700 triệu là căng. Tầm này nó vượt qua khỏi 1 tỷ, đâu đó khoảng 11 triệu. 11 triệu khối lượng chờ bị thanh lý short cực kỳ lớn luôn chứ không phải lớn bình thường nữa. Cho nên mình vẫn bảo lưu quan điểm như ngày hôm qua thôi"
+  },
+  "trendline": [],
+  "trich_them": [
+    {
+      "gio": "[00:06:30]",
+      "cau": "Mình bán hết bởi vì mình không có ý định là giá nó sẽ dừng ở đây, cho nên nghĩ là giá nó sẽ còn dump nữa. Thành ra không có ý định giữ hàng ở vùng giá trên cao này. Cứ phải dưới 40 thì nó mới ngon được."
+    },
+    {
+      "gio": "[00:10:57]",
+      "cau": "H1 này ngon. Nhưng mà nếu muốn long thì phải back test. Phải chờ điểm back xuống đâu đó quanh 62 thì mình nghĩ là mới dám long lên lại như hôm qua."
+    },
+    {
+      "gio": "[00:18:41]",
+      "cau": "tệ lắm thì các bạn cũng phải chờ short ở loanh quanh vùng MA89 này. 67 này của 30 phút. Vùng này thì nó sẽ trùng vào đường này của 5 phút tức là quanh 67 thì may ra mới short được."
+    },
+    {
+      "gio": "[00:22:28]",
+      "cau": "Nếu 30% thì chúng ta sẽ có giá 57. Còn nếu 35% theo đúng những gì nó đã diễn ra trước đó thì một nhịp giảm có thể kéo về đâu đó khoảng 53 đến 54.000. Tức là từ vùng giá 82.000 nó có thể gãy về đến 53, 54. Nhưng mà cái này là mình nói có thể thôi. Chúng ta chỉ nhìn lại lịch sử để chúng ta phòng thủ thôi. Đây là một chiến lược phòng thủ thôi chứ nó không phải là chiến lược tấn công"
+    },
+    {
+      "gio": "[00:28:49]",
+      "cau": "Mình cam kết với anh em là không bao giờ nó uptrend luôn ở vùng giá này đi lên được. Khó lắm. Theo thông lệ kiểu gì cũng phải qua 1 năm sau thì nó mới có những nhịp phục hồi. Cùng lắm là từ giờ đến cuối năm nó đi sideway trong vùng từ 50 đến 60 này."
+    },
+    {
+      "gio": "[00:38:41]",
+      "cau": "Có khi nào ở đây nó tạo thành mô hình hai đáy đẹp rồi nó bật lên một phát không anh em?"
+    },
+    {
+      "gio": "[00:48:22]",
+      "cau": "Nó test về đây thì cũng hồi lên đâu đó khoảng 67 68 là căng. 67 68 là căng nhất chứ mình không thấy cửa nào cao hơn."
+    },
+    {
+      "gio": "[00:49:57]",
+      "cau": "Giờ nó giảm theo kiểu wave rồi về 60 mới hồi thật sự trên khung ngày chứ không tăng từ bây giờ được. Ở đây với 60 mình thấy không khác nhau nhiều nếu các bạn xét ở trên khung ngày bởi vì điểm quan trọng nhất ở khung ngày không phải là râu nến mà là điểm này. 6200 này"
+    },
+    {
+      "gio": "[01:02:34]",
+      "cau": "Max có thể lên bao nhiêu? Bây giờ hỏi max thì biết sao mà max được. Mình nghĩ lên khoảng 70.000. Đó cũng gọi là gần như là max."
+    }
+  ],
+  "kho": "Như buổi 03/6: xu hướng lớn giảm rõ nhưng kịch bản H4 cụ thể là hồi (chờ backtest ~62 rồi long lên 67-68, căng nhất ~70) và ông khuyên không short → TANG do_chac thap. Trong buổi giá đã test 62.5-63 rồi lên, ông nói kịch bản 'đã nói trước 30 phút'. vo_hieu 60 là điểm thoát long, không nói khung. Lệnh long dang_giu là phần còn lại người xem gồng sau TP1 (63.2/62), ông không nói rõ mình có vào.",
+  "nen_volume": [
+    {
+      "khung": "H4",
+      "nen": "đêm qua: sau một cây nến xanh rất đẹp lại trả về một cây H4 (đỏ)",
+      "volume": null,
+      "ket_luan": "không ổn → quyết liệt nhảy khỏi long 66; sáng nay cắm về 61",
+      "gio": "[00:11:29]",
+      "trich": "Tối ngày hôm qua sau khi nhìn cây H4 này đoạn 11:00 thấy anh em mình nhìn cây H4 này thấy không ổn rồi. Thôi phải quyết liệt mà nhảy thôi. Cây này nó đóng một cây H4 trả về lại, trước đó là một cây nến xanh rất là đẹp mà nó trả về một cây H4 như thế này thì giữ làm gì?"
+    },
+    {
+      "khung": "M5",
+      "nen": "đã test MA34/MA89 rất nhiều lần; hôm qua test MA hai lần không vượt",
+      "volume": null,
+      "ket_luan": "nhịp này tệ lắm cũng lên test lại MA xanh ~67 → short 67 coi chừng",
+      "gio": "[00:12:40]",
+      "trich": "M5 thì mình lưu ý cho anh em một tí đó là những lần trước nó đã test MA34 MA89 quá nhiều lần rồi. Ngày hôm qua nó test MA hai lần không vượt qua được thì mình nghĩ là nhịp này tệ lắm nó cũng sẽ lên test lại đường MA màu xanh này, 67"
+    },
+    {
+      "khung": "H4",
+      "nen": "chờ cây H4 đóng; backtest thường về test lại quanh điểm đóng cửa/râu cây trước rồi cây sau test Fibo",
+      "volume": null,
+      "ket_luan": "long phải chờ backtest, quản lý rủi ro chặt vì ngược xu hướng",
+      "gio": "[00:15:47]",
+      "trich": "Để xem cây nến H4 này đóng cửa ở đâu. Thông thường nếu nó có back test thì nó sẽ test lại quanh điểm đóng cửa của cây nến. Ví dụ như vậy. Bây giờ chúng ta sẽ có cây này. Hoặc là cây trước này hoặc là cây này thì nó lên quanh ở điểm này. Nó sẽ test lại điểm này. Tức là cái râu này. Như vậy là chúng ta sẽ phải chờ cây nến này cây màu đỏ này. Hoặc là cây màu xanh này thì tức là nó sẽ xảy ra ngay lập tức nhưng mà thường hơi khó bắt. Cây nến trước là cây như cây bây giờ nếu nó đóng đẹp nó sẽ đóng ở đây. Thì cây sau đó nó sẽ test ở đâu đó Fibo. Vẫn là câu chuyện Fibo thôi"
+    },
+    {
+      "khung": "H4",
+      "nen": "hôm qua nến nhấn chìm đẹp nhưng vẫn cắm xuống; hiện phân kỳ H4",
+      "volume": "volume lớn",
+      "ket_luan": "khó xả tiếp, hết lực xả, phải hồi mới có lực xả → short không sáng suốt",
+      "gio": "[00:16:56]",
+      "trich": "Nến nhấn chìm rất là đẹp luôn nhưng mà nó vẫn cắm xuống là cắm xuống. Phân kỳ hiện tại thì đang phân kỳ H4 với lại volume lớn như thế này thì mình nghĩ là nó sẽ khó để xả tiếp. Thông thường đối với những nhịp như này thì nó hết lực để xả tiếp."
+    },
+    {
+      "khung": "D1",
+      "nen": "giá test lại đáy, khung ngày cũng test lại đáy",
+      "volume": null,
+      "ket_luan": "chỉ có việc chờ hồi: long có tín hiệu đẹp hoặc chờ short xa",
+      "gio": "[00:18:08]",
+      "trich": "Giá nó cũng test lại cái đáy này. Khung ngày nó cũng test lại cái đáy này luôn. Cho nên tầm này chúng ta chỉ có công việc là chờ hồi thôi."
+    },
+    {
+      "khung": "H4",
+      "nen": "cây H4 hiện tại là cây hồi; M5 phá lên luôn qua Fibo",
+      "volume": null,
+      "ket_luan": "chờ một điểm test (Fibo 0.5) mới vào, vào luôn thì hơi kinh",
+      "gio": "[00:33:04]",
+      "trich": "Bây giờ H4 thì cây H4 này là cây hồi rồi. Sau cái râu này hồi chúng ta chờ test. Cây này bắt buộc các bạn sẽ phải chờ một điểm test, nếu vào luôn thì mình thấy cũng hơi kinh. Không có điểm vào. M5 này phá lên luôn."
+    },
+    {
+      "khung": null,
+      "nen": "râu dài",
+      "volume": null,
+      "ket_luan": "phải về test một phát chứ không đi luôn",
+      "gio": "[00:35:47]",
+      "trich": "Râu dài thế này chắc phải về test phát chứ ai lại đi luôn."
+    },
+    {
+      "khung": "H4",
+      "nen": "H4 đẹp",
+      "volume": null,
+      "ket_luan": "hi vọng có nhịp test nữa là ok (để long)",
+      "gio": "[00:57:50]",
+      "trich": "Bitcoin H4 đẹp rồi. Hi vọng có nhịp test nữa là ok."
+    }
+  ],
+  "cach_lam": [
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "heatmap",
+      "chi_tiet": "Coinglass: khối lượng short chờ thanh lý",
+      "ket_qua": "vượt 1 tỷ (thường ~700 triệu là căng) → đừng short",
+      "gio": "[00:07:36]",
+      "trich": "Anh em thấy rất là hiếm khi mà CoinGlass bên này nó lên đến 1 tỷ volume. Mấy thường nó lên khoảng 700 triệu là căng."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "ema",
+      "chi_tiet": "MA89 M30 trùng MA M5",
+      "ket_qua": "~67 → vùng short sớm nhất / đích hồi",
+      "gio": "[00:18:41]",
+      "trich": "chờ short ở loanh quanh vùng MA89 này. 67 này của 30 phút. Vùng này thì nó sẽ trùng vào đường này của 5 phút tức là quanh 67"
+    },
+    {
+      "hanh_dong": "do",
+      "cong_cu": "khac",
+      "chi_tiet": "Đo % biên độ từng nhịp giảm trên D1 mùa trước (50%, 40-45%, rồi 27-30% khi tạo đáy; hồi 15-20%) và mùa này (31%, 35%, hồi 15-20%)",
+      "ket_qua": "một nhịp giảm mùa này 30-35% → từ 82k: 57k (30%) hoặc 53-54k (35%)",
+      "gio": "[00:21:24]",
+      "trich": "Còn mùa này thì sao? Chúng ta đo lại. Chúng ta thấy nhịp này nó giống như nhịp lần đầu 50 của nó. Nó giảm về đây là 31%. Nhịp giảm thứ hai nó cũng giảm về đây là khoảng 35% sâu nhất."
+    },
+    {
+      "hanh_dong": "do",
+      "cong_cu": "khac",
+      "chi_tiet": "Đo mức dump chu kỳ từ đỉnh 126k (mùa trước 77%)",
+      "ket_qua": "dump 72-80% → ~30k (74%)",
+      "gio": "[00:24:04]",
+      "trich": "Mùa này là nó dừng ở 126 rồi. Thông thường giống như những mùa trước thì giá nó sẽ dump đâu đó khoảng 80% hoặc nhẹ thì khoảng 72%. Ví dụ như ở đây thì mình nghĩ là giá về 30.000 là 74%."
+    },
+    {
+      "hanh_dong": "do",
+      "cong_cu": "fibo_thoai_lui",
+      "chi_tiet": "Fibo 0.5 nhịp hồi để chờ backtest",
+      "ket_qua": "~62-63",
+      "gio": "[00:33:36]",
+      "trich": "Sau đó cứ chờ nó test quanh Fibo 0.5 này vào."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "rsi",
+      "chi_tiet": "Phân kỳ H4 (và hỏi phân kỳ tuần)",
+      "ket_qua": "phân kỳ H4 + volume lớn → khó xả tiếp; phân kỳ tuần thì hên xui",
+      "gio": "[00:16:56]",
+      "trich": "Phân kỳ hiện tại thì đang phân kỳ H4 với lại volume lớn như thế này thì mình nghĩ là nó sẽ khó để xả tiếp."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "heatmap",
+      "chi_tiet": "Liquid/heatmap",
+      "ket_qua": "liquid 67 phía trên; dưới gần như không còn; vùng 66.000 hôm qua bị quét xuyên là gãy",
+      "gio": "[00:41:53]",
+      "trich": "Liquid này 67 này. Dưới này bây giờ mình nghĩ gãy xuống chắc cũng chả có ai nữa."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "hyblock",
+      "chi_tiet": "Hyblock",
+      "ket_qua": "~500.000 short → không short ở vùng hồi",
+      "gio": "[00:55:49]",
+      "trich": "Lượng mình mới check xong. 500.000. Vì sao thị trường nằm ở một vùng hồi cao như vậy mà các bạn lại muốn đi short?"
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "dinh_day_cu",
+      "chi_tiet": "Điểm quay đầu D1 (thân nến, không phải râu)",
+      "ket_qua": "62.000 là hỗ trợ; 60 chỉ là râu, 63-60 giá trị như nhau",
+      "gio": "[00:49:57]",
+      "trich": "điểm quan trọng nhất ở khung ngày không phải là râu nến mà là điểm này. 6200 này. Điểm này là điểm hỗ trợ bởi vì đây là điểm quay đầu của giá."
+    }
+  ],
+  "vung_nguoi_do": [
+    {
+      "loai": "ho_tro",
+      "tu": 61000,
+      "den": 61000,
+      "gio": "[00:03:07]",
+      "trich": "Sáng hôm nay thì chúng ta đã có giá Bitcoin ở 61.000."
+    },
+    {
+      "loai": "vao",
+      "tu": 62000,
+      "den": 62000,
+      "gio": "[00:10:57]",
+      "trich": "Phải chờ điểm back xuống đâu đó quanh 62 thì mình nghĩ là mới dám long lên lại như hôm qua."
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 67000,
+      "den": 67000,
+      "gio": "[00:12:40]",
+      "trich": "nhịp này tệ lắm nó cũng sẽ lên test lại đường MA màu xanh này, 67 short thì coi chừng"
+    },
+    {
+      "loai": "vao",
+      "tu": 67000,
+      "den": 67000,
+      "gio": "[00:18:41]",
+      "trich": "quanh 67 thì may ra mới short được."
+    },
+    {
+      "loai": "dich",
+      "tu": 57000,
+      "den": 57000,
+      "gio": "[00:22:28]",
+      "trich": "Nếu 30% thì chúng ta sẽ có giá 57."
+    },
+    {
+      "loai": "dich",
+      "tu": 53000,
+      "den": 54000,
+      "gio": "[00:22:28]",
+      "trich": "một nhịp giảm có thể kéo về đâu đó khoảng 53 đến 54.000."
+    },
+    {
+      "loai": "sl",
+      "tu": 60000,
+      "den": 60000,
+      "gio": "[00:23:31]",
+      "trich": "Ví dụ nó gãy 60 là phải thoát"
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 60000,
+      "den": 61000,
+      "gio": "[00:23:31]",
+      "trich": "nếu nó trụ được 60 61 này nó hồi lên chúng ta lại vào lệnh mới"
+    },
+    {
+      "loai": "dich",
+      "tu": 30000,
+      "den": 30000,
+      "gio": "[00:24:34]",
+      "trich": "Ví dụ như ở đây thì mình nghĩ là giá về 30.000 là 74%."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 50000,
+      "den": 60000,
+      "gio": "[00:28:49]",
+      "trich": "Cùng lắm là từ giờ đến cuối năm nó đi sideway trong vùng từ 50 đến 60 này."
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 70000,
+      "den": 70000,
+      "gio": "[00:30:23]",
+      "trich": "Tầm này mà nó lên chắc lên khoảng 70 thôi là cả làng cả nước người ta chạy hết, tiền đâu mà đẩy lên 90 nữa."
+    },
+    {
+      "loai": "dich",
+      "tu": 53000,
+      "den": 53000,
+      "gio": "[00:41:53]",
+      "trich": "15% nữa chắc về 53. Giống như view lúc nãy mình nói."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 62000,
+      "den": 62000,
+      "gio": "[00:47:47]",
+      "trich": "Nó test về đâu đó khoảng 62.00. Ví dụ thôi."
+    },
+    {
+      "loai": "dich",
+      "tu": 67000,
+      "den": 68000,
+      "gio": "[00:48:22]",
+      "trich": "67 68 là căng nhất chứ mình không thấy cửa nào cao hơn."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 62000,
+      "den": 62000,
+      "gio": "[00:49:57]",
+      "trich": "6200 này. Điểm này là điểm hỗ trợ bởi vì đây là điểm quay đầu của giá."
+    },
+    {
+      "loai": "vao",
+      "tu": 62500,
+      "den": 63000,
+      "gio": "[00:59:46]",
+      "trich": "Test thành công khoảng 625 đến 63 thì dự đoán sẽ tăng lên đến bao nhiêu?"
+    },
+    {
+      "loai": "tp",
+      "tu": 67000,
+      "den": 67000,
+      "gio": "[00:59:46]",
+      "trich": "nếu bắt ở 625 thì sẽ chốt ở 67. Nếu nó lên được 67 mình chốt ở đó"
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 63000,
+      "den": 63000,
+      "gio": "[01:00:54]",
+      "trich": "Tầm này nếu nó không thủng 63 này thì chắc là nó đi lên luôn"
+    },
+    {
+      "loai": "dich",
+      "tu": 70000,
+      "den": 70000,
+      "gio": "[01:02:34]",
+      "trich": "Mình nghĩ lên khoảng 70.000. Đó cũng gọi là gần như là max."
+    },
+    {
+      "loai": "vao",
+      "tu": 50000,
+      "den": 50000,
+      "gio": "[01:03:39]",
+      "trich": "Vùng mua chính của mình phải dưới 50.000."
+    }
+  ],
+  "view_trung_han": [
+    {
+      "khung": "D1",
+      "huong": "GIAM",
+      "dich": 60000,
+      "han": null,
+      "mat_view_khi": null,
+      "gio": "[00:49:57]",
+      "trich": "Giờ nó giảm theo kiểu wave rồi về 60 mới hồi thật sự trên khung ngày chứ không tăng từ bây giờ được."
+    },
+    {
+      "khung": "M1",
+      "huong": "GIAM",
+      "dich": 30000,
+      "han": "phải qua khoảng 1 năm mới có phục hồi; tới cuối năm cùng lắm sideway 50-60",
+      "mat_view_khi": null,
+      "gio": "[00:24:04]",
+      "trich": "Còn lại đỉnh của thị trường mùa này thì gần như là đã xác định là 126 rồi, không có cãi gì hết. Giờ này đừng có chối là đỉnh mùa này có thể là 200 cái gì nữa. Mùa này là nó dừng ở 126 rồi. Thông thường giống như những mùa trước thì giá nó sẽ dump đâu đó khoảng 80% hoặc nhẹ thì khoảng 72%. Ví dụ như ở đây thì mình nghĩ là giá về 30.000 là 74%"
+    }
+  ],
+  "vung_tranh": [
+    {
+      "tu": 64000,
+      "den": 65000,
+      "vi_sao": "Không short ở giá hiện tại (nhóm lùa gà hô short 64-65): Coinglass >1 tỷ short, Hyblock 500k, phân kỳ H4, volume lớn → phải hồi khỏe mới short (sớm nhất ~67)",
+      "gio": "[00:52:24]",
+      "trich": "Mấy nhóm lùa gà đang hô short 64 65. 64 là giá này mà short về 50, tầm này mà short được mình cũng lạy rồi. Data như này mà short được thì cũng chịu luôn."
+    },
+    {
+      "tu": null,
+      "den": null,
+      "vi_sao": "Không long đuổi khi cây hồi đã chạy, chưa có điểm test; chờ backtest Fibo ~62",
+      "gio": "[00:33:04]",
+      "trich": "Cây này bắt buộc các bạn sẽ phải chờ một điểm test, nếu vào luôn thì mình thấy cũng hơi kinh. Không có điểm vào."
+    },
+    {
+      "tu": null,
+      "den": null,
+      "vi_sao": "Không all-in spot ở giá hiện tại: chỉ mua ~5% (hoặc 1-2% cho vui), giữ vốn cho 53-54, 40, 30k",
+      "gio": "[00:27:43]",
+      "trich": "Nhưng mà thay vì chúng ta mua, ví dụ các bạn có 100.000 đô, các bạn mua hết ở đây chỉ được đâu đó khoảng 1,5 Bitcoin thì mình chỉ mua ở đây khoảng 5000 đô thôi."
+    }
+  ],
+  "giu_dong": [
+    {
+      "lenh": "long 66 (hôm qua)",
+      "quyet_dinh": "dong",
+      "khi_nao": "cây H4 lúc 11h đêm trả về sau cây xanh đẹp → quyết liệt nhảy (sáng nay cắm 61)",
+      "gio": "[00:11:29]",
+      "trich": "Cây này nó đóng một cây H4 trả về lại, trước đó là một cây nến xanh rất là đẹp mà nó trả về một cây H4 như thế này thì giữ làm gì? Ông nào giữ tối qua lệnh 66 này mà sáng nay nó cắm về 61 thì 10% thì cũng chịu."
+    },
+    {
+      "lenh": "spot BTC (mua quanh 60-65k)",
+      "quyet_dinh": "dong",
+      "khi_nao": "đã bán hết ở ~80-82 (lãi ~20%) vì nghĩ giá còn dump, phải dưới 40 mới ngon",
+      "gio": "[00:05:55]",
+      "trich": "Bitcoin cũng 20%. Mình bán hết bởi vì mình không có ý định là giá nó sẽ dừng ở đây, cho nên nghĩ là giá nó sẽ còn dump nữa."
+    },
+    {
+      "lenh": "long ăn hồi (ngược xu hướng)",
+      "quyet_dinh": "dong",
+      "khi_nao": "gãy 60 là phải thoát; nếu trụ 60-61 và hồi lên thì vào lệnh mới, không ôm một lệnh",
+      "gio": "[00:23:31]",
+      "trich": "Ví dụ nó gãy 60 là phải thoát, kiểu như vậy có thể nó thoát sau đó chờ nếu nó trụ được 60 61 này nó hồi lên chúng ta lại vào lệnh mới chứ không giữ nguyên một lệnh mà cầm từ đây"
+    },
+    {
+      "lenh": "long 63.200 / 62.000-62.500 của người xem",
+      "quyet_dinh": "chot_mot_phan",
+      "khi_nao": "chốt TP1 ngay, phần còn lại gồng; TP ở 67",
+      "gio": "[00:58:39]",
+      "trich": "Long 63k2 thì mình nghĩ là chốt TP1 đi còn lại gồng luôn. 63k2 cũng là một entry có thể gồng. Nhưng cũng phải chốt lãi tí để giữ vị thế an toàn bởi vì ngược xu hướng"
+    },
+    {
+      "lenh": "spot BTC mua vui 1-2%",
+      "quyet_dinh": "giu",
+      "khi_nao": "nếu hồi đẹp thì bán lướt; nếu giảm tiếp thì gộp vào hàng hold (vùng mua chính dưới 50.000)",
+      "gio": "[01:03:39]",
+      "trich": "Mình có mua nhưng mua cho vui thôi, mua 1 2% cho vui. Bởi vì thấy nó giảm quá. Mua vui có nghĩa là nếu nó hồi luôn đẹp thì mình bán rồi lại chơi tiếp. Vùng mua chính của mình phải dưới 50.000."
+    }
+  ],
+  "tin_tuc": [
+    {
+      "su_kien": "NFP, thất nghiệp; CPI tuần sau",
+      "thoi_diem": "NFP hôm qua; tối mai NFP + thất nghiệp; tuần sau CPI",
+      "nguon": "lich_kinh_te",
+      "so_lieu": "NFP hôm qua cao hơn dự kiến và tháng trước nhưng không nhiều",
+      "anh_huong_view": "tuần sau mới căng; nếu hồi thì hồi từ thứ sáu tới thứ ba tuần sau",
+      "gio": "[00:42:27]",
+      "trich": "Non farm này cũng bình thường mà. Cao hơn dự kiến cao hơn tháng trước nhưng không cao nhiều. Tối ngày mai lại có tin non farm tiếp nhá. Và tin thất nghiệp. Mình nghĩ chắc tuần sau mới là tuần căng. Tuần sau CPI. Mình đoán thị trường nếu nó hồi thì cũng hồi vào thứ sáu, thứ bảy, chủ nhật, thứ hai, thứ ba"
+    },
+    {
+      "su_kien": "MicroStrategy bán BTC",
+      "thoi_diem": "hiện tại",
+      "nguon": "bao",
+      "so_lieu": null,
+      "anh_huong_view": "tin xấu trong downtrend nhưng là dấu hiệu thị trường dần tạo đáy",
+      "gio": "[00:49:23]",
+      "trich": "Bitcoin bây giờ thì đang khổ một cái là đang bị tin Microstrategy nó bán. Cái đó gọi là một tin xấu của thị trường. Tin xấu lắm, tức là các bạn thấy khi down trend là bắt đầu có tin xấu. Nhưng khi tin xấu ra thì nó cũng bắt đầu cho chúng ta thấy những dấu hiệu mà thị trường đang muốn dần dần tạo thành những đáy"
+    },
+    {
+      "su_kien": "Chứng khoán Mỹ được bơm; SpaceX IPO tháng 6; MicroStrategy, BlackRock bán",
+      "thoi_diem": "tháng 6",
+      "nguon": "bao",
+      "so_lieu": null,
+      "anh_huong_view": "dòng tiền chuyển sang chứng khoán → khó lên 90, lên ~70 là người ta chạy hết",
+      "gio": "[00:30:23]",
+      "trich": "Trong khi Microstrategy cũng bán, BlackRock cũng bán, tiền thì nó rút qua, nó đánh ở bên thị trường cổ phiếu Mỹ hết rồi"
+    }
+  ]
+}

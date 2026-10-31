@@ -1,0 +1,23 @@
+{
+  "buoi": "2026-03-20_cxvXjQPayvY",
+  "ngay": "2026-03-20",
+  "gia_btc_luc_noi": 69500,
+  "moc": [
+    {"gia": 69000, "gia_tren": null, "vai_tro": "dich", "huong": "GIAM", "khung": "H1", "can_cu": ["cụm thanh lý / heatmap (mở rất dài)"], "moc_gio": "00:15:50", "chac": true, "trich": "Về như này thì chắc phải về một phát 69.00. Liquid bên này vẫn còn đến tận 68000 mấy"},
+    {"gia": 68000, "gia_tren": 68999, "vai_tro": "dich", "huong": "GIAM", "khung": "H1", "can_cu": ["cụm thanh lý / heatmap (mở rất dài)"], "moc_gio": "00:15:50", "chac": true, "trich": "Liquid bên này vẫn còn đến tận 68000 mấy... khả năng nó về đến 68.000 mấy"},
+    {"gia": 71000, "gia_tren": null, "vai_tro": "vo_hieu", "huong": "GIAM", "khung": "H4", "can_cu": ["MA34 H4 sắp cắt MA89 H4"], "moc_gio": "00:20:00", "chac": true, "trich": "pump vượt qua khỏi vùng 7100 luôn thì lúc đó anh em sẽ rất mệt (đối với lệnh short)"},
+    {"gia": 70000, "gia_tren": null, "vai_tro": "entry", "huong": "GIAM", "khung": "H4", "can_cu": ["số tròn"], "moc_gio": "00:20:32", "chac": true, "trich": "lệnh lúc nãy mình cho anh em là ở 70, chúng ta short rồi. Kéo stop loss về entry"},
+    {"gia": 69450, "gia_tren": null, "vai_tro": "tp", "huong": "GIAM", "khung": null, "can_cu": [], "moc_gio": "00:22:07", "chac": true, "trich": "mình có một lệnh cài thêm một TP ở 69450. Nó vừa khớp xong"},
+    {"gia": 68000, "gia_tren": null, "vai_tro": "tp", "huong": "GIAM", "khung": null, "can_cu": ["cụm thanh lý / heatmap"], "moc_gio": "00:22:37", "chac": true, "trich": "Lệnh của anh em có entry đẹp cứ gồng về 68"},
+    {"gia": 71000, "gia_tren": null, "vai_tro": "tp", "huong": "TANG", "khung": null, "can_cu": ["view sáng"], "moc_gio": "00:23:40", "chac": true, "trich": "Long ở vùng lúc sáng lên đến vùng khoảng 71.00 là chúng ta chốt là đúng rồi"},
+    {"gia": 70000, "gia_tren": null, "vai_tro": "vo_hieu", "huong": "GIAM", "khung": "H1", "can_cu": ["Fibo H1", "số tròn"], "moc_gio": "00:25:50", "chac": true, "trich": "Nó đóng được cây H1 này lên trên khỏi vùng 7000 thì may ra mới long FOMO được một phát"},
+    {"gia": 69000, "gia_tren": null, "vai_tro": "sl", "huong": "TANG", "khung": "H1", "can_cu": [], "moc_gio": "00:26:20", "chac": true, "trich": "đóng cây H1 7.00 thì có thể long FOMO được một nhịp và SL 69.00"},
+    {"gia": 73000, "gia_tren": null, "vai_tro": "tp", "huong": "TANG", "khung": "H1", "can_cu": [], "moc_gio": "00:26:20", "chac": true, "trich": "long FOMO thì cài luôn TP ở vùng 73 cho hoành tráng"},
+    {"gia": 70000, "gia_tren": null, "vai_tro": "khang_cu", "huong": "TANG", "khung": "H1", "can_cu": ["số tròn"], "moc_gio": "00:35:22", "chac": true, "trich": "H1 mà kéo lên trên được vùng 70.000 là chúng ta có thể chơi được"},
+    {"gia": 73000, "gia_tren": null, "vai_tro": "dich", "huong": "TANG", "khung": null, "can_cu": ["đỉnh nhịp hồi (spot target)"], "moc_gio": "00:42:41", "chac": true, "trich": "Spot BTC 73 đó là target, chứ spot chắc gì nó hồi lên được 73"},
+    {"gia": 70000, "gia_tren": null, "vai_tro": "khang_cu", "huong": "TANG", "khung": "M15", "can_cu": ["Fibo 0.618 nhịp hồi", "Fibo 0.5 nhịp hồi"], "moc_gio": "00:54:30", "chac": true, "trich": "nhịp một là lên khỏi Fibo 618 và nhịp hai may ra mới lên khỏi Fibo 50. Nhịp một dưới 70.000 thì vẫn không chơi được"},
+    {"gia": 74000, "gia_tren": null, "vai_tro": "dinh_cu", "huong": "TANG", "khung": "D1", "can_cu": ["đỉnh nhịp hồi"], "moc_gio": "01:10:12", "chac": true, "trich": "Đợt vừa rồi mình nghĩ 74 là phải chốt rồi chứ"},
+    {"gia": 68000, "gia_tren": 69000, "vai_tro": "dich", "huong": "GIAM", "khung": "H4", "can_cu": ["cụm thanh lý / heatmap"], "moc_gio": "01:16:47", "chac": true, "trich": "Khả năng nó vẫn còn điều chỉnh về vùng dưới này để nó quét... 68.000 và 69. Đó là short ngắn hạn"},
+    {"gia": 64000, "gia_tren": null, "vai_tro": "dich", "huong": "GIAM", "khung": "D1", "can_cu": ["cụm thanh lý / heatmap"], "moc_gio": "01:16:47", "chac": true, "trich": "64 này trung hạn nó sẽ về thôi. Sớm thôi"}
+  ]
+}

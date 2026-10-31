@@ -1,0 +1,41 @@
+{
+  "buoi": "2026-07-30_qBG2h5D9CrE",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/zip_clean/2026-07-30_qBG2h5D9CrE.txt",
+  "gia_btc_luc_noi": 64000,
+  "dau_buoi": {
+    "thien_huong_h4": "PHAN_VAN",
+    "gio": "[00:19:21]",
+    "trich": "Bây giờ chúng ta cần có một đỉnh break qua khỏi đoạn này và đóng nến H4 cao hơn 64.500 thì lúc đó mọi thứ mới ổn, mới có xác suất đi tiếp lên trên. Còn không thì vẫn là câu chuyện giảm. Thực tế ở đây sau khi tạo đáy ngắn hạn ở vùng 63.000 này thì bây giờ [00:19:53] nó đang bị kẹp trong một biên đi sideway."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "PHAN_VAN",
+    "do_chac": "thap",
+    "gio": "[00:54:59]",
+    "trich": "Các bạn cố gắng bám view này thôi. Mình vẫn bám theo view này để chờ sự bứt phá khỏi xu hướng [00:55:29] sideway hiện tại, khỏi nhịp bị kẹp ở đây. Còn nó đi hướng nào thì mình sẽ follow hướng đó. Tầm này cũng không đi dự đoán làm gì cho mệt bởi vì mọi thứ có khả năng tác động cũng đi qua rồi."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": null,
+  "duong_di": null,
+  "dich_chinh": null,
+  "han_gio": null,
+  "vo_hieu": null,
+  "lenh": [
+    {"chieu": "SHORT", "vao": 64600, "tp": [], "sl": 64600, "trang_thai": "dang_giu"},
+    {"chieu": "LONG", "vao": 64500, "tp": [66000], "sl": null, "trang_thai": "de_xuat_moi"},
+    {"chieu": "SHORT", "vao": 63500, "tp": [62000, 60000], "sl": null, "trang_thai": "de_xuat_moi"}
+  ],
+  "hanh_dong": "dung_ngoai_vi_lap_lung",
+  "khung_lon": {"D1": "PHAN_VAN", "W1": "GIAM"},
+  "pha_vo_gia": "Vùng sideway 63.000-64.500 là chỗ 'thị trường dìu anh em đi vào cơn mê' (long FOMO khi nhấp lên, cắt khi rớt và ngược lại); nếu quét lên 65 'sau đó tụt về lại thì cũng vô nghĩa' (phải đóng nến); hai cây H1 tăng sau tin FED là volume phiên Mỹ 'chứ không phải thể hiện giá trị nội tại của thị trường là nó muốn tăng'. Nói 'lái' chỉ khi quét lên 66-67 rồi gãy xuống.",
+  "trich_them": [
+    {"gio": "[00:18:46]", "cau": "Sau tin ngày hôm qua nến đóng cửa một khung rất lưỡng lự, nến ngày này vẫn bị chặn lại ở đường MA34. Quan điểm của mình: nếu vùng 64.500 chưa thực sự được khuất phục, chưa thực sự vượt qua thì mọi thứ chưa thay đổi nhiều về xu hướng hiện tại, vẫn đang là câu chuyện có khả năng xác suất điều chỉnh."},
+    {"gio": "[00:19:53]", "cau": "Chúng ta kỳ vọng sau tin thị trường sẽ có thay đổi nhưng tỉ lệ cực kỳ cao là thị trường sẽ bóp dần [00:20:28] trong đoạn này. Khi thị trường bóp dần và đi ngang hẹp như vậy thì cách tốt nhất là chờ nó phá ra rồi chơi. Nó phá hướng nào chúng ta đi hướng đó."},
+    {"gio": "[00:22:06]", "cau": "nếu các bạn sell thì vẫn quan điểm như các lần trước: 62.000 và 60.000 sẽ là [00:22:38] hai vùng hỗ trợ. Còn nếu nó muốn phá lên thì chúng ta phải thấy một cây H4 đóng trên 64.500. Đó là điều kiện phá vỡ. Điều kiện xác nhận là thêm một cây nến nữa, tức là hai cây nến phá qua 64.500 là coi như điều kiện hoàn tất và sẵn sàng đi lên. Nếu nó phá qua được 64.500 này target sẽ đâu đó khoảng 66.000 là target 1."},
+    {"gio": "[00:36:15]", "cau": "Thủng bao nhiêu sẽ đi về xuống giảm? 63k5 đóng nến."},
+    {"gio": "[00:35:06]", "cau": "Giá hôm nay quét về 62k3 rồi tăng lên 64k8? Có thể, nhưng chưa biết nó quét khu vực nào trước. Hoặc là như vậy hoặc là nó lên quét 64.00 trước rồi sau đó mới gãy xuống 62k3 cũng được."},
+    {"gio": "[00:11:04]", "cau": "Hôm qua bắt short 64k6, hiện tại đối với entry đó mình nghĩ cứ stop loss entry hoặc chỗ TP1."},
+    {"gio": "[00:47:50]", "cau": "H4 đóng xanh nhưng vẫn dưới xu hướng, chỉ được một cái là cây nến H4 sáng ngày hôm nay kéo lên thôi. Nhưng như lúc sáng mình nói thì khả năng rất cao hai cây nến tăng này của H1, tức là cây H4 vừa rồi, thể hiện cho volume của phiên Mỹ sau tin lãi [00:48:22] suất chứ không phải thể hiện giá trị nội tại của thị trường là nó muốn tăng."}
+  ],
+  "kho": "Rõ ràng là chờ phá biên sideway 63.000-64.500 (lên: 2 nến H4 đóng trên 64.500 → 66.000; xuống: đóng dưới 63.500 → 62.000/60.000) nên gán PHAN_VAN; tuy vậy nền vẫn hơi nghiêng giảm ('Còn không thì vẫn là câu chuyện giảm', nhịp tăng sau tin không thực chất). Lệnh short 64.600 hôm qua chỉ khuyên dời SL về entry/TP1, không rõ còn giữ. Giá lúc nói ước từ câu 'Thanh khoản 63K1 thì khoảng nghìn giá nữa'."
+}

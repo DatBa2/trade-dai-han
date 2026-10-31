@@ -1,0 +1,50 @@
+{
+  "buoi": "2026-08-18_0957__c0_SERWnz0",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/lam_sach/2026-08-18_0957__c0_SERWnz0.md",
+  "gia_btc_luc_noi": 64000,
+  "dau_buoi": {
+    "thien_huong_h4": "GIAM",
+    "gio": null,
+    "trich": "Cái vùng hiện tại là một cái vùng như hôm qua chúng ta vẫn dự kiến nó sẽ có một cái pha lên để kill short, mà cái vùng này bản chất của nó thì rõ ràng là lên kill short. Còn lại cái lực này nó có giữ được hay không thì chúng ta cần phải xem."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "GIAM",
+    "do_chac": "vua",
+    "gio": null,
+    "trich": "Nến 30 phút thì đẹp, nhưng mà H4 mà đóng ở đây thì thôi chờ hồi lên xem có đẹp thì sale còn ok hơn. H4 thì gần như chắc chắn là đóng ở đây rồi. Còn nếu mà nó gãy luôn thì càng tốt nhỉ."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {"huong": "TANG", "dich": [64200, 64500]},
+  "duong_di": [
+    {"huong": "TANG", "dich": [64200, 64500]},
+    {"huong": "GIAM", "dich": 63000}
+  ],
+  "dich_chinh": 63000,
+  "han_gio": null,
+  "vo_hieu": {
+    "gia": 65000,
+    "khung": "D1",
+    "so_nen": 1,
+    "chieu": "dong_tren",
+    "cau": "nếu chúng ta có một cây H4 hoặc cây D1, đẹp nhất là D1, mà nó đóng lên trên của cái thằng 65, phá qua khỏi cái đoạn này, thì khả năng rất là cao nó sẽ đi lên trên bởi vì nó sẽ chạy theo cái mô hình cờ. ... Cờ chúng ta sẽ đo như thế này, nó cho chúng ta kết quả 71 này."
+  },
+  "lenh": [
+    {"chieu": "SHORT", "vao": null, "tp": [63000, 57000, 54000], "sl": 65000, "trang_thai": "dang_giu"},
+    {"chieu": "SHORT", "vao": [64000, 64500], "tp": [63000], "sl": 67000, "trang_thai": "de_xuat_moi"}
+  ],
+  "hanh_dong": "giu_lenh",
+  "khung_lon": {"D1": "PHAN_VAN", "W1": null},
+  "pha_vo_gia": "Nhịp lên hiện tại là pha lên kill short (khoảng 70% kill short rồi mới đi xuống); nến D1 thứ hai xanh chỉ là xử lý thanh khoản cuối tuần, không tin tưởng.",
+  "trich_them": [
+    {"gio": null, "cau": "Bao nhiêu phần trăm đây là kill short rồi mới đi xuống? Mình nghĩ là khoảng tầm 70%."},
+    {"gio": null, "cau": "Ở đây chúng ta có thể thấy là nếu cái vùng này nó gãy một phát thì sẽ dễ về đến đâu đó khoảng tầm 6300 đến 6300 [?]. Còn cái thằng này mà lên thì cái vùng từ 64 cho đến 64.500 gần như không có liquid gì hết."},
+    {"gio": null, "cau": "Nếu mà các bạn đến H1 thì sót lại đây, scalp về đây thì ok. ... Scalp thì TP ở quanh cái vùng 63 là ngon rồi đấy."},
+    {"gio": null, "cau": "Còn nếu mà đã ăn tham như mình, ăn tham như mình mà short ở đây thì các bạn SL trên 65.000 khi nó đóng nến vượt qua khỏi cái thằng này thôi. SL khi nó đóng vượt qua 65, được chưa? ... TP2 cứ gồng về xa, gồng về 57, 54 cái gì đó tùy"},
+    {"gio": null, "cau": "Short ở đây cũng được nhưng mà SL ở trên cái đoạn 66 nhá. ... SL chắc khoảng tầm trên 67 bởi vì nếu mà lên trên 67 thì lên 71 luôn rồi."},
+    {"gio": null, "cau": "65K3 mà cắt thì đẹp nhất là đợi D1. Nói chung là đợi cả hai thằng này ... Còn nếu mà thấy hai ba cây H4 mà nó kéo xa quá thì cũng phải cắt sớm."},
+    {"gio": null, "cau": "Anh em chuẩn bị tinh thần khả năng Bit sẽ có nhịp hồi đâu đó khoảng tầm 300 giá nhá anh em."},
+    {"gio": null, "cau": "Thực tế ở đây chúng ta phải thừa nhận một điều là thị trường nó đang đi bó hẹp biên, đang đi sideway, thì mình chưa biết là nó sẽ đi về cái hướng nào."}
+  ],
+  "kho": "Transcript không có mốc giờ. Có kịch bản tăng có điều kiện (D1/H4 đóng trên 65 → W neckline 65 → 66 → cờ 71) và D1 đang sideway; nhưng người nói đang giữ short, nói 70% là kill short rồi xuống, cuối buổi chờ hồi để sale → GIAM độ chắc vừa. Đích chính lấy 63.000 (TP scalp / vùng gãy về); TP2 swing 57–54 chỉ ghi ở lệnh. Mốc vo_hieu 65.000 người nói ưu tiên D1 ('đẹp nhất là D1'), nhưng cũng nói H4."
+}

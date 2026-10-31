@@ -1,0 +1,501 @@
+{
+  "buoi": "2026-09-15_1008_M1ZThKy2Ylk",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/lam_sach/2026-09-15_1008_M1ZThKy2Ylk.md",
+  "gia_btc_luc_noi": 77500,
+  "dau_buoi": {
+    "thien_huong_h4": "GIAM",
+    "gio": null,
+    "trich": "Vùng 77.000 đến 77.200 [?] đang dồn khối lượng thanh lý, số lượng lệnh long rất nhiều. Cho nên vùng hiện tại để bắt lên thì chưa thấy cơ sở. Ai còn entry ở những vùng 79 thì có thể gồng về khoảng 77. Ai chưa có thì tốt nhất đừng có FOMO để cản tàu đi lên nhá, đoạn này mình thấy chả ổn tí nào."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "GIAM",
+    "do_chac": "thap",
+    "gio": null,
+    "trich": "Xu hướng của mình vẫn là xấu. Nhìn H4, kẻ Fibo ra: giá nằm dưới 0.5 thì không view theo góc độ đi lên được. Đơn giản vậy thôi."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {
+    "huong": "GIAM",
+    "dich": [
+      76000,
+      77000
+    ]
+  },
+  "duong_di": null,
+  "dich_chinh": [
+    76000,
+    77000
+  ],
+  "han_gio": null,
+  "vo_hieu": {
+    "gia": 82000,
+    "khung": "D1",
+    "so_nen": 1,
+    "chieu": "dong_tren",
+    "cau": "Thực sự phải đóng nến trên 83 thì mới gọi là uy tín. Trên khung ngày, đóng trên khoảng 82 là khả năng cao đóng lên được 83. ... Mô hình cờ được xác nhận khi vượt qua 82, phải break ra được thằng 82. Lúc này confirm mô hình cờ và đánh lên, chúng ta có quyền đuổi theo từ 83 lên đến 92."
+  },
+  "lenh": [
+    {
+      "chieu": "SHORT",
+      "vao": [
+        79000,
+        80000
+      ],
+      "tp": [
+        77000,
+        76000
+      ],
+      "sl": null,
+      "trang_thai": "dang_giu"
+    },
+    {
+      "chieu": "SHORT",
+      "vao": 76000,
+      "tp": [
+        75000,
+        73000
+      ],
+      "sl": null,
+      "trang_thai": "de_xuat_moi"
+    },
+    {
+      "chieu": "LONG",
+      "vao": 73000,
+      "tp": [
+        76000,
+        77000
+      ],
+      "sl": null,
+      "trang_thai": "de_xuat_moi"
+    },
+    {
+      "chieu": "LONG",
+      "vao": 83000,
+      "tp": [
+        92000
+      ],
+      "sl": null,
+      "trang_thai": "de_xuat_moi"
+    }
+  ],
+  "hanh_dong": "giu_lenh",
+  "khung_lon": {
+    "D1": "PHAN_VAN",
+    "W1": null
+  },
+  "pha_vo_gia": "Nhịp lên 79.500 đêm qua rồi rơi về 77 được gọi là đi xuống 'để kill các lệnh long': 'đám FOMO long đuổi lên, long ngay đỉnh. Sáng nay nó giảm hẳn từ 79 về 77, kêu bằng sạch đám này'.",
+  "trich_them": [
+    {
+      "gio": null,
+      "cau": "Hôm qua, ở góc độ con BTC, chúng ta chờ nó test lại vùng từ 79 đến 80 và xem phản ứng giá ở đấy. Thực tế đêm qua nó lên đến 79.500 ... Và nó trả lại một cây H4 khá đỏ, cho nên nhịp hiện tại vẫn chưa bay được, chưa thấy cái cửa để cho nó lên. Vẫn quay về lại vùng 77, một vùng khá khó để scalp."
+    },
+    {
+      "gio": null,
+      "cau": "Break 82 thì thị trường có khả năng xu hướng tiếp tục đi lên. Còn nếu break 76 thì khả năng về test đâu đó khoảng vùng 75 cho đến 72. Anh em đừng view sâu quá. Nếu thủng 76 thì phải xem từng vùng một: vùng đầu tiên là 75, vùng thứ hai là 73..."
+    },
+    {
+      "gio": null,
+      "cau": "Trên H4, xu hướng hiện tại đã kéo lên trên được rồi. Nến bán lớn, cặp H4 đảo chiều, nhưng nếu nến vẫn trụ được trên cụm hai đường MA thì phe bán không quá áp đảo. Nó vẫn giữ được ở đây thì vẫn nằm trong thế dằng co. Khi nằm trong thế này chúng ta rất khó nhận định..."
+    },
+    {
+      "gio": null,
+      "cau": "M5 thì vẫn có khả năng tạo hai đáy đi lên, nhưng xác suất phục hồi mình đánh giá không cao. ... Nên anh em hạn chế FOMO và bắt đáy ở đoạn này, thấy chưa ổn tí nào."
+    },
+    {
+      "gio": null,
+      "cau": "Tầm này là ngồi nhìn thôi. Nhìn ở đâu: ... Một là chờ nó về 76, thủng 76 thì tính tiếp. ... Hai là lên trên 81, 82 thì tính tiếp. ... Ba là nếu anh em có entry ở vùng 79 thì cứ TP1 và chờ về những vùng sâu hơn: 77.000 hoặc 76.000, hoặc thủng 76 nữa thì có thêm một vùng nữa."
+    },
+    {
+      "gio": null,
+      "cau": "Tùy. Nếu tăng lãi suất thì mình nghĩ là đi về nơi bắt đầu luôn, có thể về 69 hay sáu mấy luôn. ... Mà xác suất tăng lãi suất cực kỳ lớn."
+    },
+    {
+      "gio": null,
+      "cau": "Hai cây H4 thế này, đóng thủng luôn Fibo này thì anh em biết điểm đến tiếp theo rồi, khả năng là bảy mươi mấy dưới này rất cao."
+    },
+    {
+      "gio": null,
+      "cau": "Kịch bản khó chơi nhất là nó về đến khoảng 73 lưng chừng rồi bắt đầu đi lên: lúc đó mình chỉ đánh được từ 73 lên khoảng 76 hoặc 77 thôi, sau đó vẫn phải ngồi chờ. Từ vùng 77 cho đến 83 là mình không đánh được."
+    },
+    {
+      "gio": null,
+      "cau": "Vùng TP thứ nhất là 77.000 và thứ hai là 76.000."
+    }
+  ],
+  "kho": "File không có mốc giờ. Người đó nói nhiều kịch bản (D1 sideway 76–82 có thể là cờ tăng, H4 'dằng co', hai đáy H4 có thể backtest rồi lên) và khuyên 'ngồi nhìn', nhưng view riêng vẫn xấu (dưới Fibo 0.5 H4, thanh khoản long dồn ở 77, lệnh sale 79 gồng về 77/76) → GIAM độ chắc thấp. Giá ~77.5 rất sát đích 77 nên đích chính để vùng 76–77. Lệnh sale 79 là plan hôm trước người đó cho anh em 'đi qua đêm', không nói rõ bản thân còn giữ. Kịch bản tăng lãi suất (về 69/6x) là có điều kiện theo tin Fed.",
+  "nhin_lai_view_truoc": {
+    "view_truoc": "GIAM",
+    "giu_hay_doi": "giu",
+    "vi_sao": "Plan hôm qua (chờ test 79-80 rồi xem phản ứng để sale) đúng: đêm qua lên 79.5k rồi trả về một cây H4 khá đỏ, về lại 77; râu thứ sáu đã được test; nhịp xuống để kill long FOMO ở đỉnh.",
+    "gio": null,
+    "trich": "Hôm qua, ở góc độ con BTC, chúng ta chờ nó test lại vùng từ 79 đến 80 và xem phản ứng giá ở đấy. Thực tế đêm qua nó lên đến 79.500 thì cái vùng anh em chờ là chính xác 100% rồi, đến ngay vùng giữa coi như rất ok. Và nó trả lại một cây H4 khá đỏ, cho nên nhịp hiện tại vẫn chưa bay được, chưa thấy cái cửa để cho nó lên."
+  },
+  "trendline": [
+    {
+      "khung": "D1",
+      "loai": "kenh",
+      "noi_tu": "Biên đi ngang/mô hình cờ khung ngày từ ~76.000 lên ~82.000, đỉnh thấp dần trong biên (không nêu ngày neo)",
+      "diem_neo": [],
+      "gia_duong_luc_noi": null,
+      "trang_thai": "chua_pha",
+      "dieu_kien_pha": "Break qua 82 (đóng nến ngày) thì xác nhận cờ tăng, đuổi 83 lên 92; xuyên thủng 76 thì đi xuống 75-72",
+      "ket_luan_huong": null,
+      "gio": null,
+      "trich": "Còn khi giá nằm trong biên từ khoảng 76.000 lên 82.000 thì anh em biết nó đang là vùng nằm ngang, đi sideway, cũng có thể đi mô hình cờ. Mô hình cờ đi lên cũng có thể xuyên thủng 76 thì đi xuống. Mô hình cờ được xác nhận khi vượt qua 82, phải break ra được thằng 82."
+    }
+  ],
+  "nen_volume": [
+    {
+      "khung": "H4",
+      "nen": "Lên 79.5k rồi trả lại một cây H4 khá đỏ",
+      "volume": null,
+      "ket_luan": "Nhịp hiện tại chưa bay được, về lại vùng 77 khó scalp.",
+      "gio": null,
+      "trich": "Và nó trả lại một cây H4 khá đỏ, cho nên nhịp hiện tại vẫn chưa bay được, chưa thấy cái cửa để cho nó lên."
+    },
+    {
+      "khung": "D1",
+      "nen": "Nến ngày xanh nhưng là nến ngày thứ hai",
+      "volume": null,
+      "ket_luan": "Không tin tưởng nến ngày thứ hai dù xanh.",
+      "gio": null,
+      "trich": "Mặc dù có một nến ngày màu xanh, nhưng mình lưu ý anh em đây là nến ngày thứ hai. Đối với nến ngày thứ hai thì chúng ta không tin tưởng lắm; cho dù nó màu xanh đi nữa vẫn không tin lắm."
+    },
+    {
+      "khung": "H4",
+      "nen": "Nến bán lớn, cặp H4 đảo chiều nhưng vẫn trụ trên cụm hai đường MA",
+      "volume": null,
+      "ket_luan": "Phe bán chưa áp đảo, thế giằng co, khó nhận định.",
+      "gio": null,
+      "trich": "Nến bán lớn, cặp H4 đảo chiều, nhưng nếu nến vẫn trụ được trên cụm hai đường MA thì phe bán không quá áp đảo. Nó vẫn giữ được ở đây thì vẫn nằm trong thế dằng co."
+    },
+    {
+      "khung": "M30",
+      "nen": "Khung 30 phút đang rút râu lên",
+      "volume": null,
+      "ket_luan": null,
+      "gio": null,
+      "trich": "Khung 30 phút ở đây đang rút râu lên."
+    },
+    {
+      "khung": "M5",
+      "nen": "Hai đáy M5 nhưng vẫn phá đáy, đỉnh thấp dần, giá dưới MA 5 phút",
+      "volume": "Bên mua yếu hơn bên bán; giá tăng nhưng volume giảm",
+      "ket_luan": "Xác suất hai đáy phục hồi thấp; hạn chế FOMO bắt đáy.",
+      "gio": null,
+      "trich": "M5 thì vẫn có khả năng tạo hai đáy đi lên, nhưng xác suất phục hồi mình đánh giá không cao. Thứ nhất, xu hướng vẫn bám dưới đường MA 5 phút. Thứ hai, mặc dù hai đáy nhưng nó vẫn phá đáy, đỉnh vẫn thấp dần, giá giao dịch nằm dưới MA. Lực này không phải lực hồi tốt. Nên anh em hạn chế FOMO và bắt đáy ở đoạn này, thấy chưa ổn tí nào. Volume 5 phút: bên bán, bên mua yếu hơn; giá tăng nhưng volume giảm. Cho nên xét ngắn hạn mô hình hai đáy mình đánh giá không cao."
+    },
+    {
+      "khung": "H4",
+      "nen": "Hai cây H4 đóng thủng Fibo",
+      "volume": null,
+      "ket_luan": "Điểm đến tiếp theo nhiều khả năng bảy mươi mấy thấp hơn.",
+      "gio": null,
+      "trich": "Hai cây H4 thế này, đóng thủng luôn Fibo này thì anh em biết điểm đến tiếp theo rồi, khả năng là bảy mươi mấy dưới này rất cao."
+    }
+  ],
+  "cach_lam": [
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "hyblock",
+      "chi_tiet": "Delta phe long ở nhịp 79",
+      "ket_qua": "FOMO long đuổi ở đỉnh 79 đã bị tiêu diệt (chấm đỏ)",
+      "gio": null,
+      "trich": "Delta cho phe long đêm qua ở nhịp 79: giá tăng thì đi kèm là đám FOMO long đuổi lên, long ngay đỉnh. Sáng nay nó giảm hẳn từ 79 về 77, kêu bằng sạch đám này."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "heatmap",
+      "chi_tiet": "Bản đồ thanh lý (cũ và giao diện mới)",
+      "ket_qua": "Dồn thanh lý long 77.000-77.200 (18-19 triệu); vùng 76 là SL của team long mới",
+      "gio": null,
+      "trich": "Vùng 77.000 đến 77.200 [?] đang dồn khối lượng thanh lý, số lượng lệnh long rất nhiều. Cho nên vùng hiện tại để bắt lên thì chưa thấy cơ sở. Ai còn entry ở những vùng 79 thì có thể gồng về khoảng 77. Ai chưa có thì tốt nhất đừng có FOMO để cản tàu đi lên nhá, đoạn này mình thấy chả ổn tí nào. Bên biểu đồ thanh lý còn có một vùng ở tận 76. Vùng 76 này là của team long, đám này bắt đầu vào lại ở vùng đỉnh đêm qua, từ 78.900 [?] cho đến 77.[?]: khoảng tầm 1000 giá sẽ có một nhóm buy ngắn hạn, và stop loss của đám này nằm ở 76.000."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "dinh_day_cu",
+      "chi_tiet": "Bám theo râu nến",
+      "ket_qua": "Râu thứ sáu đã được test; mọi râu đều có giá trị",
+      "gio": null,
+      "trich": "Các râu đều có giá trị nhá. Không có râu nào là vô nghĩa hết, cứ bám theo râu."
+    },
+    {
+      "hanh_dong": "ke",
+      "cong_cu": "dinh_day_cu",
+      "chi_tiet": "Biên ngang khung ngày 76-82 (đỉnh thấp dần, giá dưới MA)",
+      "ket_qua": "Break 82 → lên; break 76 → 75 rồi 73-72",
+      "gio": null,
+      "trich": "Break 82 thì thị trường có khả năng xu hướng tiếp tục đi lên. Còn nếu break 76 thì khả năng về test đâu đó khoảng vùng 75 cho đến 72."
+    },
+    {
+      "hanh_dong": "do",
+      "cong_cu": "fibo_thoai_lui",
+      "chi_tiet": "Fibo + kháng cự trái tại 79 (lý do chặn sale ở 79)",
+      "ket_qua": "79 vừa là kháng cự vừa là Fibo",
+      "gio": null,
+      "trich": "Vì sao vùng 79 bị cản và vì sao mình cho anh em chặn ở vùng này? Đây vừa là kháng cự bên tay trái, vừa là Fibo luôn."
+    },
+    {
+      "hanh_dong": "do",
+      "cong_cu": "fibo_thoai_lui",
+      "chi_tiet": "Fibo nhịp tăng từ sáng hôm qua đến đêm qua",
+      "ket_qua": "Đang ở 0.5; 0.5-0.618 là hỗ trợ; gãy thì còn hỗ trợ ~77.000",
+      "gio": null,
+      "trich": "Hiện tại cũng là Fibo 0.5 của nhịp tăng từ sáng hôm qua đến đêm hôm qua (mũi tên xanh); chắc chắn nó đang khựng lại vì đây cũng là Fibo. Vùng 0.5 đến 0.618 cũng là vùng hỗ trợ. Hỗ trợ này mà gãy thì còn một hỗ trợ nữa ở khoảng 77.000 [?]"
+    },
+    {
+      "hanh_dong": "ke",
+      "cong_cu": "fibo_thoai_lui",
+      "chi_tiet": "Kẻ Fibo trên H4",
+      "ket_qua": "Giá dưới 0.5 → không view lên",
+      "gio": null,
+      "trich": "Nhìn H4, kẻ Fibo ra: giá nằm dưới 0.5 thì không view theo góc độ đi lên được."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "BTC.D trên trendline hỗ trợ",
+      "ket_qua": "BTC.D có thể tiếp tục đi lên → altcoin nát",
+      "gio": null,
+      "trich": "BTC.D vẫn được đỡ ở đường trendline này và có khả năng tiếp tục đi lên; thằng này cứ đi lên là thị trường altcoin nát."
+    }
+  ],
+  "vung_nguoi_do": [
+    {
+      "loai": "khang_cu",
+      "tu": 79000,
+      "den": 80000,
+      "gio": null,
+      "trich": "chúng ta chờ nó test lại vùng từ 79 đến 80 và xem phản ứng giá ở đấy. Thực tế đêm qua nó lên đến 79.500"
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 77000,
+      "den": 77200,
+      "gio": null,
+      "trich": "Vùng 77.000 đến 77.200 [?] đang dồn khối lượng thanh lý, số lượng lệnh long rất nhiều."
+    },
+    {
+      "loai": "tp",
+      "tu": 77000,
+      "den": 77000,
+      "gio": null,
+      "trich": "Ai còn entry ở những vùng 79 thì có thể gồng về khoảng 77."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 76000,
+      "den": 76000,
+      "gio": null,
+      "trich": "Vùng 76 vẫn là vùng hỗ trợ."
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 80000,
+      "den": 83000,
+      "gio": null,
+      "trich": "Để lên được vùng 9x thì cần vượt qua vùng 80 đến 81, 82, 83. Thực sự phải đóng nến trên 83 thì mới gọi là uy tín."
+    },
+    {
+      "loai": "vo_hieu",
+      "tu": 82000,
+      "den": 82000,
+      "gio": null,
+      "trich": "Trên khung ngày, đóng trên khoảng 82 là khả năng cao đóng lên được 83."
+    },
+    {
+      "loai": "dich",
+      "tu": 92000,
+      "den": 92000,
+      "gio": null,
+      "trich": "Lúc này confirm mô hình cờ và đánh lên, chúng ta có quyền đuổi theo từ 83 lên đến 92."
+    },
+    {
+      "loai": "dich",
+      "tu": 72000,
+      "den": 75000,
+      "gio": null,
+      "trich": "Còn nếu break 76 thì khả năng về test đâu đó khoảng vùng 75 cho đến 72."
+    },
+    {
+      "loai": "dich",
+      "tu": 75000,
+      "den": 75000,
+      "gio": null,
+      "trich": "Nếu thủng 76 thì phải xem từng vùng một: vùng đầu tiên là 75, vùng thứ hai là 73"
+    },
+    {
+      "loai": "dich",
+      "tu": 73000,
+      "den": 73000,
+      "gio": null,
+      "trich": "vùng thứ hai là 73, rồi từ từ đi xuống"
+    },
+    {
+      "loai": "tp",
+      "tu": 76000,
+      "den": 77000,
+      "gio": null,
+      "trich": "Vùng TP thứ nhất là 77.000 và thứ hai là 76.000."
+    },
+    {
+      "loai": "dich",
+      "tu": 69000,
+      "den": 69000,
+      "gio": null,
+      "trich": "Nếu tăng lãi suất thì mình nghĩ là đi về nơi bắt đầu luôn, có thể về 69 hay sáu mấy luôn."
+    },
+    {
+      "loai": "vao",
+      "tu": 73000,
+      "den": 73000,
+      "gio": null,
+      "trich": "Kịch bản khó chơi nhất là nó về đến khoảng 73 lưng chừng rồi bắt đầu đi lên: lúc đó mình chỉ đánh được từ 73 lên khoảng 76 hoặc 77 thôi"
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 66000,
+      "den": 66000,
+      "gio": null,
+      "trich": "BTC giảm từ đây đến lúc ra tin thì đánh sao? Chúng ta follow theo mốc 66."
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 81000,
+      "den": 82000,
+      "gio": null,
+      "trich": "Hai là lên trên 81, 82 thì tính tiếp."
+    }
+  ],
+  "view_trung_han": [
+    {
+      "khung": "D1",
+      "huong": "PHAN_VAN",
+      "dich": null,
+      "han": null,
+      "mat_view_khi": "Đóng nến ngày trên 82 → cờ tăng, đuổi 83 lên 92; thủng 76 → 75, 73, 72",
+      "gio": null,
+      "trich": "Còn nằm trong vùng này thì hai bên đang tranh chấp nhau, chưa rõ thằng nào thắng. Trong này có cả dấu hiệu tốt lẫn dấu hiệu xấu."
+    },
+    {
+      "khung": "W1",
+      "huong": "GIAM",
+      "dich": 69000,
+      "han": "đến cuối năm, nếu Fed tăng lãi (có thể về 69 hoặc sáu mấy)",
+      "mat_view_khi": null,
+      "gio": null,
+      "trich": "Kịch bản của mình: nếu lãi suất đợt này tăng thật thì từ giờ đến cuối năm mọi thứ đúng ý mình. Tất nhiên mình không kỳ vọng nó tăng vì đây là kịch bản rất bearish"
+    },
+    {
+      "khung": "W1",
+      "huong": "GIAM",
+      "dich": null,
+      "han": null,
+      "mat_view_khi": null,
+      "gio": null,
+      "trich": "Còn không thì góc độ cá nhân mình view là xấu, vì kinh tế vĩ mô, lãi suất đang rất áp đảo thị trường, dầu liên tục tăng, vàng hôm qua cắm đầu bây giờ đang hồi nhưng cũng tiếp tục phá đáy tìm đáy."
+    }
+  ],
+  "vung_tranh": [
+    {
+      "tu": 77000,
+      "den": 77200,
+      "vi_sao": "Đang dồn thanh lý long, bắt lên chưa có cơ sở; đừng FOMO cản tàu",
+      "gio": null,
+      "trich": "Cho nên vùng hiện tại để bắt lên thì chưa thấy cơ sở. Ai còn entry ở những vùng 79 thì có thể gồng về khoảng 77. Ai chưa có thì tốt nhất đừng có FOMO để cản tàu đi lên nhá, đoạn này mình thấy chả ổn tí nào."
+    },
+    {
+      "tu": 77000,
+      "den": 78000,
+      "vi_sao": "Vùng rất khó chịu, lằng nhằng; chỉ giữ nếu có entry trên, còn không chờ confirm gãy đáy hoặc break lên",
+      "gio": null,
+      "trich": "Vùng 77–78 này rất khó chịu, thà ở đây có entry ở trên thì giữ, còn không thì phải chờ confirm"
+    },
+    {
+      "tu": 77000,
+      "den": 83000,
+      "vi_sao": "Từ 77 đến 83 là vùng anh ta không đánh được (sau nhịp 73 → 76-77)",
+      "gio": null,
+      "trich": "Từ vùng 77 cho đến 83 là mình không đánh được."
+    }
+  ],
+  "giu_dong": [
+    {
+      "lenh": "SALE từ vùng 79 (plan hôm qua cho anh em)",
+      "quyet_dinh": "chot_mot_phan",
+      "khi_nao": "TP1 rồi gồng về 77.000 hoặc 76.000; thủng 76 thì có thêm vùng nữa",
+      "gio": null,
+      "trich": "Ba là nếu anh em có entry ở vùng 79 thì cứ TP1 và chờ về những vùng sâu hơn: 77.000 hoặc 76.000, hoặc thủng 76 nữa thì có thêm một vùng nữa."
+    },
+    {
+      "lenh": "SALE sót ở 79.5k (người xem)",
+      "quyet_dinh": "giu",
+      "khi_nao": "TP1 77.000, TP2 76.000",
+      "gio": null,
+      "trich": "Vùng TP thứ nhất là 77.000 và thứ hai là 76.000."
+    },
+    {
+      "lenh": "Lệnh nói chung",
+      "quyet_dinh": "dong",
+      "khi_nao": "Vào lệnh được thì phải buông được; thấy không thuận thì buông",
+      "gio": null,
+      "trich": "Hôm qua mình bảo anh em: cầm lên được thì đặt xuống được, vào lệnh được thì phải buông lệnh được. Khi thấy không thuận thì chúng ta buông."
+    },
+    {
+      "lenh": "LONG 64k (người xem)",
+      "quyet_dinh": "chot_mot_phan",
+      "khi_nao": "Đang lãi; đánh thận trọng, có lãi thì đớp",
+      "gio": null,
+      "trich": "Long 64 sao gọi là kẹt được, long 64 thì đang lãi chứ. Chúng ta vẫn giao dịch bình thường nhưng đánh thận trọng, có lãi thì đớp thôi."
+    }
+  ],
+  "tin_tuc": [
+    {
+      "su_kien": "FOMC lãi suất",
+      "thoi_diem": "1:00 sáng thứ năm (đêm thứ tư); sau đó 29/10 và 10/12",
+      "nguon": "fedwatch",
+      "so_lieu": "Investing: 89% nghiêng tăng lãi suất",
+      "anh_huong_view": "89% là căng, thận trọng; tăng lãi thì tác động ít nhất 1 tháng; tăng 0.25 còn đỡ, 0.5 thì không thấy cách nào tăng; nếu tăng có thể về 69/sáu mấy",
+      "gio": null,
+      "trich": "Xem Investing: 89% nghiêng vào xác suất tăng lãi suất. Thông thường theo kinh nghiệm của mình khi tỉ lệ này là 30, 40 hay 60 thì còn có xác suất sai sai một tí, chứ 89 thì nghe hay căng đấy, anh em thận trọng nhá."
+    },
+    {
+      "su_kien": "Jackson Hole / chủ tịch Fed mới cứng rắn",
+      "thoi_diem": "sau Jackson Hole",
+      "nguon": "bao",
+      "so_lieu": null,
+      "anh_huong_view": "Bức tranh dữ liệu xấu, xác suất tăng lãi tăng mạnh; chủ tịch mới cứng hơn Powell",
+      "gio": null,
+      "trich": "Nhưng sau bài phát biểu ở Jackson Hole mọi thứ thay đổi nhanh chóng, và bây giờ dữ liệu trên thị trường cho thấy một bức tranh rất xấu, lãi suất có xác suất tăng. Giai đoạn này Fed với chủ tịch mới có quan điểm cứng hơn hẳn đại ca Powell ngày xưa."
+    },
+    {
+      "su_kien": "Đạo luật Clarity Act (Mỹ)",
+      "thoi_diem": "đang chờ thông qua",
+      "nguon": "bao",
+      "so_lieu": null,
+      "anh_huong_view": "Thông qua chỉ hỗ trợ dài hạn, không phải ngắn hạn; không thông qua thì hợp lý hóa đường giá",
+      "gio": null,
+      "trich": "Cho dù đạo luật đó được thông qua thì cũng chỉ là sự hỗ trợ cho thị trường về dài hạn chứ không phải ngắn hạn."
+    },
+    {
+      "su_kien": "Fear & Greed",
+      "thoi_diem": "hôm qua",
+      "nguon": "khac",
+      "so_lieu": "69",
+      "anh_huong_view": "Tâm lý rất nhạy, rất FOMO",
+      "gio": null,
+      "trich": "Fear & Greed [?] hôm qua vừa lên tí lại 69: chứng tỏ tâm lý thị trường đoạn này rất nhạy, rất FOMO, lên tí là lên lại rồi."
+    },
+    {
+      "su_kien": "Vĩ mô: dầu tăng, vàng tìm đáy",
+      "thoi_diem": "hiện tại",
+      "nguon": "khac",
+      "so_lieu": null,
+      "anh_huong_view": "Rất nhiều dữ liệu xấu → view cá nhân xấu",
+      "gio": null,
+      "trich": "góc độ cá nhân mình view là xấu, vì kinh tế vĩ mô, lãi suất đang rất áp đảo thị trường, dầu liên tục tăng"
+    }
+  ],
+  "nghi_van_nhan_v2": null
+}

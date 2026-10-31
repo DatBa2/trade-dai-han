@@ -1,0 +1,90 @@
+{
+ "buoi": "2026-10-29_0033_4Hg5YedKaAg",
+ "ngay": "2026-10-29",
+ "gio_vn": "00:33",
+ "gia_btc_luc_noi": 80554,
+ "nhan_dinh": [
+  {
+   "khung": "H4",
+   "huong": "GIAM",
+   "do_chac": "thap",
+   "dich": [79000, 79500],
+   "han": "sau tin FOMC 4–8 tiếng biến động rồi quay về cấu trúc; trong 1–2 ngày (trước/qua tin PCE-GDP tối mai)",
+   "han_gio": 48,
+   "vo_hieu_khi": "H4 đóng trên 82.100 (trên đỉnh 82.060 + MA89/MA200 H4) thì thôi view giảm",
+   "kich_ban_phu": "sau tin có pha kill lên lại 81.6–81.8 (MA89/MA200 H4, râu 81.820) rồi mới rụng",
+   "duong_di": [
+    {"huong": "TANG", "dich": 81600},
+    {"huong": "GIAM", "dich": 79200},
+    {"huong": "GIAM", "dich": 78000}
+   ],
+   "doi_y": null,
+   "ly_do": [
+    "chiều qua quét lên 81.820 chạm MA89/MA200 H4 rồi bị bán, H4 19h đỏ -0.95% đóng lại trong dải MA34 → đúng 'quét lên để đi xuống'",
+    "giá dưới MA89 81.56 và MA200 81.69 H4, D1 đang đóng dưới dải MA34 D1 → không có cơ sở long",
+    "đỉnh thấp dần 84.9 → 82.06 → 81.82 trên khung H4",
+    "hỗ trợ gần 79–79.5: đáy đôi H4 79.378/79.505 + MA610 D1 79.56 + MA89 tuần 79.5 + thanh lý 79K"
+   ],
+   "trich": null
+  },
+  {
+   "khung": "D1",
+   "huong": "GIAM",
+   "do_chac": "vua",
+   "dich": [77000, 78000],
+   "han": "đi ngang 79–82 rồi nhấn, trong khoảng 1 tuần (đầu tháng 11)",
+   "han_gio": 168,
+   "vo_hieu_khi": "nến ngày đóng trên 82.000 (lấy lại dải MA34 D1 + neckline 82)",
+   "kich_ban_phu": "đi ngang 79–81 thêm vài ngày quanh tin rồi mới break xuống",
+   "duong_di": [
+    {"huong": "GIAM", "dich": 79200},
+    {"huong": "GIAM", "dich": 78000}
+   ],
+   "doi_y": null,
+   "ly_do": [
+    "D1 hôm nay râu trên 81.820 dài, đóng dưới dải MA34 D1 → kháng cự 81–82 còn nguyên",
+    "đỉnh sau thấp hơn đỉnh trước, chưa có dấu hiệu đảo chiều",
+    "MA89 D1 ~78.3 chưa test, dưới 79 khá trống"
+   ],
+   "trich": null
+  },
+  {
+   "khung": "W1",
+   "huong": "GIAM",
+   "do_chac": "vua",
+   "dich": 54000,
+   "han": "trung hạn, view 4x–5x cuối năm / 2027",
+   "han_gio": null,
+   "vo_hieu_khi": "nến tuần đóng trên 85.000",
+   "kich_ban_phu": "dài hạn vẫn tăng nhưng phải qua nhịp điều chỉnh sâu trước",
+   "duong_di": null,
+   "doi_y": null,
+   "ly_do": [
+    "3 tuần đỏ, râu 85 fake out, neckline 82 tuần đã thủng",
+    "downtrend chu kỳ mới đi hơn nửa, khung lớn chưa đổi cấu trúc"
+   ],
+   "trich": null
+  }
+ ],
+ "vung_gia": {
+  "khang_cu": [81200, 81600, 81800, 82000],
+  "ho_tro": [80400, 79500, 79000, 78300, 77600]
+ },
+ "lenh": [
+  {"chieu": "SHORT", "loai": "limit", "vao": 81650, "tp": [79650, 78300], "sl": 82450, "trang_thai": "de_xuat_moi"}
+ ],
+ "hanh_dong": "dung_ngoai_cho_entry",
+ "giu_view": true,
+ "ly_do_doi_view": "Giữ view 28/10 (quét lên rồi đi xuống). Giá chỉ râu tới 81.820, không có H4 đóng trên 82 → mốc sai chưa kích hoạt; chưa chạm đích 79/77–78. Tin FOMC đang ra: không đổi view vì tin, chờ 4–8 tiếng sau tin quay về cấu trúc.",
+ "rau": {
+  "tren": "gần nhất 81.820 (H4 15:00 28/10, quét lên chạm MA89/MA200 H4 rồi rút); 81.342 (H4 19:00 28/10)",
+  "duoi": "gần nhất 80.420 (H4 19:00 28/10); đáy đôi H4 79.505 (27/10) và 79.378 (26/10); râu D1 79.220 (24/10)",
+  "test_lai": "Râu trên 81.820 CÓ thể test lại trong pha kill sau tin — trùng MA89/MA200 H4 + đỉnh 82.06 + thanh khoản 82 (R2), đó là chỗ sale. Râu dưới 79.378–79.505 CÓ test ở chặng 2 — đáy đôi H4 là SL phe bắt đáy, trùng MA610 D1/MA89 tuần (R2, R3)."
+ },
+ "vung_on": [
+  {"loai": "SHORT", "khoang": [81500, 82300], "ly_do": ["MA89 H4 81.56 + MA200 H4 81.69 (H4)", "râu 81.820 vừa bị bán (H4 28/10)", "đỉnh H4 82.060 (23/10) + neckline 82 tuần", "Fibo 0.382 nhịp D1 87.2→79.2 = 82.28 (D1)", "thanh lý 82 (TP phe long)"]},
+  {"loai": "LONG", "khoang": [79000, 79600], "ly_do": ["đáy đôi H4 79.378/79.505 (H4)", "MA610 D1 79.56 (D1)", "MA89 tuần 79.51 (W1)", "râu D1 79.220 + thanh lý 79K", "chỉ long hồi vol nhỏ, ăn non"]}
+ ],
+ "pha_vo_gia": "Cú vượt 81–81.8 chiều 28/10 là GIẢ: G1 (chỉ râu 81.820 chạm MA89/200 H4, không có H4 đóng trên 82) + G4 (quét SL phe short sát 82 rồi rút) + G9/G6 (cây 19h phiên Mỹ trước tin đảo đỏ). Mọi cú chạy trong 1–2h quanh FOMC đêm nay không tính (G6).",
+ "loi_binh": "Tin lãi suất đang ra anh em, cái này gần như chắc giữ nguyên, không có gì hấp dẫn — trước tin 1 tiếng và sau tin 4 đến 8 tiếng nó biến động, xong rồi lại quay về cấu trúc. Chiều nay nó quét lên 81.8 đụng MA89, MA200 H4 cái là rụng, đúng bản chất quét lên để đi xuống, view vẫn chưa đổi. Không phải cứ view giảm là cắm đầu sell: không giữ lệnh qua tin, mai còn PCE với GDP, chờ nó kill lên 81.5–82 có nến đỏ volume thì mới sale, mục tiêu 79 rồi 77–78."
+}

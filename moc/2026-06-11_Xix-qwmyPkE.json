@@ -1,0 +1,246 @@
+{
+  "buoi": "2026-06-11_Xix-qwmyPkE",
+  "ngay": "2026-06-11",
+  "gia_btc_luc_noi": 62500,
+  "moc": [
+    {
+      "gia": 67000,
+      "gia_tren": 69000,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "hai đáy khung ngày"
+      ],
+      "moc_gio": "00:11:43",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Hai đáy khung ngày để nó lên lại vùng khoảng 67 đến 69 là đẹp"
+    },
+    {
+      "gia": 65000,
+      "gia_tren": 66000,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "Fibo mở rộng"
+      ],
+      "moc_gio": "00:12:48",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Trước mắt là khoảng 65 66 sau đó cao hơn thì 69"
+    },
+    {
+      "gia": 53000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "W1",
+      "can_cu": [],
+      "moc_gio": "00:13:19",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "nếu đẩy lên luôn 69 thì sóng này kết thúc sớm và tiếp tục sóng giảm về 53"
+    },
+    {
+      "gia": 61000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "Fibo 0.618 khung ngày",
+        "hỗ trợ (râu nến hôm qua)"
+      ],
+      "moc_gio": "00:24:47",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Đường 61, 60.00 61 này vừa là Fibo 0.618 vừa là hỗ trợ luôn"
+    },
+    {
+      "gia": 61000,
+      "gia_tren": null,
+      "vai_tro": "vo_hieu",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "H4 đóng thủng Fibo 0.618"
+      ],
+      "moc_gio": "00:26:24",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Nếu H4 đóng dưới vùng 61 này... thủng vùng 618 này là coi như kết thúc"
+    },
+    {
+      "gia": 60000,
+      "gia_tren": null,
+      "vai_tro": "vo_hieu",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "đáy 60.000",
+        "H4 đóng dưới 60.000"
+      ],
+      "moc_gio": "00:26:56",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "H4 đóng dưới 60.00 thì anh em nên nhảy khỏi các lệnh"
+    },
+    {
+      "gia": 53000,
+      "gia_tren": 54000,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [],
+      "moc_gio": "00:26:24",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "confirm dưới 60 thì nó sẽ về những vùng rất sâu như 54 53"
+    },
+    {
+      "gia": 61000,
+      "gia_tren": 62000,
+      "vai_tro": "entry",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "Fibo 0.618 + hỗ trợ D1"
+      ],
+      "moc_gio": "00:26:56",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Vùng từ 62 về đến 61 là vùng có thể chia ra làm entry"
+    },
+    {
+      "gia": 65000,
+      "gia_tren": null,
+      "vai_tro": "tp",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "đáy của cặp nến đảo chiều"
+      ],
+      "moc_gio": "00:27:27",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "quanh vùng 65.000, đáy của cặp nến đảo chiều này"
+    },
+    {
+      "gia": 69000,
+      "gia_tren": null,
+      "vai_tro": "tp",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "Fibo mở rộng 1.618",
+        "MA200 H4",
+        "MA34 D1",
+        "Fibo 0.5 khung lớn kéo từ đỉnh 82-83K về đáy 59K"
+      ],
+      "moc_gio": "00:28:00",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "69.000 (râu có thể quét 70)... MA200 H4, MA34 ngày, Fibo 0.5 từ 82 83 về 59 chắc chắn sẽ cản giá"
+    },
+    {
+      "gia": 82000,
+      "gia_tren": 83000,
+      "vai_tro": "dinh_cu",
+      "huong": null,
+      "khung": "D1",
+      "can_cu": [
+        "đỉnh cũ 82-83K dùng kéo Fibo"
+      ],
+      "moc_gio": "00:28:00",
+      "tai_san": "BTC",
+      "chac": false,
+      "trich": "Fibo trên khung lớn từ vùng 82 83 về đến 59"
+    },
+    {
+      "gia": 59000,
+      "gia_tren": null,
+      "vai_tro": "day_cu",
+      "huong": null,
+      "khung": "D1",
+      "can_cu": [
+        "đáy cũ 59K dùng kéo Fibo"
+      ],
+      "moc_gio": "00:28:00",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "từ vùng 82 83 về đến 59"
+    },
+    {
+      "gia": 62000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "TANG",
+      "khung": "H1",
+      "can_cu": [
+        "đỉnh H1 gần nhất"
+      ],
+      "moc_gio": "00:29:06",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Đoạn này cần break lên khỏi 62.00 này là ok"
+    },
+    {
+      "gia": 61000,
+      "gia_tren": null,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": "D1",
+      "can_cu": [
+        "gap CME 61.000 đã lấp"
+      ],
+      "moc_gio": "00:31:57",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "gap hôm trước 61.000 đã lấp xong"
+    },
+    {
+      "gia": 63000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý / heatmap"
+      ],
+      "moc_gio": "00:32:58",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "trên này có đám 63 nữa, dày hơn nên thị trường vẫn có khả năng lên 63 trong ngắn hạn"
+    },
+    {
+      "gia": 60000,
+      "gia_tren": 61000,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý / heatmap"
+      ],
+      "moc_gio": "00:32:58",
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Chắc chắn có những vùng dưới đây, 60 61 này"
+    },
+    {
+      "gia": 40000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "view cuối năm"
+      ],
+      "moc_gio": "00:44:58",
+      "tai_san": "BTC",
+      "chac": false,
+      "trich": "Nếu giá giảm nữa về cuối năm, giảm về khoảng 40.000"
+    }
+  ]
+}

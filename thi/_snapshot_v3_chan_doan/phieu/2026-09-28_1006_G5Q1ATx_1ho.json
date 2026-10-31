@@ -1,0 +1,171 @@
+{
+  "buoi": "2026-09-28_1006_G5Q1ATx_1ho",
+  "ngay": "2026-09-28",
+  "gio_vn": "10:06",
+  "gia_btc_luc_noi": 83500,
+  "nhan_dinh": [
+    {
+      "khung": "H4",
+      "huong": "GIAM",
+      "do_chac": "cao",
+      "dich": [
+        82000,
+        82400
+      ],
+      "han": "hôm nay / vài ngày",
+      "han_gio": 48,
+      "vo_hieu_khi": "H1 kéo lại được trên MA200 (và M5 hồi trên 83.000 chỉ là nhịp hồi)",
+      "kich_ban_phu": "M5/H1 có hồi lên 83.000-83.700 rồi mới giảm tiếp; nếu 82 bị phá dễ thì lực bán rất mạnh, Fibo thì về hẳn 81, 80",
+      "ly_do": [
+        "phe mua nỗ lực lên liên tục bị từ chối ở Fibo, phe bán chiếm dần 85, 84.4, 84.3",
+        "H1 thủng MA200 là rụng, các khung cùng một view",
+        "volume M5 bán áp đảo",
+        "USDT.D confirm phục hồi lên 6.6 kéo thị trường điều chỉnh",
+        "thanh khoản nến ngày yếu, hai đỉnh + test Fibo"
+      ],
+      "trich": "Hiện tại phe bán đã chiếm được ưu thế ở đoạn này, nó sẽ đạp về tối thiểu là 82; 82 cho đến 82.400 gì đó thì mới may ra có phe mua nhảy vào lại.",
+      "doi_y": null,
+      "duong_di": [
+        {
+          "huong": "TANG",
+          "dich": 83700
+        },
+        {
+          "huong": "GIAM",
+          "dich": 82000
+        }
+      ]
+    },
+    {
+      "khung": "D1",
+      "huong": "GIAM",
+      "do_chac": "vua",
+      "dich": [
+        82000,
+        82400
+      ],
+      "han": null,
+      "han_gio": null,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": null,
+      "ly_do": [
+        "nến ngày thanh khoản cực yếu",
+        "vùng 82 là hỗ trợ D1, cứ về đây rồi tính, đừng làm gì sớm hơn"
+      ],
+      "trich": "Nhìn D1 đây là vùng hỗ trợ, cứ về đây tính, đừng làm gì sớm hơn vùng này.",
+      "doi_y": null,
+      "duong_di": null
+    },
+    {
+      "khung": "W1",
+      "huong": "TANG",
+      "do_chac": "thap",
+      "dich": null,
+      "han": null,
+      "han_gio": null,
+      "vo_hieu_khi": "hỗ trợ 82 bị phá dễ dàng",
+      "kich_ban_phu": null,
+      "ly_do": [
+        "nến tuần breakout cản (hai đáy, phá trendline), quét lên 87",
+        "vùng 82-83 thành hỗ trợ cứng khung tuần, chờ phản ứng giá rồi mới hành động",
+        "không chủ quan sale xuống vì khung tuần đã breakout"
+      ],
+      "trich": "với khung tuần, mô hình hai đáy và đã phá qua trendline, chúng ta không thể chủ quan được.",
+      "doi_y": null,
+      "duong_di": null
+    }
+  ],
+  "vung_gia": {
+    "khang_cu": [
+      84000,
+      85000
+    ],
+    "ho_tro": [
+      82000,
+      83000
+    ]
+  },
+  "lenh": [
+    {
+      "chieu": "SHORT",
+      "loai": "market",
+      "vao": null,
+      "tp": [
+        82600,
+        82000
+      ],
+      "sl": null,
+      "trang_thai": "de_xuat_moi",
+      "trich": "Nếu anh em đánh xuống ăn ngắn thì có thể cân nhắc từ vùng khoảng 82.xxx là bắt đầu kéo SL entry, hoặc TP1 ở 82.600; các TP dưới thì kéo dần, càng sát 82 càng nên chốt."
+    }
+  ],
+  "nhin_lai_truoc": null,
+  "cong_cu": [
+    "H4",
+    "H1",
+    "M5",
+    "MA200 H1",
+    "Fibo",
+    "RSI phân kỳ",
+    "volume",
+    "heatmap liquidation",
+    "BTC.D",
+    "USDT.D",
+    "nến tuần",
+    "TradingView"
+  ],
+  "tin_tuc": [
+    {
+      "tin": "Mỹ-Iran không đàm phán, Trump bác đề xuất mở eo Hormuz, Brent trên 106",
+      "danh_gia": "tin bình thường, thị trường lấy lý do để làm giá"
+    },
+    {
+      "tin": "Lợi suất trái phiếu tăng (10 năm cao nhất từ 2007), tính tăng lãi suất tháng 10",
+      "danh_gia": "bình thường, không phải tin tác động chính"
+    },
+    {
+      "tin": "Tuần này: việc làm Mỹ, PCE, phát biểu Fed",
+      "danh_gia": "nhiều tin, thận trọng"
+    }
+  ],
+  "thoi_quen": [
+    "hỗ trợ nghĩa là chờ phản ứng rồi mới hành động, không cầm đèn chạy trước ô tô",
+    "không sale đuổi vàng, chờ lấp gap rồi mới sale",
+    "kéo SL về entry khi giá gần 82, chốt dần sát 82",
+    "chờ tín hiệu từ khung nhỏ lên khung lớn confirm",
+    "không chấp niệm một đợt cũ (đợt 74)"
+  ],
+  "cau_cua_mieng": [
+    "Thắng làm vua",
+    "Ông đừng chấp niệm vào đợt 74 nữa",
+    "Thị trường tầm này không biết đường nào mà lần"
+  ],
+  "altcoin": [
+    {
+      "coin": "USDT.D",
+      "huong": "TANG",
+      "ghi": "cờ tăng đẹp, lên 6.6 khả thi, kéo cả thị trường điều chỉnh"
+    },
+    {
+      "coin": "BTC.D",
+      "huong": "PHAN_VAN",
+      "ghi": "chưa rõ ràng"
+    },
+    {
+      "coin": "AVNT",
+      "huong": "TANG",
+      "ghi": "chạy ngược thị trường, có thể kéo 0.1-0.16 nhưng khó chịu"
+    },
+    {
+      "coin": "vàng",
+      "huong": "GIAM",
+      "ghi": "chưa gãy, hỗ trợ cứng 4000, gap 4280-4285 lấp trước, không sale đuổi"
+    },
+    {
+      "coin": "dầu",
+      "huong": "TANG",
+      "ghi": "break D1 và H4, xu hướng chính tăng"
+    }
+  ],
+  "ghi_chu": "Giá lúc nói suy từ 'phục hồi lên 83.700' và tiêu đề 84K; ~83.500. Số 82.xxx là cả vùng, không đúng 82.000. Không có lệnh cụ thể của người nói, lệnh SHORT là gợi ý cho người đánh xuống."
+}

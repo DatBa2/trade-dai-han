@@ -1,0 +1,48 @@
+{
+  "buoi": "2026-08-17_1006_tmR0aXnjOlA",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/lam_sach/2026-08-17_1006_tmR0aXnjOlA.md",
+  "gia_btc_luc_noi": 63000,
+  "dau_buoi": {
+    "thien_huong_h4": "TANG",
+    "gio": null,
+    "trich": "Cái H4 này màu xanh thì chắc là nó sẽ kéo lên được khoảng 63.000 rồi tính tiếp."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "TANG",
+    "do_chac": "vua",
+    "gio": null,
+    "trich": "Đi kiểu này chắc là nó cứ từ từ đi lên thôi. ... Còn trong ngày hôm nay thì mình nghĩ là các bạn hãy khoan sót đã. Short mình thấy không ổn đâu."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {"huong": "TANG", "dich": 64000},
+  "duong_di": [
+    {"huong": "TANG", "dich": 64000}
+  ],
+  "dich_chinh": 64000,
+  "han_gio": 2,
+  "vo_hieu": {
+    "gia": 62000,
+    "khung": "H4",
+    "so_nen": 1,
+    "chieu": "dong_duoi",
+    "cau": "Nếu anh em muốn long thì chờ ở đây. SL thì ở dưới là 62.000. Thủng cái vùng này là té thôi. SL là nằm dưới này. Đóng nến gãy khỏi cái vùng hỗ trợ ở đây thì thoát, không có giữ."
+  },
+  "lenh": [
+    {"chieu": "LONG", "vao": 63000, "tp": [64000], "sl": 62000, "trang_thai": "de_xuat_moi"}
+  ],
+  "hanh_dong": "dung_ngoai_cho_entry",
+  "khung_lon": {"D1": "GIAM", "W1": "GIAM"},
+  "pha_vo_gia": "Nếu H4 trả về một cây nến đỏ chui lại vào vùng tích lũy cuối tuần thì nhịp tăng là nhịp lừa (trap); ngoài ra short về liquid 62.000 thì 'bị trap thôi'.",
+  "trich_them": [
+    {"gio": null, "cau": "Khung H4 thì giá nằm dưới cái đường MA và cái cấu trúc thế này là cấu trúc sóng giảm H4."},
+    {"gio": null, "cau": "D1 là đang đi sideway, đi ngang, nhưng mà nó nằm dưới cái MA cho nên đi ngang ở đây là nó vẫn nghiêng hơn một xíu về phe giảm."},
+    {"gio": null, "cau": "Lên là 64 mà thủng là 62."},
+    {"gio": null, "cau": "Nếu chúng ta muốn short, muốn đánh xuống thì mình nghĩ là loanh quanh cái vùng 64 nó sẽ an toàn hơn."},
+    {"gio": null, "cau": "Bản chất thì mình nghĩ là Bitcoin nó sẽ tiếp tục đi lên đến cái vùng 64 rồi mới tính được."},
+    {"gio": null, "cau": "Đối với cái volume này thì khả năng cao là giá nó sẽ về test lại cái vùng 63.000 này. Nếu anh em muốn long thì chờ ở đây."},
+    {"gio": null, "cau": "Đoạn này từ giờ đến trưa mình nghĩ là nó sẽ đi lên tiếp đến 64 rồi."},
+    {"gio": null, "cau": "Đáy của thị trường đối với cá nhân mình đánh giá là vẫn chưa xong. ... 0.786 của chúng ta sẽ là 40.000."}
+  ],
+  "kho": "Transcript không có mốc giờ. Người nói nhấn mạnh vùng đi ngang khó đoán ('lên là 64 mà thủng là 62') và cấu trúc H4 là sóng giảm, nhưng kịch bản nêu rõ là lên 64 rồi mới tính, khuyên khoan short → ghi TANG độ chắc vừa. vo_hieu lấy từ SL lệnh long 62.000 (không nói khung). han_gio 2 theo câu 'từ giờ đến trưa'. Khung lớn (W1/D1) nghiêng giảm, đáy chưa xong."
+}

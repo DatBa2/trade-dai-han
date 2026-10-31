@@ -1,0 +1,48 @@
+{
+  "buoi": "2026-08-27_1006_ZJ5BVqdLJeE",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/lam_sach/2026-08-27_1006_ZJ5BVqdLJeE.md",
+  "gia_btc_luc_noi": 78900,
+  "dau_buoi": {
+    "thien_huong_h4": "TANG",
+    "gio": null,
+    "trich": "Cái hiện tại ở đây là nó được thằng H1 đẹp, mình đang bay lên theo cái nhịp phá vỡ thằng H1 này. Tuy nhiên vẫn quan sát cái thằng 5 phút: trong 5 phút thì đang khá là xấu. ... Nếu nó đỡ đỡ thì mình sẽ cố gắng cầm thêm qua cây H1 với cây H4 này xem sao"
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "TANG",
+    "do_chac": "vua",
+    "gio": null,
+    "trich": "Cây M5 này mà đóng xanh là coi như có tia hy vọng, bởi vì bắt đầu kéo được cái đáy cao. Phá lên được khỏi cái thằng 7800 [?] này nữa là ok. Phá được 789 [?] sau đó chờ phá tiếp 79.50 nữa là ok. Nhìn nó sáng cửa hơn một tí so với tụi altcoin."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {"huong": "TANG", "dich": 79400},
+  "duong_di": [
+    {"huong": "TANG", "dich": 79400},
+    {"huong": "TANG", "dich": 80000}
+  ],
+  "dich_chinh": 80000,
+  "han_gio": null,
+  "vo_hieu": {
+    "gia": 78500,
+    "khung": "H4",
+    "so_nen": 1,
+    "chieu": "dong_duoi",
+    "cau": "Cho nên khi nó có mùi gãy khỏi cái thằng 78.5 [?] này, chúng ta chạy luôn, bởi vì thủng cái thằng này nó về luôn tận 78 cơ mà. 78 cho đến 77 này."
+  },
+  "lenh": [
+    {"chieu": "LONG", "vao": null, "tp": [79000, 80000], "sl": 78500, "trang_thai": "dang_giu"}
+  ],
+  "hanh_dong": "giu_lenh",
+  "khung_lon": {"D1": "PHAN_VAN", "W1": null},
+  "pha_vo_gia": null,
+  "trich_them": [
+    {"gio": null, "cau": "H1 thì một mô hình rất quen thuộc ... Xu hướng này cá nhân mình đánh giá khá ngon, khá tốt. Cho nên vùng này mình rõ ràng không có sell, mình đang buy chạy cái mô hình này. Đang gặp cản cho nên nó sẽ chững ở đây. Nhưng nếu phá qua được đoạn này thì lên lại 80.00 [?], anh em biết TP ở đâu rồi."},
+    {"gio": null, "cau": "nếu có cây H1 vượt qua được cái thằng 79.00 [?], 79.50 [?] (cho là 79.00 thì cho nó tròn), H1 vượt qua được vùng này thì giá sẽ lên test được cái vùng ở trên. Trong trường hợp xấu thì nó sẽ bị cản ở Fibo và đi xuống."},
+    {"gio": null, "cau": "muốn lên 80 thì cần phải phá qua 79; muốn phá qua được 79 thì cần phải giữ được cái vùng 78.500 này. Muốn lên 83 thì phải phá qua được 80. Muốn lên 93 thì phải phá qua được 83."},
+    {"gio": null, "cau": "Mình nghĩ đoạn này kiểu gì từ giờ đến trưa chắc là sẽ có một pha quét lên 79k4 thì ngon đấy. Nếu mà rụng thì rụng ở đây, 79k4."},
+    {"gio": null, "cau": "Nếu chúng ta thấy được cây nến ngày đóng qua được cái vùng 82 đến 83 thì ok, đó là điều kiện tiên quyết để giá lên test đến cái vùng cản tiếp theo là cản 93.000."},
+    {"gio": null, "cau": "Nhịp này mình nghĩ là khó mà sập về 70 lắm. Cùng lắm nó sẽ còn vòng vèo ở đây thêm một thời gian nữa. Nó đi thế này, mình nghĩ để về 70 thì chắc chắn là phải qua tháng 9 rồi."},
+    {"gio": null, "cau": "Lúc sáng thấy nó phóng lên được một phát trong cây M5 ... Nhưng không được thì có vẻ đoạn này chuẩn bị té thôi. Lực yếu thế nhỉ."}
+  ],
+  "kho": "Transcript không có mốc giờ. Người nói đang giữ long theo mô hình H1 (TP1 79k, TP 80k), nhưng nhiều 'nếu' và khung nhỏ M5 xấu; D1 vẫn dưới MA, cản 79k. Ghi TANG độ chắc vừa, đích 80k. vo_hieu 78.5k không nói khung nến (mặc định H4); thủng thì về 78–77k. Số '79.4' trong câu 'rớt xuống 79.4' có thể là lỗi phụ đề, không dùng."
+}

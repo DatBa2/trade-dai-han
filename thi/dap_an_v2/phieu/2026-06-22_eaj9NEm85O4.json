@@ -1,0 +1,162 @@
+{
+  "buoi": "2026-06-22_eaj9NEm85O4",
+  "ngay": "2026-06-22",
+  "gio_vn": "10:00",
+  "gia_btc_luc_noi": 65500,
+  "nhan_dinh": [
+    {
+      "khung": "H4",
+      "huong": "TANG",
+      "do_chac": "vua",
+      "dich": [
+        67000,
+        69000
+      ],
+      "han": "đêm nay, không thì ngày mai; không short ít nhất đến hết ngày mai, sớm nhất thứ tư mới tìm short",
+      "han_gio": 24,
+      "vo_hieu_khi": "H4 đóng dưới Fibo 50 / mất MA89 vùng 64.000; thủng 63.000 (đóng thấp hơn điểm đóng nến 63.000) mới quay lại góc nhìn short",
+      "kich_ban_phu": "nếu hồi về 64.000 (Fibo 0.5) thì long tiếp; tệ thì thủng 63.000 rồi mới short đuổi",
+      "ly_do": [
+        "sóng hồi theo Fibo mở rộng nhịp nhỏ: mốc 65.000 Fibo 1 rồi 69.000, MA200 ở 67-69",
+        "nến xanh sau nến đỏ phun lực rồi rút râu là cây dụ short, bất thường",
+        "thứ hai-thứ tư không có tin, thị trường dễ chạy một hướng",
+        "heatmap đã quét hết vùng đỏ, lực tăng căng khó gãy"
+      ],
+      "trich": "Nhịp này hoàn toàn có thể kéo lên tận 68. Nhịp này theo mình đánh giá hoàn toàn có thể, tệ thì nó cũng lên MA200 chỗ này, lên lại test 67.",
+      "doi_y": null,
+      "duong_di": [
+        {
+          "huong": "TANG",
+          "dich": 67000
+        },
+        {
+          "huong": "TANG",
+          "dich": 69000
+        }
+      ]
+    },
+    {
+      "khung": "D1",
+      "huong": "TANG",
+      "do_chac": "thap",
+      "dich": [
+        70000,
+        75000
+      ],
+      "han": null,
+      "han_gio": null,
+      "vo_hieu_khi": "mất điểm màu vàng (đà tăng) mới đánh lại short",
+      "kich_ban_phu": "kỹ thuật thôi, chưa xét khả thi",
+      "ly_do": [
+        "khung ngày rất căng, Fibo cho vùng 70-71 hoặc căng lên 75",
+        "target non nhất cũng kéo 69, có thể 70 hoặc 75"
+      ],
+      "trich": "Theo góc độ kỹ thuật của khung ngày thì các bạn có thể thấy một là vùng 71 70 này. Hai là căng thì có thể lên đến tận 75.",
+      "doi_y": null,
+      "duong_di": null
+    },
+    {
+      "khung": "W1",
+      "huong": "GIAM",
+      "do_chac": "thap",
+      "dich": null,
+      "han": "biết xanh hay đỏ phải chờ thứ hai tuần sau",
+      "han_gio": 168,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": "nhưng không phải vì thế mà short ở giai đoạn này",
+      "ly_do": [
+        "nến tuần trước đóng đỏ rất xấu, bốn thân nến tuần đóng quanh 63.000",
+        "không tin nến tuần này xanh nổi, có thể kéo lên rồi trả về đỏ và test râu dưới, khả năng cắm sâu về 5x"
+      ],
+      "trich": "Cá nhân mình không nghĩ cây nến tuần đang chạy này ... khả năng là sẽ cắm sâu về vùng 5x. Nhưng không phải vì thế mà chúng ta đi short ở giai đoạn này.",
+      "doi_y": null,
+      "duong_di": null
+    }
+  ],
+  "vung_gia": {
+    "khang_cu": [
+      67000,
+      69000
+    ],
+    "ho_tro": [
+      63000,
+      64000
+    ]
+  },
+  "lenh": [
+    {
+      "chieu": "LONG",
+      "loai": "market (đã báo nhóm VIP)",
+      "vao": null,
+      "tp": [
+        65500,
+        67000
+      ],
+      "sl": null,
+      "trang_thai": "dang_giu",
+      "trich": "Đang 65.5 này, anh em nào long ăn ngắn TP1 thì ăn ở đây cũng được rồi. Còn nếu ăn dài thì TP ở vùng 67 khả năng rất cao sẽ hít được."
+    },
+    {
+      "chieu": "LONG",
+      "loai": "limit hồi",
+      "vao": 64000,
+      "tp": null,
+      "sl": null,
+      "trang_thai": "de_xuat_moi",
+      "trich": "Nếu tí nữa nó có nhịp test về lại 64 thì anh em có thể đánh long tiếp."
+    }
+  ],
+  "nhin_lai_truoc": "Lúc chiều cho nhóm VIP một lệnh short, bị SL ngắn (chuỗi win cả tuần bị gãy lệnh đầu), sau đó đổi sang long vì thấy nến xanh bất thường; lệnh short 'không sai' nhưng thị trường thể hiện thông điệp khác. Hôm trước ăn full nhịp tăng vùng 67.",
+  "cong_cu": [
+    "Fibo 0.5/0.618/mở rộng",
+    "MA200",
+    "MA89",
+    "H4",
+    "D1",
+    "tuần",
+    "mô hình cờ",
+    "trendline",
+    "heatmap liquidation",
+    "gap CME",
+    "lịch tin",
+    "nến xác nhận"
+  ],
+  "tin_tuc": [
+    {
+      "tin": "Thứ hai-thứ tư trống tin, thứ năm có PCE; tuần trước là tin FED",
+      "danh_gia": "ngày không có tin thị trường dễ chạy cùng một hướng; đến ngày có tin mới hay đảo chiều/nhập nhằng; lãi suất không còn sóng"
+    }
+  ],
+  "thoi_quen": [
+    "đọc 'thông điệp' của thị trường từ nến bất thường, tin vào cảm giác 'có gì sai sai'",
+    "đặt SL/TP theo setup mô hình, không gồng lệnh sai rồi hỏi có nên giữ không",
+    "không short khi chưa lên 69 hoặc chưa thủng 63.000; chờ nến H4 xác nhận",
+    "chốt nhanh khi có lãi vừa, chừa ít cho TP xa",
+    "không nhồi thêm ở vùng entry xấu",
+    "không đánh altcoin khi DOM đi lên cùng BTC"
+  ],
+  "cau_cua_mieng": [
+    "Cứ để thị trường chạy rõ xu hướng đã.",
+    "Lơ ngơ nhảy vào đây short là mất tiền.",
+    "Cứ Fibo mà phang thôi.",
+    "Thị trường nó cũng khoai lắm chứ đâu phải là dễ ăn đâu."
+  ],
+  "altcoin": [
+    {
+      "coin": "ETH",
+      "huong": "TANG",
+      "ghi": "mô hình hai đáy H4, TP 1830, căng 1900, rồi 1950; long đổi từ short BTC"
+    },
+    {
+      "coin": "altcoin chung",
+      "huong": "GIAM",
+      "ghi": "DOM đi lên theo BTC nên altcoin không thơm, không có cửa"
+    },
+    {
+      "coin": "vàng",
+      "huong": "TANG",
+      "ghi": "test Fibo 0.618, nếu ngày đóng xanh tuần này bay; không swing, TP ở MA200"
+    }
+  ],
+  "ghi_chu": "gio_vn mặc định; transcript không có giờ. '64.003/63.003' hiểu 64.500/63.500 (mơ hồ), '64.080' hiểu ~64.800. Phần lớn nói thêm về vàng, dầu, chứng khoán, thuế bỏ qua."
+}

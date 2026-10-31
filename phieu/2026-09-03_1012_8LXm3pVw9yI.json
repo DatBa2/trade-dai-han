@@ -1,0 +1,173 @@
+{
+  "buoi": "2026-09-03_1012_8LXm3pVw9yI",
+  "ngay": "2026-09-03",
+  "gio_vn": "10:12",
+  "gia_btc_luc_noi": null,
+  "nhan_dinh": [
+    {
+      "khung": "H4",
+      "huong": "GIAM",
+      "do_chac": "vua",
+      "dich": [
+        75000,
+        76000
+      ],
+      "han": "trong ngày / vài ngày",
+      "han_gio": 48,
+      "vo_hieu_khi": "nến đóng trên 79.000 (phá cấu trúc giảm) thì mới nghĩ đến long",
+      "kich_ban_phu": "quét lên 78.000 trước rồi mới xuống; điều chỉnh sâu về 74 hoặc 72 (Fibo mở rộng, trùng MA ngày); đóng trên 79 thì đánh 79 lên 82, rồi 83 lên 90",
+      "ly_do": [
+        "cấu trúc H4 vẫn là sóng giảm, đỉnh đáy thấp dần",
+        "gặp cản H4, không có lý do long",
+        "kỳ vọng về test râu rồi lên Fibo rồi lại gãy"
+      ],
+      "trich": "Cấu trúc H4 hiện tại vẫn là cấu trúc sóng giảm: đỉnh đáy cứ kéo thấp dần... mình kỳ vọng nó sẽ test đâu đó khoảng 75",
+      "doi_y": null,
+      "duong_di": [
+        {
+          "huong": "TANG",
+          "dich": 78000
+        },
+        {
+          "huong": "GIAM",
+          "dich": 75000
+        }
+      ]
+    },
+    {
+      "khung": "D1",
+      "huong": "GIAM",
+      "do_chac": "vua",
+      "dich": [
+        73000,
+        74000
+      ],
+      "han": null,
+      "han_gio": null,
+      "vo_hieu_khi": "nến ngày đóng trên 79.000",
+      "kich_ban_phu": "đi trong biên 79-76 rồi mới đi lên; đẹp nhất về 72-73 bật lên tối thiểu 76",
+      "ly_do": [
+        "giá chưa qua được MA ngày, liên tục bị chặn",
+        "có thể cần về test MA ngày quanh 73-74, trùng MA200 H4",
+        "sau nhịp tăng đi chậm, nhiều nhịp đảo chiều lớn nằm ở sideway"
+      ],
+      "trich": "Trên D1 hoàn toàn có khả năng nó cần về test lại ở đoạn MA khung ngày, ... loanh quanh vùng 73, 74.",
+      "doi_y": null,
+      "duong_di": null
+    },
+    {
+      "khung": "W1",
+      "huong": "GIAM",
+      "do_chac": "thap",
+      "dich": null,
+      "han": null,
+      "han_gio": null,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": null,
+      "ly_do": [
+        "nến tuần đảo chiều cắm xuống, giá dưới MA tuần",
+        "nếu tuần sau đóng đỏ thì thành cụm ba nến đảo chiều đi xuống đẹp",
+        "downtrend vẫn còn khoảng nửa năm nữa"
+      ],
+      "trich": "Nếu nó đóng về lại một nến tuần màu đỏ thì chúng ta sẽ có một cụm ba nến đảo chiều đi xuống khá là đẹp.",
+      "doi_y": null,
+      "duong_di": null
+    }
+  ],
+  "vung_gia": {
+    "khang_cu": [
+      78000,
+      79000
+    ],
+    "ho_tro": [
+      72000,
+      76000
+    ]
+  },
+  "lenh": [
+    {
+      "chieu": "SHORT",
+      "loai": "limit",
+      "vao": [
+        77000,
+        78000
+      ],
+      "tp": [
+        76000
+      ],
+      "sl": null,
+      "trang_thai": "dang_giu",
+      "trich": "Hôm qua mình cho anh em sale ở vùng 77 đến 78; lệnh đó mình vẫn còn giữ, chờ nó về. Chắc là giảm TP xuống khoảng quanh 76, TP1 thôi."
+    },
+    {
+      "chieu": "LONG",
+      "loai": "limit",
+      "vao": [
+        72000,
+        73000
+      ],
+      "tp": [
+        76000
+      ],
+      "sl": null,
+      "trang_thai": "de_xuat_moi",
+      "trich": "Nếu long thì mình chờ đánh từ 72 lên 76, ăn chừng đó thôi... nếu nó thủng khỏi 72 thì cắt nhá, không giữ."
+    }
+  ],
+  "nhin_lai_truoc": "Hôm qua cho sale vùng 77-78, còn giữ chờ về; kỳ vọng ban đầu về 75 nhưng nay thấy lực khó về 75 nên hạ TP xuống 76.",
+  "cong_cu": [
+    "W1",
+    "D1",
+    "H4",
+    "H1",
+    "MA34",
+    "MA89",
+    "MA200",
+    "Fibo mở rộng",
+    "trendline",
+    "imbalance",
+    "BTC.D",
+    "Fear and Greed",
+    "liquidation heatmap"
+  ],
+  "tin_tuc": [
+    {
+      "tin": "Non farm và tin việc làm tối mai (thứ sáu)",
+      "danh_gia": "thị trường biến động; tháng 9 có CPI và lãi suất"
+    },
+    {
+      "tin": "Xác suất tăng lãi suất tháng 9 lên 60%",
+      "danh_gia": "mình thấy tháng này không có lý do tăng; nếu tăng thật thì là con confirm cho đáy sắp tới"
+    }
+  ],
+  "thoi_quen": [
+    "không long khi giá dưới MA tuần và gặp cản",
+    "long hồi chỉ đánh nhịp 72 lên 76, thủng 72 cắt",
+    "chờ phá cấu trúc/đóng nến trên 79 mới long",
+    "chia nhỏ vốn altcoin",
+    "bỏ qua những con khó đánh"
+  ],
+  "cau_cua_mieng": [
+    "Làm gì làm, anh em phải nhớ là downtrend, được chưa?",
+    "Cứ ngóc đầu lên một tí lại thấy toàn cản thì long còn ung thư hơn.",
+    "Không bao giờ biết con nào là đáy nhá các bạn."
+  ],
+  "altcoin": [
+    {
+      "coin": "ETH",
+      "huong": "TANG",
+      "ghi": "đủ điều kiện tăng tiếp nhưng nếu BTC gãy thì chết; chờ breakout H1"
+    },
+    {
+      "coin": "altcoin chung",
+      "huong": "PHAN_VAN",
+      "ghi": "nhìn đẹp nhưng DOM chưa khả quan; Bitcoin gãy trước thì alt gãy theo"
+    },
+    {
+      "coin": "SOL",
+      "huong": "GIAM",
+      "ghi": "bản chất vẫn là sóng giảm"
+    }
+  ],
+  "ghi_chu": "Không nêu giá BTC hiện tại rõ (biên 77-78). Bản gốc có nhiều số '7800' mơ hồ: hiểu entry sale phụ là cao hơn (khoảng 78.000-79.000, swing; 'short big 83, 85'), không ghi thành lệnh. 'Hạ TP xuống 76' lấy từ bản sạch."
+}

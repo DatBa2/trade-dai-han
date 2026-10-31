@@ -1,0 +1,100 @@
+{
+  "buoi": "2026-04-27_9oEDyu-IfMM",
+  "ngay": "2026-04-27",
+  "gio_vn": "10:00",
+  "gia_btc_luc_noi": 77000,
+  "nhan_dinh": [
+    {
+      "khung": "H4",
+      "huong": "GIAM",
+      "do_chac": "cao",
+      "dich": [74000, 76300],
+      "han": "ngày mai ngày kia (đến trước tin lãi suất thứ tư)",
+      "han_gio": 48,
+      "vo_hieu_khi": "H4 đóng trên 77.000-77.700 thì còn hope long lên 8x",
+      "kich_ban_phu": "tối thiểu về lấp gap 76.000, đường MA 76.3 (nếu H1/M30 đóng xuyên 2 nến thì rất xấu); xấu hơn về MA200 H4 74.000 / Fibo 72; trước đó có nhịp hồi nhẹ, chỉ short scalping M5 khi hồi test MA34; lấp gap 80 lần hai rồi mới big short ở 80-81",
+      "ly_do": [
+        "H4 test MA34 nhiều lần đi không nổi, đỉnh sau cách xa đỉnh trước rồi thu hẹp, đảo chiều dần",
+        "lên nến xanh trả về cây đỏ H4 thường là cảnh báo điều chỉnh",
+        "bị từ chối ở Fibo 0.5 tuần 79.000 (lực bất tòng tâm), 3 ngày nỗ lực không thành",
+        "MA200 H4 73-74 là hỗ trợ cực cứng, MA89 không đáng tin vì test quá nhiều"
+      ],
+      "trich": "H4 này khả năng điều chỉnh cực kỳ cao, nhớ nhé. ... BTC tầm này chỉ có short thôi. Nhưng mà short ở đây thì đến tầm khoảng 76.000 là phải chốt.",
+      "doi_y": null,
+      "duong_di": null
+    },
+    {
+      "khung": "D1",
+      "huong": "TANG",
+      "do_chac": "thap",
+      "dich": [75000, 76000],
+      "han": "ngắn hạn điều chỉnh",
+      "han_gio": null,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": "D1 có khả năng gãy: phân kỳ, râu nến không qua Fibo 0.618; nếu nến tuần đỏ thì kết thúc nhịp tăng trung hạn",
+      "ly_do": [
+        "khung ngày vẫn là xu hướng tăng, điều chỉnh về 75-76 là bình thường",
+        "chưa có lệnh short nào, chờ lên 82-83 mới short"
+      ],
+      "trich": "Nhìn màu này thì khả năng điều chỉnh về dưới này là cao, 76 75 gì đó. Nhưng đối với khung ngày thì mọi thứ vẫn ổn.",
+      "doi_y": null,
+      "duong_di": null
+    },
+    {
+      "khung": "W1",
+      "huong": "GIAM",
+      "do_chac": "thap",
+      "dich": [70000, 72000],
+      "han": "trong tuần này nếu nến tuần đỏ (đóng thứ hai tuần sau)",
+      "han_gio": 168,
+      "vo_hieu_khi": "vượt Fibo 0.5 tuần ~79.000 thì lên được 83, 89-90",
+      "kich_ban_phu": "vẫn thấy cửa lên 80-83 về kỹ thuật nhưng vùng 78-83 rất nguy hiểm, dễ FOMO",
+      "ly_do": [
+        "nến tuần xanh khiêm tốn dừng ngay Fibo 0.5 tuần 79.000, bị từ chối",
+        "Fibo, cản, MA bắt đầu giao cắt, nên cảnh giác",
+        "nếu tuần đóng đỏ thì khả năng kết thúc nhịp tăng trung hạn đến cuối năm rất cao"
+      ],
+      "trich": "tuần này chúng ta đóng một cây nến đỏ thì ... khả năng kết thúc nhịp tăng lần này về trung hạn, tức là từ giờ đến cuối năm, là rất cao.",
+      "doi_y": null,
+      "duong_di": null
+    },
+    {
+      "khung": "chung",
+      "huong": "GIAM",
+      "do_chac": "thap",
+      "dich": 54000,
+      "han": "swing, năm nay không có uptrend",
+      "han_gio": null,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": "TP swing short có thể 70.500 hoặc 54.000; mình hiện không short, chỉ view",
+      "ly_do": ["năm nay theo mình không có uptrend", "đã long quá đủ từ 6x lên 79", "vàng cắm đầu giảm thì BTC khó sống"],
+      "trich": "Short swing Bitcoin entry. TP có thể bao nhiêu? Mình nghĩ là 54.000. TP 70k5. Mình hiện tại không short, mình view thôi chứ mình không vào lệnh.",
+      "doi_y": null,
+      "duong_di": null
+    }
+  ],
+  "vung_gia": {"khang_cu": [77700, 79000, 80000, 83000], "ho_tro": [76300, 76000, 74000, 73000, 72000]},
+  "lenh": [],
+  "nhin_lai_truoc": "Sáng nay vào một lệnh long nhỏ chốt lãi hơn 1000 giá (TP 80.000 nhưng chỉ lên 79.500); đã chốt hết long ở 78-79; đã thoát lệnh sau cây nến chiều. Lệnh RE chốt clear, còn ít volume làm kỷ niệm.",
+  "cong_cu": ["Fibo 0.5 tuần 79.000", "Fibo 0.618", "H4 MA34/89/200", "M30 MA", "gap 76.000 và gap 80.000 lấp hai lần", "heatmap liquidation", "nến H4/D1", "vàng dầu"],
+  "tin_tuc": [{"tin": "tin lãi suất Fed thứ tư", "danh_gia": "trước tin thị trường sideway, long short đều thua; đừng nhảy long ngắn rồi đu đỉnh"}],
+  "thoi_quen": [
+    "không short đuổi, chờ gap lấp xong và đủ tín hiệu (nến lực bán + test MA34) mới scalping short M5",
+    "mỗi ngày đánh rất ít (tối đa 1 lệnh), không vội, ai lì hơn thì thắng",
+    "ăn khúc giữa con cá, đầu và đuôi chỉ rỉa; không long vùng nguy hiểm 78-83",
+    "nến đóng xấu là thoát, tôn trọng tín hiệu của phương pháp mình dùng",
+    "không chia sẻ điểm vào ra chi tiết để tránh ảnh hưởng người khác",
+    "scalping khung giờ khoảng 23:20 đến 1:00 sáng phiên Mỹ"
+  ],
+  "cau_cua_mieng": [
+    "Bản chất trên thị trường thằng nào lì hơn thằng đó thắng, thằng nào kiên nhẫn hơn thằng đó thắng.",
+    "Ăn là ăn khúc giữa con cá này.",
+    "Đã dùng thì phải tin, mà tin thì mới dùng được."
+  ],
+  "altcoin": [
+    {"coin": "altcoin chung", "huong": "GIAM", "ghi": "chưa vào sóng, không cần phân tích; BNB, SOL không lên nổi MA89; BTC gãy thì altcoin không sống"},
+    {"coin": "ETH", "huong": "GIAM", "ghi": "rụng từ 2004 về 2002; phụ thuộc BTC"},
+    {"coin": "HYPE", "huong": "GIAM", "ghi": "D1 phân kỳ, H4 điều chỉnh nhìn hấp dẫn nhưng ngược xu hướng D1 thì không chơi"}
+  ],
+  "ghi_chu": "Giờ live không rõ (đặt 10:00; buổi này là tối thứ hai, không livestream sáng). Giá lúc nói ~77.000-77.800 rồi 76.xxx. Chưa chắc giá cuối buổi."
+}

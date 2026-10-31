@@ -1,0 +1,24 @@
+{
+  "buoi": "2026-01-07_NOBgwE4Gdko",
+  "ngay": "2026-01-07",
+  "gia_btc_luc_noi": 92000,
+  "moc": [
+    {"gia": 91000, "gia_tren": null, "vai_tro": "ho_tro", "huong": "TANG", "khung": "H4", "can_cu": ["gap mới (91.000-90.000)", "râu nến ngày D1 hôm qua", "râu nến H4", "Fibo 0.5 sóng H4 (từ đáy lên đỉnh hôm qua, nằm ở 91.000 chẵn)", "cụm thanh lý / heatmap (liquid 91K)"], "moc_gio": "00:13:28", "tai_san": "BTC", "chac": true, "trich": "khả năng kiểu gì cũng về test lại cái râu này 91 hoặc thấp hơn... Fibo 0.5 nằm ở vùng 91.000 chẵn."},
+    {"gia": 90000, "gia_tren": null, "vai_tro": "ho_tro", "huong": "TANG", "khung": null, "can_cu": ["gap CME"], "moc_gio": "00:05:41", "tai_san": "BTC", "chac": true, "trich": "Gap hôm qua mình vẽ sẵn ở đây. Đây 91.00, 90.00 và ở dưới này là 88.00 và 87.00."},
+    {"gia": 87000, "gia_tren": 88000, "vai_tro": "ho_tro", "huong": "TANG", "khung": null, "can_cu": ["gap CME (88 và 87)"], "moc_gio": "00:05:41", "tai_san": "BTC", "chac": true, "trich": "ở dưới này là 88.00 và 87.00. (gap)"},
+    {"gia": 89000, "gia_tren": 90000, "vai_tro": "ho_tro", "huong": "TANG", "khung": "H4", "can_cu": ["Fibo (đo sóng từ đỉnh đáy, đáy đỉnh lớn hơn)"], "moc_gio": "00:14:01", "tai_san": "BTC", "chac": true, "trich": "nếu cái sóng này nó đi từ vùng này lên vùng này luôn... thì Fibo nằm ở 89.000 và 90."},
+    {"gia": 106000, "gia_tren": 108000, "vai_tro": "dich", "huong": "TANG", "khung": null, "can_cu": ["Fibo (maximum tối đa của nhịp hồi)"], "moc_gio": "00:14:31", "tai_san": "BTC", "chac": true, "trich": "Maximum tối đa của nhịp này là 106 đến 108 thôi. Theo Fibo"},
+    {"gia": 98000, "gia_tren": 100000, "vai_tro": "dich", "huong": "TANG", "khung": null, "can_cu": [], "moc_gio": "00:15:01", "tai_san": "BTC", "chac": true, "trich": "Kỳ vọng của mình ở nhịp này là 98.000 cho đến 100.000, nhưng không phải nó vút một cái lên liền."},
+    {"gia": 100000, "gia_tren": null, "vai_tro": "entry", "huong": "GIAM", "khung": null, "can_cu": ["số tròn"], "moc_gio": "00:14:31", "tai_san": "BTC", "chac": true, "trich": "Hy vọng nó sẽ lên được 100 để mình mở thêm các vị thế short."},
+    {"gia": 76000, "gia_tren": null, "vai_tro": "ho_tro", "huong": "TANG", "khung": "H4", "can_cu": ["đường MA màu xanh H4 (không nêu số MA)"], "moc_gio": "00:18:16", "tai_san": "BTC", "chac": false, "trich": "ít nhất là đường MA màu xanh này sẽ được test, tức là khoảng 76.000 sẽ được test sớm."},
+    {"gia": 86000, "gia_tren": 87000, "vai_tro": "ho_tro", "huong": "TANG", "khung": null, "can_cu": ["gap CME"], "moc_gio": "00:18:48", "tai_san": "BTC", "chac": true, "trich": "khi nó test gap thì nó lại cắm về 86, 87. Lúc đó nếu long sớm ở khoảng 90, 91 thì sẽ chết."},
+    {"gia": 91000, "gia_tren": null, "vai_tro": "ho_tro", "huong": "TANG", "khung": "M30", "can_cu": ["Fibo 0.618 chạm và bật lên (đo trên khung nhỏ, nói chưa chắc)"], "moc_gio": "00:22:03", "tai_san": "BTC", "chac": false, "trich": "Ở đây chắc chắn là Fibo 0.618. Để đo thử xem. 0.618 chạm và bật lên thì nó phải qua được đường MA trên này."},
+    {"gia": 88000, "gia_tren": null, "vai_tro": "ho_tro", "huong": "TANG", "khung": null, "can_cu": ["gap CME", "thủng 91 thì về 88"], "moc_gio": "00:59:26", "tai_san": "BTC", "chac": true, "trich": "cái gap này với lại cái vùng khoảng 91, thủng 91 thì về 88."},
+    {"gia": 87000, "gia_tren": 88000, "vai_tro": "dich", "huong": "GIAM", "khung": null, "can_cu": ["liên hệ ETH về đầu 3000"], "moc_gio": "00:37:59", "tai_san": "BTC", "chac": true, "trich": "nếu Bitcoin về 87 88000 thì ETH chắc cũng phải về đầu 3000 thôi"},
+    {"gia": 40000, "gia_tren": null, "vai_tro": "entry", "huong": "TANG", "khung": "W1", "can_cu": ["giảm khoảng 70% từ đỉnh (~37-40K)"], "moc_gio": "00:09:11", "tai_san": "BTC", "chac": true, "trich": "Mình sẽ chờ Bitcoin từ 40 cho đến khoảng 20... giảm khoảng 70% từ đỉnh là bắt đầu mua được."},
+    {"gia": 20000, "gia_tren": null, "vai_tro": "entry", "huong": "TANG", "khung": "W1", "can_cu": ["giảm khoảng 85% từ đỉnh"], "moc_gio": "00:10:15", "tai_san": "BTC", "chac": true, "trich": "85% là khoảng 20.000. Thì chúng ta có thể mua được trong vùng biên từ khoảng 40 về đến 20."},
+    {"gia": 94000, "gia_tren": null, "vai_tro": "khang_cu", "huong": "TANG", "khung": null, "can_cu": ["đỉnh gần nhất"], "moc_gio": "00:43:07", "tai_san": "BTC", "chac": true, "trich": "Bitcoin còn quay lại test trên 94 nữa không? Mình nghĩ là có nhưng mà phải về thấp dưới này đã rồi lên"},
+    {"gia": 93000, "gia_tren": null, "vai_tro": "sl", "huong": "GIAM", "khung": null, "can_cu": [], "moc_gio": "00:57:47", "tai_san": "BTC", "chac": true, "trich": "93k này, SL ở trên này. Còn lại TP thả về 91k3, 91250"},
+    {"gia": 91250, "gia_tren": 91300, "vai_tro": "tp", "huong": "GIAM", "khung": null, "can_cu": ["cụm thanh lý / heatmap (liquid 91K)"], "moc_gio": "00:57:47", "tai_san": "BTC", "chac": true, "trich": "TP thả về 91k3, 91250, 91k3 gì đó."}
+  ]
+}

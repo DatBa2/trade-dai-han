@@ -1,0 +1,112 @@
+{
+  "buoi": "2026-07-14_gpyn9kVPpn4",
+  "ngay": "2026-07-14",
+  "gio_vn": "10:08",
+  "gia_btc_luc_noi": 62576,
+  "nhan_dinh": [
+    {
+      "khung": "H4",
+      "huong": "GIAM",
+      "do_chac": "vua",
+      "dich": [61000, 61200],
+      "han": "1–2 ngày, qua CPI tối nay (hết thứ Năm 16/07)",
+      "han_gio": 48,
+      "vo_hieu_khi": "H4 đóng trên 64.000 (vượt EMA200 H4 63.75K + vùng gãy cờ 64K) — đóng 2 cây trên 64.000 thì bỏ short",
+      "kich_ban_phu": "trước/sau CPI có cú quét lên 63.4–63.8K (EMA34 dải trên + EMA200 H4) rồi mới rụng; CPI xấu thì đi thẳng xuống 61K không hồi",
+      "duong_di": [
+        {"huong": "TANG", "dich": 63300},
+        {"huong": "GIAM", "dich": 61000}
+      ],
+      "doi_y": null,
+      "ly_do": [
+        "H4 giá dưới cả EMA34 (63.27K), EMA89 (62.87K), EMA200 (63.75K) — luật dưới 34/89/200 thì tìm short",
+        "D1 hôm qua (thứ Hai 13/07) đóng đỏ -2,28% đúng như buổi trước cảnh báo 'D1 đóng đỏ hôm nay sẽ rất xấu'; D1 nằm dưới dải EMA34 D1, hai đỉnh D1 64.7K",
+        "cờ H4 thất bại, 64K thành kháng cự; đáy 61.83K/61.89K test 2 lần liền — hỗ trợ test nhiều lần thì yếu, đích neckline 61K + cụm thanh lý 61K",
+        "dầu +9,4%, Nasdaq -1,5%, USDT.D tăng — chỉ số phụ củng cố phe giảm",
+        "CPI tối nay: trước tin không short đuổi, chờ hồi về vùng 63–63.4K"
+      ],
+      "trich": null
+    },
+    {
+      "khung": "D1",
+      "huong": "GIAM",
+      "do_chac": "cao",
+      "dich": [57000, 58000],
+      "han": "3–7 ngày (tới khoảng thứ Ba tuần sau)",
+      "han_gio": 168,
+      "vo_hieu_khi": "nến D1 đóng trên 65.000",
+      "kich_ban_phu": "hồi lên 66–68K test EMA89 D1 rồi mới rớt",
+      "duong_di": null,
+      "doi_y": null,
+      "ly_do": [
+        "giá dưới dải EMA34 D1 (62.78–64.82K), EMA89 D1 67.96K, EMA200 D1 74.7K",
+        "hai đỉnh D1 64.7K (06/07 và 10/07) bị bán ở MA34 D1",
+        "nến ngày 13/07 đỏ thân dài xác nhận phe bán"
+      ],
+      "trich": null
+    },
+    {
+      "khung": "W1",
+      "huong": "GIAM",
+      "do_chac": "cao",
+      "dich": [54000, 57000],
+      "han": "vài tuần",
+      "han_gio": null,
+      "vo_hieu_khi": "nến tuần đóng trên 68.000 (EMA200 tuần 68.16K)",
+      "kich_ban_phu": "tuần đóng dưới 54K thì mở đường 43K rồi 35K",
+      "duong_di": null,
+      "doi_y": null,
+      "ly_do": [
+        "downtrend chu kỳ: đỉnh 126K 10/2025, đáy dự kiến 2027",
+        "EMA34 tuần đã cắt xuống EMA89 tuần, giá dưới cả EMA200 tuần 68.16K",
+        "nến tuần này đang đỏ sau tuần xanh yếu (+0,2%) — phân kỳ chỉ là lực bán yếu, không phải lực mua mạnh"
+      ],
+      "trich": null
+    }
+  ],
+  "vung_gia": {
+    "khang_cu": [63000, 63400, 63750, 64000, 64700, 65000],
+    "ho_tro": [61800, 61300, 61000, 60000, 58000, 57000]
+  },
+  "lenh": [
+    {
+      "chieu": "SHORT",
+      "loai": "limit",
+      "vao": 63250,
+      "tp": [61200, 60300],
+      "sl": 64150,
+      "trang_thai": "de_xuat_moi"
+    }
+  ],
+  "hanh_dong": "dung_ngoai_cho_entry",
+  "giu_view": true,
+  "ly_do_doi_view": "Giữ view short của buổi 13/07: chưa có H4 nào đóng trên 63.000/64.000 (đóng cao nhất từ đó 62.99K), giá chưa tới đích 61K (đáy 61.83K), không phải đầu tuần/đầu tháng; D1 13/07 đóng đỏ còn củng cố view. CPI tối nay chỉ làm hoãn điểm vào, không đổi hướng.",
+  "rau": {
+    "tren": "64.425K — râu trên 1% của H4 07:00 13/07 (cây gãy cờ); gần hơn có 63.285K (H4 15:00 13/07)",
+    "duoi": "61.830K — H4 23:00 13/07, và 61.888K — H4 03:00 14/07 (hai râu dưới gần cùng mức)",
+    "test_lai": "Râu trên 63.3K CÓ — trùng Fibo 0.5–0.618 nhịp giảm H4 (63.13–63.43K) + EMA34 H4 + mốc 63K người đó chờ short; râu 64.425K KHÔNG ở chặng 1 vì EMA200 H4 63.75K chắn giữa (chỉ khi CPI quét). Râu dưới 61.83K CÓ ở chặng 2 — đã test 2 lần nên yếu, phía dưới là cụm thanh lý 61K + đáy 61.3–61.5K, đám đông long đặt SL dưới 61.8K"
+  },
+  "vung_on": [
+    {
+      "loai": "SHORT",
+      "khoang": [63100, 63600],
+      "ly_do": [
+        "Fibo 0.5–0.618 nhịp giảm H4 64.425→61.83K = 63.13–63.43K",
+        "EMA34 H4 (63.27K) + dải EMA34 H4 62.94–63.57K",
+        "mốc 63.000–63.600 người đó chờ short buổi 13/07 + thân nến H4 13/07 đóng quanh 62.9–63K",
+        "EMA200 H4 63.75K ngay trên làm trần"
+      ]
+    },
+    {
+      "loai": "LONG",
+      "khoang": [60500, 61000],
+      "ly_do": [
+        "neckline hai đỉnh H4 61K + cụm thanh lý Coinglass 61K",
+        "đáy D1 61.32K (06/07) / 61.55K (08/07)",
+        "Fibo H4 60.5–61K người đó nêu buổi 10/07 — chỉ quan sát, không limit (ngược xu hướng)"
+      ]
+    }
+  ],
+  "pha_vo_gia": null,
+  "loi_binh": "Hôm nay thứ Ba anh em, nến ngày hôm qua đóng đỏ dài đúng như mình nói, cái này là rất xấu cho phe long. H4 giá nằm dưới MA34, 89, 200 hết rồi, không có cơ sở gì để đi long. Nhưng giá đang 62.5 lưng chừng, tối nay lại có CPI, short đuổi tầm này là hòa mình vào đám đông — chờ nó hồi lên 63 đến 63.4 test lại MA34 với Fibo 0.5 rồi mình short, TP non 61.2, SL 64.1. Thà rớt nước miếng còn hơn lau nước mắt, chờ tin xong rồi tính."
+}

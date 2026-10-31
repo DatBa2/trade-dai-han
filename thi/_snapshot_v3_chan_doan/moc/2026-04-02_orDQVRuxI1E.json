@@ -1,0 +1,227 @@
+{
+  "buoi": "2026-04-02_orDQVRuxI1E",
+  "ngay": "2026-04-02",
+  "gia_btc_luc_noi": 67000,
+  "moc": [
+    {
+      "gia": 68000,
+      "gia_tren": null,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": null,
+      "can_cu": [
+        "vùng sideway lúc mở phiên sáng"
+      ],
+      "moc_gio": "00:04:24",
+      "chac": true,
+      "trich": "Ở cái vùng nó đi sideway lúc mở phiên sáng khoảng 68.000. Bây giờ về có 67.000 thôi mà."
+    },
+    {
+      "gia": 69500,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": "00:12:45",
+      "chac": true,
+      "trich": "hôm qua mình cũng đã nói cái nhịp này nó khá là đẹp thì kỳ vọng đêm ngày hôm qua nó lên đến sáu mươi chín nghìn năm"
+    },
+    {
+      "gia": 69000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "Fibo mở rộng target 1"
+      ],
+      "moc_gio": "00:14:24",
+      "chac": true,
+      "trich": "nó đã lên đến cái target 1 là 69.000 chưa? Fibo mở rộng. Chạm Fibo rụng xuống test."
+    },
+    {
+      "gia": 66000,
+      "gia_tren": null,
+      "vai_tro": "vo_hieu",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "Fibo 0.618 khung ngày"
+      ],
+      "moc_gio": "00:14:58",
+      "chac": true,
+      "trich": "H4 cây vào lúc 15:00 chiều nay nó sẽ đóng dưới cái vùng 66.000 này là coi như là fail là gãy luôn"
+    },
+    {
+      "gia": 65000,
+      "gia_tren": 66000,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "Fibo 0.618 ở 66.000"
+      ],
+      "moc_gio": "00:17:08",
+      "chac": true,
+      "trich": "khi nào nó gãy khỏi cái 65 66 này, 66 cho đến 65.000 này thì lúc này nó mới bị phá cái nhịp này... Fibo này đang nằm ở Fibo 0.618 nằm ở 66.000"
+    },
+    {
+      "gia": 40000,
+      "gia_tren": 50000,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [],
+      "moc_gio": "00:15:28",
+      "chac": false,
+      "trich": "theo khung lớn nó có thể kéo về bốn mấy, 50"
+    },
+    {
+      "gia": 67000,
+      "gia_tren": null,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý / heatmap"
+      ],
+      "moc_gio": "00:18:14",
+      "chac": true,
+      "trich": "Liquid thì anh em thấy là vùng lúc sáng nay 67.000 thì nó quét về dưới này... Cái vùng 67.000 này bị lụm hết"
+    },
+    {
+      "gia": 69000,
+      "gia_tren": 70000,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý / heatmap"
+      ],
+      "moc_gio": "00:18:14",
+      "chac": true,
+      "trich": "Bây giờ chúng ta sẽ có một cái vùng cao ở 69.000 và gần 70. Cái vùng đi lên để quét phe short."
+    },
+    {
+      "gia": 63000,
+      "gia_tren": 64000,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [
+        "cụm thanh lý / heatmap"
+      ],
+      "moc_gio": "00:18:45",
+      "chac": true,
+      "trich": "Dưới này chúng ta có một cái vùng liquid nếu mà khung dài nó còn ở cái vùng 63 64."
+    },
+    {
+      "gia": 64000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "trendline"
+      ],
+      "moc_gio": "00:19:19",
+      "chac": true,
+      "trich": "trendline này nó vẫn giữ được cái vùng giá dưới này và bật lên... Nó đạp về 64 thì sẽ thực sự rất là khốc liệt"
+    },
+    {
+      "gia": 80000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [],
+      "moc_gio": "00:38:38",
+      "chac": false,
+      "trich": "Tức là lực tăng để lên 80 thì mình nghĩ là vẫn giữ chứ nó không có sập hẳn"
+    },
+    {
+      "gia": 69700,
+      "gia_tren": null,
+      "vai_tro": "sl",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "swing"
+      ],
+      "moc_gio": "00:22:07",
+      "chac": true,
+      "trich": "anh em đánh lên đây thì cứ SL 69.700 swing là xong"
+    },
+    {
+      "gia": 53000,
+      "gia_tren": 54000,
+      "vai_tro": "tp",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": "00:22:07",
+      "chac": true,
+      "trich": "kéo TP về 53 tối thiểu cho mình. Tối thiểu là TP53. 54 53"
+    },
+    {
+      "gia": 64000,
+      "gia_tren": 65000,
+      "vai_tro": "tp",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": "00:22:41",
+      "chac": true,
+      "trich": "Gồng tiếp thì TP ở 65 64."
+    },
+    {
+      "gia": 74000,
+      "gia_tren": null,
+      "vai_tro": "dinh_cu",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "trendline"
+      ],
+      "moc_gio": "00:44:42",
+      "chac": false,
+      "trich": "Trừ chả lẽ trend line này là vào luôn, đúng không? (nhắc đỉnh 74.000)"
+    },
+    {
+      "gia": 65000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [],
+      "moc_gio": "00:46:17",
+      "chac": true,
+      "trich": "tỉ lệ về 65.000 là khoảng 70%"
+    },
+    {
+      "gia": 66000,
+      "gia_tren": 67000,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": "H4",
+      "can_cu": [],
+      "moc_gio": "00:46:17",
+      "chac": true,
+      "trich": "15% là đi ngang quanh cái vùng 66, 67 này từ giờ đến chiều (phục hồi lại 67.000 khoảng 15%)"
+    },
+    {
+      "gia": 67000,
+      "gia_tren": null,
+      "vai_tro": "entry",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "Fibo hoặc MA"
+      ],
+      "moc_gio": "00:58:29",
+      "chac": true,
+      "trich": "nó hồi lên đến 67 thì tính hồi lên đây tìm điểm short sau... cứ kênh Fibo hoặc MA chơi"
+    }
+  ]
+}

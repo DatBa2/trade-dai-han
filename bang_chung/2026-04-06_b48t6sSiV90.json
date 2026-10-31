@@ -1,0 +1,371 @@
+[
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[0].trich",
+  "trich": "Lời khuyên của cá nhân mình là không nên short các bạn ạ. Thị trường đang break rất đẹp ... Nhịp này mình nghĩ là maximum nó lên được 78.",
+  "giay": 234,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=b48t6sSiV90&t=234s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[1].trich",
+  "trich": "Điểm đầu tiên nó sẽ test lại là vùng 76 đến 78 này. Còn cá nhân mình thì vẫn kỳ vọng là nó lên được vùng đâu đó khoảng 80.",
+  "giay": 1160,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=b48t6sSiV90&t=1160s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[2].trich",
+  "trich": "dài hạn là mình nói BTC vẫn giảm, down trend rồi mà các bạn đừng kỳ vọng quá. Down trend này hãy chờ đi. Chúng ta gặp nhau ở vùng bốn mấy là đẹp.",
+  "giay": 2852,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=b48t6sSiV90&t=2852s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[3].trich",
+  "trich": "nếu phải chọn giữa hai phe long và short thì mình sẽ chọn long nếu gọi là set theo tính xổ số ở đoạn này.",
+  "giay": 1939,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=b48t6sSiV90&t=1939s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "lenh[0].trich",
+  "trich": "SL ở 68k, TP ở 70k4. Hay SL kéo xuống thấp tí khoảng 68k6",
+  "giay": 4154,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=b48t6sSiV90&t=4154s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "lenh[1].trich",
+  "trich": "bắt ở vùng 6500, giải từ 6500 cho đến 80",
+  "giay": 2904,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=b48t6sSiV90&t=2904s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[0].trich",
+  "trich": "sau đó nó sập tiếp về 50 40.000 gì đó là ok",
+  "giay": 271,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=b48t6sSiV90&t=271s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[1].trich",
+  "trich": "Nhịp này mình nghĩ là maximum nó lên được 78",
+  "giay": 880,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=b48t6sSiV90&t=880s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[2].trich",
+  "trich": "Điểm đầu tiên nó sẽ test lại là vùng 76 đến 78",
+  "giay": 1160,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=b48t6sSiV90&t=1160s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[3].trich",
+  "trich": "cá nhân mình vẫn kỳ vọng nó lên được vùng khoảng 80",
+  "giay": 1165,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=b48t6sSiV90&t=1165s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[4].trich",
+  "trich": "giá phải giữ được vùng 66... đóng nến tuần ở 69.000",
+  "giay": 1064,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=b48t6sSiV90&t=1064s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[5].trich",
+  "trich": "vùng 66 cho đến 65.000 này vẫn giữ được ở khung tuần",
+  "giay": 1077,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=b48t6sSiV90&t=1077s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[6].trich",
+  "trich": "thị trường đi trong khoảng từ 60 đến 70.000",
+  "giay": 965,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=b48t6sSiV90&t=965s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[7].trich",
+  "trich": "stop loss ở vùng 66.000. Đây là gần như điểm stop loss tuyệt đối của các lệnh long",
+  "giay": 1257,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=b48t6sSiV90&t=1257s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[8].trich",
+  "trich": "cây H4 đóng trên vùng 69.000 này trên MA200 cộng với trên cái đỉnh này",
+  "giay": 1362,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=b48t6sSiV90&t=1362s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[9].trich",
+  "trich": "Fibo target đây này. Nó cho chúng ta ngắn hạn là 70 này. 72 này",
+  "giay": 1390,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=b48t6sSiV90&t=1390s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[10].trich",
+  "trich": "Đôi khi trong ngày hôm nay nó cũng đẩy luôn 74 75 cũng có",
+  "giay": 1376,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=b48t6sSiV90&t=1376s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[11].trich",
+  "trich": "Thì nó vẫn là 81 này, 91 này",
+  "giay": 1409,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=b48t6sSiV90&t=1409s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[12].trich",
+  "trich": "MA89 của khung ngày tầm này nó không giữ được đâu. 74 như này... nhiều người short ở 74",
+  "giay": 1444,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=b48t6sSiV90&t=1444s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[13].trich",
+  "trich": "nó có thể đẩy lên đến 82 MA200 ở trên khung ngày. Đây mới thực sự là điểm để tìm sell swing",
+  "giay": 1467,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=b48t6sSiV90&t=1467s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[14].trich",
+  "trich": "chờ giá điều chỉnh về lại quanh 6800 cho đến 6700 mấy",
+  "giay": 1539,
+  "do_giong": 0.917,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=b48t6sSiV90&t=1539s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[15].trich",
+  "trich": "sáng nay có một cái gap nhỏ 67. Gap này chỉ nhìn cho vui",
+  "giay": 1672,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=b48t6sSiV90&t=1672s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[16].trich",
+  "trich": "vẫn còn một cái gap là 80, gap to không biết khi nào lấp",
+  "giay": 1694,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=b48t6sSiV90&t=1694s",
+  "anh": [
+   {
+    "file": "so_tay/khung/b48t6sSiV90_002927.jpg",
+    "giay": 1767,
+    "lech": 73
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[17].trich",
+  "trich": "một vùng ở trên 64 đúng không? 64 65 này. Nhưng vùng này là vùng dài hạn khung 1 tháng",
+  "giay": 1792,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=b48t6sSiV90&t=1792s",
+  "anh": [
+   {
+    "file": "so_tay/khung/b48t6sSiV90_003010.jpg",
+    "giay": 1810,
+    "lech": 18
+   },
+   {
+    "file": "so_tay/khung/b48t6sSiV90_002927.jpg",
+    "giay": 1767,
+    "lech": -25
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[18].trich",
+  "trich": "ví dụ như là 68.00 (vùng nhỏ vừa hình thành)",
+  "giay": 1781,
+  "do_giong": 0.636,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=b48t6sSiV90&t=1781s",
+  "anh": [
+   {
+    "file": "so_tay/khung/b48t6sSiV90_002927.jpg",
+    "giay": 1767,
+    "lech": -14
+   },
+   {
+    "file": "so_tay/khung/b48t6sSiV90_003010.jpg",
+    "giay": 1810,
+    "lech": 29
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[19].trich",
+  "trich": "vẫn có những lệnh short swing họ đặt stop loss ở 80.000 81.000",
+  "giay": 1828,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=b48t6sSiV90&t=1828s",
+  "anh": [
+   {
+    "file": "so_tay/khung/b48t6sSiV90_003010.jpg",
+    "giay": 1810,
+    "lech": -18
+   },
+   {
+    "file": "so_tay/khung/b48t6sSiV90_002927.jpg",
+    "giay": 1767,
+    "lech": -61
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[20].trich",
+  "trich": "SL nằm ở dưới cái đáy này thôi. 68.007",
+  "giay": 1970,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=b48t6sSiV90&t=1970s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[21].trich",
+  "trich": "bot long bắt ở vùng 6500, giải từ 6500 cho đến 80",
+  "giay": 2897,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=b48t6sSiV90&t=2897s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[22].trich",
+  "trich": "Phá lên được 78 thì sẽ lên được 80",
+  "giay": 3896,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=b48t6sSiV90&t=3896s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[23].trich",
+  "trich": "SL ở 68k, TP ở 70k4",
+  "giay": 4154,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=b48t6sSiV90&t=4154s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[24].trich",
+  "trich": "SL kéo xuống thấp tí khoảng 68k6",
+  "giay": 4158,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=b48t6sSiV90&t=4158s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[25].trich",
+  "trich": "Khi nào thủng 6800 này thì cắt",
+  "giay": 3627,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=b48t6sSiV90&t=3627s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[26].trich",
+  "trich": "Bitcoin bạn cứ dưới 50 bắt đầu tìm điểm mua là đẹp",
+  "giay": 3201,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=b48t6sSiV90&t=3201s",
+  "anh": []
+ }
+]

@@ -1,0 +1,77 @@
+{
+  "buoi": "2026-05-27_cFwCrK3RjcQ",
+  "ngay": "2026-05-27",
+  "gio_vn": "10:00",
+  "gia_btc_luc_noi": 76000,
+  "nhan_dinh": [
+    {
+      "khung": "H4",
+      "huong": "GIAM",
+      "do_chac": "cao",
+      "dich": [71000, 72000],
+      "han": null,
+      "han_gio": null,
+      "vo_hieu_khi": "H4 đóng trên 78.000 thì mới dám long",
+      "kich_ban_phu": "giá bật từ vùng hiện tại và qua 78.000 thì mới phục hồi lên tiếp",
+      "ly_do": ["H4 nằm dưới hết các đường MA", "cấu trúc giảm: đỉnh thấp dần, đêm qua tạo thêm đỉnh thấp", "thủng 75.000 thì phá đáy đi xuống"],
+      "trich": "Thủng tiếp khoảng 75.000 thì chắc là phá đáy đi về dưới này luôn. 71, 72 rất dễ về.",
+      "doi_y": null,
+      "duong_di": null
+    },
+    {
+      "khung": "D1",
+      "huong": "GIAM",
+      "do_chac": "cao",
+      "dich": [70000, 71000],
+      "han": null,
+      "han_gio": null,
+      "vo_hieu_khi": "nến ngày bật mạnh kéo MA lên (nếu không thì MA cắt xuống xác nhận giảm)",
+      "kich_ban_phu": "nến ngày đóng dưới 70.000 thì mất xu hướng tăng, vào downtrend; có khả năng vai đầu vai, neckline 75.000",
+      "ly_do": ["nến ngày đêm qua bán từ 78 về 75-76 rất xấu", "giá dưới các MA, cụm MA gãy", "70-71 là Fibo 0.5 và trendline hỗ trợ"],
+      "trich": "Nếu nó xuyên qua khỏi vùng này thì khả năng rất cao ít nhất nó về 71.000.",
+      "doi_y": null,
+      "duong_di": null
+    },
+    {
+      "khung": "W1",
+      "huong": "GIAM",
+      "do_chac": "vua",
+      "dich": [72000, 73000],
+      "han": null,
+      "han_gio": null,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": "về 72-73 nếu bắt đầu có nhịp hồi lên thì mới ngóc đầu được",
+      "ly_do": ["nến tuần bán nhấn chìm, lực bán áp đảo", "chưa tới hỗ trợ quan trọng nên không long"],
+      "trich": "Đối với khung tuần vẫn thấy lực bán đang rất áp đảo.",
+      "doi_y": null,
+      "duong_di": null
+    },
+    {
+      "khung": "H1",
+      "huong": "PHAN_VAN",
+      "do_chac": "thap",
+      "dich": null,
+      "han": null,
+      "han_gio": null,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": "M5 vẫn xu hướng giảm, đáy giảm đỉnh thấp",
+      "ly_do": ["H1 đang lững khững, khả năng đi ngang", "không có tín hiệu nào để long"],
+      "trich": "H1 thì đang lững khững. Đoạn này thị trường khả năng đang đi ngang.",
+      "doi_y": null,
+      "duong_di": null
+    }
+  ],
+  "vung_gia": {"khang_cu": [77000, 78000], "ho_tro": [75000, 75000]},
+  "lenh": [],
+  "nhin_lai_truoc": "Tháng 5 giá chỉ dao động 74-78, rộng hơn 70-80, lòng vòng; những ngày vừa rồi lỗ cũng bình thường vì thị trường khó chơi.",
+  "cong_cu": ["D1", "H4", "H1", "MA", "Fibo 0.5", "trendline", "gap CME", "liquidation", "Fear and Greed", "BTC.D", "USDT.D", "Altcoin season index"],
+  "tin_tuc": [{"tin": "PCE tối mai 19:30", "danh_gia": "khá quan trọng; thứ sáu-bảy-chủ nhật không có tin nên 3 ngày có thể chạy chung xu hướng do tin này quyết định"}],
+  "thoi_quen": ["không long khi không có tín hiệu nào; muốn long phải chờ H4 đóng trên 78.000", "khung lớn xác định xu hướng, khung nhỏ chỉ chọn entry", "đánh altcoin lướt ngắn, không quay lại lần hai", "không chốt/cắt lệnh hộ người khác"],
+  "cau_cua_mieng": ["Xu hướng rõ như ban ngày vậy thì kỳ vọng làm cái gì?", "Đừng đưa tiền của mình cho thằng khác chơi."],
+  "altcoin": [
+    {"coin": "ETH", "huong": "GIAM", "ghi": "downtrend từ đầu năm, tệ về 1000-1200, dưới 1000 gom đẹp; tệ cũng 1800"},
+    {"coin": "WLD", "huong": "TANG", "ghi": "tăng nhờ tin Musk thua Altman, còn lực; đánh lướt ở 34 bán 38-39"},
+    {"coin": "altcoin chung", "huong": "TANG", "ghi": "DOM gãy nên altcoin được hỗ trợ; Altcoin season index 33 vẫn vùng Bitcoin season; SOL phân phối giảm tiếp"}
+  ],
+  "ghi_chu": "Bản làm sạch không có giờ live; gio_vn mặc định 10:00. Nói '50-50' BTC về 60 hay lên 9x trong tháng 6. Giá BTC khoảng 76-77K suy từ lời nói."
+}

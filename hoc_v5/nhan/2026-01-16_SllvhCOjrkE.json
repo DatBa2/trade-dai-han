@@ -1,0 +1,425 @@
+{
+  "buoi": "2026-01-16_SllvhCOjrkE",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/zip_clean/2026-01-16_SllvhCOjrkE.txt",
+  "gia_btc_luc_noi": 95200,
+  "dau_buoi": {
+    "thien_huong_h4": "GIAM",
+    "gio": "[00:03:34]",
+    "trich": "H4 này. Quét lên và test lần hai. Chắc chắn cái vùng 97 này là Fibo 1618 rồi. Lên đây và đi xuống thì để xem cái nhịp này nó đi về đâu. Mình nghĩ sẽ còn giảm nữa. Tệ cũng phải về 94 hoặc 93."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "GIAM",
+    "do_chac": "vua",
+    "gio": "[00:51:47]",
+    "trich": "view thì view nó vẫn tăng nhưng nhịp này đang là nhịp điều chỉnh nên mình không tham gia, chưa vội long. Muốn long thì phải chờ nó điều chỉnh về thấp, khi có tín hiệu thì mới vào."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {
+    "huong": "GIAM",
+    "dich": [
+      93000,
+      94000
+    ]
+  },
+  "duong_di": [
+    {
+      "huong": "GIAM",
+      "dich": [
+        93000,
+        94000
+      ]
+    }
+  ],
+  "dich_chinh": [
+    93000,
+    94000
+  ],
+  "han_gio": null,
+  "vo_hieu": {
+    "gia": 96000,
+    "khung": "H4",
+    "so_nen": 1,
+    "chieu": "dong_tren",
+    "cau": "TP nói rồi, SL thấy không ổn thì có thể cắt. Ví dụ nó lên khoảng 96 thấy không được thì có thể out."
+  },
+  "lenh": [
+    {
+      "chieu": "SHORT",
+      "vao": null,
+      "tp": 94000,
+      "sl": 96000,
+      "trang_thai": "de_xuat_moi"
+    },
+    {
+      "chieu": "LONG",
+      "vao": [
+        93000,
+        94000
+      ],
+      "tp": null,
+      "sl": null,
+      "trang_thai": "de_xuat_moi"
+    },
+    {
+      "chieu": "LONG",
+      "vao": 92000,
+      "tp": 93000,
+      "sl": null,
+      "trang_thai": "de_xuat_moi"
+    }
+  ],
+  "hanh_dong": "vao_short",
+  "khung_lon": {
+    "D1": "Cây nến ngày đỏ đầu tiên sau chuỗi tăng 90→97, đã đạt TP1 96-98; lực bán bắt đầu nhảy vào nhưng chưa ghê gớm để gọi là gãy hẳn; view lớn 'vẫn tăng', đây là nhịp điều chỉnh. MA89 D1 là cản; nếu lên MA200 thì hy vọng còn nhịp cuối 99-100.",
+    "W1": "MA34 khung tuần (đường vàng) mới là cản thực sự, căng hơn MA89 D1."
+  },
+  "pha_vo_gia": "Có thể giá quét lên vùng liquid 97 (thậm chí 98) để quét stop loss short trước khi giảm — người nói thừa nhận 'cũng có' nhưng vẫn đánh theo nến.",
+  "nhin_lai_view_truoc": {
+    "view_truoc": "TANG",
+    "giu_hay_doi": "doi",
+    "vi_sao": "Đã chạm vùng TP1 96-98; có cây nến ngày đóng đỏ đầu tiên sau chuỗi tăng (lực bán vào); H4 quét lên test lần 2 ở Fibo 1.618 (97) rồi đi xuống, nến H4 dưới MA, H1 vào xu hướng điều chỉnh → hạn chế long, short dò về 94-93. Người nói vẫn bảo view lớn còn tăng, chỉ coi đây là nhịp điều chỉnh.",
+    "gio": "[00:05:13]",
+    "trich": "Đầu tiên chúng ta có một cây nến ngày màu đỏ đầu tiên sau chuỗi tăng trưởng từ vùng 90 lên đến 97. Như ngày hôm trước mình nói, những vùng này đã đạt vùng target đầu tiên quanh từ 96 đến 98. Từ 96 cho đến 98.000 là vùng TP1 cho nhịp tăng lần này và bắt đầu chúng ta có một cây nến đảo chiều màu đỏ, cây nến ngày đóng đỏ xuống thì bắt đầu có lực bán nhảy vào. Tất nhiên lực bán ở đây chưa phải quá ghê gớm để gọi là gãy hẳn down trend. Nhưng dấu hiệu này nhắc cho chúng ta câu chuyện là gì? Đừng có FOMO long nữa."
+  },
+  "trendline": [
+    {
+      "khung": "D1",
+      "loai": "kenh",
+      "noi_tu": "Mô hình cờ (kênh điều chỉnh) sau chuỗi tăng 90→97; không nói điểm neo",
+      "diem_neo": [],
+      "gia_duong_luc_noi": null,
+      "trang_thai": "chua_pha",
+      "dieu_kien_pha": null,
+      "ket_luan_huong": "GIAM",
+      "gio": "[00:06:58]",
+      "trich": "Cho nên ở đoạn này, anh em thấy nếu nó chạy theo mô hình cờ, bắt đầu điều chỉnh ở vùng này, nó điều chỉnh xuống thì cũng hợp lý. Cho nên khả năng là tầm này hạn chế long"
+    }
+  ],
+  "nen_volume": [
+    {
+      "khung": "H4",
+      "nen": "H4 quét lên test lần hai ở 97 (Fibo 1.618) rồi đi xuống",
+      "volume": null,
+      "ket_luan": "Còn giảm nữa, tệ cũng về 94-93; vào short nhỏ",
+      "gio": "[00:03:34]",
+      "trich": "H4 này. Quét lên và test lần hai. Chắc chắn cái vùng 97 này là Fibo 1618 rồi. Lên đây và đi xuống thì để xem cái nhịp này nó đi về đâu. Mình nghĩ sẽ còn giảm nữa."
+    },
+    {
+      "khung": "D1",
+      "nen": "Nến ngày đỏ đảo chiều đầu tiên sau chuỗi tăng 90→97",
+      "volume": null,
+      "ket_luan": "Lực bán nhảy vào (chưa ghê gớm, chưa gãy hẳn) → đừng FOMO long",
+      "gio": "[00:05:49]",
+      "trich": "bắt đầu chúng ta có một cây nến đảo chiều màu đỏ, cây nến ngày đóng đỏ xuống thì bắt đầu có lực bán nhảy vào. Tất nhiên lực bán ở đây chưa phải quá ghê gớm để gọi là gãy hẳn down trend."
+    },
+    {
+      "khung": "H4",
+      "nen": "Nến H4 giao dịch dưới đường MA; H1 vào xu hướng điều chỉnh",
+      "volume": null,
+      "ket_luan": "Thận trọng; cùng lắm bứt lên 96 rồi điều chỉnh tiếp",
+      "gio": "[00:10:23]",
+      "trich": "Tình hình của H4 các bạn thấy khá xấu. Thứ nhất là nến vẫn giao dịch ở dưới đường MA. H4 là dưới MA. Cộng với đó khi chúng ta đi vào khung H1 nữa, tạo một xu hướng điều chỉnh."
+    },
+    {
+      "khung": "H1",
+      "nen": "Chờ nến đẹp tại 93-94",
+      "volume": null,
+      "ket_luan": "Có nến đẹp mới vào long, không limit trước",
+      "gio": "[00:11:33]",
+      "trich": "Anh em nên chờ và theo dõi tín hiệu của nến. Tức là lúc đó nến đẹp thì chúng ta mới vào, còn không thì thôi."
+    },
+    {
+      "khung": "M15",
+      "nen": "Lực nến khi giá lên vùng liquid 97",
+      "volume": null,
+      "ket_luan": "Lực mạnh quá thì cắt sớm (có thể lên 98); lực yếu thì gồng short",
+      "gio": "[00:16:28]",
+      "trich": "Nếu trong lúc nó lên đây mà cảm thấy lực mạnh quá, không ổn thì có thể cắt sớm, bởi vì nó có thể lên đến 98. Hoặc nếu cảm thấy lực nó yếu thì có thể gồng"
+    },
+    {
+      "khung": "H4",
+      "nen": "H4 đóng",
+      "volume": null,
+      "ket_luan": "Không đẹp",
+      "gio": "[00:49:38]",
+      "trich": "H4 đóng, để xem thử có đóng cái gì hay không, nói chung là không đẹp."
+    }
+  ],
+  "cach_lam": [
+    {
+      "hanh_dong": "do",
+      "cong_cu": "fibo_mo_rong",
+      "chi_tiet": "Fibo mở rộng của sóng tăng trên H4",
+      "ket_qua": "97k = Fibo 1.618, bị test hai lần rồi đi xuống",
+      "gio": "[00:03:34]",
+      "trich": "Chắc chắn cái vùng 97 này là Fibo 1618 rồi."
+    },
+    {
+      "hanh_dong": "ve",
+      "cong_cu": "khac",
+      "chi_tiet": "Mô hình cờ sau chuỗi tăng",
+      "ket_qua": "Điều chỉnh xuống là hợp lý",
+      "gio": "[00:06:58]",
+      "trich": "nếu nó chạy theo mô hình cờ, bắt đầu điều chỉnh ở vùng này, nó điều chỉnh xuống thì cũng hợp lý."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "ema",
+      "chi_tiet": "Nến H4 so với MA",
+      "ket_qua": "Giá dưới MA H4 → xấu",
+      "gio": "[00:10:23]",
+      "trich": "nến vẫn giao dịch ở dưới đường MA. H4 là dưới MA."
+    },
+    {
+      "hanh_dong": "ke",
+      "cong_cu": "khac",
+      "chi_tiet": "Gap CME: xóa gap đã lấp; gap nhỏ khung 30 phút",
+      "ket_qua": "Gap 94-95 đã lấp; gap 30 phút nhỏ ~95k; còn gap 88k và gap 20k",
+      "gio": "[00:12:04]",
+      "trich": "Bên này có gap to, gap 94 95 này thì đã được lấp. Bây giờ chúng ta chỉ còn hai gap. Hai gap cuối. Gap đầu tiên là gap thấp dưới này, 88. Gap này là chưa lấp. Gap này với lại gap 20.000."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "heatmap",
+      "chi_tiet": "Liquidation heatmap",
+      "ket_qua": "Liquid 97k phía trên (có thể quét SL)",
+      "gio": "[00:15:53]",
+      "trich": "Heatmap hả? Có Liquid 97. Cao phết. Có khi nào nó lên đến trên này để nó quét stoploss không anh em? Cũng có."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "ema",
+      "chi_tiet": "MA89 khung ngày, MA34 khung tuần (đường vàng), MA200",
+      "ket_qua": "MA34 tuần là cản thực sự; lên MA200 thì hy vọng nhịp cuối 99-100",
+      "gio": "[00:32:10]",
+      "trich": "MA89 khung ngày không căng bằng MA34 khung tuần ở trên. Đường màu vàng ở trên khung tuần mới là cái cản thực sự. Nếu nó lên MA200 này thì mình vẫn hy vọng còn một nhịp cuối lên được khoảng 100, 99.000."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "Fear & Greed",
+      "ket_qua": "Từ 61 về 50; chờ về dưới 30 để làm vòng mua mới",
+      "gio": "[00:15:20]",
+      "trich": "Fear & Greed sau ngày hôm qua lên 61 thì bây giờ quay về lại ngưỡng 50."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "Quy trình trước khi vào lệnh scalp: xem tất cả các khung (lớn, H4, H1, 30 phút, 5 phút), mỗi khung xem MA + volume + hình thái nến + vùng giá + Fibo",
+      "ket_qua": "Thấy tỉ lệ ổn thì vào",
+      "gio": "[00:30:35]",
+      "trich": "View tất cả các khung. Khung lớn này, khung H4 này, H1 này, 30 phút này, 5 phút này. View xong thấy tỉ lệ ổn thì vào thôi. Mỗi khung thì xem đủ. Mỗi khung vừa xem MA, vừa xem volume, vừa xem hình thái của nến, vừa xem vùng giá rồi Fibo"
+    }
+  ],
+  "vung_nguoi_do": [
+    {
+      "loai": "khang_cu",
+      "tu": 97000,
+      "den": 97000,
+      "gio": "[00:03:34]",
+      "trich": "Chắc chắn cái vùng 97 này là Fibo 1618 rồi."
+    },
+    {
+      "loai": "dich",
+      "tu": 93000,
+      "den": 94000,
+      "gio": "[00:03:34]",
+      "trich": "Tệ cũng phải về 94 hoặc 93."
+    },
+    {
+      "loai": "tp",
+      "tu": 96000,
+      "den": 98000,
+      "gio": "[00:05:13]",
+      "trich": "Từ 96 cho đến 98.000 là vùng TP1 cho nhịp tăng lần này"
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 96000,
+      "den": 96000,
+      "gio": "[00:10:23]",
+      "trich": "Cùng lắm thì nó sẽ bứt tiếp lên khoảng 96.00 9600."
+    },
+    {
+      "loai": "vao",
+      "tu": 93000,
+      "den": 94000,
+      "gio": "[00:10:59]",
+      "trich": "Vùng 94 cho đến 93 là vùng chúng ta sẽ chờ. Không phải là chúng ta cần limit long ở đoạn này"
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 95000,
+      "den": 95000,
+      "gio": "[00:12:04]",
+      "trich": "Còn khúc nho nhỏ này khoảng 95.000 gì đó, khoảng vài trăm giá thôi."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 88000,
+      "den": 88000,
+      "gio": "[00:12:37]",
+      "trich": "Gap đầu tiên là gap thấp dưới này, 88. Gap này là chưa lấp."
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 97000,
+      "den": 97000,
+      "gio": "[00:10:23]",
+      "trich": "Có Liquid 97."
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 98000,
+      "den": 98000,
+      "gio": "[00:16:28]",
+      "trich": "bởi vì nó có thể lên đến 98."
+    },
+    {
+      "loai": "tp",
+      "tu": 94000,
+      "den": 94000,
+      "gio": "[00:17:02]",
+      "trich": "mình nghĩ anh em chốt ở quanh vùng 94, 9400 gì đó, chốt một nhịp, chốt thêm một nhịp nữa nếu nó gãy đẹp."
+    },
+    {
+      "loai": "vao",
+      "tu": 92000,
+      "den": 92000,
+      "gio": "[00:20:18]",
+      "trich": "ví dụ trong ngày hôm nay nó xả một phát về 92 các thứ sau đó nhấp lên thì anh em có thể ăn một cái sóng nhỏ, ăn từ khoảng 92 lên đến 93 gì đó."
+    },
+    {
+      "loai": "tp",
+      "tu": 93000,
+      "den": 93000,
+      "gio": "[00:20:18]",
+      "trich": "ăn từ khoảng 92 lên đến 93 gì đó."
+    },
+    {
+      "loai": "dich",
+      "tu": 99000,
+      "den": 100000,
+      "gio": "[00:32:10]",
+      "trich": "Nếu nó lên MA200 này thì mình vẫn hy vọng còn một nhịp cuối lên được khoảng 100, 99.000."
+    },
+    {
+      "loai": "sl",
+      "tu": 96000,
+      "den": 96000,
+      "gio": "[00:54:24]",
+      "trich": "Ví dụ nó lên khoảng 96 thấy không được thì có thể out."
+    }
+  ],
+  "view_trung_han": [
+    {
+      "khung": "D1",
+      "huong": "TANG",
+      "dich": [
+        99000,
+        100000
+      ],
+      "han": null,
+      "mat_view_khi": null,
+      "gio": "[00:51:47]",
+      "trich": "view thì view nó vẫn tăng nhưng nhịp này đang là nhịp điều chỉnh nên mình không tham gia, chưa vội long."
+    }
+  ],
+  "vung_tranh": [
+    {
+      "tu": 96000,
+      "den": 98000,
+      "vi_sao": "Vùng TP1 đã đạt + nến ngày đỏ đảo chiều, lực bán vào → đừng FOMO long nữa",
+      "gio": "[00:05:49]",
+      "trich": "Nhưng dấu hiệu này nhắc cho chúng ta câu chuyện là gì? Đừng có FOMO long nữa."
+    },
+    {
+      "tu": 93000,
+      "den": 94000,
+      "vi_sao": "Không limit long trước ở 93-94 vì chưa chắc, có thể gãy luôn; chỉ vào khi nến đẹp",
+      "gio": "[00:11:33]",
+      "trich": "Đừng limit trước là nguy hiểm bởi vì chưa chắc, biết đâu nó gãy luôn thì sao?"
+    }
+  ],
+  "giu_dong": [
+    {
+      "lenh": "Short BTC dò (đòn bẩy thấp)",
+      "quyet_dinh": "gong",
+      "khi_nao": "Đi đòn bẩy thấp và gồng xa, không đặt SL 500 giá; cắt tùy thị trường",
+      "gio": "[00:09:00]",
+      "trich": "Tầm này SL mà đánh ở vùng này mà SL 500 giá thì khác nào đưa tiền cho thị trường. Đi đòn bẩy thấp mà gồng dài chứ còn vùng này nếu anh em đánh scalping với phiên buổi sáng này thì cũng không cần phải scalping kiểu như vậy lắm. Mình nghĩ cứ đi đòn bẩy thấp rồi gồng cho nó xa. Còn lại cắt SL thì tùy theo thị trường."
+    },
+    {
+      "lenh": "Short BTC dò",
+      "quyet_dinh": "gong",
+      "khi_nao": "Nếu giá lên vùng liquid 97 mà lực mạnh quá thì cắt sớm (có thể lên 98); lực yếu thì gồng tiếp",
+      "gio": "[00:16:28]",
+      "trich": "Thằng này cứ để vậy cũng là một điểm để chúng ta gồng. Nếu trong lúc nó lên đây mà cảm thấy lực mạnh quá, không ổn thì có thể cắt sớm, bởi vì nó có thể lên đến 98. Hoặc nếu cảm thấy lực nó yếu thì có thể gồng bởi vì chúng ta đi đòn bẩy thấp thì tùy theo lực thị trường, tùy theo nến."
+    },
+    {
+      "lenh": "Short BTC dò",
+      "quyet_dinh": "chot_mot_phan",
+      "khi_nao": "Chốt một nhịp quanh 94k, chốt thêm nhịp nữa nếu gãy đẹp",
+      "gio": "[00:17:02]",
+      "trich": "Còn TP nếu nó short mà giảm được thì mình nghĩ anh em chốt ở quanh vùng 94, 9400 gì đó, chốt một nhịp, chốt thêm một nhịp nữa nếu nó gãy đẹp."
+    },
+    {
+      "lenh": "Short BTC dò",
+      "quyet_dinh": "dong",
+      "khi_nao": "Lên khoảng 96k thấy không ổn thì out",
+      "gio": "[00:54:24]",
+      "trich": "TP nói rồi, SL thấy không ổn thì có thể cắt. Ví dụ nó lên khoảng 96 thấy không được thì có thể out. Mình đòn bẩy thấp nên tùy theo thị trường mà xử lý."
+    },
+    {
+      "lenh": "Spot mua theo vòng Fear & Greed (tháng 12 - đầu tháng 1)",
+      "quyet_dinh": "dong",
+      "khi_nao": "Coi như xong vòng, chốt lãi mười mấy %; phần chừa lại thì SL entry hoặc để dài hạn",
+      "gio": "[00:15:53]",
+      "trich": "Vòng vừa rồi là coi như xong vòng của nhịp bắt tháng 12, đầu tháng 1, coi như chốt lãi được rồi. Ăn khoảng mười mấy phần. Ai chừa lại thì SL Entry hoặc để dài hạn"
+    }
+  ],
+  "tin_tuc": [
+    {
+      "su_kien": "Lịch tin tuần tới: Powell speak; 'idol' (Trump) phát biểu thứ tư tuần sau",
+      "thoi_diem": "thứ sáu đến thứ ba không có tin; thứ tư tuần sau",
+      "nguon": "lich_kinh_te",
+      "so_lieu": null,
+      "anh_huong_view": "Tin tức coi như xong; không nói tác động lên view",
+      "gio": "[00:17:02]",
+      "trich": "Tin tức thì khả năng xong rồi. Hôm nay thứ sáu, thứ bảy, chủ nhật, thứ hai, thứ ba là không có tin. Thứ tư là Powell speak. Không phải là chủ tịch FED nữa mà thứ tư tuần sau chúng ta sẽ thấy là idol lên speak luôn."
+    },
+    {
+      "su_kien": "Phiên Mỹ thứ sáu",
+      "thoi_diem": "tối nay",
+      "nguon": "khac",
+      "so_lieu": null,
+      "anh_huong_view": "Biến động lớn, thận trọng, chỉ dò không ham",
+      "gio": "[00:53:48]",
+      "trich": "Hôm nay thứ sáu thì sẽ biến động lớn đặc biệt là phiên Mỹ tối nay, anh em thận trọng. Chỉ dò thôi đừng ham vì vẫn còn vùng Liquid 97."
+    }
+  ],
+  "trich_them": [
+    {
+      "gio": "[00:03:34]",
+      "cau": "Vùng này mình nghĩ chắc còn giảm nữa. Hôm nay ở đây chắc là sẽ làm một cái lệnh short nho nhỏ."
+    },
+    {
+      "gio": "[00:10:59]",
+      "cau": "Nếu gặp cạnh trên này có thể là lên test lại vùng này rồi lại điều chỉnh xuống nữa. Cho nên đoạn này anh em muốn long thì phải từ từ thôi, đừng vội. Tất cả các khung đều đang trong nhịp điều chỉnh."
+    },
+    {
+      "gio": "[00:18:12]",
+      "cau": "Ngày hôm nay chắc mình sẽ hạn chế long bởi vì mình cần chờ những cú điều chỉnh sâu tí mình mới chắc kèo long."
+    },
+    {
+      "gio": "[00:51:17]",
+      "cau": "Mình không có view ngược. Các bạn đừng nhầm tưởng một lệnh long hay short là view. View khác, lệnh khác. View thị trường tăng mình vẫn có thể đánh short bình thường"
+    },
+    {
+      "gio": "[00:50:12]",
+      "cau": "Hôm nay thứ sáu nhắc anh em cẩn thận, hạn chế short."
+    }
+  ],
+  "kho": "Khó gán nhãn: H4 rõ là điều chỉnh về 93-94 và người nói vào short dò, nhưng chính họ nói 'view vẫn tăng, nhịp này là điều chỉnh' và còn hy vọng nhịp cuối 99-100 nếu lên MA200. Gán GIAM theo kịch bản H4 có đích số + hành động; view lớn TANG ghi ở view_trung_han D1. [00:50:12] 'hạn chế short' mâu thuẫn với short đang mở (có thể lỡ lời/lỗi phụ đề). 'Short 967 TP kênh nở 94 93' [00:34:23] có vẻ là câu hỏi người xem, không ghi thành trendline. Giá ~95.2k (suy từ 'nhấp lên 95.000 mấy', 'cùng lắm lên 96')."
+}

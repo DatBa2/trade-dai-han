@@ -1,0 +1,313 @@
+{
+  "buoi": "2026-03-04_OawlrpkFqQk",
+  "ngay": "2026-03-04",
+  "gia_btc_luc_noi": 68000,
+  "moc": [
+    {
+      "gia": 70000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "kênh giá",
+        "cản Fibo"
+      ],
+      "moc_gio": "00:05:35",
+      "chac": true,
+      "trich": "Vùng này nó đang đi kênh giá. Phá qua được chỗ này thì mình nghĩ là sẽ lên 70.000"
+    },
+    {
+      "gia": 71000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "target"
+      ],
+      "moc_gio": "00:06:08",
+      "chac": true,
+      "trich": "target là 71... Nếu H4 đóng xuyên qua được 71 trong một cây nến thì khả năng 90% là nó sẽ kéo luôn lên 75"
+    },
+    {
+      "gia": 75000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "sau khi H4 đóng trên 71"
+      ],
+      "moc_gio": "00:06:08",
+      "chac": true,
+      "trich": "khả năng 90% là nó sẽ kéo luôn lên 75 trong một nhịp"
+    },
+    {
+      "gia": 66000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "Fibo 0.5 và 0.618 các nhịp H4",
+        "vùng trống thanh khoản"
+      ],
+      "moc_gio": "00:15:10",
+      "chac": true,
+      "trich": "nhịp thứ ba ngày hôm qua cũng là 0.5, 618... vừa khẽ chạm vùng 6600 là bật lên luôn"
+    },
+    {
+      "gia": 62000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": null,
+      "khung": "D1",
+      "can_cu": [
+        "râu nến ngày cũ"
+      ],
+      "moc_gio": "00:27:43",
+      "chac": true,
+      "trich": "Râu 62 thì về test, râu 60 thì về test 62, về test 63; ví dụ 66 về test 67"
+    },
+    {
+      "gia": 63000,
+      "gia_tren": 69000,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "nền giá, đáy cao dần"
+      ],
+      "moc_gio": "00:28:46",
+      "chac": true,
+      "trich": "tạo nền giá ở vùng từ 63 cho đến 69. Vùng này hiện sẽ trở thành vùng hỗ trợ"
+    },
+    {
+      "gia": 70000,
+      "gia_tren": 71000,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [],
+      "moc_gio": "00:29:19",
+      "chac": true,
+      "trich": "các cột mốc target như mình nói hôm trước: vùng 70 đến 71 và vùng 75"
+    },
+    {
+      "gia": 75000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [],
+      "moc_gio": "00:29:19",
+      "chac": true,
+      "trich": "vùng 70 đến 71 và vùng 75"
+    },
+    {
+      "gia": 67000,
+      "gia_tren": null,
+      "vai_tro": "vo_hieu",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "MA34 H4",
+        "đáy H4"
+      ],
+      "moc_gio": "00:29:51",
+      "chac": true,
+      "trich": "bất kỳ cây nến H4 nào đóng cửa thấp hơn vùng 67.000 thì gần như là xu hướng tăng này là thất bại"
+    },
+    {
+      "gia": 66000,
+      "gia_tren": null,
+      "vai_tro": "sl",
+      "huong": "TANG",
+      "khung": "H1",
+      "can_cu": [],
+      "moc_gio": "00:32:38",
+      "chac": false,
+      "trich": "nếu H1 thủng khỏi 66.000 năm thì cũng nên té (66.500)"
+    },
+    {
+      "gia": 62000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "H1",
+      "can_cu": [
+        "Fibo mở rộng"
+      ],
+      "moc_gio": "00:32:02",
+      "chac": false,
+      "trich": "Fibo mở rộng cho chúng ta đi về sau 2005, 6200 (62.000)"
+    },
+    {
+      "gia": 68000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "TANG",
+      "khung": "H1",
+      "can_cu": [
+        "nhiều đỉnh không vượt qua"
+      ],
+      "moc_gio": "00:33:11",
+      "chac": true,
+      "trich": "rủi ro thứ nhất là vùng 68.000 không giữ được, không thể vượt qua được... Ba đỉnh, bốn đỉnh liên tục không vượt qua"
+    },
+    {
+      "gia": 80000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "gap CME"
+      ],
+      "moc_gio": "00:34:18",
+      "chac": true,
+      "trich": "vẫn là gap ở 80.000 và 93.000, nhưng trước mắt chúng ta view ở 80 trước"
+    },
+    {
+      "gia": 93000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "gap CME"
+      ],
+      "moc_gio": "00:34:18",
+      "chac": true,
+      "trich": "gap ở 80.000 và 93.000"
+    },
+    {
+      "gia": 67000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý / heatmap (stop loss 67)"
+      ],
+      "moc_gio": "00:34:54",
+      "chac": true,
+      "trich": "nó quét về 67 này rồi lại lên lại 69 thì cũng bình thường... Thanh lý ở 67"
+    },
+    {
+      "gia": 66500,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "quét qua stop loss 67"
+      ],
+      "moc_gio": "00:36:33",
+      "chac": false,
+      "trich": "nó đấm xuyên qua về 66.000 năm rồi mới rút lên"
+    },
+    {
+      "gia": 66500,
+      "gia_tren": null,
+      "vai_tro": "entry",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": "00:38:14",
+      "chac": false,
+      "trich": "Long limit 665"
+    },
+    {
+      "gia": 69000,
+      "gia_tren": null,
+      "vai_tro": "tp",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": "00:38:46",
+      "chac": true,
+      "trich": "TP1 69, TP2 70, TP3 71, TP4 75"
+    },
+    {
+      "gia": 70000,
+      "gia_tren": null,
+      "vai_tro": "tp",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": "00:38:46",
+      "chac": true,
+      "trich": "TP2 70"
+    },
+    {
+      "gia": 71000,
+      "gia_tren": null,
+      "vai_tro": "tp",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": "00:38:46",
+      "chac": true,
+      "trich": "TP3 71"
+    },
+    {
+      "gia": 75000,
+      "gia_tren": null,
+      "vai_tro": "tp",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": "00:38:46",
+      "chac": true,
+      "trich": "TP4 75"
+    },
+    {
+      "gia": 69000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý short"
+      ],
+      "moc_gio": "01:04:13",
+      "chac": true,
+      "trich": "nếu nó quét short thì nó lên trước 69"
+    },
+    {
+      "gia": 124000,
+      "gia_tren": null,
+      "vai_tro": "entry",
+      "huong": "GIAM",
+      "khung": "W1",
+      "can_cu": [],
+      "moc_gio": "00:57:03",
+      "chac": true,
+      "trich": "lệnh sell của mình ở vùng 124 (đỉnh 126)"
+    },
+    {
+      "gia": 40000,
+      "gia_tren": null,
+      "vai_tro": "tp",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": "00:57:36",
+      "chac": false,
+      "trich": "10% này mình sẽ giữ... có thể là 40.000 hoặc 20.000"
+    },
+    {
+      "gia": 20000,
+      "gia_tren": null,
+      "vai_tro": "tp",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": "00:57:36",
+      "chac": false,
+      "trich": "có thể là 40.000 hoặc 20.000 gì đó"
+    }
+  ]
+}

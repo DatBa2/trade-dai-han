@@ -1,0 +1,139 @@
+{
+ "buoi": "2026-07-02_w4bvsDte3bI",
+ "ngay": "2026-07-02",
+ "gio_vn": "10:00",
+ "gia_btc_luc_noi": 60000,
+ "nhan_dinh": [
+  {
+   "khung": "H4",
+   "huong": "TANG",
+   "do_chac": "thap",
+   "dich": [
+    62000,
+    64000
+   ],
+   "han": null,
+   "han_gio": null,
+   "vo_hieu_khi": "nến H4 đóng dưới 59.000",
+   "vo_hieu_cau_truc": {
+    "gia": 59000,
+    "khung": "H4",
+    "so_nen": 1,
+    "chieu": "dong_duoi",
+    "cau": "Nếu muốn short thì phải chờ cây H4 đóng lúc 15:00 chiều nay. Nó về lại dưới 59 thì sau đó lại có entry short. Mình không vội."
+   },
+   "kich_ban_phu": null,
+   "duong_di": null,
+   "doi_y": "Đầu buổi giữ view giảm (dưới 61 không long, short DCA quanh 60.000, SL khi H1/H4 đóng trên 61). Nến H4 11:00 đóng quanh 60.900–61.000, người đó coi là đã xác nhận qua cản: dời view lên vùng 62–64, bảo bỏ short, muốn long thì chờ test Fibo/MA khung nhỏ.",
+   "ly_do": [],
+   "trich": "Mình đã di chuyển lên trên. Vùng này nó đã xác nhận như vậy thì tạm thời anh em short là không nên cố chấp, không nên giữ lệnh. Đi như vậy thì các bạn short nên ở ngoài đi. Nếu muốn short nữa chờ nó gãy lại có nến xác nhận confirm theo H ít nhất là H1 rồi mới tính.",
+   "nhan_v1": "PHAN_VAN"
+  },
+  {
+   "khung": "M5",
+   "huong": "GIAM",
+   "do_chac": "thap",
+   "dich": [
+    58000,
+    59000
+   ],
+   "han": "trong ngày",
+   "han_gio": 24,
+   "vo_hieu_khi": "H1 đóng trên 61.000 (hoặc 60.000) thì thoát short",
+   "kich_ban_phu": "quét râu lên 60.800 rồi mới rớt; hoặc lên 61 rồi 62-64",
+   "ly_do": [
+    "M5 gặp cản Fibo, không qua được dễ rơi về 58",
+    "short entry 60.000 trở lên, DCA, SL theo nến H1"
+   ],
+   "trich": "Khi nó không qua được cản này thì rất dễ rơi về vùng 58.",
+   "doi_y": "sáng nghiêng short scalping; sau khi giá đóng trên 61 thì khuyên tránh short",
+   "duong_di": null
+  }
+ ],
+ "vung_gia": {
+  "khang_cu": [
+   61000,
+   63000
+  ],
+  "ho_tro": [
+   58000,
+   59000
+  ]
+ },
+ "lenh": [
+  {
+   "chieu": "SHORT",
+   "vao": [
+    59500,
+    60000
+   ],
+   "tp": [
+    58000
+   ],
+   "sl": 61000,
+   "trang_thai": "da_dong"
+  }
+ ],
+ "nhin_lai_truoc": "Hôm qua đoán đúng nhịp lên vùng 60.000 mấy, nhưng không ăn được các nhịp long và short; thị trường quét lên 61.003 rồi gãy 59; short đêm qua out lãi 300-400 giá.",
+ "cong_cu": [
+  "H4",
+  "H1",
+  "M5",
+  "Fibo",
+  "MA200",
+  "MA34/89",
+  "BTC.D",
+  "USDT.D",
+  "Hyblock",
+  "funding",
+  "Fear & Greed"
+ ],
+ "tin_tuc": [
+  {
+   "tin": "Non farm tối nay 7:30",
+   "danh_gia": "có tin nên khó đánh"
+  },
+  {
+   "tin": "Mỹ nghỉ lễ quốc khánh cuối tuần",
+   "danh_gia": "thị trường dễ đứng im không volume, thứ hai mới phục hồi"
+  }
+ ],
+ "thoi_quen": [
+  "vùng khó đánh thì nhịn đói, chờ nến confirm",
+  "chọn một hướng rồi cố thủ theo kế hoạch, không đảo qua lại",
+  "SL theo nến H1/H4 không đặt SL cố định",
+  "khuyên hạn chế altcoin, tập trung Bitcoin",
+  "DCA tích sản mỗi ngày số nhỏ"
+ ],
+ "cau_cua_mieng": [
+  "Khả năng nhịn đói anh em cần phát huy tối đa.",
+  "Thị trường đi hướng nào là việc của nó. Việc của chúng ta là cố thủ và kiên quyết theo một plan cho đỡ rủi ro."
+ ],
+ "altcoin": [
+  {
+   "coin": "BTC.D",
+   "huong": "TANG",
+   "ghi": "BTC.D kéo lên nên tha bớt altcoin, USDT.D gãy xuống nhưng chưa xác nhận"
+  },
+  {
+   "coin": "ETH",
+   "huong": "TANG",
+   "ghi": "bám theo Bitcoin, cùng lắm lên trăm giá nữa"
+  }
+ ],
+ "ghi_chu": "Thời gian giờ VN đặt 10:00 theo quy ước. Giá 60k = 60.000.",
+ "hanh_dong": "dung_ngoai_cho_entry",
+ "chang_ke_tiep": {
+  "huong": "TANG",
+  "dich": [
+   62000,
+   64000
+  ]
+ },
+ "khung_lon_v2": {
+  "D1": "GIAM",
+  "W1": null
+ },
+ "pha_vo_gia": "[00:18:50] nhịp gãy về 59 hôm trước 'khoảng 65% là fake breakout, tức là một vùng giả vờ breakout khỏi vùng hỗ trợ' (cần đóng trên 61 để xác nhận); [00:32:10] cụm nến Binance Futures do bot đẩy lên quét stop loss, 'coi chừng cũng bị trap'.",
+ "nguon_nhan": "dap_an_v2 (Opus 5.5 rút mù 31/10)"
+}

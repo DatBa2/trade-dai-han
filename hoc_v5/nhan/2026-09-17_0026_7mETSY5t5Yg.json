@@ -1,0 +1,463 @@
+{
+  "buoi": "2026-09-17_0026_7mETSY5t5Yg",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/lam_sach/2026-09-17_0026_7mETSY5t5Yg.md",
+  "gia_btc_luc_noi": 75500,
+  "dau_buoi": {
+    "thien_huong_h4": "GIAM",
+    "gio": null,
+    "trich": "Đoạn này tất nhiên với xu hướng thì các bạn không nên long, không nên buy, vì rõ ràng xác suất hiện tại là tăng lãi suất lên đến 90%, nên chúng ta không nên đi một vị thế đánh đổi lớn như vậy. Mình đang xem xét một vài vị thế để sell."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "GIAM",
+    "do_chac": "vua",
+    "gio": null,
+    "trich": "Cùng lắm kéo lên khoảng 77, Fibo ở đây, để quét thanh lý ở trên thì cũng bình thường. Cho dù đêm nay tăng cỡ nào thì đến ngày mai và những ngày tiếp theo mình nghĩ thị trường vẫn nằm trong trạng thái xấu. ... Cấu trúc thị trường mình thấy vẫn thế. Thậm chí tin còn hợp lý hóa cho đường giá thôi."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {
+    "huong": "TANG",
+    "dich": [
+      76500,
+      77000
+    ]
+  },
+  "duong_di": [
+    {
+      "huong": "TANG",
+      "dich": [
+        76500,
+        77000
+      ]
+    },
+    {
+      "huong": "GIAM",
+      "dich": [
+        73700,
+        74700
+      ]
+    }
+  ],
+  "dich_chinh": [
+    73700,
+    74700
+  ],
+  "han_gio": null,
+  "vo_hieu": null,
+  "lenh": [
+    {
+      "chieu": "SHORT",
+      "vao": [
+        76500,
+        77000
+      ],
+      "tp": [
+        74700,
+        73700
+      ],
+      "sl": 78000,
+      "trang_thai": "de_xuat_moi"
+    },
+    {
+      "chieu": "LONG",
+      "vao": [
+        72000,
+        72500
+      ],
+      "tp": [],
+      "sl": null,
+      "trang_thai": "de_xuat_moi"
+    },
+    {
+      "chieu": "SHORT",
+      "vao": 75000,
+      "tp": [
+        75000,
+        74000,
+        73000
+      ],
+      "sl": null,
+      "trang_thai": "da_dong"
+    }
+  ],
+  "hanh_dong": "dung_ngoai_cho_entry",
+  "khung_lon": {
+    "D1": null,
+    "W1": null
+  },
+  "pha_vo_gia": "Nhịp kéo lên quanh tin Fed được gọi là kỹ thuật/lấy thanh khoản, bẫy đám đông: 'Nó chỉ gãy khoảng tầm 1000 giá khi tin xấu ra, sau đó có pha kéo lên, và đại đa phần đám đông sẽ chết bởi pha kéo lên này... Sau đó nó sẽ đi xuống'; 'Tất cả nhịp tăng này mang tính kỹ thuật và lấy thanh khoản thôi'; có thể quét lên 77 (thậm chí 78–79) để quét short trước khi về 6x.",
+  "trich_them": [
+    {
+      "gio": null,
+      "cau": "Trong ngắn hạn anh em có thể limit. Mình đang có một setup ở khoảng 76.700, tức là cách giá bây giờ khoảng 1000 giá. ... SL thì thả ra một xíu; stop loss chắc chắn phải tính toán là trên 1000 giá."
+    },
+    {
+      "gio": null,
+      "cau": "Một kịch bản rất khả thi ... đêm nay nó quét về đây, sau đó ngày mai lại lên trên này, rồi qua cuối tuần (thứ sáu) nó lại tiếp tục chạy đi xuống."
+    },
+    {
+      "gio": null,
+      "cau": "Là tin nên có thể chọn phe, nhưng tuyệt đối mình không chọn phe lên. ... Đêm nay tuyệt đối không đánh lên."
+    },
+    {
+      "gio": null,
+      "cau": "Có hai vùng TP, ít nhất vùng này rất dễ: 73.00 [?], 73.000 đi cũng có khả năng. TP2 nằm ở đó. Limit chờ quét về 73 để long, anh em lựa chọn entry khoảng 72.00 [?] (7200)."
+    },
+    {
+      "gio": null,
+      "cau": "Limit 76 / 72 đợi tin ra thì tùy mọi người; mình chỉ đưa ra hướng, quyết định tùy mọi người. Mình thì xúc cả hai."
+    },
+    {
+      "gio": null,
+      "cau": "Mình không chọn phe đó. Mình chọn phe xấu nhá."
+    },
+    {
+      "gio": null,
+      "cau": "Nó quét SL của anh em mình rồi. Sao thị trường không chạy nhiều nhỉ? Thị trường này bão hòa trước tin rồi."
+    },
+    {
+      "gio": null,
+      "cau": "Tạm thời với tin lãi suất như này anh em cứ bỏ tay khỏi nút long đi. Thế cho vuông."
+    },
+    {
+      "gio": null,
+      "cau": "Chặng đường từ đây về 6x thì các bạn sẽ phải chứng kiến một pha đi lên để nó quét hết đống short này đã. ... Khoản ở bên này: hai vùng này có thể tí nữa nó quét về 64.000, rồi sau đó nửa đêm nay nó lại vòng lên 78.000, hay thậm chí 79.000 nữa."
+    },
+    {
+      "gio": null,
+      "cau": "H1 đang hai đáy khá đẹp, nhưng cứ ở hai vùng này thôi. SL khoảng 1000 giá chịu được, khoảng 78. TP anh em kỳ vọng có hai vùng: một là 74.700; vùng thứ hai là 73.700 [?] - hình như 73.00 [?], Fibo mở rộng 1% về đó."
+    },
+    {
+      "gio": null,
+      "cau": "Cơ bản mình chỉ muốn nhắc lại: tăng lãi suất 25 điểm là một tin xấu về trung hạn ở giai đoạn này của thị trường. Còn ngắn hạn thì thực tế không đáng kể."
+    }
+  ],
+  "kho": "File không có mốc giờ; buổi đêm tin Fed (tăng 0.25). Hướng chọn 'phe xấu' rõ, nhưng ngắn hạn chờ quét lên 76.5–77 (có thể 78–79 theo thanh khoản) mới short, nên SL 78 chỉ là SL lệnh chứ không được nói là mốc đổi view → vo_hieu null. Lệnh short market trước tin: giá vào/SL phụ đề lỗi ('75.00', 'SL khoảng 7500, khoảng 300 giá') và có vẻ đã bị quét SL sau tin, ghi da_dong. Đồng thời đặt limit long ~72–72.5 ('xúc cả hai'). Câu 'quét về 64.000' có thể là lỗi phụ đề (giá đang ~75).",
+  "nhin_lai_view_truoc": {
+    "view_truoc": "GIAM",
+    "giu_hay_doi": "giu",
+    "vi_sao": "Dữ liệu không đổi nhiều so với buổi sáng: giá lên lại vùng kháng cự 76.5-77k như đã view; Fed tăng 0.25 đúng dự kiến, FOMC đồng thuận, dự báo thêm một đợt tăng → xấu trung hạn; nhịp lên chỉ là kỹ thuật lấy thanh khoản.",
+    "gio": null,
+    "trich": "Bây giờ mình gần như có thể chốt plan cho nhịp hôm nay và ngày mai, vì dữ liệu không thay đổi nhiều so với sáng nay. Anh em còn nhớ view sáng nay: nó lên đây là lên lại kháng cự, vùng này là vùng kháng cự. Nó lên đến 76.500 [?] (\"76.005\") cho đến 77.000."
+  },
+  "trendline": [
+    {
+      "khung": null,
+      "loai": "ho_tro_tang",
+      "noi_tu": "Đường trendline ở dưới giá trên khung nhỏ trước tin (không nêu điểm neo)",
+      "diem_neo": [],
+      "gia_duong_luc_noi": null,
+      "trang_thai": "chua_pha",
+      "dieu_kien_pha": "Thủng trendline dưới thì vào short market (sát tin nên khó kịp)",
+      "ket_luan_huong": "GIAM",
+      "gio": null,
+      "trich": "Nếu anh em muốn đánh market thì nên kiên nhẫn chờ đường trend line ở dưới bị thủng. Chỉ có điều khi nó thủng thì anh em không đủ thời gian xử lý lệnh, vì bây giờ sát tin."
+    }
+  ],
+  "nen_volume": [
+    {
+      "khung": "M5",
+      "nen": "Cây 5 phút đóng quanh 75.000",
+      "volume": null,
+      "ket_luan": "Có thể scalp short; chưa dám long.",
+      "gio": null,
+      "trich": "Hoặc chúng ta chờ 5 phút: 5 phút vẫn đóng một cây nến quanh 75.00 [?], chắc anh em có thể scalp được. Tất nhiên đoạn này chưa dám long."
+    },
+    {
+      "khung": "M5",
+      "nen": "Một cây 5 phút có thể kéo ~1000 giá quanh tin",
+      "volume": null,
+      "ket_luan": "Short ngay giá hiện tại rủi ro, đi volume nhỏ, tính biên độ.",
+      "gio": null,
+      "trich": "Anh em thích thì có thể sell một tí ngay vùng giá hiện tại, nhưng lệnh này hơi rủi ro, đi volume nhỏ thôi, vì chỉ cần một cây nến 5 phút nó có thể kéo lên khoảng 1000 giá."
+    },
+    {
+      "khung": "H4",
+      "nen": "Cột H4 bên trái",
+      "volume": "Cột volume tương ứng với nhịp giảm trước đó",
+      "ket_luan": "Vùng này không quá đáng sợ.",
+      "gio": null,
+      "trich": "Cột H4 bên trái mình đã giải thích trên live: cột này tương ứng với nhịp giảm trước đó nên vùng này không quá đáng sợ."
+    },
+    {
+      "khung": "H1",
+      "nen": "H1 hai đáy khá đẹp",
+      "volume": null,
+      "ket_luan": "Vẫn chỉ short ở hai vùng limit; thận trọng vì hai đáy và liquidity dày.",
+      "gio": null,
+      "trich": "H1 đang hai đáy khá đẹp, nhưng cứ ở hai vùng này thôi. SL khoảng 1000 giá chịu được, khoảng 78. TP anh em kỳ vọng có hai vùng: một là 74.700; vùng thứ hai là 73.700 [?] - hình như 73.00 [?], Fibo mở rộng 1% về đó. Vùng giữa là vị thế, vùng trên là stop loss, vùng dưới là hai TP. Chọn con số chính xác để limit thì tùy hứng vì nó biến động. Nhưng nhắc là volume nhỏ thôi, vì thứ nhất đánh tin rất nguy hiểm, thứ hai H1 cũng hai đáy và liquidity bên này đang khá dày"
+    },
+    {
+      "khung": null,
+      "nen": "Sau tin BTC gần như đứng im, sideway biên ~500 giá",
+      "volume": "Người ta sợ không dám tăng volume",
+      "ket_luan": "Tin bằng dự kiến, thị trường bão hòa trước tin; chờ phát biểu.",
+      "gio": null,
+      "trich": "BTC thì gần như đứng im sau tin mặc dù tin xấu. Thị trường giữ giá tốt quá, có bàn tay ma thuật nào đang giữ giá không anh em? Vàng về lại rồi. Đối với một tin quan trọng, nhưng bằng với dự kiến nên thị trường không thay đổi quá nhiều. Nó vẫn đi sideway trong biên khoảng 500 giá, chả ăn thua"
+    }
+  ],
+  "cach_lam": [
+    {
+      "hanh_dong": "ke",
+      "cong_cu": "trendline",
+      "chi_tiet": "Trendline ở dưới giá (khung nhỏ)",
+      "ket_qua": "Chờ thủng để short market",
+      "gio": null,
+      "trich": "nên kiên nhẫn chờ đường trend line ở dưới bị thủng."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "ema",
+      "chi_tiet": "MA34 khung ngày và H4; H1 không có kháng cự",
+      "ket_qua": "MA dễ đổ xuống; H1 có thể quét lên ~77.000",
+      "gio": null,
+      "trich": "Hiện tại đường MA này cũng là xác suất dễ đổ xuống. H1 thì hiện tại không có kháng cự; có nghĩa là quét lên đến khoảng 77.000?"
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "Lịch kinh tế (Forex Factory/CME bị chặn VPN, dùng trang khác)",
+      "ket_qua": "Previous 3.75, dự báo 4.0 (tăng 0.25)",
+      "gio": null,
+      "trich": "Previous là 3.75 (đợt tháng 7 là 3.75, dự báo 3.75 và thực tế ra 3.75). Hiện tại dự báo là 4, tức tăng 0.25%."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "hyblock",
+      "chi_tiet": "Heatmap Hyblock (show buổi sáng)",
+      "ket_qua": "Vẫn khá đỏ → có thể kéo lên ~77.000 (Fibo) quét thanh lý",
+      "gio": null,
+      "trich": "Cộng với bên heatmap (Hyblock) lúc sáng mình show, nó vẫn khá đỏ, nên có thể nhịp này kéo lên đến khoảng 77.000. Cùng lắm kéo lên khoảng 77, Fibo ở đây, để quét thanh lý ở trên thì cũng bình thường."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "heatmap",
+      "chi_tiet": "Coinglass liquidity (qua VPN)",
+      "ket_qua": "Có thể quét về 64.000 rồi lên 78-79k; vùng thanh lý lớn 62, 60, 57 (57k lớn nhất 4,5 triệu)",
+      "gio": null,
+      "trich": "Kiểm tra các vùng thanh lý lớn: 60 này, 62 vẫn là vùng đó. Vùng 62 này mình nghĩ kiểu gì cũng về đấy. 57 này, 57 thì mở ra giai đoạn sau. Nhiều thằng swing bây giờ anh em thấy không? Giai đoạn vừa rồi nó bắt đầu mở rất nhiều vị thế ở vùng 76 này. SL cài ở 57 này, khoảng vòng 20.000 giá. 57.000 hiện tại là vùng thanh lý lớn nhất có thể ghi nhận, 4,5 triệu"
+    },
+    {
+      "hanh_dong": "do",
+      "cong_cu": "fibo_mo_rong",
+      "chi_tiet": "Fibo mở rộng cho TP short",
+      "ket_qua": "TP 74.700 và 73.700 (Fibo mở rộng 1)",
+      "gio": null,
+      "trich": "TP anh em kỳ vọng có hai vùng: một là 74.700; vùng thứ hai là 73.700 [?] - hình như 73.00 [?], Fibo mở rộng 1% về đó."
+    }
+  ],
+  "vung_nguoi_do": [
+    {
+      "loai": "vao",
+      "tu": 76700,
+      "den": 76700,
+      "gio": null,
+      "trich": "Mình đang có một setup ở khoảng 76.700, tức là cách giá bây giờ khoảng 1000 giá. Lệnh này chưa có SL."
+    },
+    {
+      "loai": "vao",
+      "tu": 72500,
+      "den": 72500,
+      "gio": null,
+      "trich": "chúng ta có thể setup limit chờ ở khoảng 72.500 [?] (\"72.000 năm\")."
+    },
+    {
+      "loai": "dich",
+      "tu": 77000,
+      "den": 77000,
+      "gio": null,
+      "trich": "H1 thì hiện tại không có kháng cự; có nghĩa là quét lên đến khoảng 77.000? Không biết có quét nổi không."
+    },
+    {
+      "loai": "tp",
+      "tu": 75000,
+      "den": 75000,
+      "gio": null,
+      "trich": "TP1 ở vùng 75. TP2 để open, anh em thả về 73 gì đó, hoặc 74.000, hoặc 73.00 [?]."
+    },
+    {
+      "loai": "tp",
+      "tu": 73000,
+      "den": 74000,
+      "gio": null,
+      "trich": "TP2 để open, anh em thả về 73 gì đó, hoặc 74.000"
+    },
+    {
+      "loai": "vao",
+      "tu": 72000,
+      "den": 72000,
+      "gio": null,
+      "trich": "Limit chờ quét về 73 để long, anh em lựa chọn entry khoảng 72.00 [?] (7200)."
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 76500,
+      "den": 77000,
+      "gio": null,
+      "trich": "Nó lên đến 76.500 [?] (\"76.005\") cho đến 77.000."
+    },
+    {
+      "loai": "vao",
+      "tu": 77000,
+      "den": 77000,
+      "gio": null,
+      "trich": "Còn trường hợp không có limit ở 76.00 [?] thì có thể 77.000: đi đòn bẩy thấp và chịu được SL khoảng 1000 giá trở lên."
+    },
+    {
+      "loai": "sl",
+      "tu": 78000,
+      "den": 78000,
+      "gio": null,
+      "trich": "SL khoảng 1000 giá chịu được, khoảng 78."
+    },
+    {
+      "loai": "tp",
+      "tu": 74700,
+      "den": 74700,
+      "gio": null,
+      "trich": "TP anh em kỳ vọng có hai vùng: một là 74.700"
+    },
+    {
+      "loai": "tp",
+      "tu": 73700,
+      "den": 73700,
+      "gio": null,
+      "trich": "vùng thứ hai là 73.700 [?] - hình như 73.00 [?], Fibo mở rộng 1% về đó."
+    },
+    {
+      "loai": "dich",
+      "tu": 64000,
+      "den": 64000,
+      "gio": null,
+      "trich": "hai vùng này có thể tí nữa nó quét về 64.000, rồi sau đó nửa đêm nay nó lại vòng lên 78.000, hay thậm chí 79.000 nữa."
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 78000,
+      "den": 79000,
+      "gio": null,
+      "trich": "trên này có vùng liquidity kéo lên đến 79.000"
+    },
+    {
+      "loai": "dich",
+      "tu": 62000,
+      "den": 62000,
+      "gio": null,
+      "trich": "Vùng 62 này mình nghĩ kiểu gì cũng về đấy."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 57000,
+      "den": 57000,
+      "gio": null,
+      "trich": "57.000 hiện tại là vùng thanh lý lớn nhất có thể ghi nhận, 4,5 triệu"
+    }
+  ],
+  "view_trung_han": [
+    {
+      "khung": "W1",
+      "huong": "GIAM",
+      "dich": null,
+      "han": "tối thiểu từ giờ đến cuối năm",
+      "mat_view_khi": null,
+      "gio": null,
+      "trich": "Một chu kỳ lặp lại không thể chỉ xảy ra trong vòng 1 tháng; tối thiểu cũng phải tính từ giờ đến cuối năm. Cho nên thị trường có thể có những nhịp pump dump trong ngắn hạn mình không biết, nhưng xét về góc độ cấu trúc, khi tăng lãi suất thì xấu rồi."
+    },
+    {
+      "khung": "W1",
+      "huong": "GIAM",
+      "dich": 62000,
+      "han": "chặng đường về 6x (sau pha quét short)",
+      "mat_view_khi": null,
+      "gio": null,
+      "trich": "Chặng đường từ đây về 6x thì các bạn sẽ phải chứng kiến một pha đi lên để nó quét hết đống short này đã"
+    },
+    {
+      "khung": "W1",
+      "huong": "GIAM",
+      "dich": null,
+      "han": "vĩ mô xấu đến khoảng giữa 202[?] (câu hỏi về 2027)",
+      "mat_view_khi": null,
+      "gio": null,
+      "trich": "Mình view xấu đến khoảng giữa 202[?] đó. Từ đây về sau chặng đường còn khoai lắm, yên tâm."
+    },
+    {
+      "khung": "D1",
+      "huong": "GIAM",
+      "dich": null,
+      "han": "đêm nay quét xuống, ngày mai lên, thứ sáu đi xuống tiếp",
+      "mat_view_khi": null,
+      "gio": null,
+      "trich": "đêm nay nó quét về đây, sau đó ngày mai lại lên trên này, rồi qua cuối tuần (thứ sáu) nó lại tiếp tục chạy đi xuống."
+    }
+  ],
+  "vung_tranh": [
+    {
+      "tu": 75100,
+      "den": 75100,
+      "vi_sao": "Long ngắn kỳ vọng test 75.1k không ổn: một cú nhấn là rơi về 74, không kịp xử lý; đêm tin tuyệt đối không đánh lên",
+      "gio": null,
+      "trich": "Long ngắn test về 75k1 target: lệnh này mình thấy không ổn đâu. Vùng 75k1 nói thiệt là nhấn một phát nó rơi về 74 luôn, bạn không kịp xử lý."
+    }
+  ],
+  "giu_dong": [
+    {
+      "lenh": "SHORT market ~75.0k trước tin (SL ngắn ~300 giá)",
+      "quyet_dinh": "dong",
+      "khi_nao": "Nếu chạy êm thì kéo SL về entry hoặc TP1 ~75; thực tế bị quét SL khi giá rướn lên lúc ra tin",
+      "gio": null,
+      "trich": "Lệnh hiện tại đã dương, để xem thế nào. Nếu chạy êm thì kéo SL về entry hoặc TP1"
+    },
+    {
+      "lenh": "Limit SHORT 76.7k (và 77k)",
+      "quyet_dinh": "giu",
+      "khi_nao": "Tạm thời vẫn giữ, chia vol, đòn bẩy thấp, chịu SL ~1000 giá (78k); TP 74.7k và 73.7k",
+      "gio": null,
+      "trich": "Limit kia chắc tạm thời vẫn giữ."
+    },
+    {
+      "lenh": "Limit LONG 72-72.5k",
+      "quyet_dinh": "giu",
+      "khi_nao": "Đặt cả hai limit (76 và 72), phân bổ volume theo rủi ro",
+      "gio": null,
+      "trich": "Limit 76 / 72 đợi tin ra thì tùy mọi người; mình chỉ đưa ra hướng, quyết định tùy mọi người. Mình thì xúc cả hai."
+    },
+    {
+      "lenh": "Lệnh LONG nói chung",
+      "quyet_dinh": "dong",
+      "khi_nao": "Fed tăng lãi → bỏ tay khỏi nút long",
+      "gio": null,
+      "trich": "Tạm thời với tin lãi suất như này anh em cứ bỏ tay khỏi nút long đi. Thế cho vuông."
+    }
+  ],
+  "tin_tuc": [
+    {
+      "su_kien": "FOMC lãi suất",
+      "thoi_diem": "1:00 sáng 17/9 (phát biểu ~1:30)",
+      "nguon": "fedwatch",
+      "so_lieu": "Dự báo 90-90,4% tăng 25 điểm; previous 3.75, forecast 4.0; thực tế tăng 0.25; toàn bộ FOMC đồng thuận; dự báo thêm một đợt tăng trong năm",
+      "anh_huong_view": "Tăng 25 điểm là xấu trung hạn, ngắn hạn không đáng kể (thị trường đã hấp thụ); giữ nguyên thì múc long, 50 điểm thì đánh xuống, 25 điểm mới phải đấu trí; giá chạy trước tin nên tin ra không gãy sâu",
+      "gio": null,
+      "trich": "Fed phát tín hiệu sẽ tăng lãi suất thêm một lần nữa trong năm nay; kết quả bỏ phiếu: toàn bộ FOMC thống nhất đứng sau quyết định tăng lãi suất."
+    },
+    {
+      "su_kien": "Đánh giá vĩ mô sau tăng lãi",
+      "thoi_diem": "từ 2023 đến nay",
+      "nguon": "khac",
+      "so_lieu": "Lãi suất giảm rồi đi ngang 2023-2025, nay tăng lại",
+      "anh_huong_view": "Dấu ấn cực kỳ tồi tệ cho tài sản rủi ro như BTC; xấu ít nhất tới cuối năm",
+      "gio": null,
+      "trich": "Cá nhân mình đánh giá đợt tăng lãi suất này mang dấu ấn cực kỳ tồi tệ, cho dù biến động ngắn hạn có thể lên xuống, pump gì đó."
+    },
+    {
+      "su_kien": "Nới lỏng định lượng (QE)",
+      "thoi_diem": null,
+      "nguon": null,
+      "so_lieu": null,
+      "anh_huong_view": "Tăng lãi mà có nới lỏng định lượng thì chờ tiền chạy ra rồi tính",
+      "gio": null,
+      "trich": "Tăng lãi suất nhưng nới lỏng định lượng thì khi nào định lượng chạy tiền ra rồi tính."
+    }
+  ],
+  "nghi_van_nhan_v2": null
+}

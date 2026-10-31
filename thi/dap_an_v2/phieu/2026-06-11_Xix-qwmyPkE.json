@@ -1,0 +1,70 @@
+{
+  "buoi": "2026-06-11_Xix-qwmyPkE",
+  "ngay": "2026-06-11",
+  "gio_vn": "10:00",
+  "gia_btc_luc_noi": 62500,
+  "nhan_dinh": [
+    {
+      "khung": "H4",
+      "huong": "TANG",
+      "do_chac": "vua",
+      "dich": [65000, 69000],
+      "han": "hôm nay đến khoảng thứ ba tuần sau; cuối tuần sóng mạnh hơn",
+      "han_gio": 120,
+      "vo_hieu_khi": "H4 đóng dưới 61.000 (thủng Fibo 0.618 / 60.000) thì dừng nhịp hồi, nhảy khỏi lệnh long",
+      "kich_ban_phu": "nếu đẩy lên 69 ngay hôm nay/mai thì sóng kết thúc sớm rồi tiếp sóng giảm về 53",
+      "ly_do": ["nến D1 hôm qua rút chân lên ngay Fibo 0.618 và hỗ trợ 60-61", "CPI hôm qua 0,2% thấp hơn kỳ vọng là cái cớ để làm giá", "Fear and Greed 8 lên 12, hôm qua có thể là đáy ngắn hạn", "gap 61.000 đã lấp", "Fibo mở rộng 1.618 ở 69.000"],
+      "trich": "Target giá có thể lên vùng 69.000, khá hợp lý. Trước mắt là khoảng 65 66 sau đó cao hơn thì 69.",
+      "doi_y": null,
+      "duong_di": null
+    },
+    {
+      "khung": "D1",
+      "huong": "TANG",
+      "do_chac": "vua",
+      "dich": [69000, 70000],
+      "han": "đến khoảng thứ ba tuần sau",
+      "han_gio": 120,
+      "vo_hieu_khi": "nến ngày không đóng xanh / H4 thủng 61.000",
+      "kich_ban_phu": "69-70 sẽ bị cản bởi MA200 H4, MA34 D1, Fibo 0.5 khung lớn từ 82-83 về 59, nên TP non non",
+      "ly_do": ["hai đáy khung ngày nếu hôm nay đóng nến xanh", "hai đáy W1 thì khó"],
+      "trich": "Nếu hôm nay đóng thêm một cây nến ngày xanh nữa thì chúng ta có quyền kỳ vọng là hai đáy và bật lên.",
+      "doi_y": null,
+      "duong_di": null
+    },
+    {
+      "khung": "chung",
+      "huong": "GIAM",
+      "do_chac": "vua",
+      "dich": [53000, 54000],
+      "han": "trung và dài hạn",
+      "han_gio": null,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": "nhịp hồi chỉ để short xuống thuận xu hướng chính",
+      "ly_do": ["xu hướng khung tuần là giảm, đỉnh giảm dần", "lạm phát vẫn cao (4.2 so với 3.8)", "thị trường chứng khoán cũng bắt đầu tạo đỉnh gãy dần"],
+      "trich": "Dù sao trung hạn hay dài hạn thì vẫn là xu hướng giảm. Bây giờ chúng ta chỉ việc phân tích những nhịp phục hồi ngắn hạn để đánh.",
+      "doi_y": null,
+      "duong_di": null
+    }
+  ],
+  "vung_gia": {"khang_cu": [65000, 69000, 70000], "ho_tro": [60000, 61000]},
+  "lenh": [
+    {"chieu": "LONG", "loai": "chia nhỏ volume", "vao": [61000, 62000], "tp": [65000, 69000], "sl": 61000,
+     "trang_thai": "dang_giu",
+     "trich": "Vùng từ 62 về đến 61 là vùng anh em có thể chia ra để làm entry... TP quanh 65.000, hai là 69.000."},
+    {"chieu": "SHORT", "loai": "altcoin", "vao": null, "tp": null, "sl": null,
+     "trang_thai": "da_chot",
+     "trich": "Short 74 79 82 TP60 chốt hết rồi. Ngon."}
+  ],
+  "nhin_lai_truoc": "Hôm qua sau live giá đóng dưới Fibo 0.5, ăn liên tục lệnh short chiều nhờ nhồi khung nhỏ; trước tin giá được cứu, đêm không giữ short vì tin CPI. Lúc sáng nay cho anh em long vùng break.",
+  "cong_cu": ["H4", "D1", "W1", "H1", "Fibo 0.618 và Fibo mở rộng 1.618", "MA200 H4", "MA34 D1", "liquidation heatmap", "Fear and Greed", "BTC.D"],
+  "tin_tuc": [
+    {"tin": "CPI tháng 0,2% so với dự kiến 0,3", "danh_gia": "tốt cho thị trường làm giá ngắn hạn nhưng bản chất trung hạn chưa ổn"},
+    {"tin": "PPI tối nay (kỳ vọng 0.5 so với 1.0 trước)", "danh_gia": "nếu đạt 0.5 thị trường tăng đến thứ ba tuần sau"},
+    {"tin": "Họp FED kỳ đầu của chủ tịch mới", "danh_gia": "quan trọng, thứ tư tuần sau thị trường sideway chờ"}
+  ],
+  "thoi_quen": ["chia nhỏ entry ở dải 61-62", "chốt lãi từng phần, dời SL lên entry rồi TP trước", "TP non non trước vùng cản", "cảnh báo không giữ lệnh qua tin", "reset ngày mới sau tin", "không hỏi/không tư vấn lệnh gồng lỗ"],
+  "cau_cua_mieng": ["Các bạn sẽ bị những con sóng ngắn hạn nuốt mất góc nhìn dài hạn.", "Gồng lỗ thì làm gì có câu chuyện kỳ vọng TP, về bờ là phước phần lắm rồi.", "Cuộc đời này làm gì có cái gì hoàn hảo 100%."],
+  "altcoin": [{"coin": "altcoin chung", "huong": "GIAM", "ghi": "BTC.D muốn hồi nên altcoin hạn chế lực; chỉ ETH hồi đẹp; HYPE thủng chờ test MA H4 mới short; WLD, ZEC không đánh"}, {"coin": "XRP", "huong": "PHAN_VAN", "ghi": "hai nến D1 xấu; nếu long cần H4 xanh, SL dưới đáy, TP 1.117 rồi 1.3"}, {"coin": "vàng", "huong": "GIAM", "ghi": "đáy ngắn hạn 3800-3900, không long, vài tuần nữa loanh quanh 38-39 mới tạo đáy"}],
+  "ghi_chu": "Đầu buổi (00:00-11:09) không có trong bản làm sạch. '2009' trong 'Sau 2009 này' hiểu 62.900 quét đám thanh lý 63.000. '61004' hiểu 61.400. Cuối buổi H4 đóng trên MA, 'chỉ nhìn thấy cửa lên'."
+}

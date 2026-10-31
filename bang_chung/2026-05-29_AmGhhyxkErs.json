@@ -1,0 +1,222 @@
+[
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[0].trich",
+  "trich": "tất cả những nhịp mà nó đi từ đây lên 75 thì đều là những nhịp hồi quang phản chiếu thôi. Tức là những nhịp hồi trong xu hướng giảm.",
+  "giay": 1616,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=AmGhhyxkErs&t=1616s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[1].trich",
+  "trich": "Khung ngày là xu hướng giảm. Vùng hỗ trợ sát nhất bây giờ là 71.000 đến 71.500.",
+  "giay": 1579,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=AmGhhyxkErs&t=1579s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[2].trich",
+  "trich": "Thủng khỏi vùng này hoặc thủng khỏi đáy 72.000 này thì coi như là tuột.",
+  "giay": 1742,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=AmGhhyxkErs&t=1742s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "lenh[0].trich",
+  "trich": "Lý do mình cho anh em long lệnh test lúc sáng ... thị trường xấu quá nó gãy và mất xu hướng thì bắt buộc chúng ta phải out như lệnh lúc sáng.",
+  "giay": 718,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=AmGhhyxkErs&t=718s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "lenh[1].trich",
+  "trich": "Mình đang chờ về 72 71 gì đó, chốt con bot một phát cho nó sướng người",
+  "giay": 4332,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=AmGhhyxkErs&t=4332s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[0].trich",
+  "trich": "Vừa mới gãy chạm Fibo 0.5 cái là nó bật lên... Lên đến khoảng 75.000. 74 đến 75.000 thì cũng bình thường",
+  "giay": 674,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=AmGhhyxkErs&t=674s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[1].trich",
+  "trich": "Còn muốn thay đổi được xu hướng thì bắt buộc sẽ phải vượt qua được cản cực kỳ khó đó là cản 77 78",
+  "giay": 1647,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=AmGhhyxkErs&t=1647s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[2].trich",
+  "trich": "nó bắt buộc phải đóng nến qua vùng 78 này thì may ra mới lên được tám mấy và 90",
+  "giay": 1458,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=AmGhhyxkErs&t=1458s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[3].trich",
+  "trich": "Vẫn còn 83, 90 và 78 nữa",
+  "giay": 1451,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=AmGhhyxkErs&t=1451s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[4].trich",
+  "trich": "Vẫn còn 83, 90 và 78 nữa",
+  "giay": 1451,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=AmGhhyxkErs&t=1451s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[5].trich",
+  "trich": "tệ lắm nó cũng phải về đến 71.500 thì mới có Fibo 0.5 thoái lui này nó hỗ trợ cho giá",
+  "giay": 1543,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=AmGhhyxkErs&t=1543s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[6].trich",
+  "trich": "Vùng hỗ trợ sát nhất bây giờ là 71.000 đến 71.500... vùng hỗ trợ khả thi gần nhất",
+  "giay": 1582,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=AmGhhyxkErs&t=1582s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[7].trich",
+  "trich": "nếu xấu hơn thì đâu đó vùng 69 đến 68.000 là Fibo 0.618",
+  "giay": 1562,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=AmGhhyxkErs&t=1562s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[8].trich",
+  "trich": "ít nhất cũng lên được 74 hoặc MA200 thì 75. 74 75 là vùng khá khả thi",
+  "giay": 1753,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=AmGhhyxkErs&t=1753s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[9].trich",
+  "trich": "Thủng khỏi vùng này hoặc thủng khỏi đáy 72.000 này thì coi như là tuột",
+  "giay": 1742,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=AmGhhyxkErs&t=1742s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[10].trich",
+  "trich": "Gap hiện tại có một gap mới 74.000 đến 75.000... vừa khéo khớp những dữ liệu lúc nãy giờ",
+  "giay": 1847,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=AmGhhyxkErs&t=1847s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[11].trich",
+  "trich": "chúng ta có những vùng liquid như 7200 ở dưới này và trên này là 74",
+  "giay": 1990,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=AmGhhyxkErs&t=1990s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[12].trich",
+  "trich": "trên này là 74. Vùng 74 này mới được tạo ra",
+  "giay": 1996,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=AmGhhyxkErs&t=1996s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[13].trich",
+  "trich": "nếu thời điểm bây giờ giá chạy một phát lên đến 82.000 thì sẽ có luôn 4 tỷ đô short bị thanh lý",
+  "giay": 2870,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=AmGhhyxkErs&t=2870s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[14].trich",
+  "trich": "Cao lắm test đáy 60... Cuối cùng nó về đến 59, 60.000",
+  "giay": 2773,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=AmGhhyxkErs&t=2773s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[15].trich",
+  "trich": "Còn bây giờ từ 70.000 chắc cũng mơ sơ sơ thì nó về 40",
+  "giay": 2782,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=AmGhhyxkErs&t=2782s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[16].trich",
+  "trich": "Mình đang chờ về 72 71 gì đó, chốt con bot một phát",
+  "giay": 4332,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=AmGhhyxkErs&t=4332s",
+  "anh": []
+ }
+]

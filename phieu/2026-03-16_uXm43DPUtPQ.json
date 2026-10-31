@@ -1,0 +1,96 @@
+{
+  "buoi": "2026-03-16_uXm43DPUtPQ",
+  "ngay": "2026-03-16",
+  "gio_vn": "10:00",
+  "gia_btc_luc_noi": 73500,
+  "nhan_dinh": [
+    {
+      "khung": "H4",
+      "huong": "TANG",
+      "do_chac": "vua",
+      "dich": [79000, 80000],
+      "han": "trong ngày hôm nay (thứ hai), có thể đủ target 80 rồi thứ ba sideway",
+      "han_gio": 24,
+      "vo_hieu_khi": "thủng 70.000 thì không nên FOMO nữa; fail thực sự khi dump nến mạnh dưới 65.000",
+      "kich_ban_phu": "H4 đóng quanh 73.6 rồi nhấp lên râu một phát nữa, điều chỉnh về 71.600-71.000 thì tìm long lại; thủng 71 thì ngồi ngoài xem có đập 69-70 không; có thể lấp gap 71",
+      "ly_do": [
+        "nến H4 nằm trên MA34/89 thì không short, chỉ tìm long",
+        "đáy kéo cao dần, đỉnh đi ngang = dễ breakout",
+        "phá 73.5 là một phát lên MA600 H4 ở 79",
+        "nến tuần xanh đẹp, trả lại cây lừa short"
+      ],
+      "trich": "H4 vẫn đẹp... khả năng nó đi lên còn rất căng. Thành thử ra là khuyên mọi người đừng có cản tàu.",
+      "doi_y": null,
+      "duong_di": [
+        {"huong": "TANG", "dich": 74400},
+        {"huong": "GIAM", "dich": 71000},
+        {"huong": "TANG", "dich": 79000}
+      ]
+    },
+    {
+      "khung": "D1",
+      "huong": "TANG",
+      "do_chac": "vua",
+      "dich": 84000,
+      "han": "vài ngày",
+      "han_gio": 72,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": "MA200 kéo xuống ~84, giá và MA200 gặp nhau quanh trên 80",
+      "ly_do": [
+        "nến ngày đóng xanh trên đường MA, lên khỏi MA34 thì chặng tiếp là MA89",
+        "đừng short ở MA89 vì có thể lên luôn MA200"
+      ],
+      "trich": "Khung ngày... nó sẽ lên lại MA89. Khá là dễ.",
+      "doi_y": null,
+      "duong_di": null
+    },
+    {
+      "khung": "W1",
+      "huong": "TANG",
+      "do_chac": "vua",
+      "dich": 80000,
+      "han": "trong tuần này có nhịp hồi tiếp",
+      "han_gio": 168,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": "hồi lên 80 chỉ là nhịp hồi nhỏ của khung tuần trong downtrend lớn",
+      "ly_do": ["nến tuần trước là cây lừa để short, tuần này xanh trả lại, quay lại trên MA200"],
+      "trich": "đối với cây nến tuần tốt như thế này thì chúng ta có quyền kỳ vọng là trong tuần này sẽ có những nhịp tiếp tục hồi.",
+      "doi_y": null,
+      "duong_di": null
+    },
+    {
+      "khung": "chung",
+      "huong": "GIAM",
+      "do_chac": "vua",
+      "dich": 37000,
+      "han": "dài hạn, đáy chờ vài tháng (5-6 tháng nữa mới vào spot)",
+      "han_gio": null,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": null,
+      "ly_do": ["đang downtrend, mới giảm 50% từ đỉnh, lịch sử tối thiểu 70%, tức khoảng 37.000 mới nghĩ HODL", "chốt spot ở 78-84"],
+      "trich": "tầm này mà đang downtrend rồi mà cứ đòi dài hạn... khoảng tầm 37.000 thì mới nghĩ đến câu chuyện HODL nhá.",
+      "doi_y": null,
+      "duong_di": null
+    }
+  ],
+  "vung_gia": {"khang_cu": [74400, 80000], "ho_tro": [70000, 71600]},
+  "lenh": [
+    {"chieu": "LONG", "loai": "market/FOMO", "vao": 72500, "tp": [74400, 75300], "sl": 72000,
+     "trang_thai": "da_chot",
+     "trich": "TP1 74K4. Đừng có tham 80, nhịp này không đánh lên nổi đâu."},
+    {"chieu": "LONG", "loai": "chờ phản ứng", "vao": [71000, 71600], "tp": null, "sl": null,
+     "trang_thai": "de_xuat_moi",
+     "trich": "Anh em có thể quan sát vùng 71.000 này chờ điểm vào. Đừng limit, chờ điểm vào quanh 71.000 thôi."}
+  ],
+  "nhin_lai_truoc": "Cây nến tuần trước có râu cao nhận định là cây lừa để short, đã đúng, tuần này trả lại nến xanh; lệnh scalping tối qua thiếu 100 giá không TP, may SL entry.",
+  "cong_cu": ["D1", "H4", "M5", "MA34/89/200/600", "gap CME", "Fibo", "heatmap liquidation", "Fear and Greed", "cây nến tuần"],
+  "tin_tuc": [{"tin": "FED tuần này", "danh_gia": "có thể thị trường đẩy trước tin, FED không tăng lãi suất rồi điều chỉnh"}],
+  "thoi_quen": ["thuận xu hướng: nến trên MA34/89 thì không short", "không DCA, test lệnh nhịp một, sai thì SL chờ bắt lại", "không limit trước, chờ về vùng rồi nhìn nến", "không đặt TP ở giá chẵn", "chốt từng phần, đến cản là chốt", "thấy fake out M5 thì thoát ngay"],
+  "cau_cua_mieng": ["Short là đi củi.", "Cơm là cơm, phở là phở.", "Trade mà sợ SL là không trade được đâu."],
+  "altcoin": [
+    {"coin": "ETH", "huong": "TANG", "ghi": "rất khỏe, lên 2004-2006 lấp gap; có thể rớt Fibo nhưng không nên short"},
+    {"coin": "BTC.D", "huong": null, "ghi": "đi sideway, altcoin chỉ ăn ké BTC"},
+    {"coin": "LINK", "huong": "TANG", "ghi": "chốt lướt ở 10.5-11.5"}
+  ],
+  "ghi_chu": "Vàng bạc: khung tuần cắm mỏ đi xuống, chờ hồi 53-54 để sell (không tính BTC). Header file không ghi giờ."
+}

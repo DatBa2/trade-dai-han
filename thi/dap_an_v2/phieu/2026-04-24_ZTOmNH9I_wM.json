@@ -1,0 +1,89 @@
+{
+  "buoi": "2026-04-24_ZTOmNH9I_wM",
+  "ngay": "2026-04-24",
+  "gio_vn": "10:00",
+  "gia_btc_luc_noi": 77800,
+  "nhan_dinh": [
+    {
+      "khung": "H4",
+      "huong": "GIAM",
+      "do_chac": "vua",
+      "dich": [72000, 75000],
+      "han": "nhịp sáng nay/cuối tuần; điều chỉnh không lâu",
+      "han_gio": 72,
+      "vo_hieu_khi": "mất xu hướng tăng chỉ khi thủng Fibo 0.618 quanh 69.000-70.000; D1 đóng vượt 79.000 thì lực lên rất tốt",
+      "kich_ban_phu": "quét lên 79-80.2 (gap 80.000 chạm lần hai, MA200 ngày hút giá) rồi mới gãy về 69.700, 67.000; nếu M5 tạo cặp đi lên thì hỗ trợ lên 77 rồi phản ứng tiếp",
+      "ly_do": [
+        "vùng 78-79 là cản Fibo 0.5 rất cứng, gặp cản thì điều chỉnh (điều chỉnh khác đảo chiều)",
+        "nến D1 xấu, bull trap tại cản; RSI yếu, volume lên không đồng thuận lực mua",
+        "H4 khả năng điều chỉnh cực kỳ cao: tối thiểu về MA89, có thể quét 72 (MA200 H4)",
+        "thanh lý dưới dày (76, 74), nhiều lệnh short mở ở 78-79; Fear Greed 39 tương đương FOMO"
+      ],
+      "trich": "H4 thì mình thấy khả năng điều chỉnh rất lớn, cực kỳ cao. ... nó sẽ về tối thiểu là MA89, nhưng mình nghĩ có khả năng quét về đến tận 72.",
+      "doi_y": null,
+      "duong_di": null
+    },
+    {
+      "khung": "D1",
+      "huong": "TANG",
+      "do_chac": "vua",
+      "dich": [80000, 82000],
+      "han": "ngắn hạn",
+      "han_gio": null,
+      "vo_hieu_khi": "thủng 69.000-70.000 (Fibo 0.618) mới mất xu hướng",
+      "kich_ban_phu": "chờ một cây D1 đóng vượt 79.000 mới bull thật; nếu không thì điều chỉnh rồi lừa short, gãy 69.700-67.000 vào cuối tháng",
+      "ly_do": [
+        "xu hướng tăng, giá nằm trên MA; hạn chế short, thuận xu hướng",
+        "target Fibo 78 đã xong, còn 80, 83, 93; tệ lắm cũng quét lên 80-82",
+        "nhóm short bị hút lên 80, gap 80.000 mới chạm một lần"
+      ],
+      "trich": "Mình đang rất chờ cây D1 vượt qua 79. Mình cũng nghĩ nhịp này nó sẽ điều chỉnh không lâu đâu.",
+      "doi_y": null,
+      "duong_di": null
+    },
+    {
+      "khung": "W1",
+      "huong": "GIAM",
+      "do_chac": "thap",
+      "dich": [54000, 60000],
+      "han": "sau khi hồi xong; cuối tháng/đầu tháng sau",
+      "han_gio": null,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": "nếu điều chỉnh căng 40% nữa thì về 40.000; tuần này cùng lắm đá râu lên 80 rồi tụt nhanh",
+      "ly_do": [
+        "MA khung tuần đã cross (lần trước tháng 6/2022 gần đáy), đang ở sóng hồi",
+        "theo lịch sử sau cross còn điều chỉnh khoảng 20-30% (về 60 hoặc 54)",
+        "sell in May and go away, vùng 64-65 cho cuối tháng"
+      ],
+      "trich": "Khung tuần này cùng lắm nó đá một cái râu lên vùng 80 sau đó sẽ tụt xuống rất nhanh, khả năng tuần này là cao.",
+      "doi_y": null,
+      "duong_di": [
+        {"huong": "TANG", "dich": 80000},
+        {"huong": "GIAM", "dich": [54000, 60000]}
+      ]
+    }
+  ],
+  "vung_gia": {"khang_cu": [78000, 79000, 80000, 83000], "ho_tro": [77000, 76000, 74000, 72000, 70000]},
+  "lenh": [],
+  "nhin_lai_truoc": "BTC đã chạm 78.700-79.000, target từ tháng 3 đã hoàn tất (target 76 hôm trước, nay 78); gap 74-77 đã lấp luôn trong tuần. Hôm qua cho anh em một lệnh short trong sự kiện nhưng mọi người không out; mình bỏ qua vùng liquid 77 vì muộn.",
+  "cong_cu": ["Fibo 0.5/0.618", "Fibo mở rộng", "MA34/89/200", "RSI", "volume", "gap 80.000", "heatmap liquidation", "Fear Greed", "DOM/USDT.D", "nến D1 trap"],
+  "tin_tuc": [{"tin": "không tin đến thứ tư 30/4 (FOMC lãi suất, đêm thứ năm rạng sáng thứ sáu)", "danh_gia": "filter lịch chỉ tin đỏ USD"}],
+  "thoi_quen": [
+    "không short khi giá còn trên MA, thuận xu hướng, chờ nhịp điều chỉnh mới tìm điểm",
+    "chờ nến D1 xác nhận vượt cản mới bull",
+    "viết kế hoạch từng vùng giá trước (lên 80 làm gì, bán bao nhiêu)",
+    "ăn ít sống lâu: chỉ cách 500 giá không đổi cả tài khoản",
+    "có lãi cứ chốt; tránh mua đỉnh bán đáy theo MA"
+  ],
+  "cau_cua_mieng": [
+    "Ăn ít thì sống lâu.",
+    "Điều chỉnh hay giảm là hai điều khác nhau.",
+    "Nguyên tắc xe đâm vào tường anh em biết rồi, gặp cản thì đi xuống thôi."
+  ],
+  "altcoin": [
+    {"coin": "ETH", "huong": "GIAM", "ghi": "rất xấu ở nhịp này, có thể test về 2200 nhưng theo view BTC"},
+    {"coin": "altcoin chung", "huong": "GIAM", "ghi": "DOM lên, USDT.D hai đáy: tín hiệu xấu, nhịp đẹp altcoin đã xong, đừng kỳ vọng nữa"},
+    {"coin": "ZEC", "huong": "TANG", "ghi": "lực tăng khỏe, đừng short, chờ điều chỉnh mới vào"}
+  ],
+  "ghi_chu": "Giờ live không rõ (đặt 10:00). Đầu file thiếu 13 phút đầu. Hiện không có short, long thận trọng."
+}

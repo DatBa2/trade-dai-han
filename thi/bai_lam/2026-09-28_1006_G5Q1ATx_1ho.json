@@ -1,0 +1,102 @@
+{
+ "buoi": "2026-09-28_1006_G5Q1ATx_1ho",
+ "ngay": "2026-09-28",
+ "gio_vn": "10:06",
+ "gia_btc_luc_noi": 83351,
+ "nhan_dinh": [
+  {
+   "khung": "H4",
+   "huong": "GIAM",
+   "do_chac": "vua",
+   "dich": [82000, 82400],
+   "han": "1–2 ngày (đến hết thứ Ba 29/09)",
+   "han_gio": 48,
+   "vo_hieu_khi": "H4 đóng trên 85.300 (vượt ba đỉnh 85.0–85.26 cuối tuần)",
+   "kich_ban_phu": "sáng thứ Hai có thể hồi lên test lại dải EMA34 H4 84.2–84.5 rồi mới gãy về 82.2; thủng 82 thì quét râu về MA89 81.5",
+   "duong_di": [
+    {"huong": "TANG", "dich": 84250},
+    {"huong": "GIAM", "dich": 82200},
+    {"huong": "GIAM", "dich": 81600}
+   ],
+   "doi_y": null,
+   "ly_do": [
+    "giữ view thứ Sáu: quét lên 85.3 rồi cắm xuống — giá lên 85.26 (thứ Sáu), 85.2 (CN), 85.0 (sáng nay) đều bị đạp, đỉnh thấp dần",
+    "H4 07:00 đỏ -1.3% đóng 83.35, rơi xuống dưới dải EMA34 H4 (83.65–84.45), thủng nền đi ngang cuối tuần 83.8",
+    "nến tuần đóng 84.5 với râu trên dài 3.6% từ 87.4: test đỉnh rồi bị từ chối",
+    "hỗ trợ 82–83 đã bị test lần thứ ba (82.87, 83.18, 83.22) — test nhiều lần thì yếu",
+    "đích 82–82.4: TP 82 còn treo + EMA89 H4 82.2"
+   ],
+   "trich": null
+  },
+  {
+   "khung": "D1",
+   "huong": "GIAM",
+   "do_chac": "thap",
+   "dich": [80000, 81500],
+   "han": "3–5 ngày (trong tuần này)",
+   "han_gio": 120,
+   "vo_hieu_khi": "nến D1 đóng trên 85.500 (vượt biên trên vùng đi ngang 83–85.3)",
+   "kich_ban_phu": "82–83 trụ được và vượt 86–87 thì mới nói chuyện 90; thủng 82 thì về 81, 80",
+   "duong_di": [
+    {"huong": "GIAM", "dich": 82000},
+    {"huong": "GIAM", "dich": 80500}
+   ],
+   "doi_y": null,
+   "ly_do": [
+    "quan điểm vẫn trong downtrend, nhịp lên 87 chưa đủ thuyết phục là uptrend",
+    "D1 đi ngang 82.9–85.3 năm ngày dưới đỉnh 87.4, đỉnh D1 thấp dần",
+    "80–81.5: Fibo 0.5 nhịp D1 74.96→87.4 (81.18) + dải EMA34 D1 high 80.2 + hỗ trợ 80"
+   ],
+   "trich": null
+  },
+  {
+   "khung": "W1",
+   "huong": "GIAM",
+   "do_chac": "thap",
+   "dich": [79000, 81000],
+   "han": "1–2 tuần",
+   "han_gio": 336,
+   "vo_hieu_khi": "nến tuần đóng trên 87.400 (vượt râu đỉnh tuần trước)",
+   "kich_ban_phu": "nến tuần này đỏ thì về test EMA89 tuần 79.2 / vùng 80",
+   "duong_di": null,
+   "doi_y": null,
+   "ly_do": [
+    "view lại nến tuần đầu tuần: tuần 21/09 xanh nhưng râu trên dài gần bằng thân, bị đạp ở 87.4",
+    "chu kỳ 4 năm vẫn downtrend; giá trên EMA89 tuần 79.2 chỉ là hồi",
+    "79–81: EMA89 tuần 79.2 + Fibo 0.618 nhịp D1 (79.7) + hỗ trợ 80"
+   ],
+   "trich": null
+  }
+ ],
+ "vung_gia": {
+  "khang_cu": [84200, 84500, 85300, 87400],
+  "ho_tro": [83000, 82200, 81200, 80000]
+ },
+ "lenh": [
+  {"chieu": "SHORT", "loai": "limit", "vao": 84250, "tp": [82350, 81650], "sl": 85350, "trang_thai": "de_xuat_moi"}
+ ],
+ "hanh_dong": "dung_ngoai_cho_entry",
+ "giu_view": true,
+ "ly_do_doi_view": "Giữ view thứ Sáu: mốc sai 85–86 chưa bị H4 đóng qua (chỉ ba râu 85.0–85.26), kịch bản quét 85.3 rồi cắm xuống đang chạy; TP 82 chưa tới. Thứ Hai view lại nến tuần: tuần đóng 84.5 râu trên dài → củng cố view điều chỉnh, không đổi.",
+ "rau": {
+  "tren": "85.000 (H4 07:00 28/09), 85.200 (H4 19:00 27/09), 85.259 (H4 15:00 25/09) — ba đỉnh",
+  "duoi": "83.219 (H4 07:00 28/09); 83.175 (H4 19:00 25/09); 82.874 (H4 15:00 24/09)",
+  "test_lai": "Râu trên 85.0–85.26 KHÔNG test lại ở chặng 1: đã bị test 3 lần, hết giá trị, có dải EMA34 H4 chắn ở 84.2–84.5. Râu dưới 82.87 CÓ test và quét thủng: đáy 82.9–83.2 test nhiều lần thì yếu, dưới đó là SL phe long bắt đáy, trùng EMA89 H4 82.2 + TP 82 (R2)."
+ },
+ "vung_on": [
+  {"loai": "SHORT", "khoang": [84100, 84600], "ly_do": [
+   "dải EMA34 H4 83.65–84.45 (vừa bị đóng thủng → thành cản)",
+   "Fibo 0.5–0.618 nhịp H4 85.2→83.219 (84.21/84.44)",
+   "nền đi ngang cuối tuần 84–84.5 đổi vai",
+   "đáy 83.818 (27/09) bị đóng thủng"
+  ]},
+  {"loai": "LONG", "khoang": [81200, 82200], "ly_do": [
+   "EMA89 H4 82.21",
+   "Fibo 0.5 nhịp D1 74.956→87.399 = 81.18",
+   "đỉnh cũ 82.285 / mốc 82 đổi vai",
+   "MA89 quét râu 81.5 đã nêu — chỉ quan sát, chốt short ở đây"
+  ]}
+ ],
+ "pha_vo_gia": "Ba lần chọc 85.0–85.26 (thứ Sáu, Chủ nhật, sáng thứ Hai) đều là phá giả lên: chỉ râu, thân H4 đóng dưới 85 (G1), rơi vào cuối tuần/sáng thứ Hai (G5), quét SL phe short rồi rút (G4). Không đổi view vì mấy cú đó — nó quét xong rồi mới đi xuống.",
+ "loi_binh": "Hôm nay thứ Hai, nến tuần đóng xanh nhưng cái râu trên dài gần bằng thân anh em, lên 87 rồi bị đạp, không có gì để vui. Cuối tuần nó quét lên 85.2–85.3 ba lần đúng chỗ mình nói rồi cắm xuống, H4 sáng nay đóng thủng MA34. Thứ Hai thì mình không short đuổi ở 83.3 sát hỗ trợ; chờ hồi lên 84.2–84.5 rồi short, SL trên 85.35, TP 82.35 rồi 81.65. Quan điểm của mình vẫn là down trend, Xong BTC."
+}

@@ -1,0 +1,185 @@
+{
+  "buoi": "2026-07-03_IV0Mlz8kNPI",
+  "ngay": "2026-07-03",
+  "gia_btc_luc_noi": 61500,
+  "moc": [
+    {
+      "gia": 61000,
+      "gia_tren": null,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": "H4",
+      "can_cu": [],
+      "moc_gio": "00:11:06",
+      "chac": true,
+      "trich": "Nhịp tăng buổi sáng phiên sáng tăng yếu, lên được 61.000 thôi"
+    },
+    {
+      "gia": 64000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "MA200 H4",
+        "RSI D1 lên quanh 50-55"
+      ],
+      "moc_gio": "00:14:40",
+      "chac": true,
+      "trich": "target của mình cho nhịp lên này khoảng 64... MA200 ở 64.000"
+    },
+    {
+      "gia": 63000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "Fibo 62"
+      ],
+      "moc_gio": "00:16:16",
+      "chac": false,
+      "trich": "ngắn hơn thì 63.000, hình như có Fibo ở 62"
+    },
+    {
+      "gia": 59000,
+      "gia_tren": 61000,
+      "vai_tro": "khang_cu",
+      "huong": null,
+      "khung": "H4",
+      "can_cu": [
+        "vùng hỗ trợ gãy thành kháng cự"
+      ],
+      "moc_gio": "00:16:16",
+      "chac": true,
+      "trich": "phá qua khỏi vùng kháng cự cực kỳ cứng từ 59 đến 61"
+    },
+    {
+      "gia": 61000,
+      "gia_tren": null,
+      "vai_tro": "vo_hieu",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "H4 đóng dưới 61"
+      ],
+      "moc_gio": "00:16:16",
+      "chac": true,
+      "trich": "H4 đóng trên 61 thì chúng ta không short nữa"
+    },
+    {
+      "gia": 60000,
+      "gia_tren": null,
+      "vai_tro": "vo_hieu",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [],
+      "moc_gio": "00:16:16",
+      "chac": true,
+      "trich": "phải thủng 60 thì may ra mới tìm điểm short"
+    },
+    {
+      "gia": 68000,
+      "gia_tren": 69000,
+      "vai_tro": "khac",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "râu vượt MA200 H4"
+      ],
+      "moc_gio": "00:19:00",
+      "chac": true,
+      "trich": "ví dụ ở đây 64 cái râu có thể kéo lên 68 69 là chuyện bình thường"
+    },
+    {
+      "gia": 61000,
+      "gia_tren": null,
+      "vai_tro": "sl",
+      "huong": "TANG",
+      "khung": "M15",
+      "can_cu": [],
+      "moc_gio": "00:20:41",
+      "chac": true,
+      "trich": "M15 thủng 61 là out... stop loss tuyệt đối nằm ở vùng 61"
+    },
+    {
+      "gia": 60000,
+      "gia_tren": null,
+      "vai_tro": "khac",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [],
+      "moc_gio": "00:20:41",
+      "chac": false,
+      "trich": "hoàn toàn có thể kéo về khoảng 60"
+    },
+    {
+      "gia": 62000,
+      "gia_tren": null,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": null,
+      "can_cu": [
+        "thanh khoản phe sell"
+      ],
+      "moc_gio": "00:44:28",
+      "chac": true,
+      "trich": "phải lấy được vùng thanh khoản 62 của phe sell... nó quét qua vùng này rồi"
+    },
+    {
+      "gia": 64000,
+      "gia_tren": null,
+      "vai_tro": "entry",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": "00:37:43",
+      "chac": true,
+      "trich": "muốn short được thì tệ cũng phải là 64"
+    },
+    {
+      "gia": 68000,
+      "gia_tren": null,
+      "vai_tro": "khac",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": "00:37:43",
+      "chac": false,
+      "trich": "Đôi khi nó bay lên tận 68 thì short sớm thì chết"
+    },
+    {
+      "gia": 63000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [],
+      "moc_gio": "00:47:27",
+      "chac": true,
+      "trich": "thứ hai quét lên khoảng 63"
+    },
+    {
+      "gia": 62000,
+      "gia_tren": 63000,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": "00:47:27",
+      "chac": true,
+      "trich": "tối nay đẩy được phát lên khoảng 62 63"
+    },
+    {
+      "gia": 64000,
+      "gia_tren": 65000,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [],
+      "moc_gio": "00:47:59",
+      "chac": true,
+      "trich": "thứ hai nó quét phát 64 hoặc 65 gì đó rồi rụng xuống"
+    }
+  ]
+}

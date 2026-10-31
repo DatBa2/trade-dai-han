@@ -1,0 +1,94 @@
+{
+ "buoi": "2026-07-30_qBG2h5D9CrE",
+ "ngay": "2026-07-30",
+ "gio_vn": "11:00",
+ "gia_btc_luc_noi": 64167,
+ "nhan_dinh": [
+  {
+   "khung": "H4",
+   "huong": "GIAM",
+   "do_chac": "thap",
+   "dich": 62500,
+   "han": "1-2 ngày, tới hết thứ Sáu 31/07 (qua tin GDP/PCE tối nay)",
+   "han_gio": 48,
+   "vo_hieu_khi": "H4 đóng trên 64.800 (vượt hai đỉnh 64.69/64.75 + thoát hẳn cụm EMA34/89/200 H4) thì bỏ short",
+   "kich_ban_phu": "trước khi xuống có thể quét lên 64.7-65.4 (hai đỉnh sau FED + trendline/râu H1) để lấy SL phe short rồi mới gãy",
+   "duong_di": [
+    {"huong": "TANG", "dich": 64950},
+    {"huong": "GIAM", "dich": 62500}
+   ],
+   "doi_y": null,
+   "ly_do": [
+    "giữ view từ live FED: chưa có H1/H4 nào đóng trên đỉnh cũ 64.7, mô hình H4 vẫn đỉnh sau thấp hơn đỉnh trước (64.75 → 64.69 → 64.42)",
+    "cây H4 FED 23h râu trên 1.12% chọc 64.69 rồi đóng 63.58 = tin giữ lãi suất chỉ hưng phấn ngắn hạn, bị bán ngay",
+    "giá chỉ đang hồi vào cụm EMA34/89/200 H4 chụm 64.3-64.4, chưa qua được, EMA34 vẫn dốc xuống",
+    "D1 29/07 doji râu hai đầu ngay dưới EMA34 D1 (64.35) — không có lực mua; Nasdaq -1.74% và dầu +6.6% phiên qua là gió ngược cho crypto"
+   ],
+   "trich": null
+  },
+  {
+   "khung": "D1",
+   "huong": "GIAM",
+   "do_chac": "thap",
+   "dich": [60000, 62000],
+   "han": "vài ngày tới đầu tuần sau",
+   "han_gio": 120,
+   "vo_hieu_khi": "D1 đóng trên 65.200 (vượt hẳn dải EMA34 D1)",
+   "kich_ban_phu": "62-62.5 là hỗ trợ cực cứng, về đó có thể rút chân tạo vai đầu vai ngược; thủng 60 là hết nhịp hồi",
+   "duong_di": null,
+   "doi_y": null,
+   "ly_do": [
+    "D1 thứ Hai nhấn chìm gãy xu hướng tăng, 3 nến D1 sau chỉ doji/rút chân, không lấy lại được",
+    "giá vẫn dưới EMA34 close D1 và EMA89 D1 67K",
+    "Fibo mở rộng sóng hồi cho 62K và 60K"
+   ],
+   "trich": null
+  },
+  {
+   "khung": "W1",
+   "huong": "GIAM",
+   "do_chac": "cao",
+   "dich": [40000, 50000],
+   "han": "chu kỳ downtrend tới 2027",
+   "han_gio": null,
+   "vo_hieu_khi": "nến tuần đóng trên trendline giảm khung tuần / dải EMA34 W1 ~72K",
+   "kich_ban_phu": "tháng 7 đóng xanh vẫn chỉ là nhịp hồi",
+   "duong_di": null,
+   "doi_y": null,
+   "ly_do": [
+    "giá dưới EMA34/89 tuần, EMA34 tuần đã cắt xuống EMA89 tuần",
+    "tuần này đỏ -1.9% sau 4 tuần xanh yếu",
+    "chu kỳ 4 năm: downtrend từ đỉnh 126K mới đi khoảng một nửa"
+   ],
+   "trich": null
+  }
+ ],
+ "vung_gia": {
+  "khang_cu": [64400, 64750, 65400, 66000],
+  "ho_tro": [63260, 62740, 62500, 62000]
+ },
+ "lenh": [
+  {
+   "chieu": "SHORT",
+   "loai": "limit",
+   "vao": 64950,
+   "tp": [63350, 62600],
+   "sl": 65550,
+   "trang_thai": "de_xuat_moi"
+  }
+ ],
+ "hanh_dong": "dung_ngoai_cho_entry",
+ "giu_view": true,
+ "ly_do_doi_view": "Giữ view GIẢM từ live FED đêm qua: tin đã ra và quét hai đầu (64.69 rồi 63.26) nhưng chưa có nến H1/H4 nào đóng trên đỉnh cũ 64.7 (mốc sai đã báo), chưa chạm đích 62. Giá về giữa vùng nên chỉ chờ hồi lên 64.9-65.4 để vào.",
+ "rau": {
+  "tren": "64.686 (H4 mở 23:00 29/07, cây tin FED, râu trên 1.12%); sát đó 64.752 (H4 15:00 29/07)",
+  "duoi": "63.262 (H4 mở 03:00 30/07, râu dưới 0.50% sau tin)",
+  "test_lai": "Râu trên 64.69-64.75: CÓ — hai đỉnh sát nhau, SL phe short đặt ngay trên, trùng cạnh trên dải EMA34 H4 64.67 + Fibo 0.618 nhịp 65.75→62.74 (64.60) → quét lên lấy thanh khoản rồi mới gãy (R2 + G4). Râu dưới 63.262: CÓ ở chặng 2 — chỉ là râu sau tin, đích 62.5 nằm dưới nên sẽ bị đi qua."
+ },
+ "vung_on": [
+  {"loai": "SHORT", "khoang": [64700, 65400], "ly_do": ["hai đỉnh râu H4 64.69/64.75 (tin FED)", "cạnh trên dải EMA34 H4 64.67 + cạnh trên dải EMA34 D1 65.15", "Fibo 0.618-0.786 nhịp giảm H4 65.75→62.74 (64.60/65.11)", "trendline/râu H1 65-65.4 người đó đã nêu để short qua đêm"]},
+  {"loai": "LONG", "khoang": [62000, 62700], "ly_do": ["Fibo 0.5 D1 nhịp 57.8→66.95 (62.38)", "râu D1 28/07 62.741", "hỗ trợ cứng 62-62.5 nhiều lần + đáy H4 17/07 62.536"]}
+ ],
+ "pha_vo_gia": "Cú FED chọc 64.686 là dụ long: chỉ râu, thân đóng 63.58 (G1), ngay trong 1-2 giờ sau tin (G6), phiên Mỹ (G9). Cây H4 07h đóng 64.167 nhỉnh trên 64.1 cũng chưa tính: mới 1 cây, vẫn trong cụm EMA, chưa qua 64.7 (G2).",
+ "loi_binh": "View từ đêm qua không thay đổi nhiều anh em, tin FED ra nó quét lên 64.7 rồi đạp xuống 63.2, đúng kiểu tin chỉ hưng phấn một hai tiếng. Giờ giá 64.1 nằm ngay giữa, trong cụm MA H4, không vào giữa. Ai muốn short thì chờ nó hồi lên 64.9-65.4 test lại râu rồi có nến đỏ M5 mới bắn, SL trên 65.5, đủ mồm 63.3 thì chốt một nửa. H4 đóng trên 64.8 thì mình bỏ tay ra khỏi nút short."
+}

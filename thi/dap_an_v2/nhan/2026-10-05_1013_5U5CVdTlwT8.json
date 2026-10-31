@@ -1,0 +1,105 @@
+{
+  "buoi": "2026-10-05_1013_5U5CVdTlwT8",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/lam_sach/2026-10-05_1013_5U5CVdTlwT8.md",
+  "gia_btc_luc_noi": 86000,
+  "dau_buoi": {
+    "thien_huong_h4": "GIAM",
+    "gio": null,
+    "trich": "Vào H4 thì giá rất muốn đi lên nhưng nó test lại ba cái đỉnh này. Vùng 87 này rõ ràng là vùng kháng cự. Cái sắc để nó kéo xuống đẹp nhất là gì? Chính là nhịp mình đang chờ: fake out, lên đâu đó khoảng độ 88.000 và sau đó nhanh chóng quay về lại. Nếu nó lên phá cao được nhịp này mà đi xuống thì chắc sẽ điều chỉnh về lại 82 được."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "GIAM",
+    "do_chac": "thap",
+    "gio": null,
+    "trich": "Bitcoin vừa đóng một cây H4 đỏ; nhưng mình nghĩ cây này chắc chưa gãy liền đâu. H1 cũng xấu, H4 cũng xấu. Chắc phải hồi lên được khoảng vài trăm giá. Vàng gãy, nếu có gãy mình nghĩ Bitcoin cũng phải gãy hồi vài trăm giá rồi mới gãy tiếp. Gãy là tốt đúng không?"
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {
+    "huong": "TANG",
+    "dich": null
+  },
+  "duong_di": [
+    {
+      "huong": "GIAM",
+      "dich": 84000
+    },
+    {
+      "huong": "GIAM",
+      "dich": [
+        81000,
+        82000
+      ]
+    }
+  ],
+  "dich_chinh": [
+    81000,
+    82000
+  ],
+  "han_gio": null,
+  "vo_hieu": {
+    "gia": 87000,
+    "khung": "H4",
+    "so_nen": 2,
+    "chieu": "dong_tren",
+    "cau": "Nếu có hai cây nến H4 đóng trên 87 nhá, hai cây, một cây là không chắc, phải hai cây đóng trên vùng này thì confirm đi lên tiếp 90 92."
+  },
+  "lenh": [
+    {
+      "chieu": "SHORT",
+      "vao": 88000,
+      "tp": [
+        82000
+      ],
+      "sl": null,
+      "trang_thai": "de_xuat_moi"
+    },
+    {
+      "chieu": "LONG",
+      "vao": [
+        80000,
+        82000
+      ],
+      "tp": [],
+      "sl": null,
+      "trang_thai": "de_xuat_moi"
+    }
+  ],
+  "hanh_dong": "dung_ngoai_cho_entry",
+  "khung_lon": {
+    "D1": "PHAN_VAN",
+    "W1": "TANG"
+  },
+  "pha_vo_gia": "Chờ pha fake out bơm lên ~88.000 quét stop loss phe sale (cản tàu) rồi quay về dưới 87 — 'tạo một cấu trúc giả cho sóng tăng'; chỉ khi có fake out mới sale.",
+  "trich_them": [
+    {
+      "gio": null,
+      "cau": "Hiện tại nó đã hoàn thành xong những nhịp test này thì gần như hết động lực để lên mất rồi."
+    },
+    {
+      "gio": null,
+      "cau": "Cấu trúc sóng tăng sẽ mất khi nào? Khi nến đóng thủng 84 nhá. Khi nến đóng thủng vùng 84 này thì xu hướng tăng đoạn này sẽ mất và lúc đó nó sẽ trôi về lại vùng 81."
+    },
+    {
+      "gio": null,
+      "cau": "Một trường hợp nữa là nó không fake out ở đây mà điều chỉnh về 85 rồi đi lên tiếp. Lúc này nó không thủng 84 thì các bạn đừng sale cái gì hết."
+    },
+    {
+      "gio": null,
+      "cau": "Hai là trở về quanh vùng 82: mình vẫn nghĩ vùng 82 này mới thực sự là vùng đủ đẹp để chúng ta lên (mua). 82 hoặc là 80. Còn lại vùng ở đây thực sự rất khó chơi, vùng 86 này cực kỳ khó nhá."
+    },
+    {
+      "gio": null,
+      "cau": "Gãy 84 mới gọi là ok để đánh xuống, chứ không thì nó cứ vòng lên vòng xuống chạy vài trăm giá, không ăn thua."
+    },
+    {
+      "gio": null,
+      "cau": "Chỉ có ở khung tuần thì xác suất lên 9x ngày càng cao. Mình chỉ chốt được một câu như vậy thôi: xác suất lên 9x là ngày càng cao."
+    },
+    {
+      "gio": null,
+      "cau": "Khung ngày thì RSI cũng đang yếu dần, volume cũng đang yếu dần... Mình nghĩ lực lượng bây giờ là 50 50 nhá."
+    }
+  ],
+  "kho": "File không có mốc giờ. Người nói nghiêng xuống (fake out 88 rồi về 82, cuối buổi 'H4 cũng xấu... gãy tiếp') nhưng nhiều lần nói vùng 86 'lằng nhằng, chơi đầu nào cũng mệt', phải thủng 84 mới đánh xuống, và W1 rất tăng — nên độ chắc thấp, sát ranh PHAN_VAN. Hai lệnh trong 'lenh' là kế hoạch có điều kiện (SHORT chỉ khi có fake out 88 rồi quét về; LONG khi về 82/80), không phải lệnh vào ngay. Chặng hồi kế tiếp chỉ 'vài trăm giá', không nêu số."
+}

@@ -1,0 +1,52 @@
+{
+  "buoi": "2026-08-06__Ypby-_iFsg",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/zip_clean/2026-08-06__Ypby-_iFsg.txt",
+  "gia_btc_luc_noi": 64400,
+  "dau_buoi": {
+    "thien_huong_h4": "TANG",
+    "gio": "[00:06:19]",
+    "trich": "BTC thì đang hỗ trợ tốt ở đoạn này. BTC hôm qua đang break và đang gặp trendline, có khả năng back đi lên tiếp."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "TANG",
+    "do_chac": "thap",
+    "gio": "[01:08:00]",
+    "trich": "BTC thì vẫn cứ lòng vòng ở trong đoạn này, xu hướng vẫn đang rất khỏe. Có vẻ là nó đã quyết định đi lên, có vẻ thôi chứ chưa confirm. Chờ break ra thì tính"
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {"huong": "TANG", "dich": 65000},
+  "duong_di": [
+    {"huong": "TANG", "dich": 65000},
+    {"huong": "TANG", "dich": [70000, 72000]}
+  ],
+  "dich_chinh": [70000, 72000],
+  "han_gio": null,
+  "vo_hieu": {
+    "gia": 64000,
+    "khung": "H4",
+    "so_nen": 1,
+    "chieu": "dong_duoi",
+    "cau": "Nhưng bây giờ mình chấp nhận cho nó gãy về lại khoảng dưới 64 thì khả năng mình sẽ short đẹp, đánh xuống đẹp, tức là ghi nhận đây là một nhịp phá cao."
+  },
+  "lenh": [
+    {"chieu": "SHORT", "vao": 64000, "tp": [60000], "sl": null, "trang_thai": "da_dong"},
+    {"chieu": "LONG", "vao": 64000, "tp": [65000, 71000], "sl": null, "trang_thai": "de_xuat_moi"}
+  ],
+  "hanh_dong": "dung_ngoai_cho_entry",
+  "khung_lon": {"D1": "TANG", "W1": null},
+  "pha_vo_gia": "Nếu giá gãy lại dưới ~64k thì cú phá trendline H4 được ghi nhận là 'nhịp phá cao' (phá vỡ giả) để short lại; ngoài ra có thể kéo lên quét liquid/stop loss 65k trước khi về 63k.",
+  "trich_them": [
+    {"gio": "[00:08:55]", "cau": "Chờ break đoạn này. Chờ phá lên khỏi đoạn này thì nó sẽ đi lên, ít nhất là test lại đỉnh ở trên hoặc Fibo, nó sẽ chặn ở 6400 này. Tầm này cứ ngồi im chờ thôi."},
+    {"gio": "[00:13:01]", "cau": "D1 vẫn tăng, tăng đẹp. Nhưng cây nến đỏ trước này cần phải được phá thì mới ổn ... Đúng ra mình phải chờ đến 65.00 thì mới out. Nhưng bởi vì qua đêm cho nên mình bắt buộc phải cho anh em cài vào, chứ lỡ đêm nó kéo lên 66 một phát thì chết."},
+    {"gio": "[00:15:14]", "cau": "Đây là xu hướng H4, rõ ràng hiện tại nó đã break trendline và kênh giá này cho nên chúng ta không short theo H4 nữa. Không short H4 nữa."},
+    {"gio": "[00:16:54]", "cau": "Tầm này cá nhân mình đang chờ nó về 64.000 và quan sát ở đó. Nếu phản ứng tốt thì mình sẽ tìm điểm để đánh lên."},
+    {"gio": "[00:18:28]", "cau": "Bởi vì như hôm trước mình nói, những động lực để giá lên 70 trở lên là vẫn còn, 70 hoặc 71 hoặc 72. Lúc nãy mình vẽ mô hình cờ ra thì anh em cũng thấy mũi tên chỉ lên đến khoảng vùng 71. Cho nên không loại trừ xác suất này. Vùng này là vùng 50/50 cho nên view kiểu nào cũng có góc nhìn hết."},
+    {"gio": "[00:19:02]", "cau": "Hôm trước mình vẫn view cho anh em góc nhìn đi xuống theo Fibo mở rộng này, nhưng hiện tại nó về chỉ đến 1 và sau đó bật lên. Và hôm trước chúng ta short vì cái cản này. Nhưng cái cản này đã bị phá qua thì bắt buộc chúng ta phải reset lại view."},
+    {"gio": "[00:22:24]", "cau": "Nếu muốn đánh xuống thì đoạn này là ngược xu hướng cho nên chỉ đánh cho vui, volume nhỏ. Nếu muốn đánh xuống thì SL nằm ở 64.650 và TP ở 64.00."},
+    {"gio": "[00:25:16]", "cau": "Có khi nào nó quét về 63 sâu? Quét về đây coi như gãy luôn. Nhưng chắc nếu muốn về 63 để sụp luôn thì nó sẽ cố kéo lấy liquid ở 65 này để húp tụi 63 này."},
+    {"gio": "[00:57:00]", "cau": "H4 đóng tiếp cây nến đỏ rồi. Đóng nến này thì chờ về 64 tính. BTC tầm này một là chờ về 64 tính, hoặc chờ lên 65 quét stop loss rồi tính."},
+    {"gio": "[01:08:39]", "cau": "Tầm này nó đang muốn break lên, cứ chờ cho nó break. Break đoạn này thì chắc nó lên được khoảng tầm 65.000."}
+  ],
+  "kho": "Buổi đảo view so với các ngày trước (bỏ short H4 vì giá đã phá trendline/kênh giá), tự nói 'vùng 50/50' nhưng nghiêng lên: gọi short là 'ngược xu hướng', chờ 64k để long, cuối buổi 'có vẻ đã quyết định đi lên'. Đích 70-72k chỉ là 'không loại trừ' nên do_chac thấp. Lệnh short cũ được xử lý qua đêm (không nói giá đóng); vao 64000 lấy theo lệnh sell 64k buổi trước."
+}

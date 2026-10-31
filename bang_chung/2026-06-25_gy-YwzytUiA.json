@@ -1,0 +1,330 @@
+[
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[0].trich",
+  "trich": "Fibo giảm ... vùng thứ hai là 57.000, khả năng nó về 57.000 thì rất là dễ. Đối với kiểu đi như thế này, xác suất để nó về 57 cực kỳ cao.",
+  "giay": 1034,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=gy-YwzytUiA&t=1034s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[1].trich",
+  "trich": "Chúng ta có một cây nến ngày rút chân lên thì cây nến này không có khả năng tăng. ... tuần sau sideway rồi từ từ nó giảm tiếp khoảng qua tháng 7, đó là một kịch bản đẹp hết sức.",
+  "giay": 877,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=gy-YwzytUiA&t=877s",
+  "anh": [
+   {
+    "file": "so_tay/khung/gy-YwzytUiA_001530.jpg",
+    "giay": 930,
+    "lech": 53
+   }
+  ]
+ },
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[2].trich",
+  "trich": "Nếu về 70% 77% như mùa trước thì sẽ là 28 30.000. ... Kế hoạch của mình là 40.000 mình mua.",
+  "giay": 2323,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=gy-YwzytUiA&t=2323s",
+  "anh": [
+   {
+    "file": "so_tay/khung/gy-YwzytUiA_003730.jpg",
+    "giay": 2250,
+    "lech": -73
+   }
+  ]
+ },
+ {
+  "nguon": "phieu",
+  "truong": "lenh[0].trich",
+  "trich": "Trong vùng này anh em có thể tìm vị thế để short. ... phải đặt stop loss cao trên khỏi thằng 63.300 này chứ đừng có short ở 61 đặt SL 62.000.",
+  "giay": 1097,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=gy-YwzytUiA&t=1097s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "lenh[1].trich",
+  "trich": "Ăn được 700 là ngon, nhớ chốt lãi. ... H4 đóng màu đỏ cũng không ăn thua, cứ vẫn giữ theo view.",
+  "giay": 3561,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=gy-YwzytUiA&t=3561s",
+  "anh": [
+   {
+    "file": "so_tay/khung/gy-YwzytUiA_010030.jpg",
+    "giay": 3630,
+    "lech": 69
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[0].trich",
+  "trich": "Fibo của nhịp giảm thì nó có hai target. Một là ở 60.000. Hôm qua mình cho anh em TP ở đây thì nó cũng đã xong rồi",
+  "giay": 1020,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=gy-YwzytUiA&t=1020s",
+  "anh": [
+   {
+    "file": "so_tay/khung/gy-YwzytUiA_001530.jpg",
+    "giay": 930,
+    "lech": -90
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[1].trich",
+  "trich": "Vùng thứ hai là 57.000, khả năng nó về 57.000 thì rất là dễ",
+  "giay": 1034,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=gy-YwzytUiA&t=1034s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[2].trich",
+  "trich": "Limit 59k1 ăn tiếp ... 59k1 ăn ngay cái đáy này",
+  "giay": 277,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=gy-YwzytUiA&t=277s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[3].trich",
+  "trich": "đây là lần gần như thứ ba nó test vùng giá này. Nếu cây nến hôm nay đóng full lực bán dưới vùng 59 hoặc 60 thì ngày mai cắm đầu phá đáy",
+  "giay": 931,
+  "do_giong": 0.667,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=gy-YwzytUiA&t=931s",
+  "anh": [
+   {
+    "file": "so_tay/khung/gy-YwzytUiA_001530.jpg",
+    "giay": 930,
+    "lech": -1
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[4].trich",
+  "trich": "hồi lên được khoảng tầm 62 cho đến 63 thì anh em short lại ... short tiếp về đến 58 hoặc 57",
+  "giay": 482,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=gy-YwzytUiA&t=482s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[5].trich",
+  "trich": "short tiếp về đến 58 hoặc 57",
+  "giay": 493,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=gy-YwzytUiA&t=493s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[6].trich",
+  "trich": "nhịp hồi từ râu này 62 này 61.000 này cho đến cái thân này khoảng 61.000 ... hồi lên đến vùng khoảng 61.869. Trong vùng này anh em có thể tìm vị thế để short",
+  "giay": 1068,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=gy-YwzytUiA&t=1068s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[7].trich",
+  "trich": "phải đặt cao trên khỏi thằng 63.300 này chứ đừng có short ở 61.008 đặt SL 62.000 hay 62.007 nó quét trong phát một",
+  "giay": 1107,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=gy-YwzytUiA&t=1107s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[8].trich",
+  "trich": "Nếu đoạn này mà nó thủng khoảng 60.000 thì sẽ tuột về dưới này rất là nhanh",
+  "giay": 1234,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=gy-YwzytUiA&t=1234s",
+  "anh": [
+   {
+    "file": "so_tay/khung/gy-YwzytUiA_002030.jpg",
+    "giay": 1230,
+    "lech": -4
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[9].trich",
+  "trich": "Vùng 61 là không có ý nghĩa",
+  "giay": 1289,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=gy-YwzytUiA&t=1289s",
+  "anh": [
+   {
+    "file": "so_tay/khung/gy-YwzytUiA_002030.jpg",
+    "giay": 1230,
+    "lech": -59
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[10].trich",
+  "trich": "Vùng quan trọng là vùng 63, nó phải đóng được trên 63 này thì mình nghĩ là ổn",
+  "giay": 1291,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=gy-YwzytUiA&t=1291s",
+  "anh": [
+   {
+    "file": "so_tay/khung/gy-YwzytUiA_002030.jpg",
+    "giay": 1230,
+    "lech": -61
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[11].trich",
+  "trich": "Tầm này nó có lên được 62 thì tốt. 61.5 62 thì quá tốt",
+  "giay": 1781,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=gy-YwzytUiA&t=1781s",
+  "anh": [
+   {
+    "file": "so_tay/khung/gy-YwzytUiA_003030.jpg",
+    "giay": 1830,
+    "lech": 49
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[12].trich",
+  "trich": "Mình kỳ vọng là hôm nay dump thêm một phát nữa về 57 55 gì đó thì càng ngon",
+  "giay": 1672,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=gy-YwzytUiA&t=1672s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[13].trich",
+  "trich": "ngày mai đi sideway ở khoảng 57 58 59",
+  "giay": 1679,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=gy-YwzytUiA&t=1679s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[14].trich",
+  "trich": "thứ bảy chủ nhật thứ hai nó hồi lên đâu đó khoảng tầm 61 60, hồi nhẹ hồi cho có về kỹ thuật",
+  "giay": 1682,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=gy-YwzytUiA&t=1682s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[15].trich",
+  "trich": "Từ 15 lên 125 ... Đây đang ở Fibo 0.6. Thông thường nhịp này thì nó sẽ dump đến khoảng độ Fibo 786 ... Quét sâu dưới này khoảng tầm 38",
+  "giay": 638,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=gy-YwzytUiA&t=638s",
+  "anh": [
+   {
+    "file": "so_tay/khung/gy-YwzytUiA_001030.jpg",
+    "giay": 630,
+    "lech": -8
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[16].trich",
+  "trich": "Kế hoạch của mình là 40.000 mình mua",
+  "giay": 1917,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=gy-YwzytUiA&t=1917s",
+  "anh": [
+   {
+    "file": "so_tay/khung/gy-YwzytUiA_003030.jpg",
+    "giay": 1830,
+    "lech": -87
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[17].trich",
+  "trich": "Nếu về 70% 77% như mùa trước thì sẽ là 28 30.000",
+  "giay": 2323,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=gy-YwzytUiA&t=2323s",
+  "anh": [
+   {
+    "file": "so_tay/khung/gy-YwzytUiA_003730.jpg",
+    "giay": 2250,
+    "lech": -73
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[18].trich",
+  "trich": "Cờ này mà nhẹ thì nó sẽ đấm xem thử về đâu. Từ đây về đây cũng 52, 53, 54 gì đấy",
+  "giay": 3685,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=gy-YwzytUiA&t=3685s",
+  "anh": [
+   {
+    "file": "so_tay/khung/gy-YwzytUiA_010030.jpg",
+    "giay": 3630,
+    "lech": -55
+   }
+  ]
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[19].trich",
+  "trich": "Hôm trước 67 coi như là đỉnh rồi. muốn tăng lên nữa thì phải chờ confirm mô hình hai đáy ở khung ngày",
+  "giay": 3519,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=gy-YwzytUiA&t=3519s",
+  "anh": []
+ }
+]

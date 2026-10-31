@@ -1,0 +1,40 @@
+{
+  "buoi": "2026-10-13_1005_4ttwL_4CC9E",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/lam_sach/2026-10-13_1005_4ttwL_4CC9E.md",
+  "gia_btc_luc_noi": 83000,
+  "dau_buoi": {
+    "thien_huong_h4": "GIAM",
+    "gio": null,
+    "trich": "Xu hướng H4: giá đang nằm dưới các cụm đường, là xu hướng giảm; đỉnh đáy sau thấp hơn đỉnh đáy trước. Từ 87 cho đến bây giờ đều là xu hướng giảm ở H4, và thứ hai cũng confirm xu hướng giảm này."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "PHAN_VAN",
+    "do_chac": "thap",
+    "gio": null,
+    "trich": "Quay lại thực tế: nến đóng ở đây thì cũng không lạ gì, nhưng tốt nhất đừng sell. Cây nến đóng ác, anh em nào có sell thì nên té nhá. Từ từ ổn ổn rồi tính tiếp, nến này sợ lắm, không biết đường nào mà lần."
+  },
+  "doi_y_giua_buoi": true,
+  "ly_do_doi_y": "Đầu buổi H4 xu hướng giảm, đang short và 'nay chờ short', D1 hai đỉnh nhắm 76. Cây H4 đóng xanh mạnh giữ đáy 81 (không đóng gãy xuống) → bỏ ý định sell lại, khuyên ai sell thì té, chuyển sang view sideway tam giác 81–84 chờ phá biên.",
+  "chang_ke_tiep": {"huong": "TANG", "dich": 84000},
+  "duong_di": null,
+  "dich_chinh": null,
+  "han_gio": null,
+  "vo_hieu": null,
+  "lenh": [],
+  "hanh_dong": "dung_ngoai_vi_lap_lung",
+  "khung_lon": {"D1": "GIAM", "W1": "TANG"},
+  "pha_vo_gia": null,
+  "trich_them": [
+    {"gio": null, "cau": "Hôm qua ăn được một nhịp short. Sáng hôm nay short tiếp thì giờ chưa thành công, đang bị quét lại rồi... Hôm qua TP chốt hết, nay chờ short."},
+    {"gio": null, "cau": "Nếu tiếp diễn thì theo mô hình hai đỉnh, đúng ra nó sẽ về đâu đó khoảng 76.000 hoặc 75.00 [?], tức bằng với chân nến trước đó, về mặt kỹ thuật. Nếu giá không qua được 83.00 [?] thì vẫn còn tỉ lệ về đây."},
+    {"gio": null, "cau": "Có duy nhất một điều: nếu cây H4 này đóng ở vùng hiện tại, 82.00 [?], thì lực bán trước đó ở H4 sẽ giảm dần và bắt đầu đi vào sideway, từ giờ cho đến vài ngày tới... nó bắt đầu tạo đáy cao lên mà đỉnh thấp dần, tạo thành mô hình tam giác."},
+    {"gio": null, "cau": "Tốt nhất là H4 đóng phá qua khỏi đoạn 80.0081 [?] này; phá hẳn 81 thì chúng ta đánh về 76. Còn nếu phá hẳn 84 thì chúng ta đánh lên 90 nhá... Mình nghĩ từ giờ đến thứ sáu khả năng đi sideway là có."},
+    {"gio": null, "cau": "Cứ H4 này nhá: nếu cây H4 tí nữa đóng xanh thì ok, không nên sell nữa... Có thể chờ nó test về lại 82 rồi bật lên đánh lên cho an toàn."},
+    {"gio": null, "cau": "Maybe, tất cả kịch bản đều có xác suất xảy ra hợp lý hết. Tí nữa chuẩn bị đóng cây H4 ở đoạn này, H4 đóng ở đây sẽ cực kỳ đẹp và có khả năng đi lên tiếp; không loại trừ khả năng từ đây đi lên luôn 9x."},
+    {"gio": null, "cau": "Đánh kiểu này, với Bitcoin đóng H4 như vậy mình hơi sợ, đánh hơi khó. Chắc vào 5 phút tìm entry xem có scalping không thôi. Nến này chắc khả năng test lại được 84 hoặc 83.00 [?]."},
+    {"gio": null, "cau": "Mình định chờ H4 đóng gãy ở đoạn dưới này để sell lại, nhưng không được; đóng thế này thì ai dám sell đúng không. Chịu đi."},
+    {"gio": null, "cau": "Mình vẫn nghĩ đoạn này thị trường sẽ đi vào nhịp sideway nhiều hơn. Kỳ vọng ít thôi, có lãi thì cứ chốt nhá."},
+    {"gio": null, "cau": "Miễn sao nến tuần vẫn giữ được trên 82.000 là ok. Nến tuần cứ giữ trên 82.000 thì nhịp tăng này vẫn còn tốt."}
+  ],
+  "kho": "File không có mốc giờ. Cuối buổi sát ranh PHAN_VAN/TANG thấp: sau cây H4 xanh mạnh, người nói khuyên đừng sell, dự 'test lại 84 hoặc 83', nhưng nói rõ 'không biết đường nào mà lần', kỳ vọng sideway tam giác 81–84 đến thứ sáu, chờ phá 81 (→76) hoặc 84 (→90) — nên gán PHAN_VAN với chặng kế tiếp TANG 84. Lệnh short sáng nay bị quét (không nêu giá vào) nên không ghi vào 'lenh'. Giá lúc nói ước theo câu 'từ 81 lên 83'."
+}

@@ -1,0 +1,51 @@
+{
+  "buoi": "2026-07-01_WNiQnpm2BLo",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/zip_clean/2026-07-01_WNiQnpm2BLo.txt",
+  "gia_btc_luc_noi": 58000,
+  "dau_buoi": {
+    "thien_huong_h4": "GIAM",
+    "gio": "[00:19:26]",
+    "trich": "Kháng cự có nghĩa là giá lên đây sẽ gặp một lực đạp xuống. Cho nên để qua được khỏi xu hướng giảm này thì giá phải phá được khỏi 61.000 kia. Nhưng xác suất này đối với cá nhân mình đánh giá ở tình hình hiện tại cực kỳ khó."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "GIAM",
+    "do_chac": "vua",
+    "gio": "[00:53:33]",
+    "trich": "Plan trong ngày hôm nay thì thận trọng bởi vì vùng dưới này mình nghĩ không phải là vùng quá ngon để nhồi volume short hay long ở đoạn dưới này. Nếu không có một pha hồi lên để quét stop loss phe short trước thì chúng ta cũng không nên mạnh quá."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {"huong": "TANG", "dich": [59000, 60400]},
+  "duong_di": [
+    {"huong": "TANG", "dich": [59000, 60400]},
+    {"huong": "GIAM", "dich": [51000, 54000]}
+  ],
+  "dich_chinh": [51000, 54000],
+  "han_gio": null,
+  "vo_hieu": {
+    "gia": 61000,
+    "khung": "H4",
+    "so_nen": 1,
+    "chieu": "dong_tren",
+    "cau": "Cho nên để qua được khỏi xu hướng giảm này thì giá phải phá được khỏi 61.000 kia."
+  },
+  "lenh": [
+    {"chieu": "SHORT", "vao": [60000, 60400], "tp": [54000, 51000], "sl": 61000, "trang_thai": "de_xuat_moi"},
+    {"chieu": "LONG", "vao": 57000, "tp": [60000], "sl": null, "trang_thai": "de_xuat_moi"}
+  ],
+  "hanh_dong": "dung_ngoai_cho_entry",
+  "khung_lon": {"D1": "GIAM", "W1": null},
+  "pha_vo_gia": "[00:21:36] cây volume 5 phút break xuống ~5700 rồi rút lên: 'nhịp quét stop loss của phe long trước khi tăng cũng như là một nhịp fake out giả vờ breakout ở đây để đi xuống'; nhịp hồi lên 60–60.4 được gọi là lên quét stop loss phe short FOMO.",
+  "trich_them": [
+    {"gio": "[00:19:59]", "cau": "Nhịp này cùng lắm nó lên sẽ lên MA200 60.000 tư, thì đây sẽ là một vùng để anh em lựa chọn entry short khả thi."},
+    {"gio": "[00:20:33]", "cau": "Cho nên nếu ở đây anh em short thì cũng được, không phải không short được, nhưng phải phòng thủ được stop loss trên 61 thì mới chơi."},
+    {"gio": "[00:21:05]", "cau": "Hình như lúc nãy mình nói vùng mình đang ngắm là khoảng từ 54 cho đến 52 51. Đó là điểm kế tiếp của zone này, nó sẽ về kế tiếp về đây."},
+    {"gio": "[00:21:36]", "cau": "Xu hướng thị trường chỉ chừng đó thôi. Tất cả những nhịp hiện tại đều là những nhịp hồi thôi. Hồi quang phản chiếu. Và bản chất của thằng hồi này là lên lấy stop loss thôi."},
+    {"gio": "[00:22:13]", "cau": "Tầm này chúng ta sẽ chờ, nếu short thì mình sẽ chờ lại ở vùng 60.000 604, mình sẽ quan sát vùng hiện tại mình chưa."},
+    {"gio": "[00:23:49]", "cau": "Đoạn này nếu anh em nào thích thì đánh sóng hồi, đánh long sóng hồi nhưng đánh long thì ngược xu hướng cho nên phải đảm bảo rủi ro, đi vốn nho nhỏ thôi. Thủng quá dưới này thì cắt long... Tối đa của nhịp này chốt 60.000 là phải chốt hết."},
+    {"gio": "[00:33:47]", "cau": "Nếu thủng thì thủng bao nhiêu, về 52 hả? Nó thủng rồi, chẳng qua nó đang hồi lên để quét thôi. Nó cứ giữ ở vùng dưới 61 này thì kiểu gì xác suất về cũng rất cao."},
+    {"gio": "[00:45:24]", "cau": "Đi kiểu này thì khả năng nó đang muốn đi lên, BTC phá đoạn này rồi anh em, đoạn này hạn chế short. 30 phút thế này thì rất dễ đi lên, tệ lắm nó cũng lên và dừng ở Fibo cái đã rồi mới tính tiếp. Fibo cũng 5900."},
+    {"gio": "[00:15:39]", "cau": "Nến ngày thì ngày hôm qua chúng ta vẫn tiếp tục có một cây nến xấu. Vẫn là một cây nến bán. Nhưng nến bán này thì volume không nhiều. Vùng này rất dễ hồi."}
+  ],
+  "kho": "Hướng chính GIAM rõ (dưới 61 là xu hướng giảm, đích 54–51) nhưng ngắn hạn người đó chờ hồi lên 59–60.4 rồi mới short, và cuối buổi nói hạn chế short; lệnh long chỉ là scalp sóng hồi ngược xu hướng (vào quanh 5700 nếu quét). Không nêu hạn thời gian."
+}

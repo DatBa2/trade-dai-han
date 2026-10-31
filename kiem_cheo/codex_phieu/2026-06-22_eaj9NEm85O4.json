@@ -1,0 +1,39 @@
+{
+  "buoi": "2026-06-22_eaj9NEm85O4",
+  "gia_btc_luc_noi": 65500,
+  "dau_buoi": {
+    "huong_h4": "TANG",
+    "trich": "[00:11:07] Và nhịp này target là 69. ... Cho nên đoạn này lực tăng rất căng, để gãy rất khó."
+  },
+  "cuoi_buoi": {
+    "huong_h4": "PHAN_VAN",
+    "trich": "[00:42:40] muốn biết được cái sóng này nó sẽ dứt điểm ở đây, tức là nó sẽ lên tiếp hay là nó gãy luôn đêm ngày hôm nay thì phải chờ cây H4 này thôi. [00:53:19] Giờ long mình nghĩ chắc chưa đâu. Chắc chờ tí nữa chờ nến."
+  },
+  "doi_y_giua_buoi": true,
+  "huong_lon": {
+    "D1": "TANG",
+    "W1": "GIAM",
+    "chu_ky": "GIAM"
+  },
+  "hanh_dong": "dung_ngoai_cho_entry",
+  "duong_di": [
+    {
+      "huong": "GIAM",
+      "dich": 64000,
+      "khung": "H1"
+    },
+    {
+      "huong": "TANG",
+      "dich": 69000,
+      "khung": "H4"
+    }
+  ],
+  "dich_chinh": 69000,
+  "moc_sai": {
+    "gia": 64000,
+    "dieu_kien": "Để tăng tiếp H4 phải đóng trên Fibo 50 và giữ trên MA89/vùng 64.000 [00:46:05]. Nếu đóng xuyên dưới vùng 63.xxx/hai thân nến trước mới chuyển góc nhìn short [00:17:34–00:18:10]."
+  },
+  "pha_vo_gia": "[00:13:52–00:15:26] Sau H4 đỏ, H4 xanh/râu test trendline lần hai được nhận diện là dụ/trap short; không còn tuân mô hình cờ giảm như người xem tưởng.",
+  "do_chac": "thap",
+  "ghi_chu": "Đã đọc hết transcript. Giá 65.500 được nói rõ [00:04:38]. Đầu nghiêng hồi tăng tới 67.000 trước,69.000 theo Fibo H4;70.000–75.000 chỉ nhánh kỹ thuật xa. Cuối hồi bị đạp, đòi chờ H4 đóng/giữ 64.000; chọn PHAN_VAN ở mốc xác nhận, không gán GIAM chỉ vì chưa long. Đổi nhãn phản ánh giảm tự tin sau diễn biến, không có tuyên bố đảo view chính thức; là buổi khó cần kiểm chéo. Đường đi 64.000→69.000 vẫn là nhánh tăng ban đầu, chỉ còn hợp lệ nếu H4 giữ hỗ trợ; chưa có đường chính mới đủ rõ ở cuối. Lệnh long được nhắc có chỗ thực ra là ETH vì người xem còn shortBTC [00:39:07], nên không khẳng định người nói giữ longBTC. Buổi này nói phiên Mỹ/đêm, không mặc định điểm cập nhật cuối là 11:00 sáng."
+}

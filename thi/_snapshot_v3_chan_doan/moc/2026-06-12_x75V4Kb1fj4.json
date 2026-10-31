@@ -1,0 +1,165 @@
+{
+  "buoi": "2026-06-12_x75V4Kb1fj4",
+  "ngay": "2026-06-12",
+  "gia_btc_luc_noi": 63000,
+  "moc": [
+    {
+      "gia": 60000,
+      "gia_tren": null,
+      "vai_tro": "vo_hieu",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "đáy 60.000 hôm trước"
+      ],
+      "moc_gio": "00:21:10",
+      "chac": true,
+      "trich": "nếu thủng khỏi 60 thì mới mất xu hướng tăng được"
+    },
+    {
+      "gia": 69000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "Fibo mở rộng 1.618 (đáy 59.000 → 64.000, điểm hồi 60.000)",
+        "MA200 H4",
+        "Fibo thời gian H4"
+      ],
+      "moc_gio": "00:22:47",
+      "chac": true,
+      "trich": "Vùng Fibo 1.618 cho kết quả ở 69.000... trùng MA200"
+    },
+    {
+      "gia": 65000,
+      "gia_tren": 66000,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "Fibo 1 của sóng 59K→64K (65.900)",
+        "MA89 H4 ở 65-66K"
+      ],
+      "moc_gio": "00:23:21",
+      "chac": true,
+      "trich": "vùng Fibo 1 là 65.900... trùng với đường MA89 ở 65.000 66.000"
+    },
+    {
+      "gia": 63000,
+      "gia_tren": null,
+      "vai_tro": "entry",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "nhịp back sau khi chạm Fibo 1",
+        "vùng cản cũ 63.000",
+        "MA200 H1"
+      ],
+      "moc_gio": "00:23:52",
+      "chac": true,
+      "trich": "điểm xem xét entry mới ở 63 rồi mới lên TP2"
+    },
+    {
+      "gia": 71000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "râu nến maximum tháng 6"
+      ],
+      "moc_gio": "00:23:52",
+      "chac": true,
+      "trich": "râu nến quét lên maximum khoảng 71... trong tháng sáu khó cao hơn 71"
+    },
+    {
+      "gia": 71000,
+      "gia_tren": null,
+      "vai_tro": "entry",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [],
+      "moc_gio": "01:06:11",
+      "chac": true,
+      "trich": "Bitcoin hồi lên 71 mình nghĩ có thể tìm entry short"
+    },
+    {
+      "gia": 62000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "trendline hỗ trợ"
+      ],
+      "moc_gio": "00:25:31",
+      "chac": true,
+      "trich": "H4 đỏ thì điều chỉnh về khoảng 62.000... sâu nhất khoảng 61.800"
+    },
+    {
+      "gia": 61000,
+      "gia_tren": null,
+      "vai_tro": "vo_hieu",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "trendline",
+        "H4 đóng thủng"
+      ],
+      "moc_gio": "00:27:12",
+      "chac": true,
+      "trich": "Nếu H4 đóng thủng khỏi 61, thủng khỏi trendline này thì xu hướng thất bại"
+    },
+    {
+      "gia": 60900,
+      "gia_tren": 62000,
+      "vai_tro": "entry",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [],
+      "moc_gio": "00:28:15",
+      "chac": true,
+      "trich": "chờ nhịp tuột về khoảng 62.000 đến 60.900 thì có entry đẹp hơn"
+    },
+    {
+      "gia": 64000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "H4 đóng trên 64"
+      ],
+      "moc_gio": "00:41:44",
+      "chac": true,
+      "trich": "nến H4 đóng trên 64 là một tí sau thấy 65"
+    },
+    {
+      "gia": 58000,
+      "gia_tren": null,
+      "vai_tro": "sl",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "lệnh swing khung ngày"
+      ],
+      "moc_gio": "00:59:46",
+      "chac": true,
+      "trich": "lệnh swing được: SL58 và TP68. RR cũng 1"
+    },
+    {
+      "gia": 68000,
+      "gia_tren": null,
+      "vai_tro": "tp",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "lệnh swing khung ngày"
+      ],
+      "moc_gio": "00:59:46",
+      "chac": true,
+      "trich": "SL58 và TP68"
+    }
+  ]
+}

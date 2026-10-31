@@ -1,0 +1,43 @@
+{
+  "buoi": "2026-09-28_1006_G5Q1ATx_1ho",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/lam_sach/2026-09-28_1006_G5Q1ATx_1ho.md",
+  "gia_btc_luc_noi": 83000,
+  "dau_buoi": {
+    "thien_huong_h4": "GIAM",
+    "gio": null,
+    "trich": "Hiện tại thị trường đang điều chỉnh, bắt đầu xuất hiện những cái màu đỏ quen thuộc. ... Bitcoin có vẻ vẫn đang cố giữ đoạn này. M5 vẫn cố giữ và khả năng trong ngắn hạn có pha phục hồi lên đâu đó khoảng 83.700 [83.007] đến đường MA này trên 5 phút; mình sẽ tìm những cây nến có confirm thì mới đẹp."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "GIAM",
+    "do_chac": "cao",
+    "gio": null,
+    "trich": "Hiện tại phe bán đã chiếm được ưu thế ở đoạn này, nó sẽ đạp về tối thiểu là 82; 82 cho đến 82.400 gì đó thì mới may ra có phe mua nhảy vào lại. ... Mình đoán khả năng sẽ có một pha test đâu đó khoảng 82.400 thì mới an tâm được, và thực tế nó rất dễ test về đó nhá. ... H4 đóng rồi anh em: H4 đóng ở đây thì biết phải làm gì rồi, cần gì phân tích nữa."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {"huong": "GIAM", "dich": [82000, 82400]},
+  "duong_di": [
+    {"huong": "GIAM", "dich": [82000, 82400]}
+  ],
+  "dich_chinh": [82000, 82400],
+  "han_gio": null,
+  "vo_hieu": null,
+  "lenh": [
+    {"chieu": "SHORT", "vao": [83000, 83700], "tp": [82600, 82400], "sl": null, "trang_thai": "de_xuat_moi"}
+  ],
+  "hanh_dong": "vao_short",
+  "khung_lon": {"D1": "GIAM", "W1": "TANG"},
+  "pha_vo_gia": "Vùng thanh lý dày ở 85 (thậm chí 87) được người nói gọi là 'vùng dụ buy'; nến tuần breakout 'trừ trường hợp nó trap hay không thì cần thời gian trả lời'; 'cây ngày thứ hai không đáng tin'.",
+  "trich_them": [
+    {"gio": null, "cau": "Cây nến tuần vừa rồi của Bitcoin khá đẹp, breakout được vùng cản. Cho nên đoạn này nếu sale thì chắc cũng ăn ngắn thôi."},
+    {"gio": null, "cau": "Anh em nhớ vùng 82 là vùng hỗ trợ cứng ... Nếu nó giữ được thì chứng tỏ hỗ trợ này trụ được, lúc đó giá mới có cửa đi lên, sau khi nó trụ thì mới hành động."},
+    {"gio": null, "cau": "H1: lúc sáng mình nhắn anh em trong nhóm là chờ nếu H1 thủng khỏi đường MA200 thì nó rụng. ... Về đây 82.400 gì đó là đẹp rồi; vùng 82.xxx này cũng hỗ trợ nhiều. Tất cả đều chung một view."},
+    {"gio": null, "cau": "Fibo mở rộng đoạn này không chạy mượt lắm vì lực mua căng quá, nó bẻ luôn, lực mua hỗ trợ đều quá; còn nếu Fibo thì phải về hẳn 81, 80."},
+    {"gio": null, "cau": "Cây H1 vừa rồi gần như confirm điều chỉnh. Chờ nó điều chỉnh về khoảng 82.00 [?] lúc đó chúng ta tính tiếp. Còn lại tất cả đang hỗ trợ cho view này chạy khá mượt."},
+    {"gio": null, "cau": "Nếu anh em đánh xuống ăn ngắn thì có thể cân nhắc từ vùng khoảng 82.xxx [?] là bắt đầu kéo SL entry, hoặc TP1 ở 82.600; các TP dưới thì kéo dần, càng sát 82 càng nên chốt."},
+    {"gio": null, "cau": "Hỏi: Em có entry 84k8, gồng sale tiếp được không? — Thoải mái. Về thằng này 82.400 gì đó tính."},
+    {"gio": null, "cau": "Nếu cây H1 này kéo lại được trên MA200 thì mới là 'khốn nạn' — mới gọi là đẳng cấp market maker lái giá."},
+    {"gio": null, "cau": "RSI: phân kỳ vẫn là phân kỳ và RSI cắm xuống; nhịp này hy vọng RSI kéo xuống khoảng 34, 35 hoặc sát 30 càng tốt. Nếu về sát dưới này thì giá chắc về đâu đó khoảng 80 là ngon."}
+  ],
+  "kho": "Transcript không có mốc giờ. Hướng H4 xuống rõ, đích 82–82.4 (đích mở rộng 80–81 theo Fibo/RSI). Không có mốc vô hiệu bằng số: chỉ nói 'H1 kéo lại được trên MA200' là ngoài dự kiến (không nêu giá MA200) → vo_hieu null. Lệnh short ở nhịp hồi 83–83.7 là suy từ câu 'phục hồi lên ... 83.700 đến đường MA ... tìm nến confirm' + TP1 82.600; người nói không xác nhận tự vào lệnh. Giá lúc nói ước ~83k (đã 'khá sát vùng 82'). Khung tuần TANG (breakout, hai đáy) nhưng D1/H4 đang chỉnh về hỗ trợ 82."
+}

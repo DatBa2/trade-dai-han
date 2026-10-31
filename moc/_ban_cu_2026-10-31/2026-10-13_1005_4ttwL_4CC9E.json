@@ -1,0 +1,284 @@
+{
+  "buoi": "2026-10-13_1005_4ttwL_4CC9E",
+  "ngay": "2026-10-13",
+  "gia_btc_luc_noi": 81000,
+  "moc": [
+    {
+      "gia": 81000,
+      "gia_tren": 82000,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "W1",
+      "can_cu": [
+        "kháng cự khung tuần cuối tháng 9 (mất ~4 tuần mới qua) nay thành hỗ trợ",
+        "đổi vai"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "81-82 là kháng cự khung tuần... Bây giờ về đến đây thì thành hỗ trợ"
+    },
+    {
+      "gia": 82000,
+      "gia_tren": null,
+      "vai_tro": "vo_hieu",
+      "huong": "TANG",
+      "khung": "W1",
+      "can_cu": [
+        "nến tuần giữ trên 82.000",
+        "trendline hai đáy khung tuần đã phá"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "Nến tuần cứ giữ trên 82.000 thì nhịp tăng này vẫn còn tốt"
+    },
+    {
+      "gia": 80000,
+      "gia_tren": null,
+      "vai_tro": "day_cu",
+      "huong": null,
+      "khung": "W1",
+      "can_cu": [
+        "râu nến tuần vừa rồi quét về 80",
+        "nhịp về test râu"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "có một cái râu nến quét về đến 80, nên xác suất nó về test lại vùng 80 này rất cao"
+    },
+    {
+      "gia": 83000,
+      "gia_tren": 84000,
+      "vai_tro": "khang_cu",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [
+        "Fibo",
+        "vùng kháng cự cũ, hai đỉnh D1 neckline",
+        "nến ngày thứ hai đâm từ 84 về 81"
+      ],
+      "moc_gio": null,
+      "chac": false,
+      "trich": "ở khung ngày nó bị từ chối ngay vùng 83 này... lên back test ngay vùng kháng cự cộng với Fibo"
+    },
+    {
+      "gia": 75000,
+      "gia_tren": 76000,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "D1",
+      "can_cu": [
+        "mô hình hai đỉnh D1 (bằng chân nến trước đó)"
+      ],
+      "moc_gio": null,
+      "chac": false,
+      "trich": "theo mô hình hai đỉnh, đúng ra nó sẽ về đâu đó khoảng 76.000 hoặc 75"
+    },
+    {
+      "gia": 81000,
+      "gia_tren": null,
+      "vai_tro": "vo_hieu",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "đáy H4 không bị phá tiếp, tam giác đáy cao dần, H4 phá hẳn 81 đánh về 76"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "phá hẳn 81 thì chúng ta đánh về 76"
+    },
+    {
+      "gia": 76000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "sau khi H4 đóng phá 81"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "nếu bây giờ nó đóng về khoảng 79 thì xác suất về 76 là ngon"
+    },
+    {
+      "gia": 84000,
+      "gia_tren": null,
+      "vai_tro": "vo_hieu",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "phá hẳn 84 H4"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "Còn nếu phá hẳn 84 thì chúng ta đánh lên 90"
+    },
+    {
+      "gia": 90000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "phá hẳn 84"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "phá hẳn 84 thì chúng ta đánh lên 90"
+    },
+    {
+      "gia": 83000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "biên trên tam giác H4"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "lên test khoảng 8300 chẳng hạn, điều chỉnh về lại 8100"
+    },
+    {
+      "gia": 78000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "Fibo mở rộng từ vùng 84"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "Nếu theo Fibo mở rộng thì vùng này sẽ đi đến 78 và 74"
+    },
+    {
+      "gia": 74000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "Fibo mở rộng",
+        "lấy thanh khoản dưới đáy"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "đi đến 78 và 74... 74 nghĩa là nó phá cái đáy này, lấy thanh khoản ở dưới"
+    },
+    {
+      "gia": 82000,
+      "gia_tren": null,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": null,
+      "can_cu": [
+        "liquid hai đầu ngắn hạn"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "Vẫn là hai đầu ngắn hạn thôi: 82 hoặc 83.500"
+    },
+    {
+      "gia": 83500,
+      "gia_tren": null,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": null,
+      "can_cu": [
+        "liquid hai đầu ngắn hạn"
+      ],
+      "moc_gio": null,
+      "chac": false,
+      "trich": "82 hoặc 83.500, không quan trọng lắm"
+    },
+    {
+      "gia": 82000,
+      "gia_tren": null,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "trendline đang đỡ"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "Có thể chờ nó test về lại 82 rồi bật lên đánh lên cho an toàn"
+    },
+    {
+      "gia": 80000,
+      "gia_tren": null,
+      "vai_tro": "sl",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "dưới râu H4"
+      ],
+      "moc_gio": null,
+      "chac": false,
+      "trich": "bắt buộc SL ở dưới 80.0008 này"
+    },
+    {
+      "gia": 90000,
+      "gia_tren": 99999,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "không loại trừ khả năng từ đây đi lên luôn 9x"
+    },
+    {
+      "gia": 87000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "đỉnh 87 lần 3 (hai lần trước)"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "cuối tuần này phá lên 87 lần 3 và đi lên 9x?"
+    },
+    {
+      "gia": 60000,
+      "gia_tren": 87000,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": "W1",
+      "can_cu": [
+        "nhịp tăng bầu cử giữa kỳ"
+      ],
+      "moc_gio": null,
+      "chac": true,
+      "trich": "từ 60 lên đến 87 là nhờ đợt bầu cử đó"
+    },
+    {
+      "gia": 81000,
+      "gia_tren": 83000,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "MA34 D1 đã test 2 lần, lần 3 này lên chỉ gặp Fibo rồi rớt"
+      ],
+      "moc_gio": null,
+      "chac": false,
+      "trich": "MA34 khung ngày... hiện tại không còn quá vững nữa"
+    },
+    {
+      "gia": 83000,
+      "gia_tren": 84000,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "M5",
+      "can_cu": [
+        "scalping khung 5 phút"
+      ],
+      "moc_gio": null,
+      "chac": false,
+      "trich": "Nến này chắc khả năng test lại được 84 hoặc 83"
+    }
+  ]
+}

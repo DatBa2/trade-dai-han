@@ -1,0 +1,5 @@
+2026-09-21_1001_I_U52BYUt0M	/Users/badat/linhtinh/trade_dai_han/transcripts/lam_sach/2026-09-21_1001_I_U52BYUt0M.md	/Users/badat/linhtinh/trade_dai_han/thi/dap_an_v2/nhan/2026-09-21_1001_I_U52BYUt0M.json
+2026-09-22_1003_N-_6NBs4ZW8	/Users/badat/linhtinh/trade_dai_han/transcripts/lam_sach/2026-09-22_1003_N-_6NBs4ZW8.md	/Users/badat/linhtinh/trade_dai_han/thi/dap_an_v2/nhan/2026-09-22_1003_N-_6NBs4ZW8.json
+2026-09-23_1007_uK4vb9PoUIo	/Users/badat/linhtinh/trade_dai_han/transcripts/lam_sach/2026-09-23_1007_uK4vb9PoUIo.md	/Users/badat/linhtinh/trade_dai_han/thi/dap_an_v2/nhan/2026-09-23_1007_uK4vb9PoUIo.json
+2026-09-24_1009_R_WfFHUJ5RI	/Users/badat/linhtinh/trade_dai_han/transcripts/lam_sach/2026-09-24_1009_R_WfFHUJ5RI.md	/Users/badat/linhtinh/trade_dai_han/thi/dap_an_v2/nhan/2026-09-24_1009_R_WfFHUJ5RI.json
+2026-09-25_1014_Wf7PeLs6l94	/Users/badat/linhtinh/trade_dai_han/transcripts/lam_sach/2026-09-25_1014_Wf7PeLs6l94.md	/Users/badat/linhtinh/trade_dai_han/thi/dap_an_v2/nhan/2026-09-25_1014_Wf7PeLs6l94.json

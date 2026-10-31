@@ -1,0 +1,6 @@
+2026-08-04_K6QkKY6Og7o	/Users/badat/linhtinh/trade_dai_han/transcripts/zip_clean/2026-08-04_K6QkKY6Og7o.txt	/Users/badat/linhtinh/trade_dai_han/thi/dap_an_v2/nhan/2026-08-04_K6QkKY6Og7o.json
+2026-08-05_uw4QcusFtBc	/Users/badat/linhtinh/trade_dai_han/transcripts/zip_clean/2026-08-05_uw4QcusFtBc.txt	/Users/badat/linhtinh/trade_dai_han/thi/dap_an_v2/nhan/2026-08-05_uw4QcusFtBc.json
+2026-08-06__Ypby-_iFsg	/Users/badat/linhtinh/trade_dai_han/transcripts/zip_clean/2026-08-06__Ypby-_iFsg.txt	/Users/badat/linhtinh/trade_dai_han/thi/dap_an_v2/nhan/2026-08-06__Ypby-_iFsg.json
+2026-08-07_N-7XihrObp8	/Users/badat/linhtinh/trade_dai_han/transcripts/zip_clean/2026-08-07_N-7XihrObp8.txt	/Users/badat/linhtinh/trade_dai_han/thi/dap_an_v2/nhan/2026-08-07_N-7XihrObp8.json
+2026-08-10_1001_8BGhoFetSaU	/Users/badat/linhtinh/trade_dai_han/transcripts/zip_clean/2026-08-10_8BGhoFetSaU.txt	/Users/badat/linhtinh/trade_dai_han/thi/dap_an_v2/nhan/2026-08-10_1001_8BGhoFetSaU.json
+2026-08-11_1005_KvVvliql8xI	/Users/badat/linhtinh/trade_dai_han/transcripts/lam_sach/2026-08-11_1005_KvVvliql8xI.md	/Users/badat/linhtinh/trade_dai_han/thi/dap_an_v2/nhan/2026-08-11_1005_KvVvliql8xI.json

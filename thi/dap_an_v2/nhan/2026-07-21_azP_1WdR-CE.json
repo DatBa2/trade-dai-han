@@ -1,0 +1,45 @@
+{
+  "buoi": "2026-07-21_azP_1WdR-CE",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/zip_clean/2026-07-21_azP_1WdR-CE.txt",
+  "gia_btc_luc_noi": 65000,
+  "dau_buoi": {
+    "thien_huong_h4": "TANG",
+    "gio": "[00:05:38]",
+    "trich": "Đi mô hình như này không thể short được. Fibo 0.72 này khả năng đó vẫn rất là cao cho nên chúng ta không nên short. Long không biết thế nào nhưng short là tuyệt đối là không."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "TANG",
+    "do_chac": "vua",
+    "gio": "[00:59:51]",
+    "trich": "Nến H4 nó đóng ở đây thì view lúc nãy mình vẫn giữ nguyên [01:00:26] cho mọi người, vẫn nguyên giá trị."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {"huong": "TANG", "dich": [67000, 68000]},
+  "duong_di": [
+    {"huong": "TANG", "dich": [67000, 68000]}
+  ],
+  "dich_chinh": [67000, 68000],
+  "han_gio": 72,
+  "vo_hieu": {
+    "gia": 61000,
+    "khung": "H4",
+    "so_nen": 1,
+    "chieu": "dong_duoi",
+    "cau": "Trừ khi cái đoạn này nó muốn gãy thì nó sẽ phải gãy hẳn khỏi cái 62 hoặc là 61 này. Cái vùng hỗ trợ ngắn ở đây. Vùng này bị phá qua thì lúc đó chúng ta mới biết là cái lực tăng này nó đã bị phe bán áp đảo ... chứ còn nó cứ trên khỏi 6162 này thì tốt nhất là không nên."
+  },
+  "lenh": [],
+  "hanh_dong": "dung_ngoai_cho_entry",
+  "khung_lon": {"D1": "TANG", "W1": "GIAM"},
+  "pha_vo_gia": "H4 'nó dụ anh em rất là nhiều'; breakout khung nhỏ phá lên rồi tụt; long FOMO dễ bị kéo xuống quét (ngắn hạn có thể quét về 64.900/64.200 rồi mới phục hồi). Nói chung downtrend 'sẽ quét các bạn những cú lên rồi sau đó nó mới sập'.",
+  "trich_them": [
+    {"gio": "[00:12:58]", "cau": "khung tuần thì vẫn đang là xu hướng giảm. ... Trendline này nó sẽ dừng đâu đó khoảng tầm 70 đến 72, nó không qua được thì nó sẽ gãy cái trendline này nó đi xuống tiếp."},
+    {"gio": "[00:15:36]", "cau": "Đối với khung ngày như này các bạn cũng dễ dàng nhìn thấy là cái xu hướng hiện tại nó đang kéo những xu hướng đi lên. ... Ở đây xác suất nó lên được những vùng trên cao này rất là nhiều cho nên chúng ta không có vội."},
+    {"gio": "[00:16:08]", "cau": "Phá qua 34 thì nhịp này tệ lắm cũng lên test lại cái vùng MA89 đó là 67.000. Còn nếu nó đóng D1 mà qua được khỏi 67 68 này thì [00:16:41] nó sẽ vút lên đâu đó khoảng độ 70 cho đến 72.000 rất là dễ."},
+    {"gio": "[00:17:12]", "cau": "Nhưng để chắc hơn thì bây giờ có lẽ chúng ta nên chờ thêm một cây H4 nữa khoảng độ 40 phút nữa. Nếu nó đóng ở trên cái vùng [00:17:42] này là coi như cũng ổn rồi để đi lên."},
+    {"gio": "[00:18:46]", "cau": "Như đây thì hoàn toàn có khả năng là lên được cái vùng 68 mà tệ thì cũng 67. Ít nhất là giá vùng này mình nghĩ là nó sẽ chạm ... đâu đó khoảng một và hai hôm nữa, thứ sáu gì đó nó mới quét lên ở cái vùng trên này cũng có."},
+    {"gio": "[00:22:39]", "cau": "Ví dụ trong ngắn hạn nó có thể là quét về 64.900 [00:23:14] hay là 64.200 rồi nó mới phục hồi lên thì cũng bình thường."},
+    {"gio": "[00:48:13]", "cau": "Hôm nay chắc mình không short đâu."}
+  ],
+  "kho": "Không đưa lệnh BTC cụ thể; chỉ nói thuận xu hướng tăng D1, không short, không long FOMO. Mốc vô hiệu nói '62 hoặc là 61' (chọn 61.000, 'gãy hẳn'). Đích chính 67-68, mở rộng 70-72 chỉ khi D1 đóng trên 67-68. W1 vẫn giảm (nhịp hồi). Giá lúc nói lấy theo tiêu đề '65K'."
+}

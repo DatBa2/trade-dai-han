@@ -1,0 +1,398 @@
+{
+  "buoi": "2026-03-16_5DzdErSA8jk",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/zip_clean/2026-03-16_5DzdErSA8jk.txt",
+  "gia_btc_luc_noi": 73800,
+  "dau_buoi": {
+    "thien_huong_h4": "TANG",
+    "gio": "[00:05:40]",
+    "trich": "Vẫn chưa phá ra khỏi vùng lúc sáng, về cơ bản vùng này là vùng cao nhưng xu hướng thị trường mình thấy vẫn khá mạnh. Có vẻ nó không muốn điều chỉnh lắm, hoặc điều chỉnh mà điều chỉnh không nổi."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "TANG",
+    "do_chac": "vua",
+    "gio": "[00:45:46]",
+    "trich": "H4 vẫn treo cột cờ như này rất nguy hiểm, nhìn rất sợ. Nhưng đoạn này mình nghĩ cùng lắm nó điều chỉnh về lại khoảng 71.000, 71.800 vừa đẹp để lấp gap và vừa đủ về mặt kỹ thuật để lên tiếp. Còn gãy luôn đêm nay thì hơi khó. Gãy sóng này thì phải thủng 69.000 mới đứt sóng. Còn giữ trên vùng 7X thì vẫn còn sóng"
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {
+    "huong": "GIAM",
+    "dich": [
+      71000,
+      71800
+    ]
+  },
+  "duong_di": [
+    {
+      "huong": "GIAM",
+      "dich": [
+        71000,
+        71800
+      ]
+    },
+    {
+      "huong": "TANG",
+      "dich": 78000
+    },
+    {
+      "huong": "TANG",
+      "dich": [
+        79000,
+        80000
+      ]
+    }
+  ],
+  "dich_chinh": 80000,
+  "han_gio": 144,
+  "vo_hieu": {
+    "gia": 69000,
+    "khung": "H4",
+    "so_nen": 1,
+    "chieu": "dong_duoi",
+    "cau": "[00:46:18] Gãy sóng này thì phải thủng 69.000 mới đứt sóng. Còn giữ trên vùng 7X thì vẫn còn sóng."
+  },
+  "lenh": [
+    {
+      "chieu": "long",
+      "vao": null,
+      "tp": null,
+      "sl": 72000,
+      "trang_thai": "da_dong"
+    },
+    {
+      "chieu": "long",
+      "vao": [
+        71000,
+        71800
+      ],
+      "tp": null,
+      "sl": null,
+      "trang_thai": "de_xuat_moi"
+    }
+  ],
+  "hanh_dong": "dung_ngoai_cho_entry",
+  "khung_lon": {
+    "D1": "Không phân tích D1 riêng; đồng tình ý 'nến ngày kết thúc ở 79 rồi điều chỉnh' — '79 thì quá êm' ([00:25:35]).",
+    "W1": "Nếu muốn chinh phục 80 thì khả năng rất cao là trong tuần này; không lên được trong tuần thì nhịp này coi như hết, 80 để cho nhịp khác. Dài hạn vẫn đang downtrend; mua BTC/ETH cuối năm, vốn nhàn rỗi tối thiểu 4 năm từ 2027 ([00:20:54]–[00:21:26], [01:01:55], [00:23:29])."
+  },
+  "pha_vo_gia": "Cho rằng thị trường đi kiểu này là 'dụ short'; short lúc này dễ bị trap, còn có thể lụm short thêm lên 74.800–74.900; cũng cảnh báo có thể 'bẫy gãy về 70k lụm thanh lý rồi lên' ([00:09:49], [00:43:09], [00:48:54]).",
+  "nhin_lai_view_truoc": {
+    "view_truoc": "TANG",
+    "giu_hay_doi": "giu",
+    "vi_sao": "Giá chưa phá vùng buổi sáng nhưng xu hướng vẫn mạnh, điều chỉnh không nổi; cho rằng thị trường không sập được vì đi kiểu dụ short, altcoin/meme tăng mạnh.",
+    "gio": "[00:09:49]",
+    "trich": "Mình vẫn nghĩ đoạn này thị trường không sập được. Bởi vì đoạn này mà sập thì coi như dễ đánh, đúng không? Về bản chất đoạn này kêu một lệnh short ở đây stop loss khoảng 74.600 thì quá đơn giản, quá dễ. Nhưng mình thấy thị trường đi kiểu vậy có vẻ là dụ short thì căng."
+  },
+  "trendline": [],
+  "trich_them": [
+    {
+      "gio": "[00:08:47]",
+      "cau": "Bản chất lệnh đó là thấy thị trường ngứa mắt quá vào gõ một cái thôi. Thực tế long ở vùng break ở trên này thì không ổn, entry cực kỳ xấu cho nên đi volume nhỏ và báo lệnh risk. Cộng với đó chúng ta đi đòn bẩy rất hạn chế là đòn x10. Đoạn này để mình xem nếu thủng, mình định thủng khoảng đoạn 72.000 mấy này thì out"
+    },
+    {
+      "gio": "[00:20:54]",
+      "cau": "Trong tuần này Bitcoin lên được 80 hay không? Mình không biết trong tuần này nó có lên được hay không. Nhưng cá nhân mình nghĩ nếu giá muốn chinh phục mốc 80 thì khả năng rất cao nó sẽ [00:21:26] chinh phục trong tuần này. Còn nếu trong tuần này nó không lên được 80, thì mình nghĩ nó bỏ ngỏ con số 80 đó nhường cho nhịp khác"
+    },
+    {
+      "gio": "[00:39:58]",
+      "cau": "Phản ứng Fibo M15 của BTC: đúng rồi, nó đang phản ứng ở Fibo 61.8, 74 này. Cứ để nó chạy. Rụng khỏi đây thì thị trường sẽ cho anh em ăn cú short rất ngon về 71k6. Hôm nay là thứ hai, tối thứ hai là tối hoàn toàn không có uy tín nào trong thị trường."
+    },
+    {
+      "gio": "[00:43:39]",
+      "cau": "Anh em không nên short. Lời khuyên chân thành là chưa short được. Đoạn này nếu short dễ bị trap, dễ bị lừa. Nếu thị trường điều chỉnh xuống thì chúng ta không ăn nhịp short mà sẽ có entry để đánh nhịp long."
+    },
+    {
+      "gio": "[00:52:33]",
+      "cau": "BTC liệu có về 70 hay 71? Khó nói. 70 có sâu quá không? 70k8, 70k9 mình nghĩ cũng được, không đến [00:53:04] nỗi sâu đâu. Đôi khi nó về đến 70k8."
+    },
+    {
+      "gio": "[01:01:55]",
+      "cau": "Đó là vào mùa uptrend, còn bây giờ dù sao đi nữa chúng ta vẫn đang ở downtrend."
+    }
+  ],
+  "nen_volume": [
+    {
+      "khung": "M30",
+      "nen": "Mô hình hai đỉnh + phân kỳ; EMA M30 đã bị test hai lần",
+      "volume": "Lực bán mạnh phết",
+      "ket_luan": "Không đánh theo EMA M30 nữa; nếu thủng ~72.000 thì out long",
+      "gio": "[00:09:18]",
+      "trich": "Vẫn đang hồi nhẹ nhưng lực bán nó mạnh phết. Ở đây 30 phút đã hình thành mô hình hai đỉnh cộng với phân kỳ. Và EMA này đã test hai lần rồi, thành ra đoạn này không đánh theo EMA 30 phút nữa."
+    },
+    {
+      "khung": "M15",
+      "nen": "Giá phản ứng ở Fibo 0.618 (74.000)",
+      "volume": null,
+      "ket_luan": "Rụng khỏi đây thì có cú short về 71.600",
+      "gio": "[00:39:58]",
+      "trich": "Phản ứng Fibo M15 của BTC: đúng rồi, nó đang phản ứng ở Fibo 61.8, 74 này. Cứ để nó chạy. Rụng khỏi đây thì thị trường sẽ cho anh em ăn cú short rất ngon về 71k6."
+    },
+    {
+      "khung": "H4",
+      "nen": "H4 'treo cột cờ' (nến tăng dài) — nhìn rất sợ",
+      "volume": null,
+      "ket_luan": "Cùng lắm điều chỉnh về 71.000–71.800 để lấp gap rồi lên tiếp; gãy đêm nay hơi khó",
+      "gio": "[00:45:46]",
+      "trich": "H4 vẫn treo cột cờ như này rất nguy hiểm, nhìn rất sợ. Nhưng đoạn này mình nghĩ cùng lắm nó điều chỉnh về lại khoảng 71.000, 71.800"
+    },
+    {
+      "khung": null,
+      "nen": "Một cây nến giảm chưa tới 1000 giá",
+      "volume": null,
+      "ket_luan": "Chưa phải xả ác",
+      "gio": "[00:56:06]",
+      "trich": "Nhiều anh em giá đi như này mới một cây nến mà đã bảo Bitcoin đang xả ác. Đi có mấy 1000 giá chưa được 1000 giá nữa."
+    },
+    {
+      "khung": "H4",
+      "nen": "H4 không có gì để chơi",
+      "volume": null,
+      "ket_luan": "Đi ngủ, vẫn không short",
+      "gio": "[00:56:38]",
+      "trich": "H4 nhìn khá là không có gì để chơi. H4 ETH thì còn đỡ, nhưng H1 thì xấu. [00:57:14] Tuy nhiên mình vẫn nhắc các bạn là không nên short, mình thấy chưa short được."
+    }
+  ],
+  "cach_lam": [
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "ema",
+      "chi_tiet": "M30: EMA đã bị test hai lần",
+      "ket_qua": "Không đánh theo EMA M30 nữa",
+      "gio": "[00:09:18]",
+      "trich": "Và EMA này đã test hai lần rồi, thành ra đoạn này không đánh theo EMA 30 phút nữa. Anh em nhớ."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "nen",
+      "chi_tiet": "M30: hai đỉnh + phân kỳ",
+      "ket_qua": "Lực bán mạnh nhưng vẫn không short (dụ short)",
+      "gio": "[00:09:18]",
+      "trich": "Ở đây 30 phút đã hình thành mô hình hai đỉnh cộng với phân kỳ."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "Giờ phiên Mỹ: đã qua giờ pump dump mạnh nhất; nhịp kế thường chạy khoảng 11h20",
+      "ket_qua": "Chờ tới 11h20",
+      "gio": "[00:54:10]",
+      "trich": "Thông thường nhịp này sẽ chạy tiếp vào khoảng 11:20. Anh em nếu còn thức thì chờ thị trường đến 11:20 mới biết nó chạy thế nào."
+    },
+    {
+      "hanh_dong": "do",
+      "cong_cu": "fibo_thoai_lui",
+      "chi_tiet": "M15: Fibo 0.618 ở 74.000",
+      "ket_qua": "Rụng khỏi 74 → 71.600",
+      "gio": "[00:39:58]",
+      "trich": "nó đang phản ứng ở Fibo 61.8, 74 này."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "hyblock",
+      "chi_tiet": "Khối lượng (long) hiện ~300.000",
+      "ket_qua": "Chưa căng lắm",
+      "gio": "[00:42:06]",
+      "trich": "Bây giờ vẫn khoảng 300.000, cũng chưa căng lắm. [00:42:37] Tất nhiên vẫn có áp lực của trend là đi xuống."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "heatmap",
+      "chi_tiet": "Coinglass heatmap: một đống lệnh chờ short phía trên",
+      "ket_qua": "Short chưa ăn được; còn lụm thêm 74.800–74.900",
+      "gio": "[00:42:37]",
+      "trich": "Coin glass heatmap. Trên này xuất hiện một đống ông chờ short, nhìn cái tướng này mình nghĩ short vẫn chưa ăn được đâu. Thị trường đi kiểu vậy mình đoán vẫn khó ăn nhịp short. Khả năng nó còn lụm anh em thêm phát nữa mới cho gãy. 74.800, 74.900"
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "Gap CME 71",
+      "ket_qua": "Điều chỉnh về 71–71.8 vừa lấp gap",
+      "gio": "[00:43:39]",
+      "trich": "Bitcoin có một gap ở 71, tầm này thấy vẫn xa."
+    }
+  ],
+  "vung_nguoi_do": [
+    {
+      "loai": "sl",
+      "tu": 72000,
+      "den": 72000,
+      "gio": "[00:08:47]",
+      "trich": "mình định thủng khoảng đoạn 72.000 mấy này thì out."
+    },
+    {
+      "loai": "sl",
+      "tu": 74600,
+      "den": 74600,
+      "gio": "[00:09:49]",
+      "trich": "kêu một lệnh short ở đây stop loss khoảng 74.600 thì quá đơn giản, quá dễ."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 71000,
+      "den": 71000,
+      "gio": "[00:09:49]",
+      "trich": "71 thì cắt được, nhưng 71 thì còn về 71 không thì cũng hơi căng."
+    },
+    {
+      "loai": "dich",
+      "tu": 80000,
+      "den": 80000,
+      "gio": "[00:20:54]",
+      "trich": "nếu giá muốn chinh phục mốc 80 thì khả năng rất cao nó sẽ chinh phục trong tuần này."
+    },
+    {
+      "loai": "dich",
+      "tu": 78000,
+      "den": 78000,
+      "gio": "[00:25:04]",
+      "trich": "Nếu đến lúc BTC đạt target ví dụ như 78.000 mà con này không lên nổi thì chúng ta nhảy tàu"
+    },
+    {
+      "loai": "dich",
+      "tu": 79000,
+      "den": 79000,
+      "gio": "[00:25:35]",
+      "trich": "Nến ngày kết thúc điểm 79 rồi điều chỉnh. 79 thì quá êm luôn."
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 74000,
+      "den": 74000,
+      "gio": "[00:39:58]",
+      "trich": "nó đang phản ứng ở Fibo 61.8, 74 này."
+    },
+    {
+      "loai": "dich",
+      "tu": 71600,
+      "den": 71600,
+      "gio": "[00:39:58]",
+      "trich": "Rụng khỏi đây thì thị trường sẽ cho anh em ăn cú short rất ngon về 71k6."
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 74800,
+      "den": 74900,
+      "gio": "[00:43:09]",
+      "trich": "Khả năng nó còn lụm anh em thêm phát nữa mới cho gãy. 74.800, 74.900."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 71000,
+      "den": 71000,
+      "gio": "[00:43:39]",
+      "trich": "Bitcoin có một gap ở 71"
+    },
+    {
+      "loai": "vao",
+      "tu": 71000,
+      "den": 71800,
+      "gio": "[00:46:18]",
+      "trich": "cùng lắm nó điều chỉnh về lại khoảng 71.000, 71.800 vừa đẹp để lấp gap và vừa đủ về mặt kỹ thuật để lên tiếp."
+    },
+    {
+      "loai": "vo_hieu",
+      "tu": 69000,
+      "den": 69000,
+      "gio": "[00:46:18]",
+      "trich": "Gãy sóng này thì phải thủng 69.000 mới đứt sóng."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 70000,
+      "den": 70000,
+      "gio": "[00:48:54]",
+      "trich": "Bẫy gãy về 70k lụm thanh lý lên thì ác quá, biết đâu được."
+    },
+    {
+      "loai": "vao",
+      "tu": 70800,
+      "den": 70900,
+      "gio": "[00:52:33]",
+      "trich": "70k8, 70k9 mình nghĩ cũng được, không đến nỗi sâu đâu. Đôi khi nó về đến 70k8."
+    }
+  ],
+  "view_trung_han": [
+    {
+      "khung": "W1",
+      "huong": "TANG",
+      "dich": 80000,
+      "han": "trong tuần này",
+      "mat_view_khi": "Không lên được 80 trong tuần này thì nhịp này coi như hết, 80 để cho nhịp khác",
+      "gio": "[00:20:54]",
+      "trich": "Nhưng cá nhân mình nghĩ nếu giá muốn chinh phục mốc 80 thì khả năng rất cao nó sẽ chinh phục trong tuần này. Còn nếu trong tuần này nó không lên được 80, thì mình nghĩ nó bỏ ngỏ con số 80 đó nhường cho nhịp khác, chứ nhịp này khả năng là nó hết."
+    },
+    {
+      "khung": "M1",
+      "huong": "GIAM",
+      "dich": null,
+      "han": "mua cuối năm, giữ tối thiểu 4 năm từ 2027",
+      "mat_view_khi": null,
+      "gio": "[01:01:55]",
+      "trich": "Đó là vào mùa uptrend, còn bây giờ dù sao đi nữa chúng ta vẫn đang ở downtrend."
+    }
+  ],
+  "vung_tranh": [
+    {
+      "tu": 74000,
+      "den": 74900,
+      "vi_sao": "Không short ở giá này: dễ bị trap, heatmap có đống lệnh chờ short, còn có thể lụm lên 74.8–74.9",
+      "gio": "[00:43:09]",
+      "trich": "Thị trường đi kiểu vậy mình đoán vẫn khó ăn nhịp short. Khả năng nó còn lụm anh em thêm phát nữa mới cho gãy. 74.800, 74.900. Cú này mà lên thì chắc ETH cũng 2.300 mấy. Bitcoin có một gap ở 71, tầm này thấy vẫn xa. Anh em không nên short. Lời khuyên chân thành là chưa short được. Đoạn này nếu short dễ bị trap, dễ bị lừa. Nếu thị trường điều chỉnh xuống thì chúng ta không ăn nhịp short mà sẽ có entry để đánh nhịp long. Còn nếu nó lên luôn thì kệ nó. Tính sau chứ đừng short ở giá bây giờ"
+    },
+    {
+      "tu": 73000,
+      "den": 74900,
+      "vi_sao": "Không mua (spot) coin ở thời điểm này (giá hiện tại): đã cách xa vùng 60–65 lúc F&G 9",
+      "gio": "[00:22:58]",
+      "trich": "Tất cả những đồng coin mà các bạn muốn mua ở thời điểm này thì cá nhân mình đều say no hết. Bởi vì bây giờ anh em nhảy vào nó đã cách đoạn chúng ta chơi rất xa rồi. Khi thị trường nằm ở vùng 60, 65, fear and greed liên tục nằm ở 9 thì không mua."
+    }
+  ],
+  "giu_dong": [
+    {
+      "lenh": "Long BTC vol nhỏ x10 vào ở vùng break (entry xấu)",
+      "quyet_dinh": "dong",
+      "khi_nao": "Thủng khoảng 72.000 mấy thì out (lỗ ~15–20%), không giữ quá xa",
+      "gio": "[00:08:47]",
+      "trich": "Đoạn này để mình xem nếu thủng, mình định thủng khoảng đoạn 72.000 mấy này thì out. Chắc rơi vào khoảng 15% thôi. [00:09:18] Từ đây về đây chắc độ khoảng 15 20% gì đó rồi mình té. Không giữ quá xa."
+    },
+    {
+      "lenh": "Long scalping entry xấu",
+      "quyet_dinh": "dong",
+      "khi_nao": "Tối thứ Hai không uy tín → nên chốt",
+      "gio": "[00:40:29]",
+      "trich": "Cho nên các lệnh long đánh scalping mà entry xấu xấu thì các bạn nên chốt."
+    },
+    {
+      "lenh": "Long kẹt vol nhỏ (nhóm)",
+      "quyet_dinh": "dong",
+      "khi_nao": "Đi ngủ thì out, đừng giữ long",
+      "gio": "[00:47:20]",
+      "trich": "Anh em trong nhóm nếu kẹt lệnh long lúc nãy mà vol nhỏ, nếu đi ngủ thì out đi, đừng giữ long cho mệt. Ăn mấy hôm nay cũng nhiều rồi."
+    },
+    {
+      "lenh": "Long đang lãi 5% (chưa đòn bẩy)",
+      "quyet_dinh": "dong",
+      "khi_nao": "5% chưa đòn bẩy là quá thơm, húp luôn",
+      "gio": "[00:52:02]",
+      "trich": "Long đang lãi 5%, chưa đòn bẩy 7? Nếu 5% chưa đòn bẩy 7 mình nghĩ quá thơm, húp luôn."
+    },
+    {
+      "lenh": "Spot BTC dài hạn (khi uptrend)",
+      "quyet_dinh": "chot_mot_phan",
+      "khi_nao": "Xác định vùng bán, mỗi ngày bán một ít trong vùng (lên vẫn bán, xuống cũng bán) — trung bình giá bán, không cố bán đỉnh",
+      "gio": "[00:36:16]",
+      "trich": "Khi nó đạt vùng này thì bắt đầu chia vốn ra bán bớt, mỗi ngày bán một ít. Nó lên mình vẫn bán tiếp, đi xuống cũng phải bán. Ví dụ hôm trước mình bán 86 thì hôm sau nó về khoảng 81 vẫn bán tiếp, gọi là trung bình giá bán trong vùng này. Mua thì trung bình giá mua, bán thì trung bình giá bán"
+    }
+  ],
+  "tin_tuc": [
+    {
+      "su_kien": "Văn bản Bộ Tài chính về 5 sàn crypto trong nước (3 đủ, 2 chưa đủ điều kiện)",
+      "thoi_diem": "gần đây",
+      "nguon": "bao",
+      "so_lieu": null,
+      "anh_huong_view": "Không ảnh hưởng view; chỉ cho thấy dần sẽ có sàn",
+      "gio": "[00:30:53]",
+      "trich": "Nói nhanh về thông tin năm sàn: văn bản đó chỉ là văn bản trả lời của Bộ Tài chính gửi đến Bộ Công an và Ngân hàng Nhà nước, thông báo về tình trạng của năm sàn đó. Có hai sàn chưa đủ điều kiện hồ sơ và ba sàn đã đủ điều kiện."
+    }
+  ],
+  "kho": "Buổi tối thứ Hai (phụ đề tự động), chủ yếu altcoin/meme và scalp ETH; BTC: vẫn không short, chờ điều chỉnh 71–71.8 (hoặc 70.8–70.9) để long, gãy sóng khi thủng 69. han_gio=144 quy từ 'trong tuần này' (tối thứ Hai → hết Chủ nhật). Lệnh long BTC vol nhỏ của người nói không nói rõ đã đóng; ghi da_dong vì cuối buổi khuyên đi ngủ thì out. Không có trendline BTC ('bám trend line' ở cuối nói về dầu; mô hình đỉnh bằng đáy dốc nói về altcoin)."
+}

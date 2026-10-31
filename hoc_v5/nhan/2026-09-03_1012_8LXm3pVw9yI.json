@@ -1,0 +1,595 @@
+{
+  "buoi": "2026-09-03_1012_8LXm3pVw9yI",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/lam_sach/2026-09-03_1012_8LXm3pVw9yI.md",
+  "gia_btc_luc_noi": 77500,
+  "dau_buoi": {
+    "thien_huong_h4": "GIAM",
+    "gio": null,
+    "trich": "Cấu trúc H4 hiện tại vẫn là cấu trúc sóng giảm: đỉnh đáy cứ kéo thấp dần. Chưa biết nó test về đâu, mình kỳ vọng nó sẽ test đâu đó khoảng 75, nhưng vẫn là xu hướng xấu, xu hướng đi xuống, nên chưa đủ lý do để long ở đoạn này."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "GIAM",
+    "do_chac": "vua",
+    "gio": null,
+    "trich": "Hôm qua mình cho anh em sale ở vùng 77 đến 78; lệnh đó mình vẫn còn giữ, chờ nó về. Chắc là giảm TP xuống khoảng quanh 76 đến 76.000 [?] (\"76.00\"), TP1 thôi. Hôm qua định chờ về 75 mà lực này có vẻ hơi khó về 75. ... Làm gì làm, anh em phải nhớ là downtrend, được chưa?"
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {
+    "huong": "TANG",
+    "dich": 78000
+  },
+  "duong_di": [
+    {
+      "huong": "TANG",
+      "dich": 78000
+    },
+    {
+      "huong": "GIAM",
+      "dich": [
+        75000,
+        76000
+      ]
+    }
+  ],
+  "dich_chinh": [
+    75000,
+    76000
+  ],
+  "han_gio": null,
+  "vo_hieu": {
+    "gia": 79000,
+    "khung": "H4",
+    "so_nen": 1,
+    "chieu": "dong_tren",
+    "cau": "Muốn long thì phải chờ nó break được xu hướng, break những trendline này thì may ra mới long; hoặc ít nhất là phải qua khỏi 79.000, qua khỏi 78.800 [?] (\"78.008\"), tức là đóng nến trên 79.000 để phá vỡ cấu trúc xu hướng giảm trước đó thì lúc đó mới nghĩ đến chuyện long."
+  },
+  "lenh": [
+    {
+      "chieu": "SHORT",
+      "vao": [
+        77000,
+        78000
+      ],
+      "tp": [
+        76000
+      ],
+      "sl": null,
+      "trang_thai": "dang_giu"
+    },
+    {
+      "chieu": "SHORT",
+      "vao": 77000,
+      "tp": [
+        76000
+      ],
+      "sl": null,
+      "trang_thai": "de_xuat_moi"
+    },
+    {
+      "chieu": "LONG",
+      "vao": [
+        72000,
+        73000
+      ],
+      "tp": [
+        76000
+      ],
+      "sl": 72000,
+      "trang_thai": "de_xuat_moi"
+    }
+  ],
+  "hanh_dong": "giu_lenh",
+  "khung_lon": {
+    "D1": "GIAM",
+    "W1": "GIAM"
+  },
+  "pha_vo_gia": "Trả lời câu hỏi 'fake out break lên 81 rồi về 60': 'Nếu fake out cao lên 81 thì mình nghĩ về 50 chứ về 60 thì hơi ít' (giả định, không phải kịch bản chính trong ngày).",
+  "trich_them": [
+    {
+      "gio": null,
+      "cau": "Đoạn này nó sẽ chạy khá là khó chịu, vẫn trong biên 77 đến 78 thôi. Thực tế vùng này mình kỳ vọng là nó sẽ về test cái râu nến ở đoạn này rồi mới lên test Fibo, sau đó lại gãy."
+    },
+    {
+      "gio": null,
+      "cau": "Lý do hiện tại mình vẫn chưa long: giá nằm dưới MA khung tuần, vẫn rất là xấu. Mình chưa thấy lý do gì để cứ phải mạo hiểm long khi khung tuần đóng một cây nến đảo chiều như thế này."
+    },
+    {
+      "gio": null,
+      "cau": "Với nến ngày, giá vẫn chưa qua được đường MA ở đây và liên tục bị chặn. Tầm này giá sẽ chạy trong biên từ 79 về đến 76. ... Trên D1 hoàn toàn có khả năng nó cần về test lại ở đoạn MA khung ngày, MA khung ngày nằm ở vùng giá đâu đó 73, loanh quanh vùng 73, 74."
+    },
+    {
+      "gio": null,
+      "cau": "Nếu long thì mình chờ đánh từ 72 lên 76, ăn chừng đó thôi. Trừ khi giá đóng cửa trên 79.000 thì sẽ đánh tiếp từ 79 lên đến khoảng 90, lúc đó tùy; hoặc 79 lên đến 82, rồi từ 82 nếu phá qua được 83 sẽ đánh tiếp từ 83 lên đến 90."
+    },
+    {
+      "gio": null,
+      "cau": "Còn nếu nó thủng khỏi 72 thì cắt nhá, không giữ, bởi vì đó là nhịp chúng ta chỉ đánh lướt thôi, đánh ngắn chứ không phải một entry để hold dài."
+    },
+    {
+      "gio": null,
+      "cau": "Coinglass và Hyblock: bên liquidation hitmap thì còn mỗi vùng ở 78.000 [?] (\"78.00\") nữa, có khả năng trong nhịp từ giờ đến trưa nó quét lên 7800 rồi đến chiều tối nó quét đến đám dưới này. Thận trọng 76, mình nghĩ vẫn có xác suất nhá."
+    },
+    {
+      "gio": null,
+      "cau": "Bitcoin vẫn gặp cản ở H4 này thì long sao được. Cứ gặp cản lại đây thì long làm gì?"
+    },
+    {
+      "gio": null,
+      "cau": "Tầm này nếu anh em muốn đánh lại con Bitcoin này, đánh sale lại, thì mình nghĩ chờ nó thủng lại dưới 77, đuổi từ 77 về khoảng độ 76.000, ăn được khoảng 1000 giá; 800 đến 1000 giá là ok."
+    },
+    {
+      "gio": null,
+      "cau": "Còn đi như thế này thì long cũng không được mà sale cũng không. H4 thì khả năng vẫn đóng loanh quanh chỗ này, vẫn dưới đường MA này thôi."
+    }
+  ],
+  "kho": "File không có mốc giờ. Hướng H4 giảm rõ và đang giữ lệnh sale 77–78, nhưng đích dao động (TP1 76, kỳ vọng 75, Fibo/MA ngày 72–74); chặng quét lên 78 trước chỉ là 'có khả năng'. Cuối buổi nói 'long cũng không được mà sale cũng không' và vào lệnh mới ở giá hiện tại 'hơi xấu' nên độ chắc chỉ vừa.",
+  "nhin_lai_view_truoc": {
+    "view_truoc": "GIAM (thị trường còn nhịp giảm; lệnh sale 77-78 từ hôm qua, chờ thêm 1 nến tuần như nói đầu tuần)",
+    "giu_hay_doi": "giu",
+    "vi_sao": "Vẫn giữ góc nhìn còn nhịp giảm (còn khoảng nửa năm, tới hết quý 1 năm sau); vẫn giữ lệnh sale 77-78 nhưng hạ TP1 từ 75 xuống 76 vì lực có vẻ khó về 75; nến tuần đảo chiều mới là điều kiện cần như đã nói đầu tuần.",
+    "gio": null,
+    "trich": "> Hỏi: Góc nhìn thị trường còn nhịp giảm vẫn giữ nguyên hay thay đổi? — Mình vẫn giữ nguyên thôi. (và: Hôm qua mình cho anh em sale ở vùng 77 đến 78; lệnh đó mình vẫn còn giữ, chờ nó về. Chắc là giảm TP xuống khoảng quanh 76 ... Hôm qua định chờ về 75 mà lực này có vẻ hơi khó về 75.)"
+  },
+  "trendline": [
+    {
+      "khung": "H4",
+      "loai": "khang_cu_giam",
+      "noi_tu": "Những trendline của cấu trúc sóng giảm H4 (đỉnh đáy thấp dần); không nêu điểm neo",
+      "diem_neo": [],
+      "gia_duong_luc_noi": null,
+      "trang_thai": "chua_pha",
+      "dieu_kien_pha": "Break trendline; hoặc ít nhất đóng nến trên 79.000 (qua 78.800) để phá cấu trúc giảm thì mới nghĩ đến long",
+      "ket_luan_huong": "GIAM",
+      "gio": null,
+      "trich": "Cấu trúc H4 hiện tại vẫn là cấu trúc sóng giảm: đỉnh đáy cứ kéo thấp dần. ... Muốn long thì phải chờ nó break được xu hướng, break những trendline này thì may ra mới long; hoặc ít nhất là phải qua khỏi 79.000, qua khỏi 78.800 [?] (\"78.008\"), tức là đóng nến trên 79.000 để phá vỡ cấu trúc xu hướng giảm trước đó thì lúc đó mới nghĩ đến chuyện long."
+    },
+    {
+      "khung": "W1",
+      "loai": "khac",
+      "noi_tu": "Trendline trong phần so sánh với mô hình lịch sử trên nến tuần ('nếu giống mô hình cũ thì phải chờ một nhịp backtest trendline'); không rõ đang nói chart hiện tại hay đoạn lịch sử, mốc backtest nêu là 66",
+      "diem_neo": [],
+      "gia_duong_luc_noi": 66000,
+      "trang_thai": null,
+      "dieu_kien_pha": "Chờ backtest trendline (về 66) rồi rút chân lên thì mới chơi",
+      "ket_luan_huong": null,
+      "gio": null,
+      "trich": "Tuần này còn có sóng để đi đấy chứ. Nói chung downtrend năm nay mình thấy nó vẫn có sóng, không giống như ngày xưa. Lên backtest trendline rồi đi lên. Nếu ở đây chúng ta chơi thì cứ chờ backtest về đây thôi, backtest về 66 thôi; backtest rút chân lên thì cứ chơi. Nếu giống mô hình cũ thì phải chờ một nhịp backtest trendline."
+    }
+  ],
+  "nen_volume": [
+    {
+      "khung": "W1",
+      "nen": "Cây nến tuần đảo chiều cắm xuống; giá nằm dưới MA khung tuần",
+      "volume": null,
+      "ket_luan": "Mới là điều kiện cần; chờ thêm 1 nến tuần, nếu đóng đỏ thì có cụm ba nến đảo chiều đi xuống khá đẹp; chưa long",
+      "gio": null,
+      "trich": "Nếu nó đóng về lại một nến tuần màu đỏ thì chúng ta sẽ có một cụm ba nến đảo chiều đi xuống khá là đẹp. Còn sau khi xuất hiện cây nến này thì đây mới chỉ là điều kiện cần, điều kiện đầu tiên thôi."
+    },
+    {
+      "khung": "D1",
+      "nen": "Nến ngày chưa qua được MA, liên tục bị chặn",
+      "volume": null,
+      "ket_luan": "Giá chạy biên 79 về 76; có khả năng về test MA ngày ở 73-74",
+      "gio": null,
+      "trich": "Với nến ngày, giá vẫn chưa qua được đường MA ở đây và liên tục bị chặn. Tầm này giá sẽ chạy trong biên từ 79 về đến 76."
+    },
+    {
+      "khung": "H4",
+      "nen": "Cấu trúc sóng giảm, đỉnh đáy thấp dần; nhịp test MA34 trước đó không giữ được giá",
+      "volume": null,
+      "ket_luan": "Xu hướng xấu, kỳ vọng test khoảng 75; chưa đủ lý do long",
+      "gio": null,
+      "trich": "Mình không đánh theo MA34 và MA89 ở đoạn này, vì trước đó MA34 không giữ được giá ... MA34 không đỡ được thì chưa chắc MA89 sẽ đỡ được; muốn đỡ ở MA89 thì sẽ phải tạo một cấu trúc đảo chiều khi nó test được MA89."
+    },
+    {
+      "khung": null,
+      "nen": "Sau một nhịp tăng thị trường bắt đầu đi chậm, đi ngang",
+      "volume": "Lực tăng không giữ được khi đi ngang",
+      "ket_luan": "Đi ngang sau tăng có 2 trạng thái: tái tích lũy để đi tiếp, hoặc nhen nhóm đảo chiều; đa phần đảo chiều lớn nằm ở những nhịp sideway",
+      "gio": null,
+      "trich": "Hai là khi nó đi ngang thế này mà lực tăng không giữ được thì bắt đầu nhen nhóm câu chuyện đảo chiều. Thông thường trước đó tăng thì khi nó đi sideway chúng ta chỉ view là nó đi tiếp, nhưng đa phần những nhịp đảo chiều lớn nằm ở những nhịp sideway đấy."
+    },
+    {
+      "khung": "W1",
+      "nen": "Nến tuần kế tiếp sau một nhịp tăng: tiếp tục xanh = lực tốt; khựng lại = lực và mục đích tăng khác hẳn",
+      "volume": null,
+      "ket_luan": "Nến tuần kế tiếp của nhịp tăng rất quan trọng (so sánh với lịch sử)",
+      "gio": null,
+      "trich": "Nến tuần kế tiếp của một nhịp tăng rất là quan trọng nhá. Một nhịp tăng như thế này và cây nến tuần sau đó vẫn là một cây nến xanh thì chứng tỏ lực lên này là lực tốt. Còn một nhịp lên mà sau đó bị khựng lại một cái thì nó thể hiện lực và mục đích tăng hoàn toàn khác nhau."
+    },
+    {
+      "khung": "M30",
+      "nen": "30 phút cứ vào phiên là kéo lên một phát rồi đứng im; vẫn gặp cản H4",
+      "volume": null,
+      "ket_luan": "Gặp cản thì không long",
+      "gio": null,
+      "trich": "30 phút thị trường cứ vào phiên là nó lại kéo lên một phát rồi lại đi đứng im. Bitcoin vẫn gặp cản ở H4 này thì long sao được. Cứ gặp cản lại đây thì long làm gì?"
+    },
+    {
+      "khung": "H4",
+      "nen": "Dự đoán H4 vẫn đóng loanh quanh, dưới đường MA",
+      "volume": null,
+      "ket_luan": "Long cũng không được, sale cũng không; thận trọng",
+      "gio": null,
+      "trich": "Còn đi như thế này thì long cũng không được mà sale cũng không. H4 thì khả năng vẫn đóng loanh quanh chỗ này, vẫn dưới đường MA này thôi. Hôm nay thận trọng, thị trường cũng không đi nhiều lắm."
+    }
+  ],
+  "cach_lam": [
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "ema",
+      "chi_tiet": "MA khung tuần",
+      "ket_qua": "Giá dưới MA tuần, rất xấu -> chưa long",
+      "gio": null,
+      "trich": "Lý do hiện tại mình vẫn chưa long: giá nằm dưới MA khung tuần, vẫn rất là xấu."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "ema",
+      "chi_tiet": "MA khung ngày ở 73-74, trùng MA200 H4",
+      "ket_qua": "Vùng D1 có thể về test",
+      "gio": null,
+      "trich": "Trên D1 hoàn toàn có khả năng nó cần về test lại ở đoạn MA khung ngày, MA khung ngày nằm ở vùng giá đâu đó 73, loanh quanh vùng 73, 74. Trên khung H4, vùng này cũng trùng với MA200 H4."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "ema",
+      "chi_tiet": "Không đánh theo MA34/MA89 H4 vì MA34 vừa không đỡ được giá; MA89 chỉ đỡ nếu có cấu trúc đảo chiều khi test",
+      "ket_qua": "Một râu về khoảng 76 rồi kéo lên thì đẹp hơn",
+      "gio": null,
+      "trich": "Ở đây nó chưa test. Có thể một cái râu nào đó sẽ kéo về đâu đó khoảng 76.000 rồi sau đó kéo lên thì chúng ta sẽ thấy đẹp hơn."
+    },
+    {
+      "hanh_dong": "ke",
+      "cong_cu": "trendline",
+      "chi_tiet": "Các trendline của xu hướng giảm H4",
+      "ket_qua": "Chưa break -> chưa long; cần đóng nến trên 79.000",
+      "gio": null,
+      "trich": "Muốn long thì phải chờ nó break được xu hướng, break những trendline này thì may ra mới long"
+    },
+    {
+      "hanh_dong": "do",
+      "cong_cu": "fibo_mo_rong",
+      "chi_tiet": "Fibo mở rộng cho nhịp điều chỉnh hiện tại",
+      "ket_qua": "Biên điều chỉnh về khoảng 74 hoặc 72",
+      "gio": null,
+      "trich": "Fibo mở rộng cho thấy nhịp này có biên điều chỉnh về đâu đó khoảng 74 hoặc 72; theo Fibo thì hai vùng này khá hợp lý."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "dinh_day_cu",
+      "chi_tiet": "Các điểm chặn trên H1 ở 72-73, trùng khung ngày",
+      "ket_qua": "Cụm hỗ trợ tốt; long 72 lên 76",
+      "gio": null,
+      "trich": "Xem H1: đây là những điểm có khả năng chặn lại. Đẹp nhất là về vùng này rồi bật lên thì ok, khoảng 72, 73, khả năng trùng với khung ngày, cụm này hỗ trợ tốt."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "Imbalance 72-76",
+      "ket_qua": "Biên xa, phải xem nến H4 dừng ở đâu rồi tính",
+      "gio": null,
+      "trich": "Imbalance thì cũng có cửa 72 đến 76. Biên đó hơi xa, sẽ phải xem nến H4 xem nó dừng ở đâu rồi tính."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "Vàng hồi kỹ thuật lên vùng cản; BTC đi ngược giá dầu",
+      "ket_qua": "Nhịp hồi H1 của BTC có thể đang phục hồi theo vàng",
+      "gio": null,
+      "trich": "H1 bắt đầu có nhịp hồi đẹp, nhưng nhịp hồi này mình thấy bị ảnh hưởng bởi con vàng khá nhiều. ... Vùng này là vùng cản, hoàn toàn có khả năng nhịp này Bitcoin đang phục hồi theo con vàng."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "Fear & Greed 73 (hưng phấn)",
+      "ket_qua": "Mua lúc này dễ bị hòa tan theo đám đông",
+      "gio": null,
+      "trich": "F&G hôm nay 73, vẫn tiếp tục là 73. Mua khi thị trường ở trạng thái hưng phấn như thế này, 65 hay 70 thì cũng như nhau cả. ... Tầm này chúng ta mua sẽ dễ bị hòa tan theo đám đông."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "heatmap",
+      "chi_tiet": "Coinglass + Hyblock: liquidation heatmap còn mỗi vùng 78.000; thanh lý ~200 triệu, mỗi bên một nửa",
+      "ket_qua": "Có thể từ giờ đến trưa quét lên 78 rồi chiều tối quét xuống; thận trọng 76; 200 triệu chưa đủ áp lực đảo chiều",
+      "gio": null,
+      "trich": "Coinglass và Hyblock: bên liquidation hitmap thì còn mỗi vùng ở 78.000 [?] (\"78.00\") nữa, có khả năng trong nhịp từ giờ đến trưa nó quét lên 7800 rồi đến chiều tối nó quét đến đám dưới này. Thận trọng 76, mình nghĩ vẫn có xác suất nhá. Bên này vẫn đang đỏ nhưng khối lượng không nhiều, khoảng tầm 200 triệu, không phải khối lượng đủ áp lực đảo chiều"
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "nen",
+      "chi_tiet": "So sánh cấu trúc nến tuần hiện tại với lịch sử; không tin máy móc 'theo lịch sử phải giảm 70% từ đỉnh'",
+      "ket_qua": "Downtrend năm nay vẫn có sóng, khác ngày xưa",
+      "gio": null,
+      "trich": "Anh em nghĩ là dựa vào lịch sử. Nếu nhìn lại lịch sử thì nó cũng không đúng: hôm trước mình nói nếu theo lịch sử thì sẽ phải giảm 70% tối thiểu từ đỉnh. Các bạn nhìn vào khúc này: bây giờ các bạn đã thấy cây nến tuần nó khác nhau chưa?"
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "Tâm lý đám đông: đa số nghĩ BTC đã đáy ở 60, không thể về 50/40",
+      "ket_qua": "Ông thấy kịch bản fake out lên 81 rồi về 50 vẫn có thể",
+      "gio": null,
+      "trich": "Theo cảm nhận của mình, đại đa số anh em nghĩ giá Bitcoin tạo đáy ở 60.000 và không thể xuống thấp hơn 60 được nữa. ... Con số 40 chắc là một con số vô tưởng trong hình dung của các bạn."
+    }
+  ],
+  "vung_nguoi_do": [
+    {
+      "loai": "ho_tro",
+      "tu": 77000,
+      "den": 78000,
+      "gio": null,
+      "trich": "Đoạn này nó sẽ chạy khá là khó chịu, vẫn trong biên 77 đến 78 thôi."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 76000,
+      "den": 79000,
+      "gio": null,
+      "trich": "Tầm này giá sẽ chạy trong biên từ 79 về đến 76."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 73000,
+      "den": 74000,
+      "gio": null,
+      "trich": "MA khung ngày nằm ở vùng giá đâu đó 73, loanh quanh vùng 73, 74. Trên khung H4, vùng này cũng trùng với MA200 H4."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 76000,
+      "den": 76000,
+      "gio": null,
+      "trich": "Có thể một cái râu nào đó sẽ kéo về đâu đó khoảng 76.000 rồi sau đó kéo lên thì chúng ta sẽ thấy đẹp hơn."
+    },
+    {
+      "loai": "dich",
+      "tu": 75000,
+      "den": 75000,
+      "gio": null,
+      "trich": "Chưa biết nó test về đâu, mình kỳ vọng nó sẽ test đâu đó khoảng 75, nhưng vẫn là xu hướng xấu"
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 78800,
+      "den": 79000,
+      "gio": null,
+      "trich": "hoặc ít nhất là phải qua khỏi 79.000, qua khỏi 78.800 [?] (\"78.008\"), tức là đóng nến trên 79.000 để phá vỡ cấu trúc xu hướng giảm trước đó"
+    },
+    {
+      "loai": "vo_hieu",
+      "tu": 79000,
+      "den": 79000,
+      "gio": null,
+      "trich": "tức là đóng nến trên 79.000 để phá vỡ cấu trúc xu hướng giảm trước đó thì lúc đó mới nghĩ đến chuyện long."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 72000,
+      "den": 74000,
+      "gio": null,
+      "trich": "Fibo mở rộng cho thấy nhịp này có biên điều chỉnh về đâu đó khoảng 74 hoặc 72"
+    },
+    {
+      "loai": "vao",
+      "tu": 72000,
+      "den": 73000,
+      "gio": null,
+      "trich": "Đẹp nhất là về vùng này rồi bật lên thì ok, khoảng 72, 73, khả năng trùng với khung ngày, cụm này hỗ trợ tốt."
+    },
+    {
+      "loai": "tp",
+      "tu": 76000,
+      "den": 76000,
+      "gio": null,
+      "trich": "Quan điểm của mình là đánh nhịp sóng hồi thôi, tức là đánh từ 72 lên 76 chốt thôi."
+    },
+    {
+      "loai": "sl",
+      "tu": 72000,
+      "den": 72000,
+      "gio": null,
+      "trich": "Còn nếu nó thủng khỏi 72 thì cắt nhá, không giữ, bởi vì đó là nhịp chúng ta chỉ đánh lướt thôi"
+    },
+    {
+      "loai": "dich",
+      "tu": 82000,
+      "den": 82000,
+      "gio": null,
+      "trich": "Trừ khi giá đóng cửa trên 79.000 thì sẽ đánh tiếp từ 79 lên đến khoảng 90, lúc đó tùy; hoặc 79 lên đến 82"
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 83000,
+      "den": 83000,
+      "gio": null,
+      "trich": "rồi từ 82 nếu phá qua được 83 sẽ đánh tiếp từ 83 lên đến 90."
+    },
+    {
+      "loai": "dich",
+      "tu": 90000,
+      "den": 90000,
+      "gio": null,
+      "trich": "rồi từ 82 nếu phá qua được 83 sẽ đánh tiếp từ 83 lên đến 90. Đó là những chặng đánh."
+    },
+    {
+      "loai": "vao",
+      "tu": 77000,
+      "den": 78000,
+      "gio": null,
+      "trich": "Hôm qua mình cho anh em sale ở vùng 77 đến 78; lệnh đó mình vẫn còn giữ, chờ nó về."
+    },
+    {
+      "loai": "tp",
+      "tu": 76000,
+      "den": 76000,
+      "gio": null,
+      "trich": "Chắc là giảm TP xuống khoảng quanh 76 đến 76.000 [?] (\"76.00\"), TP1 thôi."
+    },
+    {
+      "loai": "vao",
+      "tu": 77000,
+      "den": 77000,
+      "gio": null,
+      "trich": "chờ nó thủng lại dưới 77, đuổi từ 77 về khoảng độ 76.000, ăn được khoảng 1000 giá; 800 đến 1000 giá là ok."
+    },
+    {
+      "loai": "vao",
+      "tu": 78000,
+      "den": null,
+      "gio": null,
+      "trich": "Có một entry để sale nữa nếu các bạn muốn, đó là cao hơn 7800 [?], khoảng 7800 đến 7800 [?] — mình nghĩ vùng đó là swing"
+    },
+    {
+      "loai": "vao",
+      "tu": 83000,
+      "den": 85000,
+      "gio": null,
+      "trich": "Nếu short big 83, 85 thì ok, khả thi, chỉ sợ nó không lên đến thôi."
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 79000,
+      "den": 80000,
+      "gio": null,
+      "trich": "Nếu hold dài đoạn này thì mình nghĩ chắc chờ nó một phát lên trên vùng trên này, loanh quanh sát vùng 79, còn không thì chờ hẳn lên trên 80 xem sao."
+    },
+    {
+      "loai": "dich",
+      "tu": 50000,
+      "den": 50000,
+      "gio": null,
+      "trich": "> Hỏi: Fake out break lên 81 rồi về 60? — Như vậy thì đẹp quá. Về 60 là ít. Nếu fake out cao lên 81 thì mình nghĩ về 50 chứ về 60 thì hơi ít."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 66000,
+      "den": 66000,
+      "gio": null,
+      "trich": "Nếu ở đây chúng ta chơi thì cứ chờ backtest về đây thôi, backtest về 66 thôi; backtest rút chân lên thì cứ chơi. (không rõ là chart hiện tại hay đoạn lịch sử)"
+    }
+  ],
+  "view_trung_han": [
+    {
+      "khung": "W1",
+      "huong": "GIAM",
+      "dich": null,
+      "han": "chờ thêm 1 nến tuần để xác nhận (đỏ -> cụm 3 nến đảo chiều giảm)",
+      "mat_view_khi": null,
+      "gio": null,
+      "trich": "Như mình chia sẻ trong video hôm đầu tuần: nến tuần ở đây chúng ta nên chờ thêm một nến tuần nữa thì mới chắc chắn về độ điều chỉnh ở đoạn này. ... Xét ở khung tuần thì chúng ta phải thận trọng; anh em nào cứ fomo mua long thì phải chú ý nến tuần này là một trong những tín hiệu cho thấy thị trường có khả năng gặp những điều xấu sắp đến."
+    },
+    {
+      "khung": "M1",
+      "huong": "GIAM",
+      "dich": null,
+      "han": "còn khoảng nửa năm (khoảng 4 tháng tới cuối năm + hết quý 1 năm sau)",
+      "mat_view_khi": null,
+      "gio": null,
+      "trich": "Mình vẫn giữ nguyên thôi. Còn ít đâu, các bạn còn đến nửa năm nữa: từ giờ cho đến cuối năm cũng phải tầm 4 tháng nữa, sau đó đến hết quý một năm sau thì cũng là 3 tháng nữa, cũng phải nửa năm nữa, đâu mà ít."
+    },
+    {
+      "khung": "D1",
+      "huong": "GIAM",
+      "dich": [
+        73000,
+        74000
+      ],
+      "han": null,
+      "mat_view_khi": "đóng nến trên 79.000 (khi đó đánh 79 lên 82, qua 83 thì lên 90)",
+      "gio": null,
+      "trich": "Với nến ngày, giá vẫn chưa qua được đường MA ở đây và liên tục bị chặn. Tầm này giá sẽ chạy trong biên từ 79 về đến 76. Chúng ta xem giá test ở những khu vực nào rồi sau đó mới đi lên. Trên D1 hoàn toàn có khả năng nó cần về test lại ở đoạn MA khung ngày, MA khung ngày nằm ở vùng giá đâu đó 73, loanh quanh vùng 73, 74."
+    }
+  ],
+  "vung_tranh": [
+    {
+      "tu": 77000,
+      "den": 78000,
+      "vi_sao": "Đoạn này chạy khó chịu trong biên hẹp",
+      "gio": null,
+      "trich": "Đoạn này nó sẽ chạy khá là khó chịu, vẫn trong biên 77 đến 78 thôi."
+    },
+    {
+      "tu": null,
+      "den": null,
+      "vi_sao": "Không mạo hiểm đi ngược xu hướng hiện tại (long) ở các chặng giữa",
+      "gio": null,
+      "trich": "Còn những chặng như hiện tại thì mình chưa thấy lý do gì để mạo hiểm đi ngược lại xu hướng hiện tại."
+    },
+    {
+      "tu": null,
+      "den": null,
+      "vi_sao": "Vào lệnh sale mới ở giá hiện tại hơi xấu (hôm qua thì ok); chờ thủng 77 mới đuổi",
+      "gio": null,
+      "trich": "Còn vùng hiện tại nếu các bạn vào lệnh mới theo phân tích hôm nay thì nó đang hơi xấu một tí. Ngày hôm qua thì ok nhưng hôm nay thì hơi xấu một tí."
+    },
+    {
+      "tu": null,
+      "den": null,
+      "vi_sao": "Hold dài ở giá này tốn thời gian; chờ lên sát 79 hoặc trên 80",
+      "gio": null,
+      "trich": "> Hỏi: Có sóng nhưng sợ, với giá BTC này chơi đòn bẩy thấp, hold dài? — Chưa, mình nghĩ là không. ... Hold dài ở đây nếu các bạn cầm thì cũng tốn thời gian lắm."
+    },
+    {
+      "tu": null,
+      "den": null,
+      "vi_sao": "Đi như hiện tại thì long không được mà sale cũng không; thận trọng",
+      "gio": null,
+      "trich": "Còn đi như thế này thì long cũng không được mà sale cũng không. ... Hôm nay thận trọng, thị trường cũng không đi nhiều lắm."
+    }
+  ],
+  "giu_dong": [
+    {
+      "lenh": "Sale BTC 77-78 (từ hôm qua)",
+      "quyet_dinh": "giu",
+      "khi_nao": "Giữ chờ về; hạ TP1 xuống ~76 (thay vì chờ 75)",
+      "gio": null,
+      "trich": "Hôm qua mình cho anh em sale ở vùng 77 đến 78; lệnh đó mình vẫn còn giữ, chờ nó về. Chắc là giảm TP xuống khoảng quanh 76 đến 76.000 [?] (\"76.00\"), TP1 thôi. Hôm qua định chờ về 75 mà lực này có vẻ hơi khó về 75."
+    },
+    {
+      "lenh": "Long lướt 72 -> 76 (kế hoạch)",
+      "quyet_dinh": "dong",
+      "khi_nao": "Chốt ở 76; thủng 72 thì cắt ngay, không giữ vì chỉ đánh lướt",
+      "gio": null,
+      "trich": "Quan điểm của mình là đánh nhịp sóng hồi thôi, tức là đánh từ 72 lên 76 chốt thôi. Còn nếu nó thủng khỏi 72 thì cắt nhá, không giữ, bởi vì đó là nhịp chúng ta chỉ đánh lướt thôi, đánh ngắn chứ không phải một entry để hold dài."
+    }
+  ],
+  "tin_tuc": [
+    {
+      "su_kien": "Non farm và tin việc làm Mỹ",
+      "thoi_diem": "tối mai thứ sáu (4/9)",
+      "nguon": "lich_kinh_te",
+      "so_lieu": null,
+      "anh_huong_view": "Tối mai thị trường khá biến động vì tuần này không có tin khác",
+      "gio": null,
+      "trich": "Ngày mai thứ sáu có tin non farm với tin việc làm. Tối ngày mai sẽ là lúc thị trường khá biến động, vì tuần này không có tin."
+    },
+    {
+      "su_kien": "CPI và lãi suất tháng 9",
+      "thoi_diem": "tháng 9",
+      "nguon": "lich_kinh_te",
+      "so_lieu": null,
+      "anh_huong_view": "Hai tin quan trọng nhất tháng",
+      "gio": null,
+      "trich": "Tháng 9 chúng ta sẽ có những tin quan trọng nhất đó là tin CPI và tin lãi suất, hai tin quan trọng nhá."
+    },
+    {
+      "su_kien": "Xác suất Fed tăng lãi suất tháng 9",
+      "thoi_diem": "kỳ họp tháng 9",
+      "nguon": null,
+      "so_lieu": "khoảng 60%",
+      "anh_huong_view": "Ông không thấy lý do để tăng; nếu tăng thì khốc liệt, là xác nhận giai đoạn tới sẽ có đáy",
+      "gio": null,
+      "trich": "Hiện tại xác suất tăng lãi suất trong tháng 9 khá là cao, đã lên đến 60% rồi. Mình vẫn thấy tháng này không có lý do gì để tăng lãi suất. Nhưng thực sự nếu nó tăng lãi suất thì coi như cũng khốc liệt; đó là con confirm cho giai đoạn tới là chúng ta sẽ có đáy."
+    },
+    {
+      "su_kien": "Tin vĩ mô, chiến tranh, nguồn cung dầu tác động vàng/dầu/BTC",
+      "thoi_diem": null,
+      "nguon": "khac",
+      "so_lieu": "vàng hồi từ 4300 [?] lên 4400 khi dầu chỉ điều chỉnh nhẹ",
+      "anh_huong_view": "BTC, vàng, dầu ảnh hưởng lẫn nhau; BTC đi ngược giá dầu; nhịp hồi BTC có thể theo vàng",
+      "gio": null,
+      "trich": "Đoạn này Bitcoin, vàng và dầu đang bị ảnh hưởng lẫn nhau, đặc biệt thông qua những tin về kinh tế vĩ mô, tin liên quan đến chiến tranh, và các tin ảnh hưởng đến nguồn cung dầu; nó tác động lên giá dầu và giá vàng, và giá Bitcoin thì đi ngược lại với giá dầu."
+    }
+  ]
+}

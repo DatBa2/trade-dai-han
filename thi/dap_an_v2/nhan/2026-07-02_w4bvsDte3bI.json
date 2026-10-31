@@ -1,0 +1,50 @@
+{
+  "buoi": "2026-07-02_w4bvsDte3bI",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/zip_clean/2026-07-02_w4bvsDte3bI.txt",
+  "gia_btc_luc_noi": 60000,
+  "dau_buoi": {
+    "thien_huong_h4": "GIAM",
+    "gio": "[00:22:04]",
+    "trich": "Xu hướng của chúng ta vẫn là xu hướng giảm, không phải xu hướng tăng. Tất cả những nhịp hiện tại đều mang tính chất là nhịp hồi thôi. Anh em nào thích short thì short ở giá này vẫn được và DCA ở vùng 60.000 chẳng hạn. Nếu mình thì mình sẽ làm thế."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "TANG",
+    "do_chac": "thap",
+    "gio": "[01:03:44]",
+    "trich": "Mình đã di chuyển lên trên. Vùng này nó đã xác nhận như vậy thì tạm thời anh em short là không nên cố chấp, không nên giữ lệnh. Đi như vậy thì các bạn short nên ở ngoài đi. Nếu muốn short nữa chờ nó gãy lại có nến xác nhận confirm theo H ít nhất là H1 rồi mới tính."
+  },
+  "doi_y_giua_buoi": true,
+  "ly_do_doi_y": "Đầu buổi giữ view giảm (dưới 61 không long, short DCA quanh 60.000, SL khi H1/H4 đóng trên 61). Nến H4 11:00 đóng quanh 60.900–61.000, người đó coi là đã xác nhận qua cản: dời view lên vùng 62–64, bảo bỏ short, muốn long thì chờ test Fibo/MA khung nhỏ.",
+  "chang_ke_tiep": {"huong": "TANG", "dich": [62000, 64000]},
+  "duong_di": [
+    {"huong": "TANG", "dich": [62000, 64000]}
+  ],
+  "dich_chinh": [62000, 64000],
+  "han_gio": null,
+  "vo_hieu": {
+    "gia": 59000,
+    "khung": "H4",
+    "so_nen": 1,
+    "chieu": "dong_duoi",
+    "cau": "Nếu muốn short thì phải chờ cây H4 đóng lúc 15:00 chiều nay. Nó về lại dưới 59 thì sau đó lại có entry short. Mình không vội."
+  },
+  "lenh": [
+    {"chieu": "SHORT", "vao": [59500, 60000], "tp": [58000], "sl": 61000, "trang_thai": "da_dong"}
+  ],
+  "hanh_dong": "dung_ngoai_cho_entry",
+  "khung_lon": {"D1": "GIAM", "W1": null},
+  "pha_vo_gia": "[00:18:50] nhịp gãy về 59 hôm trước 'khoảng 65% là fake breakout, tức là một vùng giả vờ breakout khỏi vùng hỗ trợ' (cần đóng trên 61 để xác nhận); [00:32:10] cụm nến Binance Futures do bot đẩy lên quét stop loss, 'coi chừng cũng bị trap'.",
+  "trich_them": [
+    {"gio": "[00:15:38]", "cau": "BTC thì vẫn nhập nhằng ở vùng này, chúng ta vẫn giữ quan điểm nếu chưa trên 61 thì khả năng vẫn không có long."},
+    {"gio": "[00:18:50]", "cau": "cá nhân mình đang đánh giá nhịp gãy về 59 này khoảng 65% là fake breakout, tức là một vùng giả vờ breakout khỏi vùng hỗ trợ."},
+    {"gio": "[00:19:21]", "cau": "phục hồi lên trên khỏi 61, lúc đó như lúc nãy nói giá lên đâu đó khoảng 62.000 cho đến khoảng 63.000... Còn nếu không qua khỏi vùng này thì bản chất là một nhịp lên để lấy thêm thanh khoản và tiếp tục đi xuống thôi."},
+    {"gio": "[00:24:25]", "cau": "Nếu confirm nhịp này và đi lên được thì nến H4 bắt buộc phải đóng qua 61.000 thì lúc đó mới có view đi lên tiếp vùng 62 63. Còn không thì gần như không lên nổi. Đó là về H4."},
+    {"gio": "[00:48:10]", "cau": "Đâu sao lại nhận định xuống, tùy thị trường mới nhận định, thị trường phải có xác nhận xuống thì mới view xuống được. Thị trường đang sideway với lại đang cố đi lên mà làm sao cứ nhận định xuống được."},
+    {"gio": "[00:56:21]", "cau": "Nếu nó vượt qua 61 thì chúng ta tiếp tục di chuyển lên khu vực từ 62 cho đến 64. Còn nếu nó vẫn tiếp tục giảm thì chúng ta chờ nó thủng khỏi thằng 60 về lại 59 rồi bắt đầu chơi tiếp."},
+    {"gio": "[01:01:23]", "cau": "Tuy nhiên quan điểm của mình nếu H4 đóng trên 61 thì mình trả lệnh short. Đóng trên 61 nếu mà short thì mình sẽ lên lại vùng 63, Fibo hoặc MA200 gì đó rồi tính tiếp."},
+    {"gio": "[01:02:39]", "cau": "Nếu nó đóng lưng chừng 60.900. Mình cũng nghĩ khả năng nó chơi bài này. Thực tế nó đóng ra 60.000 thì cũng được, cũng giống như 61 thôi. Vùng này nó đã qua H4."},
+    {"gio": "[01:05:17]", "cau": "Long thì vẫn là ngược trend... Nếu mình muốn long thì mình vẫn phải chờ nó test Fibo hoặc test MA. Điều kiện là vậy."},
+    {"gio": "[01:08:38]", "cau": "Xu hướng thì short nhưng vùng này đóng trên này thì không short được. Muốn long thì phải xem xét, tìm entry một tí rồi mới long được. Nhìn chung xu hướng đoạn này phá liên tục rất nhiều cản rồi. Cho nên đoạn này mình thấy chưa nên short lại."}
+  ],
+  "kho": "Đầu buổi vừa nói xu hướng giảm/short DCA, vừa nói 65% cú gãy 59 là fake breakout (nghiêng hỗ trợ) và 'lên cũng có cơ sở xuống cũng có cơ sở'. Cuối buổi H4 đóng ~60.900–61.000 nên dời view lên 62–64 nhưng vẫn nói 'xu hướng thì short', long chỉ khi test lại → TANG độ chắc thấp, sát ranh PHAN_VAN. Giá lúc nói ~59.5–60k đầu buổi, ~61k cuối buổi."
+}

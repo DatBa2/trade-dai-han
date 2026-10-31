@@ -1,0 +1,222 @@
+[
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[0].trich",
+  "trich": "Hồi đoạn này theo lực ngày hôm qua mình kỳ vọng lên được 75 nhưng đối với lực này thì trước mắt chúng ta sẽ phải thấy nó lên 72.500 trước.",
+  "giay": 827,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=5JIlkl46nss&t=827s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[1].trich",
+  "trich": "Cái nhịp này mà nó đấm về 68 chuyện hết sức bình thường không có gì là khó. 70 này không có cái gì gọi là cứng hết.",
+  "giay": 2648,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=5JIlkl46nss&t=2648s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[2].trich",
+  "trich": "Xu hướng vẫn là xu hướng giảm, mình nhắc lại anh em.",
+  "giay": 866,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=5JIlkl46nss&t=866s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "lenh[0].trich",
+  "trich": "có thể canh vùng này, SL dưới cái râu này khoảng 69.900 và kéo lên. Nhưng phải lưu ý chơi long đoạn này cực kỳ rủi ro bởi vì ngược xu hướng.",
+  "giay": 794,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=5JIlkl46nss&t=794s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "lenh[1].trich",
+  "trich": "Hôm qua chúng ta đã chốt con bot rồi ... Con bot short của chúng ta ăn đến đó là được.",
+  "giay": 142,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=5JIlkl46nss&t=142s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[0].trich",
+  "trich": "mình đoán sẽ có một nhịp backtest về lại Fibo. Sẽ có một nhịp về khoảng vùng 70.500 rồi mới hồi lên",
+  "giay": 778,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=5JIlkl46nss&t=778s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[1].trich",
+  "trich": "SL dưới cái râu này khoảng 69.900 và kéo lên",
+  "giay": 796,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=5JIlkl46nss&t=796s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[2].trich",
+  "trich": "Hồi đoạn này theo lực ngày hôm qua mình kỳ vọng lên được 75",
+  "giay": 827,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=5JIlkl46nss&t=827s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[3].trich",
+  "trich": "trước mắt chúng ta sẽ phải thấy nó lên 72.500 trước. Xem phản ứng của giá ở 72.500... Vùng này sẽ là một vùng cản rất lớn",
+  "giay": 833,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=5JIlkl46nss&t=833s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[4].trich",
+  "trich": "Gap thì điểm lại những gap chúng ta đang có. Gap 78k1",
+  "giay": 945,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=5JIlkl46nss&t=945s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[5].trich",
+  "trich": "Gap nhỏ hôm qua 73",
+  "giay": 951,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=5JIlkl46nss&t=951s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[6].trich",
+  "trich": "Gap 75 này vẫn có... Gap trên thì chúng ta có 75, 78, 83 và 90",
+  "giay": 963,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=5JIlkl46nss&t=963s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[7].trich",
+  "trich": "Gap trên thì chúng ta có 75, 78, 83 và 90",
+  "giay": 963,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=5JIlkl46nss&t=963s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[8].trich",
+  "trich": "Gap trên thì chúng ta có 75, 78, 83 và 90",
+  "giay": 963,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=5JIlkl46nss&t=963s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[9].trich",
+  "trich": "Góc dưới là có 71, 69, 70 với lại 67",
+  "giay": 956,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=5JIlkl46nss&t=956s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[10].trich",
+  "trich": "Góc dưới là có 71, 69, 70 với lại 67",
+  "giay": 956,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=5JIlkl46nss&t=956s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[11].trich",
+  "trich": "70 với 67",
+  "giay": null,
+  "do_giong": 0.0,
+  "nguon_gio": "khong_tim_thay",
+  "url": null,
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[12].trich",
+  "trich": "70 với 67",
+  "giay": null,
+  "do_giong": 0.0,
+  "nguon_gio": "khong_tim_thay",
+  "url": null,
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[13].trich",
+  "trich": "Bây giờ chỉ còn những vùng trên như 72.300 thôi",
+  "giay": 1125,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=5JIlkl46nss&t=1125s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[14].trich",
+  "trich": "Bitcoin trước mắt mình nghĩ chắc hồi lên khoảng 72",
+  "giay": 1878,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=5JIlkl46nss&t=1878s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[15].trich",
+  "trich": "Về 68 là chuyện đơn giản... 68 như thế này nó có gap nữa. Gap 70 này",
+  "giay": 2635,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=5JIlkl46nss&t=2635s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[16].trich",
+  "trich": "70 này không có cái gì gọi là cứng hết. 66 này mới cứng",
+  "giay": 2654,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=5JIlkl46nss&t=2654s",
+  "anh": []
+ }
+]

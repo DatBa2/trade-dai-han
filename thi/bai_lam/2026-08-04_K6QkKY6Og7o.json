@@ -1,0 +1,94 @@
+{
+ "buoi": "2026-08-04_K6QkKY6Og7o",
+ "ngay": "2026-08-04",
+ "gio_vn": "11:00",
+ "gia_btc_luc_noi": 63797,
+ "nhan_dinh": [
+  {
+   "khung": "H4",
+   "huong": "GIAM",
+   "do_chac": "vua",
+   "dich": [60000, 61000],
+   "han": "trong tuần này, tới hết Chủ Nhật 09/08 (trước CPI 12-13/8)",
+   "han_gio": 120,
+   "vo_hieu_khi": "H4 đóng trên 64.300 (vượt râu quét 64.086 + EMA200 H4 64.08 + Fibo 0.5 D1 64.14) thì không short nữa",
+   "kich_ban_phu": "đáy 62.27-62.30 đã test 3 lần, có thể giằng co 62.3-64 thêm 1 ngày trước khi thủng; về 60 có cặp nến xanh mới tính vai đầu vai ngược",
+   "duong_di": [
+    {"huong": "GIAM", "dich": 62200},
+    {"huong": "GIAM", "dich": 60700}
+   ],
+   "doi_y": null,
+   "ly_do": [
+    "đúng kịch bản phụ hôm qua: quét lên 64 lấy thanh khoản (râu 64.086) rồi hai cây H4 sau đóng lại dưới 64 → chặng 1 xong, chờ chặng 2",
+    "64 là vùng hội tụ: EMA89/200 H4 63.91/64.08 + EMA34 close D1 64.13 + Fibo 0.5 D1 nhịp 61.3→66.96 (64.14) + đáy biên cũ đổi vai",
+    "nến tuần nhấn chìm đỏ + nến tháng 7 râu trên dài vẫn là nền giảm; D1 thứ Hai chỉ rút chân, đóng 63.53 vẫn dưới EMA34 D1",
+    "hỗ trợ 62.3 đã test 3 lần trong 4 ngày → test nhiều thì yếu, Fibo mở rộng còn treo 60.6/60"
+   ],
+   "trich": null
+  },
+  {
+   "khung": "D1",
+   "huong": "GIAM",
+   "do_chac": "vua",
+   "dich": [60000, 61000],
+   "han": "trong tuần",
+   "han_gio": 120,
+   "vo_hieu_khi": "D1 đóng trên 64.900 (vượt hẳn dải EMA34 D1)",
+   "kich_ban_phu": "nến búa thứ Hai chỉ là rút chân tạm, hồi lên cũng để tìm điểm đánh xuống",
+   "duong_di": null,
+   "doi_y": null,
+   "ly_do": [
+    "đáy sau thấp hơn đáy trước, đã phá vùng sideway 63-66 và kênh giá tăng tháng 7",
+    "giá vẫn dưới EMA34 close D1 (64.13) và EMA89 D1 (66.6) dốc xuống",
+    "nến thứ Hai xanh/rút chân thì không mang nhiều ý nghĩa"
+   ],
+   "trich": null
+  },
+  {
+   "khung": "W1",
+   "huong": "GIAM",
+   "do_chac": "vua",
+   "dich": [50000, 55000],
+   "han": "tới cuối năm / đầu năm sau theo chu kỳ",
+   "han_gio": null,
+   "vo_hieu_khi": "nến tuần đóng trên 66.000 / dải EMA34 W1",
+   "kich_ban_phu": "giống 8/2022: hồi rồi bị đấm một cây tuần 20-25%",
+   "duong_di": null,
+   "doi_y": null,
+   "ly_do": [
+    "nến tuần đỏ nhấn chìm cả 3 tuần tăng tháng 7, đi ba về một",
+    "giá dưới EMA34/89 tuần, EMA34 tuần đã cắt xuống EMA89 tuần",
+    "chu kỳ 4 năm: downtrend từ đỉnh 126K mới đi khoảng một nửa"
+   ],
+   "trich": null
+  }
+ ],
+ "vung_gia": {
+  "khang_cu": [64000, 64300, 65400],
+  "ho_tro": [62300, 61300, 60640, 60000]
+ },
+ "lenh": [
+  {
+   "chieu": "SHORT",
+   "loai": "limit",
+   "vao": 63950,
+   "tp": [62400, 60800],
+   "sl": 64550,
+   "trang_thai": "de_xuat_moi"
+  }
+ ],
+ "hanh_dong": "dung_ngoai_cho_entry",
+ "giu_view": true,
+ "ly_do_doi_view": "Giữ view GIẢM từ 03/08: giá chỉ đi đúng kịch bản phụ đã báo (quét 64 lấy thanh khoản), không có H4 nào đóng trên 64, chưa chạm đích 60-61, không có tin lớn. Cú pump phiên Mỹ thứ Hai là quét, không đủ đổi view.",
+ "rau": {
+  "tren": "64.086 (H4 mở 23:00 03/08, râu trên 0.35%); hai cây sau chạm lại 64.029 và 63.977",
+  "duoi": "62.300 (H4 mở 15:00 03/08); cụm đáy 62.268 (01/08) - 62.457 (31/07)",
+  "test_lai": "Râu trên 64.086: CÓ — vùng 64 hội tụ 4 căn cứ (EMA89/200 H4, EMA34 D1, Fibo 0.5 D1, đáy cũ đổi vai), giá đang lấp ló 63.8 ngay dưới → còn một lần chạm để short (R2). Đáy 62.27-62.30: CÓ ở chặng 2 — đã test 3 lần, SL phe long bắt đáy dồn ngay dưới, lần tới dễ thủng (5.2 R2 + 'hỗ trợ test nhiều lần thì yếu')."
+ },
+ "vung_on": [
+  {"loai": "SHORT", "khoang": [63900, 64300], "ly_do": ["EMA89/200 H4 63.91/64.08", "EMA34 close D1 64.13 + Fibo 0.5 D1 nhịp 61.3→66.96 (64.14)", "râu quét 64.086 = thanh khoản 64 người đó nêu", "đáy biên sideway 63-64 cũ đổi vai thành cản"]},
+  {"loai": "LONG", "khoang": [60000, 61300], "ly_do": ["Fibo mở rộng 1.0 ABC 65.42→62.27→63.80 = 60.64", "số tròn 60K + vùng out/vai đầu vai ngược người đó nêu", "đáy H4 tháng 7 61.32/61.55"]}
+ ],
+ "pha_vo_gia": "Cú pump thứ Hai 62.4→64.09 và cây H4 23h đóng 63.87 vượt đỉnh 63.8 là phá giả: phiên Mỹ 19-23h (G9), thứ Hai (G5), chỉ 1 cây đóng vượt sát rồi cây sau đóng lại 63.53 (G2), quét đúng thanh khoản 64 rồi rút (G4). Không đổi view.",
+ "loi_binh": "View từ hôm qua không thay đổi gì nhiều anh em, mình đã nói nó có thể quét lên 64 lấy thanh khoản rồi mới gãy, đêm qua phiên Mỹ kéo đúng 64.08 rồi thụt lại. Thứ Hai kéo bố láo thôi, chưa có cây H4 nào đóng được trên 64. Ai chưa có lệnh thì chờ hồi về 63.9-64 có nến đỏ M5 rồi short, SL 64.55, đủ mồm 62.4 thì chốt một nửa, target vẫn 60-61. H4 đóng trên 64.3 thì mình bỏ tay ra khỏi nút short."
+}

@@ -1,0 +1,95 @@
+{
+  "buoi": "2026-09-22_1003_N-_6NBs4ZW8",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/lam_sach/2026-09-22_1003_N-_6NBs4ZW8.md",
+  "gia_btc_luc_noi": 85000,
+  "dau_buoi": {
+    "thien_huong_h4": "GIAM",
+    "gio": null,
+    "trich": "Hiện tại có vẻ đang muốn điều chỉnh rồi, Bitcoin với thị trường. ... Bitcoin đoạn này nếu thủng cái 5 phút này thì có vẻ cũng hơi xấu. Nó sẽ tiếp tục chạy mô hình cờ trong M5, test lại vùng khoảng 85 cho đến 84."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "GIAM",
+    "do_chac": "thap",
+    "gio": null,
+    "trich": "Về ngắn hạn thì hoàn toàn có thể điều chỉnh về tận vùng 84: hiện tại 85 có thể điều chỉnh về 84 sau khi đóng cây H4 đỏ. Nhưng trước khi về 84 thì xác suất vẫn còn một nhịp kéo lên đâu đó khoảng 86.000 mấy nữa. Vùng hiện tại anh em sẽ phải linh hoạt thôi."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {
+    "huong": "TANG",
+    "dich": 86000
+  },
+  "duong_di": [
+    {
+      "huong": "TANG",
+      "dich": 86000
+    },
+    {
+      "huong": "GIAM",
+      "dich": 84000
+    }
+  ],
+  "dich_chinh": 84000,
+  "han_gio": null,
+  "vo_hieu": {
+    "gia": 87000,
+    "khung": "H4",
+    "so_nen": 1,
+    "chieu": "dong_tren",
+    "cau": "87 này nếu vượt qua thì nó sẽ tiếp cận vùng kháng cự, mục tiêu tiếp theo là vùng 9x."
+  },
+  "lenh": [
+    {
+      "chieu": "SHORT",
+      "vao": null,
+      "tp": [],
+      "sl": null,
+      "trang_thai": "da_dong"
+    }
+  ],
+  "hanh_dong": "dung_ngoai_cho_entry",
+  "khung_lon": {
+    "D1": "TANG",
+    "W1": "PHAN_VAN"
+  },
+  "pha_vo_gia": "Nhắc lại 'nhịp giả vờ đi lên' của hôm trước: nếu giá về ngay vùng 79–80 thì nhịp hiện tại là nhịp fake out đi lên (cây nến ngày thứ hai xanh có thể là giả).",
+  "trich_them": [
+    {
+      "gio": null,
+      "cau": "Kịch bản 1: nếu nến ngày hôm nay trả về lại vùng 82 thì chúng ta xem tiếp liệu 82 83 này có đỡ được nến hay không. Nếu đỡ được thì vẫn còn xác suất để nó lên test tiếp vùng 9x."
+    },
+    {
+      "gio": null,
+      "cau": "Kịch bản 2: nếu 82 hay 83 không giữ được, thủng 82 thì tỉ lệ rất cao nó sẽ về test 79 và 80, tức là ngay vùng hỗ trợ trước đó"
+    },
+    {
+      "gio": null,
+      "cau": "Nhưng nếu nó về ngay thì chúng ta nhìn rõ nhịp hiện tại là nhịp fake out đi lên, như hôm qua mình nói, và quay về lại vùng này."
+    },
+    {
+      "gio": null,
+      "cau": "Đẹp nhất đoạn này để dễ cho anh em ăn là nó điều chỉnh về khoảng 83, trụ được ở vùng 82 83 và kéo lên 90 hoặc 93, rồi sau đó mới điều chỉnh hẳn."
+    },
+    {
+      "gio": null,
+      "cau": "Có một vùng liquid là 84, hợp lý nhỉ. Ngắn hạn nó điều chỉnh về 84 thì cũng hợp lý. Nhưng đoạn này mình nghĩ nếu anh em muốn đánh nhịp 84 thì phải chờ ở zone này, chứ market thì đang hơi chưa rõ ràng, hơi rủi ro, hơi rén."
+    },
+    {
+      "gio": null,
+      "cau": "Tầm ở đây thì không nên hành động gì cả, chờ nó phản ứng ở vùng này. Mình đoán chắc sẽ có test lại vùng 86.00 [?] gì đó."
+    },
+    {
+      "gio": null,
+      "cau": "Hôm qua mình short, SL một lệnh lẻ [?] thôi, không short nữa đấy. Vào test thử một lệnh mà SL là 800 giá."
+    },
+    {
+      "gio": null,
+      "cau": "Mình không thấy việc liquid cộng với chart USDT.D thể hiện là dễ bay tiếp."
+    },
+    {
+      "gio": null,
+      "cau": "Đối với 5 phút như thế này thì vẫn chưa phải là confirm gãy nhá. ... Hiện tại ở đây FOMO thì vẫn chưa nên."
+    }
+  ],
+  "kho": "Transcript không có mốc giờ. Người nói tự nhận 'không dự đoán, chỉ đưa plan A/B': trụ 82–83 → 9x (90–93, còn gap CME 90) / thủng 82 → 79–80. Thứ duy nhất họ nghiêng cụ thể trên H4 là nhịp chỉnh ngắn hạn (H4 đóng đỏ, có thể hồi test 86 rồi về 84), sau đó 'ngồi chờ phản ứng' ở 82–83 → gán GIAM, đích 84, độ chắc thấp. Nếu chấm theo khung rộng hơn thì kịch bản 'đẹp nhất' là chỉnh về 83 rồi lên 90–93 (TANG). Lệnh short hôm trước đã dính SL (~800 giá), không rõ giá vào. vo_hieu 87 là kháng cự họ nói, không kèm số nến. W1 ghi PHAN_VAN vì người nói: nến đã phá khung tuần nhưng chưa đóng cửa, 'vẫn chưa xác nhận phá được xu hướng giảm trên khung tuần' (dù nến tuần trước đóng trên SMA50)."
+}

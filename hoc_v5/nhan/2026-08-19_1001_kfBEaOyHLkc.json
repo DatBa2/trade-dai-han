@@ -1,0 +1,445 @@
+{
+  "buoi": "2026-08-19_1001_kfBEaOyHLkc",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/lam_sach/2026-08-19_1001_kfBEaOyHLkc.md",
+  "gia_btc_luc_noi": 64800,
+  "dau_buoi": {
+    "thien_huong_h4": "GIAM",
+    "gio": null,
+    "trich": "Hiện tại là chúng ta sẽ có một cái nhịp điều chỉnh ngắn hạn ở cái vùng này ha. Để xem được cái thằng này nó có điều chỉnh sâu hay không thì còn phải xem cấu trúc ở trong khung nhỏ xem thử thế nào đã."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "GIAM",
+    "do_chac": "vua",
+    "gio": null,
+    "trich": "Ở vùng quanh 65.000 này chúng ta thấy là nó vẫn đang nằm ở cái cản. Cho nên hiện tại ở trong ngắn hạn thì mình vẫn nghiêng về cái phe sót. Nếu mà chọn phe thì mình vẫn chọn phe sót hơn là phe long. Mặc dù cấu trúc của nó thì vẫn giữ được cái xu hướng phục hồi."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {
+    "huong": "GIAM",
+    "dich": 63000
+  },
+  "duong_di": [
+    {
+      "huong": "GIAM",
+      "dich": 63000
+    }
+  ],
+  "dich_chinh": 63000,
+  "han_gio": null,
+  "vo_hieu": {
+    "gia": 65000,
+    "khung": "H4",
+    "so_nen": 1,
+    "chieu": "dong_tren",
+    "cau": "Thực tế mình sẽ long khi mà H4 này nó phá được cái cản ở đây. Bởi vì phá ở đây thì chúng ta sẽ đánh từ cái nhịp khoảng trên 65.000 lên đến khoảng tầm 70.500 [?] giá"
+  },
+  "lenh": [
+    {
+      "chieu": "SHORT",
+      "vao": null,
+      "tp": [
+        63000
+      ],
+      "sl": null,
+      "trang_thai": "dang_giu"
+    },
+    {
+      "chieu": "LONG",
+      "vao": 65000,
+      "tp": [
+        70500
+      ],
+      "sl": null,
+      "trang_thai": "de_xuat_moi"
+    }
+  ],
+  "hanh_dong": "giu_lenh",
+  "khung_lon": {
+    "D1": "PHAN_VAN",
+    "W1": "GIAM"
+  },
+  "pha_vo_gia": "Pha kéo lên 65.000 đêm qua là lên quét thanh lý (vị thế short 24 triệu đô bị thanh lý ở 65.000); vùng hiện tại đi hai đầu để lụm stop loss cả hai phe. Kịch bản 'trap' vĩ mô: cùng lắm tăng lên 73.000 rồi sập về 4x–5x.",
+  "trich_them": [
+    {
+      "gio": null,
+      "cau": "Confirm sóng giảm nó sẽ xác nhận khi mà nến đóng thủng cái cụm MA này, tức là đóng dưới khoảng 63.000 thì nó mới chắc chắn là cái phe bán nó nhảy vào mạnh ... Những cái vùng TP cho các lệnh sót thì mình cũng đang kỳ vọng khoảng quanh 63.000."
+    },
+    {
+      "gio": null,
+      "cau": "H4 thì có thêm một cái nữa là có cái nhịp phân kỳ RSI ở cái đoạn này, anh em cần phải lưu ý."
+    },
+    {
+      "gio": null,
+      "cau": "Một là ngồi ngoài chờ xác nhận, tức là chờ xác nhận phá lên trên khỏi 65.000 hoặc 65.500 [?] gì đó, chờ tín hiệu và đánh lên. Còn không thì chờ nó gãy xuống hẳn ở bên dưới rồi tiếp tục thuận xu hướng thì sẽ sót. Chứ đoạn này thì một là sót, hai là đứng nhìn thôi."
+    },
+    {
+      "gio": null,
+      "cau": "Giống như trước đó mình đã nói, cái vùng này hiện tại bản chất của nó vẫn là một cái vùng đi hẹp biên dần. Chúng ta vẫn phải quan sát xem thử là nó phá cấu trúc ở hướng nào thì chúng ta theo hướng đó nhá."
+    },
+    {
+      "gio": null,
+      "cau": "Sót thì mình đang để TP khoảng quanh 63."
+    },
+    {
+      "gio": null,
+      "cau": "Hiện tại thì mình đang đánh giá Bitcoin xấu, cho nên mình cũng không khuyến khích đi long thị trường lắm nhá."
+    },
+    {
+      "gio": null,
+      "cau": "Fibo M5 à, 30 phút này xem. 64.639 [?] ở dưới cái thằng này là hợp lý. Vùng này cũng là cái vùng thanh lý đấy. Dưới 64 này, dưới 64 có nghĩa là 63.9."
+    },
+    {
+      "gio": null,
+      "cau": "Mình kỳ vọng là thị trường nó sẽ tích lũy, tái tích lũy ở cái vùng này để chuẩn bị cho một cái cú xả mạnh xuống ... Mình kỳ vọng là nó sẽ đi ngang ở cái vùng 5x trong tháng 9"
+    }
+  ],
+  "kho": "Transcript không có mốc giờ. Người nói coi vùng 64–65k là biên hẹp, 'phá hướng nào theo hướng đó', nhưng vẫn nghiêng short, giữ short TP 63k, đánh giá BTC xấu, có phân kỳ RSI H4 → GIAM độ chắc vừa (sát thấp). Mốc vo_hieu 65.000 không chắc (có nhắc 65.500 [?]); kịch bản long chỉ khi H4 phá cản 65 → 70.5k. Giá lúc nói ước ~64.6–65k.",
+  "nhin_lai_view_truoc": {
+    "view_truoc": null,
+    "giu_hay_doi": "giu",
+    "vi_sao": "Giá vẫn lòng vòng trong vùng sideway hẹp biên đã bàn hôm trước; nến đỏ H4 hôm qua không đấm xuyên cụm MA, giá test đáy 64k hai lần rồi đêm qua phóng lên 65k để quét thanh lý — chưa có gì mới, vẫn chờ phá cấu trúc hướng nào theo hướng đó (nghiêng short).",
+    "gio": null,
+    "trich": "Hiện tại giá nó vẫn lòng vòng cái vùng sideway hôm trước mà chúng ta đang bàn với nhau. Nó cứ đi chậm chậm vậy thôi, không có thay đổi nhiều... Hôm qua chúng ta phân tích có một cái nến đỏ ở đây. Nếu mà nó đấm xuyên qua để kéo những cái cụm MA này đi xuống thì nó đã phải thả một cái cây nến đỏ mạnh đi xuống dưới này. Nhưng mà không, nó không chơi kiểu đó. Nó vẫn lòng vòng giữ ở đây và test đáy 64.000 hai lần."
+  },
+  "trendline": [
+    {
+      "khung": "H4",
+      "loai": "khac",
+      "noi_tu": "vùng 'đi hẹp biên dần' (biên hội tụ) giữa cản ~65k và đáy 64k; không nói chữ trendline, không nêu điểm neo",
+      "diem_neo": [
+        {
+          "ngay": null,
+          "gia": 65000
+        },
+        {
+          "ngay": null,
+          "gia": 64000
+        }
+      ],
+      "gia_duong_luc_noi": null,
+      "trang_thai": "chua_pha",
+      "dieu_kien_pha": "H4 phá lên trên 65k (65.5k?) thì long lên 70.5k; nến đóng thủng cụm MA dưới ~63k thì xác nhận sóng giảm",
+      "ket_luan_huong": null,
+      "gio": null,
+      "trich": "Giống như trước đó mình đã nói, cái vùng này hiện tại bản chất của nó vẫn là một cái vùng đi hẹp biên dần. Chúng ta vẫn phải quan sát xem thử là nó phá cấu trúc ở hướng nào thì chúng ta theo hướng đó nhá."
+    }
+  ],
+  "nen_volume": [
+    {
+      "khung": "H4",
+      "nen": "nến đỏ hôm qua không thành nến đỏ mạnh xuyên cụm MA; giá giữ, test đáy 64k hai lần, đêm qua phóng lên 65k",
+      "volume": null,
+      "ket_luan": "chưa gãy; vẫn trong vùng hẹp biên",
+      "gio": null,
+      "trich": "Nếu mà nó đấm xuyên qua để kéo những cái cụm MA này đi xuống thì nó đã phải thả một cái cây nến đỏ mạnh đi xuống dưới này. Nhưng mà không, nó không chơi kiểu đó."
+    },
+    {
+      "khung": "H4",
+      "nen": "xác nhận sóng giảm khi nến đóng thủng cụm MA (dưới ~63k)",
+      "volume": null,
+      "ket_luan": "khi đó phe bán chiếm ưu thế, đi về biên dưới 63k",
+      "gio": null,
+      "trich": "Confirm sóng giảm nó sẽ xác nhận khi mà nến đóng thủng cái cụm MA này, tức là đóng dưới khoảng 63.000 thì nó mới chắc chắn là cái phe bán nó nhảy vào mạnh."
+    },
+    {
+      "khung": "H4",
+      "nen": "đỉnh sau pha lên 65k",
+      "volume": "volume chưa phân kỳ nhưng RSI phân kỳ",
+      "ket_luan": "lưu ý rủi ro phía long",
+      "gio": null,
+      "trich": "H4 thì có thêm một cái nữa là có cái nhịp phân kỳ RSI ở cái đoạn này, anh em cần phải lưu ý. Volume thì nó chưa phân kỳ nhưng mà RSI thì nó phân kỳ, sau cái đỉnh cái pha lên 65.000 ngày hôm qua."
+    },
+    {
+      "khung": "M5",
+      "nen": "M5 gãy xong hồi test rồi đi xuống",
+      "volume": null,
+      "ket_luan": "chưa có lý do long; phải tạo được cấu trúc đỉnh đáy tăng trong M5 mới đánh lên",
+      "gio": null,
+      "trich": "M5 thì vẫn có thể được xem là một cái nhịp đi xuống: một cái nhịp gãy xong và vừa phục hồi test mở ra một tí sau đó đi xuống... Ít nhất nó sẽ phải tạo ra được một cái cấu trúc đỉnh đáy như vậy ở trong 5 phút, sau đó chúng ta mới đánh lên."
+    }
+  ],
+  "cach_lam": [
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "ema",
+      "chi_tiet": "cụm MA H4 lòng vòng",
+      "ket_qua": "đóng dưới cụm MA ~63k mới xác nhận sóng giảm",
+      "gio": null,
+      "trich": "Cái thằng MA này nó cứ lòng vòng liên tục ha... tức là đóng dưới khoảng 63.000 thì nó mới chắc chắn là cái phe bán nó nhảy vào mạnh."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "rsi",
+      "chi_tiet": "RSI H4 sau đỉnh 65k",
+      "ket_qua": "phân kỳ RSI (volume chưa phân kỳ)",
+      "gio": null,
+      "trich": "H4 thì có thêm một cái nữa là có cái nhịp phân kỳ RSI ở cái đoạn này."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "dinh_day_cu",
+      "chi_tiet": "H4: đáy 64k test hai lần, cản 65k",
+      "ket_qua": "vùng hẹp biên 64-65k, đang nằm ở cản",
+      "gio": null,
+      "trich": "Nó vẫn lòng vòng giữ ở đây và test đáy 64.000 hai lần. Và đêm ngày hôm qua nó đã có một cái pha phóng lên 65.000."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "thanh lý trên Hyperliquid (Dex): vị thế short 64.3k bị thanh lý ở 65k",
+      "ket_qua": "23.4-24 triệu đô bị thanh lý → nhịp lên 65k là quét thanh lý",
+      "gio": null,
+      "trich": "đêm ngày hôm qua cái nhịp nó lên đến 64.000 [?] ở trên Dex nó đã có một cái vụ thanh lý lên đến 23,4 triệu đô... Nó sót ở 64.300 mà nó bị thanh lý ở 65.000."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "heatmap",
+      "chi_tiet": "liquid ngắn hạn + khung lớn",
+      "ket_qua": "64k, 63k dưới; 65k trên (không đánh giá cao); khung lớn 62k, cân 62-66k, 57k",
+      "gio": null,
+      "trich": "Liquid mình nghĩ hai đầu đây: 64.000 và 63.000. Ở trên này thì có một cái vùng 65.000, nhưng mà hai cái vùng này bây giờ chúng ta không nên đánh giá cao quá... Với những cái khung lớn thì mình nghĩ càng là những cái vùng thanh lý ở bên dưới thôi, 62.000 này... Dưới này có cái vùng được hình thành khoảng tầm 57."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "BTC.D, USDT.D, Fear & Greed",
+      "ket_qua": "USDT.D cũng đi hẹp biên chờ breakout cùng BTC; F&G 46 (downtrend ≈ 60-65 bình thường) → thị trường đang kỳ vọng",
+      "gio": null,
+      "trich": "USDT.D... vẫn đang đi sideway và đi hẹp biên, chờ nó breakout. Khi thằng này break out thì cũng đồng thời với thằng Bitcoin break out thôi... Fear and Greed hôm nay lên 46."
+    },
+    {
+      "hanh_dong": "do",
+      "cong_cu": "fibo_thoai_lui",
+      "chi_tiet": "Fibo M5/M30 xem giá cắm xuống gần nhất",
+      "ket_qua": "64.639 [?]; dưới 64k là 63.9k, trùng vùng thanh lý",
+      "gio": null,
+      "trich": "Fibo M5 à, 30 phút này xem. 64.639 [?] ở dưới cái thằng này là hợp lý. Vùng này cũng là cái vùng thanh lý đấy. Dưới 64 này, dưới 64 có nghĩa là 63.9."
+    }
+  ],
+  "vung_nguoi_do": [
+    {
+      "loai": "vao",
+      "tu": 64500,
+      "den": 64500,
+      "gio": null,
+      "trich": "Lệnh sót: \"64.5 hả? 64.5 thì cũng không phải là đẹp lắm. Ờ tầm tạm thì cứ giữ cũng được.\""
+    },
+    {
+      "loai": "sl",
+      "tu": 65100,
+      "den": 65100,
+      "gio": null,
+      "trich": "65K1 [?] SL thì cứ TP của mình đang dự kiến khoảng tầm 63"
+    },
+    {
+      "loai": "tp",
+      "tu": 63000,
+      "den": 63000,
+      "gio": null,
+      "trich": "Sót thì mình đang để TP khoảng quanh 63."
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 65000,
+      "den": 65000,
+      "gio": null,
+      "trich": "Ở vùng quanh 65.000 này chúng ta thấy là nó vẫn đang nằm ở cái cản."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 64000,
+      "den": 64000,
+      "gio": null,
+      "trich": "Nó vẫn lòng vòng giữ ở đây và test đáy 64.000 hai lần."
+    },
+    {
+      "loai": "vo_hieu",
+      "tu": 65000,
+      "den": 65500,
+      "gio": null,
+      "trich": "chờ xác nhận phá lên trên khỏi 65.000 hoặc 65.500 [?] gì đó, chờ tín hiệu và đánh lên."
+    },
+    {
+      "loai": "dich",
+      "tu": 70500,
+      "den": 70500,
+      "gio": null,
+      "trich": "phá ở đây thì chúng ta sẽ đánh từ cái nhịp khoảng trên 65.000 lên đến khoảng tầm 70.500 [?] giá"
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 63000,
+      "den": 63000,
+      "gio": null,
+      "trich": "đóng dưới khoảng 63.000 thì nó mới chắc chắn là cái phe bán nó nhảy vào mạnh và nó chiếm ưu thế để nó đi xuống ở cái vùng biên dưới là khoảng tầm 63.000."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 62000,
+      "den": 62000,
+      "gio": null,
+      "trich": "Với những cái khung lớn thì mình nghĩ càng là những cái vùng thanh lý ở bên dưới thôi, 62.000 này"
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 57000,
+      "den": 57000,
+      "gio": null,
+      "trich": "Dưới này có cái vùng được hình thành khoảng tầm 57."
+    },
+    {
+      "loai": "dich",
+      "tu": 73000,
+      "den": 73000,
+      "gio": null,
+      "trich": "kịch bản mà gọi là theo anh em nó trap thì ở đây cùng lắm nó sẽ tăng lên khoảng độ 73.000 được chưa?"
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 63900,
+      "den": 64639,
+      "gio": null,
+      "trich": "64.639 [?] ở dưới cái thằng này là hợp lý. Vùng này cũng là cái vùng thanh lý đấy. Dưới 64 này, dưới 64 có nghĩa là 63.9."
+    }
+  ],
+  "view_trung_han": [
+    {
+      "khung": "M1",
+      "huong": "GIAM",
+      "dich": [
+        50000,
+        59000
+      ],
+      "han": "tích lũy rồi xả quanh CPI tháng 9, đi ngang vùng 5x trong tháng 9; tháng 10 xấu; giữa/cuối tháng 10 mới phục hồi thực sự",
+      "mat_view_khi": null,
+      "gio": null,
+      "trich": "Mình kỳ vọng là thị trường nó sẽ tích lũy, tái tích lũy ở cái vùng này để chuẩn bị cho một cái cú xả mạnh xuống... Mình kỳ vọng là nó sẽ đi ngang ở cái vùng 5x trong tháng 9, và sau đó đến tháng 10 thì bắt đầu nó xấu xấu, và khoảng tầm giữa tháng 10 hoặc cuối tháng 10 bắt đầu mới có cái nhịp phục hồi thực sự."
+    },
+    {
+      "khung": "W1",
+      "huong": "GIAM",
+      "dich": [
+        35000,
+        37000
+      ],
+      "han": "đáy của mùa downtrend này (giảm ~70-72% từ đỉnh)",
+      "mat_view_khi": null,
+      "gio": null,
+      "trich": "Mùa này thì chắc kỳ vọng 70% trở lên là ok, 70% khoảng tầm 37 [?]... Mùa này kỳ vọng nó giảm khoảng tầm 70% đến 72%... Giả sử giảm khoảng 70% đến khoảng tầm 35 [?], x5 thì nó cũng lên lại được khoảng tầm 200.000 đi."
+    },
+    {
+      "khung": "W1",
+      "huong": "GIAM",
+      "dich": [
+        40000,
+        59000
+      ],
+      "han": "nếu trap tăng lên ~73k trước",
+      "mat_view_khi": null,
+      "gio": null,
+      "trich": "cùng lắm nó sẽ tăng lên khoảng độ 73.000 được chưa? Nó tăng lên 73.000 sau đó nó cũng sập về lại dưới bốn mấy, năm mấy thôi, thì nó sẽ kéo dài cái sự đau khổ thôi nha... Cho dù mọi người có kỳ vọng cỡ nào đi nữa thì mình nghĩ không có uptrend ở ngay cái vùng giá này đâu."
+    }
+  ],
+  "vung_tranh": [
+    {
+      "tu": 65000,
+      "den": 65000,
+      "vi_sao": "chưa nên long ở cản H4 65k + vùng dễ thanh lý lệnh long (long đang dồn rất nhiều)",
+      "gio": null,
+      "trich": "Tạm thời ở cái đoạn này thì mình vẫn thấy là chúng ta không nên long, bởi vì kết hợp nhiều yếu tố. Thứ nhất là chúng ta đang ở ngay cái vùng cản H4 mình vừa nói xong. Thứ hai nữa là chúng ta đang nằm ở một cái vùng dễ bị thanh lý các cái lệnh long quá."
+    },
+    {
+      "tu": null,
+      "den": null,
+      "vi_sao": "thị trường đi hai đầu quét thanh lý → nhịp lên/xuống mà entry không tốt thì không mạo hiểm",
+      "gio": null,
+      "trich": "Bản chất của thị trường cái giai đoạn này nó vẫn là đi hai đầu để nó xử lý các cái vùng thanh lý thôi. Cho nên chúng ta thấy là những cái nhịp đi lên hay đi xuống mà entry không quá tốt thì anh em cũng không nên mạo hiểm làm gì hết nhá."
+    }
+  ],
+  "giu_dong": [
+    {
+      "lenh": "short 64.5k của viewer, SL 65.1k",
+      "quyet_dinh": "giu",
+      "khi_nao": "entry tạm thì cứ giữ, TP ~63k",
+      "gio": null,
+      "trich": "64.5 hả? 64.5 thì cũng không phải là đẹp lắm. Ờ tầm tạm thì cứ giữ cũng được. 65K1 [?] SL thì cứ TP của mình đang dự kiến khoảng tầm 63"
+    },
+    {
+      "lenh": "các vị thế đang có",
+      "quyet_dinh": "chot_mot_phan",
+      "khi_nao": "out entry xấu, giữ entry đẹp để dễ gồng",
+      "gio": null,
+      "trich": "những cái vị thế của chúng ta nếu nó xấu thì chúng ta cứ xử lý thôi. Out những entry xấu và giữ lại những entry đẹp để dễ gồng."
+    },
+    {
+      "lenh": "lệnh scalping trong ngày",
+      "quyet_dinh": "dong",
+      "khi_nao": "không ăn tham, ~1000 giá là to rồi",
+      "gio": null,
+      "trich": "Giai đoạn này thị trường nó sẽ khá là khó chịu bởi vì nó chạy cái khung nhỏ nó cứ lòng vòng lòng vòng, cho nên cũng không cần thiết phải ăn quá tham đâu. 1000 giá là cũng thuộc loại to rồi đó."
+    },
+    {
+      "lenh": "spot BTC dài hạn (DCA)",
+      "quyet_dinh": "giu",
+      "khi_nao": "đã DCA mua nhỏ hàng ngày 1-2 tháng; không bao giờ bán hết hay mua hết, cơ cấu ~90% hàng/10% tiền trong downtrend, ~15/85 trong uptrend",
+      "gio": null,
+      "trich": "Ví dụ nhá, vào downtrend chúng ta gom 90% hàng, 10% tiền. Và uptrend thì các bạn làm sao tối ưu để đưa về tầm khoảng 15% hàng và 85% tiền... tuyệt đối đừng có đưa các con số này về không... [Chốt buổi] Mình vẫn mua cách đây khoảng mấy tháng rồi, 1 – 2 tháng, DCA hàng ngày thôi."
+    },
+    {
+      "lenh": "tài khoản đang chuỗi thắng",
+      "quyet_dinh": "chot_mot_phan",
+      "khi_nao": "giảm vốn, giảm volume vì xác suất kéo về 50%",
+      "gio": null,
+      "trich": "Cách để thích ứng cái đó không phải là đừng trade nữa, mà là chúng ta vẫn trade nhưng giảm cái vốn, giảm volume xuống, để cho các cái lệnh thua nó có cái volume thấp hơn những cái lệnh thắng trước đó là xong."
+    }
+  ],
+  "tin_tuc": [
+    {
+      "su_kien": "FOMC meeting minutes",
+      "thoi_diem": "đêm 19/8 (rạng sáng 20/8)",
+      "nguon": "lich_kinh_te",
+      "so_lieu": null,
+      "anh_huong_view": "không quan tâm xấu hay tốt; giai đoạn đói tin thị trường dựa vào đó để đánh, tin chỉ hợp lý hóa đường giá",
+      "gio": null,
+      "trich": "FOMC đêm nay xấu hay tốt thì nói chung mình không quan tâm lắm. FOMC thực tế chẳng qua nó là một cái thời điểm ra tin thôi, và thị trường nó sẽ tận dụng cái tin để nó hợp lý hóa đường giá thôi."
+    },
+    {
+      "su_kien": "lịch tin cuối tháng 8 – tháng 9: PCE, GDP, CPI, lãi suất FED",
+      "thoi_diem": "tuần sau PCE/GDP; đầu tháng 9 CPI; cuối tháng 9 lãi suất",
+      "nguon": "lich_kinh_te",
+      "so_lieu": null,
+      "anh_huong_view": "kỳ vọng tích lũy rồi xả quanh CPI; ra lãi suất thì pump rồi đi ngang 5x tháng 9; nếu tăng trước CPI thì sau lãi suất giảm sâu hơn tháng 10-11",
+      "gio": null,
+      "trich": "Tuần sau là cuối tháng rồi: chuẩn bị có tin PCE với lại GDP, rồi đầu tháng sau lại là CPI, và đến cuối tháng 9 thì chúng ta lại có tin về lãi suất. Tất cả thị trường hiện tại ở đây nó sẽ dồn về cái tin lãi suất này."
+    },
+    {
+      "su_kien": "thanh lý lớn trên Hyperliquid",
+      "thoi_diem": "đêm 18/8",
+      "nguon": "khac",
+      "so_lieu": "23.4-24 triệu đô (short 64.3k thanh lý 65k)",
+      "anh_huong_view": "giải thích nhịp lên 65k là quét thanh lý, không phải tăng thật",
+      "gio": null,
+      "trich": "Chỉ có là cái khối lượng lên đến 24 triệu ở trên ngày hôm qua là một cái con số thực sự rất là kinh khủng. Điều đó nó cũng giải thích về cái câu chuyện là nó lên để nó quét thanh lý."
+    },
+    {
+      "su_kien": "Fear & Greed Index",
+      "thoi_diem": "19/8",
+      "nguon": "khac",
+      "so_lieu": "46 (trong downtrend ≈ 60-65 bình thường)",
+      "anh_huong_view": "thị trường đang kỳ vọng dù giá không tăng nhiều",
+      "gio": null,
+      "trich": "Fear and Greed hôm nay lên 46... 46 ở trong downtrend là một cái con số nó cũng tương đương với tầm khoảng 60 đến 65 ở bình thường... thì chứng tỏ là thị trường đang kỳ vọng."
+    },
+    {
+      "su_kien": "chứng khoán Mỹ gãy; dầu tăng",
+      "thoi_diem": "đêm 18/8",
+      "nguon": "khac",
+      "so_lieu": "Nasdaq 30.5k → 29.5k [?]",
+      "anh_huong_view": "cấu trúc sóng giảm; dầu tăng ảnh hưởng xấu vàng/bạc/BTC",
+      "gio": null,
+      "trich": "Chứng khoán Mỹ thì mình thấy là bắt đầu từ đêm ngày hôm qua bắt đầu gãy... Dầu thì vẫn duy trì được cái cấu trúc và tiếp tục muốn đẩy đi lên. Khi dầu đi lên thì những cái như là vàng bạc hay là Bitcoin thì nó ảnh hưởng như vậy là chuyện đương nhiên."
+    }
+  ],
+  "nghi_van_nhan_v2": null
+}

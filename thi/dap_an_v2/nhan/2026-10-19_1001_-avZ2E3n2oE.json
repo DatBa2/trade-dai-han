@@ -1,0 +1,49 @@
+{
+  "buoi": "2026-10-19_1001_-avZ2E3n2oE",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/lam_sach/2026-10-19_1001_-avZ2E3n2oE.md",
+  "gia_btc_luc_noi": 82000,
+  "dau_buoi": {
+    "thien_huong_h4": "TANG",
+    "gio": null,
+    "trich": "Mình đo thử Fibo mở rộng của đoạn này xem thử nó lên được đâu, lấy nền đáy ở đây thôi. Thì nó có thể lên được khoảng độ 84 và 86. Trong đó vùng 84 này là vùng dễ nhá, có vẻ là dễ lên đến 84 trong ngày hôm nay. Và lên đó thì nó phá luôn cái trendline lúc nãy mình nói."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "TANG",
+    "do_chac": "thap",
+    "gio": null,
+    "trich": "H1 xấu, M5 thì tạm đẹp nhưng chưa đủ lực, chưa đủ thuyết phục. H4 thì chưa qua được trendline. Nhìn chung đoạn này mà nhảy vào long thì cũng hơi liều, còn liều có ăn nhiều được hay không thì mình chưa biết. Còn phương án an toàn thì vẫn tiếp tục ngồi chờ xem, chờ nó điều chỉnh khoảng độ 1000 giá gì đó rồi tính."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {"huong": "GIAM", "dich": null},
+  "duong_di": [
+    {"huong": "TANG", "dich": 84000},
+    {"huong": "TANG", "dich": 86000}
+  ],
+  "dich_chinh": [84000, 86000],
+  "han_gio": null,
+  "vo_hieu": {
+    "gia": 80000,
+    "khung": "H4",
+    "so_nen": 1,
+    "chieu": "dong_duoi",
+    "cau": "Kiểu tam giác hẹp này thì vẫn có một sự rủi ro nhất định nữa nhá: đỉnh thấp dần, đáy bằng... một khi nó đã phá vùng hỗ trợ 80.000 này thì nó sẽ tuột rất là nhanh. Cho nên làm gì thì làm phải để ý đến vùng 80 này nhá."
+  },
+  "lenh": [],
+  "hanh_dong": "dung_ngoai_cho_entry",
+  "khung_lon": {"D1": "TANG", "W1": "TANG"},
+  "pha_vo_gia": "Đêm qua có fakeout (quét về 80 rồi bật lên 82), hiện tại 'Fake thì hiện tại không có'. Cảnh báo: giá đi lên khi nến H4 chưa đóng cửa vượt trendline thì đừng vội tin, 'có thể sau đó nó tạo cái râu rồi quay xuống'; nến ngày thứ hai thiếu uy tín.",
+  "trich_them": [
+    {"gio": null, "cau": "Giữ 80 tốt, quét phát nữa. Hiện tại ở đây rõ ràng là nó đang giữ cực kỳ tốt, quanh vùng Fibo này... bốn lần test 80, và cứ test 80 là bật."},
+    {"gio": null, "cau": "Đối với nền giá cứ chạy cấu trúc như thế này thì chúng ta tuyệt đối hiện tại là chưa nên sale. Tất cả các dữ liệu thể hiện là không nên sale, không có lý do gì để sale ở thời điểm bây giờ hết."},
+    {"gio": null, "cau": "Break có nghĩa là nến H4 phải đóng cửa vượt qua khỏi trendline. Còn một vài lúc nó chưa đóng cửa mà vẫn đi lên thì các bạn đừng vội tin, có thể sau đó nó tạo cái râu rồi quay xuống."},
+    {"gio": null, "cau": "Đối với khung tuần, nó giữ được ở đây thì vùng target của chúng ta là 90 và 93... Khung tuần thì xu hướng là xu hướng tăng."},
+    {"gio": null, "cau": "Giữ được thì vẫn tiếp tục có xu hướng đi lên. Tệ thì cũng test lại vùng 87 [?] này. Xu hướng khung ngày vẫn là xu hướng tăng."},
+    {"gio": null, "cau": "Tóm lại là bây giờ chưa nên sale, nên chờ. Một là chờ confirm break ra, hai là chờ xem nó có fake hay gì thì tính. Có trendline đó. Vùng 80 là vùng hỗ trợ cứng rất tốt nhá."},
+    {"gio": null, "cau": "Check lại Bitcoin xíu: Bitcoin đóng H4 xanh rồi nhưng mà vẫn không qua được trendline ở đây nhá."},
+    {"gio": null, "cau": "Đóng cặp H1 khá là xấu đấy. H1 này để xem RSI thế nào: RSI cũng cao quá rồi. Đoạn này không nên long FOMO nữa."},
+    {"gio": null, "cau": "Đợi thì được, nhưng mà về đó thì thoải mái. Về đó cứ chờ nến thôi, không limit chờ đây. Ví dụ nó về đây thấy nến đẹp thì chúng ta tính."},
+    {"gio": null, "cau": "RSI 50 đang có vẻ giữ được vùng này, khả năng là vẫn đang muốn đi lên tiếp... Đám đỏ này, nó không bị quét đi thì chưa sập ngay được đâu."}
+  ],
+  "kho": "File không có mốc giờ. Nghiêng lên rõ ở đầu buổi (không sale, Fibo mở rộng 84/86, D1–W1 tăng), nhưng cuối buổi H4 xanh vẫn chưa qua trendline, H1 xấu, người nói gọi là 'sideway tam giác hẹp' và chờ điều chỉnh ~1000 giá mới tính long → TANG độ chắc thấp, sát ranh PHAN_VAN. Chặng điều chỉnh '1000 giá' không có mốc số. Mốc vô hiệu 80.000 không nói rõ khung/số nến nên ghi H4, 1."
+}

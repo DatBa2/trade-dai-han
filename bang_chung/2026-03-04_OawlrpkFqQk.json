@@ -1,0 +1,292 @@
+[
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[0].trich",
+  "trich": "Xu hướng hiện tại vẫn ưu tiên long nhưng hãy thận trọng ở vùng 67 này, hiện tại mình nghĩ không nên short.",
+  "giay": 1902,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=OawlrpkFqQk&t=1902s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[1].trich",
+  "trich": "Thị trường đến vùng này mình nghĩ sẽ phải có những nhịp hồi trong vài tuần tới rồi sau đó nó mới gãy tiếp được.",
+  "giay": 3733,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=OawlrpkFqQk&t=3733s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "lenh[0].trich",
+  "trich": "Long limit 665, TP1 và TP2 TP3: TP1 69, TP2 70, TP3 71, TP4 75.",
+  "giay": 2323,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=OawlrpkFqQk&t=2323s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "lenh[1].trich",
+  "trich": "Bây giờ mình vẫn đang cầm vị thế long từ hôm qua, cho anh em chốt TP1. Nếu thủng vùng này chúng ta out.",
+  "giay": 1884,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=OawlrpkFqQk&t=1884s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[0].trich",
+  "trich": "Vùng này nó đang đi kênh giá. Phá qua được chỗ này thì mình nghĩ là sẽ lên 70.000",
+  "giay": 357,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=OawlrpkFqQk&t=357s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[1].trich",
+  "trich": "target là 71... Nếu H4 đóng xuyên qua được 71 trong một cây nến thì khả năng 90% là nó sẽ kéo luôn lên 75",
+  "giay": 375,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=OawlrpkFqQk&t=375s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[2].trich",
+  "trich": "khả năng 90% là nó sẽ kéo luôn lên 75 trong một nhịp",
+  "giay": 386,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=OawlrpkFqQk&t=386s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[3].trich",
+  "trich": "nhịp thứ ba ngày hôm qua cũng là 0.5, 618... vừa khẽ chạm vùng 6600 là bật lên luôn",
+  "giay": 903,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=OawlrpkFqQk&t=903s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[4].trich",
+  "trich": "Râu 62 thì về test, râu 60 thì về test 62, về test 63; ví dụ 66 về test 67",
+  "giay": 1675,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=OawlrpkFqQk&t=1675s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[5].trich",
+  "trich": "tạo nền giá ở vùng từ 63 cho đến 69. Vùng này hiện sẽ trở thành vùng hỗ trợ",
+  "giay": 1744,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=OawlrpkFqQk&t=1744s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[6].trich",
+  "trich": "các cột mốc target như mình nói hôm trước: vùng 70 đến 71 và vùng 75",
+  "giay": 1761,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=OawlrpkFqQk&t=1761s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[7].trich",
+  "trich": "vùng 70 đến 71 và vùng 75",
+  "giay": 1765,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=OawlrpkFqQk&t=1765s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[8].trich",
+  "trich": "bất kỳ cây nến H4 nào đóng cửa thấp hơn vùng 67.000 thì gần như là xu hướng tăng này là thất bại",
+  "giay": 1810,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=OawlrpkFqQk&t=1810s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[9].trich",
+  "trich": "nếu H1 thủng khỏi 66.000 năm thì cũng nên té (66.500)",
+  "giay": 1973,
+  "do_giong": 0.923,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=OawlrpkFqQk&t=1973s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[10].trich",
+  "trich": "Fibo mở rộng cho chúng ta đi về sau 2005, 6200 (62.000)",
+  "giay": 1953,
+  "do_giong": 0.846,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=OawlrpkFqQk&t=1953s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[11].trich",
+  "trich": "rủi ro thứ nhất là vùng 68.000 không giữ được, không thể vượt qua được... Ba đỉnh, bốn đỉnh liên tục không vượt qua",
+  "giay": 2015,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=OawlrpkFqQk&t=2015s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[12].trich",
+  "trich": "vẫn là gap ở 80.000 và 93.000, nhưng trước mắt chúng ta view ở 80 trước",
+  "giay": 2086,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=OawlrpkFqQk&t=2086s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[13].trich",
+  "trich": "gap ở 80.000 và 93.000",
+  "giay": 2087,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=OawlrpkFqQk&t=2087s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[14].trich",
+  "trich": "nó quét về 67 này rồi lại lên lại 69 thì cũng bình thường... Thanh lý ở 67",
+  "giay": 2105,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=OawlrpkFqQk&t=2105s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[15].trich",
+  "trich": "nó đấm xuyên qua về 66.000 năm rồi mới rút lên",
+  "giay": 2216,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=OawlrpkFqQk&t=2216s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[16].trich",
+  "trich": "Long limit 665",
+  "giay": null,
+  "do_giong": 0.0,
+  "nguon_gio": "khong_tim_thay",
+  "url": null,
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[17].trich",
+  "trich": "TP1 69, TP2 70, TP3 71, TP4 75",
+  "giay": 2330,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=OawlrpkFqQk&t=2330s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[18].trich",
+  "trich": "TP2 70",
+  "giay": null,
+  "do_giong": 0.0,
+  "nguon_gio": "khong_tim_thay",
+  "url": null,
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[19].trich",
+  "trich": "TP3 71",
+  "giay": null,
+  "do_giong": 0.0,
+  "nguon_gio": "khong_tim_thay",
+  "url": null,
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[20].trich",
+  "trich": "TP4 75",
+  "giay": null,
+  "do_giong": 0.0,
+  "nguon_gio": "khong_tim_thay",
+  "url": null,
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[21].trich",
+  "trich": "nếu nó quét short thì nó lên trước 69",
+  "giay": 3873,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=OawlrpkFqQk&t=3873s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[22].trich",
+  "trich": "lệnh sell của mình ở vùng 124 (đỉnh 126)",
+  "giay": 3433,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=OawlrpkFqQk&t=3433s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[23].trich",
+  "trich": "10% này mình sẽ giữ... có thể là 40.000 hoặc 20.000",
+  "giay": 3460,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=OawlrpkFqQk&t=3460s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[24].trich",
+  "trich": "có thể là 40.000 hoặc 20.000 gì đó",
+  "giay": 3460,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=OawlrpkFqQk&t=3460s",
+  "anh": []
+ }
+]

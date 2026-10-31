@@ -1,0 +1,81 @@
+{
+ "buoi": "2026-09-16_1008_31jXsidP5KE",
+ "ngay": "2026-09-16",
+ "gio_vn": "10:08",
+ "gia_btc_luc_noi": 75818,
+ "nhan_dinh": [
+  {
+   "khung": "H4",
+   "huong": "GIAM",
+   "do_chac": "vua",
+   "dich": [73000, 74200],
+   "han": "2-3 ngày, tính qua FOMC rạng sáng thứ Năm 17/09",
+   "han_gio": 72,
+   "vo_hieu_khi": "H4 đóng trên 77.900 (lấy lại dải EMA34 H4 + EMA89 H4 + Fibo 0.618 nhịp 79.6→74.96)",
+   "kich_ban_phu": "quanh tin Fed có thể đạp rồi kéo lên 76.7-77.3 test lại vùng gãy trước, sau đó mới về 74-73",
+   "duong_di": [{"huong": "TANG", "dich": 76900}, {"huong": "GIAM", "dich": 74200}, {"huong": "GIAM", "dich": 73200}],
+   "doi_y": null,
+   "ly_do": [
+    "đích cũ 76-77 đã chạm và hỗ trợ cứng 76 đã gãy: nến ngày 15/09 đỏ -3.3% đóng 75.64, hai cây H4 liên tiếp đóng dưới 76",
+    "người đó đã nói thủng 76 thì về 75, 73, 72 từng vùng — 75 đã chạm (74.956), vùng kế tiếp 73-74",
+    "H4 dưới EMA34 và EMA89, EMA34 đã nằm dưới EMA89; đỉnh hạ thấp 79.9 → 79.6",
+    "vĩ mô xấu: xác suất Fed tăng lãi suất ~89%, dầu +4.4% lên 105.8, USDT.D ngóc lên 7.12%"
+   ],
+   "trich": null
+  },
+  {
+   "khung": "D1",
+   "huong": "GIAM",
+   "do_chac": "vua",
+   "dich": [72000, 73000],
+   "han": "khoảng 1 tuần",
+   "han_gio": 168,
+   "vo_hieu_khi": "nến ngày đóng trở lại trên 77.300 (quay về biên 76-82, cú gãy 76 thành phá giả)",
+   "kich_ban_phu": "Fed tăng lãi suất thì tác động kéo dài, có thể về 69 / 6x",
+   "duong_di": [{"huong": "GIAM", "dich": 74000}, {"huong": "GIAM", "dich": 72500}],
+   "doi_y": null,
+   "ly_do": [
+    "nến ngày đóng thủng biên dưới 76 của vùng sideway 76-82 → hết PHÂN VÂN, chọn phe giảm",
+    "72-73 hội tụ: EMA200 D1 73.1 + Fibo 0.5 sóng 64.0→82.3 (73.16) + mốc 72-73 người đó nêu nhiều buổi + MA tuần 74",
+    "RSI D1 về 48, đỉnh thấp dần, hai đỉnh 81.5/82.3 + phân kỳ"
+   ],
+   "trich": null
+  },
+  {
+   "khung": "W1",
+   "huong": "GIAM",
+   "do_chac": "vua",
+   "dich": [72000, 74000],
+   "han": "1-2 tuần",
+   "han_gio": 336,
+   "vo_hieu_khi": "nến tuần đóng trên 83.000",
+   "kich_ban_phu": "Fed tăng lãi suất thì tuần sau còn về 69 / 6x",
+   "duong_di": null,
+   "doi_y": null,
+   "ly_do": [
+    "tuần trước đóng đỏ -4.4%, tuần này đang đỏ tiếp, râu trên 3.6% bị từ chối ở 79.6",
+    "giá đã vào trong dải EMA34 tuần, dưới EMA89 tuần; hỗ trợ tuần kế tiếp EMA34 tuần ~74.4 rồi 72-73",
+    "chu kỳ 4 năm vẫn downtrend"
+   ],
+   "trich": null
+  }
+ ],
+ "vung_gia": {"khang_cu": [76100, 76900, 77300, 77900], "ho_tro": [75300, 74950, 74200, 73100]},
+ "lenh": [
+  {"chieu": "SHORT", "loai": "limit", "vao": 77050, "tp": [75200, 74300], "sl": 78000, "trang_thai": "de_xuat_moi"}
+ ],
+ "hanh_dong": "dung_ngoai_cho_entry",
+ "giu_view": true,
+ "ly_do_doi_view": "Giữ hướng GIẢM của H4/W1 buổi 15/09. Đích cũ 76-77 đã chạm (b) nên dời đích xuống 74-73. D1 đổi từ PHÂN VÂN sang GIẢM vì (a) nến ngày 15/09 đóng thủng 76 — đúng mốc người đó đặt ('thủng 76 thì về 75, 73, 72 từng vùng').",
+ "rau": {
+  "tren": "gần nhất 76.115 (H4 16/09 07:00); râu lớn hơn 77.349 (H4 15/09 23:00, râu trên 1.1%)",
+  "duoi": "74.956 (H4 15/09 23:00, râu dưới 1.6%) và 75.130 (H4 16/09 03:00)",
+  "test_lai": "Râu trên 77.35 CÓ — trùng Fibo 0.5 nhịp 79.6→74.96 (77.28) + dải EMA34 H4 76.9-77.8 + hỗ trợ 76-77 vừa gãy đổi vai + cụm thanh lý 77 (R2), đây là chặng 1 quanh tin Fed. Râu dưới 74.956 CÓ ở chặng 2 — râu mới chọc thủng số tròn 75 chưa test lại, phe long vừa bắt đáy đặt SL ngay dưới (R3), cùng hướng chính."
+ },
+ "vung_on": [
+  {"loai": "SHORT", "khoang": [76700, 77400], "ly_do": ["Fibo 0.382-0.5 nhịp 79.600→74.956 (76.73/77.28)", "dải EMA34 H4 76.94-77.83", "hỗ trợ 76-77 vừa gãy đổi vai thành cản", "cụm thanh lý long 77-77.2 người đó nêu + râu 77.35"]},
+  {"loai": "LONG", "khoang": [73000, 74200], "ly_do": ["EMA200 D1 73.1", "Fibo 0.5 sóng D1 64.0→82.3 (73.16)", "dải EMA34 D1 dưới 74.15 + MA34 tuần ~74.4", "vùng 72-74 người đó nêu nhiều buổi"]}
+ ],
+ "pha_vo_gia": "Cú thủng 76 là THẬT: nến ngày đóng 75.64 dưới 76, hai cây H4 liên tiếp đóng dưới 76, mốc đã bị test nhiều lần mới vỡ. Còn cú chọc 74.956 dưới 75 là quét: chỉ râu (G1), xảy ra phiên Mỹ 23h (G9), đóng lại trên EMA200 H4 → chưa tính thủng 75, nó có nhịp hồi test lại 77 rồi mới đi tiếp.",
+ "loi_binh": "Hôm nay thứ Tư anh em, 76 gãy rồi — nến ngày đóng dưới 76, mình nói rồi, thủng 76 thì về 75, 73, 72 từng vùng chứ không sập một phát. 75 đã chạm, giờ giá đang ngồi trên MA200 H4, short tầm này là đâm vào tường. Đêm nay có Fed, anh em đừng giữ lệnh qua tin; sau tin nó kéo lên 76.7-77.3 test lại vùng gãy thì mình tìm sale, về 74 rồi 73 là chốt. Thà rớt nước miếng còn hơn lau nước mắt."
+}

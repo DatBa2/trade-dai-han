@@ -1,0 +1,98 @@
+{
+  "buoi": "2026-01-07_NOBgwE4Gdko",
+  "ngay": "2026-01-07",
+  "gio_vn": "10:00",
+  "gia_btc_luc_noi": 92000,
+  "nhan_dinh": [
+    {
+      "khung": "H4",
+      "huong": "TANG",
+      "do_chac": "thap",
+      "dich": [98000, 100000],
+      "han": "chưa nói; hôm nay điều chỉnh quét long trước, tối mới lên",
+      "han_gio": null,
+      "vo_hieu_khi": "thủng 91.000 thì về 88.000 (gap 87-88)",
+      "kich_ban_phu": "thủng 91 thì về 88 rồi mới tính; không chắc về 91 là lên; không loại trừ không test gap mà lên luôn",
+      "ly_do": [
+        "H4 đẹp, MA xếp chồng, lực tăng khả năng vẫn còn nhưng phải chờ điều chỉnh mới long",
+        "kỳ vọng nhịp này 98-100K, tối đa 106-108 theo Fibo, không vút lên liền",
+        "nhưng trước đó râu nến ngày 91 + vùng thanh lý 91 + Fibo 0.5 ở 91 nên kiểu gì cũng về test 91 trước"
+      ],
+      "trich": "Kỳ vọng của mình ở nhịp này là 98.000 cho đến 100.000, nhưng không phải nó vút một cái lên liền.",
+      "doi_y": null,
+      "duong_di": [
+        {"huong": "GIAM", "dich": 91000},
+        {"huong": "TANG", "dich": [98000, 100000]}
+      ]
+    },
+    {
+      "khung": "chung",
+      "huong": "GIAM",
+      "do_chac": "thap",
+      "dich": [91000, 91300],
+      "han": "trong ngày (sáng/chiều hay điều chỉnh)",
+      "han_gio": 24,
+      "vo_hieu_khi": "SL lệnh short 93.000",
+      "kich_ban_phu": "30 phút sideway nhập nhằng, biên hẹp dần, chưa đủ điều kiện long",
+      "ly_do": [
+        "nến ngày rút chân lên nên rất cao sẽ về test lại râu 91 hoặc thấp hơn",
+        "vàng bạc gãy MA đi xuống thì crypto cũng đi theo",
+        "Mỹ bán Bitcoin, tin thứ sáu; Altcoin yếu"
+      ],
+      "trich": "Nến ngày như này thì khả năng test lại cái râu này rất cao, cực kỳ cao. Test cái râu này hoặc thậm chí thấp hơn.",
+      "doi_y": "đầu buổi chưa long vì chờ về 91; cuối buổi vào short nhỏ 'cho vui' TP 91.3K",
+      "duong_di": null
+    },
+    {
+      "khung": "D1",
+      "huong": "GIAM",
+      "do_chac": "vua",
+      "dich": [106000, 108000],
+      "han": "cuối 2026 đến giữa 2027 tạo đáy (cuối 2027 thì không)",
+      "han_gio": null,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": "hy vọng lên 100 để mở thêm vị thế short; tối đa nhịp hồi 106-108 theo Fibo; kế hoạch mua spot 40-20K (giảm 70-85% từ đỉnh)",
+      "ly_do": [
+        "những nhịp tăng hiện tại chỉ là sóng hồi trong downtrend",
+        "lịch sử các chu kỳ giảm 70-85% từ đỉnh"
+      ],
+      "trich": "Những nhịp tăng hiện tại tất cả chỉ là sóng hồi thôi. Sóng hồi trong downtrend thôi. Hy vọng nó sẽ lên được 100 để mình mở thêm các vị thế short.",
+      "doi_y": null,
+      "duong_di": null
+    }
+  ],
+  "vung_gia": {"khang_cu": [93000, 94000, 98000], "ho_tro": [91000, 88000]},
+  "lenh": [
+    {"chieu": "SHORT", "loai": "market vốn nhỏ", "vao": 93000, "tp": [91300], "sl": null,
+     "trang_thai": "de_xuat_moi",
+     "trich": "Đang trống lệnh thì làm tí short ngắn đoạn này. ... TP thả về 91k3, SL ở trên này."},
+    {"chieu": "LONG", "loai": "chờ phản ứng tại 91", "vao": 91000, "tp": null, "sl": null,
+     "trang_thai": "de_xuat_moi",
+     "trich": "Plan trước mắt là sẽ về 91 để xem nếu nó có về 91 thì chúng ta sẽ quan sát phản ứng."}
+  ],
+  "nhin_lai_truoc": "Hôm qua view về 91 đã đúng: đêm qua giá về test gap 91 (H4). Hôm qua TP lệnh short khoảng 4:30 chiều về 93.000 rồi tối giá quay lên; các lệnh long đã khuyến khích chốt; bán hết ETH lướt ở 3300, bán bạc ở 79.",
+  "cong_cu": ["gap CME 91/90/88/87", "Fibo 0.5/0.618", "H4", "M30", "M5", "volume", "MA", "Liquid heatmap", "BTC.D", "USDT.D", "Fear & Greed 42-44"],
+  "tin_tuc": [
+    {"tin": "Non-farm tối nay (22:00) và việc làm", "danh_gia": "quan trọng hơn cả lãi suất với vàng, vàng có thể chạy 50 giá; tránh biến động ngắn hạn"},
+    {"tin": "Thông tin Mỹ bán Bitcoin, thứ sáu có tin lớn", "danh_gia": "thận trọng"}
+  ],
+  "thoi_quen": [
+    "nắm khung giờ: sáng 9-10h chạy loạn, chiều 13-16h điều chỉnh chậm, tối Mỹ quét 2 đầu rồi sóng chính 23h-4h",
+    "lướt thì ăn sớm té sớm, limit TP theo Fibo, không chuyển từ lướt sang gồng, không gồng lỗ",
+    "trung bình 3 lệnh/ngày, tối đa 6-8, không bao giờ 20-30 lệnh",
+    "chờ volume/cây nến xác nhận tại vùng hỗ trợ, không long ngay khi chạm 91",
+    "lấp gap là lấp xong, lấp một phần không có giá trị",
+    "theo Fear & Greed 42-44 thì không nhập thêm hàng"
+  ],
+  "cau_cua_mieng": [
+    "Thị trường nó sẽ nuôi cho anh em quên đi đó.",
+    "Cơ hội mà rõ ràng quá thì cũng dễ bị lừa là vì thế.",
+    "Thắng là thắng mà thua là thua. Lãi là lãi mà lỗ là lỗ."
+  ],
+  "altcoin": [
+    {"coin": "altcoin chung", "huong": "GIAM", "ghi": "BTC.D và USDT.D đang ngóc lên, chưa long altcoin hôm nay; altcoin season index 43; altcoin hôm nay yếu, có thể short"},
+    {"coin": "ETH", "huong": "GIAM", "ghi": "BTC về 87-88K thì ETH về đầu 3000; đã bán hết hàng lướt ở 3300"},
+    {"coin": "ASTER", "huong": "GIAM", "ghi": "đang short 0.46-0.47"}
+  ],
+  "ghi_chu": "Giờ 10:00 là giả định. Có câu '76.000' trong transcript (MA xanh H4) nghi nhận dạng sai nên không ghi vào số liệu."
+}

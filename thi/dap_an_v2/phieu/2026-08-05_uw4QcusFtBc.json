@@ -1,0 +1,121 @@
+{
+ "buoi": "2026-08-05_uw4QcusFtBc",
+ "ngay": "2026-08-05",
+ "gio_vn": "10:00",
+ "gia_btc_luc_noi": 64000,
+ "nhan_dinh": [
+  {
+   "khung": "H4",
+   "huong": "GIAM",
+   "do_chac": "vua",
+   "dich": 60000,
+   "han": null,
+   "han_gio": null,
+   "vo_hieu_khi": "nến H4 đóng trên 65.000",
+   "vo_hieu_cau_truc": {
+    "gia": 65000,
+    "khung": "H4",
+    "so_nen": 1,
+    "chieu": "dong_tren",
+    "cau": "Nó phải đóng nến trên 65.000 thì mình mới đánh lên."
+   },
+   "kich_ban_phu": null,
+   "duong_di": [
+    {
+     "huong": "GIAM",
+     "dich": 63000
+    },
+    {
+     "huong": "GIAM",
+     "dich": 60000
+    }
+   ],
+   "doi_y": null,
+   "ly_do": [],
+   "trich": "Như hôm qua mình nói plan nó vẫn giữ nguyên là gì? Nó phải đóng nến trên 65.000 thì mình mới đánh lên. Còn nếu không ở đây thì mình vẫn tiếp tục view nó về 60.000, không thay đổi gì hết ... Fibo hiện tại đang hồi lên vùng 0.5 thì xác suất là gãy về tiếp vùng 1.618 rất cao. Hết chuyện.",
+   "nhan_v1": "GIAM"
+  }
+ ],
+ "vung_gia": {
+  "khang_cu": [
+   64000,
+   65000
+  ],
+  "ho_tro": [
+   60000,
+   63000
+  ]
+ },
+ "lenh": [
+  {
+   "chieu": "SHORT",
+   "vao": 64000,
+   "tp": [
+    60000
+   ],
+   "sl": 65000,
+   "trang_thai": "dang_giu"
+  }
+ ],
+ "nhin_lai_truoc": "Hôm qua entry sell 64.000 (liquid 64.000 + trendline) đã chạm đúng, anh em bắt 64.500 sáng nay về 63.900 TP được một đoạn; lệnh short 124.000 chốt được rất nhiều (77%).",
+ "cong_cu": [
+  "H4",
+  "H1",
+  "M30",
+  "D1",
+  "Fibo 0.5/1.618",
+  "trendline",
+  "heatmap liquidation",
+  "USDT.D",
+  "BTC.D",
+  "Fear and Greed",
+  "chu kỳ 2022"
+ ],
+ "tin_tuc": [
+  {
+   "tin": "Mỹ can thiệp ổn định đồng yên, dầu gãy, vàng bạc phục hồi; CPI tuần sau",
+   "danh_gia": "thị trường phiên Á được đẩy do FOMO, không bền"
+  }
+ ],
+ "thoi_quen": [
+  "chỉ đánh thuận xu hướng lớn, không đánh lên khi chưa đóng trên 65.000",
+  "đề cao rủi ro hơn lợi nhuận (không chơi lời 5 lỗ 4 xác suất 50/50)",
+  "không FOMO, không kéo anh em dồn short quá",
+  "cắt lệnh khi vượt vùng SL để reset tâm lý, vào lại sau",
+  "spot: DCA đều mỗi ngày; phá đỉnh thì chốt tối thiểu 30% hàng",
+  "mọi lệnh phải kèm SL"
+ ],
+ "cau_cua_mieng": [
+  "Chơi thì phải chịu mà yếu thì đừng chơi.",
+  "Thị trường này đơn giản, chỉ có kiểm soát chính mình mới khó."
+ ],
+ "altcoin": [
+  {
+   "coin": "BTC.D",
+   "huong": "TANG",
+   "ghi": "cố kéo đi lên nhưng DOM lên thì altcoin oẳng"
+  },
+  {
+   "coin": "USDT.D",
+   "huong": "GIAM",
+   "ghi": "đang ở trendline, gặp cản bật xuống tương tự BTC; chưa chắc"
+  },
+  {
+   "coin": "ETH",
+   "huong": "GIAM",
+   "ghi": "về 1000 là giá ngon, hơi khó về dưới 1000"
+  }
+ ],
+ "ghi_chu": "gio_vn mặc định 10:00. '65.003 13500' mơ hồ, hiểu cắt trên khoảng 65.000-65.500. Phần vàng, dầu, yên, chứng khoán, lời khuyên tài chính cá nhân bỏ qua.",
+ "hanh_dong": "giu_lenh",
+ "chang_ke_tiep": {
+  "huong": "GIAM",
+  "dich": 60000
+ },
+ "khung_lon_v2": {
+  "D1": "PHAN_VAN",
+  "W1": "GIAM"
+ },
+ "pha_vo_gia": "Cú quét lên 64.000 (vùng liquid + trendline cản) được coi là pha quét; thị trường downtrend 'pump một phát ... kill' hai đầu. Có thể quét liquid dưới trước rồi mới pump nếu muốn break lên.",
+ "nguon_nhan": "dap_an_v2 (Opus 5.5 rút mù 31/10)"
+}

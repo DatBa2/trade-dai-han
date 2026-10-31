@@ -1,0 +1,62 @@
+{
+ "von": 4000.0,
+ "ghi_chu": "user yêu cầu x2 khối lượng (rủi ro BTC 4%, ETH 2%) + vốn 4.000$",
+ "lenh": [
+  {
+   "ten": "BTC SHORT",
+   "chieu": "SHORT",
+   "vao": [
+    78450,
+    78750
+   ],
+   "moi_tang": 0.07619,
+   "gia_tb": 78600.0,
+   "sl": 79650,
+   "sl_pct": 1.34,
+   "don_bay": 20,
+   "rui_ro_usd": 160,
+   "gia_tri_usd": 11977,
+   "ky_quy_usd": 599,
+   "ky_quy_pct": 15.0,
+   "so_luong": 0.15238,
+   "tp": [
+    76250,
+    75200
+   ],
+   "lai_tp1": 179,
+   "lai_tp2": 259,
+   "lai_tong": 426,
+   "tp1_roi_hoa": 167,
+   "lo_sl": -172,
+   "R": 2.66
+  },
+  {
+   "ten": "ETH SHORT",
+   "chieu": "SHORT",
+   "vao": [
+    2290,
+    2305
+   ],
+   "moi_tang": 0.64,
+   "gia_tb": 2297.5,
+   "sl": 2360,
+   "sl_pct": 2.72,
+   "don_bay": 20,
+   "rui_ro_usd": 80,
+   "gia_tri_usd": 2941,
+   "ky_quy_usd": 147,
+   "ky_quy_pct": 3.7,
+   "so_luong": 1.28,
+   "tp": [
+    2185,
+    2120
+   ],
+   "lai_tp1": 72,
+   "lai_tp2": 114,
+   "lai_tong": 183,
+   "tp1_roi_hoa": 69,
+   "lo_sl": -83,
+   "R": 2.28
+  }
+ ]
+}

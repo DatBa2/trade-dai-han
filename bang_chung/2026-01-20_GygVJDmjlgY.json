@@ -1,0 +1,212 @@
+[
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[0].trich",
+  "trich": "mình nghĩ là từ giờ đến chiều nó sẽ rơi về dưới này. ... Trước mắt là đối với lệnh short thì mình sẽ TP ở quanh 9100.",
+  "giay": 421,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=GygVJDmjlgY&t=421s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "nhan_dinh[1].trich",
+  "trich": "Nếu hôm nay chỉ cần giá đóng nến D1, đóng nến ngày mà thủng ở 90 thì mình tin chắc rằng chúng ta sẽ thấy cái vùng giá 87 và 88.",
+  "giay": 237,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=GygVJDmjlgY&t=237s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "lenh[0].trich",
+  "trich": "Mình vẫn đang giữ lệnh short về dưới này rồi mình chốt. ... 91.600 chốt, 91.700 chốt lãi được.",
+  "giay": 1754,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=GygVJDmjlgY&t=1754s",
+  "anh": []
+ },
+ {
+  "nguon": "phieu",
+  "truong": "lenh[1].trich",
+  "trich": "Short swing thì mình muốn đánh ở vùng từ khoảng 98 trở lên ... từ 98 cho đến khoảng 105.",
+  "giay": 1536,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=GygVJDmjlgY&t=1536s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[0].trich",
+  "trich": "Có một cái gap nhỏ 30 phút ở vùng 93.000",
+  "giay": 137,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=GygVJDmjlgY&t=137s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[1].trich",
+  "trich": "cùng lắm lên được 94 rồi là về xuống",
+  "giay": 162,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=GygVJDmjlgY&t=162s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[2].trich",
+  "trich": "nếu ngày hôm nay nó đóng lại một cái nến xanh... comeback lại ở trên cái đường này thì may ra mới còn tí hy vọng là lên lại cái vùng 98 100",
+  "giay": 206,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=GygVJDmjlgY&t=206s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[3].trich",
+  "trich": "nếu nó đóng thêm một cây nến thủng cái vùng 90 này thì gần như là 88.000 hoặc 87.000 là chắc",
+  "giay": 229,
+  "do_giong": 0.957,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=GygVJDmjlgY&t=229s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[4].trich",
+  "trich": "Nếu hôm nay giá đóng nến D1 mà thủng ở 90 thì... chúng ta sẽ thấy cái vùng giá 87 và 88",
+  "giay": 237,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=GygVJDmjlgY&t=237s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[5].trich",
+  "trich": "đây là cái đáy gần nhất là 92.003",
+  "giay": 444,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=GygVJDmjlgY&t=444s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[6].trich",
+  "trich": "Cái đỉnh gần nhất là 93.00",
+  "giay": 446,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=GygVJDmjlgY&t=446s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[7].trich",
+  "trich": "Nếu cái vùng này nó break phá ra khỏi 90 thì thậm chí là về bảy mấy cũng có",
+  "giay": 518,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=GygVJDmjlgY&t=518s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[8].trich",
+  "trich": "xa hơn nữa chúng ta có gap ở 88.000",
+  "giay": 592,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=GygVJDmjlgY&t=592s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[9].trich",
+  "trich": "xa hơn nữa thì chúng ta có gap ở 22.000",
+  "giay": 596,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=GygVJDmjlgY&t=596s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[10].trich",
+  "trich": "Vùng 93.00 này. Dưới này có một cái ở 91.00",
+  "giay": 707,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=GygVJDmjlgY&t=707s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[11].trich",
+  "trich": "có thể là chờ TP ở đó 91.00, vùng đó là một vùng TP, 91.600 là được rồi",
+  "giay": 718,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=GygVJDmjlgY&t=718s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[12].trich",
+  "trich": "Về 9100 mà quét dưới cái râu này, nếu có lực bật lên thì có thể là cân nhắc vào long ăn sóng hồi",
+  "giay": 726,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=GygVJDmjlgY&t=726s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[13].trich",
+  "trich": "chờ nó lên đến cái 2 3213 này. Chờ nó test lại cái đường MA89 ở trên khung M15",
+  "giay": 1116,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=GygVJDmjlgY&t=1116s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[14].trich",
+  "trich": "Entry mình muốn đánh swing phải từ 98 cho đến khoảng 105 nếu short ngon",
+  "giay": 1554,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=GygVJDmjlgY&t=1554s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[15].trich",
+  "trich": "Về 91.600 chốt, 91.700 chốt lãi được",
+  "giay": 1569,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=GygVJDmjlgY&t=1569s",
+  "anh": []
+ },
+ {
+  "nguon": "moc",
+  "truong": "moc[16].trich",
+  "trich": "H1 này nó đóng... đóng ở đây xấu thì khả năng là 91k, 91k8",
+  "giay": 1689,
+  "do_giong": 1.0,
+  "nguon_gio": "zip_clean_noi_suy",
+  "url": "https://www.youtube.com/watch?v=GygVJDmjlgY&t=1689s",
+  "anh": []
+ }
+]

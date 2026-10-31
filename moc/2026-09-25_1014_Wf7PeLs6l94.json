@@ -1,0 +1,249 @@
+{
+  "buoi": "2026-09-25_1014_Wf7PeLs6l94",
+  "ngay": "2026-09-25",
+  "gia_btc_luc_noi": 84500,
+  "moc": [
+    {
+      "gia": 73000,
+      "gia_tren": 78000,
+      "vai_tro": "khac",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "max pain option Deribit đáo hạn 25/9",
+        "Coinglass"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": false,
+      "trich": "Max pain... khoảng 73.000 (ước tính, không chính xác), trên trang thì thể hiện loanh quanh 78.000. Nói chung max pain đang là 7x"
+    },
+    {
+      "gia": 83000,
+      "gia_tren": 83300,
+      "vai_tro": "tp",
+      "huong": "GIAM",
+      "khung": "H1",
+      "can_cu": [
+        "chốt lệnh short hôm qua"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": false,
+      "trich": "dự đoán đúng giảm về đâu đó khoảng 83 và chốt ở 83.300 gì đó [?]"
+    },
+    {
+      "gia": 82000,
+      "gia_tren": null,
+      "vai_tro": "tp",
+      "huong": "GIAM",
+      "khung": "H1",
+      "can_cu": [
+        "TP V2 hỗ trợ 82-83"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Mình chờ nó về TP V2 đến 82.000 nhưng không thành, hôm nay chờ tiếp"
+    },
+    {
+      "gia": 85300,
+      "gia_tren": null,
+      "vai_tro": "entry",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "quét thanh khoản trên",
+        "Fibo 0.5 đoạn hồi",
+        "cụm thanh lý / heatmap"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": false,
+      "trich": "Khả năng đoạn này dễ đi dụ sale, sau đó quét lên lại 85.300 [?] thì mới đẹp"
+    },
+    {
+      "gia": 82300,
+      "gia_tren": 82400,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "H1",
+      "can_cu": [
+        "râu dưới lấy thanh khoản"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "thị trường vẫn nên quét một cái râu đâu đó về 82.300, 82.400 gì đó là đẹp"
+    },
+    {
+      "gia": 82000,
+      "gia_tren": 83000,
+      "vai_tro": "ho_tro",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "hỗ trợ cũ, hôm qua bật lên từ 83"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "vùng hỗ trợ của chúng ta vẫn là 83 đến 82. Hôm qua nó về 83 này là bật lên"
+    },
+    {
+      "gia": 86000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "phải qua 86 rồi 87"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "đầu tiên phải qua được 86, phá được 87, rồi tiếp tục chinh phục 90"
+    },
+    {
+      "gia": 87000,
+      "gia_tren": null,
+      "vai_tro": "khang_cu",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "phải phá 87"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "phá được 87, rồi tiếp tục chinh phục 90"
+    },
+    {
+      "gia": 90000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": "D1",
+      "can_cu": [
+        "người nói cho là dụ 80% trader"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "chinh phục 90... 90, 93 gì đó, hoặc đang long, spot thì cũng chờ lên khoảng 90 thì chốt"
+    },
+    {
+      "gia": 85000,
+      "gia_tren": 86000,
+      "vai_tro": "khang_cu",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "kháng cự ngắn hạn, view đầu live"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "Kháng cự ngắn hạn: từ 85 đến 86. Lên đó sẽ gặp áp lực có khả năng bị bán xuống"
+    },
+    {
+      "gia": 82000,
+      "gia_tren": 82500,
+      "vai_tro": "ho_tro",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "hỗ trợ khi tụt dưới 84"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": false,
+      "trich": "nếu tụt xuống dưới 84 thì mình nghĩ sẽ về test đâu đó khoảng 82.500 [?] cho đến 82.000"
+    },
+    {
+      "gia": 80000,
+      "gia_tren": null,
+      "vai_tro": "vo_hieu",
+      "huong": "TANG",
+      "khung": "H4",
+      "can_cu": [
+        "thủng hỗ trợ 82-83"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "nếu thủng hỗ trợ thì có khả năng bị bán xuống tiếp, về dưới vùng 80"
+    },
+    {
+      "gia": 81500,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": "H4",
+      "can_cu": [
+        "quét râu",
+        "MA89"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": false,
+      "trich": "Kéo dần dần thì chắc cũng quét râu về được 81.500 [?]. Nếu buồn buồn nó quét về MA89"
+    },
+    {
+      "gia": 85300,
+      "gia_tren": null,
+      "vai_tro": "entry",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "quét thanh khoản, cụm thanh lý"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": false,
+      "trich": "nếu giá lên 85.300 [?] rồi quét một phát, anh em mình vào đây (sale) là quá hợp lý"
+    },
+    {
+      "gia": 85000,
+      "gia_tren": 85600,
+      "vai_tro": "dich",
+      "huong": "TANG",
+      "khung": null,
+      "can_cu": [
+        "cụm thanh lý đòn bẩy lớn mở ra ngắn hạn"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "nó có thể quét lên 85k hoặc 85k6"
+    },
+    {
+      "gia": 90000,
+      "gia_tren": null,
+      "vai_tro": "dich",
+      "huong": "GIAM",
+      "khung": null,
+      "can_cu": [
+        "USDT.D mô hình cờ"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": false,
+      "trich": "Đoạn này may ra chạy được mô hình cờ rồi giảm tiếp thì anh em sẽ có 90.000"
+    },
+    {
+      "gia": 84000,
+      "gia_tren": null,
+      "vai_tro": "khac",
+      "huong": null,
+      "khung": "H4",
+      "can_cu": [
+        "ngưỡng chia lên/xuống"
+      ],
+      "moc_gio": null,
+      "tai_san": "BTC",
+      "chac": true,
+      "trich": "nếu tụt xuống dưới 84 thì mình nghĩ sẽ về test đâu đó khoảng 82.500"
+    }
+  ]
+}

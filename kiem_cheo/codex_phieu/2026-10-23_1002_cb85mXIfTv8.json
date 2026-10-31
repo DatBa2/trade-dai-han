@@ -1,0 +1,39 @@
+{
+  "buoi": "2026-10-23_1002_cb85mXIfTv8",
+  "gia_btc_luc_noi": 81000,
+  "dau_buoi": {
+    "huong_h4": "GIAM",
+    "trich": "§ Đầu buổi: Con bit thì RSI cứ nằm lưng chừng ở đây, chắc còn gãy nữa. Nhưng trong ngắn hạn sẽ có những nhịp test lên để kill rồi mới đi tiếp."
+  },
+  "cuoi_buoi": {
+    "huong_h4": "GIAM",
+    "trich": "§ Giữa buổi: Bitcoin cứ chờ để nó đấm thế thì làm sao mà đi được. § Kết: View vùng thì cứ bám mà follow. Đoạn này vẫn phải chờ thôi, kiên nhẫn vào."
+  },
+  "doi_y_giua_buoi": false,
+  "huong_lon": {
+    "D1": "GIAM",
+    "W1": null,
+    "chu_ky": "GIAM"
+  },
+  "hanh_dong": "dung_ngoai_cho_entry",
+  "duong_di": [
+    {
+      "huong": "TANG",
+      "dich": 82500,
+      "khung": "H1"
+    },
+    {
+      "huong": "GIAM",
+      "dich": 78000,
+      "khung": "H4"
+    }
+  ],
+  "dich_chinh": 78000,
+  "moc_sai": {
+    "gia": 82000,
+    "dieu_kien": "Nếu ngày mai D1 đóng lại trên 82.000/MA34 thì view bán thuận dưới 82.000 bị thách thức, phải xét lại (§ Phân tích Bitcoin khung ngày); chưa phải SL cụ thể."
+  },
+  "pha_vo_gia": "§ Phân tích Bitcoin khung ngày/Hỏi đáp: nhịp hồi lên 84.000 rồi rớt, bị MA34 chặn được đánh giá xác suất cực cao là phá cao/fake out; người nói vẫn phân biệt nhận định và xác nhận.",
+  "do_chac": "cao",
+  "ghi_chu": "Đã đọc hết transcript. Giá khoảng 81.000 từ tiêu đề/các mốc hiện tại, không tick chính xác. Nghiêng giảm H4, chờ hồi 82.xxx/82.500 quét short rồi mới xem entry; không đứng ngoài vì không biết nghiêng bên nào. Đích chính 78.000 được hai cách đo Fibo cùng chỉ tới; vùng tổng thể 77.000–78.000. Nhánh bật từ vùng này lên 81.000 phụ thuộc lực đỡ, chưa là chặng chắc chắn nên để ghi chú. Câu 50/50 nói về tên mô hình cờ hay điều chỉnh, nhưng người nói chọn xác suất fake out cao/giảm lớn hơn; không tự gán H4 PHAN_VAN. D1 chưa confirm giảm xu hướng chính, nhưng rõ nghiêng điều chỉnh xuống; GIAM thể hiện chiều kế tiếp, không khẳng định chu kỳ D1 đảo hoàn toàn."
+}

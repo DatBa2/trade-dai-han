@@ -1,0 +1,103 @@
+{
+ "buoi": "2026-08-28_1007_KwvLRMMnVms",
+ "ngay": "2026-08-28",
+ "gio_vn": "10:07",
+ "gia_btc_luc_noi": 79813,
+ "nhan_dinh": [
+  {
+   "khung": "H4",
+   "huong": "TANG",
+   "do_chac": "thap",
+   "dich": 82800,
+   "han": "qua cuối tuần, đến hết thứ Ba 01/09 (sau tin Jackson Hole)",
+   "han_gio": 96,
+   "vo_hieu_khi": "H4 đóng dưới 78.400 (thủng đáy cao 78.500 + Fibo 0.786 nhịp 77.615→81.500 = 78.446 + dải trên EMA34 H4 78.468)",
+   "kich_ban_phu": "chặng 1 chỉnh về test 79.000-79.300 (EMA610 D1 vừa phá + EMA89 tuần + Fibo 0.618) quanh giờ tin, chặng 2 mới lên 82.8-83K",
+   "duong_di": [
+    {"huong": "GIAM", "dich": 79200},
+    {"huong": "TANG", "dich": 82800}
+   ],
+   "doi_y": null,
+   "ly_do": [
+    "nến D1 thứ Năm đã đóng 80.246 trên MA610 D1 79.149 → đúng điều kiện người đó nêu: đóng trên MA610 thì đừng sell nữa",
+    "đích H1 79-80K hôm qua đã tới, cột mốc kế tiếp là 83K (gap CME 83 + đỉnh tháng 5 82.842)",
+    "giá trên cả EMA34/89/200 H4, đáy H4 nâng dần 77.615 → 78.907 → 79.720",
+    "cú râu 81.500 sáng nay là quét đỉnh trước tin, chưa phải gãy - chỉ khiến chặng 1 lùi về test 79K",
+    "trước tin Jackson Hole 21:00 thì giữ view, không mở lệnh mới, độ chắc thấp"
+   ],
+   "trich": null
+  },
+  {
+   "khung": "D1",
+   "huong": "TANG",
+   "do_chac": "thap",
+   "dich": 83000,
+   "han": "3-7 ngày, đến hết tuần sau",
+   "han_gio": 168,
+   "vo_hieu_khi": "D1 đóng dưới 77.500 (thủng hai đáy 77.615/77.854, quay lại dưới hẳn MA610 D1)",
+   "kich_ban_phu": "D1 đóng trên 83K thì cột mốc tiếp là 92-93K (Fibo 0.5 tuần + cản 93.600)",
+   "duong_di": null,
+   "doi_y": null,
+   "ly_do": [
+    "D1 đóng trên MA610 D1 - đường cuối cùng trong thứ tự 34 → 89 → 200 → 610",
+    "chuỗi đáy D1 75.560 → 77.615 nâng dần",
+    "vẫn chỉ gọi là hồi kỹ thuật: RSI D1 82, F&G 73, EMA34/89 tuần chưa cắt lên"
+   ],
+   "trich": null
+  },
+  {
+   "khung": "W1",
+   "huong": "GIAM",
+   "do_chac": "thap",
+   "dich": 52300,
+   "han": "chu kỳ downtrend, đáy 2027",
+   "han_gio": null,
+   "vo_hieu_khi": "nến tuần đóng qua 93.000-95.000 thì downtrend mới kết thúc",
+   "kich_ban_phu": "nhịp hồi tuần còn có thể lên 83K rồi 92-93K trước khi gãy",
+   "duong_di": null,
+   "doi_y": null,
+   "ly_do": [
+    "EMA34/89 tuần vẫn đang cắt xuống",
+    "nến tuần đang có râu trên 2%, cản tuần 80-83K chưa vượt hẳn",
+    "Fibo mở rộng tuần góc nhìn giảm vẫn cho 52.3K"
+   ],
+   "trich": null
+  }
+ ],
+ "vung_gia": {
+  "khang_cu": [81300, 81500, 82800, 83400],
+  "ho_tro": [79700, 79150, 78450, 77600]
+ },
+ "lenh": [],
+ "hanh_dong": "dung_ngoai_cho_entry",
+ "giu_view": true,
+ "ly_do_doi_view": "Giữ chiều lên của buổi 27/08 (H1 mua, cột mốc 78.5 → 79 → 80 → 83): đích 79-80K đã tới (b) nên dời sang mốc 83K. Công tắc D1 người đó đặt đã bật theo chiều lên (a): D1 đóng trên MA610. Không có nến H4 nào đóng dưới 78.5K. Trước tin Jackson Hole nên chỉ giữ view, không mở lệnh mới.",
+ "rau": {
+  "tren": "81.500 (H4 mở 07:00 28/08) - râu trên 1.55%; đỉnh cũ 81.280 (25/08)",
+  "duoi": "79.720 (H4 mở 07:00 28/08); 78.907 (H4 mở 19:00 27/08)",
+  "test_lai": "Râu 81.500 CÓ: cụm đỉnh đôi 81.280-81.500 là chỗ SL phe short, nằm trên đường lên đích 82.8K (R2) - nhưng sau khi chặng 1 test 79K xong. Râu 78.907 KHÔNG: phía trên có vùng MA610 D1 + EMA89 tuần 79.05-79.15 chắn, thân nến đóng dày hơn (5.3)."
+ },
+ "vung_on": [
+  {
+   "loai": "LONG",
+   "khoang": [79000, 79300],
+   "ly_do": [
+    "EMA610 D1 79.149 vừa bị nến ngày đóng vượt, đổi vai thành hỗ trợ",
+    "EMA89 khung tuần 79.051",
+    "Fibo 0.618 nhịp H4 77.615→81.500 = 79.099",
+    "đỉnh cũ 79.170-79.245 đã phá → backtest"
+   ]
+  },
+  {
+   "loai": "SHORT",
+   "khoang": [82800, 83500],
+   "ly_do": [
+    "đỉnh D1 tháng 5 82.842",
+    "Fibo 0.618 ghim 83.418 của nhịp 97.9K→59.8K",
+    "gap CME 83K - lấp xong là chốt"
+   ]
+  }
+ ],
+ "pha_vo_gia": "Cú vượt đỉnh 81.280 lên 81.500 sáng nay là GIẢ: chỉ râu, thân H4 đóng 79.813 rút 1.55% (G1), quét đúng SL phe short trên đỉnh cũ (G4), xảy ra ngay trước tin Jackson Hole (G6). Không đổi view vì cú này - nó chỉ là chặng quét trước khi về test 79K.",
+ "loi_binh": "Nến ngày hôm qua đóng trên MA610 rồi anh em, hôm qua mình nói đóng trên đường này thì đừng sell nữa. Sáng nay nó chọc lên 81.5 quét short rồi rút râu, cây đó chưa nói lên gì, chỉ là quét trước tin. Tối nay Jackson Hole, chúng ta là cá lòng tong thôi, núp đi cho các đại ca đấm nhau xong, không mở lệnh trước tin. Sau tin nếu nó về 79-79.3 giữ được thì long vol nhỏ, mục tiêu 82.8 trước trần 83, H4 đóng thủng 78.4 thì bỏ view."
+}

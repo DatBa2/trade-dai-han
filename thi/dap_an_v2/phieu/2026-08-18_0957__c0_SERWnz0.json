@@ -1,0 +1,159 @@
+{
+ "buoi": "2026-08-18_0957__c0_SERWnz0",
+ "ngay": "2026-08-18",
+ "gio_vn": "09:57",
+ "gia_btc_luc_noi": 64000,
+ "nhan_dinh": [
+  {
+   "khung": "H4",
+   "huong": "GIAM",
+   "do_chac": "vua",
+   "dich": 63000,
+   "han": null,
+   "han_gio": null,
+   "vo_hieu_khi": "nến D1 đóng trên 65.000",
+   "vo_hieu_cau_truc": {
+    "gia": 65000,
+    "khung": "D1",
+    "so_nen": 1,
+    "chieu": "dong_tren",
+    "cau": "nếu chúng ta có một cây H4 hoặc cây D1, đẹp nhất là D1, mà nó đóng lên trên của cái thằng 65, phá qua khỏi cái đoạn này, thì khả năng rất là cao nó sẽ đi lên trên bởi vì nó sẽ chạy theo cái mô hình cờ. ... Cờ chúng ta sẽ đo như thế này, nó cho chúng ta kết quả 71 này."
+   },
+   "kich_ban_phu": null,
+   "duong_di": [
+    {
+     "huong": "TANG",
+     "dich": [
+      64200,
+      64500
+     ]
+    },
+    {
+     "huong": "GIAM",
+     "dich": 63000
+    }
+   ],
+   "doi_y": null,
+   "ly_do": [],
+   "trich": "Nến 30 phút thì đẹp, nhưng mà H4 mà đóng ở đây thì thôi chờ hồi lên xem có đẹp thì sale còn ok hơn. H4 thì gần như chắc chắn là đóng ở đây rồi. Còn nếu mà nó gãy luôn thì càng tốt nhỉ.",
+   "nhan_v1": "GIAM"
+  },
+  {
+   "khung": "D1",
+   "huong": "PHAN_VAN",
+   "do_chac": "thap",
+   "dich": null,
+   "han": null,
+   "han_gio": null,
+   "vo_hieu_khi": "nến D1 đóng trên 65.000 phá khỏi vùng bó hẹp",
+   "kich_ban_phu": "phá lên 65.000 thì 66.000 rồi 71.000 (cờ, hết vùng thanh khoản)",
+   "ly_do": [
+    "nến D1 xanh là nến thứ hai trong tuần nên không đáng tin, thường xử lý thanh khoản cuối tuần",
+    "thị trường bó hẹp biên, sideway, chưa biết hướng",
+    "không nhận định đây là đáy"
+   ],
+   "trich": "Thực tế ở đây chúng ta phải thừa nhận một điều là thị trường nó đang đi bó hẹp biên, đang đi sideway, thì mình chưa biết là nó sẽ đi về cái hướng nào.",
+   "doi_y": null,
+   "duong_di": null
+  }
+ ],
+ "vung_gia": {
+  "khang_cu": [
+   65000,
+   66000
+  ],
+  "ho_tro": [
+   63000,
+   64000
+  ]
+ },
+ "lenh": [
+  {
+   "chieu": "SHORT",
+   "vao": null,
+   "tp": [
+    63000,
+    57000,
+    54000
+   ],
+   "sl": 65000,
+   "trang_thai": "dang_giu"
+  },
+  {
+   "chieu": "SHORT",
+   "vao": [
+    64000,
+    64500
+   ],
+   "tp": [
+    63000
+   ],
+   "sl": 67000,
+   "trang_thai": "de_xuat_moi"
+  }
+ ],
+ "nhin_lai_truoc": "Hôm qua dự kiến có pha lên kill short đúng; Fibo mở rộng TP lên 64.000 đã khớp; không ngờ H4 chạy hai đáy tại vùng này.",
+ "cong_cu": [
+  "D1",
+  "H4",
+  "MA cụm H4",
+  "Fibo 0.5",
+  "Fibo mở rộng",
+  "mô hình W",
+  "mô hình cờ",
+  "trendline H1/M15/M5",
+  "liquid heatmap",
+  "BTC.D",
+  "USDT.D",
+  "Fear and Greed"
+ ],
+ "tin_tuc": [
+  {
+   "tin": "Mỹ-Iran hết hạn thỏa thuận 90 ngày, Hormuz chỉ 3 tàu dầu/ngày",
+   "danh_gia": "nguồn cung dầu hạn chế nên dầu khó giảm"
+  }
+ ],
+ "thoi_quen": [
+  "scalp sale entry không đẹp thì TP1 sớm",
+  "cắt lệnh theo nến đóng (H4/D1) chứ không theo giá",
+  "trendline rất uy tín năm 2026, tắt bớt chỉ báo",
+  "gồng chỉ khi cấu trúc còn giữ lý do, vốn đừng vượt sức chịu",
+  "nhìn USDT.D để canh sót"
+ ],
+ "cau_cua_mieng": [
+  "Thua kèo này thì ta lại bài kèo khác, không có gì hết.",
+  "Vô chiêu thắng hữu chiêu."
+ ],
+ "altcoin": [
+  {
+   "coin": "ETH",
+   "huong": "GIAM",
+   "ghi": "rất yếu, không qua nổi trendline"
+  },
+  {
+   "coin": "BTC.D",
+   "huong": "TANG",
+   "ghi": "kéo lên nên altcoin không thở nổi; USDT.D có cây đâm xuống, chờ phục hồi mới sale"
+  },
+  {
+   "coin": "XRP",
+   "huong": "GIAM",
+   "ghi": "xả ác, vùng an toàn 0.5-0.7"
+  }
+ ],
+ "ghi_chu": "Giá BTC không nói số rõ (khoảng 64.x suy ngữ cảnh). Phần H4 và D1 là đoạn người nói chủ yếu nêu điều kiện 'nếu'. Mô hình W neckline 65.000 → 66.000. 'Ăn tham như mình' có thể là cách nói mở rộng cho người xem, không phải lệnh của chính anh.",
+ "hanh_dong": "giu_lenh",
+ "chang_ke_tiep": {
+  "huong": "TANG",
+  "dich": [
+   64200,
+   64500
+  ]
+ },
+ "khung_lon_v2": {
+  "D1": "PHAN_VAN",
+  "W1": null
+ },
+ "pha_vo_gia": "Nhịp lên hiện tại là pha lên kill short (khoảng 70% kill short rồi mới đi xuống); nến D1 thứ hai xanh chỉ là xử lý thanh khoản cuối tuần, không tin tưởng.",
+ "nguon_nhan": "dap_an_v2 (Opus 5.5 rút mù 31/10)"
+}

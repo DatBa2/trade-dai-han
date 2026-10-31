@@ -1,0 +1,66 @@
+{
+  "buoi": "2026-03-19_mBEBKzBb4kU",
+  "ngay": "2026-03-19",
+  "gio_vn": "10:00",
+  "gia_btc_luc_noi": 71000,
+  "nhan_dinh": [
+    {
+      "khung": "H4",
+      "huong": "TANG",
+      "do_chac": "thap",
+      "dich": [78000, 80000],
+      "han": "mấy ngày không có tin (thứ sáu đến thứ hai) khả năng là tăng",
+      "han_gio": 96,
+      "vo_hieu_khi": "thủng 66.000-68.000 (nhất là 65.000 thì mất lực tăng, về downtrend tiếp)",
+      "kich_ban_phu": "hồi nhẹ lên ~72 (cản MA34 M30, H1, H4) rồi dump về 68-69 cũng bình thường (Fibo 0.5 sóng dài ở 68, quét SL 2,3% ~69.5); hôm nay H4 sideway; cần lực mua cực mạnh hoặc đi ngang tốn thời gian để triệt tiêu lực bán",
+      "ly_do": [
+        "H4 mới phá hỗ trợ ngắn hạn, chưa gãy xu hướng tăng",
+        "D1 vẫn ở hỗ trợ MA, chưa test MA89",
+        "nhịp điều chỉnh hôm qua là điều chỉnh tích cực, đã lấp gap 71",
+        "nhưng nến D1 bán dài, lực bán không đơn giản nên không vội long"
+      ],
+      "trich": "Target... nếu thị trường không thủng khỏi vùng 66, 68 này thì mình nghĩ vẫn giữ nguyên target cũ là 78 cho đến 80.",
+      "doi_y": null,
+      "duong_di": [
+        {"huong": "TANG", "dich": 72000},
+        {"huong": "GIAM", "dich": 69000},
+        {"huong": "TANG", "dich": 78000}
+      ]
+    },
+    {
+      "khung": "M5",
+      "huong": "PHAN_VAN",
+      "do_chac": "vua",
+      "dich": [71600, 72000],
+      "han": "trong ngày",
+      "han_gio": 24,
+      "vo_hieu_khi": "M5 đóng dưới 70.000 thì cấu trúc tăng bị phá, thoát",
+      "kich_ban_phu": "scalping hai chiều; sell chỉ khi lên trên 72.000 hoặc test MA34 H1; short vùng giá này không nên",
+      "ly_do": ["M5 đáy sau đỉnh sau cao dần, vẫn còn cửa lên", "chặng lên gặp nhiều cản"],
+      "trich": "Đoạn này anh em hỏi đánh chiều nào thì mình nghĩ vẫn đánh hai chiều thôi, cả long cả short.",
+      "doi_y": null,
+      "duong_di": null
+    }
+  ],
+  "vung_gia": {"khang_cu": [72000, 72200], "ho_tro": [68000, 70000]},
+  "lenh": [
+    {"chieu": "LONG", "loai": "đã khớp từ đêm", "vao": 71000, "tp": [72000], "sl": 69900,
+     "trang_thai": "dang_giu",
+     "trich": "Mình cho anh em Long từ đêm ngày hôm qua nó đã khớp entry bây giờ đang lãi rồi. SL 69.000, 69900."},
+    {"chieu": "LONG", "loai": "scalping", "vao": null, "tp": [71600, 72000], "sl": 70000,
+     "trang_thai": "dang_giu",
+     "trich": "điều kiện là stop loss ở 70.000, thủng là cắt, M5 mà đóng dưới cái này là anh em phải thoát gấp."}
+  ],
+  "nhin_lai_truoc": "Hôm qua không ăn được nhịp short vì tối không bám thị trường, đứng ngoài chờ tin; long hôm qua quét sạch anh em FOMO, nhóm ngồi ngoài nên không ảnh hưởng. Đã báo 99,99% FED không giảm lãi suất.",
+  "cong_cu": ["H4", "D1", "M5", "M30", "Fibo 0.5", "MA34/89", "BTC.D", "USDT.D", "heatmap liquidation", "tương quan BTC-vàng-bạc-dầu"],
+  "tin_tuc": [{"tin": "PPI 0.7 vs dự kiến 0.3, FED giữ lãi suất, dot plot chỉ 1 lần giảm 2026", "danh_gia": "tin ra để hợp lý hóa đường giá; tin chỉ đọc giải trí"}],
+  "thoi_quen": ["đọc chart không đoán, thuận theo thị trường", "scalping hai chiều, có lãi vài trăm giá cũng chốt", "dùng hợp đồng tiêu chuẩn BingX tách long/short", "luôn có điểm chốt lãi, đến là xử lý quyết liệt", "không short ngay hỗ trợ, chờ lên cao", "không giữ BTC và dầu cùng lúc (tương quan ngược)"],
+  "cau_cua_mieng": ["Thị trường không thiếu tin, chỉ có chúng ta thiếu tiền thôi.", "Thà nuốt miếng còn hơn là lau nước mắt."],
+  "altcoin": [
+    {"coin": "ETH", "huong": "TANG", "ghi": "TP 2000-2006 spot sóng hồi; M15 sắp rụng, sẽ ăn thoát rồi bắt lại"},
+    {"coin": "BNB", "huong": "TANG", "ghi": "entry 650 giữ"},
+    {"coin": "Aster", "huong": null, "ghi": "hết view, phụ thuộc BTC"},
+    {"coin": "BTC.D", "huong": "GIAM", "ghi": "dom gãy thì altcoin không bị xả nhiều; USDT.D dùng tìm điểm chốt"}
+  ],
+  "ghi_chu": "Vàng: xu hướng sell, target 4550-4700, Ricky 4300, không buy; dầu target 115-120. Có vùng liquid lớn ở 64, thủng 65 thì đảo chiều downtrend. Header không ghi giờ."
+}

@@ -1,0 +1,451 @@
+{
+  "buoi": "2026-09-08_1002_gOwbzU0t2S0",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/lam_sach/2026-09-08_1002_gOwbzU0t2S0.md",
+  "gia_btc_luc_noi": 78200,
+  "dau_buoi": {
+    "thien_huong_h4": "GIAM",
+    "gio": null,
+    "trich": "Hiện tại vùng này anh em nên thận trọng vì xác suất nó về 77 đến 76 là có. Trên H4, MA34 bây giờ đóng vai trò là cản chứ không phải hỗ trợ như trước nữa, trở thành kháng cự. Tối thiểu nó sẽ đưa giá về nền khoảng 77.000, tức khoảng 1000 giá nữa, chạm test lại MA89, điều đó hợp lý."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "GIAM",
+    "do_chac": "vua",
+    "gio": null,
+    "trich": "Chốt BTC: như lúc nãy mình nói, anh em nên xử lý những lệnh sale ở vùng hỗ trợ cứng của BTC trong nhịp này, quanh vùng 77–76."
+  },
+  "doi_y_giua_buoi": false,
+  "ly_do_doi_y": null,
+  "chang_ke_tiep": {
+    "huong": "GIAM",
+    "dich": [
+      76000,
+      77000
+    ]
+  },
+  "duong_di": null,
+  "dich_chinh": [
+    76000,
+    77000
+  ],
+  "han_gio": null,
+  "vo_hieu": null,
+  "lenh": [
+    {
+      "chieu": "LONG",
+      "vao": [
+        76000,
+        77000
+      ],
+      "tp": [],
+      "sl": null,
+      "trang_thai": "de_xuat_moi"
+    },
+    {
+      "chieu": "LONG",
+      "vao": 75000,
+      "tp": [],
+      "sl": null,
+      "trang_thai": "de_xuat_moi"
+    },
+    {
+      "chieu": "SHORT",
+      "vao": [
+        82000,
+        83000
+      ],
+      "tp": [],
+      "sl": null,
+      "trang_thai": "de_xuat_moi"
+    }
+  ],
+  "hanh_dong": "dung_ngoai_cho_entry",
+  "khung_lon": {
+    "D1": "GIAM",
+    "W1": null
+  },
+  "pha_vo_gia": "Không gọi tên phá vỡ giả cho BTC; chỉ nhắc 'BTC micro trên sàn CME quét xuống 75k trong 1 phút rồi giật lên' và thanh lý 'giá có thể quét luôn cả hai đầu là chuyện bình thường'.",
+  "trich_them": [
+    {
+      "gio": null,
+      "cau": "Sau kết quả đóng cây nến ngày này, trên khung ngày vẫn tiếp tục là một nhịp không an toàn. Có thể coi đây là mô hình hai đỉnh, và hai đỉnh ở đây kéo theo phân kỳ cả volume lẫn RSI."
+    },
+    {
+      "gio": null,
+      "cau": "Vùng 77.000 cho đến 76.000 sẽ là vùng chốt chặn. Nếu thủng 76 thì gần như về đâu đó khoảng 72–73 không quá khó, thậm chí thấp hơn. Nhưng nếu về khoảng 77 đến 76 mà vẫn trụ được thì ok, lúc đó RSI cộng với lực bán giảm dần theo thời gian, nó sẽ xuôi xuôi rồi trở thành vùng tái tích lũy, mô hình cờ để tiếp tục bơm lên."
+    },
+    {
+      "gio": null,
+      "cau": "Khi nó về đến đây cũng đừng vội mua lên. Vùng hỗ trợ có volume nằm ở 77 đến 76.000 (vùng mình vẽ màu vàng), chúng ta xem phản ứng giá khi chạm vùng đó rồi mới quyết định có mua lên hay không. ... Nếu nó gãy xuyên qua và cắm xuống thì chúng ta tham gia quanh vùng 75."
+    },
+    {
+      "gio": null,
+      "cau": "H1 cực kỳ xấu, vừa có một cây H1 rất xấu. ... Xuất hiện cây nến bán H1 rất mạnh. Nhịp này chúng ta không thể mua, nên chờ về những vùng giá như mình nói và xem phản ứng ở đó."
+    },
+    {
+      "gio": null,
+      "cau": "Quan điểm của mình: không giao dịch ở vùng lưng chừng. ... Ví dụ vùng này nếu có sale thì mình cân nhắc xử lý lệnh ở khoảng 78.[?] đến 78.000 [?]."
+    },
+    {
+      "gio": null,
+      "cau": "Chờ vùng nào chờ đi: chờ 82, nếu lên 82–83 gì đó có lên thì tốt; còn không thì chờ nó gãy khỏi 75 này."
+    },
+    {
+      "gio": null,
+      "cau": "Góc độ cá nhân mình: đây là nhịp tăng có lẽ cũng tiệm cận cuối cùng của năm. Sau đó chắc nó sẽ phải chờ đi ngang, sideway; chủ yếu thời gian còn lại sẽ là đi ngang."
+    }
+  ],
+  "kho": "File không có mốc giờ. Hướng giảm ngắn hạn về 77–76 khá rõ, nhưng người đó coi 77–76 là vùng chốt chặn có thể bật lên (tái tích lũy) hoặc thủng về 72–73 — chưa nói nhánh nào sau đó; không nêu mốc vô hiệu phía trên. Giá lúc nói ước ~78 (nói 'tối thiểu về 77, khoảng 1000 giá nữa').",
+  "nhin_lai_view_truoc": {
+    "view_truoc": "PHAN_VAN khung lớn (sideway 77-82), H4 nghiêng giảm với đích hút 77; xử lý vị thế bán quanh 77",
+    "giu_hay_doi": "giu",
+    "vi_sao": "Giá đã râu test lại 80 rồi xuống test 78-79, vẫn đứng đó; tiếp tục kỳ vọng về 77-76 (MA34 H4 thành cản, MA89 ở ~77) và vẫn bảo xử lý lệnh sale ở 77-76. Khung ngày nay nghiêng xấu hơn vì nến ngày đóng thành hai đỉnh phân kỳ volume + RSI.",
+    "gio": null,
+    "trich": "Hôm qua có nhịp test lại vùng 80 trong râu ngày hôm qua, rồi có một nhịp xuống test vùng 78–79, và hiện tại vẫn đứng ở đây. Sau kết quả đóng cây nến ngày này, trên khung ngày vẫn tiếp tục là một nhịp không an toàn. (và: Hiện tại vùng này anh em nên thận trọng vì xác suất nó về 77 đến 76 là có.)"
+  },
+  "trendline": [],
+  "nen_volume": [
+    {
+      "khung": "D1",
+      "nen": "Râu ngày hôm qua test lại 80, rồi xuống test 78-79; nến ngày đóng tạo mô hình hai đỉnh, cây nến rất xấu",
+      "volume": "Hai đỉnh kèm phân kỳ cả volume lẫn RSI; RSI còn 62, xa vùng 50",
+      "ket_luan": "Khung ngày không an toàn; cần đi ngang kéo RSI về ~50 mới xóa áp lực phân kỳ; thận trọng FOMO tới hết tuần",
+      "gio": null,
+      "trich": "Có thể coi đây là mô hình hai đỉnh, và hai đỉnh ở đây kéo theo phân kỳ cả volume lẫn RSI. ... Hiện RSI mình thấy còn nằm ở 62, tức khá xa vùng 50, và cây nến này cũng rất xấu. Anh em nên thận trọng những ngày này, từ giờ đến hết tuần, thận trọng những nhịp FOMO có phân kỳ cả volume lẫn RSI."
+    },
+    {
+      "khung": "H4",
+      "nen": "MA34 H4 chuyển từ hỗ trợ thành kháng cự",
+      "volume": "Bên dưới trống thanh khoản",
+      "ket_luan": "Tối thiểu về nền 77.000 (~1000 giá nữa) test MA89; về 78 không khó",
+      "gio": null,
+      "trich": "Trên H4, MA34 bây giờ đóng vai trò là cản chứ không phải hỗ trợ như trước nữa, trở thành kháng cự. Tối thiểu nó sẽ đưa giá về nền khoảng 77.000, tức khoảng 1000 giá nữa, chạm test lại MA89, điều đó hợp lý. Bên này trống thanh khoản, đi một phát thì về đâu đó khoảng 78.000 là không quá khó."
+    },
+    {
+      "khung": null,
+      "nen": "Vùng hỗ trợ 77-76 (vẽ màu vàng)",
+      "volume": "Vùng hỗ trợ có volume",
+      "ket_luan": "Chạm vùng thì xem phản ứng: chỉ mua khi lực bán bị triệt tiêu và lực mua giữ được; lực mua yếu thì không vào; gãy xuyên qua thì tham gia quanh 75",
+      "gio": null,
+      "trich": "Vùng hỗ trợ có volume nằm ở 77 đến 76.000 (vùng mình vẽ màu vàng), chúng ta xem phản ứng giá khi chạm vùng đó rồi mới quyết định có mua lên hay không. Chỉ mua lên khi thấy lực bán đã bị triệt tiêu và lực mua vẫn giữ được để đẩy nhịp tiếp theo."
+    },
+    {
+      "khung": "H1",
+      "nen": "Vừa có một cây H1 rất xấu, nến bán H1 rất mạnh; giá lần lượt chạm MA34, MA89, MA200 rồi đi xuống",
+      "volume": "Lực bán H1 rất mạnh; ở H1 hay H4 chưa thấy lực mua",
+      "ket_luan": "Nhịp này không thể mua; khung nhỏ không tìm entry, chỉ xem xu hướng; chờ về vùng giá đã nói",
+      "gio": null,
+      "trich": "H1 cực kỳ xấu, vừa có một cây H1 rất xấu. Ở khung nhỏ bây giờ không nên tìm entry, chỉ nhìn để biết xu hướng chạy mạnh hay không. Vẫn câu chuyện cũ: test MA34, test 89, sáng test MA200 rồi đi xuống ... Xuất hiện cây nến bán H1 rất mạnh. Nhịp này chúng ta không thể mua"
+    }
+  ],
+  "cach_lam": [
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "nen",
+      "chi_tiet": "Mô hình hai đỉnh trên khung ngày",
+      "ket_qua": "Khung ngày không an toàn",
+      "gio": null,
+      "trich": "Sau kết quả đóng cây nến ngày này, trên khung ngày vẫn tiếp tục là một nhịp không an toàn. Có thể coi đây là mô hình hai đỉnh"
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "rsi",
+      "chi_tiet": "RSI D1 phân kỳ, đang 62",
+      "ket_qua": "Phải đi ngang kéo RSI về quanh 50 thì lực bán mới kết thúc, xóa áp lực phân kỳ",
+      "gio": null,
+      "trich": "Với những nhịp như vậy, một là nó đi ngang ở đây cho đến khi kéo RSI về tiệm cận quanh vùng 50 (hoặc thấp hơn/cao hơn một xíu); tối thiểu là như thế thì lực bán mới kết thúc và xóa đi áp lực của phân kỳ."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "dinh_day_cu",
+      "chi_tiet": "Nhìn bằng mắt thường: đáy dưới làm hỗ trợ, vùng chốt chặn 77-76",
+      "ket_qua": "Thủng 76 thì về 72-73; trụ được thì tái tích lũy, mô hình cờ bơm lên",
+      "gio": null,
+      "trich": "Nhìn bằng mắt thường thì vùng hỗ trợ là vùng này: đáy dưới này nó hỗ trợ, hoặc nó xuyên qua khỏi thì đâm về dưới. Vùng 77.000 cho đến 76.000 sẽ là vùng chốt chặn."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "ema",
+      "chi_tiet": "MA34 H4 thành kháng cự; MA89 H4 quanh 77",
+      "ket_qua": "Tối thiểu về 77 test MA89",
+      "gio": null,
+      "trich": "Trên H4, MA34 bây giờ đóng vai trò là cản chứ không phải hỗ trợ như trước nữa, trở thành kháng cự. Tối thiểu nó sẽ đưa giá về nền khoảng 77.000, tức khoảng 1000 giá nữa, chạm test lại MA89"
+    },
+    {
+      "hanh_dong": "ve",
+      "cong_cu": "volume",
+      "chi_tiet": "Vẽ vùng hỗ trợ có volume 77-76 (màu vàng)",
+      "ket_qua": "Vùng xem phản ứng để quyết định mua",
+      "gio": null,
+      "trich": "Vùng hỗ trợ có volume nằm ở 77 đến 76.000 (vùng mình vẽ màu vàng), chúng ta xem phản ứng giá khi chạm vùng đó rồi mới quyết định có mua lên hay không."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "ema",
+      "chi_tiet": "H1: giá lần lượt chạm MA34, MA89, MA200 rồi đi xuống",
+      "ket_qua": "Xu hướng giảm khung nhỏ, không mua",
+      "gio": null,
+      "trich": "cứ lên chạm một đường đi xuống, chạm hai đường đi xuống, chạm ba đường đi xuống, theo thứ tự vậy."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "BTC.D xu hướng tăng nhưng đang điều chỉnh về hỗ trợ (D1, H4); USDT.D phân kỳ ở đáy, phân kỳ đẩy",
+      "ket_qua": "USDT.D dễ hồi lên -> tạo nhịp bán, cả BTC lẫn altcoin 'khóc'",
+      "gio": null,
+      "trich": "USDT.D như mình nói ngược với BTC, cũng phân kỳ nhưng phân kỳ đẩy, hoàn toàn có khả năng đi lên; khi nó đi lên sẽ tạo nhịp xấu, nhịp bán trên thị trường."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "Fear & Greed 69 (hôm qua 71)",
+      "ket_qua": "Vẫn rất xanh, thị trường đang rất FOMO",
+      "gio": null,
+      "trich": "Fear & Greed 69 điểm vẫn rất xanh (hôm qua 71, hôm nay 69, giảm nhẹ hai điểm), nghĩa là thị trường đang rất FOMO."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "heatmap",
+      "chi_tiet": "Thanh lý 24h chỉ 171 triệu; biểu đồ thanh lý đảo chiều liên tục; vùng thanh lý 78.000 [?]",
+      "ket_qua": "Không đầu nào uy tín, giá có thể quét cả hai đầu; lao vào đầu nào cũng bị thịt",
+      "gio": null,
+      "trich": "Thanh lý 24 giờ qua cực kỳ yếu, chỉ có 171 triệu. BTC chắc cũng hai đầu ... Không có đầu nào thể hiện sự uy tín ở giai đoạn này; giá có thể quét luôn cả hai đầu là chuyện bình thường."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "BTC micro trên CME quét xuống 75k trong 1 phút rồi giật lên",
+      "ket_qua": null,
+      "gio": null,
+      "trich": "BTC micro trên sàn CME quét xuống 75k trong 1 phút rồi giật lên."
+    },
+    {
+      "hanh_dong": "quan_sat",
+      "cong_cu": "khac",
+      "chi_tiet": "Tâm lý người chưa có hàng: chờ sập mãi không sập, dần mất kiểm soát hành vi",
+      "ket_qua": "Lúc đám đông mất kiểm soát hành vi là lúc thị trường bắt đầu trả lời",
+      "gio": null,
+      "trich": "Không có hàng chờ nó sập để mua, chờ mãi không sập, càng chờ nó càng lên, cay, rồi chuyển sang giai đoạn mất kiểm soát hành vi: \"đến đâu thì đến, tao phải mua cái đã\". Đến lúc mất kiểm soát hành vi đó là lúc thị trường bắt đầu trả lời cho sự chờ đợi của bạn."
+    }
+  ],
+  "vung_nguoi_do": [
+    {
+      "loai": "khang_cu",
+      "tu": 80000,
+      "den": 80000,
+      "gio": null,
+      "trich": "Hôm qua có nhịp test lại vùng 80 trong râu ngày hôm qua"
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 78000,
+      "den": 79000,
+      "gio": null,
+      "trich": "rồi có một nhịp xuống test vùng 78–79, và hiện tại vẫn đứng ở đây."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 76000,
+      "den": 77000,
+      "gio": null,
+      "trich": "Vùng 77.000 cho đến 76.000 sẽ là vùng chốt chặn."
+    },
+    {
+      "loai": "dich",
+      "tu": 72000,
+      "den": 73000,
+      "gio": null,
+      "trich": "Nếu thủng 76 thì gần như về đâu đó khoảng 72–73 không quá khó, thậm chí thấp hơn."
+    },
+    {
+      "loai": "dich",
+      "tu": 77000,
+      "den": 77000,
+      "gio": null,
+      "trich": "Tối thiểu nó sẽ đưa giá về nền khoảng 77.000, tức khoảng 1000 giá nữa, chạm test lại MA89, điều đó hợp lý."
+    },
+    {
+      "loai": "dich",
+      "tu": 78000,
+      "den": 78000,
+      "gio": null,
+      "trich": "Bên này trống thanh khoản, đi một phát thì về đâu đó khoảng 78.000 là không quá khó."
+    },
+    {
+      "loai": "vao",
+      "tu": 76000,
+      "den": 77000,
+      "gio": null,
+      "trich": "Khi nó về đến đây cũng đừng vội mua lên. Vùng hỗ trợ có volume nằm ở 77 đến 76.000 ... Chỉ mua lên khi thấy lực bán đã bị triệt tiêu và lực mua vẫn giữ được để đẩy nhịp tiếp theo."
+    },
+    {
+      "loai": "vao",
+      "tu": 75000,
+      "den": 75000,
+      "gio": null,
+      "trich": "Nếu nó gãy xuyên qua và cắm xuống thì chúng ta tham gia quanh vùng 75."
+    },
+    {
+      "loai": "tp",
+      "tu": 76000,
+      "den": 77000,
+      "gio": null,
+      "trich": "Chốt BTC: như lúc nãy mình nói, anh em nên xử lý những lệnh sale ở vùng hỗ trợ cứng của BTC trong nhịp này, quanh vùng 77–76."
+    },
+    {
+      "loai": "tp",
+      "tu": 78000,
+      "den": null,
+      "gio": null,
+      "trich": "Ví dụ vùng này nếu có sale thì mình cân nhắc xử lý lệnh ở khoảng 78.[?] đến 78.000 [?]."
+    },
+    {
+      "loai": "khang_cu",
+      "tu": 78000,
+      "den": 78000,
+      "gio": null,
+      "trich": "Trên này có một vùng ở 78.000 [?], sát với 78.000 theo view hiện tại."
+    },
+    {
+      "loai": "vao",
+      "tu": 82000,
+      "den": 83000,
+      "gio": null,
+      "trich": "> Hỏi: đang sót 50k2, mới đi 50% vol, muốn tăng thêm? — Chờ vùng nào chờ đi: chờ 82, nếu lên 82–83 gì đó có lên thì tốt; còn không thì chờ nó gãy khỏi 75 này."
+    },
+    {
+      "loai": "ho_tro",
+      "tu": 75000,
+      "den": 75000,
+      "gio": null,
+      "trich": "còn không thì chờ nó gãy khỏi 75 này."
+    }
+  ],
+  "view_trung_han": [
+    {
+      "khung": "D1",
+      "huong": "GIAM",
+      "dich": [
+        76000,
+        77000
+      ],
+      "han": "từ giờ đến hết tuần thận trọng",
+      "mat_view_khi": "Về 77-76 mà trụ được, RSI và lực bán giảm dần -> thành vùng tái tích lũy, mô hình cờ để bơm lên",
+      "gio": null,
+      "trich": "Nhưng nếu về khoảng 77 đến 76 mà vẫn trụ được thì ok, lúc đó RSI cộng với lực bán giảm dần theo thời gian, nó sẽ xuôi xuôi rồi trở thành vùng tái tích lũy, mô hình cờ để tiếp tục bơm lên. Cho nên chúng ta sẽ xem phản ứng ở vùng 77–76 và sẽ biết sau đó nó thế nào."
+    },
+    {
+      "khung": "M1",
+      "huong": "PHAN_VAN",
+      "dich": null,
+      "han": "đến cuối năm: nhịp tăng này có lẽ là nhịp tăng gần cuối cùng của năm, thời gian còn lại chủ yếu đi ngang",
+      "mat_view_khi": null,
+      "gio": null,
+      "trich": "> Hỏi: giờ đến cuối năm thị trường sao? — Góc độ cá nhân mình: đây là nhịp tăng có lẽ cũng tiệm cận cuối cùng của năm. Sau đó chắc nó sẽ phải chờ đi ngang, sideway; chủ yếu thời gian còn lại sẽ là đi ngang."
+    },
+    {
+      "khung": "M1",
+      "huong": "GIAM",
+      "dich": null,
+      "han": "năm nay chưa hết downtrend",
+      "mat_view_khi": null,
+      "gio": null,
+      "trich": "Nếu lên đó chắc mình vẫn mua, vì quan điểm của mình là năm nay chưa hết downtrend, nên trong downtrend mình vẫn DCA hàng ngày bình thường."
+    }
+  ],
+  "vung_tranh": [
+    {
+      "tu": null,
+      "den": null,
+      "vi_sao": "Không giao dịch ở vùng lưng chừng; chỉ đánh ở hai vùng có rủi ro thấp nhất",
+      "gio": null,
+      "trich": "Quan điểm của mình: không giao dịch ở vùng lưng chừng. Mình chỉ đánh ở hai vùng kéo tỉ lệ rủi ro xuống thấp nhất, không bằng lòng tham."
+    },
+    {
+      "tu": null,
+      "den": null,
+      "vi_sao": "H1 vừa có nến bán rất mạnh: nhịp này không thể mua, khung nhỏ không tìm entry",
+      "gio": null,
+      "trich": "Ở khung nhỏ bây giờ không nên tìm entry, chỉ nhìn để biết xu hướng chạy mạnh hay không. ... Nhịp này chúng ta không thể mua, nên chờ về những vùng giá như mình nói và xem phản ứng ở đó."
+    },
+    {
+      "tu": 76000,
+      "den": 77000,
+      "vi_sao": "Về 77-76 đừng vội mua; lực mua yếu thì không nhảy vào",
+      "gio": null,
+      "trich": "Còn thấy lực mua yếu quá thì không nhất thiết nhảy vào, chờ xem có lực mua mạnh đẩy quay lên thì tham gia."
+    },
+    {
+      "tu": null,
+      "den": null,
+      "vi_sao": "Thanh lý hai đầu không uy tín, lao vào đầu nào cũng bị thịt",
+      "gio": null,
+      "trich": "Biểu đồ thanh lý: xanh lụm đỏ, đỏ lụm xanh, đảo chiều liên tục, anh em lao vào đầu nào cũng bị thị trường thịt, như domino."
+    },
+    {
+      "tu": null,
+      "den": null,
+      "vi_sao": "Thận trọng các nhịp FOMO có phân kỳ volume + RSI từ giờ đến hết tuần",
+      "gio": null,
+      "trich": "Anh em nên thận trọng những ngày này, từ giờ đến hết tuần, thận trọng những nhịp FOMO có phân kỳ cả volume lẫn RSI."
+    }
+  ],
+  "giu_dong": [
+    {
+      "lenh": "Lệnh sale BTC",
+      "quyet_dinh": "dong",
+      "khi_nao": "Xử lý ở vùng hỗ trợ cứng 77-76",
+      "gio": null,
+      "trich": "Chốt BTC: như lúc nãy mình nói, anh em nên xử lý những lệnh sale ở vùng hỗ trợ cứng của BTC trong nhịp này, quanh vùng 77–76."
+    },
+    {
+      "lenh": "Lệnh sale BTC (nếu có ở vùng hiện tại)",
+      "quyet_dinh": "dong",
+      "khi_nao": "Cân nhắc xử lý quanh 78.000 [?]; đánh nhanh, chốt rồi vào lại",
+      "gio": null,
+      "trich": "Đánh nhanh, chốt và vào lại cũng được. Ví dụ vùng này nếu có sale thì mình cân nhắc xử lý lệnh ở khoảng 78.[?] đến 78.000 [?]."
+    },
+    {
+      "lenh": "Short của người xem (\"50k2\" [?], mới đi 50% vol)",
+      "quyet_dinh": "giu",
+      "khi_nao": "Muốn tăng thêm thì chờ lên 82-83 hoặc chờ gãy 75",
+      "gio": null,
+      "trich": "Chờ vùng nào chờ đi: chờ 82, nếu lên 82–83 gì đó có lên thì tốt; còn không thì chờ nó gãy khỏi 75 này."
+    },
+    {
+      "lenh": "Spot BTC DCA hàng ngày",
+      "quyet_dinh": "giu",
+      "khi_nao": "Năm nay chưa hết downtrend nên vẫn DCA hàng ngày, kể cả giá lên 90-100; mua trong downtrend, bán trong uptrend",
+      "gio": null,
+      "trich": "Mình không quan tâm về giá. Phương pháp DCA là cứ mua trong downtrend và bán trong uptrend, nguyên tắc chỉ có thế."
+    }
+  ],
+  "tin_tuc": [
+    {
+      "su_kien": "Tin kinh tế thứ năm và thứ sáu tuần này",
+      "thoi_diem": "thứ năm, thứ sáu (10-11/9)",
+      "nguon": "lich_kinh_te",
+      "so_lieu": null,
+      "anh_huong_view": "Ông nghỉ live tới hết tuần; mỗi lần không live thị trường hay biến động",
+      "gio": null,
+      "trich": "Tuần này có tin vào thứ năm và thứ sáu. Mình chỉ livestream đến hết hôm nay; sau đó nghỉ live cho đến hết tuần ... Mỗi lần mình không live thì thị trường cũng khá biến động."
+    },
+    {
+      "su_kien": "Xác suất lãi suất Fed trên Investing",
+      "thoi_diem": "sáng nay",
+      "nguon": "khac",
+      "so_lieu": "56-58% [?]",
+      "anh_huong_view": null,
+      "gio": null,
+      "trich": "(Web dự đoán lãi suất: anh em gõ Google \"investing\", rồi \"fed\", rồi lãi suất; sáng nay 56–58% [?].)"
+    },
+    {
+      "su_kien": "Một chuyên gia nhận định năm sau là năm đi ngang",
+      "thoi_diem": "năm sau",
+      "nguon": "khac",
+      "so_lieu": null,
+      "anh_huong_view": "Tham khảo thêm; hợp với view nhịp tăng này gần cuối năm rồi đi ngang",
+      "gio": null,
+      "trich": "Một chuyên gia đã bảo năm sau là năm đi ngang, \"nghĩ xem tiền đâu, giờ tích tiền năm sau làm vua\". Đó là nhận định anh em có thể tham khảo thêm."
+    }
+  ]
+}

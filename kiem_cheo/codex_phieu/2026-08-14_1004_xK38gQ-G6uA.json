@@ -1,0 +1,44 @@
+{
+  "buoi": "2026-08-14_1004_xK38gQ-G6uA",
+  "gia_btc_luc_noi": 63000,
+  "dau_buoi": {
+    "huong_h4": "GIAM",
+    "trich": "§ Khung H4: Xu hướng hiện tại của thị trường rõ ràng là xu hướng giảm, cho nên các vị thế hiện tại mình full 100% (short) là hợp lý."
+  },
+  "cuoi_buoi": {
+    "huong_h4": "GIAM",
+    "trich": "§ Plan quan trọng của hôm nay: Xu hướng hiện tại vẫn chủ đạo là xu hướng short, nhưng short FOMO thì phải thận trọng, rất nguy hiểm vì dễ đi lên để kill."
+  },
+  "doi_y_giua_buoi": false,
+  "huong_lon": {
+    "D1": null,
+    "W1": null,
+    "chu_ky": "GIAM"
+  },
+  "hanh_dong": "giu_lenh",
+  "duong_di": [
+    {
+      "huong": "GIAM",
+      "dich": null,
+      "khung": "H4"
+    },
+    {
+      "huong": "TANG",
+      "dich": null,
+      "khung": "H4"
+    },
+    {
+      "huong": "GIAM",
+      "dich": null,
+      "khung": "H4"
+    }
+  ],
+  "dich_chinh": null,
+  "moc_sai": {
+    "gia": null,
+    "dieu_kien": null
+  },
+  "pha_vo_gia": null,
+  "do_chac": "cao",
+  "ghi_chu": "Đã đọc hết transcript; bản sạch không có timestamp nên dẫn tiêu đề mục. Giá khoảng 63.000. Đang giữ short, chờ chốt toàn bộ tại vùng 63.100–62.000; không khuyên short FOMO hiện tại. Đường chính: test râu 63.000–62.000, pump kill short trên 64.000, rồi giảm về 5 x đầu tuần sau. Các đích là vùng/không rõ nên null, không bịa trung điểm. 62.500 là mức xác nhận thủng để short đuổi, không phải mốc sai cho hướng giảm. Không có số SL rõ. D1 nến lưỡng lự nhưng chưa nói rõ hướng D1; không lấy lưỡng lự D1 thay cho hướng H4. Pump kill short là kịch bản quét thanh khoản, chưa được gọi rõ fake out/trap BTC nên pha_vo_gia=null."
+}

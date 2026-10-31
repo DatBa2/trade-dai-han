@@ -1,0 +1,55 @@
+{
+  "buoi": "2026-09-18_1003_YPMgjMxL2io",
+  "nguon": "/Users/badat/linhtinh/trade_dai_han/transcripts/lam_sach/2026-09-18_1003_YPMgjMxL2io.md",
+  "gia_btc_luc_noi": 77500,
+  "dau_buoi": {
+    "thien_huong_h4": "GIAM",
+    "gio": null,
+    "trich": "Vùng 77.000 đến 78 là vùng kháng cự. Anh em phải nhớ điều đó giúp mình: đừng thấy hoa nở mà ngỡ xuân về. Khi nào nó đi qua được 78, 79 thì may ra mới ổn một tí. ... Còn như hiện tại, cho dù nó có tăng đi nữa thì các bạn vẫn phải nhìn cấu trúc thị trường: cấu trúc thị trường vẫn đang là sóng điều chỉnh trong khung H4."
+  },
+  "cuoi_buoi": {
+    "thien_huong_h4": "PHAN_VAN",
+    "do_chac": "thap",
+    "gio": null,
+    "trich": "Có thể tí nữa nó sẽ điều chỉnh trong ngắn hạn, Bitcoin đấy. Nhưng vì cây H4 này nên tạm thời không nên cầm các vị thế ngược xu hướng nhá. H4 đóng thế này thì chắc phải nhảy tàu sale thôi. ... Tối nay mình đoán chắc nó sẽ về lụm vùng ở 75 này nhá. ... Hai đầu như này là khả năng nó húp hai đầu luôn."
+  },
+  "doi_y_giua_buoi": true,
+  "ly_do_doi_y": "Đầu buổi coi 77–78 là kháng cự, cấu trúc H4 vẫn sóng điều chỉnh (nghiêng giảm); sau khi nến H4 đóng mạnh lên trên 77 thì bảo 'phải nhảy tàu sale', không giữ vị thế bán, chỉ còn chờ xác nhận trên 78 (lên) hay dưới 77 (xuống) và đoán giá quét thanh khoản hai đầu 77.7 / 75.",
+  "chang_ke_tiep": {"huong": "TANG", "dich": 77700},
+  "duong_di": [
+    {"huong": "TANG", "dich": 77700},
+    {"huong": "GIAM", "dich": 75000}
+  ],
+  "dich_chinh": null,
+  "han_gio": null,
+  "vo_hieu": {
+    "gia": 78000,
+    "khung": "H4",
+    "so_nen": 1,
+    "chieu": "dong_tren",
+    "cau": "Nếu H4 vượt qua được đoạn này và đóng lên, thì chúng ta có cơ hội thấy giá kéo lên trên 79; và trên 79 thì lúc đó mới tính đến chuyện test lại các vùng đỉnh như 81, 82 hay 90, nó phải vượt qua từng mốc."
+  },
+  "lenh": [
+    {"chieu": "LONG", "vao": 78000, "tp": [82000, 90000], "sl": null, "trang_thai": "de_xuat_moi"},
+    {"chieu": "SHORT", "vao": 77000, "tp": [73000, 71000], "sl": null, "trang_thai": "de_xuat_moi"},
+    {"chieu": "LONG", "vao": 77000, "tp": [77700], "sl": null, "trang_thai": "de_xuat_moi"}
+  ],
+  "hanh_dong": "dung_ngoai_vi_lap_lung",
+  "khung_lon": {"D1": "PHAN_VAN", "W1": null},
+  "pha_vo_gia": "Không gọi tên phá vỡ giả cho BTC (câu 'Nhịp này coi như cũng fake out rồi' là nói ETH). Với BTC chỉ dự báo quét thanh khoản hai đầu: rướn lên ~77.700 'lên lấy liquid' rồi tối/đêm 'về lụm vùng ở 75'; 'Tối nay thứ sáu coi chừng: đi kiếm cả ngày, tối nay nó thu phí lại đấy'.",
+  "trich_them": [
+    {"gio": null, "cau": "Nếu đi kiểu này thì chắc hôm nay nó sẽ đi sideway trong vùng từ 76 đến 77."},
+    {"gio": null, "cau": "Phải xem lại tình hình Bitcoin phản ứng ở vùng 77.000 này. Có lẽ qua tuần sau thì mới chính xác được. Còn bây giờ thì vẫn chưa clear lắm, chưa rõ lắm."},
+    {"gio": null, "cau": "Trường hợp 1: nó đóng trên Fibo, tức là trên khỏi 78.000. Ngày mai thứ bảy, nếu thị trường cứ đi chậm ở đây, kéo hai ngày cuối tuần đến thứ hai mà vẫn giữ được trên 78 thì qua tuần sau xác suất đi lên là có."},
+    {"gio": null, "cau": "Trường hợp 2: ngược lại, nếu những ngày kế tiếp nó lên test ở đây rồi vẫn không thành công và tiếp tục giao dịch ở vùng dưới 77.000 thì xu hướng giảm vẫn còn, và xu hướng điều chỉnh tiếp tục về những vùng như hôm trước chúng ta thấy, khoảng 73.000 cho đến 71.000."},
+    {"gio": null, "cau": "Còn nếu thị trường nằm trong vùng từ 77 đến 78 thì sao? Đơn giản thôi, chúng ta không đưa ra quyết định vội, không đưa ra góc nhìn vội mà chỉ cần chờ, chờ nó quay về plan trên 78 hoặc dưới 77."},
+    {"gio": null, "cau": "Thực tế nó sẽ phải chinh phục từng vùng. Nhưng cá nhân mình đánh giá thì vẫn còn thôi."},
+    {"gio": null, "cau": "Còn cấu trúc thị trường thì hiện tại mình vẫn giữ nguyên góc nhìn như thế. Khung ngày vẫn đang giữ tốt, nhưng với điều kiện phải vượt qua khỏi vùng 82 83 này thì sẽ kéo lên tiếp là 92. Còn nếu bỏ vùng này và quay về lại vùng 76 hoặc 75 thì chúng ta tiếp tục follow vùng 72 hay 71. Và nếu thủng 72 71 thì chúng ta quay về lại vùng 60 hoặc 62."},
+    {"gio": null, "cau": "Nếu đoạn này nó break được vùng này thì có thể chạy mô hình cờ. Break được H4 ở đây thì quá ngon; nếu break H4 này thì mình sẽ đánh đuổi H4 vẫn ok. Break được qua đây thì sẽ đánh mô hình cờ, đánh lên chín mấy."},
+    {"gio": null, "cau": "Quay lại biểu đồ thanh lý: chúng ta đang có 77.600 [?]. ... Nhìn màu này mình đoán tí nữa nó chuẩn bị bắn thêm một cây lên 77.700 [?], rồi sau đó mới tính vùng Fibo 0.618. Khả năng là nó sẽ kéo lên trên được vùng này. Mình sẽ chờ H4 đóng xem thế nào. Nếu H4 đóng ở vùng hiện tại thì chúng ta không nên short nữa."},
+    {"gio": null, "cau": "Nếu H4 hiện tại đóng xanh thì những anh em đang short những vị thế dưới đường này xấu, mình nghĩ cần phải xử lý vị thế. Nếu cây H4 này đóng trên 77.00 [?] thì các bạn nên xử lý vị thế đó."},
+    {"gio": null, "cau": "78 thì mình nghĩ không, nhưng khoảng 77 với 7700 [?] là có. Bởi vì nó lên lấy liquid là vùng này. Vùng này gần như chắc chắn nó sẽ lấy luôn."},
+    {"gio": null, "cau": "Tối nay thứ sáu coi chừng: đi kiếm cả ngày, tối nay nó thu phí lại đấy."}
+  ],
+  "kho": "Buổi khó nhất lô. File không có mốc giờ. Giá đang nằm đúng trong vùng quyết định 77–78 và người đó nói rõ 'không đưa ra góc nhìn vội mà chỉ cần chờ' trên 78 hay dưới 77 → PHAN_VAN. Nhưng có tín hiệu cả hai phía: cấu trúc H4 vẫn 'sóng điều chỉnh', 'phục hồi chứ không có nghĩa là tăng', đoán chắc tối nay quét về 75 (nghiêng giảm); đồng thời nến H4 đóng mạnh khiến họ bảo bỏ lệnh sale, và đoán rướn lên 77.7 trước. Nếu chấm theo hướng nghiêng ngắn hạn thì có thể coi GIAM thấp (đích 75 trong đêm), nhưng 75 được nói như một cú 'húp hai đầu' chứ không phải xu hướng."
+}

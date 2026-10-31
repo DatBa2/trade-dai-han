@@ -1,0 +1,106 @@
+{
+  "buoi": "2026-04-20_nN446WPRxPo",
+  "ngay": "2026-04-20",
+  "gio_vn": "10:00",
+  "gia_btc_luc_noi": 74000,
+  "nhan_dinh": [
+    {
+      "khung": "H4",
+      "huong": "TANG",
+      "do_chac": "vua",
+      "dich": [74000, 77000],
+      "han": "hết ngày thứ hai (hôm nay); không short trước ngày thứ ba",
+      "han_gio": 24,
+      "vo_hieu_khi": "thủng 73.000 là chạy, đừng cố chấp (vùng giữa không trụ, về 70.000 mới gặp hỗ trợ tiếp)",
+      "kich_ban_phu": "H4 hiện tại khả năng đóng dưới 74.000, không qua 74.900; chiều nay có thể phải về test lại 73.000 mới ok; thủng 73 thì gãy về 70 (hoặc 68)",
+      "ly_do": [
+        "đáy đỉnh đáy đỉnh đi lên, 73.000 là hỗ trợ cứng đã break ra và retest",
+        "gap sáng nay 74-77 rất to, nghĩ sẽ lấp ngắn; đang test MA89 H4",
+        "H1 đang ở Fibo 50 và đi lên",
+        "đã thủng MA34 H4 nên phải xem phản ứng ở 74.900"
+      ],
+      "trich": "cửa lên thì vẫn còn miễn sao giá chưa thủng khỏi 73 chúng ta tạm thời là vẫn đang ổn một tí.",
+      "doi_y": null,
+      "duong_di": [
+        {"huong": "GIAM", "dich": 73000},
+        {"huong": "TANG", "dich": 77000}
+      ]
+    },
+    {
+      "khung": "D1",
+      "huong": "TANG",
+      "do_chac": "vua",
+      "dich": 80000,
+      "han": "tuần này; kỳ vọng 80-83",
+      "han_gio": 168,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": "hai cây nến ngày xấu thứ bảy chủ nhật là điều chỉnh bình thường; khả năng chỉ test MA89 rồi gãy là không cao, dễ lên test MA200",
+      "ly_do": [
+        "xu hướng ngày vẫn là tăng, phá cản rồi về retest",
+        "vùng phía trên trống thanh khoản, dễ đi lên",
+        "tháng tư là tháng tăng, ba nến tuần xanh"
+      ],
+      "trich": "Hiện tại xu hướng ngày này vẫn đang là xu hướng tăng thôi.",
+      "doi_y": null,
+      "duong_di": null
+    },
+    {
+      "khung": "W1",
+      "huong": "TANG",
+      "do_chac": "cao",
+      "dich": [80000, 83000],
+      "han": "nhịp tăng tháng 4",
+      "han_gio": null,
+      "vo_hieu_khi": "swing short chỉ cân nhắc từ vùng 80-83 trở lên",
+      "kich_ban_phu": "râu nến tuần (khoảng 74-77) có thể bị test; cản lần lượt 78, 80 (Fibo), 83, cao nhất 90 (90 hơi khó)",
+      "ly_do": [
+        "nến tuần đóng qua cản 72.000, dễ confirm hai đáy",
+        "tỉ lệ lên lấp lại khoảng 80 rất cao",
+        "thứ sáu đã lên 78, hoàn thành target đầu tiên"
+      ],
+      "trich": "Khung tuần là tăng. ... tỉ lệ để lên lấp lại khoảng 80 rất cao. Cho nên việc anh em đi short trong một xu hướng đang đi lên như này mình thấy rất rủi ro.",
+      "doi_y": null,
+      "duong_di": null
+    },
+    {
+      "khung": "M15",
+      "huong": "GIAM",
+      "do_chac": "thap",
+      "dich": null,
+      "han": "ngắn hạn",
+      "han_gio": null,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": "chưa phá đáy thì chưa té; thủng đáy M5/M15 thì out lệnh scalping",
+      "ly_do": ["hai đỉnh M15, nhịp lên yếu đuối"],
+      "trich": "Bitcoin hai đỉnh M15. Xem nào. Nhịp này chắc té nhỉ. ... Quá yếu đuối nhưng mà chưa phá đáy.",
+      "doi_y": null,
+      "duong_di": null
+    }
+  ],
+  "vung_gia": {"khang_cu": [74900, 77000, 78000, 80000, 83000], "ho_tro": [73000, 70000, 68000]},
+  "lenh": [
+    {"chieu": "LONG", "loai": "scalping", "vao": null, "tp": [74000], "sl": "đóng nến thủng đáy M5", "trang_thai": "dang_giu",
+     "trich": "Lệnh scalping có lẽ chúng ta sẽ TP nếu đạt được ở khoảng 74.000. ... Nếu mà đóng nến thủng cái đáy M5 bên này thì mình sẽ out cái lệnh scalping này."}
+  ],
+  "nhin_lai_truoc": "Thứ sáu hứa Bitcoin 78 và đã lên 78, hoàn thành target đầu; chốt gần hết lệnh đòn bẩy ở 78. Từ đầu tháng 4 thị trường chạy gần 100% đúng góc nhìn cá nhân (tháng tăng).",
+  "cong_cu": ["W1", "D1 MA89/MA200", "H4 MA34/MA89", "Fibo 50", "gap CME", "heatmap liquidation", "đỉnh đáy M5/M15", "USDT.D", "BTC.D"],
+  "tin_tuc": [{"tin": "Mỹ - Iran, eo biển Hormuz", "danh_gia": "tin chiến tranh chỉ ngắn hạn, hợp lý hóa đường giá, đọc cho vui; ngày mai (thứ ba) mới có tin"}],
+  "thoi_quen": [
+    "không short trước ngày thứ ba; hạn chế short khi xu hướng còn tăng",
+    "view khung lớn nhưng lệnh vẫn scalp ngắn",
+    "chốt hết khi chạm mốc mục tiêu (78) rồi reset",
+    "nhắc liên tục: tất cả chỉ là quan điểm cá nhân/plan, không phải lời khuyên",
+    "nếu A thì B: không đoán gãy hay giữ, chờ phản ứng"
+  ],
+  "cau_cua_mieng": [
+    "Đừng có lấy tiền tiết kiệm, đừng có đục ống heo để mà đi đầu tư.",
+    "Đại đa số thời gian của chúng ta ở trên thị trường là chờ.",
+    "Lên để đi xuống tiếp chứ không phải xuống để lên tiếp."
+  ],
+  "altcoin": [
+    {"coin": "ETH", "huong": "TANG", "ghi": "không quá bearish altcoin; kháng cự kế 2600; khả năng lên 2006 [?]"},
+    {"coin": "BNB", "huong": "GIAM", "ghi": "mô hình vai đầu vai đỉnh thấp hơn, có khả năng gãy về 500"},
+    {"coin": "AVE", "huong": "GIAM", "ghi": "gãy rồi, lên để test MA89 rồi đi xuống tiếp"}
+  ],
+  "ghi_chu": "Giờ live không rõ (đặt 10:00). Altcoin chủ yếu 'hết sóng, một sóng thôi'. Vàng giảm điều chỉnh, dầu SL dưới 70."
+}

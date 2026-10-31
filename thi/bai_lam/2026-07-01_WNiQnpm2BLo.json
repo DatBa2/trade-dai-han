@@ -1,0 +1,116 @@
+{
+ "buoi": "2026-07-01_WNiQnpm2BLo",
+ "ngay": "2026-07-01",
+ "gio_vn": "10:05",
+ "gia_btc_luc_noi": 59195,
+ "nhan_dinh": [
+  {
+   "khung": "H4",
+   "huong": "GIAM",
+   "do_chac": "vua",
+   "dich": 57500,
+   "han": "hết thứ Sáu 03/07 (tối nay 20:00 Chủ tịch FED phát biểu: chặng 1 hồi trước/quanh tin, chặng 2 sau tin)",
+   "han_gio": 48,
+   "vo_hieu_khi": "H4 đóng trên 61.000 (trên đỉnh H4 60.789/60.948, vùng kháng cự 61 đã nêu 30/06)",
+   "kich_ban_phu": "chặng 1 hồi kỹ thuật lên test dải EMA34 H4 + 60K đổi vai (60.0–60.5) quét short rồi mới gãy",
+   "duong_di": [
+    {"huong": "TANG", "dich": 60300},
+    {"huong": "GIAM", "dich": 57500}
+   ],
+   "doi_y": null,
+   "ly_do": [
+    "Giá dưới EMA34 (60.09), EMA89 (61.7), EMA200 (64.7) H4; D1 cũng dưới cả ba → chỉ tìm short",
+    "Nến tháng 6 đóng 58.628 đỏ -20%, đóng dưới 60K → điều kiện 'đóng tháng dưới 60K thì mỗi tháng giảm ~10K' đã kích hoạt",
+    "H4 đã đóng dưới 59K (58.384) → mốc 'đóng H4 dưới 59K thì về 54' (29/06) đã kích hoạt",
+    "Cú râu 57.809 chỉ quét cụm thanh lý long 57–58 rồi rút chân, F&G 11 → không short đáy, chờ hồi lên 60–60.5 mới short",
+    "Fibo 57–57.6 (đích 2 sóng giảm H4 nêu 24–26/06) chưa chạm hẳn"
+   ],
+   "trich": null
+  },
+  {
+   "khung": "D1",
+   "huong": "GIAM",
+   "do_chac": "vua",
+   "dich": [54000, 55000],
+   "han": "3–7 ngày (tới giữa tuần sau)",
+   "han_gio": 168,
+   "vo_hieu_khi": "D1 đóng trên 63.000 (đáy cũ D1 đổi vai + mốc 63.003 thân tuần/ngày)",
+   "kich_ban_phu": "đi ngang 57.5–61 vài ngày quanh tin FED rồi mới gãy tiếp",
+   "duong_di": [
+    {"huong": "TANG", "dich": 60500},
+    {"huong": "GIAM", "dich": 54500}
+   ],
+   "doi_y": null,
+   "ly_do": [
+    "D1 dưới EMA34/89/200, đỉnh thấp đáy thấp; D1 30/06 đỏ -2.7% đóng dưới 59K",
+    "Đáy 59–60 test 2–3 lần đã vỡ, 60K thành kháng cự",
+    "Cờ D1/H4 đã break, cán cờ đo về 52–54; mốc 54–55 nêu 29/06"
+   ],
+   "trich": null
+  },
+  {
+   "khung": "W1",
+   "huong": "GIAM",
+   "do_chac": "cao",
+   "dich": [53000, 54000],
+   "han": "2–3 tuần (qua tháng 7)",
+   "han_gio": 400,
+   "vo_hieu_khi": "nến tuần đóng trên 63.300",
+   "kich_ban_phu": "dài hạn 40.000 vùng discount, 28–30K nếu giảm 70–77% như mùa trước",
+   "duong_di": null,
+   "doi_y": null,
+   "ly_do": [
+    "Tuần dưới toàn bộ EMA, EMA34/89 tuần đã cắt xuống, tuần trước đỏ -5.9% phá đáy",
+    "Nến tháng 6 đỏ dài -20%, cần thêm 2–3 nhịp giảm mới tìm đáy",
+    "Chu kỳ: đỉnh 126K, downtrend mới đi khoảng nửa chặng"
+   ],
+   "trich": null
+  }
+ ],
+ "vung_gia": {
+  "khang_cu": [60000, 60500, 61000, 61700, 63000],
+  "ho_tro": [58100, 57500, 55000, 54000]
+ },
+ "lenh": [
+  {
+   "chieu": "SHORT",
+   "loai": "limit",
+   "vao": 60350,
+   "tp": [58450, 57650],
+   "sl": 61150,
+   "trang_thai": "de_xuat_moi"
+  }
+ ],
+ "hanh_dong": "dung_ngoai_cho_entry",
+ "giu_view": true,
+ "ly_do_doi_view": "Giữ view giảm từ 30/06: lệnh scalp short TP 59.2–58.8 đã ăn (xong việc lệnh cũ, không phải đổi hướng); đầu tháng xem lại nến tháng 6 đóng 58.6 đỏ -20% dưới 60K → củng cố giảm, không có nến đóng nào qua mốc sai 61K.",
+ "rau": {
+  "tren": "~60.789 (H4 29/06 19:00) và 60.948 (H4 27/06 19:00) — đỉnh nhịp đi ngang chưa bị vượt",
+  "duoi": "57.809 (H4 01/07 07:00, râu dưới 1.4% rút chân, quét thủng đáy D1 58.110)",
+  "test_lai": "Râu trên 60.8 CÓ (chặng 1): trùng dải EMA34 H4 59.6–60.5 + 60K đổi vai + Fibo 0.786 nhịp đang chạy 60.15 + SL phe short 60–60.3 (R2). Râu dưới 57.8 CÓ ở chặng 2: râu dài rút nhanh, phía dưới trống, trùng Fibo 57–57.6 + cụm long 57–58 (R2, R3) — nhưng chưa test ngay vì vừa quét, F&G 11."
+ },
+ "vung_on": [
+  {
+   "loai": "SHORT",
+   "khoang": [60000, 60800],
+   "ly_do": [
+    "Dải EMA34 H4 59.6–60.5 (H4)",
+    "60K hỗ trợ cũ đổi vai thành kháng cự (D1, nêu 26–30/06)",
+    "Đỉnh H4 60.789/60.948 chưa bị vượt (H4)",
+    "Fibo 0.786 nhịp giảm H4 đang chạy 60.15 (H4)",
+    "Cụm SL phe short 60–60.3 (heatmap nêu 26/06)"
+   ]
+  },
+  {
+   "loai": "LONG",
+   "khoang": [57300, 58100],
+   "ly_do": [
+    "Đáy D1 58.110 + râu 57.809 (D1/H4)",
+    "Fibo đích 2 sóng giảm 57–57.6 (H4, nêu 24–26/06)",
+    "Cụm thanh lý long 57–58 (heatmap) — chỉ quan sát, ngược xu hướng, không limit"
+   ]
+  }
+ ],
+ "pha_vo_gia": "Cú thủng đáy D1 58.110 xuống 57.809 sáng nay là PHÁ VỠ GIẢ: G1 chỉ râu, thân H4 đóng lại 59.195 trên đáy; G4 quét cụm thanh lý long 57–58 rồi rút chân; G8 đám đông đang short theo xu hướng (F&G 11). Không đổi view vì cú này, nó hồi quét lên 60–60.5 rồi mới đi tiếp xuống. Giá 59.2 đang ở giữa 2 vùng → KHÔNG VÀO GIỮA.",
+ "loi_binh": "Hôm nay thứ Tư, ngày đầu tháng anh em. Nến tháng 6 đóng 58.6, đỏ dài 20%, đóng dưới 60 rồi thì không có gì tốt đẹp cả, view giảm vẫn giữ. Lệnh short scalp hôm qua TP 58.8 húp rồi, sáng nay nó quét xuống 57.8 rồi rút chân lên — cây này chỉ là quét long thôi, Fear and Greed 11 thì short tầm này khác nào hòa mình vào đám đông. Chờ nó hồi lên 60–60.5 test lại MA34 H4 với số 60 rồi mình short, TP non 58.4 rồi 57.6, tối nay FED phát biểu nên trước tin không vào vội. Thà rớt nước miếng còn hơn lau nước mắt, không phải lời khuyên đầu tư."
+}

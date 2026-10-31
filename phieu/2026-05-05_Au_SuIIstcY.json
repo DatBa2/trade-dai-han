@@ -1,0 +1,91 @@
+{
+  "buoi": "2026-05-05_Au_SuIIstcY",
+  "ngay": "2026-05-05",
+  "gio_vn": "10:00",
+  "gia_btc_luc_noi": 81000,
+  "nhan_dinh": [
+    {
+      "khung": "H4",
+      "huong": "TANG",
+      "do_chac": "vua",
+      "dich": [82000, 83000],
+      "han": "trong ngày / vài phiên",
+      "han_gio": 24,
+      "vo_hieu_khi": null,
+      "kich_ban_phu": "có thể về lại 78.000 (lấp gap M15) rồi mới vòng lên 83; gap 91-92 phía trên vẫn có thể lên, đừng chủ quan",
+      "ly_do": [
+        "nến ngày xanh đẹp, lực còn tốt, chưa nên short",
+        "MA200 D1 ở khoảng 82, Fibo 0.618 ở 83",
+        "H4 đóng nến ngon, còn lực",
+        "trên 81.200 trống thanh khoản, có thể kéo lên 86-90"
+      ],
+      "trich": "Khả năng cao là sẽ lên được 82. 81.800 cho đến 82 bởi vì MA200 sẽ lên được cỡ vùng này thôi.",
+      "doi_y": null,
+      "duong_di": null
+    },
+    {
+      "khung": "D1",
+      "huong": "GIAM",
+      "do_chac": "thap",
+      "dich": null,
+      "han": "chặng đường dài, chờ tín hiệu đảo chiều mới short swing; tháng 5 dòng tiền bắt đầu giảm",
+      "han_gio": null,
+      "vo_hieu_khi": "chưa nói rõ; hết trend tăng khi thủng 70.000",
+      "kich_ban_phu": "vẫn có thể lên gap 91-92, thậm chí 86-90 vì trống thanh khoản",
+      "ly_do": [
+        "gap 80-81 đã lấp xong, coi như hoàn tất mục tiêu giai đoạn",
+        "Greed/FOMO đám đông cao, hỏi target altcoin nhiều",
+        "dòng tiền tháng 4 tăng, tháng 5 bắt đầu giảm, tháng 6 rút sang World Cup",
+        "chưa short ngay vì lực D1 còn xanh"
+      ],
+      "trich": "Short là một câu chuyện chặng đường dài cho nên các bạn cũng không cần phải vội.",
+      "doi_y": null,
+      "duong_di": null
+    },
+    {
+      "khung": "M5",
+      "huong": "GIAM",
+      "do_chac": "thap",
+      "dich": null,
+      "han": "ngắn hạn",
+      "han_gio": null,
+      "vo_hieu_khi": "cây M5 full lực thì lên được",
+      "kich_ban_phu": "nếu nến M5 full lực thì lên tiếp",
+      "ly_do": ["đỉnh test hai lần không qua, râu, low volume xanh", "M5 khá xấu, lấp xong gap thì hết mục tiêu"],
+      "trich": "Đóng thêm một cái râu nữa thì khả năng là rụng. Còn nếu cây nến full lực thì khả năng là sẽ lên được.",
+      "doi_y": null,
+      "duong_di": null
+    }
+  ],
+  "vung_gia": {"khang_cu": [82000, 83000], "ho_tro": [78000, 78500]},
+  "lenh": [
+    {"chieu": "SHORT", "loai": "DCA bằng bot lưới", "vao": null, "tp": null, "sl": null,
+     "trang_thai": "dang_giu",
+     "trich": "Short của mình thì short thoải mái, cho nó chạy thêm 10.000 giá nữa cũng ok."}
+  ],
+  "nhin_lai_truoc": "Mục tiêu giai đoạn là lấp gap 80-81, đã xong; nhịp tăng tháng 4 dự đoán đúng hướng (Fear & Greed, dòng tiền, gap đều đúng). Hôm trước nhắc mục tiêu căng 83 và 90.",
+  "cong_cu": ["gap CME", "MA200 D1", "Fibo 0.618", "RSI", "volume", "Fear & Greed", "DOM/BTC.D", "heatmap thanh khoản"],
+  "tin_tuc": [
+    {"tin": "Iran bắn tên lửa (có thể tin fake) chiều hôm qua", "danh_gia": "chỉ là nhịp bán phản ứng ngắn hạn theo tin, chưa phải xu hướng"},
+    {"tin": "PMI tối nay, Non-farm thứ sáu, tuần sau bầu chủ tịch FED mới", "danh_gia": "Powell hết nhiệm kỳ, chuyển sang người mới"}
+  ],
+  "thoi_quen": [
+    "chưa short khi lực tăng còn tốt; tách việc chốt lời khỏi việc đảo lệnh",
+    "DCA short bằng bot lưới, biên to",
+    "không FOMO long vùng đỉnh, ngồi ngoài quan sát",
+    "đánh xổ số altcoin không SL, thấy không ổn thì out",
+    "tự kiểm soát khi thấy mình tự mãn: không vào volume lớn, không tăng đòn bẩy"
+  ],
+  "cau_cua_mieng": [
+    "Trong thị trường anh em phải biết đủ.",
+    "Short là một câu chuyện chặng đường dài cho nên các bạn cũng không cần phải vội.",
+    "Mình không phải thầy bói."
+  ],
+  "altcoin": [
+    {"coin": "ETH", "huong": "TANG", "ghi": "H4 còn đẹp nhưng đến ngưỡng, phụ thuộc BTC; gap 2006 mới chạm biên dưới"},
+    {"coin": "BTC.D", "huong": "TANG", "ghi": "DOM kéo lên khá cao, kịch bản hợp lý là DOM nhả cho altcoin chạy chút rồi gãy"},
+    {"coin": "ZEC", "huong": "GIAM", "ghi": "cao quá, khả năng gãy, có thể short xổ số"},
+    {"coin": "BNB", "huong": "TANG", "ghi": "30 phút có vẻ hai đáy, D1 còn cơ sở lên khoảng 650"}
+  ],
+  "ghi_chu": "Tên file không có giờ, gio_vn đặt 10:00. Giá 81.000 suy từ lời nói 'lên trên 81.000'. Tên điều kiện 'thủng 70' là mốc hết trend tăng."
+}
