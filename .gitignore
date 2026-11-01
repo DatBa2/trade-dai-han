@@ -3,3 +3,8 @@ __pycache__/
 .DS_Store
 .env
 .env.*
+
+# Ảnh chụp vị thế / màn hình cá nhân ở thư mục gốc
+/*.jpg
+/*.jpeg
+/*.png
