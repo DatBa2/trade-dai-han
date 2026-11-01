@@ -1,0 +1,224 @@
+{
+ "schema": "ke_hoach_v5/1",
+ "ma": "BTC",
+ "khung_hoi": "4H",
+ "gio_live": "2026-11-02 00:19",
+ "gio_cat": "2026-11-01 23:00",
+ "gio_phat_hanh": "2026-11-02 00:26",
+ "gia_dong": 77982,
+ "tep_doi_chieu": "bot_v5/doi_chieu/2026-11-01_BTC.md",
+ "lenh_ho_so": "python3 bot_v5/ngu_canh.py BTC 4H \"2026-11-01 23:00\"",
+ "view_truoc": {
+  "loai": "KHOI_TAO",
+  "tep": null,
+  "ghi_chu": "ke_hoach.py truoc: chưa có view nào phát hành trước T; khởi tạo từ trạng thái T−24h (H4 L01 GIẢM)"
+ },
+ "view": {
+  "H4": {
+   "huong": "GIAM",
+   "nhan": "GIẢM",
+   "do_chac": "cao",
+   "dich": [
+    76265,
+    76500
+   ],
+   "han": "2026-11-03 07:00",
+   "sai_khi": {
+    "khung": "4H",
+    "phia": "tren",
+    "gia": 81970,
+    "so_nen": 1
+   }
+  },
+  "D1": {
+   "huong": "GIAM",
+   "nhan": "GIẢM",
+   "do_chac": "vua",
+   "dich": [
+    74500,
+    75000
+   ],
+   "han": "2026-11-05 07:00",
+   "sai_khi": {
+    "khung": "1D",
+    "phia": "tren",
+    "gia": 79220,
+    "so_nen": 1
+   }
+  },
+  "W1": {
+   "huong": "GIAM",
+   "nhan": "GIẢM",
+   "do_chac": "vua",
+   "dich": [
+    73600,
+    74000
+   ],
+   "han": "2026-11-16 07:00",
+   "sai_khi": {
+    "khung": "1W",
+    "phia": "tren",
+    "gia": 80636,
+    "so_nen": 1
+   }
+  }
+ },
+ "hanh_dong": "CHO_VUNG",
+ "duong_di": [
+  {
+   "chang": 1,
+   "vung": [
+    78300,
+    78800
+   ],
+   "de": "test râu trên H4 10-30 15:00 + mép dưới dải EMA34 H4 / EMA89 D1 (suy luận)",
+   "han": "2026-11-02 23:00"
+  },
+  {
+   "chang": 2,
+   "vung": [
+    76265,
+    76500
+   ],
+   "de": "đích H4 — cần nến H4 đóng dưới cụm trendline hỗ trợ 76.600–77.200",
+   "han": "2026-11-03 07:00"
+  },
+  {
+   "chang": 3,
+   "vung": [
+    74500,
+    75000
+   ],
+   "de": "đích D1, thuận khung tuần",
+   "han": "2026-11-05 07:00"
+  }
+ ],
+ "ke_hoach": [
+  {
+   "id": "short_cho",
+   "khung_view": "D1",
+   "hanh_dong": "CHO_VUNG",
+   "chieu": "SHORT",
+   "luot": false,
+   "vao": {
+    "vung": [
+     78300,
+     78800
+    ]
+   },
+   "xac_nhan": {
+    "mo_ta": "sau khi nến tuần đóng 07:00 thứ Hai; H1 tạo 2 đỉnh không vượt 78.802, nến H1 đỏ đóng có volume vượt các cây trước; chia 2 entry ~78.450 và ~78.750, không limit",
+    "kiem_may": false
+   },
+   "huy_truoc_khi_vao": [
+    {
+     "kieu": "dong",
+     "khung": "1D",
+     "phia": "tren",
+     "gia": 79220,
+     "so_nen": 1
+    }
+   ],
+   "huy_khi_tp_truoc": true,
+   "het_han_cho": "2026-11-03 07:00",
+   "tp": [
+    {
+     "vung": [
+      76265,
+      76500
+     ],
+     "ty_le": 0.3
+    },
+    {
+     "vung": [
+      74500,
+      75000
+     ],
+     "ty_le": 0.3
+    },
+    {
+     "vung": [
+      73600,
+      74000
+     ],
+     "ty_le": 0.3
+    }
+   ],
+   "sl_cham": null,
+   "dong_khi": [
+    {
+     "khung": "1D",
+     "phia": "tren",
+     "gia": 79220,
+     "so_nen": 1
+    }
+   ],
+   "han": "2026-11-05 07:00",
+   "can_cu": [
+    {
+     "ten": "mép dưới dải EMA34 H4 78.442",
+     "ho": "EMA",
+     "khung": "4H"
+    },
+    {
+     "ten": "EMA89 D1 78.306",
+     "ho": "EMA",
+     "khung": "1D"
+    },
+    {
+     "ten": "Fibo 0.382 nhịp 81.970 → 76.265 = 78.445",
+     "ho": "FIBO",
+     "khung": "4H"
+    },
+    {
+     "ten": "râu trên H4 10-30 15:00 78.224 → 78.802, mới lấp 5%",
+     "ho": "RAU",
+     "khung": "4H"
+    }
+   ],
+   "ghi_chu_ghep": "TP1 = đích H4 (chặng 2), TP3 = đích W1 — chốt từng nấc 30/30/30 [ST1 D3]; mốc đóng lệnh = mốc sai D1"
+  },
+  {
+   "id": "long",
+   "khung_view": "H4",
+   "hanh_dong": "KHONG_LENH",
+   "ghi_chu": "giá dưới dải EMA34, EMA89, EMA200 H4 — không long; ngược 3 khung = cản tàu"
+  }
+ ],
+ "lenh_user": null,
+ "thieu_du_lieu": [
+  "Hyblock",
+  "heatmap thanh lý Coinglass",
+  "USDT.D",
+  "BTC.D",
+  "gap CME",
+  "số thực tế JOLTS/NFP",
+  "hồ sơ H1/M15 không chạy — điều kiện vào khung nhỏ chưa kiểm"
+ ],
+ "do_tin_chu_quan": [],
+ "khoa": {
+  "gio_luu": "2026-11-02 00:27",
+  "git": "0c6db72634d9b5836dfa9b0e8b61e337cd60472f",
+  "file_chua_commit": [],
+  "sha256": {
+   "bot_v5/NHAP_VAI.md": "920f41d7abfdd3dc3c539dd776e815262446510ed1809b067ccdb8261ae07c58",
+   "bot_v5/MAU_TRA_LOI.md": "3675c47a0e0afd0e6cd0f55579dbdf5db0eedea6105ca133d422ca0c48800bd0",
+   ".claude/commands/nhan-dinh.md": "95c5bed58fe62053e2ddc393685690a4485c8d21e0b262766d95a737edfe989a",
+   "bot_v5/ngu_canh.py": "8cd25d89c23d62f3d679dbf270f11943fb85a1b0117f0f4f65f9015ce303ea52",
+   "bot_v5/nen.py": "09aad570ee53031087a16bda9c143c00a65d558d8e20afd216322a9e601da62e",
+   "bot_v5/so_tay_den.py": "2f79652f72659d653946578adabcf24029046c36f789f4d681c172e88aa46ee5",
+   "bot_v5/ke_hoach.py": "883f292948874f8447052cc9a4a31bdab8028b1dfbd9790f88c5f7802ee7cdac",
+   "cong_cu/trendline.py": "55a4fbdecaec5034b7b54d526519116c011a9967c411cd8aacd8cb9c0c81ec87",
+   "cong_cu/chi_bao.py": "1f0a0cde1ccfa7b1d6ba6bc9f043b4bc8cd5a21e2212ae9d23073dd60f02a757",
+   "bot_v5/so_tay/1_huong_giu_lat_tin.md": "53ef30e9d483e88f5e0b4d9020cdcdb3fe09b86f933c9d41f5cffa63cac1330b",
+   "bot_v5/so_tay/2_trendline_nen_volume.md": "07845beb23d65e87a6145132833e8393af25d0906fb00381846d1afe7b18d1ce",
+   "bot_v5/so_tay/3_do_ve_vung_vao_tranh.md": "a2d38b1586293965dabe685ac12121af3e5df343a81c5152f0ee6a22aa343b79",
+   "bot_v5/_so_tay_T/20261101_2300/1_huong_giu_lat_tin.md": "8d33313f2f5dbb08c3169c537693f18c1276c6e4166f17839412733568ec8b20",
+   "bot_v5/_so_tay_T/20261101_2300/2_trendline_nen_volume.md": "8f0cf1ddaec549452a954c8a1a2dbb4b72d48d48865e4fcb33bcd60dac9e8526",
+   "bot_v5/_so_tay_T/20261101_2300/3_do_ve_vung_vao_tranh.md": "cf60dd4ba130b3485c5f914af633b1a256345bb07fa889df4a6956ead5717ab0",
+   "bot_v5/_so_tay_T/20261101_2300/giong_noi.md": "1ae0910792d0e7fb105e36fb49ba0f936a08e54b953bf50804a594f70f98001b"
+  },
+  "sha256_ho_so": "e725c51c6ec1abd2eabdfea7058060c8f4ab98d011cd6a4c471ad8961142eff1",
+  "che_do": "truc_tiep"
+ }
+}
