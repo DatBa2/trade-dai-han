@@ -1,8 +1,10 @@
 # trade_dai_han — Bot bắt chước một người phân tích BTC
 
 Tái tạo **tư duy + thói quen** nhận định thị trường của một người phân tích BTC (kênh YouTube FAM Trading) từ 180 buổi
-livestream (06/01 → 30/10/2026), rồi dựng bot nhận định **giống người đó** (không chèn ý riêng). Thước đo chính là độ giống;
-lãi/lỗ là phụ. Thiết kế + mọi yêu cầu đã chốt: [`DESIGN.md`](DESIGN.md).
+livestream (06/01 → 30/10/2026), rồi dựng bot nhận định **giống người đó** (không chèn ý riêng). **Độ giống** người đó và
+**độ đúng thị trường** (TP hay SL trước, đích hay mốc sai trước) là hai kết quả chấm riêng — giống hơn không đồng nghĩa
+kiếm tiền tốt hơn; muốn sửa khác cách người đó phải làm bản riêng, kiểm riêng. Thiết kế + mọi yêu cầu đã chốt:
+[`DESIGN.md`](DESIGN.md).
 
 ## Dùng ngay: bot v5 (nhận định từ ảnh chart)
 
@@ -18,7 +20,9 @@ Bot đọc ảnh → lấy ngữ cảnh **đúng tại thời điểm T, không 
 EMA89/200/610, trendline kẻ theo cách người đó, Fibo, đỉnh đáy, râu chưa test, lịch tin, Fed kỳ tới + Polymarket, F&G, BTC) →
 đọc sổ tay đã lọc theo T (`bot_v5/so_tay_den.py`) → trả lời 11 mục: hướng H4/D1/W1, đường đi, đích + mốc sai theo nến đóng,
 chỗ VÀO, chỗ TRÁNH, GIỮ/ĐÓNG lệnh, râu, trendline, tin & Fed, lời bình → lưu `bot_v5/doi_chieu/<ngày T>_<MÃ>.md` để ghi kết
-quả thật về sau. Hướng dẫn: [`bot_v5/CACH_DUNG.md`](bot_v5/CACH_DUNG.md). Ảnh trước 07/2026: model có thể nhớ diễn biến → bài thử
+quả thật về sau, kèm `bot_v5/ke_hoach/<…>.json` (kế hoạch máy chấm, khoá phiên bản). Chấm sau đó:
+`python3 bot_v5/cham_ke_hoach.py bot_v5/ke_hoach/<…>.json` — kết quả lệnh (khớp? TP hay SL/mốc đóng trước, MAE/MFE, hạn
+là cột riêng) tách khỏi độ đúng dự báo và thứ tự đường đi. Hướng dẫn: [`bot_v5/CACH_DUNG.md`](bot_v5/CACH_DUNG.md). Ảnh trước 07/2026: model có thể nhớ diễn biến → bài thử
 không sạch (bot tự in cảnh báo).
 
 ## Luồng dự án
@@ -43,7 +47,7 @@ không sạch (bot tự in cảnh báo).
 | v1, v2 | luật máy từ sổ tay | 2026 (trong mẫu) lãi; **2025 ngoài mẫu lỗ** (v1 −27,6%, v2 −42,9%) — `backtest/` |
 | v3 | Claude suy luận theo sổ tay T1–T6, thi 77 buổi T7–T10 | trùng hướng H4 với người đó **60%** (đáp án v2) — không hơn "luôn GIẢM" 64% / "giữ view" 65%; đúng thị trường 32% vs người đó 52% — `thi/BAO_CAO_XU_LY_P0.md` |
 | v4 | luật máy khoá thiết kế trước, vốn 4.000$ | **lỗ mọi năm** (6 tài sản 2024 −62,6% · 2025 −69,4% · 2026 −58%; BTC −16% / −21% / −19%), không hơn giả dược — `bot_v4/KET_QUA.md` |
-| v5 | Claude nhập vai thuần + sổ tay 180 buổi + ngữ cảnh tại T | dùng thử theo ảnh; chưa có điểm chấm hàng loạt — đối chiếu dần trong `bot_v5/doi_chieu/` |
+| v5 | Claude nhập vai thuần + sổ tay 180 buổi + ngữ cảnh tại T | dùng thử theo ảnh; **chưa kiểm chứng**: chưa có nhận định mới nào khoá trước diễn biến rồi chấm. Ca hồi cứu OKB 21/09 (đã biết kết quả, chỉ để kiểm bộ chấm): đích đúng nhưng sai thứ tự đường đi — TP chạm 21/09 trước khi về vùng chờ mua 28/09 |
 
 Hành vi người đó đo được (180 buổi, `hoc_v5/giu_lat/GIU_LAT.md`): giữ view buổi trước **72%**; không luật máy nào đoán lúc lật
 tốt hơn "giữ view"; lật nhiều khi giá ra ngoài dải EMA34 H4 phía sai view (52% vs 16%); xác suất Fed tăng lãi kỳ tới > 70% →
@@ -55,7 +59,10 @@ người rút nhãn độc lập ~83–89% (trần đo được của "độ gi�
 - Thi v3: snapshot + băm `thi/_snapshot_v3_chan_doan/`, khoá `thi/KHOA_CHAM.md`; đáp án v2 rút mù, luật phân xử chốt trước
   `thi/dap_an_v2/QUY_TAC_PHAN_XU.md`; sửa P0 theo phản biện Codex `thi/SUA_P0.md` (8 kiểm thử).
 - Bot v4: thiết kế khoá sha256 trước code `bot_v4/KHOA.md`; `bot_v4/kiem_tra.py` (114 kiểm); 0 lần sửa sau lần chạy đầu.
-- Bot v5: sổ tay lọc theo T (`bot_v5/kiem_tra_so_tay_den.py`), ngữ cảnh cắt cụt (`bot_v5/kiem_tra_ngu_canh.py`).
+- Bot v5: sổ tay lọc theo T (`bot_v5/kiem_tra_so_tay_den.py`), ngữ cảnh cắt cụt (`bot_v5/kiem_tra_ngu_canh.py`), bộ chấm
+  + kế hoạch + view trước T (`bot_v5/kiem_tra_cham.py`: thứ tự thời gian, cùng nến, nến đóng ≠ chạm giá, hạn tách riêng,
+  khoá, chống rò rỉ, hồi quy OKB 21/09).
+- Hồi cứu hiện tại không phải ngoài mẫu sạch: sổ tay giữ thống kê tổng hợp cả năm, trendline chọn trên cả 180 buổi.
 - Phản biện / kiểm độc lập bởi Codex: `CODEX_NHAN_XET.md`, `kiem_cheo/` (`GUI_CODEX_KIEM_TOAN_BO.md` để Codex chạy lại toàn bộ).
 
 ## Giới hạn

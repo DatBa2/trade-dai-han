@@ -29,8 +29,9 @@ NGHI = 0.12  # giây giữa 2 lần gọi OKX (giới hạn 20 lần / 2 giây)
 NenGia = namedtuple("NenGia", "mo dong o h l c v nhan")
 
 KHUNG = ("15m", "1H", "4H", "1D", "1W", "1M")
-GIAY = {"15m": 900, "1H": 3600, "4H": 14400, "1D": NGAY, "1W": 7 * NGAY}  # 1M: theo lịch
-OKX_BAR = {"15m": "15m", "1H": "1H", "4H": "4H", "1D": "1Dutc", "1W": "1Wutc", "1M": "1Mutc"}
+GIAY = {"1m": 60, "5m": 300, "15m": 900, "1H": 3600, "4H": 14400, "1D": NGAY, "1W": 7 * NGAY}  # 1M: theo lịch
+OKX_BAR = {"1m": "1m", "5m": "5m", "15m": "15m", "1H": "1H", "4H": "4H", "1D": "1Dutc", "1W": "1Wutc", "1M": "1Mutc"}
+# 1m / 5m chỉ dùng cho bộ chấm (lay_khoang) để phân xử thứ tự trong 1 nến; hồ sơ ngu_canh vẫn chỉ nhận KHUNG
 # cửa sổ dữ liệu lấy về (tính lùi từ T): đủ ấm EMA610 cho khung nhỏ, đủ "từ lúc niêm yết" cho khung lớn
 CUA_SO = {"15m": 2500 * 900, "1H": 2500 * 3600, "4H": 2500 * 14400, "1D": 3000 * NGAY,
           "1W": 600 * 7 * NGAY, "1M": 200 * 31 * NGAY}
@@ -81,7 +82,7 @@ def dong_nen(mo, khung):
 
 
 def nhan_okx(mo, dong, khung):
-    if khung in ("15m", "1H", "4H"):
+    if khung in ("1m", "5m", "15m", "1H", "4H"):
         return s_vn(dong)
     if khung == "1M":
         return utc_dt(mo).strftime("%Y-%m")
@@ -352,3 +353,43 @@ def lay_chuoi(ma, khung, t, cache_dir=None, offline=False):
     if ma in YAHOO:
         return _chuoi_yahoo(ma, khung, t, cache_dir, offline)
     return _chuoi_okx(ma, khung, t, cache_dir, offline)
+
+
+def lay_khoang(ma, khung, tu, den, cache_dir, offline=False):
+    """(mô tả nguồn, [NenGia]) — nến OKX khung `khung` có giờ MỞ ≥ tu và giờ ĐÓNG ≤ den (giây UTC), tăng dần.
+    Dùng cho bộ chấm (`bot_v5/cham_ke_hoach.py`): cache RIÊNG do bên gọi chỉ định, không dùng chung cache của hồ sơ.
+    Không trả nến nào đóng sau `den`; thiếu đoạn nào trong cache mà offline → trả phần có (bên gọi tự báo thiếu)."""
+    if khung not in OKX_BAR or khung == "1M":
+        raise LoiDuLieu(f"khung {khung} không hỗ trợ cho lay_khoang")
+    if ma in YAHOO:
+        raise LoiDuLieu(f"{ma}: nguồn Yahoo chưa hỗ trợ trong bộ chấm")
+    cache_dir = Path(cache_dir)
+    inst = giai_inst(ma, cache_dir, offline)
+    ten = f"okx_{inst}_{khung}"
+    p_csv, p_meta = cache_dir / f"{ten}.csv", cache_dir / f"{ten}.json"
+    ra = _doc_csv(p_csv)
+    meta = _doc_meta(p_meta)
+    phu = _gop_khoang(meta.get("phu", []))
+    a, b = mo_nen_chua(tu, khung), mo_nen_chua(den, khung)
+    if a < tu:
+        a = dong_nen(a, khung)
+    thieu = _thieu(phu, a, b)
+    if thieu and not offline:
+        tran = mo_nen_chua(int(time.time()) - 120, khung)
+        for x, y in thieu:
+            y = min(y, tran)
+            if y <= x:
+                continue
+            ra.update(_okx_tai(inst, khung, x, y))
+            phu = _gop_khoang(phu + [[x, y]])
+        _ghi_csv(p_csv, ra)
+        meta["phu"] = phu
+        meta["inst"] = inst
+        _ghi_meta(p_meta, meta)
+    nen = []
+    for mo in sorted(ra):
+        mo_, dong, o, h, l, c, v = ra[mo]
+        if mo >= tu and dong <= den:
+            nen.append(NenGia(mo, dong, float(o), float(h), float(l), float(c), float(v), nhan_okx(mo, dong, khung)))
+    loai = "spot" if not inst.endswith("SWAP") else "perp (SWAP)"
+    return f"OKX {loai} {inst}", nen

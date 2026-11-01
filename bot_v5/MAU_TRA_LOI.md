@@ -1,6 +1,6 @@
 # MẪU TRẢ LỜI — bot v5 (khuôn CỐ ĐỊNH, không đổi thứ tự mục)
 
-> Dùng cùng `bot_v5/NHAP_VAI.md`. Mỗi lần nhận định trả lời đúng 11 mục dưới (0 → 10) + dòng cuối, rồi ghi file đối chiếu (phần B).
+> Dùng cùng `bot_v5/NHAP_VAI.md`. Mỗi lần nhận định trả lời đúng 11 mục dưới (0 → 10) + dòng cuối, rồi ghi file đối chiếu (phần B) + kế hoạch máy chấm (phần C).
 > Chữ trong `<…>` là chỗ điền. Bảng "Luật điền từng mục" không in ra. `[ST1 …]`, `[ST2 …]`, `[ST3 …]` = case trong
 > `bot_v5/so_tay/1_…`, `2_…`, `3_…` (xem đầu NHAP_VAI).
 
@@ -18,6 +18,10 @@
 5. Không bàn đòn bẩy, khối lượng, SL theo giá (user không dùng SL) — trừ khi user hỏi.
 6. Giờ ghi giờ VN, dạng `YYYY-MM-DD HH:MM` hoặc `DD/MM HH:MM`.
 7. Thiếu dữ liệu nào thì ghi "không có dữ liệu <X>", không đoán.
+8. **Dữ kiện ≠ suy luận.** Số trong hồ sơ (râu chưa test, EMA chưa test, trendline vừa phá 1 nến) là dữ kiện; câu về
+   đường đi ("về test râu trước rồi mới lên") là suy luận → viết "nghiêng về…", không viết như chuyện chắc chắn ("râu
+   chưa test" không chứng minh "sẽ test trước khi tới TP"). Số % (giọng người đó) chỉ ở Lời bình, kèm "(cảm nhận)" — chưa
+   đo, không phải xác suất; độ chắc ở mục 1 dùng thấp / vừa / cao.
 
 ---
 
@@ -29,6 +33,7 @@
 Ảnh: <đọc được gì> · nét vẽ của user: <mô tả ngắn / "không có"> (chỉ là gợi ý, đã đối chiếu: <khớp / không khớp luật nào>)
      | không có — user ghi thẳng `<MÃ> <KHUNG> "<T>"`
 View: GIỮ <hướng> (không có tác động mới) | ĐỔI sang <hướng> vì (<a/b/c/d>) <tác động cụ thể>
+      | KHỞI TẠO <hướng> (chưa có view bot phát hành trước T — suy từ T−24h)
 
 ### 1. Kết luận
 | Khung | Hướng | Độ chắc | Vì sao (căn cứ trong hồ sơ) |
@@ -88,7 +93,7 @@ Hành động lúc này: <VÀO NGAY ở … / CHỜ giá về vùng vào (mục 
 - Không có dữ liệu: <Hyblock / heatmap thanh lý / USDT.D / BTC.D / gap CME… nếu cần mà thiếu>
 
 ### 10. Lời bình
-> <3–5 câu, giọng người đó: xưng "mình", gọi "anh em"; dứt khoát ở luật, xác suất bằng số; nhắc mốc nến đóng;
+> <3–5 câu, giọng người đó: xưng "mình", gọi "anh em"; dứt khoát ở luật, % (nếu có) kèm "(cảm nhận)"; nhắc mốc nến đóng;
 > kết bằng một câu cửa miệng hợp tình huống. Không thêm ý mới ngoài mục 1–9.>
 
 Dữ liệu dùng tới: <YYYY-MM-DD HH:MM> VN (nến <KHUNG> cuối đã đóng; hồ sơ `ngu_canh.py <MÃ> <KHUNG> "<T>"`)
@@ -98,7 +103,7 @@ Dữ liệu dùng tới: <YYYY-MM-DD HH:MM> VN (nến <KHUNG> cuối đã đóng
 
 | Mục | Luật |
 |---|---|
-| Đầu | `giá đóng` = "giá đóng cuối" trong hồ sơ. Phiên/thứ lấy từ mục "Thời gian" của hồ sơ. Dòng **Ảnh**: user không gửi ảnh mà ghi thẳng `<MÃ> <KHUNG> "<T>"` → ghi "Ảnh: không có — user ghi thẳng …", bỏ bước kiểm chéo giá ảnh (NHAP_VAI §2.4 chỉ áp khi có ảnh). Dòng View bắt buộc: mặc định GIỮ; ĐỔI chỉ khi có (a) nến đóng qua mốc sai, (b) chạm đích, (c) tin/biến động lớn lộ lực thật, (d) đầu tuần/đầu tháng view lại khung lớn — ghi đúng tác động. Không có view buổi trước → suy từ "Trạng thái lúc T−24h" của hồ sơ (NHAP_VAI Bước 0). |
+| Đầu | `giá đóng` = "giá đóng cuối" trong hồ sơ. Phiên/thứ lấy từ mục "Thời gian" của hồ sơ. Dòng **Ảnh**: user không gửi ảnh mà ghi thẳng `<MÃ> <KHUNG> "<T>"` → ghi "Ảnh: không có — user ghi thẳng …", bỏ bước kiểm chéo giá ảnh (NHAP_VAI §2.4 chỉ áp khi có ảnh). Dòng View bắt buộc: mặc định GIỮ; ĐỔI chỉ khi có (a) nến đóng qua mốc sai, (b) chạm đích, (c) tin/biến động lớn lộ lực thật, (d) đầu tuần/đầu tháng view lại khung lớn — ghi đúng tác động. View so với kế hoạch từ `ke_hoach.py truoc`; lệnh đó báo KHỞI TẠO → dòng "KHỞI TẠO <hướng>" suy từ "Trạng thái lúc T−24h" (NHAP_VAI Bước 0). |
 | 1 | **TĂNG / GIẢM** theo công thức giá–dải EMA34–EMA89–EMA200 trên H4 + công tắc nến đóng (NHAP_VAI §3 Bước 5, §4.1; [ST1 B1–B9]). **Kẹp giữa** (giá trong dải EMA34, hoặc giữa dải EMA34 và EMA89/200) → GIỮ hướng view đang có, hành động = CHỜ; đổi chỉ khi có công tắc nến đóng ([04-28], L35, L07). D1/W1 GIẢM mà H4 TĂNG → "TĂNG (hồi kỹ thuật)"; D1/W1 TĂNG mà H4 GIẢM → "GIẢM (điều chỉnh)"; hàng D1/W1 giữ hướng khung lớn (L06, L05). D1 ngược W1 → hướng trung hạn chính theo W1, lệnh theo D1 chỉ lướt (L05, L33). **PHÂN VÂN** chỉ khi giá nằm ngay vùng công tắc hẹp VÀ chưa có nến đóng xác nhận → cột "Vì sao" ghi "chờ nến <khung> <giờ đóng> ĐÓNG trên X / dưới Y"; khi đó mục 2–3 của khung đó ghi "chờ", không ghi đích. Đứng ngoài chờ giá về vùng vào ≠ PHÂN VÂN (vẫn ghi hướng, hành động = CHỜ). Độ chắc: **thấp** (lý do < 3), **vừa**, **cao** (đã 2 nến đóng xác nhận + ≥ 3 căn cứ cùng chiều **và** không có khung xung đột). Khung xung đột (H4 ngược D1/W1, D1 ngược W1) → tối đa **vừa** (L34; [07-07], [07-31]). Độ chắc thấp KHÔNG tự thành PHÂN VÂN. |
 | 2 | Chặng 1 = chỗ giá đi "để làm gì" trước (test râu chưa test, test EMA kế tiếp, Fibo 0.5, quét đỉnh/đáy sát giá nơi đám đông chờ); chặng 2 = hướng chính [ST3 E1–E4]. Đích chặng 1 ngược hướng chính = **chỗ VÀO** ở mục 4 [ST3 C4]. Hạn: chặng H4 trong ngày → ~1 ngày ("View H4 dùng trong ngày", A6); đích D1 vài ngày (đo: trung vị 2,5 ngày); đích W1 ~2 tuần (đo: trung vị 15 ngày) (A6 "hạn dùng của view"; [ST1 A4]: view D1 bền trung vị 3 ngày, W1 6 ngày; đo: đích D1 chạm trung vị 2,5 ngày, W1 15,4 ngày). |
 | 3 | **Mỗi khung một dòng đích theo hướng của CHÍNH khung đó** (hướng ở mục 1) — 3 view của 3 khung, không phải nước đôi. Đích = nấc kế tiếp (không nhảy nấc, L21), có ≥ 2 căn cứ (tốt nhất ≥ 3) trong cùng vùng hẹp (L20): Fibo mở rộng 1 / 1.618, EMA kế tiếp chưa test (34 → 89 → 200 → 610, theo giá trị EMA hiện tại), đỉnh/đáy/râu cũ, S/R đổi vai, Fibo thoái lui khung lớn [ST3 A2–A6]. H4 "hồi kỹ thuật"/"điều chỉnh" → đích H4 = kháng cự/hỗ trợ khung lớn chưa test = chỗ VÀO trung hạn ở mục 4 (L06, [ST3 C1–C2]); chỉ ghi nấc 1 (lệnh ngược khung lớn TP ngắn, không gồng — L33). **Mốc sai mỗi khung** (NHAP_VAI §5): giá RÂU của đỉnh (view GIẢM) / đáy (view TĂNG) cấu trúc gần nhất của khung đó, điều kiện "nến <khung> ĐÓNG qua", né số tròn (L25, L27, [03-04]); view vừa đổi vì một mức công tắc bị đóng qua → mốc sai = lấy lại mức công tắc đó ([ST1 B3], [ST1 D4]); W1 khi giá đã ở bên kia đỉnh/đáy tuần mà nến tuần chưa đóng → cản/hỗ trợ tuần gần nhất phía bất lợi ([ST1 A5], L03). |
@@ -146,25 +151,42 @@ Dữ liệu dùng tới: <YYYY-MM-DD HH:MM> VN (nến <KHUNG> cuối đã đóng
 ## Nhận định của bot
 <dán NGUYÊN VĂN câu trả lời theo khuôn A>
 
-## Tóm tắt để chấm
-| Khung | Hướng | Đích của khung này (theo hướng của chính nó) | Hạn | View sai khi (nến đóng) |
-|---|---|---|---|---|
-| H4 | <TĂNG / GIẢM / TĂNG (hồi kỹ thuật) / GIẢM (điều chỉnh) / PHÂN VÂN> | <= "Đích H4 (chặng gần)" mục 3> | <…> | nến H4 ĐÓNG <trên/dưới> <số> |
-| D1 | <…> | <= "Đích D1" mục 3> | <…> | nến D1 ĐÓNG <trên/dưới> <số> |
-| W1 | <…> | <= "Đích W1" mục 3> | <…> | nến W1 ĐÓNG <trên/dưới> <số> |
-Chỗ VÀO: <…> · Chỗ TRÁNH: <…>
-(Mỗi hàng chấm riêng theo hướng + đích + mốc sai của chính khung đó; PHÂN VÂN ghi "chờ nến … ĐÓNG trên X / dưới Y" ở cột đích.)
-
-## Kết quả thật (USER ghi sau — bot không điền, không đọc phần này khi nhận định)
-- Ngày ghi:
-- Diễn biến sau T (cao nhất / thấp nhất trong hạn, kèm ngày):
-- Chấm H4: ĐÚNG / SAI / CHƯA RÕ — (ĐÚNG = chạm đích, râu cũng tính, trong hạn TRƯỚC khi nến đóng qua mốc sai; SAI = nến đóng qua mốc sai trước; CHƯA RÕ = hết hạn chưa chạm cả hai)
-- Chấm D1: ĐÚNG / SAI / CHƯA RÕ —
-- Chấm W1: ĐÚNG / SAI / CHƯA RÕ —
-- Đường đi: đúng thứ tự chặng 1 → chặng 2? —
-- Chỗ VÀO có phản ứng không: —
-- Chỗ TRÁNH có đúng là nên tránh không: —
-- Râu: test lại đúng như bot nói? —
-- Trendline: phá thật/giả đúng? —
-- Bot sai ở đâu (hướng / đích / hạn / vùng / râu / trendline) + ghi chú:
+## Kết quả
+Không ghi ở đây. Kế hoạch máy chấm ở `bot_v5/ke_hoach/<cùng tên>.json`; kết quả do `bot_v5/cham_ke_hoach.py` ghi riêng
+vào `bot_v5/ket_qua/` (ghi chú tay của user cũng ở đó).
 ```
+
+---
+
+## C. KẾ HOẠCH MÁY CHẤM — `bot_v5/ke_hoach/<cùng stem file đối chiếu>.json`
+
+Ghi bằng Write (`"khoa": null`) rồi chạy `python3 bot_v5/ke_hoach.py luu bot_v5/ke_hoach/<stem>.json`. Báo LỖI → sửa JSON
+(lỗi chỉ ra câu trả lời tự mâu thuẫn — vd TP thấp hơn chỗ vào LONG — thì sửa cả câu trả lời) rồi chạy lại tới "ĐÃ KHOÁ".
+Mọi số trong JSON = số trong câu trả lời. Không sửa file đã khoá.
+
+```
+{"schema": "ke_hoach_v5/1", "ma": "<MÃ>", "khung_hoi": "<KHUNG>", "gio_live": "<giờ yêu cầu>", "gio_cat": "<T>",
+ "gio_phat_hanh": "<giờ trả lời>", "gia_dong": <giá đóng>, "tep_doi_chieu": "bot_v5/doi_chieu/<stem>.md",
+ "lenh_ho_so": "python3 bot_v5/ngu_canh.py <MÃ> <KHUNG> \"<T>\"",
+ "view_truoc": {"loai": "KHOI_TAO" | "TU_KE_HOACH", "tep": null | "<file ke_hoach.py truoc báo>"},
+ "view": {"H4": {"huong": "TANG|GIAM|PHAN_VAN", "nhan": "<chữ ở mục 1>", "do_chac": "thap|vua|cao", "dich": [a, b],
+                 "han": "YYYY-MM-DD[ HH:MM]", "sai_khi": {"khung": "4H", "phia": "duoi|tren", "gia": x, "so_nen": 1}},
+          "D1": {… "sai_khi": {"khung": "1D", …}}, "W1": {… "sai_khi": {"khung": "1W", …}}},
+ "hanh_dong": "VAO_NGAY|CHO_VUNG|CHO_XAC_NHAN|GIU|CHOT|DONG|KHONG_LENH",
+ "duong_di": [{"chang": 1, "vung": [a, b], "de": "<để làm gì>", "han": "…"}, {"chang": 2, …}],
+ "ke_hoach": [{"id": "long_cho", "khung_view": "D1", "hanh_dong": "CHO_VUNG", "chieu": "LONG", "luot": false,
+               "vao": {"vung": [a, b]}, "xac_nhan": {"mo_ta": "<tín hiệu H1/M15 ở mục 4>", "kiem_may": false},
+               "huy_truoc_khi_vao": [], "tp": [{"vung": [a, b], "ty_le": null}], "sl_cham": null,
+               "dong_khi": [{"khung": "1D", "phia": "duoi", "gia": x, "so_nen": 1}], "han": "…",
+               "can_cu": [{"ten": "<căn cứ + số>", "ho": "EMA|FIBO|DINH_DAY|RAU|TRENDLINE|KHAC", "khung": "4H"}],
+               "ghi_chu_ghep": ""}],
+ "lenh_user": null, "thieu_du_lieu": ["…"], "do_tin_chu_quan": ["<câu % ở Lời bình, nếu có>"], "khoa": null}
+```
+
+| Trường | Luật |
+|---|---|
+| view | 3 khung như mục 1 + 3; `dich` = đích của khung đó, `sai_khi` = mốc sai nến ĐÓNG đúng khung (H4 → 4H, D1 → 1D, W1 → 1W). PHAN_VAN: bỏ dich/sai_khi, ghi `"cho": {"tren": Y, "duoi": X}`. `han` = hạn mục 3 (chỉ ngày = hết ngày đó). |
+| ke_hoach | Mỗi chỗ VÀO ở mục 4 = 1 mục (LONG, SHORT riêng); không có chỗ vào cho một phía → `{"id": "short", "hanh_dong": "KHONG_LENH"}`. `khung_view` = view lệnh theo; TP lấy từ đích / chặng của view đó, `dong_khi` = mốc sai của view đó (= chỗ đóng lệnh mục 6); lấy mức của khung khác → giải thích ở `ghi_chu_ghep`. Lệnh ngược hướng view (lướt) → `"luot": true`. |
+| vào | `CHO_VUNG` → `vao.vung`; `CHO_XAC_NHAN` → thêm `"kich_hoat": {nến đóng}`; `VAO_NGAY` → `vao: {"gia": <giá đóng>}`; user đang cầm lệnh → `GIU` / `CHOT` / `DONG` + `"lenh_user": {"chieu", "gia_vao", "gio_vao"}`. Điều kiện khung nhỏ không kiểm bằng máy → `kiem_may: false` (bộ chấm chỉ nói "giá chạm vùng"). Huỷ trước khi vào: `{"kieu": "cham", "phia", "gia"}` hoặc `{"kieu": "dong", "khung", "phia", "gia", "so_nen"}`. |
+| ra | User không dùng SL → `sl_cham: null`. `tp[].ty_le` = tỷ lệ chốt (0.3 …) nếu mục 6 có chốt từng phần, không thì null. |
+| can_cu | Các căn cứ hội tụ của chỗ vào ở mục 4, mỗi cái một họ; script báo số căn cứ / số họ (nhiều Fibo cùng họ là trùng lặp). |

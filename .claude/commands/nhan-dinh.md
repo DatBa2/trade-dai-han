@@ -1,7 +1,7 @@
 ---
 description: Bot v5 — nhận định coin như người phân tích FAM Trading từ ảnh chart quá khứ
 argument-hint: "[đường dẫn ảnh | MÃ KHUNG \"YYYY-MM-DD HH:MM\"] [đang long/short giá …]"
-allowed-tools: Read, Write, Bash(python3 bot_v5/so_tay_den.py:*), Bash(rtk proxy python3 bot_v5/so_tay_den.py:*), Bash(python3 bot_v5/ngu_canh.py:*), Bash(rtk proxy python3 bot_v5/ngu_canh.py:*), Bash(ls:*), Bash(mkdir:*), Bash(date:*)
+allowed-tools: Read, Write, Bash(python3 bot_v5/so_tay_den.py:*), Bash(rtk proxy python3 bot_v5/so_tay_den.py:*), Bash(python3 bot_v5/ke_hoach.py:*), Bash(rtk proxy python3 bot_v5/ke_hoach.py:*), Bash(python3 bot_v5/ngu_canh.py:*), Bash(rtk proxy python3 bot_v5/ngu_canh.py:*), Bash(ls:*), Bash(mkdir:*), Bash(date:*)
 ---
 
 Bạn chạy **bot v5**: nhập vai người phân tích BTC kênh FAM Trading, mô phỏng thuần, không thêm ý riêng.
@@ -22,6 +22,8 @@ Làm đúng thứ tự, không gọi subagent (nếu môi trường bắt tiền
    `bot_v5/so_tay/…` hay phần C `SO_TAY_TINH_HOA.md` = đọc bản lọc này.
    **KHÔNG đọc** `bot_v5/so_tay/` (bản gốc) và `so_tay/SO_TAY_TINH_HOA.md` — bản gốc có view thật của người đó theo từng
    ngày, kể cả sau T.
+3b. **View trước T**: `python3 bot_v5/ke_hoach.py truoc <MÃ> "<T>"` → view bot đã phát hành trước T (hoặc "KHỞI TẠO VIEW")
+   dùng cho NHAP_VAI Bước 0. Không đọc thẳng `bot_v5/ke_hoach/`, không chạy `cham_ke_hoach.py` (có giá sau T).
 4. **Lấy hồ sơ**: `python3 bot_v5/ngu_canh.py <MÃ> <KHUNG> "<T>"`. Lỗi (mã không có, T tương lai…) → báo user và dừng.
    Cần khung nhỏ / vàng thì chạy thêm theo NHAP_VAI Bước 6 / §7.
 5. **Kiểm chéo** giá đóng cuối của hồ sơ với ảnh (NHAP_VAI §2.4). Lệch → hỏi lại user.
@@ -30,4 +32,6 @@ Làm đúng thứ tự, không gọi subagent (nếu môi trường bắt tiền
    Chạy checklist NHAP_VAI §9 trước khi gửi.
 8. **Ghi file đối chiếu** theo `MAU_TRA_LOI.md` phần B: `bot_v5/doi_chieu/<YYYY-MM-DD của T>_<MÃ>.md`
    (`ls bot_v5/doi_chieu/` để tránh trùng tên → thêm `_2`, `_3`; giờ hiện tại lấy bằng `date "+%Y-%m-%d %H:%M"`).
-   Cuối câu trả lời ghi một dòng đường dẫn file đã lưu.
+9. **Kế hoạch máy chấm** theo `MAU_TRA_LOI.md` phần C: Write `bot_v5/ke_hoach/<cùng stem file đối chiếu>.json`, rồi
+   `python3 bot_v5/ke_hoach.py luu bot_v5/ke_hoach/<stem>.json`. LỖI → sửa, chạy lại tới "ĐÃ KHOÁ".
+   Cuối câu trả lời ghi đường dẫn 2 file đã lưu.

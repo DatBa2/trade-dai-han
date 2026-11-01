@@ -13,6 +13,15 @@ Bot đưa ra nhận định **khi user yêu cầu**, đối chiếu **theo từn
 Đầu vào học phải có **lời nói + hình chart đồng bộ trong video**, đủ ngữ cảnh để hiểu người đó
 đang chỉ vào đâu và lập luận dựa trên hình nào (user chốt 29/10).
 
+**Hai kết quả đánh giá riêng (làm rõ 01/11/2026 — README, DESIGN, NHAP_VAI từng lệch nhau giữa "bắt chước thuần" và
+"học sửa sai theo thị trường"):**
+- **Độ giống người hình mẫu** (cùng thời điểm T, bot nói giống người đó không) và **độ đúng thị trường** (lệnh TP hay SL
+  trước, đích hay mốc sai trước) là hai điểm chấm riêng, báo riêng. Không tuyên bố "giống hơn" = "kiếm tiền tốt hơn".
+- Bản mô phỏng (bot v5) tiếp tục làm đúng phương pháp người hình mẫu ("mô phỏng thuần", user chốt: "đừng tự thêm ý của
+  bạn"). Sổ sai ghi cả lỗi cùng sai với người đó.
+- "Học từ kết quả để sửa sai" (29/10) = đề xuất **cố ý khác hình mẫu** → ghi rõ là khác, có phiên bản riêng, kiểm riêng
+  trên phiên mới sau khi sửa rồi mới áp dụng; không âm thầm đưa vào bản mô phỏng, không sửa chỉ để thắng lại ca đã biết.
+
 ## Đầu ra: DỨT KHOÁT, không nước đôi (user chốt 29/10)
 - Ra **sau khi nến H4 đóng** (H4 = khung người đó nhắc nhiều nhất: 28 lần / 3 buổi mẫu, D1 16, H1 11).
 - Nói thẳng "nến như này → sẽ chạy như này". 1 trong 3:
@@ -24,7 +33,16 @@ Bot đưa ra nhận định **khi user yêu cầu**, đối chiếu **theo từn
   lớn, đầu tuần/đầu tháng view lại khung lớn). PHÂN VÂN chỉ khi giá lấp lửng ở mốc quyết định, phải chờ nến xác nhận.
   Phải chỉ ra PHÁ VỠ GIẢ (break trap / fake out) khi thấy.
 - CHẤM (user 31/10): KHÔNG chấm theo 24h. ĐÚNG = chạm đích (râu cũng tính) trong hạn (vài ngày–2 tuần) TRƯỚC khi chạm SL /
-  nến đóng qua mốc sai; SAI chỉ khi chạm SL/mốc sai trước. `cong_cu/cham_dich.py`.
+  nến đóng qua mốc sai; SAI chỉ khi chạm SL/mốc sai trước. `cong_cu/cham_dich.py` (giữ nguyên cho bài thi đã khoá).
+- CHẤM LỆNH (user 01/11, thay chữ "trong hạn" ở dòng trên cho bot v5): hỏi kết quả một lệnh thì điều quyết định là SAU KHI
+  VÀO, TP hay SL / mốc đóng lệnh xảy ra trước. Hạn vẫn lưu nhưng là cột riêng (đúng / trễ hạn), không che hay thay kết
+  quả TP/SL. User nói vào ngày 21/9 → xét từ lúc vào đó, không đổi thành lệnh chờ ngày khác. Thiếu giá vào / chiều / giờ
+  → ghi thiếu, giới hạn kết luận, không tự điền. SL theo giá chạm ≠ mốc đóng theo NẾN ĐÓNG (đúng khung, đúng số cây).
+  Kết quả lệnh ≠ độ đúng dự báo: lệnh thắng vẫn có thể sai đường đi / sai cách vào. TP chạm trước khi khớp không tính
+  thắng; chưa khớp / đã huỷ / chưa ngã ngũ báo đúng tên; cùng nến chạm TP và SL → dữ liệu nhỏ hơn, vẫn không rõ → "không
+  rõ thứ tự" (không suy từ OHLC). `bot_v5/cham_ke_hoach.py`.
+- VIEW BUỔI TRƯỚC (01/11): = kế hoạch bot đã PHÁT HÀNH trước T (`bot_v5/ke_hoach.py truoc`). Không có → "KHỞI TẠO VIEW",
+  không suy từ giá T−24h rồi nói như đã biết view hôm qua. Mô phỏng quá khứ không lấy nhận định phát hành sau T làm lịch sử.
 - BẮT BUỘC thêm (user chốt 30/10): **(1) Râu nến** — râu trên/dưới gần nhất (giá, nến nào), có test lại không và vì sao;
   **(2) Vùng ổn** để vào lệnh (short và/hoặc long) — khoảng giá + LÝ DO vì sao ổn = các căn cứ hội tụ (râu, EMA Sonic R,
   đỉnh/đáy cũ đổi vai, mốc người đó đã nêu, cụm thanh lý/chỗ đám đông đặt SL). Giá đang ở giữa 2 vùng ổn thì nói rõ "không vào giữa".
@@ -105,6 +123,12 @@ và kết quả lệnh nếu có; dùng kết quả này cho vòng học sửa s
 - Kiểm tra ảnh có khớp đoạn nói, đúng cặp/khung nến, đọc đúng vùng giá và đường vẽ;
   chỉ dùng lời nói, ảnh và dữ liệu đã có tại thời điểm nhận định.
 - Claude biết giá BTC tới ~06/2026 → phần 2 chỉ thi sạch trên video sau 06/2026 hoặc chạy tiếp từ nay.
+- Hồi cứu hiện tại **không phải ngoài mẫu sạch** dù sổ tay đã bỏ ví dụ ≥ T: sổ tay vẫn giữ số tần suất / [đo] tổng hợp
+  cả năm (có phần sau T); trendline chọn biến thể trên cả 180 buổi và đường chính chỉ khớp 13/33 (`hoc_v5/trendline/CHON.md`).
+  Kết luận về độ đúng chỉ từ nhận định MỚI, khoá trước khi có diễn biến (01/11).
+- Mỗi nhận định v5 khoá phiên bản: git commit, sha256 luật / sổ tay / code, sha256 hồ sơ tại T (`ke_hoach.py luu`). Ghi
+  đủ ca sai, chưa khớp, chưa ngã ngũ. Phân loại lỗi: dữ liệu / rút nhãn · bắt chước · dự báo · thực thi. Mỗi bản sửa có lý
+  do + bằng chứng, kiểm trên phiên mới sau khi sửa. So với mốc đơn giản cùng tập: hoãn tới khi có ≥ 20–30 nhận định mới.
 
 ## Không làm (giai đoạn đầu)
 Tự vào lệnh · nhiều người hình mẫu.

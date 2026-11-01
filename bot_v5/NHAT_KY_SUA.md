@@ -65,3 +65,37 @@ T = 2026-03-01: ST1 200 · ST2 193 · ST3 87 · giọng nói 3 dòng + 37 câu.
 - Bỏ cả dòng (đúng yêu cầu) nên dòng LUẬT có trích dẫn ≥ T cũng mất (vd ST2 bảng tra nhanh "Phá = nến đóng cửa qua đường" khi T < 10-19); luật cốt lõi vẫn có trong NHAP_VAI. Muốn giữ phần luật thì đổi sang cắt theo vế câu (rủi ro: câu không ngày nối sau trích dẫn có thể còn lộ diễn biến).
 - Số tần suất / [đo] tổng hợp cả năm (vd "GIẢM 105/119") và tiêu đề "2026 là năm downtrend" vẫn giữ theo yêu cầu — là thông tin gộp có cả sau T.
 - NHAP_VAI §8 dòng "Nguồn: `so_tay/SO_TAY_TINH_HOA.md` phần C" và MAU_TRA_LOI mục 10 vẫn ghi đường dẫn gốc (ngoài phần được sửa) — đã phủ bằng câu "= bản lọc cùng tên" ở đầu NHAP_VAI; nên đổi chữ ở lượt sau.
+
+## Kế hoạch máy chấm + bộ chấm theo thứ tự thời gian + view trước T (02/11/2026)
+
+Vấn đề (phản biện Codex + yêu cầu user mới nhất): (1) file đối chiếu chỉ có chữ, không máy chấm được; cách chấm cũ gắn
+"ĐÚNG" với "trong hạn" và không tách lệnh khỏi dự báo — ca OKB 21/09: TP 123.0 chạm 21/09 18:00 VN TRƯỚC khi giá về vùng
+chờ mua 115.8–116.8 (28/09), nhưng câu hỏi "lệnh vào 21/9" bị trả lời bằng lệnh chờ 28/9; (2) "view hôm trước" chỉ là
+suy từ giá/EMA lúc T−24h nhưng được viết như đã biết view hôm qua; (3) README / DESIGN / NHAP_VAI lệch nhau về mục tiêu.
+
+| Việc | Trước | Sau | Chỗ |
+|---|---|---|---|
+| Kế hoạch có cấu trúc | Bảng "Tóm tắt để chấm" trong .md | JSON `ke_hoach_v5/1` cùng tên trong `bot_v5/ke_hoach/`: view 3 khung (đích, mốc sai nến đóng đúng khung, hạn), hành động, đường đi, từng kế hoạch lệnh (vào, xác nhận, huỷ, TP + tỷ lệ, SL chạm giá, đóng theo nến đóng + số cây, căn cứ theo họ). Kiểm nhất quán: thứ tự giá, mốc sai đúng khung, TP / mốc đóng phải thuộc view của kế hoạch (ghép khung khác → bắt buộc giải thích), lệnh ngược view phải đánh dấu lướt, báo căn cứ / họ (cảnh báo đếm trùng, không đổi ngưỡng) | `ke_hoach.py kiem`, MAU phần C |
+| Khoá phiên bản | Không | `ke_hoach.py luu`: git commit, file chưa commit, sha256 NHAP_VAI / MAU / lệnh / code / sổ tay gốc + sổ tay lọc theo T, sha256 hồ sơ tại T dựng lại offline, chế độ hồi cứu/trực tiếp; mục lục `SO_KE_HOACH.tsv` lưu sha256 file → sửa sau khoá bị phát hiện, khoá lại bị từ chối | `ke_hoach.py` |
+| Bộ chấm v5 | Tự điền tay ĐÚNG/SAI/CHƯA RÕ theo hạn | `cham_ke_hoach.py`: A kích hoạt (chạm vùng ≠ khớp hợp lệ khi điều kiện H1/M15 chưa kiểm; TP trước khi khớp không tính thắng; chưa khớp; đã huỷ) · B TP hay SL / mốc đóng trước sau khi vào · C thời gian, MAE/MFE · D đích từng khung trước/sau mốc sai + thứ tự chặng · E hạn là cột riêng (trễ hạn không đổi kết quả). Nến gốc 1H, cùng nến → 15m/5m/1m, vẫn chung → KHÔNG RÕ; không suy thứ tự từ OHLC (ngoại lệ ghi rõ: tính liên tục khi giá mở đã trong vùng / SL xa hơn vùng vào). Lệnh user: giờ/giá do user nói, thiếu chiều/giờ → từ chối, thiếu giá → ghi THIẾU, chỉ biết ngày → xét từng giờ, nến lúc vào đã chạm TP → PHỤ THUỘC GIÁ. Kết quả ghi file mới `bot_v5/ket_qua/`, không đè, không đụng file kế hoạch. `cong_cu/cham_dich.py` giữ nguyên cho bài thi đã khoá | `cham_ke_hoach.py`, `nen.lay_khoang` (+1m/5m), cache riêng `bot_v5/cache_cham/` |
+| View trước T | Suy từ T−24h, ghi "View: GIỮ …" | `ke_hoach.py truoc <MÃ> "<T>"`: chỉ kế hoạch đã khoá, đúng sha, gio_phat_hanh ≤ T; trạng thái tới T bằng nến ≤ T (nguồn có dữ liệu sau T → từ chối); không có / quá 7 ngày (ngưỡng chọn tay) → "KHỞI TẠO VIEW". Mọi lần hỏi thời điểm quá khứ hiện nay = KHỞI TẠO | `ke_hoach.py`, NHAP_VAI Bước 0, MAU dòng View |
+| Dữ kiện ≠ suy luận, % chủ quan | "xác suất bằng số" | MAU luật chung 8: câu đường đi là suy luận ("nghiêng về…"); % chỉ ở Lời bình kèm "(cảm nhận)", lưu `do_tin_chu_quan`; mục 1 dùng thấp/vừa/cao | MAU, NHAP_VAI §8–§9 |
+| Mục tiêu | README "độ giống là chính", DESIGN "học sửa sai", NHAP_VAI "mô phỏng thuần" | Hai điểm chấm riêng; v5 mô phỏng theo hình mẫu; sửa khác hình mẫu = bản riêng, kiểm riêng trên phiên mới. DESIGN thêm CHẤM LỆNH (01/11), VIEW BUỔI TRƯỚC, hồi cứu không phải ngoài mẫu sạch | DESIGN, README, CACH_DUNG §4 |
+| Cấm đọc khi nhận định | — | + `bot_v5/ke_hoach/` (chỉ qua `truoc`), `ket_qua/`, `cache_cham/`, `kiem_tra_cham/`, `backtest/`; không chạy `cham_ke_hoach.py` | NHAP_VAI §1.4, lệnh |
+
+**Kiểm** — `python3 bot_v5/kiem_tra_cham.py` → **PASS hết 67/67** (~2 giây, offline). Đột biến thử 4 luật (cùng nến chọn
+TP; Gia không cắt tại den; đếm nến đóng không liên tiếp; TP trước khớp tính là kết quả) → mỗi đột biến làm 1–9 kiểm FAIL.
+`kiem_tra_ngu_canh.py` + `kiem_tra_so_tay_den.py` sau khi sửa `nen.py`: PASS hết.
+
+**Hồi quy OKB 21/09** (kế hoạch chuyển tay từ `doi_chieu/2026-09-21_OKB.md` sang `kiem_tra_cham/okb_2026-09-21.json`; người
+chuyển đã biết diễn biến → chỉ để kiểm bộ chấm, không tính thống kê; nến OKX 1H/4H/1D/1W 14/09 → 01/11 07:00 VN trong
+`kiem_tra_cham/du_lieu/`): kế hoạch chờ mua → TP chạm 21/09 18:00–19:00 VN trước khi khớp (không tính thắng); giá chạm
+vùng 28/09 12:00 VN; sau đó TP 05/10 09:00 VN, trễ hạn 3 ngày 9 giờ. Lệnh user vào 21/09 11:00 (không giá) → TP 21/09
+18:00 trước. Dự báo: H4/D1 đích trước (21/09), W1 đích trước (06/10); đường đi SAI THỨ TỰ (chặng 2 trước chặng 1).
+
+**Chưa làm / chưa kiểm chứng**
+- Chưa chạy `/nhan-dinh` thật với hướng dẫn mới → chưa kiểm bot có viết JSON hợp lệ ngay lần đầu không (validator sẽ chặn
+  nếu sai). Chưa có nhận định MỚI nào khoá trước diễn biến → chưa có số đo độ đúng nào.
+- So với mốc đơn giản, thống kê lỗi theo nhóm: hoãn tới khi có ≥ 20–30 nhận định mới.
+- Nguồn Yahoo (VANG…) chưa hỗ trợ trong bộ chấm; OKX 1m/5m chỉ tải khi cần phân xử cùng nến.
+- MAE/MFE bỏ nến khớp và nến kết quả (không rõ thứ tự trong nến) → có thể thấp hơn thật.

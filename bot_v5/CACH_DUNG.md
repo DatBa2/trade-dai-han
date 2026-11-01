@@ -43,17 +43,41 @@ Chỗ **TRÁNH** · Đang có lệnh thì **GIỮ hay ĐÓNG** · Râu nến · 
 - T trước **01/07/2026** → bot ghi cảnh báo: model có thể nhớ giá thật giai đoạn đó, nên kết quả kiểm tra không sạch.
   Kiểm thử nghiêm túc thì chọn thời điểm **từ 07/2026 trở đi**.
 
-## 4. Ghi lại để đối chiếu
+## 4. Ghi lại và chấm kết quả
 
-Mỗi lần nhận định, bot tự lưu `bot_v5/doi_chieu/<ngày của T>_<MÃ>.md` (trùng thì thêm `_2`, `_3`). File có:
-1. Giờ yêu cầu, giờ nến cuối dùng, lệnh lấy dữ liệu.
-2. **Nguyên văn nhận định** + bảng tóm tắt (hướng / đích / hạn / view sai khi).
-3. Mục **"Kết quả thật"** để trống — **bạn tự điền** sau khi xem chart thật:
-   - **ĐÚNG** = giá chạm đích (râu cũng tính) trong hạn, TRƯỚC khi có nến đóng qua mốc sai.
-   - **SAI** = nến đóng qua mốc sai trước.
-   - **CHƯA RÕ** = hết hạn mà chưa chạm cả hai.
-   - Ghi thêm: chỗ vào có phản ứng không, chỗ tránh có đúng không, râu có test lại không, trendline phá thật/giả đúng không,
-     bot sai ở đâu.
+Mỗi lần nhận định, bot lưu 2 file cùng tên (trùng thì thêm `_2`, `_3`):
+1. `bot_v5/doi_chieu/<ngày của T>_<MÃ>.md` — giờ yêu cầu, giờ nến cuối dùng, lệnh lấy dữ liệu, **nguyên văn nhận định**.
+2. `bot_v5/ke_hoach/<cùng tên>.json` — bản máy chấm được: hướng H4/D1/W1, đích + mốc sai từng khung, hành động, chỗ vào,
+   TP, điều kiện đóng lệnh (khung, số cây), đường đi, căn cứ, phần thiếu dữ liệu. `ke_hoach.py luu` **khoá** file này
+   (git commit + sha256 luật / sổ tay / code + sha256 hồ sơ tại T) và ghi `bot_v5/ke_hoach/SO_KE_HOACH.tsv`; sửa sau
+   khoá sẽ bị phát hiện.
 
-Không chấm theo 24 giờ — hạn là vài ngày tới 2 tuần (theo đích bot ghi).
-Bot **không đọc** các file đối chiếu cũ khi nhận định (vì có kết quả thật bạn đã ghi).
+Chấm (chạy tay, cần mạng lần đầu để tải nến sau T vào `bot_v5/cache_cham/`):
+```
+python3 bot_v5/cham_ke_hoach.py bot_v5/ke_hoach/<tên>.json            # in báo cáo
+python3 bot_v5/cham_ke_hoach.py bot_v5/ke_hoach/<tên>.json --ghi      # + lưu bot_v5/ket_qua/<tên>__toi_<giờ dữ liệu cuối>.md
+```
+Báo cáo tách riêng:
+- **Kết quả LỆNH** từng kế hoạch: A. có kích hoạt không (chỉ "giá chạm vùng" khi điều kiện H1/M15 chưa kiểm; TP chạm
+  TRƯỚC khi khớp → không tính thắng; chưa khớp / đã huỷ) · B. sau khi vào **TP hay SL / mốc đóng lệnh tới trước** ·
+  C. thời gian tới kết quả, đi ngược / đi thuận lớn nhất · E. hạn: trong / trễ hạn (cột riêng, không đổi kết quả).
+- **Độ đúng DỰ BÁO** từng khung: đích trước hay mốc sai (nến ĐÓNG) trước; râu chạm mốc sai ghi riêng, không tính;
+  D. đường đi đúng hay sai thứ tự chặng. Lệnh thắng vẫn có thể sai đường đi.
+- Cùng 1 nến chạm cả TP và SL → xét nến 15m / 5m / 1m; vẫn không tách được → **KHÔNG RÕ THỨ TỰ** (không đoán từ OHLC).
+- Hết dữ liệu chưa chạm gì → **CHƯA NGÃ NGŨ** kèm giờ dữ liệu cuối.
+- Hỏi lại thời điểm quá khứ (phát hành > 24h sau T) = **hồi cứu**: chấm từ T; trực tiếp: chấm từ giờ phát hành.
+
+Hỏi kết quả **lệnh của bạn** (giờ / giá do bạn nói; thiếu thì bot báo thiếu, không tự điền):
+```
+python3 bot_v5/cham_ke_hoach.py bot_v5/ke_hoach/<tên>.json --lenh-user LONG --theo <id kế hoạch> --vao-luc "2026-09-21 11:00" --gia-vao 120.2
+python3 bot_v5/cham_ke_hoach.py bot_v5/ke_hoach/<tên>.json --lenh-user LONG --theo <id> --vao-ngay 2026-09-21   # không rõ giờ
+python3 bot_v5/cham_ke_hoach.py --ma BTC --lenh-user SHORT --vao-luc "…" --tp 70300-70700 --dong-khi "1D tren 72000 1"
+```
+Lệnh bạn vào ngày 21/9 được xét từ đúng lúc vào đó — không bị đổi thành lệnh chờ của bot. Chỉ biết ngày → xét mọi giờ
+trong ngày, giờ nào nến lúc vào đã chạm TP/SL thì báo "PHỤ THUỘC GIÁ VÀO".
+
+Ghi chú tay (bot sai ở đâu, phân loại lỗi: dữ liệu / bắt chước / dự báo / thực thi) → ghi vào cuối file trong
+`bot_v5/ket_qua/`, không sửa file nhận định / kế hoạch. Bot **không đọc** `ket_qua/`, `cache_cham/`, file đối chiếu cũ.
+View hôm trước bot chỉ lấy qua `ke_hoach.py truoc` (file phát hành trước T); hỏi thời điểm quá khứ → luôn "KHỞI TẠO VIEW".
+
+Kiểm bộ chấm (offline, ~2 giây): `python3 bot_v5/kiem_tra_cham.py`.

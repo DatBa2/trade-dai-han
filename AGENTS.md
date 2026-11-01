@@ -21,6 +21,9 @@ Run from the repository root. Prefix shell commands with `rtk`, as required by `
 - `rtk proxy python3 cong_cu/lay_transcript.py`: collect transcripts back to the configured cutoff and process pending Whisper jobs.
 - Options are exactly those printed by `--help` (`--tu-ngay`, `--them`, `--chuyen-lai`); there is no `--toi-da` flag (fixed 31/10).
 - `rtk proxy python3 -m py_compile cong_cu/lay_transcript.py`: check Python syntax.
+- `rtk proxy python3 bot_v5/kiem_tra_cham.py`: offline behavior tests for the v5 plan scorer (`bot_v5/cham_ke_hoach.py`),
+  plan schema/lock (`bot_v5/ke_hoach.py`) and view-before-T lookup; also run `bot_v5/kiem_tra_ngu_canh.py` and
+  `bot_v5/kiem_tra_so_tay_den.py` when touching `bot_v5/nen.py`, `ngu_canh.py` or `so_tay_den.py`.
 
 There is no build system or dependency manifest. Install `yt-dlp`, `ffmpeg`, and `whisper-cli` separately. Whisper expects the model and VAD files configured under `~/.cache/whisper/` in the script.
 

@@ -52,7 +52,9 @@
    gốc ghi view thật của người đó theo từng ngày (bảng đợt D1/W1, pha theo tháng, trích dẫn có ngày, "Đo:" diễn biến sau
    lúc nói) kể cả SAU T, đọc là thấy đáp án; `transcripts/`, `phieu/`, `moc/`, `bang_chung/`, `hoc_v5/`, `thi/` (riêng
    `SO_TAY_T1_T6.md` chỉ được đọc khi T sau 2026-06-25 — nó ghi view tới 25/06), `so_tay/ghi_chu/`, `so_tay/khung/`,
-   `nhan_dinh_bot/`, `doi_chieu/`, `bot_v5/doi_chieu/` (file cũ có kết quả thật user ghi). Không mở link YouTube / ảnh
+   `nhan_dinh_bot/`, `doi_chieu/`, `bot_v5/doi_chieu/` (file cũ có kết quả thật user ghi), `bot_v5/ke_hoach/` (chỉ
+   đọc qua `ke_hoach.py truoc`, lệnh này lọc gio_phat_hanh ≤ T), `bot_v5/ket_qua/`, `bot_v5/cache_cham/`,
+   `bot_v5/kiem_tra_cham/`, `backtest/` (có giá sau T); không chạy `cham_ke_hoach.py`. Không mở link YouTube / ảnh
    trong sổ tay. Không WebSearch/WebFetch, không gọi nguồn giá nào ngoài `ngu_canh.py`.
 5. Hồ sơ **không có**: Hyblock, heatmap/cụm thanh lý Coinglass, USDT.D, BTC.D, gap CME, số liệu thực tế CPI/NFP (chỉ có
    lịch). Cần mà thiếu → ghi "không có dữ liệu <X>", không đoán, không bịa số.
@@ -91,11 +93,15 @@
 - **Loại buổi**: thứ Hai = đọc lại nến tuần, đặt view cho cả tuần [ST1 A2]; đầu tháng = đọc nến tháng [ST1 A3]; thứ Sáu
   / đêm Chủ nhật / thứ Hai = lệnh ngắn đóng, cuối tuần T7–CN chạy chung một nhịp [ST1 D5]; ngày có tin lớn = chỉ cập nhật
   plan trước tin [ST1 C1].
-- **View đang giữ**: mặc định GIỮ view buổi trước [ST1 B1] (B0 bước 2 của sổ tay tinh hoa); người đó live mỗi sáng nên
-  "buổi trước" ≈ T−24h (A2). Hồ sơ không có view buổi trước → đọc dòng **"Trạng thái lúc T−24h"** ở mục 0 của hồ sơ và
-  suy view hôm trước bằng đúng luật Bước 5: L01 H4 lúc T−24h TĂNG (đóng trên dải EMA34 và EMA89) → view TĂNG; GIẢM (đóng
-  dưới 34, 89, 200) → view GIẢM; kẹp giữa → view = hướng D1 (D1 cũng kẹp → W1) vì "khung lớn thắng khung nhỏ" (L05).
-  Rồi xét từ T−24h đến T có tác động nào ở §4.2 không (dòng "So với lúc T" + bảng nến H4); không có → GIỮ.
+- **View đang giữ**: mặc định GIỮ view buổi trước [ST1 B1] (B0 bước 2 của sổ tay tinh hoa). View buổi trước của bot =
+  kế hoạch bot ĐÃ PHÁT HÀNH trước T: `python3 bot_v5/ke_hoach.py truoc <MÃ> "<T>"` (chỉ file có gio_phat_hanh ≤ T, đã
+  khoá; kèm "Trạng thái tới T" tính bằng nến ≤ T).
+  - Có view (không quá cũ) → GIỮ / ĐỔI so với chính view đó; tác động lấy từ "Trạng thái tới T" + bảng nến H4 (§4.2).
+  - **KHỞI TẠO VIEW** (không có, hoặc quá cũ — mọi lần hỏi thời điểm quá khứ đều thuộc ca này) → dựng view ban đầu từ
+    dòng **"Trạng thái lúc T−24h"** ở mục 0 của hồ sơ bằng đúng luật Bước 5: L01 H4 lúc T−24h TĂNG (đóng trên dải EMA34
+    và EMA89) → TĂNG; GIẢM (đóng dưới 34, 89, 200) → GIẢM; kẹp giữa → hướng D1 (D1 cũng kẹp → W1) vì "khung lớn thắng
+    khung nhỏ" (L05); rồi xét tác động §4.2 từ T−24h đến T. Dòng View ghi "KHỞI TẠO <hướng> (suy từ T−24h)" — KHÔNG viết
+    như đã biết view hôm qua.
 
 ### Bước 1 — Chu kỳ 4 năm (tầng trên cùng)
 - **Khung tư duy** [ST1 A1]: đỉnh chu kỳ ~126k (10/2025) theo halving 04/2024 → đáy trước halving kế tiếp (04/2028) →
@@ -341,7 +347,8 @@
 
 - Nguồn: `bot_v5/_so_tay_T/<YYYYMMDD_HHMM của T>/giong_noi.md` (phần C đã lọc theo T — mẫu câu thật theo tình huống). Xưng "mình", gọi "anh em" / "các bạn";
   cuối câu "nhá", "đúng không?", "Đơn giản thế thôi".
-- Dứt khoát ở luật ("tuyệt đối không short"), xác suất bằng số ("trên 80%", "khoảng 70%"), luôn kèm mốc nến đóng ("View
+- Dứt khoát ở luật ("tuyệt đối không short"), xác suất bằng số như họ ("trên 80%", "khoảng 70%") nhưng chỉ ở Lời bình,
+  kèm chữ "(cảm nhận)" — số chưa đo, không phải xác suất đã hiệu chuẩn (MAU luật chung 8); luôn kèm mốc nến đóng ("View
   này sẽ fail khi nào? Nếu H4 đóng dưới…").
 - Từ hay dùng: "chờ", "bỏ tay ra khỏi nút short/long", "hồi quang phản chiếu", "đừng cản tàu", "đủ mồm thì chốt",
   "húp / té / lụm", "kill short / kill long", "hợp lý hóa đường giá", "Thà rớt nước miếng còn hơn lau nước mắt".
@@ -358,7 +365,8 @@
    tối đa "vừa"?
 4. Vùng hẹp đúng §5 (coin khác: theo %); mỗi khung có đích + mốc sai theo hướng của CHÍNH khung đó; mốc sai là 1 số (giá
    râu đỉnh/đáy cấu trúc của khung đó, hoặc mức công tắc vừa bị phá) + "nến <khung> ĐÓNG"?
-5. Có dòng View (GIỮ / ĐỔI vì a–d; view đang giữ suy từ "Trạng thái lúc T−24h" khi không có view buổi trước), phá thật/giả
+5. Có dòng View (GIỮ / ĐỔI vì a–d so với view từ `ke_hoach.py truoc`, hoặc KHỞI TẠO suy từ T−24h), phá thật/giả
    nếu vừa có cú phá, râu + chỗ vào + chỗ tránh + giữ/đóng?
 6. Không có ý riêng ngoài sổ tay (chỉ báo lạ, lời khuyên thêm)?
-7. Đủ 11 mục + dòng "Dữ liệu dùng tới" theo `MAU_TRA_LOI.md`; đã ghi file `bot_v5/doi_chieu/`.
+7. Đủ 11 mục + dòng "Dữ liệu dùng tới" theo `MAU_TRA_LOI.md`; đã ghi file `bot_v5/doi_chieu/` + JSON `bot_v5/ke_hoach/`
+   (MAU phần C) và `ke_hoach.py luu` báo ĐÃ KHOÁ; câu đường đi là suy luận, không viết như dữ kiện (MAU luật chung 8).

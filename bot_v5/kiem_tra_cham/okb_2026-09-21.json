@@ -1,0 +1,49 @@
+{
+ "schema": "ke_hoach_v5/1",
+ "nguon_chuyen": "Chuyển tay ngày 2026-11-02 từ bot_v5/doi_chieu/2026-09-21_OKB.md (lần chạy 1, phát hành 2026-10-31 12:55, trước khi có schema). Người chuyển đã biết diễn biến sau T → chỉ dùng làm ca kiểm hồi quy bộ chấm, KHÔNG tính vào thống kê dự báo. Số lấy nguyên văn từ mục 2–4 và bảng 'Tóm tắt để chấm'.",
+ "ma": "OKB",
+ "khung_hoi": "4H",
+ "gio_live": "2026-10-31 12:55",
+ "gio_cat": "2026-09-21 11:00",
+ "gio_phat_hanh": "2026-10-31 12:55",
+ "gia_dong": 120.19,
+ "tep_doi_chieu": "bot_v5/doi_chieu/2026-09-21_OKB.md",
+ "lenh_ho_so": "python3 bot_v5/ngu_canh.py OKB 4H \"2026-09-21 11:00\"",
+ "view_truoc": {"loai": "KHOI_TAO", "tep": null, "ghi_chu": "bản gốc ghi 'View: GIỮ TĂNG' suy từ trạng thái T−24h; theo quy ước mới đó là KHỞI TẠO VIEW"},
+ "view": {
+  "H4": {"huong": "TANG", "nhan": "TĂNG", "do_chac": "vua", "dich": [123.0, 124.2], "han": "2026-10-01",
+         "sai_khi": {"khung": "4H", "phia": "duoi", "gia": 114.4, "so_nen": 1}},
+  "D1": {"huong": "TANG", "nhan": "TĂNG", "do_chac": "vua", "dich": [123.0, 124.2], "han": "2026-10-01",
+         "sai_khi": {"khung": "1D", "phia": "duoi", "gia": 107.9, "so_nen": 1}},
+  "W1": {"huong": "TANG", "nhan": "TĂNG", "do_chac": "thap", "dich": [129.1, 131.0], "han": "2026-10-19",
+         "sai_khi": {"khung": "1W", "phia": "duoi", "gia": 101.6, "so_nen": 1}}
+ },
+ "hanh_dong": "CHO_VUNG",
+ "duong_di": [
+  {"chang": 1, "vung": [115.8, 116.8], "de": "test râu dưới D1 09-20 (50% = 116.20) + test lại dải EMA34 H4", "han": "2026-09-23"},
+  {"chang": 2, "vung": [123.0, 124.2], "de": "đích nấc 1 — cần nến H4 ĐÓNG giữ trên 120.0", "han": "2026-10-01"},
+  {"chang": 3, "vung": [129.1, 131.0], "de": "chỉ khi nến tuần ĐÓNG trên 120.0", "han": "2026-10-19"}
+ ],
+ "ke_hoach": [
+  {"id": "long_cho", "khung_view": "D1", "hanh_dong": "CHO_VUNG", "chieu": "LONG", "luot": false,
+   "vao": {"vung": [115.8, 116.8]},
+   "xac_nhan": {"mo_ta": "H1 tạo 2–3 đáy không thủng thêm trong vùng, nến H1 rút chân có volume mua vượt các cây trước; chia 2 entry ~116.6 và ~115.9", "kiem_may": false},
+   "huy_truoc_khi_vao": [],
+   "tp": [{"vung": [123.0, 124.2], "ty_le": null}],
+   "sl_cham": null,
+   "dong_khi": [{"khung": "1D", "phia": "duoi", "gia": 107.9, "so_nen": 1}],
+   "han": "2026-10-01",
+   "can_cu": [
+    {"ten": "dải EMA34 H4 114.47–116.50", "ho": "EMA", "khung": "4H"},
+    {"ten": "đỉnh H4 cũ đổi vai 115.99 / 116.04 / 116.79", "ho": "DINH_DAY", "khung": "4H"},
+    {"ten": "Fibo 0.5 nhịp D1 108.50 → 123.27 = 115.88", "ho": "FIBO", "khung": "1D"},
+    {"ten": "Fibo 0.618–0.786 nhịp H4 114.52 → 120.41 = 116.77 / 115.78", "ho": "FIBO", "khung": "4H"},
+    {"ten": "50% râu dưới D1 09-20 = 116.20, chưa chạm lại", "ho": "RAU", "khung": "1D"}
+   ],
+   "ghi_chu_ghep": ""},
+  {"id": "short", "khung_view": "H4", "hanh_dong": "KHONG_LENH", "ghi_chu": "không có chỗ SHORT: giá trên EMA34 + EMA89 H4, ngược D1/W1 = cản tàu"}
+ ],
+ "thieu_du_lieu": ["Hyblock", "heatmap thanh lý Coinglass", "USDT.D", "BTC.D", "gap CME", "số thực tế tin"],
+ "do_tin_chu_quan": ["Lời bình: 'khoảng 70% là giá về test lại 115.8–116.8 trước rồi mới tính lên 123–124' — cảm nhận, chưa hiệu chuẩn"],
+ "khoa": null
+}

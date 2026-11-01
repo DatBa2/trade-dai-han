@@ -8,3 +8,6 @@ __pycache__/
 /*.jpg
 /*.jpeg
 /*.png
+
+# Nến tải về để chấm (tải lại được từ OKX); dữ liệu kiểm thử cố định ở bot_v5/kiem_tra_cham/du_lieu/
+bot_v5/cache_cham/
