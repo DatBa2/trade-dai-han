@@ -1,8 +1,0 @@
-/Users/badat/linhtinh/trade_dai_han/transcripts/zip_clean/2026-07-29_2FMmTeLGCNY.txt
-/Users/badat/linhtinh/trade_dai_han/transcripts/zip_clean/2026-07-29__TlYbqPT8nU.txt
-/Users/badat/linhtinh/trade_dai_han/transcripts/zip_clean/2026-07-30_qBG2h5D9CrE.txt
-/Users/badat/linhtinh/trade_dai_han/transcripts/zip_clean/2026-07-31_SlGyokVNofU.txt
-/Users/badat/linhtinh/trade_dai_han/transcripts/zip_clean/2026-08-03_U6juTGDLJek.txt
-/Users/badat/linhtinh/trade_dai_han/transcripts/zip_clean/2026-08-04_K6QkKY6Og7o.txt
-/Users/badat/linhtinh/trade_dai_han/transcripts/zip_clean/2026-08-05_uw4QcusFtBc.txt
-/Users/badat/linhtinh/trade_dai_han/transcripts/zip_clean/2026-08-06__Ypby-_iFsg.txt
