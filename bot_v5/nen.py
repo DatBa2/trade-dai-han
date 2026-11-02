@@ -6,6 +6,9 @@
   Header User-Agent, nghỉ NGHI giây giữa 2 lần gọi; chỉ lưu nến confirm = "1".
 - VANG (GC=F), DAU (CL=F), DXY (DX-Y.NYB), NASDAQ (^IXIC): Yahoo chart API như `backtest/tai_du_lieu.py`
   (15m: 60 ngày gần nhất; 1h: 730 ngày → 1H và gộp 4H căn UTC 00/04/…; 1d: 10 năm → 1D, gộp 1W/1M theo lịch New York).
+  CME (BTC=F) cùng đường Yahoo — ngu_canh dùng 1h để tìm gap CME.
+- BTC.D / USDT.D: PROXY theo ngày từ CoinMarketCap data-api (như `thi/tao_ho_so.py`), `lay_dom()`; lưu cache dạng nến
+  o=h=l=c (vol = vốn hoá) để phép thử đầu độc của `kiem_tra_ngu_canh.py` phủ luôn.
 - Cache: `bot_v5/cache/<nguồn>.csv` (mo_utc, dong_utc, open, high, low, close, vol — giờ UTC) + `<nguồn>.json`
   (OKX: các khoảng giờ MỞ đã tải đủ `phu`; Yahoo: `lay_luc` = lúc tải, mọi nến đóng ≤ lay_luc đều có).
   `offline=True` → chỉ đọc cache, không gọi mạng (dùng cho kiểm cắt cụt).
@@ -34,7 +37,7 @@ OKX_BAR = {"15m": "15m", "1H": "1H", "4H": "4H", "1D": "1Dutc", "1W": "1Wutc", "
 # cửa sổ dữ liệu lấy về (tính lùi từ T): đủ ấm EMA610 cho khung nhỏ, đủ "từ lúc niêm yết" cho khung lớn
 CUA_SO = {"15m": 2500 * 900, "1H": 2500 * 3600, "4H": 2500 * 14400, "1D": 3000 * NGAY,
           "1W": 600 * 7 * NGAY, "1M": 200 * 31 * NGAY}
-YAHOO = {"VANG": ("GC=F", 17), "DAU": ("CL=F", 17), "DXY": ("DX-Y.NYB", 17), "NASDAQ": ("^IXIC", 16)}
+YAHOO = {"VANG": ("GC=F", 17), "DAU": ("CL=F", 17), "DXY": ("DX-Y.NYB", 17), "NASDAQ": ("^IXIC", 16), "CME": ("BTC=F", 17)}
 YAHOO_IV = {"15m": ("15m", "60d", 900), "1h": ("1h", "730d", 3600), "1d": ("1d", "10y", None)}
 OKX_URL = "https://www.okx.com/api/v5/market/history-candles?instId={}&bar={}&limit=100&after={}"
 YAHOO_URL = "https://query1.finance.yahoo.com/v8/finance/chart/{}?interval={}&range={}"
@@ -341,6 +344,52 @@ def _chuoi_yahoo(ma, khung, t, cache_dir, offline):
                   else (lambda mo, dg: dt.datetime.fromtimestamp(mo, NY).strftime("%Y-%m")))
             nen = [n for n in _gop(sorted(nhom.items()), fn) if n.dong <= t and n.mo >= a]
     return f"Yahoo {sym}", nen
+
+
+# ---------------- CoinMarketCap: BTC.D / USDT.D ----------------
+CMC_TU = int(dt.datetime(2025, 1, 1, tzinfo=UTC).timestamp())
+CMC_TRE = 3600  # ảnh chụp CMC coi như biết sau 1 giờ (độ trễ bảo thủ như thi/tao_ho_so.py)
+CMC_GLOBAL = ("https://api.coinmarketcap.com/data-api/v3/global-metrics/quotes/historical"
+              "?format=chart&interval=1d&timeStart={}&timeEnd={}")
+CMC_USDT = ("https://api.coinmarketcap.com/data-api/v3/cryptocurrency/historical"
+            "?id=825&convertId=2781&timeStart={}&timeEnd={}&interval=1d")
+
+
+def _cmc_tai(ra):
+    bay_gio = int(time.time())
+    g = _get_json(CMC_GLOBAL.format(CMC_TU, bay_gio), nghi=1)["data"]["quotes"]
+    u = _get_json(CMC_USDT.format(CMC_TU, bay_gio), nghi=1)["data"]["quotes"]
+    tong = {}
+    for q in g:
+        mo = int(dt.datetime.fromisoformat(q["timestamp"].replace("Z", "+00:00")).timestamp())
+        if mo % NGAY or mo + CMC_TRE > bay_gio:
+            continue  # chỉ lấy ảnh chụp 00:00 UTC đã công bố
+        tong[mo] = q["quote"][0]["totalMarketCap"]
+        v = repr(q["btcDominance"])
+        ra["BTC.D"][mo] = (mo, mo + CMC_TRE, v, v, v, v, repr(tong[mo]))
+    for q in u:
+        # vốn hoá USDT lúc đóng ngày (23:59:59.999) ghép với tổng vốn hoá ảnh chụp 00:00 hôm sau = cùng thời điểm
+        mo = round(dt.datetime.fromisoformat(q["timeClose"].replace("Z", "+00:00")).timestamp())
+        if mo in tong and mo + CMC_TRE <= bay_gio:
+            v = repr(q["quote"]["marketCap"] / tong[mo] * 100)
+            ra["USDT.D"][mo] = (mo, mo + CMC_TRE, v, v, v, v, repr(q["quote"]["marketCap"]))
+    return bay_gio
+
+
+def lay_dom(t, cache_dir=None, offline=False):
+    """{"BTC.D": [(mo, dong, %)], "USDT.D": [...]} theo ngày, chỉ điểm có dong ≤ t (dong = ảnh chụp + CMC_TRE).
+    PROXY: BTC.D = btcDominance của CMC; USDT.D = vốn hoá USDT / tổng vốn hoá CMC — không phải CRYPTOCAP TradingView."""
+    cache_dir = Path(cache_dir or CACHE_MAC_DINH)
+    tep = {"BTC.D": cache_dir / "cmc_BTCD_1D.csv", "USDT.D": cache_dir / "cmc_USDTD_1D.csv"}
+    p_meta = cache_dir / "cmc_dom.json"
+    ra = {k: _doc_csv(p) for k, p in tep.items()}
+    meta = _doc_meta(p_meta)
+    if meta.get("lay_luc", 0) < t and not offline:
+        meta["lay_luc"] = _cmc_tai(ra)
+        for k, p in tep.items():
+            _ghi_csv(p, ra[k])
+        _ghi_meta(p_meta, meta)
+    return {k: [(r[0], r[1], float(r[5])) for _, r in sorted(v.items()) if r[1] <= t] for k, v in ra.items()}
 
 
 # ---------------- API ----------------

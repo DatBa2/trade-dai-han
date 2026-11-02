@@ -10,6 +10,9 @@
       trendline BTC khớp `trendline.BoDuLieu.doc()` (dữ liệu bot_v4) tại T.
   (d) phần mới có mặt + tính đúng: trạng thái T−24h (nến H4/D1 đúng mốc, EMA/L01 tính lại độc lập), nhịp GIẢM tuần từ đỉnh
       cao nhất (đỉnh = max râu 104 tuần, đáy = min râu sau đỉnh, mức Fibo), trendline giá đường sau 24h/48h = tại T + dốc×1/×2.
+  (e) mục 7 ngoài chart (BTC 4H 2026-08-14): BTC.D / USDT.D = dòng CSV cache cuối có giờ biết ≤ T; mỗi gap CME liệt kê
+      tính lại từ CSV thô (mở ≤ T, phần còn lại = râu cực trị sau khi mở, chưa bị đi hết); tại 2026-09-17 gap 01-20
+      (92.075–92.730) còn phía trên.
 Dùng: python3 bot_v5/kiem_tra_ngu_canh.py [--khong-a]   (lần đầu cần mạng để điền cache; exit 1 nếu có FAIL)
 """
 import csv, datetime as dt, json, shutil, sys, tempfile
@@ -273,6 +276,33 @@ def kiem_trendline(hs, t):
     kiem(ok, f"(c) trendline BTC tại T: đường chính + số đường còn hiệu lực khớp trendline.BoDuLieu.doc() (biến thể {tl['bien_the']})")
 
 
+def kiem_ngoai_chart(hs, t):
+    def doc(ten):
+        with (NG.CACHE_MAC_DINH / ten).open(newline="") as f:
+            return [(NG.tu_s_utc(r["mo_utc"]), NG.tu_s_utc(r["dong_utc"]), float(r["open"]), float(r["high"]),
+                     float(r["low"]), float(r["close"])) for r in csv.DictReader(f)]
+    for k, ten in (("BTC.D", "cmc_BTCD_1D.csv"), ("USDT.D", "cmc_USDTD_1D.csv")):
+        cuoi = max((r for r in doc(ten) if r[1] <= t), key=lambda r: r[1])
+        x = hs["dom"][k]
+        kiem(abs(x["gia_tri"] - cuoi[5]) < 1e-9 and x["ngay_vn"] == NC.vn(cuoi[0]),
+             f"(e) {k} = dòng cache cuối biết ≤ T ({NC.vn(cuoi[1])} VN, {cuoi[5]:.2f}%)")
+    cme = [r for r in doc("yahoo_CME_1h.csv") if r[1] <= t]
+    g = hs["gap_cme"]
+    kiem(abs(g["gia_cme"] - cme[-1][5]) < 1e-9, f"(e) giá CME = nến 1h cuối đóng ≤ T ({cme[-1][5]:,.0f})")
+    ds = g["tren"] + g["duoi"]
+    for x in ds:
+        mo = NG.tu_s_utc(dt.datetime.strptime(x["tao_vn"], "%Y-%m-%d %H:%M").replace(
+            tzinfo=dt.timezone(dt.timedelta(hours=7))).astimezone(dt.timezone.utc).strftime("%Y-%m-%d %H:%M"))
+        sau = [r for r in cme if r[0] >= mo]
+        con = (x["con_lo"], min(x["hi"], min(r[4] for r in sau))) if x["chieu"] == "tăng" else \
+              (max(x["lo"], max(r[3] for r in sau)), x["hi"])
+        kiem(mo <= t and abs(con[0] - x["con_lo"]) < 1e-6 and abs(con[1] - x["con_hi"]) < 1e-6 and con[1] > con[0],
+             f"(e) gap {x['chieu']} mở {x['tao_vn']}: còn {x['con_lo']:,.0f}–{x['con_hi']:,.0f} tính lại từ CSV thô khớp, chưa lấp")
+    g9 = NC.gap_cme(NC.doc_t("2026-09-17 11:00"), NG.CACHE_MAC_DINH, True)
+    kiem(any(x["lo"] == 92075 and x["hi"] == 92730 for x in g9["tren"]),
+         "(e) T = 2026-09-17 11:00: gap 01-20 92.075–92.730 còn phía trên (tháng 9 người đó nhắc gap kéo lên 90–92)")
+
+
 def main():
     bo_a = "--khong-a" in sys.argv
     ket_qua = {}
@@ -296,6 +326,8 @@ def main():
     print("\n=== (d) phần mới: T−24h · nhịp GIẢM tuần · trendline sau 24h/48h ===")
     for ca in CA + CA_THEM:
         kiem_phan_moi(ca[0], ca[1], NC.doc_t(ca[2]), ket_qua[ca][0], ket_qua[ca][2])
+    print("\n=== (e) mục 7: gap CME · BTC.D · USDT.D ===")
+    kiem_ngoai_chart(hs_btc, NC.doc_t(CA[0][2]))
     print("\nKẾT QUẢ:", "PASS hết" if not LOI else f"{len(LOI)} FAIL")
     sys.exit(1 if LOI else 0)
 

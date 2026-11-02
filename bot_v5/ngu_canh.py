@@ -12,6 +12,7 @@ KHUNG: 15m / 1H / 4H / 1D / 1W (chấp nhận cả H4, D1, W1, H1, M15).
 
 NHÂN QUẢ: mọi chuỗi nến được cắt ở giờ ĐÓNG ≤ T trước khi tính (EMA, RSI, fractal, Fibo, trendline); cửa sổ dữ liệu cố
 định theo T; tin/Polymarket/FOMC/F&G chỉ lấy bản ghi có thời điểm ≤ T (lịch công bố tương lai thì biết trước nên hợp lệ).
+Crypto có thêm mục 7: gap CME (Yahoo BTC=F 1h, nến đóng ≤ T) và BTC.D / USDT.D proxy CMC (ảnh chụp ngày + 1 giờ ≤ T).
 Kiểm: python3 bot_v5/kiem_tra_ngu_canh.py
 """
 import argparse, bisect, datetime as dt, html, json, math, re, sys, time
@@ -578,6 +579,92 @@ def lay_fng(t, cache_dir, offline):
             "min_30": min(d30), "max_30": max(d30)}
 
 
+# ======================= ngoài chart: gap CME, BTC.D, USDT.D =======================
+GAP_NGHI = 3 * 3600   # giờ mở 2 nến CME 1h liền nhau cách > 3 giờ = nghỉ cuối tuần / lễ (nghỉ 1 giờ mỗi ngày không tính)
+GAP_MIN_PCT = 0.5     # gap gốc nhỏ hơn → bỏ ("gap nhỏ thì bỏ qua")
+GAP_CON_PCT = 0.1     # phần chưa lấp còn < 0,1% giá → coi như đã lấp
+GAP_NGAY = 400
+GAP_XA_PCT = 30
+
+
+def gap_cme(t, cache_dir, offline):
+    """Gap CME (Yahoo BTC=F 1h, nến đóng ≤ t): giá đóng trước kỳ nghỉ vs giá mở sau kỳ nghỉ. Lấp dần theo râu các nến
+    sau đó; chỉ coi là lấp hết khi râu đi hết vùng (chạm một phần = phần còn lại vẫn là gap)."""
+    try:
+        goc = NG._yahoo_goc("CME", "1h", t, cache_dir, offline)
+    except Exception as e:  # noqa: BLE001
+        print(f"(cảnh báo: không tải được CME: {e})", file=sys.stderr)
+        goc = NG._yahoo_goc("CME", "1h", t, cache_dir, True)
+    nen = [x for x in goc if x[1] <= t and x[0] >= t - GAP_NGAY * NGAY]
+    if len(nen) < 100:
+        return {"loi": f"chỉ có {len(nen)} nến CME 1h đóng ≤ T"}
+    gia, dong_cuoi = nen[-1][5], nen[-1][1]
+    ds = []
+    for i in range(1, len(nen)):
+        a, b = nen[i - 1], nen[i]
+        if b[0] - a[0] <= GAP_NGHI or abs(b[2] / a[5] - 1) * 100 < GAP_MIN_PCT:
+            continue
+        tang = b[2] > a[5]  # gap tăng → giá phải về lấp phía dưới
+        lo, hi = min(a[5], b[2]), max(a[5], b[2])
+        con_lo, con_hi, lap = lo, hi, None
+        for x in nen[i:]:
+            if tang:
+                con_hi = min(con_hi, x[4])
+            else:
+                con_lo = max(con_lo, x[3])
+            if con_hi - con_lo < GAP_CON_PCT / 100 * gia:
+                lap = x[1]
+                break
+        ds.append({"tao_vn": vn(b[0]), "chieu": "tăng" if tang else "giảm", "lo": lo, "hi": hi,
+                   "con_lo": con_lo, "con_hi": con_hi, "da_lap_pct": 100 * (1 - (con_hi - con_lo) / (hi - lo)),
+                   "lap_luc": lap})
+    ra = {"gia_cme": gia, "nen_cuoi_vn": vn(dong_cuoi), "nghi": dong_cuoi < t - GAP_NGHI, "tren": [], "duoi": [],
+          "vua_lap_7_ngay": [dict(g, lap_vn=vn(g["lap_luc"])) for g in ds if g["lap_luc"] and g["lap_luc"] > t - 7 * NGAY]}
+    for g in ds:
+        if g["lap_luc"]:
+            continue
+        g["cach_pct"] = pct(g["con_lo"] if g["con_lo"] > gia else g["con_hi"], gia)
+        if abs(g["cach_pct"]) <= GAP_XA_PCT:
+            ra["tren" if g["con_lo"] > gia else "duoi"].append(g)
+    for k in ("tren", "duoi"):
+        ra[k] = sorted(ra[k], key=lambda g: abs(g["cach_pct"]))[:4]
+    # chênh CME − spot ở giờ đóng H4 gần nhất có cả hai → quy gap về giá spot gần đúng
+    ra["chenh_spot"] = None
+    try:
+        _n, h4 = NG.lay_chuoi("BTC", "4H", t, cache_dir, offline)
+        spot = {x.dong: x.c for x in h4}
+        for x in reversed(nen[-48:]):
+            if x[1] in spot:
+                ra["chenh_spot"] = x[5] - spot[x[1]]
+                break
+    except NG.LoiDuLieu:
+        pass
+    return ra
+
+
+def dom_tai(t, cache_dir, offline):
+    """BTC.D / USDT.D proxy CMC theo ngày (điểm đã công bố ≤ t), cửa sổ 365 ngày trước t."""
+    try:
+        ds = NG.lay_dom(t, cache_dir, offline)
+    except Exception as e:  # noqa: BLE001
+        print(f"(cảnh báo: không tải được CMC: {e})", file=sys.stderr)
+        ds = NG.lay_dom(t, cache_dir, True)
+    ra = {}
+    for k, chuoi in ds.items():
+        chuoi = [x for x in chuoi if x[0] >= t - 365 * NGAY]
+        if len(chuoi) < 90:
+            ra[k] = {"loi": f"chỉ có {len(chuoi)} ngày ≤ T"}
+            continue
+        v = [x[2] for x in chuoi]
+        e34, e89 = chi_bao.ema(v, 34)[-1], chi_bao.ema(v, 89)[-1]
+        th30 = chuoi[-30:]
+        ra[k] = {"ngay_vn": vn(chuoi[-1][0]), "gia_tri": v[-1], "doi_1": v[-1] - v[-2], "doi_7": v[-1] - v[-8],
+                 "doi_30": v[-1] - v[-31], "ema34": e34, "ema89": e89,
+                 "cao_30": max(th30, key=lambda x: x[2]), "thap_30": min(th30, key=lambda x: x[2]),
+                 "10_ngay": [[dt.datetime.fromtimestamp(x[0], VN).strftime("%m-%d"), x[2]] for x in chuoi[-10:]]}
+    return ra
+
+
 # ======================= thời gian =======================
 def thoi_gian(t):
     d = dt.datetime.fromtimestamp(t, VN)
@@ -590,7 +677,7 @@ def thoi_gian(t):
           "w1_dang_chay_dong_luc": vn(NG.mo_nen_chua(t, "1W") + 7 * NGAY),
           "thang_dang_chay_dong_luc": vn(NG.dong_nen(NG.mo_nen_chua(t, "1M"), "1M")), "co": []}
     if d.weekday() == 0:
-        ra["co"].append("THỨ HAI: buổi khung tuần (view lại nến tuần vừa đóng; không tin nến xanh thứ Hai)")
+        ra["co"].append("THỨ HAI: buổi khung tuần (view lại nến tuần vừa đóng; nến D1 thứ Hai xanh hay đỏ không tự đổi view)")
     if d.weekday() == 4:
         ra["co"].append("THỨ SÁU: thận trọng, view dùng cho cả cuối tuần")
     if d.weekday() >= 5:
@@ -670,6 +757,9 @@ def tao_ho_so(ma, khung, t, so_nen=30, cache_dir=None, offline=False):
                  "vua_qua_3_ngay": [dict(x, vn=vn(NG.tu_s_utc(x["ts_utc"].replace("T", " ")))) for x in tin["vua_qua_3_ngay"]]}
     hs["fed"] = fed_tai(t)
     hs["fng"] = lay_fng(t, cache_dir or NG.CACHE_MAC_DINH, offline)
+    if ma not in NG.YAHOO:  # gap CME + độ thống trị chỉ có nghĩa với crypto
+        hs["gap_cme"] = gap_cme(t, Path(cache_dir or NG.CACHE_MAC_DINH), offline)
+        hs["dom"] = dom_tai(t, cache_dir, offline)
     # BTC trước (nếu mã khác BTC)
     if ma != "BTC":
         hs["btc"] = tom_tat_btc(t, cache_dir, offline)
@@ -746,7 +836,7 @@ def ve_markdown(hs):
     L.append(f"- **T** = {hs['t_vn']} VN = {hs['t_utc']} UTC · {hs['thoi_gian']['thu']}")
     nc = hs["nen_cuoi"]
     L.append(f"- **Nến cuối dùng** ({hs['khung']}): mở {nc['mo_vn']} → đóng {nc['dong_vn']} VN · **giá đóng cuối = {fg(nc['close'], d)}**")
-    L.append("- Chỉ dùng nến ĐÃ ĐÓNG ≤ T; mọi chỉ báo/Fibo/trendline tính trên dữ liệu cắt tại T; tin/Polymarket/F&G ≤ T.")
+    L.append("- Chỉ dùng nến ĐÃ ĐÓNG ≤ T; mọi chỉ báo/Fibo/trendline tính trên dữ liệu cắt tại T; tin/Polymarket/F&G/gap CME/CMC ≤ T.")
     for c in hs["canh_bao"]:
         L.append(f"- ⚠ **{c}**")
     tg = hs["thoi_gian"]
@@ -863,10 +953,51 @@ def ve_markdown(hs):
     if "btc" in hs:
         L += ["", "## 6. BTC tại T (người đó luôn nhìn BTC trước)"]
         L += _md_btc(hs["btc"])
+    if "gap_cme" in hs:
+        L += ["", "## 7. Ngoài chart: gap CME · BTC.D · USDT.D (chỉ làm đích / lý do HOÃN — [ST1 C8, C9])"]
+        L += _md_gap(hs["gap_cme"]) + _md_dom(hs["dom"])
     L += ["", "---", "Chú thích: Nến = giờ ĐÓNG VN (khung trong ngày) hoặc ngày mở (D1/W1), tháng (M). Thân % = (C−O)/O; râu % so với O."
           f" ×TB20 = vol / TB 20 nến trước; **VOL VƯỢT** khi ≥ {VOL_VUOT}×. Râu dài = râu > 2× thân và ≥ 0,5 ATR14."
           " EMA đệ quy khởi tạo SMA (cong_cu/chi_bao.py) trên cửa sổ cố định theo T; RSI Wilder 14."]
     return "\n".join(L) + "\n"
+
+
+def _md_gap(g):
+    if "loi" in g:
+        return [f"- Gap CME: {g['loi']}"]
+    ch = g["chenh_spot"]
+    L = [f"- **Gap CME** (Yahoo BTC=F 1h đã đóng ≤ T; gap = giá đóng trước kỳ nghỉ > 3 giờ so với giá mở sau, gốc ≥ "
+         f"{GAP_MIN_PCT}%; lấp = râu đi hết vùng): CME {fg(g['gia_cme'], 0)} (nến 1h đóng {g['nen_cuoi_vn']} VN"
+         + (", CME đang nghỉ" if g["nghi"] else "") + ")"
+         + (f" · chênh CME − spot {ch:+,.0f} → ≈ spot = mức CME − ({ch:,.0f})" if ch is not None else "")]
+
+    def mot(x):
+        sp = f" (≈ spot {fg(x['con_lo'] - ch, 0)}–{fg(x['con_hi'] - ch, 0)})" if ch is not None else ""
+        lap = f", đã lấp {x['da_lap_pct']:.0f}%" if x["da_lap_pct"] >= 1 else ""
+        return (f"CME {fg(x['con_lo'], 0)}–{fg(x['con_hi'], 0)}{sp} · gap {x['chieu']} mở {x['tao_vn'][:10]}"
+                f" (gốc {fg(x['lo'], 0)}–{fg(x['hi'], 0)}{lap}) · cách {fp(x['cach_pct'], 1)}")
+    L.append("  - Chưa lấp, phía trên: " + ("; ".join(mot(x) for x in g["tren"]) or "không có"))
+    L.append("  - Chưa lấp, phía dưới: " + ("; ".join(mot(x) for x in g["duoi"]) or "không có"))
+    L.append("  - Vừa lấp xong trong 7 ngày: " + ("; ".join(f"gap {x['chieu']} {fg(x['lo'], 0)}–{fg(x['hi'], 0)} (mở {x['tao_vn'][:10]})"
+                                                          f" lấp lúc {x['lap_vn']}" for x in g["vua_lap_7_ngay"]) or "không có"))
+    return L
+
+
+def _md_dom(dm):
+    L = []
+    for k, ghi in (("BTC.D", "btcDominance CMC"), ("USDT.D", "vốn hoá USDT / tổng vốn hoá CMC")):
+        x = dm.get(k, {"loi": "không có"})
+        if "loi" in x:
+            L.append(f"- **{k}**: {x['loi']}")
+            continue
+        vt = lambda e: "—" if e is None else ("trên" if x["gia_tri"] > e else "dưới") + f" {e:.2f}"  # noqa: E731
+        L.append(f"- **{k}** (proxy = {ghi}, ảnh chụp ngày): **{x['gia_tri']:.2f}%** lúc {x['ngay_vn']} VN · đổi 1 / 7 / 30 ngày "
+                 f"{x['doi_1']:+.2f} / {x['doi_7']:+.2f} / {x['doi_30']:+.2f} điểm · EMA34 ngày: {vt(x['ema34'])} · EMA89 ngày: "
+                 f"{vt(x['ema89'])} · cao / thấp 30 ngày {x['cao_30'][2]:.2f} ({vn(x['cao_30'][0])[:10]}) / {x['thap_30'][2]:.2f}"
+                 f" ({vn(x['thap_30'][0])[:10]}) · 10 ngày: " + ", ".join(f"{a} {b:.2f}" for a, b in x["10_ngay"]))
+    L.append("  - Proxy CMC, KHÔNG phải chuỗi CRYPTOCAP của TradingView mà người đó xem: mức tuyệt đối có thể lệch → đọc HƯỚNG /"
+             " vị trí so với EMA / đỉnh đáy gần, đừng so thẳng với mức % họ nêu.")
+    return L
 
 
 def _md_truoc(hs, d):
