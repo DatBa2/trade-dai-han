@@ -9,13 +9,13 @@
 | Mã | Tình huống | Người đó làm gì | Tần suất |
 |---|---|---|---|
 | A1 | Hỏi dài hạn / bất kỳ buổi nào | Pha chu kỳ: 2026 là năm downtrend, mọi nhịp tăng là hồi | view dài hạn GIẢM 105/119 = 88% buổi có nói |
-| A2 | Thứ Hai, nến tuần vừa đóng | Đọc lại nến tuần, đặt view cho cả tuần | nhắc khung tuần 36/36 = 100% buổi thứ Hai |
+| A2 | Thứ Hai, nến tuần vừa đóng | Đọc lại nến tuần, đặt view cho cả tuần; nến D1 thứ Hai (xanh hay đỏ) không tự đổi view | nhắc khung tuần 36/36 = 100% buổi thứ Hai |
 | A3 | Buổi đầu tháng | Đọc nến tháng | 7/10 = 70% buổi đầu tháng |
 | A4 | Đang có view D1/W1 | View D1 giữ trung vị 3 ngày, W1 6 ngày | 66 đợt D1 · 34 đợt W1 |
 | A5 | Nến tuần/ngày đóng qua mốc lớn, chạm đích lớn | Đổi view lớn | xem A5 |
 | B1 | Buổi mới, plan hôm qua chưa bị tác động | GIỮ view | GIỮ 128/179 = 72% |
 | B2 | Râu quét qua mốc, nến chưa đóng | GIỮ, gọi là quét/fake/trap | [đo] GIỮ 61% |
-| B3 | Nến H4/D1 ĐÓNG qua mốc sai | LẬT; 2 cây H4 thì chắc hơn | [đo] LẬT 10/22 = 45% |
+| B3 | Nến H4/D1 ĐÓNG qua mốc sai | Điều kiện CẦN: thoát lệnh ngược phía ngay; đổi NHÃN chỉ khi đủ tầng 2 của B11 | [đo] LẬT 10/22 = 45%, GIỮ 58% |
 | B4 | Giá chạy xa ngược view, H4 nằm sai phía MA | LẬT | [đo] LẬT 21/40 = 52% |
 | B5 | Một cây nến lớn / nhấn chìm ngược view | LẬT hoặc bỏ lệnh | [đo] LẬT 10/24 = 42% |
 | B6 | Nến D1 hôm qua đóng ngược màu view | Không đánh ngược màu nến ngày | [đo] LẬT 25/82 = 30% |
@@ -23,12 +23,18 @@
 | B8 | Giá chạm đích ("xong việc") | Hành động với lệnh; view thường GIỮ | [đo] GIỮ 71% |
 | B9 | Giá kẹt giữa 2 mốc, sát tin | PHÂN VÂN, ngồi chờ nến phá | 8 buổi PHÂN VÂN / 180 buổi có nhãn (học 1, kiểm 7) |
 | B10 | Nến H4 11:00 đóng ngay trên live | Đổi ý giữa buổi | 8/180 = 4% buổi |
+| B11 | Mốc bị nến đóng qua / SL bị quét | Xác định tầng của mốc: mốc lệnh → chỉ thoát lệnh; mốc cấu trúc + hội tụ → đổi nhãn; mốc tuần → đổi view W1 | [đọc lại] GIỮ 268/373 = 72% ca mốc bị phá |
+| B12 | W1 GIẢM, giá hồi mạnh, H4 lên trên EMA | Vẫn GIẢM ("hồi để short") tới khi cấu trúc H4 + D1 đổi; chạm cản khung lớn → GIẢM | [đo] GIỮ GIẢM 11 trong 19 ca EMA H4 đòi lật |
 | C1 | Tin lớn sắp ra (≤ 24h) | Né giờ tin, không giữ lệnh qua tin; view không đổi | dặn né/thận trọng 52/161 lời |
 | C2 | Giá chạy trước tin | Đoán sau tin chạy ngược | 16 buổi |
 | C3 | Tin đã ra | Tin là "cái cớ", GIỮ view | [đo] GIỮ 81% |
 | C4 | Trước/sau FOMC, khi CPI/PPI/PCE ra | Đọc Fed theo KỲ TỚI + xác suất | 55 buổi |
 | C5 | Đêm FOMC | Kết quả → hành động định sẵn | [đo] LẬT trong cửa sổ FOMC 2/28 = 7% |
 | C6 | Tin chiến sự, Trump, hack, chủ tịch Fed | Xem giá phản ứng, không theo tin | 52 + 18 + 7 lời |
+| C7 | Vàng / dầu chạy mạnh hoặc gãy | Chỉ HOÃN lệnh BTC; quan hệ đổi theo giai đoạn, không đổi hướng BTC | [đọc lại] 14/21 lô nhắc, 5 lô ghi ngược luật cũ |
+| C8 | Còn gap CME chưa lấp gần giá | Đích / TP, lý do hoãn lệnh ngược phía gap; không chọn hướng, không chọn entry | [đọc lại] 10 trong 21 lô nhắc |
+| C9 | USDT.D / BTC.D chạy mạnh, chạm mốc của nó | Cảnh báo cho BTC, lọc altcoin; đứng sau cấu trúc giá BTC | [đọc lại] 17 trong 21 lô nhắc |
+| C10 | Phe đông (Hyblock, heatmap thanh lý) | Chỉ hoãn lệnh; "không short" ≠ long; hồ sơ không có dữ liệu này | [đọc lại] 19 trong 21 lô nhắc |
 | D1 | Lệnh short từ đỉnh 124–126k | Giữ cả năm, chốt dần | 14 mục / 14 buổi |
 | D2 | Giá chạm đích/cản đã định | Chốt ngay | 145 mục / 104 buổi |
 | D3 | Lệnh lãi, nhiều đích | Chốt từng phần theo nấc | 123 mục chốt một phần |
@@ -72,11 +78,26 @@
 - **Tình huống**: buổi đầu tuần, nến tuần vừa đóng (7:00 sáng thứ Hai giờ VN), hoặc cuối tuần thị trường đứng.
 - **Người đó nhìn/kiểm**: nến tuần đóng ở đâu, râu đã test chưa, vị trí so với MA34/89/200 tuần và Fibo tuần; cuối tuần đứng thì "reset" view.
 - **Kết luận + hành động**: view tuần dùng cho cả tuần; giữa tuần chỉ thu ngắn lại, không đổi view đầu tuần.
+- **Nến D1 thứ Hai** (đọc lại 180 buổi, 8 trong 21 lô ghi): xanh hay đỏ đều KHÔNG tự đổi view — thứ Bảy, Chủ nhật, thứ
+  Hai hay đi chung một sóng, thứ Hai "hay lừa". Nến thứ Hai xanh → phòng thủ (không đuổi long, không giữ lệnh ngắn qua
+  đêm thứ Hai), view tuần giữ nguyên. Đầu tuần đang hồi (H4 đáy cao dần) trong tuần trống tin → chưa short tới thứ Ba /
+  thứ Tư, trừ khi giá chạm đích hồi hoặc H4 đóng thủng mốc. Ngoại lệ được tính: nến thứ Hai thân lớn bị từ chối đúng
+  kháng cự + Fibo → dùng làm căn cứ D1 như nến thường; nến TUẦN vừa đóng xanh trên mốc → khung nhỏ hạn chế short.
 - **Tần suất**: buổi thứ Hai có nhắc khung/nến tuần 36/36 = 100% (ngày khác 97/144 = 67%); buổi đầu mỗi tuần 42/43 = 98%. Hướng H4 thứ Hai so với view trước (nhãn): GIỮ 29/36 = 81%. [đo] GIU_LAT: thứ Hai GIỮ 81%, LẬT 7/36 = 19% (nền 24%). Lần đổi hướng view W1 rơi vào buổi đầu tuần: 19/33 = 58%.
 - **Ví dụ**:
   - [01-12 · 00:30:16](https://www.youtube.com/watch?v=xwJagQCx1gY&t=1816s) "Đối với cây nến tuần đóng như thế này thì mình vẫn giữ view là có khả năng lên được vùng 96 cho đến 100."
   - [08-10 · 00:16:32](https://www.youtube.com/watch?v=8BGhoFetSaU&t=992s) "Hai ngày cuối tuần vừa rồi thị trường nó đứng thành ra chúng ta reset hết tất cả những view rồi."
   - [09-21 · 00:33:58](https://www.youtube.com/watch?v=I_U52BYUt0M&t=2038s) "Đi vào trong tuần chúng ta view ngắn hơn nhưng không thay đổi so với view đầu tuần. Khi nào view trong tuần tác động lên view lớn thì mình sẽ thông báo để anh em điều chỉnh dự phòng kế hoạch dài hạn."
+  - [11-02 · 00:31:30](https://www.youtube.com/watch?v=MEKVe_u8BA8&t=1890s) "Giữ được nhịp nhá chứ không phải là đang tăng đâu." · [11-02 · 00:31:46](https://www.youtube.com/watch?v=MEKVe_u8BA8&t=1906s) "Thì cho đến thời điểm nào mà chúng ta chưa thấy được một vài cái nến tuần màu xanh á thì tốt nhất là cũng đừng có vội." (nến tuần rút chân sau 4 tuần đỏ: chưa phải đảo chiều)
+- **Ví dụ nến D1 thứ Hai**:
+  - [03-30 · 00:10:20](https://www.youtube.com/watch?v=KbxhGxmcYwg&t=620s) "đối với một cây nến ngày thứ hai màu xanh thì gần như không phải là tín hiệu quá đẹp"
+  - [04-20 · 00:57:45](https://www.youtube.com/watch?v=nN446WPRxPo&t=3465s) "có một cái quan điểm đó là không short trước ngày thứ ba tức là hết ngày hôm nay." (tuần trống tin, nến tuần xanh)
+  - [06-22 · 00:25:22](https://www.youtube.com/watch?v=eaj9NEm85O4&t=1522s) "Còn lại từ hôm nay và ngày mai tuyệt đối chắc là mình sẽ không đụng vào nút short."
+  - [06-29 · 00:05:13](https://www.youtube.com/watch?v=wyCTvVbTVPE&t=313s) "thứ hai lại kéo lên màu xanh rồi sau đó tuần thì mới gãy." · [06-29 · 00:05:45](https://www.youtube.com/watch?v=wyCTvVbTVPE&t=345s) "Đáy vẫn thấp, xu hướng vẫn là xu hướng giảm."
+  - [07-07 · 00:23:35](https://www.youtube.com/watch?v=uvBnzq6-k-M&t=1415s) "Cho nên cây nến cũng màu xanh nhưng nó rơi vào ngày thứ hai thì sẽ giảm đi cái độ tin tưởng. Thậm chí là nó hay lừa nữa."
+  - [09-22](https://www.youtube.com/watch?v=N-_6NBs4ZW8) "Thứ hai nó hay tiếp diễn sóng của thứ bảy, chủ nhật; ba ngày thứ bảy, chủ nhật, thứ hai thường đi chung một sóng với nhau."
+  - [09-23](https://www.youtube.com/watch?v=uK4vb9PoUIo) "chúng ta có cây nến ngày thứ hai màu xanh. Làm gì thì làm nhưng luôn phải phòng thủ."
+  - Ngoại lệ được tính: [10-13](https://www.youtube.com/watch?v=4ttwL_4CC9E) "Cây nến đỏ vừa đóng ngày hôm qua" (thứ Hai, thân lớn, bị từ chối ở cản) · "Nhịp hôm qua là nhịp lên back test ngay vùng kháng cự cộng với Fibo, nên xác suất tiếp diễn hoàn toàn có khả năng."
 
 ## A3. Đầu tháng: đọc nến tháng
 
@@ -258,11 +279,11 @@
   - [05-06 · 00:22:22](https://www.youtube.com/watch?v=Ts0NVXvVnBw&t=1342s) "Các bạn thấy râu nến nó vẫn quét lên trên này. Lực mua thì vẫn xanh. Chưa có bất kỳ một nến đỏ nào thì tạm thời chúng ta chưa cần phải quan tâm cái gì. Lực mua vẫn còn chứng tỏ là xu hướng hiện tại vẫn đang xu hướng phục hồi."
   - [10-23 · 00:18:59](https://www.youtube.com/watch?v=cb85mXIfTv8&t=1139s) "Tuy nhiên với nhịp hồi lên 84 hôm trước, chúng ta thừa biết xác suất cực kỳ cao đây là một nhịp phá cao đi lên (fake). Vì khi nó lên trên này thì rất đẹp và rất nhiều người đánh tiếp xu hướng đi lên. Bây giờ nó trap lại thì những người bị mắc kẹt ở trên này gần như vào thế rồi.…"
 
-## B3. Nến H4/D1 ĐÓNG qua mốc sai → LẬT (2 cây H4 thì chắc hơn)
+## B3. Nến H4/D1 ĐÓNG qua mốc sai → điều kiện CẦN (thoát lệnh); đổi nhãn khi đủ hội tụ (B11)
 
 - **Tình huống**: nến đóng qua mốc họ đã báo trước, đúng khung và số nến họ nói.
 - **Người đó nhìn/kiểm**: giá đóng của nến H4 (D1 cho view ngày); 1 cây hay 2 cây liền nhau.
-- **Kết luận + hành động**: kích hoạt nhánh đã nói trước ("đóng dưới X thì short, trên Y thì long"); bỏ lệnh cũ.
+- **Kết luận + hành động**: kích hoạt nhánh đã nói trước ("đóng dưới X thì short, trên Y thì long"); bỏ lệnh cũ. Bỏ lệnh ≠ đổi nhãn: hơn nửa số lần nến đóng qua mốc họ vẫn GIỮ hướng — xác định mốc thuộc tầng nào ở B11 trước khi đổi nhãn; ngược khung tuần thì xem thêm B12.
 - **Tần suất**: [đo] ≥ 1 nến H4 đóng qua mốc sai: 24 buổi → LẬT 10/24 = 42%; đóng đúng khung + số nến họ nói: LẬT 10/22 = 45%; nến D1 đóng qua: LẬT 8/19 = 42%; lúc lên live giá vẫn ở bên kia mốc: LẬT 10/17 = 59% (khi không có nến đóng qua: LẬT 21%). Kể cả khi nến H4 đã đóng qua mốc, họ vẫn GIỮ hướng 58% số buổi. Nhãn: buổi có câu "nếu/khi nến đóng … thì …" 147/180 = 82%; buổi nói "hai cây H4 / cặp H4" 18.
 - **Ví dụ**:
   - [01-29 · 00:11:04](https://www.youtube.com/watch?v=8NrjverKQpo&t=664s) "Thủng khỏi vùng 8700, đóng H4 dưới 87.000 thì chúng ta đánh theo nhịp short." → hôm sau [01-30 · 00:04:34](https://www.youtube.com/watch?v=4PUqxjVBR4M&t=274s) "Thủng 87k5 short, đúng rồi. Hôm qua mình bảo có hai vùng 87.000 và 88.000. Muốn short thì nó gãy vùng này là short, còn muốn long thì nó phải vượt qua được đoạn này mới long. Đến khi nó gãy một cái là nó đi luôn."
@@ -347,9 +368,52 @@
   - [04-02 · 00:42:55](https://www.youtube.com/watch?v=orDQVRuxI1E&t=2575s) "Hỏng rồi. Nát luôn."
   - [10-02 · 00:59:09](https://www.youtube.com/watch?v=AxRfx12h9Z0&t=3549s) "H4 này chắc còn một con nữa mút chỉ. Đi như thế này thì khỏi sale luôn nhá. Altcoin cũng không đánh được mà Bitcoin cũng không đánh nổi. Đoạn này thật chua."
 
+## B11. Thang ba tầng: thoát lệnh ≠ lật view
+
+- **Tình huống**: một mốc ngược view đang giữ bị nến đóng qua, hoặc SL của lệnh bị quét.
+- **Người đó nhìn/kiểm**: mốc đó thuộc tầng nào —
+  1. **Mốc lệnh / mốc phụ**: SL lệnh lướt, hỗ trợ–kháng cự ngắn hạn, mốc H1/M15, một cây H4 đóng qua mốc không phải đỉnh/đáy cấu trúc.
+  2. **Mốc cấu trúc của chính khung**: đỉnh/đáy H4–D1 gần nhất mà xu hướng đang dựa vào, đáy/đỉnh vùng tích lũy, Fibo 0.618 của nhịp vừa chạy.
+  3. **Mốc xu hướng lớn**: mốc tuần đã nêu (nến TUẦN đóng qua).
+- **Kết luận + hành động**:
+  - Tầng 1 → THOÁT / ngừng lệnh theo hướng cũ ("đừng giữ lệnh short nào nữa", "thôi đừng có sell nữa"), không vào lại ngay, chờ setup mới; **nhãn GIỮ**.
+  - Tầng 2 → đổi nhãn khung đó khi nến ĐÓNG qua **và** có ≥ 2 thứ gãy cùng lúc: trendline/kênh, cụm EMA bị đóng qua, cây nến chất lượng (nhấn chìm, thân dài, volume vượt), nến D1 đóng xác nhận. Một cây chưa đủ; nến D1 kế tiếp ngược màu = "ngày quan sát", chưa lật. Sau khi đổi: chờ hồi / test lại để vào theo hướng mới, không đuổi.
+  - Tầng 3 → chỉ nến tuần đóng qua mới đổi view W1; vọt nhanh rồi quay về không tính. Nến D1/H4 đóng qua mốc ngược W1 nhiều khi chỉ là "trung hòa" (thôi view cũ), chưa phải đổi phe (B12).
+  - Trả lời ghi rõ mốc vừa bị phá thuộc tầng nào.
+- **Tần suất**: [đọc lại 180 buổi — bảng "ca mốc bị phá" do 21 subagent rút từ transcript, phân loại tự động theo từ khoá nên là ước lượng] 373 ca mốc / vùng / trendline bị phá hoặc bị quét: GIỮ 268 = 72%, LẬT 62 = 17%, lẫn 43. Râu quét: GIỮ 69 / LẬT 3. Nến H4 đóng qua: GIỮ 20 / LẬT 15. Nến D1 đóng qua: GIỮ 15 / LẬT 5. Nến tuần đóng qua: GIỮ 6 / LẬT 0. Phần lớn ca "LẬT" là thoát lệnh hoặc điều kiện nêu trước; ca đổi nhãn thật đều có ≥ 2 thứ gãy cùng lúc.
+- **Ví dụ**:
+  - [03-16 · 00:23:57](https://www.youtube.com/watch?v=uXm43DPUtPQ&t=1437s) "Sơ sơ thì nó sẽ phải thủng 70 nhưng để fail thực sự hoàn toàn thì cũng khá khó." · "Nó sẽ phải có những cú dump sâu nặng, những cây nến chất lượng và dump thẳng xuống dưới vùng 65 này thì mới gọi là fail." (tầng 1 = 70, tầng 2 = 65)
+  - [02-26 · 00:16:42](https://www.youtube.com/watch?v=7zFMbvqo3QI&t=1002s) "và khi nó đã stop loss ở 64.000 thì gần như không cố chấp và không bắt lại ở vùng này, phải chờ confirm" (dính SL → không vào lại ngay)
+  - [07-06 · 00:28:47](https://www.youtube.com/watch?v=GRWl0b0z1nk&t=1727s) "rõ ràng trên live mình nói nếu vùng này đóng cây H4 qua khỏi 61 thì các bạn tốt nhất đừng giữ lệnh short nào nữa" (thoát short, không thành TĂNG)
+  - [07-10 · 00:29:22](https://www.youtube.com/watch?v=QwYznPgaAFY&t=1762s) "Ví dụ nến ngày đóng trên vùng 64, nến D1 mà đóng qua khỏi đoạn này thì chúng ta bỏ không short nữa."
+  - [07-24 · 00:26:50](https://www.youtube.com/watch?v=7D1Ve5hs4bU&t=1610s) "Đóng nến D1 xanh qua 6700 thì thôi đừng có sell nữa."
+  - [01-21 · 00:19:21](https://www.youtube.com/watch?v=LRkYCtbojb0&t=1161s) "Bởi vì mặc dù xu hướng điều chỉnh vẫn tiếp tục nhưng nếu cây này xanh thì hoàn toàn có thể đây là nhịp fake breakout" → [01-22 · 00:13:29](https://www.youtube.com/watch?v=WvCOBcm0bd0&t=809s) "ngày hôm nay là ngày dành để quan sát. Cây nến ngày hôm nay sẽ quyết định những ngày kế tiếp đánh thế nào." (D1 kế tiếp ngược màu = ngày quan sát)
+  - [03-27 · 00:25:27](https://www.youtube.com/watch?v=1RmIBcPxX2I&t=1527s) "Xu hướng bây giờ có thể là lừa hoặc có thể giảm xuống nhưng đà tăng này không được đảm bảo nữa là bắt buộc chúng ta sẽ phải rời tàu." (H4 thủng đáy cấu trúc 69 đã nêu + D1 bị từ chối ở Fibo 72 → tầng 2)
+  - [08-04 · 00:18:51](https://www.youtube.com/watch?v=K6QkKY6Og7o&t=1131s) "Lúc này cấu trúc thị trường ở H4 đã bị đảo." (H4 đóng phá trendline + kênh → tầng 2)
+  - [09-29](https://www.youtube.com/watch?v=3inGNRqb-UM) "Dính SL rồi thì coi như quên lệnh đó đi, chờ reset, chờ setup khác vào vị thế mới thì không sao."
+
+## B12. Sóng hồi ngược khung tuần: "hồi là hồi chứ không phải tăng"
+
+- **Tình huống**: W1 (thường cả D1) đang GIẢM; giá bật mạnh từ hỗ trợ, H4 đóng lên trên dải EMA34 / EMA89, có khi phá trendline H4 hoặc "phá cấu trúc tuần". Đối xứng khi W1 TĂNG mà giá điều chỉnh sâu.
+- **Người đó nhìn/kiểm**: (1) sóng hồi đã chạm kháng cự khung lớn chưa (EMA34 W1, EMA200 D1, Fibo 0.5–0.618 nhịp giảm, cạnh kênh/cờ giảm, đỉnh cũ đổi vai); (2) H4 đã ĐÓNG qua đỉnh H4 gần nhất **và** cụm EMA chưa; (3) D1 đã có đáy sau cao hơn **và** đỉnh sau cao hơn chưa; (4) nến D1 / tuần đã đóng qua cản họ nêu chưa.
+- **Kết luận + hành động**:
+  - Chưa có (2) và (3), giá chỉ bật lên hoặc chạm cản → nhãn vẫn **GIẢM** ("nhịp hồi", "hồi để short"): không short đuổi ở giữa, không long ngược, chờ hồi lên cản để short, tự đặt trần hồi.
+  - Đã có (2) và (3), giá chưa tới cản khung lớn, đích hồi phía trên còn → **TĂNG (hồi kỹ thuật)** (NHAP_VAI §4.1): "không short", chỉ tìm long khi về hỗ trợ.
+  - Đã chạm cản khung lớn mà chưa có (4) → nhãn quay về **GIẢM** (đích hồi xong = vùng short trung hạn).
+  - Nến D1/H4 đóng qua mốc họ nêu → thường chỉ "trung hòa" (thôi view giảm); đổi view W1 cần nến tuần đóng qua mốc tuần (B11 tầng 3).
+- **Tần suất**: bài thi v3 (đáp án v2): 14 buổi người đó GIẢM mà bot TĂNG — 12 trong 14 buổi đó là mốc sai đã bị chạm thật, người đó không đổi ("hồi để short") (`thi/BAO_CAO_XU_LY_P0.md` §3). [đo, `hoc_v5/giu_lat/dac_trung_moi.csv`, 172 buổi có hướng] View buổi trước GIẢM mà H4 đóng trên dải EMA34 + EMA89: trong 19 buổi như vậy người đó vẫn GIẢM 11, TĂNG 8 → lật chỉ vì EMA H4 thì đúng 42%, giữ view đúng 58%. EMA H4 đòi lật NGƯỢC pha tuần: họ giữ 13 trong 24 lần; đòi lật THUẬN pha tuần: họ lật 7 trong 9 lần. Chưa có luật cơ học nào (EMA, cấu trúc fractal H4/D1, vị trí so EMA34 tuần) tách được hai nhóm ổn định qua cả hai giai đoạn học / kiểm → điều kiện (1)–(4) phải đọc bằng mắt theo cách người đó.
+- **Ví dụ**:
+  - [01-12 · 00:30:47](https://www.youtube.com/watch?v=xwJagQCx1gY&t=1847s) "Xu hướng phục hồi nhưng chạy trong khung lớn là khung ngày nên có thể đánh giá là xu hướng tăng" (đủ (3): TĂNG hồi)
+  - [01-21 · 00:18:18](https://www.youtube.com/watch?v=LRkYCtbojb0&t=1098s) "những nhịp này có thể nó lên lại khoảng đâu đó 93 là chuyện bình thường nhưng xu hướng không thay đổi"
+  - [07-21 · 00:15:36](https://www.youtube.com/watch?v=azP_1WdR-CE&t=936s) "Đáy sau cao hơn đáy trước liên tục từ đâu đó khoảng độ đầu tháng 7 cho đến bây giờ." · [07-21 · 00:05:38](https://www.youtube.com/watch?v=azP_1WdR-CE&t=338s) "Long không biết thế nào nhưng short là tuyệt đối là không." (D1 đáy cao dần: không short)
+  - [07-22 · 00:52:11](https://www.youtube.com/watch?v=3gr71JlVqR8&t=3131s) "Khi nào nó đóng dưới đáy 64 kia, đóng dưới 64 thì thị trường mới có xác suất gãy."
+  - [08-25](https://www.youtube.com/watch?v=nSxBbLai2mE) "Mình đánh giá nhịp này vẫn chưa khẳng định là nhịp tăng, mặc dù cấu trúc khung tuần đã bị phá đi, đó cũng là một tín hiệu tốt."
+  - [09-17](https://www.youtube.com/watch?v=1cUPKUmEnr4) "Hồi là hồi chứ không phải tăng nhá, khái niệm hồi khác khái niệm tăng." · "Khi nào nó qua lại được thằng 78, hoặc ít nhất kéo qua lại được cụm MA, 78.000 thì may ra, nhưng điều này rất khó."
+  - [10-28](https://www.youtube.com/watch?v=Gu1XtyNNH6I) "Nếu đảo chiều ở đây thì phải đóng trên 81.500 hoặc trên 82 thì mới thôi không view giảm nữa, có thể trung hòa"
+
 ---
 
-# C. TIN TỨC & FED
+# C. TIN TỨC, FED & DỮ LIỆU NGOÀI CHART (vàng, gap CME, USDT.D / BTC.D, phe đông)
 
 Tin họ dùng (nhãn `tin_tuc`): 577 lời ở 176/180 = 98% buổi. Fed/FOMC/lãi suất 134, CPI 43, PPI 18, NFP 28, PCE/GDP 26, chiến sự 52, Trump/thuế 18, hack 7, ETF 4, khác 247.
 
@@ -369,12 +433,16 @@ Tin họ dùng (nhãn `tin_tuc`): 577 lời ở 176/180 = 98% buổi. Fed/FOMC/l
 - **Tình huống**: vài ngày trước tin lớn, nhất là FOMC/CPI.
 - **Người đó nhìn/kiểm**: trước tin giá đã tăng, đi ngang hay giảm.
 - **Kết luận + hành động**: trước tin chạy hướng nào thì sau tin hay chạy ngược lại; trước tin đi ngang thì khoảng 12 tiếng sau tin mới chạy; giá tăng trước tin thì thận trọng vì dễ bị "lấy cớ" để xả.
+- **Tin đỏ khi giá kẹt dưới cản lớn** (đọc lại 180 buổi; nêu rõ từ [10-01], 2 tin đỏ liền nhau cho cùng một kiểu): giá
+  hay chạy trước tin; tin ra quét lên qua cản vài trăm giá (quét SL phe bán) rồi đảo xuống mạnh trong 1–2 nến H4, kể cả
+  khi tin "tốt". Cây quét là râu → không đổi view theo chiều tin.
 - **Tần suất**: nhãn: 16 buổi nói rõ kiểu "trước tin … sau tin …"; tin lớn kèm dự hướng ("ra X thì giá Y") 26 lời.
 - **Ví dụ**:
   - [01-27 · 00:34:27](https://www.youtube.com/watch?v=Q2qX5gIvNC8&t=2067s) "Khả năng là thị trường sẽ nhập nhằng cho đến ngày ra tin lãi suất. Khi gần ra tin lãi suất thì các bạn để ý, nếu trước tin nó chạy theo hướng nào thì thường sau tin một vài ngày nó chạy ngược lại."
   - [04-08 · 00:28:04](https://www.youtube.com/watch?v=l8hl1XtxPr4&t=1684s) "Thường trước tin chạy, đến tin nó đứng, sau tin nó mới chạy ngược lại nếu nó đảo."
   - [04-07 · 00:27:24](https://www.youtube.com/watch?v=HeBpJr0i6Bg&t=1644s) "…thì sau thứ sáu cho dù tin tốt hay tin xấu đi nữa thì sau một khoảng thời gian hấp thụ xong tin khoảng độ khoảng 12 tiếng sau tin thị trường sẽ bắt đầu tăng lại."
   - Kiểm lại sau tin: [01-29 · 00:02:28](https://www.youtube.com/watch?v=8NrjverKQpo&t=148s) "Chủ yếu sau cái tin lãi suất ngày hôm qua thì giá nó lợi dụng tin để nó lên, như mình nói nếu mà nó tăng trước tin thì sau tin nó gãy, nếu sideway trước tin thì sau tin nó tăng rồi lại gãy. Chung quy lại thì cái gì rồi cũng gãy thôi. Hôm qua cái nhịp này mình báo anh em trên tele là nó đến cái nơi cần đến."
+  - Tin đỏ dưới cản: [10-01](https://www.youtube.com/watch?v=56fLd04MSps) "Điều này gần như phủ nhận phản ứng tích cực ban đầu sau tin PCE, bị thị trường trái phiếu đảo ngược hoàn toàn." · [10-05](https://www.youtube.com/watch?v=5U5CVdTlwT8) "Đây là hôm có tin, hôm thứ sáu: tin ra nó quét lên đến 87, sau đó gãy liền xuống 83.000, tức là gãy 4000 giá trong vòng hai cây nến." · [10-07](https://www.youtube.com/watch?v=Rl-3RfG8EiY) "Trước tin lúc nào cũng có một cây đào."
 
 ## C3. Tin đã ra: tin là "cái cớ", GIỮ view
 
@@ -439,6 +507,120 @@ Tin họ dùng (nhãn `tin_tuc`): 577 lời ở 176/180 = 98% buổi. Fed/FOMC/l
   - [03-24 · 00:21:23](https://www.youtube.com/watch?v=xKTPieljFuY&t=1283s) "khi giảm về 70 lại về đúng vùng 67000, trendline hai ngày vừa rồi, lại có tin Trump với Iran 48 giờ, mọi thứ tự động khớp với nhau... Về phân tích kỹ thuật, giá chạm khẽ trendline ở đằng dưới này, thêm một cái rất đẹp nữa là vùng 67.000 này... Khả năng quét Bitcoin 64.000?…"
   - [10-30 · 00:14:37](https://www.youtube.com/watch?v=f0JWA9aDHl8&t=877s) "…Mình không dự đoán được sàn bị hack đâu ... Nhưng anh em xem livestream và view của mình thì tạm thời chúng ta vẫn đang đi đúng hướng nhá." · [10-30 · 00:53:20](https://www.youtube.com/watch?v=f0JWA9aDHl8&t=3200s) "Xem lại ngày Bybit bị hack (21 tháng 2 2025) thì thị trường cũng không có vấn đề gì lúc đó, nhưng sau đó mới xảy ra nhịp chạy: giảm từ 98 về 76 tạo đáy ngắn hạn rồi break lên. Cho nên đâu phải tin ra là giá chạy căng ngay ngày ra tin. Cái đáng sợ là áp lực lên thanh khoản"
   - [07-01 · 00:27:07](https://www.youtube.com/watch?v=WNiQnpm2BLo&t=1627s) "…Cho nên những thời điểm có các bài phát biểu này anh em nên tắt chart đi, vì nó biến động cũng ác lắm."
+  - Bầu cử (lịch tin của hồ sơ KHÔNG có sự kiện chính trị): [11-02 · 00:45:37](https://www.youtube.com/watch?v=MEKVe_u8BA8&t=2737s) "nó sẽ làm biến động nhiễu cho nên là chúng ta biết à có bầu cử thành ra là đề phòng giảm volume, giảm rủi ro xuống thôi." · "Chứ không phải là bầu cửi nó sẽ tăng hay là sẽ giảm đâu."
+
+## C7. Vàng / dầu ↔ BTC: quan hệ đổi theo giai đoạn, chỉ để HOÃN
+
+- **Tình huống**: vàng (bạc, dầu) đang tăng mạnh, gãy cấu trúc, hoặc đi ngược BTC.
+- **Người đó nhìn/kiểm**: vàng H4 so MA / cấu trúc; dầu có "ngóc lên" không; câu họ nói gần nhất về quan hệ vàng–BTC.
+- **Kết luận + hành động**: dùng để lường rủi ro và HOÃN lệnh BTC (khoan long, khoan short); không đổi hướng BTC. Chiều
+  quan hệ theo câu họ nói GẦN NHẤT trước T (có giai đoạn cùng chiều, có giai đoạn ngược chiều, có lúc nói không liên quan).
+  Vàng / dầu đi ngang → bỏ qua.
+- **Tần suất**: [đọc lại 180 buổi] 14/21 lô có nhắc vàng / dầu khi nhận định BTC; 5 lô ghi rõ trái luật cũ "vàng tăng →
+  cấm GIẢM BTC" (vàng tăng mà BTC vẫn giảm, họ vẫn giữ GIẢM); chỉ 1 lô (cuối tháng 6 – đầu tháng 7) thấy họ dùng vàng
+  làm một lý do đổi hướng BTC.
+- **Ví dụ**:
+  - [01-23 · 00:11:54](https://www.youtube.com/watch?v=ACM0WA7Rt3I&t=714s) "Nhóm vàng với nhóm coin là hai nhóm khác nhau." (không liên quan)
+  - [03-04 · 00:49:29](https://www.youtube.com/watch?v=OawlrpkFqQk&t=2969s) "Ví dụ chuẩn bị vào long mà thấy vàng tăng thì mình khoan lại, dừng một nhịp quan sát." (ngược chiều, hoãn long)
+  - [06-26 · 00:51:41](https://www.youtube.com/watch?v=UzjWDBAiahs&t=3101s) "Vàng mà gãy một phát là các bạn sẽ biết là Bitcoin nó gãy theo." (cùng chiều)
+  - [07-03 · 00:24:30](https://www.youtube.com/watch?v=IV0Mlz8kNPI&t=1470s) "Đặc biệt khi các bạn nhìn thấy con vàng tăng thì đừng cố đi short BTC, đó là một trong những indicator cực kỳ uy tín và quan trọng."
+  - [07-31 · 00:22:35](https://www.youtube.com/watch?v=SlGyokVNofU&t=1355s) "Vàng gãy thì Bitcoin cút."
+  - [08-10 · 00:31:56](https://www.youtube.com/watch?v=8BGhoFetSaU&t=1916s) "Cái đó chẳng qua là một trong những tín hiệu để chúng ta có cơ sở để lường rủi ro thôi chứ không đánh theo những signal như vậy."
+
+## C8. Gap CME: đích / nam châm và lý do HOÃN — không dùng chọn hướng
+
+- **Tình huống**: còn gap CME chưa lấp gần giá (hồ sơ mục 7: gap chưa lấp hai phía, phần đã lấp, gap vừa lấp xong).
+- **Người đó nhìn/kiểm**: chart CME (không phải chart sàn); gap chỉ coi là lấp khi nến / râu đi HẾT vùng — chạm một phần
+  là chưa; gap nhỏ bỏ qua; thị trường "hay lấp gap hai lần" (lần đầu chạm mép, lần sau mới lấp hẳn); lấp xong thì xoá.
+- **Kết luận + hành động**:
+  - Còn gap phía trên → không short swing sớm, ăn bớt short; còn gap phía dưới → không long FOMO, chờ về gap + nến rồi
+    mới long. Gap phía đó vừa lấp xong → "xong việc", hết một động lực theo phía đó; không tự động đảo hướng.
+  - Gap là chỗ đặt TP (trước mép gap) và đích hồi phụ khi trùng Fibo / hỗ trợ; không dùng để chọn entry, không đổi nhãn
+    H4 chỉ vì gap. Gap không có hạn lấp ("khi nào lấp thì hơi khó nói") → không gắn hạn ngày.
+  - Từ [05-11]: người đó nói thẳng không dựa vào gap để đánh giá xu hướng; gap chỉ còn là nam châm / lý do phụ.
+  - Từ [08-25]: CME mở gần như liên tục → "giảm mức độ uy tín của gap"; gap cũ còn treo vẫn được nêu là "thêm một lý do"
+    cho nhịp kéo lên.
+- **Tần suất**: [đọc lại 180 buổi] 10 trong 21 lô nhắc gap; không lô nào ghi người đó đổi nhãn H4 chỉ vì gap — khi gap
+  góp vào nhãn luôn có căn cứ giá đi kèm. [đo] hồ sơ: gap = giá đóng trước kỳ nghỉ CME > 3 giờ so với giá mở sau, gốc
+  ≥ 0,5%; lấp dần theo râu.
+- **Ví dụ**:
+  - [01-07 · 00:33:59](https://www.youtube.com/watch?v=NOBgwE4Gdko&t=2039s) "Lấp là lấp, không là không"
+  - [01-08 · 00:04:08](https://www.youtube.com/watch?v=jX-0Hgy1S0E&t=248s) "Khi nào cái nến này nó quá khỏi cái vùng màu xám mình vẽ ở đây thì mới gọi là xong."
+  - [01-16 · 00:12:04](https://www.youtube.com/watch?v=SllvhCOjrkE&t=724s) "Gap nhỏ quá không quan trọng."
+  - [01-19 · 00:21:02](https://www.youtube.com/watch?v=rmCGKqaMkdw&t=1262s) "Nhưng chính vì có cái gap 88 là một trong những lý do khiến mình nói anh em hạn chế long bởi vì lý do nó xuống còn nhiều và dễ hơn lý do nó lên"
+  - [03-03 · 00:28:09](https://www.youtube.com/watch?v=xXKnEs9z81g&t=1689s) "Gap vẫn nằm ở 80 và 93. Trước mắt chúng ta sẽ view cái 80 trước."
+  - [04-27 · 00:33:32](https://www.youtube.com/watch?v=9oEDyu-IfMM&t=2012s) "Còn cái gap 80 này, mình đã nhắc thị trường rất hay chạy kiểu lấp gap hai lần."
+  - [05-04 · 00:30:09](https://www.youtube.com/watch?v=VUUbKp4bFSU&t=1809s) "Cho nên hiện tại chưa cần short. Gap chưa xong cứ đừng vội."
+  - [05-05 · 00:27:02](https://www.youtube.com/watch?v=Au_SuIIstcY&t=1622s) "Nó chạm khẽ gap này 81.000 rồi rụng xuống, thì đã coi như là xong gap."
+  - [05-11 · 00:08:15](https://www.youtube.com/watch?v=jm7VS-lKW8w&t=495s) "Chưa xong nhưng mà thiếu một tí nữa. Nhưng mà chúng ta không thể dựa vào cái này để đánh giá xu hướng đi lên được."
+  - [06-02 · 00:16:38](https://www.youtube.com/watch?v=5JIlkl46nss&t=998s) "Cái nguy hiểm là các bạn phụ thuộc vào gap để lựa chọn entry thì cực kỳ nguy hiểm. Nên chọn gap để làm TP."
+  - [06-03 · 00:27:56](https://www.youtube.com/watch?v=OVGlvdAXMKo&t=1676s) "Có bốn gap trên mà có một gap dưới. Đó cũng là lý do khiến chúng ta không còn động lực gì để short nữa."
+  - [08-21](https://www.youtube.com/watch?v=oDD5qwLcZbw) "Nếu lên 78, 79 thì mình thấy gap đó là một trong những lý do để hợp lý hóa đường giá, hợp lý hóa câu chuyện đi lên thôi."
+  - [08-25](https://www.youtube.com/watch?v=nSxBbLai2mE) "bữa nay anh em phải giảm mức độ uy tín của gap xuống, vì sàn CME bữa nay mở full rồi, không còn gap nữa."
+  - [09-22](https://www.youtube.com/watch?v=N-_6NBs4ZW8) "Vẫn có xác suất thị trường rướn lên để kéo lên 90. Đó là thêm một lý do nữa."
+
+## C9. USDT.D / BTC.D: cảnh báo cho BTC, bộ lọc cho altcoin — không tự đổi hướng BTC
+
+- **Tình huống**: USDT.D hay BTC.D (DOM) tăng mạnh, chạm hỗ trợ / kháng cự của chính nó, phá trendline (hồ sơ mục 7:
+  proxy CMC theo ngày).
+- **Người đó nhìn/kiểm**: USDT.D H4 / D1 như một chart riêng — MA34 / MA89, trendline, hai đáy / vai đầu vai, đích Fibo
+  của nó; USDT.D "phản chiếu ngược" BTC. BTC.D chủ yếu để chọn có đánh altcoin hay không.
+- **Kết luận + hành động**:
+  - USDT.D tăng / phá lên / chạm hỗ trợ cứng rồi bật → cảnh báo BTC (hạn chế long, thêm lý do giữ GIẢM); USDT.D gãy
+    xuống / bị từ chối ở cản của nó → động lực cho nhịp hồi BTC (không short đuổi, chỗ chốt short). Đang test MA mà chưa
+    đóng qua = chưa tính là gãy.
+  - BTC.D + USDT.D cùng tăng → altcoin xấu, không long altcoin. BTC tăng + BTC.D tăng + USDT.D đứng = tiền rút từ altcoin
+    đẩy BTC → nhịp tăng BTC không bền, không đuổi long.
+  - Cả hai chỉ xác nhận / cảnh báo, đứng SAU cấu trúc giá BTC: không đổi nhãn H4 một mình; BTC đã rõ xu hướng thì "các
+    chỉ số không có ý nghĩa".
+  - Hồ sơ là proxy CMC (mức % lệch chart TradingView người đó xem) → đọc hướng / vị trí so EMA / đỉnh đáy gần; không so
+    thẳng mức % họ nêu. "Hướng" = mấy ngày gần nhất (dòng "10 ngày" của hồ sơ), không lấy mức đổi 30 ngày: USDT.D đang
+    nhích xuống → thị trường có nhịp hồi (thường chỉ đủ cho BTC hồi kỹ thuật), không phải tín hiệu tăng.
+- **Tần suất**: [đọc lại 180 buổi] 17 trong 21 lô nhắc USDT.D / BTC.D; các lô đều ghi tác động lên hướng BTC là phụ (đi
+  cùng cấu trúc giá), chủ yếu lọc hành động và altcoin.
+- **Ví dụ**:
+  - [01-07 · 00:23:37](https://www.youtube.com/watch?v=NOBgwE4Gdko&t=1417s) "Cho nên hai thằng này mà cùng lên thì Bitcoin có thể đi ngang nhưng Altcoin là không ổn."
+  - [03-13 · 00:26:46](https://www.youtube.com/watch?v=IbTz3V-KlKs&t=1606s) "mà nó gãy khỏi đoạn này mà nó rớt về dưới này thì BTC 80 là sure." (USDT.D H4 thủng hỗ trợ)
+  - [03-19 · 00:52:55](https://www.youtube.com/watch?v=mBEBKzBb4kU&t=3175s) "Giai đoạn này anh em nên nhìn chỉ số USDT.D để tìm điểm chốt lãi trong các nhịp thị trường tăng FOMO."
+  - [05-11 · 00:33:09](https://www.youtube.com/watch?v=jm7VS-lKW8w&t=1989s) "Test 34 rồi này, hai đáy này, thì khả năng nhịp này USDT.D sẽ lên, mà USDT.D lên thì khả năng toàn bộ thị trường sẽ đảo chiều."
+  - [05-28 · 00:40:02](https://www.youtube.com/watch?v=IY2JeSNTTfQ&t=2402s) "Bây giờ các bạn có thể thấy là tất cả các chỉ số nó đâu có ý nghĩa gì đâu."
+  - [07-09 · 00:42:54](https://www.youtube.com/watch?v=Fmb8AziZ6f4&t=2574s) "USDT.D vẫn tiếp tục kéo lên. Cái này là thằng phá đám nhất, nguy hiểm nhất, các bạn cẩn thận."
+  - [07-14 · 00:29:59](https://www.youtube.com/watch?v=gpyn9kVPpn4&t=1799s) "Bitcoin DOM và Bitcoin không liên quan gì đến nhau."
+  - [07-27 · 00:24:28](https://www.youtube.com/watch?v=YMlDceykaTw&t=1468s) "Thằng này mà đi lên một phát thì mất đà." (USDT.D, trước nhịp BTC gãy)
+  - [08-18](https://www.youtube.com/watch?v=_c0_SERWnz0) "Nếu nó có cấu trúc phục hồi thực sự mạnh thì lúc đó thị trường sẽ gãy. Còn bằng không nó cứ nhích dần đi xuống thì thị trường vẫn cố trụ."
+  - [08-28](https://www.youtube.com/watch?v=KwvLRMMnVms) "Và con này đi lên thì tương ứng với đó là Bitcoin đi xuống."
+  - [09-21](https://www.youtube.com/watch?v=I_U52BYUt0M) "Hôm nay nó vẫn test thì chưa phải là confirm gãy."
+  - [10-02](https://www.youtube.com/watch?v=AxRfx12h9Z0) "Bitcoin tăng, BTC.D cũng tăng, USDT.D đứng, chứng tỏ dòng tiền đẩy Bitcoin đang được rút từ altcoin ra; nó bán altcoin để đẩy Bitcoin."
+  - [10-30](https://www.youtube.com/watch?v=f0JWA9aDHl8) "Sáng nay mình có cảnh báo nhịp USDT.D lên 7.1% và sáng nay nó đã lên 7.1 rồi, đường này có phản ứng, USDT.D rớt xuống thì giá phục hồi."
+  - [11-02 · 00:40:55](https://www.youtube.com/watch?v=MEKVe_u8BA8&t=2455s) "USDT.D được cái thằng này đang giảm xuống cho nên là market đang được có nhịp hồi." (USDT.D vừa nhích xuống 2 ngày dù cả tháng vẫn tăng)
+
+## C10. Phe đông (Hyblock delta, heatmap thanh lý): chỉ HOÃN lệnh — hồ sơ KHÔNG có dữ liệu này
+
+- **Tình huống**: người đó xem delta cộng dồn Hyblock ("hai block"), heatmap thanh lý Coinglass, OI long / short.
+- **Người đó nhìn/kiểm**: phe nào đông (đỏ = short dày), cụm thanh lý dày phía nào sát giá, cụm mới tạo hay cũ; ngưỡng
+  "lớn" co giãn theo mặt bằng giá.
+- **Kết luận + hành động**:
+  - Short đông / cụm thanh lý short dày phía trên → "không short", chờ quét lên rồi mới short; nhãn vẫn GIẢM — "không
+    short" không có nghĩa là long. Long đông / SL long chồng dưới đáy → không long, chờ quét xuống.
+  - Cụm dày phía trên khi cấu trúc đang giảm = mồi dụ buy; "có tường không làm thay đổi cấu trúc thị trường". Phe đông
+    không chắc bị quét ngay: đi ngang cũng là cách tiêu thanh khoản.
+  - Khối lượng nhỏ, cụm mới tạo, giá quét hai biên → bỏ qua dữ liệu này.
+  - Bot KHÔNG có dữ liệu này → ghi "không có dữ liệu Hyblock / heatmap"; không suy ra phe đông từ giá, không biến "không
+    short" thành TĂNG.
+- **Tần suất**: [đọc lại 180 buổi] 19 trong 21 lô nhắc; các lô đều ghi vai trò phụ (hoãn lệnh, chỗ chờ / chốt), không
+  thay xu hướng.
+- **Ví dụ**:
+  - [01-23 · 00:13:26](https://www.youtube.com/watch?v=ACM0WA7Rt3I&t=806s) "Tầm này mình thấy khả năng là trap short. Mặc dù xu hướng khung lớn thì vẫn xấu nhưng nhìn vào đây thằng nào cũng short."
+  - [03-25 · 00:38:22](https://www.youtube.com/watch?v=byYCWvbkZyU&t=2302s) "Cho nên thời điểm này chúng ta tạm thời bỏ qua data này."
+  - [05-29 · 01:03:04](https://www.youtube.com/watch?v=AmGhhyxkErs&t=3784s) "Tất cả những dữ liệu đều phục vụ cho câu chuyện là quản lý rủi ro."
+  - [06-01 · 00:33:33](https://www.youtube.com/watch?v=cgTktZyPPt4&t=2013s) "Nhưng mà còn lại không short thì chỉ những người nào họ thông minh vượt trội khỏi loài người thì họ sẽ hiểu không short có nghĩa là long, chứ mình không có nói như vậy."
+  - [06-04 · 00:34:07](https://www.youtube.com/watch?v=59zOmIM_EOM&t=2047s) "Đi ngang cũng là một cách để nó tiêu diệt những thanh khoản đó."
+  - [06-23 · 00:22:02](https://www.youtube.com/watch?v=w3K-VXD_Tns&t=1322s) "Heatmap thì chắc cũng không có giá trị nhiều. Tầm này quét thiên lý hai đầu, bỏ qua heatmap này."
+  - [08-21](https://www.youtube.com/watch?v=oDD5qwLcZbw) "Các dữ liệu mình view mang tính cảnh báo rủi ro chứ không mang tính đảo chiều ở giai đoạn hiện tại."
+  - [09-28](https://www.youtube.com/watch?v=G5Q1ATx_1ho) "Vùng này mình nghĩ là dụ buy rồi: với cái chart đi như thế này mà vùng thanh lý vẫn còn dày như vậy thì khả năng đây là vùng dụ cho anh em buy lên lấy đống này."
+  - [10-06](https://www.youtube.com/watch?v=CABZxVcYavM) "có tường không làm thay đổi cấu trúc thị trường"
+  - [10-27](https://www.youtube.com/watch?v=2RB3G-MYjhE) "Cho nên không phải khối lượng đỏ nhiều như này là nó sẽ tăng mạnh đâu."
+  - [11-02 · 00:42:43](https://www.youtube.com/watch?v=MEKVe_u8BA8&t=2563s) "500.000 như này thì khả năng nó đi lên 79 để nó quét là cao nhá chứ không phải là thấp đâu." (short đông → chặng 1 lên quét, view vẫn GIẢM)
 
 ---
 

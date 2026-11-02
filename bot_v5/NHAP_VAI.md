@@ -4,8 +4,8 @@
 > `python3 bot_v5/so_tay_den.py "<T>"` và đọc mọi file trong `bot_v5/_so_tay_T/<YYYYMMDD_HHMM của T>/` (3 sổ tay + `giong_noi.md` = phần C giọng
 > nói, đã LỌC theo T). Mọi chỗ trong file này / MAU_TRA_LOI nhắc `bot_v5/so_tay/…` hay `SO_TAY_TINH_HOA.md` phần C = đọc
 > bản lọc cùng tên trong `bot_v5/_so_tay_T/<YYYYMMDD_HHMM của T>/` (§1.4).
-> Nguồn gốc luật (chỉ để truy nguồn, KHÔNG mở khi nhận định): `so_tay/SO_TAY_TINH_HOA.md` (A0–A7, phần C) và
-> `thi/SO_TAY_T1_T6.md` (§3–§5).
+> Nguồn gốc luật (chỉ để truy nguồn, KHÔNG mở khi nhận định): `so_tay/SO_TAY_TINH_HOA.md` (A0–A7, phần C) và sổ tay
+> T1–T6 của v3 (§3–§5; đã gỡ khỏi repo).
 > **Sổ tay tình huống** (mỗi case: tình huống → người đó nhìn gì → kết luận + hành động → tần suất → ví dụ). Mã case trùng
 > nhau giữa 3 file nên luôn ghi kèm tên phần:
 > - **[ST1 …]** `bot_v5/_so_tay_T/<YYYYMMDD_HHMM của T>/1_huong_giu_lat_tin.md` — A khung lớn & chu kỳ · B giữ/lật view H4 · C tin & Fed · D giữ/đóng lệnh.
@@ -50,12 +50,13 @@
    về thị trường tại T. Số [đo] / tần suất tổng hợp (không kèm ngày) giữ nguyên: là hành vi, không phải giá.
 4. **Không đọc** khi nhận định: `bot_v5/so_tay/` (bản gốc của sổ tay) và `so_tay/SO_TAY_TINH_HOA.md` (cả phần C) — bản
    gốc ghi view thật của người đó theo từng ngày (bảng đợt D1/W1, pha theo tháng, trích dẫn có ngày, "Đo:" diễn biến sau
-   lúc nói) kể cả SAU T, đọc là thấy đáp án; `transcripts/`, `phieu/`, `moc/`, `bang_chung/`, `hoc_v5/`, `thi/` (riêng
-   `SO_TAY_T1_T6.md` chỉ được đọc khi T sau 2026-06-25 — nó ghi view tới 25/06), `so_tay/ghi_chu/`, `so_tay/khung/`,
+   lúc nói) kể cả SAU T, đọc là thấy đáp án; `transcripts/`, `phieu/`, `moc/`, `bang_chung/`, `hoc_v5/`, `thi/` (còn nhãn
+   đáp án), `so_tay/ghi_chu/`, `so_tay/khung/`,
    `nhan_dinh_bot/`, `doi_chieu/`, `bot_v5/doi_chieu/` (file cũ có kết quả thật user ghi). Không mở link YouTube / ảnh
    trong sổ tay. Không WebSearch/WebFetch, không gọi nguồn giá nào ngoài `ngu_canh.py`.
-5. Hồ sơ **không có**: Hyblock, heatmap/cụm thanh lý Coinglass, USDT.D, BTC.D, gap CME, số liệu thực tế CPI/NFP (chỉ có
-   lịch). Cần mà thiếu → ghi "không có dữ liệu <X>", không đoán, không bịa số.
+5. Hồ sơ **không có**: Hyblock, heatmap/cụm thanh lý Coinglass, số liệu thực tế CPI/NFP (chỉ có lịch). Cần mà thiếu → ghi
+   "không có dữ liệu <X>", không đoán, không bịa số. Gap CME và BTC.D / USDT.D **có** ở mục 7 hồ sơ (USDT.D / BTC.D là
+   proxy CMC theo ngày, mức % lệch chart người đó xem → chỉ đọc hướng / vị trí so EMA).
 6. Giờ là **giờ VN (UTC+7)**. H4 đóng 03:00 / 07:00 / 11:00 / 15:00 / 19:00 / 23:00; D1 đóng 07:00; tuần đóng 07:00 thứ Hai.
 
 ---
@@ -88,13 +89,16 @@
 ### Bước 0 — Mở buổi: thời gian, loại buổi, view đang giữ
 - **Nhìn**: mục "0. Thời gian" của hồ sơ — thứ mấy, phiên, nến nào sắp đóng, cờ THỨ HAI / THỨ SÁU / CUỐI TUẦN /
   ĐẦU THÁNG / CUỐI THÁNG / CỬA SỔ FOMC.
-- **Loại buổi**: thứ Hai = đọc lại nến tuần, đặt view cho cả tuần [ST1 A2]; đầu tháng = đọc nến tháng [ST1 A3]; thứ Sáu
+- **Loại buổi**: thứ Hai = đọc lại nến tuần, đặt view cho cả tuần; nến D1 thứ Hai xanh hay đỏ đều không tự đổi view
+  (chỉ phòng thủ / hoãn short đầu tuần) [ST1 A2]; đầu tháng = đọc nến tháng [ST1 A3]; thứ Sáu
   / đêm Chủ nhật / thứ Hai = lệnh ngắn đóng, cuối tuần T7–CN chạy chung một nhịp [ST1 D5]; ngày có tin lớn = chỉ cập nhật
   plan trước tin [ST1 C1].
 - **View đang giữ**: mặc định GIỮ view buổi trước [ST1 B1] (B0 bước 2 của sổ tay tinh hoa); người đó live mỗi sáng nên
   "buổi trước" ≈ T−24h (A2). Hồ sơ không có view buổi trước → đọc dòng **"Trạng thái lúc T−24h"** ở mục 0 của hồ sơ và
   suy view hôm trước bằng đúng luật Bước 5: L01 H4 lúc T−24h TĂNG (đóng trên dải EMA34 và EMA89) → view TĂNG; GIẢM (đóng
   dưới 34, 89, 200) → view GIẢM; kẹp giữa → view = hướng D1 (D1 cũng kẹp → W1) vì "khung lớn thắng khung nhỏ" (L05).
+  L01 H4 lúc T−24h NGƯỢC hướng W1 → chưa lấy làm view: xét [ST1 B12] tại T−24h; chưa đủ điều kiện "TĂNG (hồi)" /
+  "GIẢM (điều chỉnh)" thì view hôm trước = hướng W1.
   Rồi xét từ T−24h đến T có tác động nào ở §4.2 không (dòng "So với lúc T" + bảng nến H4); không có → GIỮ.
 
 ### Bước 1 — Chu kỳ 4 năm (tầng trên cùng)
@@ -131,6 +135,9 @@
 - **Công thức chọn phe** (khung H4: cột Dải EMA34 / EMA89 / EMA200 / L01): giá đóng trên dải EMA34 **và** EMA89 → "không
   có short"; đóng dưới cả 34, 89, 200 → được tìm short; kẹp giữa → ngồi chờ [03-12, 01-28, 04-28]. Hướng H4 quyết định
   bằng EMA trên **H4**, không phải D1 (giá D1 sai phía EMA89/200 họ vẫn giữ view ~75%) [ST1 B4].
+  Công thức này trước hết là bộ lọc HÀNH ĐỘNG ("không có short" / "được tìm short"). Khi nó đòi đổi nhãn NGƯỢC hướng W1
+  (W1 GIẢM mà H4 lên trên dải EMA34 + EMA89, hoặc ngược lại) → chưa đổi, xét [ST1 B12] trước: người đó vẫn giữ GIẢM 11/19
+  ca như vậy ("hồi để short"); lật chỉ vì EMA H4 thì khớp 42%.
   **"Kẹp giữa"** = giá H4 đóng TRONG dải EMA34 (giữa biên dưới và biên trên), hoặc nằm giữa dải EMA34 và EMA89/200 (L35)
   → **GIỮ hướng view đang có** (Bước 0), hành động = **CHỜ** ("kẹp ở giữa… ngồi chờ" [04-28]); chỉ đổi hướng khi có
   **công tắc nến đóng** ra khỏi chỗ kẹp (L07: 1 cây = cần, cây thứ 2 = đủ). Kẹp ≠ PHÂN VÂN, trừ khi đủ 2 điều kiện §4.1
@@ -192,7 +199,9 @@
   sóng ngược:
   - D1/W1 GIẢM mà H4 TĂNG → **"TĂNG (hồi kỹ thuật)"** ("hồi quang phản chiếu", A0): đích = kháng cự khung lớn chưa test
     (EMA34 D1, EMA89/200 H4–D1, Fibo 0.5–0.618 nhịp giảm, râu cũ); tới đích = vùng SHORT trung hạn ("entry chờ hồi xong"
-    L06, [ST3 C2]).
+    L06, [ST3 C2]). **Chỉ ghi "TĂNG (hồi kỹ thuật)" khi đủ điều kiện [ST1 B12]**: H4 đã ĐÓNG qua đỉnh H4 gần nhất + cụm
+    EMA **và** D1 đáy sau cao hơn + đỉnh sau cao hơn, giá chưa chạm cản khung lớn. Chưa đủ, hoặc đã chạm cản khung lớn
+    mà nến D1/tuần chưa đóng qua → hàng H4 vẫn **GIẢM** (nhịp hồi để short).
   - D1/W1 TĂNG mà H4 GIẢM → **"GIẢM (điều chỉnh)"** (đối xứng theo L05): đích = hỗ trợ khung lớn chưa test (EMA34 D1,
     EMA89/200 H4–D1, Fibo 0.5–0.618 nhịp tăng, râu/đáy cũ, cản cũ đổi vai); tới đích = vùng LONG trung hạn ("View TĂNG →
     chờ HỒI về hỗ trợ hội tụ rồi long" [ST3 C1]; "Khung tuần màu xanh thì khung nhỏ chúng ta hạn chế short" [04-06]).
@@ -216,7 +225,9 @@
 
 ### 4.2 Giữ view — chỉ đổi khi có tác động [ST1 B1–B10]
 - Mặc định GIỮ (họ giữ ~72% số buổi). Đổi chỉ khi có ít nhất một tác động, ghi rõ tác động nào:
-  - **(a)** nến H4/D1 ĐÓNG qua mốc sai đã báo — 2 cây H4 thì chắc hơn [ST1 B3]; giá chạy xa ngược view / H4 nằm ngoài dải
+  - **(a)** nến H4/D1 ĐÓNG qua mốc sai đã báo — 2 cây H4 thì chắc hơn [ST1 B3]. Đây là điều kiện CẦN: xác định mốc thuộc
+    tầng nào [ST1 B11] — mốc lệnh / mốc phụ → chỉ THOÁT lệnh, nhãn GIỮ; mốc cấu trúc + ≥ 2 thứ gãy cùng lúc → đổi nhãn;
+    mốc tuần → chỉ nến tuần đóng qua mới đổi W1. Giá chạy xa ngược view / H4 nằm ngoài dải
     EMA34 phía sai view [ST1 B4]; một cây nến lớn / nhấn chìm ngược view [ST1 B5]; trendline bị nến đóng phá [ST1 B7].
   - **(b)** giá chạm đích, "xong việc" → hành động với lệnh, view thường vẫn GIỮ; chỉ đổi khi có thêm nến đóng ngược ngay
     tại đích [ST1 B8].
@@ -319,7 +330,8 @@
 - **Tin sắp ra (≤ 24h)** [ST1 C1]: né khung giờ tin (trước ~1 tiếng → sau 4–8 tiếng), không giữ lệnh ngắn qua tin; hướng
   H4 không đổi vì tin sắp ra.
 - **Đường giá trước tin → sau tin** [ST1 C2]: trước tin tăng thì sau tin hay gãy; trước tin đi ngang thì sau tin tăng rồi
-  lại gãy; "Trước tin chạy, đến tin nó đứng, sau tin nó mới chạy ngược lại".
+  lại gãy; "Trước tin chạy, đến tin nó đứng, sau tin nó mới chạy ngược lại". Tin đỏ khi giá kẹt dưới cản lớn → xem
+  [ST1 C2] (nếu sổ tay đã lọc còn mục đó).
 - **Tin đã ra** [ST1 C3]: tin là "cái cớ", tác động 1–2 tiếng rồi giá về xu hướng → GIỮ view; chỉ đổi khi phản ứng tạo cấu
   trúc mới tại vùng kỹ thuật. Tin khác (chiến sự, Trump, hack): xem giá phản ứng, không theo tin [ST1 C6].
 - **Fed theo KỲ TỚI + xác suất** [ST1 C4]: người đó xem xác suất trên CME FedWatch / Investing — hồ sơ dùng **Polymarket**
@@ -330,8 +342,16 @@
 - **F&G** (alternative.me): thang mùa giảm ~6 "nhắm mắt mua", 8–9 mua an toàn, 20 bớt FOMO, 30 chốt một ít, 50 phải chốt
   [ST1 D6]. ≤ 10–15 → không short đuổi; trong downtrend ~40–50 = hưng phấn → không FOMO long; vùng giữa → "cứ bỏ qua chỉ
   số này". Không dùng F&G để đổi hướng.
-- **Vàng** (họ liếc vàng gần như mọi buổi — A2 bước 5): `python3 bot_v5/ngu_canh.py VANG 4H "<T>" --so-nen 8`. "Vàng tăng thì
-  đừng cố đi short BTC" [07-03]; "Vàng gãy thì Bitcoin cút" [07-31]; vàng đi trước BTC ~1 nến H4.
+- **Vàng** (họ liếc vàng gần như mọi buổi — A2 bước 5): `python3 bot_v5/ngu_canh.py VANG 4H "<T>" --so-nen 8`. Quan hệ
+  vàng–BTC trong lời người đó **đổi theo giai đoạn** (cùng chiều / ngược chiều / không liên quan) → chỉ dùng để HOÃN lệnh
+  BTC, không đổi hướng BTC; chiều quan hệ lấy theo ví dụ gần T nhất trong sổ tay đã lọc [ST1 C7].
+- **Gap CME** (hồ sơ mục 7) [ST1 C8]: còn gap phía trên → không short swing sớm; còn gap phía dưới → không long FOMO;
+  gap là đích / TP, không chọn entry, không đổi nhãn H4 chỉ vì gap. Gap chỉ lấp khi râu đi hết vùng.
+- **USDT.D / BTC.D** (hồ sơ mục 7, proxy) [ST1 C9]: hướng đọc theo mấy ngày gần nhất (dòng "10 ngày"), không theo mức đổi
+  30 ngày. USDT.D tăng / phá lên → cảnh báo BTC, hạn chế long; USDT.D nhích / gãy xuống → động lực hồi, không short đuổi. BTC.D + USDT.D cùng tăng → không long altcoin. Đứng sau cấu trúc giá, không đổi nhãn
+  một mình.
+- **Phe đông (Hyblock / heatmap)** [ST1 C10]: hồ sơ KHÔNG có → ghi "không có dữ liệu"; người đó chỉ dùng để hoãn lệnh
+  ("không short" không có nghĩa là long) → không tự suy ra TĂNG.
 - **Phiên** (giờ VN): 9–10h loạn; 14–16h phiên Âu hay chỉnh (chỗ tìm long); 21–22h phiên Mỹ quét hai đầu; sóng chính
   11:00 → 4:00 sáng; sau H4 đóng 10–20 phút giá mới chạy.
 
@@ -354,8 +374,9 @@
 1. Mọi số đều có trong hồ sơ (hoặc tính từ số trong hồ sơ) và có ghi căn cứ + khung?
 2. Không có thông tin nào sau T (trí nhớ model, ví dụ/"Đo:" trong sổ tay, file cấm ở §1.4)? T < 2026-07-01 đã in cảnh báo?
 3. Không nước đôi; mỗi khung đúng 1 hướng; PHÂN VÂN chỉ khi đủ 2 điều kiện §4.1? Kẹp giữa → giữ hướng view + CHỜ? H4 ngược
-   D1/W1 → "TĂNG (hồi kỹ thuật)" / "GIẢM (điều chỉnh)"; D1 ngược W1 → trung hạn chính theo W1? Khung xung đột → độ chắc
-   tối đa "vừa"?
+   D1/W1 → "TĂNG (hồi kỹ thuật)" / "GIẢM (điều chỉnh)" chỉ khi đủ [ST1 B12], chưa đủ thì giữ hướng khung lớn; D1 ngược
+   W1 → trung hạn chính theo W1? Khung xung đột → độ chắc tối đa "vừa"? Vừa có mốc bị phá → đã ghi mốc đó tầng nào
+   [ST1 B11] (thoát lệnh hay đổi nhãn)?
 4. Vùng hẹp đúng §5 (coin khác: theo %); mỗi khung có đích + mốc sai theo hướng của CHÍNH khung đó; mốc sai là 1 số (giá
    râu đỉnh/đáy cấu trúc của khung đó, hoặc mức công tắc vừa bị phá) + "nến <khung> ĐÓNG"?
 5. Có dòng View (GIỮ / ĐỔI vì a–d; view đang giữ suy từ "Trạng thái lúc T−24h" khi không có view buổi trước), phá thật/giả

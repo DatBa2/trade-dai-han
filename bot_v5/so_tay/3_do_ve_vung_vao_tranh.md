@@ -304,6 +304,9 @@
 - **Đo kết quả** (đích chặng 1 / chặng 2 = mép gần, ≤14 ngày, OKX 1H): 105 buổi đủ số: **đúng thứ tự (chạm chặng 1 rồi chặng 2) 37 (35%)**, đi thẳng chặng 2 không qua chặng 1 28 (27%), chỉ tới chặng 1 40 (38%), không chạm 0.
 - **Vào**: entry đặt ở **đích chặng 1** (C4).
 - **Ví dụ**: 01-06 (91 → 96–98, Đo: đúng thứ tự); 01-21 (lên 91 rồi xuống 80; Đo: đúng thứ tự); 01-26 (88 → 86; Đo: đúng thứ tự).
+- **Sau chặng 1 là vùng QUYẾT ĐỊNH, không phải đích**: chặng 1 lên cản → gãy về test vùng Fibo bên dưới; giữ được thì
+  mới có cơ sở tăng, nến đóng thủng thì đi tiếp xuống — ghi rõ mức nến cần đóng ở vùng đó.
+  - [11-02 · 00:34:22](https://www.youtube.com/watch?v=MEKVe_u8BA8&t=2062s) «Nhịp này phải lên được 80 và sau đó phải rớt về.» · [11-02 · 00:38:37](https://www.youtube.com/watch?v=MEKVe_u8BA8&t=2317s) «Nếu trong trường hợp nó không giữ được cái vùng 78 đến 77 thì đây nó sẽ về 74.» · [11-02 · 00:39:02](https://www.youtube.com/watch?v=MEKVe_u8BA8&t=2342s) «Nó phải về đến tận 67 nó mới gặp tiếp hỗ trợ.» (ảnh `MEKVe_u8BA8_003910.jpg`: vòng đỏ quanh cây nến tăng thẳng tháng 8 — vùng nến tăng thẳng không có hỗ trợ ở giữa; ảnh `MEKVe_u8BA8_003805.jpg`: Fibo neo đỉnh nhỏ ngay trước cú xả, vùng quyết định = 0.5–0.786 trùng hộp hỗ trợ cũ + EMA34 tuần)
 
 ### E2. Hộp đi ngang → fake out một đầu trước
 - «Nếu nó muốn giảm thì sẽ có một cú lên để fake rồi mới xuống; nếu muốn tăng thì sẽ có một cú giảm để fake rồi mới tăng» [09-29 00:37:06](https://www.youtube.com/watch?v=3inGNRqb-UM&t=2226s).

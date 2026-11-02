@@ -85,7 +85,8 @@ Hành động lúc này: <VÀO NGAY ở … / CHỜ giá về vùng vào (mục 
 - FOMC kỳ tới <ngày giờ VN>: Polymarket giữ <x>% · tăng <y>% · giảm <z>% (Δ7 ngày <…>) → <đọc theo người đó>
 - FOMC vừa qua: <quyết định, phiếu, câu định hướng> (bỏ nếu ngoài dữ liệu)
 - F&G: <số> (<phân loại>) → <theo thang của họ>
-- Không có dữ liệu: <Hyblock / heatmap thanh lý / USDT.D / BTC.D / gap CME… nếu cần mà thiếu>
+- Gap CME / USDT.D / BTC.D (hồ sơ mục 7): <gap chưa lấp gần nhất hai phía; USDT.D đang lên/xuống, so EMA> → <chỉ hoãn / đích>
+- Không có dữ liệu: <Hyblock / heatmap thanh lý / số liệu tin… nếu cần mà thiếu>
 
 ### 10. Lời bình
 > <3–5 câu, giọng người đó: xưng "mình", gọi "anh em"; dứt khoát ở luật, xác suất bằng số; nhắc mốc nến đóng;
