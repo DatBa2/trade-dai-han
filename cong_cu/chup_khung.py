@@ -5,9 +5,28 @@ Mỗi video hỏi YouTube 1 lần lấy link file (≤1080p để đọc đượ
 Giãn tối thiểu GIAN_CACH giây giữa 2 lần gọi YouTube, kể cả khi nhiều tiến trình chạy cùng lúc (khoá file).
 Cách dùng: python3 cong_cu/chup_khung.py <video_id> <hh:mm:ss> [<hh:mm:ss> ...]
 """
-import fcntl, os, subprocess, sys, tempfile, time
+import os, shutil, subprocess, sys, tempfile, time
 from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
+
+try:
+    import fcntl
+
+    def _khoa(f):
+        fcntl.flock(f, fcntl.LOCK_EX)
+
+    def _mo_khoa(f):
+        fcntl.flock(f, fcntl.LOCK_UN)
+except ImportError:  # Windows không có fcntl → khoá 1 byte đầu file bằng msvcrt
+    import msvcrt
+
+    def _khoa(f):
+        f.seek(0)
+        msvcrt.locking(f.fileno(), msvcrt.LK_LOCK, 1)
+
+    def _mo_khoa(f):
+        f.seek(0)
+        msvcrt.locking(f.fileno(), msvcrt.LK_UNLCK, 1)
 
 GOC = Path(__file__).resolve().parent.parent
 RA = GOC / "so_tay" / "khung"
@@ -18,7 +37,7 @@ GIAN_CACH = int(os.environ.get("GIAN_CACH", 60))  # chụp ảnh: user cho tăng
 def cho_luot():
     KHOA.parent.mkdir(parents=True, exist_ok=True)
     f = KHOA.open("a+")
-    fcntl.flock(f, fcntl.LOCK_EX)
+    _khoa(f)
     f.seek(0)
     cuoi = float(f.read() or 0)
     if time.time() - cuoi < GIAN_CACH:
@@ -28,7 +47,7 @@ def cho_luot():
 
 def xong_luot(f):
     f.seek(0); f.truncate(); f.write(str(time.time())); f.flush()
-    fcntl.flock(f, fcntl.LOCK_UN); f.close()
+    _mo_khoa(f); f.close()
 
 
 def giay(moc):
@@ -51,7 +70,9 @@ def chup(vid, mocs):
         if "confirm you" in r.stderr or "429" in r.stderr:
             sys.exit(f"■ YouTube nghi bot — DỪNG: {r.stderr.strip()[-200:]}")
         url = r.stdout.strip().splitlines()[0] if r.stdout.strip() else None
-        cat = lambda m: subprocess.run(["ffmpeg", "-loglevel", "error", "-y", "-ss", str(giay(m) + 1), "-i", url, "-frames:v", "1",
+        # máy không có ffmpeg trong PATH (Windows) → dùng bản đi kèm gói pip imageio-ffmpeg
+        ffmpeg = shutil.which("ffmpeg") or __import__("imageio_ffmpeg").get_ffmpeg_exe()
+        cat = lambda m: subprocess.run([ffmpeg, "-loglevel", "error", "-y", "-ss", str(giay(m) + 1), "-i", url, "-frames:v", "1",
                                         "-q:v", "2", str(RA / f"{vid}_{m.replace(':', '')}.jpg")], timeout=120)
         if url:
             with ThreadPoolExecutor(4) as ex:  # tải thẳng từ máy chủ video, không gọi lại trang YouTube
