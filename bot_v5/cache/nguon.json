@@ -1,0 +1,14 @@
+{
+ "BTC": [
+  "binance_fapi",
+  "BTCUSDT"
+ ],
+ "ETH": [
+  "binance_fapi",
+  "ETHUSDT"
+ ],
+ "SOL": [
+  "binance_fapi",
+  "SOLUSDT"
+ ]
+}

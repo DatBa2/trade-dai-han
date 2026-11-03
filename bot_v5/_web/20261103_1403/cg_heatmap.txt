@@ -1,0 +1,142 @@
+Legend
+NEW
+24h Volume
+$166,423,875,501
++58.69%
+Open Interest
+$133,601,789,209
+-2.53%
+24h Liquidation
+$377,742,285
++169.11%
+24h Long/Short
+48.87%/51.13%
+API
+Download APP
+English
+Market
+Stocks
+Exchanges
+Open Interest
+Funding Rate
+Liquidation
+Data
+Supercharts
+Legend
+Watchlist
+More
+Search
+/
+Login
+All Categories
+Options
+Options Net Premium Strike Heatmap
+Options/Futures OI Ratio
+Options Open Interest
+Options OI By Expiry
+Options OI By Strike
+Volume By Expiration
+Volume By Strike Price
+Option Greeks Tables
+Max Pain
+Liquidations
+Liquidation History
+Top Liquidation Events
+Liquidation History Heatmap
+Liquidation Map
+Hyperliquid Liquidation Map
+Liquidation Heatmap
+Liquidation Heatmap(Model 2)
+Liquidation Heatmap(Model 3)
+Futures
+Hyperliquid Long/Short Trader Ratio
+Open Interest & Volume
+Altcoin Open Interest & Volume
+Orderbook Liquidity Delta
+Insurance Fund History
+Perpetual/Spot Volume
+Historical Open Interest
+Real-time Open Interest
+Volume (24h)
+Historical Volume
+Premium Index
+Coinbase Bitcoin Premium Index
+Bitcoin Dominance
+Margin Borrow Interest Rate History
+Funding Rate
+Funding Rate History
+Weighted Funding Rate
+Model 1
+Model 2
+Model 3
+🔥Liquidation Map API
+Long
+Short
+Trade
+Pair
+Symbol
+Prime
+Binance BTC/USDT Liquidation Heatmap
+24 hour
+Liquidity Threshold = 0.85
+Liquidation Map
+
+Tip: If the message “NO DATA” appears on this page, please check whether your device’s time is synchronized with world time. You can visit http://time.is/ to see if your system clock is delayed.
+
+Liquidation HeatMap: In short, it predicts the price levels at which large-scale liquidation events may occur.
+
+A liquidation event occurs when a trader's positions are closed due to price fluctuations and their margin account balance is insufficient to cover the open positions. To prevent further losses for both traders and exchanges, most exchanges offer a liquidation level, which is the price at which leveraged trades will be forcibly closed.
+
+Traders who can estimate the liquidation levels of other traders may gain an advantage similar to understanding high liquidity in the order book. The liquidation heatmap by Coinglass attempts to predict where significant liquidations may occur to help traders find the best liquidity positions.
+
+The liquidation heatmap calculates the liquidation levels based on market data and different leverage amounts. The calculated levels are then added to the prices on the chart.
+
+As more estimated liquidation levels are added to a particular price, the colors on the heatmap change. The color range goes from purple to yellow, with yellow representing a high number of predicted liquidation levels, allowing traders to identify areas of high liquidity.
+
+The liquidation heatmap predicts where liquidation levels are likely to initiate but not where they will stop. Therefore, the actual number of liquidations will be fewer. When considering the size, it must be viewed as a relative figure by comparing it with other levels. Users can filter multiple major exchanges, trading pairs, and historical liquidation data.
+
+How traders can use it:
+
+The liquidation heat map allows traders to identify areas of high liquidity, which can be helpful in various ways:
+
+Magnet Zone: Concentration of potential liquidation levels within a specific price range may indicate that the price is likely to move towards that zone. Some traders utilize these liquidation levels to gauge the possible direction of price movement and as additional indicators for convergence.
+
+Support/Resistance Zone: In high liquidation areas, larger traders or "whales" can execute trades rapidly at favorable prices. Once they enter or exit orders within this liquidity, the price can now reverse.
+
+Furthermore, liquidation levels can exert significant pressure on either the buy or sell side of the order book, leading to a natural price reversal.
+
+Liquidations play a crucial role in the cryptocurrency market as they have a significant impact on traders' positions. By understanding how to utilize data from the liquidation heat map, traders can make informed trading decisions and potentially increase their chances of success.
+
+If you’d like to access this data via API, you can use the following developer interface:
+👉 CoinGlass Liquidation Heatmap API Documentation
+
+— Retrieve liquidation heatmap data across different cryptocurrencies and exchanges, including price ranges, liquidation intensity metrics, and model versions.
+
+About
+
+About Us
+Contact Us
+Disclaimer
+Terms of Use
+Privacy Policy
+
+Products
+
+Stocks
+Legend
+APP
+API
+Chart
+Bitcoin On-chain Metrics
+
+More
+
+Learning Center
+Alerts
+Cookie Preferences
+
+Community
+
+X(Twitter)
+Telegram
+© 2026 CoinGlass, all rights reserved

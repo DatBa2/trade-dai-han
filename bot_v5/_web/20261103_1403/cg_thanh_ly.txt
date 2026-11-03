@@ -1,0 +1,1148 @@
+Legend
+NEW
+24h Volume
+$166,457,441,875
++58.72%
+Open Interest
+$133,564,038,548
+-2.56%
+24h Liquidation
+$377,742,285
++169.11%
+24h Long/Short
+48.87%/51.13%
+API
+Download APP
+English
+Market
+Stocks
+Exchanges
+Open Interest
+Funding Rate
+Liquidation
+Data
+Supercharts
+Legend
+Watchlist
+More
+Search
+/
+Login
+Liquidation Data
+
+Explore crypto liquidations across time periods and exchanges. Compare long and short liquidations with price movements and filter live orders by coin, exchange and amount.
+
+LIVE
+Liquidation Heatmap
+1h
+4h
+12h
+24h
+Coin
+Exchange
+Red/green
+BTC
+$100.00M
+Long 93.1%
+Other
+$50.71M
+Long 88.5%
+ETH
+$48.25M
+Long 79.0%
+SOL
+$23.25M
+Long 94.8%
+SNDK
+$15.88M
+SOXL
+$14.29M
+ZEC
+$14.08M
+HYPE
+$10.46M
+NEAR
+$10.13M
+CL
+$6.93M
+XPL
+$5.80M
+INTC
+$5.42M
+XAU
+$4.77M
+SNXX
+$3.60M
+MU
+$3.22M
+XYZ:CL
+$3.18M
+BZ
+XYZ:SOXL
+XAG
+1000PEPE
+KORU
+XRP
+DOGE
+LITE
+XYZ:LITE
+MRVL
+SKHYNIX
+SPCX
+ENA
+UNI
+BNB
+GOOGL
+ARIA
+WLD
+AKE
+XYZ:INTC
+INTW
+XYZ:BRENTOIL
+XYZ:MRVL
+SOXS
+PUMP
+IDOL
+XYZ:XYZ100
+SUI
+TRUMP
+HOT
+ADA
+PEPE
+AAVE
+QQQ
+Long dominant
+Short dominant
+Total Liquidations
+1h Rekt
+$17.10M
+Long
+$15.97M
+Short
+$1.13M
+4h Rekt
+$35.89M
+Long
+$32.22M
+Short
+$3.66M
+12h Rekt
+$147.93M
+Long
+$132.49M
+Short
+$15.44M
+24h Rekt
+$377.87M
+Long
+$340.13M
+Short
+$37.74M
+
+According to CoinGlass, in the past 24 hours, 95,828 traders liquidated. Total liquidations were $377.87M. The largest observed liquidation order was on Binance - BTCUSDT, valued at $8.78M.
+
+24h liquidation breakdown
+24h
+● Long
+90.0%
+● Short
+10.0%
+Largest exchange share
+Binance
+49.6%
+Largest observed order · 24h
+$8.78M
+Binance · BTCUSDT · Long · $76,599.68
+Exchange Liquidations
+1h
+4h
+12h
+24h
+Exchange	Liquidations	Long	Short	Market share	Long / Short
+Σ All	
+$35.76M
+	$32.12M	$3.64M	100.0%	
+89.8%
+Long
+
+
+Binance
+	
+$14.81M
+	$12.79M	$2.02M	41.4%	
+86.4%
+Long
+
+
+Hyperliquid
+	
+$9.69M
+	$9.50M	$193.78K	27.1%	
+98.0%
+Long
+
+
+Bybit
+	
+$3.48M
+	$3.15M	$328.87K	9.7%	
+90.5%
+Long
+
+
+OKX
+	
+$2.70M
+	$2.33M	$376.44K	7.6%	
+86.1%
+Long
+
+
+Gate
+	
+$2.64M
+	$2.51M	$136.64K	7.4%	
+94.8%
+Long
+
+
+Bitget
+	
+$1.43M
+	$1.30M	$125.59K	4.0%	
+91.2%
+Long
+
+
+Aster
+	
+$536.35K
+	$467.55K	$68.80K	1.5%	
+87.2%
+Long
+
+
+HTX
+	
+$397.17K
+	$1.56K	$395.61K	1.1%	
+99.6%
+Short
+
+
+Lighter
+	
+$83.92K
+	$83.78K	$140.98	0.2%	
+99.8%
+Long
+
+
+Bitfinex
+	
+$48.93
+	$48.93	$0	0.0%	
+100.0%
+Long
+Top 10 Liquidation Events
+View all
+
+Historical event context
+
+Rank	Time	Liquidations	Event
+01	2025-10-11	$19.16B	U.S. tariff hike on China
+02	2021-04-18	$9.94B	AML crackdown rumor + mining halt
+03	2021-05-19	$9.01B	Tesla stance reversal + regulatory tightening
+04	2021-02-22	$4.10B	Overheated rally correction
+05	2021-09-07	$3.65B	El Salvador BTC law launch dump
+06	2025-09-22	$3.62B	Over-leveraged longs flushed
+07	2021-02-23	$3.15B	Yellen anti-BTC remarks
+08	2026-08-19	$2.99B	US Treasury Buybacks + SEC Crypto Reg. Tailwinds
+09	2021-04-23	$2.92B	U.S. capital-gains tax hike plan
+10	2021-04-16	$2.77B	Turkey crypto-payment ban
+Live Liquidations
+LIVE
+Liquidation data · 30m
+$2.70M
+383 orders · Received data
+↑ +$2.70M · since opening
+13:34
+13:49
+14:04
+● Long
+● Short
+Per minute · Data distribution
+
+30 minutes of data · May be below the market total
+
+All exchanges
+All amounts
+All sides
+Long
+Short
+Audio alerts > $10K
+Amount tiers
+$0–1K
+$1K–10K
+$10K–100K
+$100K–1M
+≥ $1M
+Coin
+Price
+Amount
+Time
+NVDAUSDT
+↗ Long
+$202.99
+$6.82K
+03/11
+15:04:28
+INTCUSDT
+↗ Long
+$60.31
+$2.88K
+03/11
+15:04:28
+PAXGUSDT
+↗ Long
+$3,916.41
+$7.68K
+03/11
+15:04:28
+TAOUSDT
+↗ Long
+$221.09
+$1.76K
+03/11
+15:04:28
+XAUUSDT
+↗ Long
+$3,919.51
+$13.59K
+03/11
+15:04:28
+TRXUSDT
+↗ Long
+$0.32002
+$2.51K
+03/11
+15:04:27
+XAUUSDT
+↗ Long
+$3,904.59
+$1.19K
+03/11
+15:04:27
+XAUUSDT_UMCBL
+↗ Long
+$3,899.70
+$2.77K
+03/11
+15:04:26
+HYPEUSDT
+↗ Long
+$83.422
+$4.17K
+03/11
+15:04:25
+MRVL-USDT-SWAP
+↗ Long
+$169.84
+$10.73K
+03/11
+15:04:21
+SAHARA-USDT-SWAP
+↗ Long
+$0.006704
+$1.69K
+03/11
+15:04:19
+REUSDT
+↗ Long
+$0.3021738
+$5.01K
+03/11
+15:04:16
+EGLDUSDT_UMCBL
+↗ Long
+$3.277
+$4.85K
+03/11
+15:04:07
+KSMUSDT_UMCBL
+↗ Long
+$3.28
+$4.87K
+03/11
+15:04:07
+MAVUSDT
+↗ Long
+$0.0081598
+$2.09K
+03/11
+15:03:50
+XMRUSDT
+↘ Short
+$619.83
+$2.81K
+03/11
+15:03:41
+QQQUSDT
+↗ Long
+$680.88
+$13.43K
+03/11
+15:03:38
+XYZ:SP500-USD
+↗ Long
+$7,516.50
+$9.43K
+03/11
+15:03:36
+TUSDT
+↗ Long
+$0.0043331
+$4.85K
+03/11
+15:03:35
+CL-USDT-SWAP
+↘ Short
+$98.44
+$1.71K
+03/11
+15:03:34
+PONSUSDT
+↗ Long
+$0.1970863
+$3.12K
+03/11
+15:03:24
+QQQUSDT
+↗ Long
+$680.94
+$9.44K
+03/11
+15:03:22
+SPYUSDT
+↗ Long
+$751.22
+$15.79K
+03/11
+15:03:22
+SOXLUSDT
+↗ Long
+$68.70
+$3.68K
+03/11
+15:03:22
+MONUSDT
+↗ Long
+$0.01662
+$1.35K
+03/11
+15:03:22
+PONS-USDT-SWAP
+↗ Long
+$0.1966
+$5.90K
+03/11
+15:03:21
+MONUSDT
+↗ Long
+$0.01678
+$1.62K
+03/11
+15:03:19
+Updated 14:04:11
+Live WebSocket updates · ≥ $1M highlighted in gold
+
+All coins · All exchanges · Retrieved orders
+
+Liquidation History
+1d
+7d
+30d
+90d
+All
+All exchanges
+Long liquidations
+Short liquidations
+Liquidations USD
+Updated 14:04:11
+· 15m per bar · Latest interval may be incomplete
+Exchange: All exchanges
+Bitcoin Price vs. Cryptocurrency Liquidation
+1d
+7d
+30d
+90d
+All
+Short
+Long
+BTC Price
+Liquidations USD / Price USD
+Updated 14:04:12
+· 12h per bar · Latest interval may be incomplete
+Liquidations: All exchanges · Price: BTC
+08/06/2026, 08:00 AM — 11/03/2026, 08:00 AM
+Liquidation history · Long / Short
+1d
+7d
+30d
+90d
+All
+All exchanges
+Long liquidations
+Short liquidations
+Price
+Liquidations USD / Price USD
+Loading…
+Loading…
+Liquidations: All exchanges · Price: BTC
+Total Liquidations
+Liquidation Value
+Ranking	
+Assets
+	
+Price
+	
+Price (24h%)
+	
+1h Long
+	
+1h Short
+	
+4h Long
+	
+4h Short
+	
+12h Long
+	
+12h Short
+	
+24h Long
+	
+24h Short
+ 
+	
+ 
+	
+ 
+	
+ 
+	
+ 
+	
+ 
+	
+ 
+	
+ 
+	
+ 
+	
+ 
+	
+ 
+	
+ 
+
+
+1
+	
+BTC
+	
+$76517.8
+	
+-2.14%
+	
+$10.13M
+	
+$236.69K
+	
+$14.32M
+	
+$698.98K
+	
+$40.38M
+	
+$2.49M
+	
+$93.11M
+	
+$6.89M
+
+
+2
+	
+ETH
+	
+$2244.91
+	
+-1.85%
+	
+$1.63M
+	
+$334.24K
+	
+$2.95M
+	
+$774.46K
+	
+$8.70M
+	
+$3.53M
+	
+$38.13M
+	
+$10.12M
+
+
+3
+	
+SOL
+	
+$91.54
+	
+-3.14%
+	
+$174.67K
+	
+$17.68K
+	
+$407.39K
+	
+$62.52K
+	
+$5.55M
+	
+$544.69K
+	
+$22.05M
+	
+$1.20M
+
+
+4
+	
+HYPE
+	
+$83.473
+	
+-2.40%
+	
+$10.17K
+	
+$27.43K
+	
+$301.46K
+	
+$37.09K
+	
+$1.99M
+	
+$430.99K
+	
+$9.88M
+	
+$584.49K
+
+
+5
+	
+XRP
+	
+$1.25
+	
+-0.08%
+	
+$14.14K
+	
+$4.75
+	
+$60.00K
+	
+$99.75K
+	
+$164.21K
+	
+$149.74K
+	
+$2.04M
+	
+$295.96K
+
+
+6
+	
+ZEC
+	
+$1129.94
+	
+-11.19%
+	
+$39.18K
+	
+$20.93K
+	
+$706.52K
+	
+$59.24K
+	
+$3.94M
+	
+$752.87K
+	
+$12.73M
+	
+$1.36M
+
+
+7
+	
+XAU
+	
+$3919.81
+	
++0.11%
+	
+$249.71K
+	
+$0
+	
+$923.59K
+	
+$4.45K
+	
+$1.85M
+	
+$67.49K
+	
+$3.14M
+	
+$1.63M
+
+
+8
+	
+BNB
+	
+$692.91
+	
+-2.38%
+	
+$428.21K
+	
+$0
+	
+$462.25K
+	
+$195.34
+	
+$912.22K
+	
+$2.64K
+	
+$1.50M
+	
+$16.44K
+
+
+9
+	
+SPCX
+	
+$136.93
+	
+-1.31%
+	
+$13.12K
+	
+$0
+	
+$23.69K
+	
+$0
+	
+$986.88K
+	
+$10.52K
+	
+$1.80M
+	
+$122.84K
+
+
+10
+	
+DOGE
+	
+$0.07368
+	
+-2.40%
+	
+$16.46K
+	
+$0
+	
+$52.53K
+	
+$15.60K
+	
+$886.22K
+	
+$42.57K
+	
+$2.17M
+	
+$58.85K
+
+
+11
+	
+NEAR
+	
+$3.772
+	
+-8.67%
+	
+$328.51K
+	
+$3.66K
+	
+$702.32K
+	
+$75.74K
+	
+$3.06M
+	
+$130.45K
+	
+$9.75M
+	
+$381.41K
+
+
+12
+	
+XAUT
+	
+$3902.82
+	
++0.02%
+	
+$7.74K
+	
+$0
+	
+$29.31K
+	
+$0
+	
+$44.94K
+	
+$1.02K
+	
+$59.16K
+	
+$30.19K
+
+
+13
+	
+SNDK
+	
+$1081.38
+	
+-8.67%
+	
+$17.69K
+	
+$412.46
+	
+$311.64K
+	
+$635.92
+	
+$6.83M
+	
+$305.47K
+	
+$15.07M
+	
+$812.75K
+
+
+14
+	
+GOOGL
+	
+$279.32
+	
+-1.57%
+	
+$7.52K
+	
+$0
+	
+$16.39K
+	
+$0
+	
+$1.00M
+	
+$7.09K
+	
+$1.47M
+	
+$8.61K
+
+
+15
+	
+CL
+	
+$98.49
+	
+-2.39%
+	
+$0
+	
+$51.06K
+	
+$7.31K
+	
+$124.22K
+	
+$75.81K
+	
+$336.81K
+	
+$6.51M
+	
+$424.30K
+
+
+16
+	
+SOXL
+	
+$68.77
+	
+-15.57%
+	
+$48.27K
+	
+$6.92K
+	
+$676.86K
+	
+$15.66K
+	
+$7.42M
+	
+$246.65K
+	
+$13.71M
+	
+$574.18K
+
+
+17
+	
+XAG
+	
+$49.13
+	
+-2.52%
+	
+$195.02K
+	
+$0
+	
+$1.48M
+	
+$3.05K
+	
+$2.14M
+	
+$13.81K
+	
+$2.57M
+	
+$212.38K
+
+
+18
+	
+UNI
+	
+$6.996
+	
+-2.70%
+	
+$0
+	
+$169.51
+	
+$8.72K
+	
+$4.26K
+	
+$976.24K
+	
+$42.84K
+	
+$1.35M
+	
+$167.91K
+
+
+19
+	
+SKHYNIX
+	
+$1041.29
+	
+-5.23%
+	
+$19.93K
+	
+$1.03K
+	
+$87.62K
+	
+$1.47K
+	
+$776.10K
+	
+$106.71K
+	
+$1.83M
+	
+$133.25K
+
+
+20
+	
+SUI
+	
+$0.8606
+	
+-3.60%
+	
+$37.45K
+	
+$621.79
+	
+$85.39K
+	
+$1.24K
+	
+$297.11K
+	
+$16.51K
+	
+$1.09M
+	
+$21.35K
+1
+2
+3
+52
+Explore coin liquidations
+BTC
+Bitcoin · Liquidation details
+↗
+ETH
+Ethereum · Liquidation details
+↗
+SOL
+Solana · Liquidation details
+↗
+XRP
+XRP · Liquidation details
+↗
+DOGE
+Dogecoin · Liquidation details
+↗
+BNB
+BNB · Liquidation details
+↗
+SUI
+Sui · Liquidation details
+↗
+ADA
+Cardano · Liquidation details
+↗
+L
+LINK
+Chainlink · Liquidation details
+↗
+A
+AVAX
+Avalanche · Liquidation details
+↗
+
+What Is Crypto Liquidation? 
+ 
+
+Crypto liquidation refers to the process of forcibly closing a trader's positions in the cryptocurrency market. It occurs when a trader's margin account can no longer support their open positions due to significant losses or a lack of sufficient margin to meet the maintenance requirements.
+
+When a trader's account falls below the required margin level, the exchange or brokerage platform may initiate the liquidation process. This means that the trader's positions will be forcibly closed at the market price to cover losses and outstanding debts.
+
+The liquidation process aims to protect both the trader and the exchange from further losses. By closing the positions, it helps ensure that the trader does not accumulate more debt and that the exchange can recover the owed funds. The liquidation can happen automatically or be triggered by reaching predetermined margin thresholds set by the exchange.
+
+It's important to note that crypto liquidation can result in significant financial losses for the trader. Therefore, it's crucial for traders to manage their risk effectively, monitor their margin levels, and employ risk management strategies to avoid or mitigate the possibility of liquidation.
+
+What is Rekt in crypto？
+
+In the context of cryptocurrency, "Rekt" can be referred to as "liquidation" in professional terms.
+
+"Rekt" is a slang term commonly used in the cryptocurrency community to describe a situation where a trader or investor suffers significant losses or gets "wrecked" financially. It is derived from the word "wrecked" and is used to express the idea of someone being ruined or destroyed due to their poor trading decisions or unfortunate market movements.
+
+When someone says they got "Rekt" in crypto, it typically means that they experienced a substantial loss in their cryptocurrency investments or trades. It is often used humorously or as a way to empathize with others who have faced similar losses in the volatile and unpredictable crypto market.
+
+Data Source and Notes
+
+Data is aggregated from public channels and official APIs of major exchanges.
+Since April 24, 2021, Binance has limited its liquidation data push frequency to a maximum of one update per second.
+Since September 2021, OKX (formerly OKEx) has also adjusted its liquidation data push frequency to a maximum of one update per second.
+As a result, during periods of extreme market volatility, liquidation data from these exchanges may show second-level aggregation or slight delays.
+
+This change originates from rate limitations on the exchange side. CoinGlass has accordingly optimized its data collection and processing logic to ensure that users can still access real-time liquidation orders and historical data through our developer APIs.
+
+Developer APIs
+
+Real-time Liquidation Orders: 👉 CoinGlass Liquidation Orders API Documentation — Retrieve the latest liquidation order data (including exchange, symbol, direction, amount, and other real-time information), as well as single large-scale liquidations and anomaly alerts.
+
+Historical Liquidation Data: 👉 CoinGlass Liquidation History API Documentation — Query liquidation records within a specified time range and access up to five years of historical liquidation data.
+
+About
+
+About Us
+Contact Us
+Disclaimer
+Terms of Use
+Privacy Policy
+
+Products
+
+Stocks
+Legend
+APP
+API
+Chart
+Bitcoin On-chain Metrics
+
+More
+
+Learning Center
+Alerts
+Cookie Preferences
+
+Community
+
+X(Twitter)
+Telegram
+© 2026 CoinGlass, all rights reserved

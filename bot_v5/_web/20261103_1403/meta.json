@@ -1,0 +1,46 @@
+{
+ "chup_luc_vn": "2026-11-03 14:03",
+ "chi_dung_khi": "T là nến vừa đóng, chup_luc − T ≤ 4 giờ",
+ "trang": {
+  "cg_heatmap": {
+   "url": "https://www.coinglass.com/pro/futures/LiquidationHeatMap",
+   "ok": true,
+   "luc_vn": "2026-11-03 14:04"
+  },
+  "cg_thanh_ly": {
+   "url": "https://www.coinglass.com/LiquidationData",
+   "ok": true,
+   "luc_vn": "2026-11-03 14:04"
+  },
+  "cg_long_short": {
+   "url": "https://www.coinglass.com/LongShortRatio",
+   "ok": true,
+   "luc_vn": "2026-11-03 14:05"
+  },
+  "cg_oi": {
+   "url": "https://www.coinglass.com/BitcoinOpenInterest",
+   "ok": true,
+   "luc_vn": "2026-11-03 14:05"
+  },
+  "cg_etf": {
+   "url": "https://www.coinglass.com/etf/bitcoin",
+   "ok": true,
+   "luc_vn": "2026-11-03 14:06"
+  },
+  "cg_so_du_san": {
+   "url": "https://www.coinglass.com/Balance",
+   "ok": true,
+   "luc_vn": "2026-11-03 14:06"
+  },
+  "tv_btc_d": {
+   "url": "https://www.tradingview.com/chart/?symbol=CRYPTOCAP%3ABTC.D&interval=240",
+   "ok": true,
+   "luc_vn": "2026-11-03 14:06"
+  },
+  "tv_usdt_d": {
+   "url": "https://www.tradingview.com/chart/?symbol=CRYPTOCAP%3AUSDT.D&interval=240",
+   "ok": true,
+   "luc_vn": "2026-11-03 14:07"
+  }
+ }
+}

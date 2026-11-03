@@ -1,0 +1,1020 @@
+Legend
+NEW
+24h Volume
+$166,439,456,000
++58.70%
+Open Interest
+$133,559,169,059
+-2.56%
+24h Liquidation
+$377,866,518
++169.19%
+24h Long/Short
+48.86%/51.14%
+API
+Download APP
+English
+Market
+Stocks
+Exchanges
+Open Interest
+Funding Rate
+Liquidation
+Data
+Supercharts
+Legend
+Watchlist
+More
+Search
+/
+Login
+Cryptocurrency Longs vs Shorts
+Taker Buy/Sell Volume
+1 hour
+4 hour
+12 hour
+24 hour
+48.39%
+4H Long Volume
+$2.92B
+51.61%
+4H Short Volume
+$3.11B
+What Is Your Current BTC Sentiment?
+Very Bullish
+22%
+Bullish
+32%
+Neutral
+18%
+Bearish
+17%
+Very Bearish
+11%
+Binance Bitcoin Long/Short Ratio
+Type	Long/Short	Sentiment
+ 
+	
+ 
+	
+ 
+
+
+Retail
+	
+2.73
+	
+🔥
+Extremely Bullish
+
+
+Whale Account
+	
+2.86
+	
+🔥
+Extremely Bullish
+
+
+Whale Position
+	
+1.78
+	
+Bullish
+
+
+Smart Money Sentiment
+		
+🔥
+Extremely Bearish
+OKX Bitcoin Long/Short Ratio
+Type	Long/Short	Sentiment
+ 
+	
+ 
+	
+ 
+
+
+Retail
+	
+2.77
+	
+🔥
+Extremely Bullish
+
+
+Whale Account
+	
+0.52
+	
+🔥
+Extremely Bearish
+
+
+Whale Position
+	
+5.69
+	
+🔥
+Extremely Bullish
+
+
+Smart Money Sentiment
+		
+🔥
+Extremely Bullish
+Bybit Bitcoin Long/Short Ratio
+Type	Long/Short	Sentiment
+ 
+	
+ 
+	
+ 
+
+
+Retail
+	
+2.20
+	
+Bullish
+
+
+Whale Account
+	
+2.20
+	
+Bullish
+
+
+Whale Position
+	
+0.98
+	
+Neutral
+
+
+Smart Money Sentiment
+		
+🔥
+Extremely Bearish
+BTC Long/Short Ratio Chart
+Taker Buy/Sell Volume
+30 minute
+Price
+Long/Short
+04:00 PM
+10-29
+08:00 AM
+04:00 PM
+10-30
+08:00 AM
+04:00 PM
+10-31
+08:00 AM
+04:00 PM
+11-01
+08:00 AM
+04:00 PM
+11-02
+08:00 AM
+04:00 PM
+11-03
+08:00 AM
+-1.2
+0
+1.2
+2.4
+3.6
+4.8
+$75.00K
+$76.50K
+$78.00K
+$79.50K
+$81.00K
+$82.50K
+BTC Long/Short (Accounts)
+4 hour
+Price
+Long/Short
+06-01
+06-15
+06-29
+07-13
+07-27
+08-10
+08-24
+09-07
+09-21
+10-05
+10-19
+11-02
+0.6
+1.2
+1.8
+2.4
+3
+3.6
+$56.00K
+$64.00K
+$72.00K
+$80.00K
+$88.00K
+$96.00K
+Exchanges BTC Long/Short Ratio
+Taker Buy/Sell Volume
+4 hour
+BTC
+48.28%
+51.72%
+Long
+$2.93B
+Short
+$3.14B
+1
+Binance
+49.7%
+50.3%
+Long
+$818.17M
+Short
+$828.00M
+2
+OKX
+49.42%
+50.58%
+Long
+$444.85M
+Short
+$455.32M
+3
+Bybit
+49.88%
+50.12%
+Long
+$274.82M
+Short
+$276.19M
+4
+KuCoin
+46.19%
+53.81%
+Long
+$8.17M
+Short
+$9.51M
+5
+Gate
+46.75%
+53.25%
+Long
+$304.15M
+Short
+$346.48M
+6
+Bitget
+49.87%
+50.13%
+Long
+$150.72M
+Short
+$151.52M
+7
+BingX
+52.11%
+47.89%
+Long
+$92.50M
+Short
+$85.00M
+8
+MEXC
+46.89%
+53.11%
+Long
+$172.13M
+Short
+$195.00M
+9
+Bitunix
+49.69%
+50.31%
+Long
+$151.56M
+Short
+$153.48M
+10
+Hyperliquid
+36.57%
+63.43%
+Long
+$118.70M
+Short
+$205.87M
+11
+tradeXYZ
+0%
+0%
+Long
+$0
+Short
+$0
+12
+LBank
+54.09%
+45.91%
+Long
+$29.66M
+Short
+$25.18M
+13
+Crypto.com
+50.87%
+49.13%
+Long
+$17.99M
+Short
+$17.38M
+14
+WhiteBIT
+27.43%
+72.57%
+Long
+$23.19M
+Short
+$61.37M
+15
+HTX
+51.73%
+48.27%
+Long
+$17.55M
+Short
+$16.38M
+16
+dYdX
+0%
+0%
+Long
+$0
+Short
+$0
+17
+Deribit
+50.1%
+49.9%
+Long
+$198.37M
+Short
+$197.55M
+18
+Bitfinex
+46.89%
+53.11%
+Long
+$1.44M
+Short
+$1.63M
+19
+Kraken
+38.12%
+61.88%
+Long
+$17.17M
+Short
+$27.88M
+20
+Aster
+50.08%
+49.92%
+Long
+$20.97M
+Short
+$20.90M
+21
+Lighter
+51.59%
+48.41%
+Long
+$66.37M
+Short
+$62.28M
+Large Trades (Real-Time)
+All
+Pair
+Price
+Value
+Time
+BTCUSDT
+$76478.8
+$105.23K
+11-03
+14:04:58
+BTCUSDT
+$76475.6
+$62.94K
+11-03
+14:05:00
+BTC-USDT-SWAP
+$76475
+$193.63K
+11-03
+14:04:56
+BTCUSDT
+$76480
+$91.85K
+11-03
+14:04:55
+BTCUSDT
+$76480
+$104.85K
+11-03
+14:04:53
+BTC-USDT-SWAP
+$76479.3
+$50.34K
+11-03
+14:04:51
+BTC-USDT-SWAP
+$76480.1
+$76.48K
+11-03
+14:04:47
+BTC-USDT-SWAP
+$76480
+$113.01K
+11-03
+14:04:47
+BTCUSDT
+$76469.9
+$101.48K
+11-03
+14:04:41
+BTC-USDT-SWAP
+$76482.1
+$81.67K
+11-03
+14:04:39
+BTCUSDT
+$76490.6
+$55.99K
+11-03
+14:04:38
+BTC-USDT-SWAP
+$76503.8
+$765.04K
+11-03
+14:03:41
+BTC-USDT-SWAP
+$76625
+$712.70K
+11-03
+13:55:28
+BTC-USDT-SWAP
+$76532.1
+$674.90K
+11-03
+13:47:43
+BTC-USDT-SWAP
+$76666.4
+$766.66K
+11-03
+13:43:13
+BTC-USDT-SWAP
+$76712.7
+$578.81K
+11-03
+13:42:16
+BTCUSDT
+$76776.9
+$768.31K
+11-03
+13:31:43
+BTC-USDT-SWAP
+$76764
+$562.40K
+11-03
+13:30:59
+BTCUSDT
+$76732
+$648.92K
+11-03
+13:30:39
+BTC-USDT-SWAP
+$76722
+$2.55M
+11-03
+13:30:06
+BTCUSDT
+$76645
+$500.88K
+11-03
+13:29:46
+BTCUSDC
+$76540
+$743.97K
+11-03
+13:28:19
+Cryptocurrency Futures Longs vs Shorts
+Customize
+Ranking	
+Assets
+	Price	Price (24h%)	
+Long/Short (5m)
+	
+Binance
+Whale bias
+	
+Binance Retail
+	
+OKX
+Whale bias
+	
+OKX Retail
+	
+Bybit
+Whale bias
+ 
+	
+ 
+	
+ 
+	
+ 
+	
+ 
+	
+ 
+	
+ 
+	
+ 
+	
+ 
+	
+ 
+
+
+1
+	
+BTC
+	
+$76490.8
+	
+-2.17%
+	
+0.7756
+43.68%
+56.32%
+	
+🔥
+Extremely Bearish	
+2.73
+	
+🔥
+Extremely Bullish	
+2.77
+	
+🔥
+Extremely Bearish
+
+2
+	
+ETH
+	
+$2243.9
+	
+-1.89%
+	
+1.2282
+55.12%
+44.88%
+	
+🔥
+Extremely Bearish	
+2.67
+	
+🔥
+Extremely Bullish	
+2.62
+	
+🔥
+Extremely Bearish
+
+3
+	
+SOL
+	
+$91.5
+	
+-3.17%
+	
+0.7161
+41.73%
+58.27%
+	
+🔥
+Extremely Bearish	
+3.21
+	
+🔥
+Extremely Bearish	
+3.42
+	
+🔥
+Extremely Bearish
+
+4
+	
+HYPE
+	
+$83.387
+	
+-2.50%
+	
+0.6415
+39.08%
+60.92%
+	
+Bullish	
+1.90
+	
+Neutral	
+1.83
+	
+🔥
+Extremely Bearish
+
+5
+	
+XRP
+	
+$1.2497
+	
+-0.10%
+	
+0.7775
+43.74%
+56.26%
+	
+🔥
+Extremely Bearish	
+2.60
+	
+🔥
+Extremely Bullish	
+3.53
+	
+🔥
+Extremely Bearish
+
+6
+	
+ZEC
+	
+$1129.6
+	
+-11.23%
+	
+1.0288
+50.71%
+49.29%
+	
+Bullish	
+1.15
+	
+Neutral	
+1.76
+	
+
+7
+	
+XAU
+	
+$3919.34
+	
++0.10%
+	
+0.586
+36.95%
+63.05%
+	
+🔥
+Extremely Bearish	
+3.16
+	
+🔥
+Extremely Bearish	
+4.66
+	
+
+8
+	
+BNB
+	
+$692.76
+	
+-2.40%
+	
+1.1354
+53.17%
+46.83%
+	
+🔥
+Extremely Bearish	
+2.76
+	
+Neutral	
+2.77
+	
+
+9
+	
+SPCX
+	
+$136.89
+	
+-1.36%
+	
+0.4686
+31.91%
+68.09%
+	
+🔥
+Extremely Bullish	
+3.51
+	
+🔥
+Extremely Bearish	
+4.54
+	
+
+10
+	
+DOGE
+	
+$0.07364
+	
+-2.44%
+	
+1.0375
+50.92%
+49.08%
+	
+🔥
+Extremely Bearish	
+2.67
+	
+🔥
+Extremely Bearish	
+4.97
+	
+🔥
+Extremely Bearish
+
+11
+	
+NEAR
+	
+$3.77
+	
+-8.74%
+	
+1.4096
+58.50%
+41.50%
+	
+🔥
+Extremely Bullish	
+1.22
+	
+Neutral	
+1.78
+	
+
+12
+	
+XAUT
+	
+$3902.82
+	
++0.02%
+	
+1.0105
+50.26%
+49.74%
+	
+🔥
+Extremely Bullish	
+1.17
+		
+	
+
+13
+	
+SNDK
+	
+$1079.69
+	
+-8.77%
+	
+0.5926
+37.21%
+62.79%
+	
+🔥
+Extremely Bearish	
+6.89
+	
+🔥
+Extremely Bearish	
+7.47
+	
+
+14
+	
+GOOGL
+	
+$279.22
+	
+-1.63%
+	
+0.3799
+27.53%
+72.47%
+	
+🔥
+Extremely Bearish	
+13.51
+	
+🔥
+Extremely Bearish	
+13.27
+	
+
+15
+	
+CL
+	
+$98.49
+	
+-2.38%
+	
+1.6371
+62.08%
+37.92%
+	
+Bullish	
+0.63
+	
+Bullish	
+0.54
+	
+
+16
+	
+SOXL
+	
+$68.64
+	
+-15.77%
+	
+0.6163
+38.13%
+61.87%
+	
+🔥
+Extremely Bearish	
+6.81
+	
+🔥
+Extremely Bearish	
+8.25
+	
+
+17
+	
+XAG
+	
+$49.14
+	
+-2.54%
+	
+1.1119
+52.65%
+47.35%
+	
+🔥
+Extremely Bearish	
+11.00
+	
+🔥
+Extremely Bearish	
+8.39
+	
+
+18
+	
+UNI
+	
+$6.994
+	
+-2.74%
+	
+0.9279
+48.13%
+51.87%
+	
+🔥
+Extremely Bullish	
+1.60
+	
+Bullish	
+1.84
+	
+
+19
+	
+SKHYNIX
+	
+$1040.28
+	
+-5.32%
+	
+0.4088
+29.02%
+70.98%
+	
+🔥
+Extremely Bearish	
+3.46
+	
+🔥
+Extremely Bearish	
+4.31
+	
+
+20
+	
+SUI
+	
+$0.8602
+	
+-3.64%
+	
+1.1308
+53.07%
+46.93%
+	
+🔥
+Extremely Bearish	
+2.12
+	
+Neutral	
+2.67
+	
+1
+2
+3
+4
+5
+•••
+14
+Crypto Long / Short Ratio FAQ
+1. What Are the Bitcoin Derivatives Long / Short Ratio and the Crypto Long / Short Ratio?
+First, it is important to clarify a basic concept: in all exchanges, long positions and short positions are always matched on a one-to-one basis, meaning a 1:1 relationship. For example, if Bob opens a long position of 10 Bitcoin contracts, this means that another trader, or possibly several traders, have opened a total of 10 Bitcoin contracts in short positions at the same price. A crypto derivatives market cannot function without counterparties; otherwise, trading would not be possible. Based on this, crypto long/short ratios can be categorized from different perspectives, mainly including the Taker Long / Short Ratio, Exchange Account Long / Short Ratio, Top Trader Account Long / Short Ratio, and Top Trader Position Long / Short Ratio.
+2. What Is the Taker Buy / Sell Long–Short Ratio?
+3. What Is the Exchange Account Long / Short Ratio?
+4. What Is the Exchange Top Trader Account Long / Short  Ratio?
+5. What Is the Exchange Top Trader Position Long / Short Ratio?
+6. How Should Crypto Derivatives Long / Short Ratios Be Interpreted and Used?
+7. What Long / Short Ratio API Endpoints Does CoinGlass Provide?
+
+About
+
+About Us
+Contact Us
+Disclaimer
+Terms of Use
+Privacy Policy
+
+Products
+
+Stocks
+Legend
+APP
+API
+Chart
+Bitcoin On-chain Metrics
+
+More
+
+Learning Center
+Alerts
+Cookie Preferences
+
+Community
+
+X(Twitter)
+Telegram
+© 2026 CoinGlass, all rights reserved
