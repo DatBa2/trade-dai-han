@@ -209,3 +209,34 @@ NHAP_VAI: bỏ ngoại lệ "được đọc `thi/SO_TAY_T1_T6.md` khi T sau 06-
   - Neo Fibo khác: người đó neo đỉnh nhỏ 79.820 ngay trước cú xả; hồ sơ neo pivot fractal 81.970.
   - Ghi vào ST3 E1: vùng nến tăng thẳng không có hỗ trợ ở giữa ("phải về đến tận 67") + ảnh.
   - Chưa sửa code Fibo: một buổi chưa đủ để đổi cách neo.
+
+## Buổi live kiểm sạch: 03/11/2026 (bot trả lời 08:27–09:57, TRƯỚC buổi live 10:07)
+
+- Bot: `doi_chieu/2026-11-03_BTC.md` (T 07:00), ETH, ZEC, VANG, XAU_OKX, XEP_HANG_20_COIN. Transcript
+  [i0N3Yho0JvE](https://www.youtube.com/watch?v=i0N3Yho0JvE) tải bằng `lay_transcript.lay_phu_de` (phải đặt
+  `PYTHONIOENCODING=utf-8`, không thì yt-dlp in tiêu đề cp1258 làm vỡ đọc stdout). 24 khung `so_tay/khung/i0N3Yho0JvE_*`.
+- **Khớp**: BTC H4 / D1 / W1 cùng GIẢM; không short tại hỗ trợ; BTC.D lên, USDT.D đi ngang/giảm; ETH yếu hơn BTC; NEAR,
+  SOL, GRAM đứng ngoài; vàng còn một nhịp về "38 mấy" (bot 3.875–3.905).
+- **Lệch**:
+  1. **Vùng short BTC**: người đó giữ 79,15–79,85k từ hôm qua ("tầm này gãy thì lấy được ít tiền"). Hộp = Fibo D1 nhịp
+     81.970 → 76.265 (0.5 / 0.618) + EMA89 H4 + EMA34 D1 + đáy cũ đổi vai — hồ sơ có đủ. Bot đo trên nhịp H4 con
+     78.866 → 76.700 → 77,9–78,05k, tức hạ vùng theo giá.
+  2. **Thứ tự đường đi** (BTC và vàng): giá sát hỗ trợ → người đó cho test / quét hỗ trợ trước rồi hồi lớn; bot cho hồi nhỏ
+     trước rồi về hỗ trợ. Hai mã cùng một buổi, chưa đủ để thành luật → chỉ ghi, theo dõi thêm.
+  3. **Đích xa**: người đó 72k → 69–67k; bot W1 75k (vẫn đúng luật bậc thang). Vàng: người đó "đáy gần rồi", bot W1 3.700.
+  4. Thiếu dữ liệu: Fibo D1 từ đỉnh đợt giảm (người đó neo 87.386 → 76.295, 0.5 = 81.840 "hồi lên 81"); cạnh dưới kênh
+     giảm (đường hỗ trợ dốc xuống, ảnh `003510`); Hyblock / heatmap; tin hack Binance, rút ròng sàn / ETF.
+- **Sửa** (ví dụ gắn [11-03], bộ lọc T ẩn với T ≤ 03/11):
+  - NHAP_VAI §6.1 + ST3 C2: vùng vào chính đo trên nhịp D1 (hai pivot fractal D1 gần nhất), nhịp H4 con chỉ cho chỗ lướt;
+    giá chưa tới thì giữ vùng qua buổi sau. Căn cứ: 11-02 + 11-03 cùng hộp 79–80k; 01-20 "giá thấp hơn vùng swing thì chỉ
+    scalp"; ví dụ 10-02 (hộp 85,0–85,5k) cũng là nhịp D1.
+  - ST1 C10: ví dụ 11-03 (delta −331k, heatmap 76,5k vừa bị lụm → không short tại đây).
+  - ST1 C6: ví dụ 11-03 (hack → biên độ 18–20% hai chiều, nhưng không short theo tin).
+- **Code** (user yêu cầu làm luôn): `ngu_canh.py` thêm hàm `nhip_sau_lon` → JSON `fibo[].nhip_sau_lon`, Markdown mục 3
+  dòng "Nhịp ngược sau nhịp lớn" cho mọi khung trong `fibo`: từ cực trị cuối của nhịp lớn 90 nến tới cực trị ngược xa
+  nhất sau đó. T = 03/11 07:00 D1: 87.399 → 76.265, 0.382 / 0.5 / 0.618 = 80.518 / 81.832 / 83.146 (người đó trên Binance:
+  80.532 / 81.840 / 83.149). NHAP_VAI Bước 4 + §6.1 nhắc dòng này. `kiem_tra_ngu_canh.py`, `kiem_tra_so_tay_den.py` PASS.
+- **Chưa làm**: trendline hỗ trợ dốc xuống / kênh giảm — phải đổi `cong_cu/trendline.py` (LOAI chỉ có kháng cự giảm và
+  hỗ trợ tăng, biến thể khoá ở `hoc_v5/trendline/CHON.md`, dùng chung với `hoc_v5`) → cần thiết kế riêng; nhãn
+  `hoc_v5/nhan/` cho 02/11, 03/11 (bộ nhãn khoá sha256 ở `hoc_v5/KHOA_NHAN.md`).
+- Từ nay buổi 03/11 đã dùng để sửa luật; buổi kiểm sạch tiếp theo bắt đầu từ 04/11.

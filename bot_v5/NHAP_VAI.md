@@ -126,7 +126,7 @@
 - **Nhìn** (khung D1): nến D1 hôm qua màu gì — không đánh ngược màu nến ngày; cây đỏ đầu tiên sau chuỗi tăng = thôi FOMO
   long; nến đỏ ngay sau khi chạm đích = điều chỉnh bình thường [ST1 B6]. Thứ tự giá / dải EMA34 / EMA89 / EMA200 D1.
   Đỉnh/đáy fractal D1, S/R đổi vai, râu D1 chưa test [ST3 E3]. Trendline D1 chính [ST2 A5]. Fibo D1 (nhịp gần nhất /
-  đang chạy / lớn / mở rộng 3 điểm) [ST3 A1–A2]. Nến D1 + volume (nến bán lớn volume lớn, nến xanh volume thấp) [ST2 C3–C5].
+  đang chạy / lớn / ngược sau nhịp lớn / mở rộng 3 điểm) [ST3 A1–A2]. Nến D1 + volume (nến bán lớn volume lớn, nến xanh volume thấp) [ST2 C3–C5].
   RSI D1 chỉ xét khi ra ngoài 30/70.
 - **Ra**: hướng D1 + đích D1 (nấc kế tiếp, hội tụ) + "view D1 sai khi nến D1 ĐÓNG qua X". View D1 của họ bền trung vị
   ~3 ngày [ST1 A4] → đích D1 tính theo ngày, không theo tháng.
@@ -294,6 +294,12 @@
 - Thuận view trung hạn: view TĂNG → chờ giá **hồi về** hỗ trợ hội tụ rồi long [ST3 C1]; view GIẢM → chờ hồi lên kháng cự
   hội tụ rồi short [ST3 C2]; hoặc phá rồi **test lại** mức vừa phá [ST3 C3]. Vùng vào của họ cách giá lúc nói trung vị
   ~2% → gần như luôn là chờ giá VỀ, không vào giá đang chạy.
+- **Vùng vào CHÍNH đo trên nhịp D1** [ST3 C2]: Fibo 0.5–0.618 của nhịp giữa hai pivot fractal D1 gần nhất (hồ sơ: "Fibo
+  D1 · Nhịp gần nhất") + EMA89 H4 / EMA34 D1 + đỉnh/đáy cũ đổi vai. Nhịp H4 con vừa sinh sau đó (hồi vài nghìn giá rồi gãy)
+  chỉ cho chỗ lướt / chốt bớt, không thay vùng vào chính. Vì nhịp D1 ít đổi, vùng này giữ nguyên qua nhiều buổi khi giá
+  chưa tới — không hạ vùng short (nâng vùng long) theo giá. Hai cụm cùng phía → ghi cụm D1 là chỗ VÀO, cụm gần ở mục TRÁNH
+  hoặc "chỉ lướt". Hồi xa hơn (nhịp lớn đã chạy xong, giá đang ở cuối một đợt ngược) → Fibo 0.5–0.618 của dòng "Nhịp
+  ngược sau nhịp lớn" D1 (cả đợt từ đỉnh/đáy của nhịp lớn).
 - Đường đi nhiều chặng: chặng 1 ngược chặng 2 (quét rồi mới đi) → **vào ở đích chặng 1** [ST3 C4, E1].
 - Lệnh ngược khung lớn = "cản tàu" [ST3 D5]: họ chỉ scalp nhỏ, chốt sớm → với user trung hạn ghi rõ "chỉ lướt", không phải
   chỗ vào chính.

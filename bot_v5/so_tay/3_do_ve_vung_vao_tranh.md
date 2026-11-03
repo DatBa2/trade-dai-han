@@ -220,6 +220,14 @@
   - «78 đến 80 cân nhắc short swing được» [03-12 00:28:51](https://www.youtube.com/watch?v=qJZk9q5A7rA&t=1731s); «Thì entry anh em sẽ phải rải ra từ 78.500 cho đến khoảng 84… Rải đến 84 còn SL 90 thì được» [03-12 00:29:23](https://www.youtube.com/watch?v=qJZk9q5A7rA&t=1763s); «Short ở 84, 85 và TP 53 là ăn được khoảng 30.000 giá. SL thì tầm khoảng 10.000 giá. Tỉ lệ 1:4 là đẹp» [03-12 00:30:28](https://www.youtube.com/watch?v=qJZk9q5A7rA&t=1828s).
   - «Nó sẽ phải hit được vùng 80 thì lúc đó mình mới tính đến chuyện swing short về 50, 40» [03-31 00:40:25](https://www.youtube.com/watch?v=bz8_iuwosGs&t=2425s).
   - Giá thấp hơn vùng swing thì chỉ scalp: «Vùng này mình chỉ đánh scalp chứ không swing, đôi khi sẽ mất cơ hội nhưng chấp nhận» [01-20 00:25:34](https://www.youtube.com/watch?v=GygVJDmjlgY&t=1534s).
+  - **Vùng short chính đo trên nhịp D1, không trên nhịp H4 con; giá chưa tới thì giữ vùng qua buổi sau.** Giá thủng xuống,
+    sinh ra một nhịp H4 con nhỏ (hồi vài nghìn giá rồi gãy) → người đó KHÔNG hạ vùng short xuống Fibo của nhịp con; cụm
+    gần đó là chỗ "lấy được ít tiền".
+    - [11-03 · 00:46:08](https://www.youtube.com/watch?v=i0N3Yho0JvE&t=2768s) «cái plan của mình thì mình nghĩ là vẫn như hôm qua. Ở đoạn này mình vẫn có cảm giác là nó vẫn phải lên được 7980 thì nó mới gãy gãi thật.» · [11-03 · 00:46:22](https://www.youtube.com/watch?v=i0N3Yho0JvE&t=2782s) «tầm này mà gãy đi thì có vẻ là hơi hơi lấy được ít tiền… nếu mà các cái vùng sale thì mình sẽ chờ lên 7980 mình mới đánh mình mới đánh chủ lực đấy.»
+    - Đo (ảnh `i0N3Yho0JvE_004620.jpg`): hộp tím 79,15–79,85k = Fibo D1 nhịp gần nhất 81.970 → 76.265 (0.5 = 79.118 ·
+      0.618 = 79.791) + EMA89 H4 79.827 + EMA34 D1 mép dưới 79.737 + đáy cũ đổi vai 79,2–79,5k. Cùng hộp với buổi trước
+      (79,4–80k). Nhịp H4 con 78.866 → 76.700 (0.618 = 78.039) người đó không dùng.
+    - Hồi xa hơn đo trên nhịp D1 từ đỉnh đợt giảm: [11-03 · 01:05:16](https://www.youtube.com/watch?v=i0N3Yho0JvE&t=3916s) «Nếu hồi ở đây hồi lên khoảng 81 ủ maybe nhỉ. Đấy hồi lên đến vùng này nó kill một phát thì đẹp» (ảnh `i0N3Yho0JvE_010525.jpg`: Fibo 87.386 → 76.295, 0.5 = 81.840, 0.618 = 83.149).
 - **Tần suất**: lệnh SHORT đề xuất mới 97 (nhãn).
 - **Ví dụ**: (1) 03-12 → 04-06 → 05-11 vùng 78,5–84 / 82 (A3). **Đo:** 22/04 đỉnh 79.462, 06/05 đỉnh 82.842 (khớp tới ~82,8k, chưa tới mép 84k), 01/07 về 57.809 (~25.000 giá dưới 82,8k); TP 53–54k chưa tới. (2) 01-20 «98 cho đến 105»: **Đo:** không về (đỉnh sau đó 92.870) — họ không short swing; giá vẫn rơi về 60.000 (06/02). (3) 04-28 «77.000 cho đến 78.000 này có vẻ an toàn hơn short» [04-28 00:34:16](https://www.youtube.com/watch?v=lZw7Ts1eLWo&t=2056s).
 

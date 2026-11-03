@@ -507,6 +507,7 @@ Tin họ dùng (nhãn `tin_tuc`): 577 lời ở 176/180 = 98% buổi. Fed/FOMC/l
   - [03-24 · 00:21:23](https://www.youtube.com/watch?v=xKTPieljFuY&t=1283s) "khi giảm về 70 lại về đúng vùng 67000, trendline hai ngày vừa rồi, lại có tin Trump với Iran 48 giờ, mọi thứ tự động khớp với nhau... Về phân tích kỹ thuật, giá chạm khẽ trendline ở đằng dưới này, thêm một cái rất đẹp nữa là vùng 67.000 này... Khả năng quét Bitcoin 64.000?…"
   - [10-30 · 00:14:37](https://www.youtube.com/watch?v=f0JWA9aDHl8&t=877s) "…Mình không dự đoán được sàn bị hack đâu ... Nhưng anh em xem livestream và view của mình thì tạm thời chúng ta vẫn đang đi đúng hướng nhá." · [10-30 · 00:53:20](https://www.youtube.com/watch?v=f0JWA9aDHl8&t=3200s) "Xem lại ngày Bybit bị hack (21 tháng 2 2025) thì thị trường cũng không có vấn đề gì lúc đó, nhưng sau đó mới xảy ra nhịp chạy: giảm từ 98 về 76 tạo đáy ngắn hạn rồi break lên. Cho nên đâu phải tin ra là giá chạy căng ngay ngày ra tin. Cái đáng sợ là áp lực lên thanh khoản"
   - [07-01 · 00:27:07](https://www.youtube.com/watch?v=WNiQnpm2BLo&t=1627s) "…Cho nên những thời điểm có các bài phát biểu này anh em nên tắt chart đi, vì nó biến động cũng ác lắm."
+  - Hack sàn lớn → biên độ hai chiều to hơn, nhưng không short theo tin: [11-03 · 00:44:17](https://www.youtube.com/watch?v=i0N3Yho0JvE&t=2657s) "Nó từ 96 này nó gãy về đến 78 này. Từ 78 nó hồi lên đến 93 này. Từ 93 gãy về 77 này… Mỗi cái nhịp nó đi là khoảng tầm 18% của Bitcoin." (nhắc lại vụ Bybit đầu 2025) · [11-03 · 00:45:42](https://www.youtube.com/watch?v=i0N3Yho0JvE&t=2742s) "Tức là từ cái tin này nó không có đum hẳn để mà cho anh em cứ sale là ăn sale là ăn theo tin đâu."
   - Bầu cử (lịch tin của hồ sơ KHÔNG có sự kiện chính trị): [11-02 · 00:45:37](https://www.youtube.com/watch?v=MEKVe_u8BA8&t=2737s) "nó sẽ làm biến động nhiễu cho nên là chúng ta biết à có bầu cử thành ra là đề phòng giảm volume, giảm rủi ro xuống thôi." · "Chứ không phải là bầu cửi nó sẽ tăng hay là sẽ giảm đâu."
 
 ## C7. Vàng / dầu ↔ BTC: quan hệ đổi theo giai đoạn, chỉ để HOÃN
@@ -621,6 +622,7 @@ Tin họ dùng (nhãn `tin_tuc`): 577 lời ở 176/180 = 98% buổi. Fed/FOMC/l
   - [10-06](https://www.youtube.com/watch?v=CABZxVcYavM) "có tường không làm thay đổi cấu trúc thị trường"
   - [10-27](https://www.youtube.com/watch?v=2RB3G-MYjhE) "Cho nên không phải khối lượng đỏ nhiều như này là nó sẽ tăng mạnh đâu."
   - [11-02 · 00:42:43](https://www.youtube.com/watch?v=MEKVe_u8BA8&t=2563s) "500.000 như này thì khả năng nó đi lên 79 để nó quét là cao nhá chứ không phải là thấp đâu." (short đông → chặng 1 lên quét, view vẫn GIẢM)
+  - [11-03 · 00:52:44](https://www.youtube.com/watch?v=i0N3Yho0JvE&t=3164s) "Đây khối lượng này nó vẫn nhiều 400.000đ cho nên là mình thấy là vẫn rủi ro. Nếu mà chúng ta chỉ nhăm nhăm đi sale ở cái vùng này khá là nguy hiểm nhá." · [11-03 · 00:53:21](https://www.youtube.com/watch?v=i0N3Yho0JvE&t=3201s) "hit map thì nó có một cái vùng 7600 vừa bị lụm luôn… Lý do bảo vì sao nến nó kéo về đây phát là nó lên." (ảnh `i0N3Yho0JvE_005250.jpg`: delta cộng dồn −331k; giá ngay trên hỗ trợ → không short, chờ hồi lên vùng short; view vẫn GIẢM)
 
 ---
 

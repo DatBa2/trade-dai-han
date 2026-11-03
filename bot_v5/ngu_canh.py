@@ -339,6 +339,7 @@ def fibo_khung(nen, khung, n_lon):
     if len(zz) >= 3:
         ra["mo_rong_3_diem"] = _mo_rong(nen, zz[-3], zz[-2], zz[-1], gia, h, l)
     ra["nhip_lon"] = nhip_lon(nen, n_lon)
+    ra["nhip_sau_lon"] = nhip_sau_lon(nen, n_lon)
     return ra
 
 
@@ -367,6 +368,33 @@ def nhip_lon(nen, so):
                 "den": {"nhan": ds[imax].nhan, "gia": hi, "loai": "đỉnh"}, "chieu": "tăng", "muc": _muc_tl(lo, hi, gia)}
     return {"so_nen": len(ds), "tu": {"nhan": ds[imax].nhan, "gia": hi, "loai": "đỉnh"},
             "den": {"nhan": ds[imin].nhan, "gia": lo, "loai": "đáy"}, "chieu": "giảm", "muc": _muc_tl(hi, lo, gia)}
+
+
+def nhip_sau_lon(nen, so):
+    """Nhịp NGƯỢC sau nhịp lớn: từ cực trị cuối của nhịp lớn (đỉnh nếu nhịp lớn tăng, đáy nếu giảm) tới cực trị ngược
+    (râu) xa nhất SAU đó. Nhịp lớn đã chạy xong thì người đó đo hồi trên cả đợt ngược này, không trên nhịp lớn cũ
+    (03/11: D1 87.386 → 76.295, 0.5 = 81.840 "hồi lên 81")."""
+    ds = nen[-so:]
+    if len(ds) < 5:
+        return None
+    gia = nen[-1].c
+    imax = max(range(len(ds)), key=lambda i: (ds[i].h, -i))
+    imin = min(range(len(ds)), key=lambda i: (ds[i].l, -i))
+    cuoi = max(imax, imin)
+    if cuoi == len(ds) - 1:
+        return None
+    sau = range(cuoi + 1, len(ds))
+    if imax > imin:
+        j = min(sau, key=lambda i: (ds[i].l, -i))
+        tu, den = {"nhan": ds[imax].nhan, "gia": ds[imax].h, "loai": "đỉnh"}, {"nhan": ds[j].nhan, "gia": ds[j].l, "loai": "đáy"}
+        chieu = "giảm"
+    else:
+        j = max(sau, key=lambda i: (ds[i].h, -i))
+        tu, den = {"nhan": ds[imin].nhan, "gia": ds[imin].l, "loai": "đáy"}, {"nhan": ds[j].nhan, "gia": ds[j].h, "loai": "đỉnh"}
+        chieu = "tăng"
+    if j == len(ds) - 1:
+        chieu += f" ({den['loai']} là nến cuối, chưa xác nhận)"
+    return {"so_nen": len(ds), "tu": tu, "den": den, "chieu": chieu, "muc": _muc_tl(tu["gia"], den["gia"], gia)}
 
 
 def nhip_giam_tu_dinh(nen, so):
@@ -904,7 +932,8 @@ def ve_markdown(hs):
         L += ["", f"### Fibo {TEN_KHUNG[f['khung']]}"]
         for key, ten in (("nhip_gan_nhat", "Nhịp gần nhất (2 pivot fractal xác nhận cuối)"),
                          ("nhip_dang_chay", "Nhịp đang chạy (từ pivot cuối tới cực trị sau đó)"),
-                         ("nhip_lon", "Nhịp lớn (đỉnh/đáy cao-thấp nhất 90 nến)")):
+                         ("nhip_lon", "Nhịp lớn (đỉnh/đáy cao-thấp nhất 90 nến)"),
+                         ("nhip_sau_lon", "Nhịp ngược sau nhịp lớn (cực trị cuối của nhịp lớn → cực trị ngược sau đó)")):
             x = f.get(key)
             if not x:
                 continue
