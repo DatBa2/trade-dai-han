@@ -7,7 +7,7 @@ Cách dùng (T là giờ VN, nến cuối dùng = nến ĐÃ ĐÓNG có giờ đ
   python3 bot_v5/ngu_canh.py VANG 4H "2026-09-21 11:00" --so-nen 20
 Tuỳ chọn: --json (in JSON thay Markdown) · --so-nen N (số nến mỗi bảng, mặc định 30) · --utc (T là giờ UTC)
           --cache DIR (thư mục cache, mặc định bot_v5/cache) · --offline (chỉ đọc cache, không gọi mạng)
-MÃ: mọi coin OKX `<MÃ>-USDT` (spot, không có thì -USDT-SWAP); VANG, DAU, DXY, NASDAQ qua Yahoo.
+MÃ: coin Binance USDT-M perp `<MÃ>USDT` (không có → Binance spot → OKX); VANG = OKX XAU-USDT-SWAP; DAU, DXY, NASDAQ qua Yahoo.
 KHUNG: 15m / 1H / 4H / 1D / 1W (chấp nhận cả H4, D1, W1, H1, M15).
 
 NHÂN QUẢ: mọi chuỗi nến được cắt ở giờ ĐÓNG ≤ T trước khi tính (EMA, RSI, fractal, Fibo, trendline); cửa sổ dữ liệu cố
@@ -727,7 +727,7 @@ def tao_ho_so(ma, khung, t, so_nen=30, cache_dir=None, offline=False):
     if t > time.time():
         raise NG.LoiDuLieu("T ở tương lai")
     if ma not in NG.YAHOO:
-        NG.giai_inst(ma, cache_dir, offline)  # mã không có trên OKX → báo lỗi ngay, không thử từng khung
+        NG.giai_nguon(ma, cache_dir, offline)  # mã không có trên Binance lẫn OKX → báo lỗi ngay, không thử từng khung
     ds_khung = [k for k in ("1M", "1W", "1D", "4H") if k != khung]
     ds_khung = sorted(set(ds_khung + [khung]), key=lambda k: NG.KHUNG.index(k), reverse=True)
     chuoi, nguon = {}, None
@@ -785,7 +785,7 @@ def tao_ho_so(ma, khung, t, so_nen=30, cache_dir=None, offline=False):
                  "vua_qua_3_ngay": [dict(x, vn=vn(NG.tu_s_utc(x["ts_utc"].replace("T", " ")))) for x in tin["vua_qua_3_ngay"]]}
     hs["fed"] = fed_tai(t)
     hs["fng"] = lay_fng(t, cache_dir or NG.CACHE_MAC_DINH, offline)
-    if ma not in NG.YAHOO:  # gap CME + độ thống trị chỉ có nghĩa với crypto
+    if NG.la_crypto(ma):  # gap CME + độ thống trị chỉ có nghĩa với crypto
         hs["gap_cme"] = gap_cme(t, Path(cache_dir or NG.CACHE_MAC_DINH), offline)
         hs["dom"] = dom_tai(t, cache_dir, offline)
     # BTC trước (nếu mã khác BTC)

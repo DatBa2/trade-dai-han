@@ -46,12 +46,16 @@ nhãn v5 rút mù (`hoc_v5/nhan/`) → phân tích hành vi (`hoc_v5/giu_lat/`, 
 định nghĩa TĂNG/GIẢM/PHÂN VÂN, giữ view) + `bot_v5/MAU_TRA_LOI.md` (khuôn 11 mục + file đối chiếu). `/nhan-dinh`: đọc 2
 file luật → MÃ/KHUNG/T → `so_tay_den.py` → đọc 4 file sổ tay đã lọc → `ngu_canh.py` → phân tích → lưu
 `bot_v5/doi_chieu/<ngày T>_<MÃ>.md` (user tự điền "Kết quả thật"). Mọi sửa ghi vào `bot_v5/NHAT_KY_SUA.md`.
-- `nen.py`: nến OKX (`<MÃ>-USDT`, fallback `-USDT-SWAP`) + Yahoo (VANG, DAU, DXY, NASDAQ, CME = BTC=F) + proxy
+- `nen.py`: nến crypto Binance USDT-M perp (`<MÃ>USDT`, như chart người đó) → Binance spot → OKX; VANG = OKX
+  `XAU-USDT-SWAP` (từ 04/2025, thiếu EMA200 tuần); Yahoo (DAU, DXY, NASDAQ, CME = BTC=F) + proxy
   BTC.D / USDT.D từ CoinMarketCap (`lay_dom`, lưu cache dạng nến để phép thử đầu độc phủ luôn); cache `bot_v5/cache/`
   giờ UTC; cửa sổ cố định theo T nên kết quả chỉ phụ thuộc T.
 - `ngu_canh.py`: EMA34/89/200/610, RSI, fractal, Fibo, trendline, râu chưa test, lịch tin + FOMC + Polymarket
   (`du_lieu/tin_tuc/*.csv`), F&G, tóm tắt BTC; mục 7 (chỉ crypto): gap CME chưa lấp + BTC.D / USDT.D proxy.
 - `so_tay_den.py`: bỏ mọi dòng sổ tay có mốc ngày ≥ ngày của T để chặn lộ view thật của người đó.
+- `chup_ngoai.py`: dữ liệu không có API (Coinglass heatmap / thanh lý / ETF / số dư sàn, TradingView BTC.D / USDT.D) chụp
+  bằng Chrome thật (hồ sơ riêng `%LOCALAPPDATA%/trade-dai-han/chrome`, cổng 9333, `cong_cu/chup_web.mjs`) → ảnh + chữ ở
+  `bot_v5/_web/`. Chỉ cho hỏi live (lúc chụp − T ≤ 4h).
 
 **Đo độ giống**: chưa có công cụ chấm trong repo (bộ chấm v3 đã gỡ). Nhãn hướng H4 cuối buổi của người đó: `hoc_v5/nhan/`
 (180 buổi). Lần đo gần nhất (02/11/2026, 20 buổi T7–T10, bản trước/sau, trong mẫu) + thiết kế chốt trước: `bot_v5/NHAT_KY_SUA.md`.

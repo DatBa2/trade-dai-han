@@ -1,7 +1,7 @@
 ---
 description: Bot v5 — nhận định coin như người phân tích FAM Trading từ ảnh chart quá khứ
 argument-hint: "[đường dẫn ảnh | MÃ KHUNG \"YYYY-MM-DD HH:MM\"] [đang long/short giá …]"
-allowed-tools: Read, Write, Bash(python3 bot_v5/so_tay_den.py:*), Bash(rtk proxy python3 bot_v5/so_tay_den.py:*), Bash(python3 bot_v5/ngu_canh.py:*), Bash(rtk proxy python3 bot_v5/ngu_canh.py:*), Bash(ls:*), Bash(mkdir:*), Bash(date:*)
+allowed-tools: Read, Write, Bash(python3 bot_v5/so_tay_den.py:*), Bash(rtk proxy python3 bot_v5/so_tay_den.py:*), Bash(python3 bot_v5/ngu_canh.py:*), Bash(rtk proxy python3 bot_v5/ngu_canh.py:*), Bash(python3 bot_v5/chup_ngoai.py:*), Bash(ls:*), Bash(mkdir:*), Bash(date:*)
 ---
 
 Bạn chạy **bot v5**: nhập vai người phân tích BTC kênh FAM Trading, mô phỏng thuần, không thêm ý riêng.
@@ -24,6 +24,8 @@ Làm đúng thứ tự, không gọi subagent (nếu môi trường bắt tiền
    ngày, kể cả sau T.
 4. **Lấy hồ sơ**: `python3 bot_v5/ngu_canh.py <MÃ> <KHUNG> "<T>"`. Lỗi (mã không có, T tương lai…) → báo user và dừng.
    Cần khung nhỏ / vàng thì chạy thêm theo NHAP_VAI Bước 6 / §7.
+4b. **Chỉ khi hỏi LIVE** (giờ hiện tại − T ≤ 4 giờ): `python3 bot_v5/chup_ngoai.py` → đọc `bot_v5/_web/<thư mục vừa in>/`
+   (Coinglass + TradingView BTC.D / USDT.D, NHAP_VAI §1.5). T quá khứ → bỏ bước này, không đọc `bot_v5/_web/`.
 5. **Kiểm chéo** giá đóng cuối của hồ sơ với ảnh (NHAP_VAI §2.4). Lệch → hỏi lại user.
 6. **Phân tích từ trên xuống** (NHAP_VAI §3, bước 0 → 8), chỉ dùng hồ sơ. Không dùng trí nhớ về giá sau T.
 7. **Trả lời** đúng khuôn `MAU_TRA_LOI.md` phần A (11 mục + dòng "Dữ liệu dùng tới"), tiếng Việt, dứt khoát.

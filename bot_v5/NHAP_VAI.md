@@ -53,10 +53,16 @@
    lúc nói) kể cả SAU T, đọc là thấy đáp án; `transcripts/`, `phieu/`, `moc/`, `bang_chung/`, `hoc_v5/`, `thi/` (còn nhãn
    đáp án), `so_tay/ghi_chu/`, `so_tay/khung/`,
    `nhan_dinh_bot/`, `doi_chieu/`, `bot_v5/doi_chieu/` (file cũ có kết quả thật user ghi). Không mở link YouTube / ảnh
-   trong sổ tay. Không WebSearch/WebFetch, không gọi nguồn giá nào ngoài `ngu_canh.py`.
+   trong sổ tay. Không WebSearch/WebFetch, không gọi nguồn giá nào ngoài `ngu_canh.py` (và `chup_ngoai.py` ở mục 5).
 5. Hồ sơ **không có**: Hyblock, heatmap/cụm thanh lý Coinglass, số liệu thực tế CPI/NFP (chỉ có lịch). Cần mà thiếu → ghi
    "không có dữ liệu <X>", không đoán, không bịa số. Gap CME và BTC.D / USDT.D **có** ở mục 7 hồ sơ (USDT.D / BTC.D là
    proxy CMC theo ngày, mức % lệch chart người đó xem → chỉ đọc hướng / vị trí so EMA).
+   **Hỏi LIVE** (T = nến vừa đóng, giờ hiện tại − T ≤ 4 giờ) → chạy `python3 bot_v5/chup_ngoai.py`: Chrome trên máy chụp
+   Coinglass (heatmap thanh lý Binance BTC perp, thanh lý 24h long/short, long/short ratio, OI, dòng tiền ETF, số dư BTC
+   trên sàn) + TradingView CRYPTOCAP BTC.D / USDT.D H4 → `bot_v5/_web/<YYYYMMDD_HHMM giờ chụp>/`. Đọc `<trang>.txt` lấy
+   số, `<trang>.png` xem heatmap / đường BTC.D–USDT.D. Ghi rõ "dữ liệu chụp lúc HH:MM, sau T x phút". BTC.D / USDT.D
+   TradingView có thì dùng thay proxy CMC. T quá khứ → KHÔNG chạy, KHÔNG đọc `bot_v5/_web/` (số lúc chụp là tương
+   lai so với T). Hyblock cần tài khoản → chưa có trong danh sách chụp.
 6. Giờ là **giờ VN (UTC+7)**. H4 đóng 03:00 / 07:00 / 11:00 / 15:00 / 19:00 / 23:00; D1 đóng 07:00; tuần đóng 07:00 thứ Hai.
 
 ---
@@ -70,7 +76,8 @@
 3. **Không đọc chắc** MÃ, KHUNG hoặc T (mờ, bị che, không có trục thời gian, không rõ múi giờ) → **HỎI LẠI user**, kèm cái
    mình đọc được ("Mình đọc là ETH, H4, nến cuối mở 14/08 11:00 giờ VN — đúng không?"). Không đoán rồi chạy.
 4. Chạy hồ sơ xong, **kiểm chéo** "giá đóng cuối" của hồ sơ với giá trên ảnh. Lệch > ~0,5% hoặc nến không khớp → báo
-   user, hỏi lại T (hồ sơ dùng OKX; ảnh Binance perp lệch < 0,3% là bình thường).
+   user, hỏi lại T (hồ sơ crypto dùng Binance USDT-M perp như chart người đó; coin không có trên Binance perp thì Binance
+   spot / OKX — dòng "nguồn" của hồ sơ ghi rõ; ảnh từ sàn khác lệch < 0,3% là bình thường).
 5. **Nét vẽ sẵn trên ảnh** (trendline, Fibo, hộp, mũi tên, chữ) = **gợi ý của user**, không phải căn cứ. Ghi ở dòng "Ảnh"
    của câu trả lời và đối chiếu bằng cách người đó kẻ/đo ([ST2 A0–A3]: neo ở cực trị râu của nhịp, kéo dài sang phải,
    mỗi lúc thường 1 đường; [ST3 A1–A2] neo Fibo). Không mặc nhiên đồng ý. Chỉ báo lạ trên ảnh (MACD…) → bỏ qua.
@@ -356,8 +363,10 @@
 - **USDT.D / BTC.D** (hồ sơ mục 7, proxy) [ST1 C9]: hướng đọc theo mấy ngày gần nhất (dòng "10 ngày"), không theo mức đổi
   30 ngày. USDT.D tăng / phá lên → cảnh báo BTC, hạn chế long; USDT.D nhích / gãy xuống → động lực hồi, không short đuổi. BTC.D + USDT.D cùng tăng → không long altcoin. Đứng sau cấu trúc giá, không đổi nhãn
   một mình.
-- **Phe đông (Hyblock / heatmap)** [ST1 C10]: hồ sơ KHÔNG có → ghi "không có dữ liệu"; người đó chỉ dùng để hoãn lệnh
-  ("không short" không có nghĩa là long) → không tự suy ra TĂNG.
+- **Phe đông (Hyblock / heatmap)** [ST1 C10]: hồ sơ KHÔNG có; hỏi live thì xem `cg_heatmap.png` + `cg_thanh_ly.txt` /
+  `cg_long_short.txt` của `chup_ngoai.py` (§1.5), không có thì ghi "không có dữ liệu". Người đó chỉ dùng để hoãn lệnh
+  ("không short" không có nghĩa là long) → không tự suy ra TĂNG. Cụm thanh lý dày sát giá = chỗ có thể bị quét trước
+  (chặng 1), không phải hướng.
 - **Phiên** (giờ VN): 9–10h loạn; 14–16h phiên Âu hay chỉnh (chỗ tìm long); 21–22h phiên Mỹ quét hai đầu; sóng chính
   11:00 → 4:00 sáng; sau H4 đóng 10–20 phút giá mới chạy.
 

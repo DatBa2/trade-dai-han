@@ -1,10 +1,13 @@
 #!/usr/bin/env python3
 """Nguồn nến cho bot v5 — chỉ nến ĐÃ ĐÓNG ≤ T, cửa sổ cố định theo T (kết quả chỉ phụ thuộc T, không phụ thuộc lịch sử cache).
 
-- Coin: OKX công khai `history-candles`, `<MÃ>-USDT` (spot) → không có thì `<MÃ>-USDT-SWAP`.
-  Khung: 15m, 1H, 4H, 1D (=1Dutc, mở 07:00 VN), 1W (=1Wutc, thứ Hai 07:00 VN), 1M (=1Mutc).
-  Header User-Agent, nghỉ NGHI giây giữa 2 lần gọi; chỉ lưu nến confirm = "1".
-- VANG (GC=F), DAU (CL=F), DXY (DX-Y.NYB), NASDAQ (^IXIC): Yahoo chart API như `backtest/tai_du_lieu.py`
+- Coin: Binance USDT-M perp `<MÃ>USDT` (fapi — đúng loại chart BTCUSDT.P Binance người đó xem) → không có thì Binance
+  spot `<MÃ>USDT` → không có nữa thì OKX `<MÃ>-USDT` (spot) / `<MÃ>-USDT-SWAP`. Ánh xạ lưu ở cache/nguon.json.
+  Khung: 15m, 1H, 4H, 1D (mở 00:00 UTC = 07:00 VN), 1W (thứ Hai 07:00 VN), 1M — hai sàn cùng mốc mở nến.
+  Header User-Agent, nghỉ NGHI giây giữa 2 lần gọi; chỉ lưu nến đã đóng (OKX confirm = "1"; Binance: giờ mở < nến đang chạy).
+- VANG: OKX `XAU-USDT-SWAP` (lịch sử từ 04/2025; Binance XAUUSDT perp chỉ có từ 12/2025) — chưa đủ nến cho EMA200 tuần /
+  EMA610 ngày.
+- DAU (CL=F), DXY (DX-Y.NYB), NASDAQ (^IXIC): Yahoo chart API như `backtest/tai_du_lieu.py`
   (15m: 60 ngày gần nhất; 1h: 730 ngày → 1H và gộp 4H căn UTC 00/04/…; 1d: 10 năm → 1D, gộp 1W/1M theo lịch New York).
   CME (BTC=F) cùng đường Yahoo — ngu_canh dùng 1h để tìm gap CME.
 - BTC.D / USDT.D: PROXY theo ngày từ CoinMarketCap data-api (như `thi/tao_ho_so.py`), `lay_dom()`; lưu cache dạng nến
@@ -37,9 +40,13 @@ OKX_BAR = {"15m": "15m", "1H": "1H", "4H": "4H", "1D": "1Dutc", "1W": "1Wutc", "
 # cửa sổ dữ liệu lấy về (tính lùi từ T): đủ ấm EMA610 cho khung nhỏ, đủ "từ lúc niêm yết" cho khung lớn
 CUA_SO = {"15m": 2500 * 900, "1H": 2500 * 3600, "4H": 2500 * 14400, "1D": 3000 * NGAY,
           "1W": 600 * 7 * NGAY, "1M": 200 * 31 * NGAY}
-YAHOO = {"VANG": ("GC=F", 17), "DAU": ("CL=F", 17), "DXY": ("DX-Y.NYB", 17), "NASDAQ": ("^IXIC", 16), "CME": ("BTC=F", 17)}
+YAHOO = {"DAU": ("CL=F", 17), "DXY": ("DX-Y.NYB", 17), "NASDAQ": ("^IXIC", 16), "CME": ("BTC=F", 17)}
 YAHOO_IV = {"15m": ("15m", "60d", 900), "1h": ("1h", "730d", 3600), "1d": ("1d", "10y", None)}
 OKX_URL = "https://www.okx.com/api/v5/market/history-candles?instId={}&bar={}&limit=100&after={}"
+BINANCE = {"binance_fapi": ("https://fapi.binance.com/fapi/v1/klines", 1500, "USDT-M perp"),
+           "binance_spot": ("https://api.binance.com/api/v3/klines", 1000, "spot")}
+BN_IV = {"15m": "15m", "1H": "1h", "4H": "4h", "1D": "1d", "1W": "1w", "1M": "1M"}
+NGUON_CO_DINH = {"VANG": ("okx", "XAU-USDT-SWAP")}
 YAHOO_URL = "https://query1.finance.yahoo.com/v8/finance/chart/{}?interval={}&range={}"
 
 
@@ -224,9 +231,8 @@ def _okx_tai(inst, khung, a, b):
     return ra
 
 
-def _chuoi_okx(ma, khung, t, cache_dir, offline):
-    inst = giai_inst(ma, cache_dir, offline)
-    ten = f"okx_{inst}_{khung}"
+def _chuoi_san(ten, tai, khung, t, cache_dir, offline, them_meta):
+    """Nến sàn (OKX / Binance) qua cache: tải các khoảng giờ MỞ còn thiếu trong cửa sổ của T bằng `tai(x, y)`."""
     p_csv, p_meta = Path(cache_dir) / f"{ten}.csv", Path(cache_dir) / f"{ten}.json"
     ra = _doc_csv(p_csv)
     meta = _doc_meta(p_meta)
@@ -239,19 +245,71 @@ def _chuoi_okx(ma, khung, t, cache_dir, offline):
             y = min(y, tran)
             if y <= x:
                 continue
-            ra.update(_okx_tai(inst, khung, x, y))
+            ra.update(tai(x, y))
             phu = _gop_khoang(phu + [[x, y]])
         _ghi_csv(p_csv, ra)
         meta["phu"] = phu
-        meta["inst"] = inst
+        meta.update(them_meta)
         _ghi_meta(p_meta, meta)
     nen = []
     for mo in sorted(ra):
         mo_, dong, o, h, l, c, v = ra[mo]
         if mo >= a and dong <= t:
             nen.append(NenGia(mo, dong, float(o), float(h), float(l), float(c), float(v), nhan_okx(mo, dong, khung)))
+    return nen
+
+
+def _chuoi_okx(ma, khung, t, cache_dir, offline, inst=None):
+    inst = inst or giai_inst(ma, cache_dir, offline)
+    nen = _chuoi_san(f"okx_{inst}_{khung}", lambda x, y: _okx_tai(inst, khung, x, y), khung, t, cache_dir, offline,
+                     {"inst": inst})
     loai = "spot" if not inst.endswith("SWAP") else "perp (SWAP)"
     return f"OKX {loai} {inst}", nen
+
+
+# ---------------- Binance ----------------
+def _binance_tai(loai, sym, khung, a, b):
+    """Nến có giờ mở trong [a, b) (giây). Bên gọi chỉ hỏi b ≤ giờ mở nến đang chạy → mọi nến trả về đã đóng."""
+    url, lim, _ = BINANCE[loai]
+    ra, tu = {}, a * 1000
+    while tu < b * 1000:
+        j = _get_json(f"{url}?symbol={sym}&interval={BN_IV[khung]}&startTime={tu}&endTime={b * 1000 - 1}&limit={lim}")
+        if isinstance(j, dict):
+            raise LoiDuLieu(f"Binance {sym} {khung}: {j.get('code')} {j.get('msg')}")
+        for k in j:
+            mo = int(k[0]) // 1000
+            if a <= mo < b:
+                ra[mo] = (mo, dong_nen(mo, khung), k[1], k[2], k[3], k[4], k[5])
+        if len(j) < lim:
+            break
+        tu = int(j[-1][0]) + 1
+    return ra
+
+
+def giai_nguon(ma, cache_dir=None, offline=False):
+    """MÃ → (loại nguồn, mã trên sàn): binance_fapi → binance_spot → okx. Lưu ánh xạ trong cache/nguon.json."""
+    if ma in NGUON_CO_DINH:
+        return NGUON_CO_DINH[ma]
+    cache_dir = Path(cache_dir or CACHE_MAC_DINH)
+    p = cache_dir / "nguon.json"
+    m = _doc_meta(p)
+    if ma in m:
+        return tuple(m[ma])
+    if offline:
+        raise LoiDuLieu(f"{ma}: chưa có trong cache/nguon.json (offline)")
+    for loai, (url, _lim, _ten) in BINANCE.items():
+        j = _get_json(f"{url}?symbol={ma}USDT&interval=1d&limit=1")
+        if isinstance(j, list) and j:
+            m[ma] = [loai, f"{ma}USDT"]
+            break
+    else:
+        m[ma] = ["okx", giai_inst(ma, cache_dir, offline)]
+    _ghi_meta(p, m)
+    return tuple(m[ma])
+
+
+def la_crypto(ma):
+    return ma not in YAHOO and ma not in NGUON_CO_DINH
 
 
 # ---------------- Yahoo ----------------
@@ -400,4 +458,9 @@ def lay_chuoi(ma, khung, t, cache_dir=None, offline=False):
         raise LoiDuLieu(f"khung {khung} không hỗ trợ")
     if ma in YAHOO:
         return _chuoi_yahoo(ma, khung, t, cache_dir, offline)
-    return _chuoi_okx(ma, khung, t, cache_dir, offline)
+    loai, sym = giai_nguon(ma, cache_dir, offline)
+    if loai == "okx":
+        return _chuoi_okx(ma, khung, t, cache_dir, offline, inst=sym)
+    nen = _chuoi_san(f"{loai}_{sym}_{khung}", lambda x, y: _binance_tai(loai, sym, khung, x, y), khung, t, cache_dir,
+                     offline, {"sym": sym})
+    return f"Binance {BINANCE[loai][2]} {sym}", nen

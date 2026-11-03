@@ -6,8 +6,9 @@
       → Markdown + JSON phải GIỐNG HỆT (chạy offline trên bản sao cache / bản sao du_lieu/tin_tuc).
         (a3) ĐẦU ĐỘC mọi nến/F&G có giờ đóng > T−24h → khối "trạng thái lúc T−24h" phải GIỐNG HỆT (chỉ dùng dữ liệu ≤ T−24h).
   (b) 3 ca: BTC 4H 2026-08-14 11:00 · ETH 1D 2026-10-01 07:00 · SOL 4H 2026-09-21 11:00 → in độ dài + phần đầu.
-  (c) EMA/RSI trong hồ sơ khớp `cong_cu/chi_bao.py` tính lại độc lập; dữ liệu + EMA khớp `bot_v4/du_lieu/BTC_*.csv`;
-      trendline BTC khớp `trendline.BoDuLieu.doc()` (dữ liệu bot_v4) tại T.
+  (c) EMA/RSI trong hồ sơ khớp `cong_cu/chi_bao.py` tính lại độc lập; nến OKX (nguồn dự phòng) khớp
+      `bot_v4/du_lieu/BTC_*.csv`; `trendline_tai` trên nến OKX khớp `trendline.BoDuLieu.doc()` (dữ liệu bot_v4) tại T.
+      Hồ sơ BTC dùng Binance perp nên không so thẳng hồ sơ với dữ liệu bot_v4 (OKX).
   (d) phần mới có mặt + tính đúng: trạng thái T−24h (nến H4/D1 đúng mốc, EMA/L01 tính lại độc lập), nhịp GIẢM tuần từ đỉnh
       cao nhất (đỉnh = max râu 104 tuần, đáy = min râu sau đỉnh, mức Fibo), trendline giá đường sau 24h/48h = tại T + dốc×1/×2.
   (e) mục 7 ngoài chart (BTC 4H 2026-08-14): BTC.D / USDT.D = dòng CSV cache cuối có giờ biết ≤ T; mỗi gap CME liệt kê
@@ -227,10 +228,10 @@ def kiem_ema(hs, ma, khung, t):
         kiem(ok, f"(c) {ma} {m['khung']}: EMA34 dải/89/200/610 + RSI14 trong hồ sơ == chi_bao.py tính lại; nến cuối đóng ≤ T")
 
 
-def kiem_bot_v4(hs, t):
-    """BTC: nến OKX tải về == bot_v4/du_lieu; EMA trên cùng cửa sổ khớp."""
+def kiem_bot_v4(t):
+    """BTC: nến OKX (nguồn dự phòng) tải về == bot_v4/du_lieu."""
     for khung, ten in (("4H", "BTC_4H.csv"), ("1D", "BTC_1D.csv")):
-        _n, ds = NG.lay_chuoi("BTC", khung, t)
+        _n, ds = NG._chuoi_okx("BTC", khung, t, NG.CACHE_MAC_DINH, False)
         dur = NG.GIAY[khung]
         v4 = {}
         with (GOC / "bot_v4" / "du_lieu" / ten).open(newline="") as f:
@@ -240,26 +241,12 @@ def kiem_bot_v4(hs, t):
                     v4[mo] = (float(r["open"]), float(r["high"]), float(r["low"]), float(r["close"]))
         chung = [x for x in ds if x.mo in v4]
         lech = sum(1 for x in chung if (x.o, x.h, x.l, x.c) != v4[x.mo])
-        kiem(len(chung) > 100 and lech == 0, f"(c) BTC {khung}: {len(chung)} nến trùng giờ với bot_v4/du_lieu, lệch OHLC {lech}")
-        # EMA trên chuỗi bot_v4 bắt đầu từ cùng nến đầu cửa sổ (nếu bot_v4 có)
-        mo0 = max(ds[0].mo, min(v4))
-        c4 = [v4[k][3] for k in sorted(v4) if k >= mo0]
-        c5 = [x.c for x in ds if x.mo >= mo0]
-        if len(c4) == len(c5):
-            m = next(z for z in hs["khung_ds"] if z["khung"] == khung)
-            e = m["chi_bao"]["ema"]
-            ss = []
-            for n_, key in ((34, None), (89, "ema89"), (200, "ema200")):
-                v = chi_bao.ema(c4, n_)[-1]
-                ref = e["ema34"]["close"] if key is None else e[key]["gia"]
-                ss.append(abs(v - ref) / ref)
-            kiem(max(ss) < 1e-4, f"(c) BTC {khung}: EMA34/89/200 trên dữ liệu bot_v4 (cùng nến đầu nếu có) lệch tối đa {max(ss):.2e}")
-        else:
-            print(f"     (bỏ so EMA bot_v4 {khung}: số nến {len(c4)} ≠ {len(c5)})")
+        kiem(len(chung) > 100 and lech == 0, f"(c) BTC {khung}: {len(chung)} nến OKX trùng giờ với bot_v4/du_lieu, lệch OHLC {lech}")
 
 
-def kiem_trendline(hs, t):
-    tl = hs["trendline"]
+def kiem_trendline(t):
+    tl = NC.trendline_tai(NG._chuoi_okx("BTC", "4H", t, NG.CACHE_MAC_DINH, False)[1],
+                          NG._chuoi_okx("BTC", "1D", t, NG.CACHE_MAC_DINH, False)[1], t)
     du = TL.BoDuLieu.doc()
     bt = TL.bien_the(tl["bien_the"])
     kq = TL.tai_thoi_diem(du, t, bt)
@@ -321,8 +308,8 @@ def main():
     for ca in CA + CA_THEM:
         kiem_ema(ket_qua[ca][2], ca[0], ca[1], NC.doc_t(ca[2]))
     hs_btc = ket_qua[CA[0]][2]
-    kiem_bot_v4(hs_btc, NC.doc_t(CA[0][2]))
-    kiem_trendline(hs_btc, NC.doc_t(CA[0][2]))
+    kiem_bot_v4(NC.doc_t(CA[0][2]))
+    kiem_trendline(NC.doc_t(CA[0][2]))
     print("\n=== (d) phần mới: T−24h · nhịp GIẢM tuần · trendline sau 24h/48h ===")
     for ca in CA + CA_THEM:
         kiem_phan_moi(ca[0], ca[1], NC.doc_t(ca[2]), ket_qua[ca][0], ket_qua[ca][2])

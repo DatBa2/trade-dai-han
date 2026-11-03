@@ -240,3 +240,24 @@ NHAP_VAI: bỏ ngoại lệ "được đọc `thi/SO_TAY_T1_T6.md` khi T sau 06-
   hỗ trợ tăng, biến thể khoá ở `hoc_v5/trendline/CHON.md`, dùng chung với `hoc_v5`) → cần thiết kế riêng; nhãn
   `hoc_v5/nhan/` cho 02/11, 03/11 (bộ nhãn khoá sha256 ở `hoc_v5/KHOA_NHAN.md`).
 - Từ nay buổi 03/11 đã dùng để sửa luật; buổi kiểm sạch tiếp theo bắt đầu từ 04/11.
+
+## Đổi nguồn dữ liệu: Binance perp cho crypto, OKX cho vàng, Chrome cho dữ liệu không có API (03/11/2026)
+
+- User yêu cầu: dùng OKX / Binance / TradingView; cái gì không có API thì lấy bằng trình duyệt trên máy user.
+- **`nen.py`**: crypto lấy Binance USDT-M perp `<MÃ>USDT` (fapi, đúng chart BTCUSDT.P Binance người đó xem) → Binance
+  spot → OKX (spot / swap). Ánh xạ lưu `cache/nguon.json`; cache `binance_fapi_<SYM>_<khung>.csv/json` cùng định dạng
+  OKX (khoảng giờ mở `phu`). Hai sàn cùng mốc mở nến (D1 00:00 UTC, tuần thứ Hai, tháng ngày 1) → hồ sơ không đổi cấu trúc.
+  Kiểm: T = 03/11 07:00 đỉnh D1 87.385 = mức 1 Fibo người đó vẽ (87.385,7).
+- **VANG**: Yahoo GC=F (futures) → OKX `XAU-USDT-SWAP` (Binance XAUUSDT perp chỉ có từ 12/2025, OKX từ 04/2025). Thiếu
+  EMA200 tuần / EMA610 ngày; nến ngày theo UTC thay vì phiên New York. DAU, DXY, NASDAQ, CME vẫn Yahoo (sàn crypto không có).
+- `ngu_canh.py`: `giai_nguon` thay `giai_inst`; mục gap CME + BTC.D / USDT.D theo `NG.la_crypto` (VANG không phải crypto).
+- `kiem_tra_ngu_canh.py`: so `bot_v4/du_lieu` (dữ liệu OKX) bằng nến OKX dự phòng (`_chuoi_okx`); trendline so trên nến
+  OKX; bỏ phép so EMA hồ sơ ↔ bot_v4 (hồ sơ giờ là Binance; EMA đã có phép tính lại độc lập ở (c)). PASS hết.
+- **`chup_ngoai.py`** (mới) + `cong_cu/chup_web.mjs` ghi thêm `<tên>.txt` (chữ trên trang): Chrome ≥ 136 không cho điều
+  khiển hồ sơ mặc định → mở cửa sổ Chrome riêng, hồ sơ cố định `%LOCALAPPDATA%/trade-dai-han/chrome`, cổng 9333. Trang:
+  Coinglass heatmap (Binance BTC perp), thanh lý, long/short, OI, ETF, số dư sàn; TradingView CRYPTOCAP BTC.D / USDT.D H4.
+  Chạy thử 03/11 ~14:00: đủ 8 trang có số thật (ETF ngày −398,6 tr USD, Binance 7 ngày −49.456 BTC, thanh lý 24h 379 tr
+  USD với BTC 93,1% long, BTC.D 60,40%, USDT.D 7,026%; heatmap có cụm ~78,7k và ~76,2k).
+- Chỉ dùng cho hỏi live (lúc chụp − T ≤ 4h) — NHAP_VAI §1.5, §7 C10, `/nhan-dinh` bước 4b. Backtest T quá khứ không đọc.
+- **Hệ quả**: hồ sơ crypto từ nay lệch vài chục giá so với các bản OKX cũ (`doi_chieu/` trước 03/11 14:00); vàng đổi hẳn
+  sản phẩm. Chưa có: Hyblock (cần tài khoản — đăng nhập một lần trong cửa sổ Chrome riêng rồi thêm URL vào `TRANG`).

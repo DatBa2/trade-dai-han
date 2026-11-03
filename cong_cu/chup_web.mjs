@@ -46,6 +46,9 @@ if (cuonToi) await goi('Runtime.evaluate', { expression: `(() => { const h = [..
 await ngu(4000);
 const anh = await goi('Page.captureScreenshot', { format: 'png' });
 fs.writeFileSync(ra, Buffer.from(anh.result.data, 'base64'));
+// chữ trên trang cạnh ảnh: số liệu đọc được bằng máy, không phải đoán từ pixel
+const chu = await goi('Runtime.evaluate', { returnByValue: true, expression: '(document.body && document.body.innerText || "").slice(0, 200000)' });
+fs.writeFileSync(ra.replace(/\.png$/i, '') + '.txt', chu.result.result.value || '');
 await fetch(`http://127.0.0.1:9333/json/close/${tab.id}`);
 console.log('✓', ra);
 ws.close();
