@@ -1,0 +1,142 @@
+Chart
+Info
+Trading data
+Feed
+News
+Order book
+Last trades
+Open orders
+Order history
+Open positions
+Position history
+Assets
+Bots
+View more
+Trade
+Tools
+USDT assets
+Selected trading pair
+XAUUSDT
+Perp
+Gold
+3,953.1
++34.0 (+0.87%)
+Index
+₮3,950.9
+Mark price
+3,953.0
+Funding rate (8h) / Countdown
+0.004% / 5h 52m 18s
+24h low
+₮3,900.2
+24h high
+₮3,977.5
+Open interest (USDT)
+224.58M
+24h volume (XAU)
+87.66K
+24h turnover (USDT)
+346.55M
+Analyst: If the U.S. Congress deadlocks, gold may gain new upward momentum
+Jin10 Weekly Report: Gold Price Downward Target Points to 3760 to 3700 USD
+Selected trading pair
+XAUUSDT
+Perp
+Gold
+3,953.1
++34.0 (+0.87%)
+1s
+1m
+5m
+15m
+1h
+4h
+1D
+Indicators
+Display
+Advanced
+Last price
+Original
+TradingView
+Depth
+Market cap
+11/03/2026, 07:00O3,957.0H3,972.5L3,952.2C3,953.1Change-4.0 (-0.10%)Range0.51%
+Loading
+MA(5)3,920.5MA(10)3,977.5MA(20)4,044.4
+Loading
+	
+%
+L
+
+
+VOLUMEVOL(XAU)7.266KVOL(USDT)28.785M
+Loading
+	
+
+
+	
+0.1
+Price (USDT)
+Amount (XAU)
+Total (XAU)
+3,953.1
+3,953.0
+B
+45.43%
+54.57%
+S
+Log in or Sign up
+Open
+Close
+Isolated
+--
+--
+Limit
+Market
+TP/SL
+Price (USDT)
+Price
+BBO
+Amount (XAU)
+Amount
+0%
+25%
+50%
+75%
+100%
+0%
+Available
+-- USDT
+Max long
+-- XAU
+Max short
+-- XAU
+TP/SL
+Log in/Sign up
+Cost
+--
+Cost
+--
+Max price 
+₮3,973.0
+Min price 
+₮3,933.4
+Calculator
+Fees
+Position builder
+Log in or Sign up
+1
+2
+Favorites
+BTC/USDT ETH/USDT OKB/USDT SOL/USDT DOGE/USDT XRP/USDT XAUT/USDT HYPE/USDT 
+Add to Favorites
+View D1 sai: ĐÓNG trên 4.088
+Chờ SHORT 3.980–4.010 · cần H1 xác nhận
+TP gần 3.880–3.900 · đáy D1 3.880,6
+CHÚ THÍCH CỦA BOT · OKX XAUUSDT D1
+GIỮ GIẢM · H4 đang kẹp EMA34, chờ giá
+Fibo hồi 0,5–0,618: 3.984,3–4.008,8
+Hội tụ đáy cũ 3.980 + EMA89 H4 4.009,7
+Trendline phụ: đỉnh D1 12/10 → 28/10
+Nến cuối 03/11 ĐANG CHẠY · bỏ khi xác nhận
+Nhận định dùng nến đóng tới 03/11/2026 07:00 VN
